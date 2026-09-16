@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/039.md",
-  "source_sha256": "20d55d574ab3e98d3c6e669ce70f61622313a41f6a29f339a1504241da555829",
+  "source_sha256": "117902dee75d6c2955593c7a9364d2a2e0248db76c3455be41bb9552f2fbdfe9",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "39:0.0",
       "pageReference": null,
       "sortId": "2.039.000.000",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "39:0.0",
       "pageReference": null,
       "sortId": "2.039.000.000",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "39:0.1",
       "pageReference": "426.1",
       "sortId": "2.039.000.001",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "POR lo que sabemos, el Espíritu Infinito, tal como se personaliza en la sede del universo local, tiene la intención de producir serafines uniformemente perfectos, pero por algún motivo desconocido estos vástagos seráficos son muy diversos. Esta diversidad puede ser el resultado de una interposición desconocida de la Deidad experiencial en evolución; si es así, no podemos probarlo. Pero sí observamos que, cuando los serafines se han sometido a las pruebas de instrucción y a la disciplina de capacitación, se clasifican indefectible y claramente en los siguientes siete grupos:"
+      "markdown": "HASTA DONDE alcanza nuestro conocimiento, el Espíritu Infinito, tal como está personalizado en la sede de un universo local, tiene la intención de engendrar serafines uniformemente perfectas, pero por alguna razón desconocida estas descendientes seráficas son muy diversas. Esta diversidad puede ser el resultado de una interposición desconocida de la Deidad experiencial en evolución. Si es así, no podemos probarlo. Lo que sí observamos es que, tras haber superado las pruebas educativas y el periodo de disciplina formativa, las serafines se clasifican clara e indefectiblemente en los siete grupos siguientes:"
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "39:0.2",
       "pageReference": "426.2",
       "sortId": "2.039.000.002",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "1. Serafines Supremos."
+      "markdown": "1. Serafines supremas."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "39:0.3",
       "pageReference": "426.3",
       "sortId": "2.039.000.003",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "2. Serafines Superiores."
+      "markdown": "2. Serafines superiores."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "39:0.4",
       "pageReference": "426.4",
       "sortId": "2.039.000.004",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "3. Serafines Supervisores."
+      "markdown": "3. Serafines supervisoras."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "39:0.5",
       "pageReference": "426.5",
       "sortId": "2.039.000.005",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "4. Serafines Administradores."
+      "markdown": "4. Serafines administradoras."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "39:0.6",
       "pageReference": "426.6",
       "sortId": "2.039.000.006",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "5. Ayudantes Planetarios."
+      "markdown": "5. Ayudantes planetarias."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "39:0.7",
       "pageReference": "426.7",
       "sortId": "2.039.000.007",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "6. Ministros de Transición."
+      "markdown": "6. Ministras de la transición."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "39:0.8",
       "pageReference": "426.8",
       "sortId": "2.039.000.008",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "7. Serafines del Futuro."
+      "markdown": "7. Serafines del futuro."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "39:0.9",
       "pageReference": "426.9",
       "sortId": "2.039.000.009",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "Decir que un serafín específico es inferior a un ángel de otro grupo no sería verdad. Sin embargo, cada ángel está al principio limitado en su servicio al grupo de su clasificación original e inherente. Mi asociado seráfico para la preparación de esta declaración, Manotia, es un serafín supremo y anteriormente actuaba sólo como serafín supremo. Por su aplicación y dedicación al servicio, ha alcanzado uno a uno los siete servicios seráficos, habiendo actuado prácticamente en todas las avenidas de servicio abiertas a un serafín, y actualmente está comisionado como jefe asociado de serafines en Urantia."
+      "markdown": "No sería exacto afirmar que una serafín determinada es inferior a cualquier ángel de otro grupo. Sin embargo, todas las ángeles están limitadas a servir inicialmente en el grupo de su clasificación original e inherente. Manotia, mi asociada seráfica en la preparación de esta exposición, es una serafín suprema y en algún momento solo ejerció funciones de serafín suprema, pero gracias a su diligencia y dedicación ha alcanzado uno a uno los siete niveles de servicio seráfico. Ha trabajado en casi todas las vías de actividad abiertas a una serafín y ahora ocupa el cargo de jefa asociada de las serafines en Urantia."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "39:0.10",
       "pageReference": "426.10",
       "sortId": "2.039.000.010",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "A veces les resulta difícil a los seres humanos comprender que una capacidad creada para servicio de alto nivel no implica necesariamente la habilidad para actuar en niveles de servicio relativamente más bajos. El hombre empieza la vida como un infante desamparado; por lo tanto, todo logro mortal debe comprender todos los requisitos experienciales; los serafines no tienen una vida pre-adulta: no tienen infancia. Sin embargo, son criaturas experienciales, y por la experiencia y mediante la instrucción adicional pueden aumentar sus dotes divinas e inherentes de capacidad mediante la adquisición experiencial de la pericia funcional en uno o más servicios seráficos."
+      "markdown": "A los seres humanos les cuesta a veces comprender que una capacidad creada para ministrar en un nivel superior no implica necesariamente aptitud para actuar en niveles de servicio relativamente más bajos. El hombre empieza su vida como niño indefenso, y por eso cada logro mortal contiene todas las condiciones experienciales anteriores. Las serafines no tienen esa vida preadulta, no tienen infancia. Sin embargo, son criaturas experienciales y pueden aumentar su dotación inherente y divina de aptitudes por experiencia y mediante una educación adicional, y adquirir así experiencialmente competencia funcional en uno o más de los cometidos seráficos."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "39:0.11",
       "pageReference": "426.11",
       "sortId": "2.039.000.011",
-      "paperTitle": "Las Huestes Seráficas",
+      "paperTitle": "Las huestes seráficas",
       "sectionTitle": null,
-      "markdown": "Una vez que son comisionados, los serafines son asignados a las reservas de su grupo inherente. Aquellos de estado planetario y de administración frecuentemente sirven durante largos períodos, según su clasificación original, pero cuanto más alto es el nivel inherente de función, más persistentemente buscan los ministros angélicos la asignación a las órdenes más bajas del servicio universal. Desean particularmente asignación a las reservas de los ayudantes planetarios, y si lo consiguen, se incorporan en las escuelas celestiales de la sede del Príncipe Planetario de algún mundo evolucionario. Aquí comienzan el estudio de los idiomas, la historia, y las costumbres locales establecidas de las razas de la humanidad. Los serafines deben adquirir el conocimiento y obtener experiencia así como lo hacen los seres humanos. No están muy alejados de vosotros en ciertos atributos de personalidad. Todos ellos anhelan comenzar desde abajo en el nivel más bajo posible de ministerio; de esa manera pueden esperar alcanzar el nivel más alto posible de destino experiencial."
+      "markdown": "Después de ser comisionadas, las serafines son destinadas a las reservas de su propio grupo. Las que tienen estatus planetario y administrador sirven a menudo durante largos periodos según su clasificación original, pero cuanto más alto es el nivel de función inherente de las ministradoras angélicas, con más empeño buscan ser asignadas a los órdenes más bajos de servicio en el universo. Desean especialmente ser asignadas a las reservas de las ayudantes planetarias, y si lo consiguen, se inscriben en las escuelas celestiales adscritas a la sede del Príncipe Planetario de algún mundo evolutivo. Allí empiezan a estudiar los idiomas, la historia y los hábitos locales de las razas de la humanidad. Las serafines deben adquirir conocimiento y ganar experiencia de forma muy parecida a como lo hacen los seres humanos. No están muy lejos de vosotros en ciertos atributos de la personalidad. Y todas ellas anhelan empezar desde abajo, en el nivel de ministerio más humilde; así pueden esperar alcanzar el nivel más alto posible de destino experiencial."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "39:1.0",
       "pageReference": null,
       "sortId": "2.039.001.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "39:1.1",
       "pageReference": "427.1",
       "sortId": "2.039.001.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Estos serafines son la más alta de las siete órdenes reveladas de los ángeles del universo local. Funcionan en siete grupos, cada uno de los cuales está estrechamente relacionado con los ministros angelicales del Cuerpo Seráfico de Consumación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Estas serafines son el más alto de los siete órdenes revelados de ángeles del universo local. Desempeñan su actividad en siete grupos, cada uno de los cuales está estrechamente vinculado a las ministradoras angélicas del Cuerpo de la Compleción Seráfica."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "39:1.2",
       "pageReference": "427.2",
       "sortId": "2.039.001.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "1. *Ministros Hijo-Espíritu.* El primer grupo de serafines supremos está asignado al servicio de los altos Hijos y los altos seres oriundos del Espíritu, residentes y actuantes en el universo local. Este grupo de ministros angelicales también sirve al Hijo del Universo y al Espíritu del Universo y se encuentra estrechamente afiliado con el cuerpo de vigilancia de la Brillante Estrella Matutina, el jefe ejecutivo universal de las voluntades unidas del Hijo Creador y el Espíritu Creativo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "1. *Las ministras de Hijo-Espíritu*. El primer grupo de serafines supremas está asignado al servicio de los altos Hijos y de los seres con origen en el Espíritu que residen y actúan en el universo local. Este grupo de ministradoras angélicas sirve también al Hijo del Universo y al Espíritu del Universo y está estrechamente afiliado al cuerpo de información de la Radiante Estrella Matutina, el jefe ejecutivo para el universo de las voluntades unidas del Hijo Creador y el Espíritu Creativo."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "39:1.3",
       "pageReference": "427.3",
       "sortId": "2.039.001.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Siendo asignados a los altos Hijos y Espíritus, estos serafines se encuentran naturalmente asociados con los extensos servicios de los Avonales del Paraíso, los vástagos divinos del Hijo Eterno y el Espíritu Infinito. Los Avonales del Paraíso son siempre asistidos en todas sus misiones de magistrado y de autootorgamiento por esta elevada y experta orden de serafines, quienes en tales ocasiones se dedican a organizar y administrar la tarea especial relacionada con la terminación de una dispensación planetaria y la inauguración de una nueva edad. Pero no participan del trabajo de adjudicación que puede ser incidental a tales cambios en las dispensaciones."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Al estar asignadas a los altos Hijos y Espíritus, estas serafines están vinculadas naturalmente a los extensos servicios de los Avonales del Paraíso, la descendencia divina del Hijo Eterno y el Espíritu Infinito. En todas sus misiones de magistrado y de otorgamiento, los Avonales del Paraíso están siempre asistidos por este alto y experimentado orden de serafines, que se dedican en tales ocasiones a organizar y administrar el trabajo especial relacionado con la terminación de una dispensación planetaria y la inauguración de una nueva edad. Sin embargo, la tarea de juzgar que podrían conllevar estos cambios de dispensación no les incumbe."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "39:1.4",
       "pageReference": "427.4",
       "sortId": "2.039.001.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "*Auxiliares de Autootorgamiento.* Cuando los Avonales del Paraíso, pero no los Hijos Creadores, se encuentran en una misión de autootorgamiento están acompañados siempre por un cuerpo de 144 auxiliares de autootorgamiento. Estos 144 ángeles son los jefes de todos los demás ministros de Hijos-Espíritus que puedan estar asociados con una misión de autootorgamiento. Es posible que haya legiones de ángeles bajo el mando de un Hijo de Dios encarnado en un autootorgamiento planetario, pero todos estos serafines estarán organizados y dirigidos por los 144 auxiliares de autootorgamiento. Las órdenes más elevadas de ángeles, los supernafines y los seconafines, también pueden formar parte de las huestes auxiliares, y aunque sus misiones sean distintas de las de los serafines, todas estas actividades son coordinadas por los auxiliares de encarnación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "*Las acompañantes de otorgamientos*. Cuando los Avonales del Paraíso, pero no los Hijos Creadores, están en una misión de otorgamiento, siempre llevan con ellos a un cuerpo de 144 acompañantes de otorgamientos. Estas 144 ángeles son las jefas de todas las demás ministras de Hijo-Espíritu que pudieran estar asociadas a una misión de otorgamiento. Podría haber legiones de ángeles bajo el mando de un Hijo de Dios encarnado en un otorgamiento planetario, pero todas esas serafines estarían organizadas y dirigidas por las 144 acompañantes de otorgamientos. Otros órdenes más altos de ángeles, las supernafines y las seconafines, también podrían formar parte de la hueste de acompañamiento, y aunque sus misiones sean distintas de las de las serafines, todas estas actividades estarían coordinadas por las acompañantes de otorgamientos."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "39:1.5",
       "pageReference": "427.5",
       "sortId": "2.039.001.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Estos auxiliares de encarnación son serafines de consumación; todos ellos han atravesado los círculos de Serafington y han alcanzado el Cuerpo Seráfico de Consumación. Además se han capacitado especialmente para enfrentarse con las dificultades y manejar las urgencias asociadas con los autootorgamientos de los Hijos de Dios para el avance de los hijos del tiempo. Todos estos serafines han alcanzado el Paraíso y el abrazo personal de la Segunda Fuente y Centro, el Hijo Eterno."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Estas acompañantes de otorgamientos son serafines de la compleción; todas ellas han atravesado los círculos de Serafington y han logrado llegar al Cuerpo de la Compleción Seráfica. Y además, han sido capacitadas especialmente para enfrentarse a las dificultades y abordar las emergencias asociadas a los otorgamientos de los Hijos de Dios para el avance de los hijos del tiempo. Todas estas serafines han logrado el Paraíso y el abrazo personal de la Segunda Fuente y Centro, el Hijo Eterno"
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "39:1.6",
       "pageReference": "427.6",
       "sortId": "2.039.001.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Los serafines anhelan igualmente la asignación a misiones de los Hijos encarnados y el encargo de guardianes de destino para los mortales de los reinos; este último encargo es el pasaporte seráfico más seguro para el Paraíso, mientras que los auxiliares de autootorgamiento han alcanzado el servicio más elevado en el universo local de los serafines de consumación destinados a llegar al Paraíso."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Las serafines anhelan igualmente ser destinadas a las misiones de los Hijos encarnados y adscritas como guardianas del destino de los mortales de los mundos. Este último es el pasaporte seráfico más seguro para el Paraíso, mientras que las acompañantes de otorgamientos son las que han conseguido el servicio más alto en el universo local de entre todas las serafines de la compleción que han alcanzado ya el Paraíso."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "39:1.7",
       "pageReference": "428.1",
       "sortId": "2.039.001.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "2. *Asesores de los Tribunales.* Estos son los asesores y auxiliares seráficos asignados a todas las órdenes de adjudicación, desde los conciliadores hasta los tribunales más altos del reino. No es el propósito de dichos tribunales determinar sentencias punitivas sino más bien adjudicar diferencias honestas de opinión y decretar la sobrevivencia eterna de los mortales ascendentes. He aquí el deber de los asesores de los tribunales: asegurarse de que todos los cargos contra las criaturas mortales se consideren con justicia y se adjudiquen con misericordia. En esta tarea están estrechamente asociados con los Altos Comisionados, mortales ascendentes fusionados con el Espíritu que sirven en el universo local."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "2. *Las asesoras de las cortes*. Son las asesoras y ayudantes seráficas adscritas a todos los órdenes de seres con capacidad de sentencia, desde los conciliadores hasta los más altos tribunales del dominio. El propósito de dichos tribunales no es emitir sentencias punitivas sino más bien fallar en las diferencias sinceras de opinión y decretar la eterna supervivencia de los mortales ascendentes. El deber de las asesoras de las cortes consiste en velar por que todos los cargos contra las criaturas mortales se planteen con justicia y se fallen con misericordia. En este trabajo están estrechamente vinculadas a los Altos Comisionados, mortales ascendentes fusionados con el Espíritu que sirven en el universo local."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "39:1.8",
       "pageReference": "428.2",
       "sortId": "2.039.001.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Los asesores seráficos de los tribunales sirven ampliamente como defensores de los mortales. No es que exista jamás tendencia alguna a ser injustos respecto de las criaturas bajas de los reinos, pero aunque la justicia exige la adjudicación de todas las faltas en la ascensión hacia la perfección divina, la misericordia requiere que cada uno de estos desaciertos sea adjudicado con equidad de acuerdo con la naturaleza de la criatura y con el propósito divino. Estos ángeles son los exponentes y ejemplos del elemento de misericordia inherente a la justicia divina —de la rectitud basada en el conocimiento de los hechos subyacentes de motivaciones personales y tendencias raciales."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Las asesoras seráficas de las cortes trabajan asiduamente como defensoras de los mortales. No es que exista ninguna tendencia a tratar injustamente a las criaturas humildes de los mundos, pero mientras que la justicia exige que sean juzgadas todas las faltas en el ascenso hacia la perfección divina, la misericordia requiere que cada uno de esos pasos erróneos sea juzgado equitativamente conforme a la naturaleza de la criatura y al propósito divino. Estas ángeles son ejemplo y exponente del elemento de misericordia inherente a la justicia divina: de la equidad basada en el conocimiento de las motivaciones personales y tendencias raciales subyacentes."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "39:1.9",
       "pageReference": "428.3",
       "sortId": "2.039.001.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Esta orden de ángeles sirve desde los concilios de los Príncipes Planetarios hasta los más elevados tribunales del universo local, mientras que sus asociados del Cuerpo Seráfico de Consumación funcionan en los reinos más elevados de Orvonton, aun hasta los tribunales de los Ancianos de los Días de Uversa."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Las ángeles de este orden asesoran desde los consejos de los Príncipes Planetarios hasta los más altos tribunales del universo local, mientras que sus colegas del Cuerpo de la Compleción Seráfica ejercen su función en los dominios más altos de Orvonton e incluso en las cortes de los Ancianos de los Días de Uversa."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "39:1.10",
       "pageReference": "428.4",
       "sortId": "2.039.001.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "3. *Orientadores Universales.* Éstos son los amigos auténticos y consejeros postgraduados de todas aquellas criaturas ascendentes que se detienen por última vez en Salvington, en su universo de origen, hallándose en el umbral de la aventura espiritual que se extiende ante ellos en el vasto superuniverso de Orvonton. En tales momentos muchos de los ascendentes tienen la sensación de que los mortales podrían comprender tan sólo por comparación con la emoción de la nostalgia. A sus espaldas yacen los reinos del logro, los reinos que se han vuelto familiares a través de prolongado servicio y logro morontial; frente a ellos yace el misterio desafiante de un universo más grande y más vasto."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "3. *Las orientadoras del universo*. Son las fieles amigas y consejeras de todas las criaturas ascendentes ya graduadas que se detienen por última vez en Salvington, su universo de origen, cuando están a punto de emprender la aventura como espíritus que les espera en el vasto superuniverso de Orvonton. En ese momento, muchos de los ascendentes tienen un sentimiento que los mortales solo pueden comprender comparándolo con la emoción humana de la nostalgia. Atrás quedan los dominios que consiguieron alcanzar, los mundos que se hicieron familiares tras un largo servicio y el logro en la morontia. Ante ellos se extiende el misterio desafiante de un universo más grande en toda su inmensidad."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "39:1.11",
       "pageReference": "428.5",
       "sortId": "2.039.001.011",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Es la tarea de los orientadores universales facilitar el pasaje de los peregrinos ascendentes, desde los niveles logrados hasta los niveles no logrados de servicio universal, ayudar a estos peregrinos para que hagan esos ajustes calidoscópicos en la comprensión de los significados y valores inherentes a la comprensión de que un espíritu de primera etapa se encuentra, no al final y en la cúspide de la ascensión morontial en el universo local, sino más bien al pie de la larga escalera de ascensión espiritual al Padre Universal en el Paraíso."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "La labor de las orientadoras del universo consiste en facilitar el paso de los peregrinos ascendentes de los niveles alcanzados a los no alcanzados de servicio en el universo. Ayudan a estos peregrinos a efectuar, en su comprensión de los significados y los valores, los ajustes caleidoscópicos que conlleva el descubrimiento de que un espíritu de primera etapa se encuentra, no en el punto final y culminante del ascenso en la morontia del universo local, sino más bien en el punto más bajo de la larga escala de ascenso espiritual hacia el Padre Universal del Paraíso."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "39:1.12",
       "pageReference": "428.6",
       "sortId": "2.039.001.012",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Muchos graduados de Serafington, miembros del Cuerpo Seráfico de Consumación que están asociados con estos serafines, se ocupan intensamente de la enseñanza en ciertas escuelas de Salvington relacionadas con la preparación de las criaturas de Nebadon para las relaciones de la próxima edad universal."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Muchas de las graduadas de Serafington, miembros del Cuerpo de la Compleción Seráfica y vinculadas a estas serafines, se dedican a una enseñanza exhaustiva en ciertas escuelas de Salvington encargadas de preparar a las criaturas de Nebadon para las relaciones de la siguiente edad del universo."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "39:1.13",
       "pageReference": "428.7",
       "sortId": "2.039.001.013",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "4. *Consejeros de Enseñanza.* Estos ángeles son los asistentes invaluables del cuerpo de enseñanza espiritual del universo local. Los consejeros de enseñanza son secretarios de todas las órdenes de instructores, desde los Melquisedek y los Hijos Instructores Trinitarios hasta los mortales morontiales asignados como ayudantes de aquellos de su especie que se hallan apenas detrás de ellos en la escala de la vida ascendente. Vosotros primero *veréis* a estos serafines asociados de enseñanza en alguno de los siete mundos de estancia que rodean Jerusem."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "4. *Las consejeras de enseñanza*. Estas ángeles prestan su inestimable asistencia al cuerpo de enseñanza espiritual del universo local. Las consejeras de enseñanza son las secretarias de los maestros de todos los órdenes, desde los Melquisedec y los Maestros Hijos de la Trinidad hasta los mortales de la morontia encargados de ayudar a sus compañeros de especie que se encuentran justo detrás en la escala de la vida ascendente. *Veréis* por primera vez a estas serafines de enseñanza adjuntas en alguno de los siete mundos mansión que rodean Jerusem."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "39:1.14",
       "pageReference": "428.8",
       "sortId": "2.039.001.014",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "Estos serafines se vuelven asociados de los jefes de división de las numerosas instituciones de instrucción y capacitación de los universos locales, y están agregados en grandes números al cuerpo docente de los siete mundos de capacitación de los sistemas locales y de las setenta esferas educacionales de las constelaciones. Estas ministraciones se extienden hacia abajo hacia los mundos individuales. Aun los maestros verdaderos y dedicados del tiempo son asistidos, y frecuentemente auxiliados, por estos consejeros de los serafines supremos."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "Estas serafines se convierten en adjuntas de los jefes de división de las numerosas instituciones educativas y formativas de los universos locales, y están destinadas en gran número a los cuerpos docentes de los siete mundos de formación de los sistemas locales y de las setenta esferas educativas de las constelaciones. Sus ministraciones descienden hasta los mundos individuales. Incluso los fieles y dedicados maestros del tiempo son asistidos y atendidos con frecuencia por estas consejeras de las serafines supremas."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "39:1.15",
       "pageReference": "429.1",
       "sortId": "2.039.001.015",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "El cuarto autootorgamiento del Hijo Creador en forma de una criatura fue a semejanza de un consejero de enseñanza de los serafines supremos de Nebadon."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "El cuarto otorgamiento como criatura del Hijo Creador se produjo bajo la semejanza de una consejera de enseñanza de las serafines supremas de Nebadon."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "39:1.16",
       "pageReference": "429.2",
       "sortId": "2.039.001.016",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "5. *Directores de Asignación.* De vez en cuando los ángeles que sirven en las esferas evolucionarias y arquitectónicas habitadas por las criaturas, eligen un cuerpo de 144 serafines supremos. Éste es el concilio angélico más elevado de todas las esferas, y coordina las fases autodirigidas de servicio y asignación seráficos. Estos ángeles presiden todas las asambleas seráficas que se refieren a la línea de deber o al llamado a la adoración."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "5. *Las directoras de asignación*. Las ángeles que sirven en las esferas evolutivas y arquitectónicas habitadas por criaturas eligen cada cierto tiempo un cuerpo de 144 serafines supremas. Es el consejo angélico más alto de cualquier esfera, y coordina los aspectos autodirigidos de los servicios y destinos seráficos. Estas ángeles presiden todas las asambleas seráficas relacionadas con la línea del deber o el llamamiento a la adoración."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "39:1.17",
       "pageReference": "429.3",
       "sortId": "2.039.001.017",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "6. *Los Registradores.* Estos son los registradores oficiales de los serafines supremos. Muchos de estos altos ángeles nacieron con talentos plenamente desarrollados, otros han calificado para su posición de confianza y responsabilidad mediante la aplicación diligente al estudio y la realización fiel de deberes similares al pertenecer a órdenes más bajas o menos responsables."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "6. *Las registradoras*. Son las registradoras oficiales de las serafines supremas. Muchas de estas ángeles excelsas nacieron con sus talentos plenamente desarrollados; otras se han cualificado para sus puestos de confianza y responsabilidad por su diligente aplicación al estudio y su fiel cumplimiento de deberes similares en niveles más bajos o de menor responsabilidad."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "39:1.18",
       "pageReference": "429.4",
       "sortId": "2.039.001.018",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supremos",
-      "markdown": "7. *Ministros sin Cartera.* Grandes números de serafines sin cartera de la orden suprema son servidores autodirigidos en las esferas arquitectónicas y en los planetas habitados. Estos ministros satisfacen voluntariamente el indice diferencial de demanda de servicio de los serafines supremos, constituyendo de este modo la reserva general de esta orden."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supremas",
+      "markdown": "7. *Las ministras no adscritas*. Existe un gran número de serafines no adscritas del orden supremo que sirven de forma autodirigida en las esferas arquitectónicas y en los planetas habitados. Estas ministradoras satisfacen voluntariamente las diferencias de demanda para el servicio de las serafines supremas y constituyen así la reserva general de este orden."
     },
     {
       "type": "section",
@@ -595,8 +595,8 @@
       "standardReferenceId": "39:2.0",
       "pageReference": null,
       "sortId": "2.039.002.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
       "markdown": null
     },
     {
@@ -613,9 +613,9 @@
       "standardReferenceId": "39:2.1",
       "pageReference": "429.5",
       "sortId": "2.039.002.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Los serafines superiores reciben su nombre, no porque sean en sentido alguno cualitativamente superiores a las demás órdenes de ángeles, sino porque están a cargo de las actividades más altas de un universo local. Muchos de los primeros dos grupos de este cuerpo seráfico son serafines por promoción, ángeles que han servido en todas las fases de capacitación y han regresado a una asignación glorificada como directores de su género en las esferas de sus actividades anteriores. Puesto que Nebadon es un universo joven, no tiene muchos miembros de esta orden."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Las serafines superiores se llaman así, no porque sean cualitativamente superiores a otros órdenes de ángeles en ningún sentido, sino porque están a cargo de las actividades más altas de un universo local. Muchas de las componentes de los dos primeros grupos de este cuerpo seráfico son serafines de logro, ángeles que, después de haber servido en todas las fases de formación, han vuelto a un destino glorificado como directoras de los seres de su clase en las esferas de sus actividades anteriores. Al ser un universo joven, Nebadon no tiene muchas representantes de este orden."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "39:2.2",
       "pageReference": "429.6",
       "sortId": "2.039.002.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Los serafines superiores funcionan en los siguientes siete grupos:"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Las serafines superiores ejercen su actividad en los siete grupos siguientes:"
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "39:2.3",
       "pageReference": "429.7",
       "sortId": "2.039.002.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "1. *El Cuerpo de Información.* Estos serafines pertenecen al séquito personal de Gabriel, la Brillante Estrella Matutina, deambulan por el universo local reuniendo información de los reinos para su guía en los concilios de Nebadon. Son el cuerpo de información de las huestes poderosas sobre las que preside Gabriel como vicerregente del Hijo Mayor. Estos serafines no están directamente afiliados con los sistemas ni con las constelaciones, y su información fluye directamente a Salvington a través de un circuito continuo, directo e independiente."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "1. *El cuerpo de información*. Estas serafines pertenecen al equipo personal de Gabriel, la Radiante Estrella Matutina. Recorren el universo local reuniendo la información de los mundos como guía para Gabriel en los consejos de Nebadon. Son el cuerpo de información de las poderosas huestes que Gabriel tiene a su mando como representante del Hijo Maestro. Estas serafines no están afiliadas de modo directo ni a los sistemas ni a las constelaciones, y su información afluye directamente a Salvington por un circuito continuo, directo e independiente."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "39:2.4",
       "pageReference": "429.8",
       "sortId": "2.039.002.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Los cuerpos de información de los distintos universos locales pueden intercomunicarse, y lo hacen, pero sólo dentro de un superuniverso determinado. Existe un diferencial de energía que segrega en forma eficaz los negocios y transacciones de los distintos supergobiernos. Un superuniverso puede comúnmente comunicarse con otro superuniverso tan sólo a través de disposiciones e instalaciones del centro distribuidor del Paraíso."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Los cuerpos de información de los varios universos locales pueden comunicarse entre sí, y de hecho lo hacen, pero solo dentro de un superuniverso dado. Existe un diferencial de energía que segrega efectivamente los asuntos y operaciones de los distintos supergobiernos. Por regla general, un superuniverso solo puede comunicarse con otro superuniverso a través de los recursos y las instalaciones del centro de intercambio de información del Paraíso."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "39:2.5",
       "pageReference": "430.1",
       "sortId": "2.039.002.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "2. *La Voz de la Misericordia.* La misericordia es la clave del servicio seráfico y del ministerio angélico. Por lo tanto es apropiado que exista un cuerpo de ángeles que, de forma especial, ilustre la misericordia. Estos serafines son los verdaderos ministros de misericordia de los universos locales. Son los líderes inspirados que fomentan los impulsos más elevados y las emociones más santas de los hombres y los ángeles. Los directores de estas legiones presentemente son siempre serafines de consumación que son también guardianes de los graduados del destino mortal; o sea, que cada par angélico ha guiado por lo menos un alma de origen animal durante la vida en la carne y posteriormente ha atravesado los círculos de Serafington y ha sido incorporado al Cuerpo Seráfico de Consumación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "2. *La voz de la misericordia*. La misericordia es la tónica del servicio seráfico y del ministerio angélico. Por ello es muy apropiado que exista un cuerpo de ángeles que represente de un modo especial la misericordia. Estas serafines son las verdaderas ministradoras de la misericordia en los universos locales. Son las líderes inspiradas que fomentan los impulsos más altos y las emociones más santas de hombres y ángeles. En el presente las directoras de estas legiones son todas serafines de la compleción, que son también guardianas graduadas del destino mortal. Eso significa que cada par angélico ha guiado al menos a un alma de origen animal durante su vida en la carne, ha atravesado después los círculos de Serafington y ha sido incorporado al Cuerpo de la Compleción Seráfica."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "39:2.6",
       "pageReference": "430.2",
       "sortId": "2.039.002.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "3. *Coordinadores Espirituales.* La sede del tercer grupo de los serafines superiores está en Salvington, pero funciona en el universo local dondequiera que pueda servir en forma beneficiosa. Aunque sus tareas son esencialmente espirituales y por lo tanto más allá de la comprensión verdadera de la mente humana, tal vez podáis comprender en parte su ministerio a los mortales, si se explica que estos ángeles tienen el encargo de preparar a los habitantes temporales ascendentes de Salvington para su transición última en el universo local: desde el nivel morontial más alto hasta el estado de los seres espirituales nuevamente nacidos. Así como los planificadores de la mente en los mundos de estancia ayudan a la criatura sobreviviente a que se ajuste y utilice eficazmente los potenciales de la mente morontial, del mismo modo estos sera-fines instruyen a los graduados morontiales en Salvington respecto de la capacidad recién adquirida de la mente espiritual. También sirven a los mortales ascendentes de muchas otras maneras."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "3. *Las coordinadoras del espíritu*. El tercer grupo de serafines superiores tiene su base en Salvington, pero actúa en cualquier lugar del universo local donde su servicio pueda dar fruto. Aunque sus tareas son esencialmente espirituales y sobrepasan por ello la comprensión real de las mentes humanas, quizás podáis captar algo de su ministerio a los mortales si os explicamos que se ha confiado a estas ángeles la tarea de preparar a los ascendentes residentes en Salvington para su última transición en el universo local, desde el nivel más alto de la morontia hasta el estatus de seres de espíritu recién nacidos. Igual que los planificadores de la mente de los mundos mansión ayudan a la criatura superviviente a ajustarse a los potenciales de la mente de la morontia y a utilizarlos con eficacia, estas serafines instruyen en Salvington a los graduados de la morontia sobre las capacidades recién adquiridas de la mente del espíritu. Y sirven a los mortales ascendentes de muchas otras maneras."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "39:2.7",
       "pageReference": "430.3",
       "sortId": "2.039.002.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "4. *Maestros Asistentes.* Los maestros asistentes son ayudantes y asociados de sus serafines semejantes, los consejeros de enseñanza. También están relacionados individualmente con las amplias empresas de instrucción del universo local, especialmente con el esquema séptuplo de capacitación operativa en los mundos de estancia de los sistemas locales. Un cuerpo maravilloso de esta orden de serafines funciona en Urantia con el propósito de fomentar y adelantar la causa de la verdad y de la rectitud."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "4. *Las maestras asistentes*. Son las ayudantes y adjuntas de sus compañeras serafines, las consejeras de enseñanza. También están relacionadas individualmente con las amplias iniciativas educativas del universo local, especialmente con el programa séptuplo de formación que está en vigor en los mundos mansión de los sistemas locales. Un maravilloso cuerpo de este orden de serafines actúa en Urantia con el propósito de promover y fomentar la causa de la verdad y la rectitud."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "39:2.8",
       "pageReference": "430.4",
       "sortId": "2.039.002.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "5. *Los Transportadores.* Todos los grupos de espíritus ministrantes poseen sus cuerpos de transporte, órdenes angélicas dedicadas al ministerio de transportar a aquellas personalidades que no pueden por sí mismas viajar de una esfera a la otra. El quinto grupo de los serafines superiores tiene su sede en Salvington y sirve a los viajeros del espacio desde la sede del universo local y hacia la misma. Como otras subdivisiones de los serafines superiores, algunos fueron creados como tales mientras que otros han alcanzado este nivel a partir de grupos más bajos o menos dotados."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "5. *Las transportadoras*. Todos los grupos de espíritus ministrantes tienen su cuerpo de transporte, órdenes angélicos dedicados al ministerio de transportar a aquellas personalidades que no pueden viajar de una esfera a otra por sí mismas. El quinto grupo de las serafines superiores tiene su sede en Salvington y presta sus servicios atravesando el espacio desde y hacia la sede del universo local. Como en otras subdivisiones de las serafines superiores, algunas fueron creadas como tales mientras que otras han ascendido desde grupos más bajos o menos dotados."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "39:2.9",
       "pageReference": "430.5",
       "sortId": "2.039.002.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "La «gama de energía» de los serafines es totalmente adecuada para el universo local y aun para los requisitos del superuniverso, pero no podrían soportar jamás las demandas de energía correspondientes a un viaje tan distante como es el de Uversa a Havona. Este viaje tan exhaustivo requiere las energías especiales de un seconafín primario de dotes de transporte. Los transportadores cargan energía para el vuelo mientras están en tránsito y recuperan su fuerza personal al fin del viaje."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "El «alcance de energía» de las serafines es ampliamente suficiente para los requisitos del universo local e incluso del superuniverso, pero no podrían satisfacer nunca las demandas de energía que conlleva un viaje tan largo como el de Uversa a Havona. Un viaje tan exhaustivo requiere los poderes especiales de una seconafín primaria dotada para el transporte. Las transportadoras recargan energía para el vuelo mientras están en tránsito y recuperan su fuerza personal al final del viaje."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "39:2.10",
       "pageReference": "430.6",
       "sortId": "2.039.002.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Aun en Salvington los mortales ascendentes no poseen formas personales de tránsito. Los que ascienden deben depender del transporte seráfico al avanzar de un mundo a otro hasta después del último reposo de sueño en el círculo interior de Havona y el despertar eterno en el Paraíso. Posteriormente, ya no dependeréis de los ángeles para trasladaros de universo a universo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Ni siquiera en Salvington poseen los mortales ascendentes formas personales de tránsito. Los ascendentes dependen del transporte seráfico para avanzar de mundo en mundo hasta después del último descanso del sueño en el círculo interior de Havona y el despertar eterno en el Paraíso. Después ya no dependeréis de las ángeles para transportaros de un universo a otro."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "39:2.11",
       "pageReference": "430.7",
       "sortId": "2.039.002.011",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "El proceso de transporte con serafín no es muy diferente de la experiencia de la muerte o del sueño excepto que existe un elemento temporal automático en el ensueño del tránsito. Estás conscientemente inconsciente durante el descanso seráfico. Pero el Ajustador del Pensamiento está plena y totalmente consciente, de hecho, excepcionalmente eficiente puesto que eres incapaz de oponer, resistir o de manera alguna impedir su tarea creadora y transformadora."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "El proceso de estar enserafinado es parecido a la experiencia de la muerte o del sueño, con la diferencia de que hay un elemento automático de tiempo en el adormecimiento del tránsito. Durante el descanso seráfico estáis conscientemente inconscientes, pero el Ajustador del Pensamiento está plena y totalmente consciente. De hecho, es excepcionalmente eficaz puesto que no podéis oponeros, resistiros ni dificultar de ninguna manera su trabajo creativo y transformador."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "39:2.12",
       "pageReference": "431.1",
       "sortId": "2.039.002.012",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Cuando viajas por serafín te duermes por un período específico de tiempo, y despiertas en el momento indicado. La longitud de un viaje durante el sueño de tránsito no es importante. No estás directamente consciente del pasaje del tiempo. Es como si te durmieras en un vehículo de transporte en una ciudad y, después de descansar un sueño reparador toda la noche, te despertaras en otra metrópoli distante. Has viajado mientras dormías. Así pues vuelas a través del espacio, enserafinado, mientras descansas —duermes. El sueño de tránsito es inducido por el enlace entre los Ajustadores y los transportadores seráficos."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Cuando estáis enserafinados, dormís durante un tiempo específico y despertáis en el momento establecido. La duración del viaje cuando estáis en el sueño de tránsito es irrelevante. No sois directamente conscientes del paso del tiempo. Es como si os durmierais en un vehículo de transporte en una ciudad y tras descansar toda la noche tranquilamente adormecidos, os despertarais en otra ciudad lejana. Habéis viajado adormecidos, y así voláis por el espacio, enserafinados, mientras descansáis, mientras dormís. El sueño de tránsito lo inducen los Ajustadores y las transportadoras seráficas actuando en enlace."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "39:2.13",
       "pageReference": "431.2",
       "sortId": "2.039.002.013",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Los ángeles no pueden transportar cuerpos combustibles —carne y huesos— tales como los que tenéis ahora, pero pueden transportar todas las demás formas, desde la morontial más baja hasta la más elevada espiritual. No funcionan en caso de muerte natural. Cuando finalizas tu carrera terrenal, tu cuerpo permanece en este planeta. Tu Ajustador del Pensamiento se dirige al seno del Padre, y estos ángeles no se ocupan directamente de la reconstitución subsiguiente de tu personalidad en el mundo de estancia de identificación. Allí tu nuevo cuerpo es una forma morontial, una forma que puede viajar en serafín. Tú «siembras un cuerpo mortal» en la tumba; y «cosechas una forma morontial» en los mundos de estancia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Las ángeles no pueden transportar cuerpos de combustión —de carne y hueso—como los que tenéis ahora, pero pueden transportar todos los demás, desde las formas de morontia más bajas hasta las de espíritu más altas. No intervienen en caso de muerte natural. Cuando termináis vuestra carrera terrenal, vuestro cuerpo se queda en este planeta. Vuestro Ajustador del Pensamiento se dirige al seno del Padre, y estas ángeles no participan directamente en el reensamblaje posterior de vuestra personalidad en el mundo mansión de identificación. Allí, vuestro nuevo cuerpo es una forma de morontia, una forma que se puede enserafinar. «Sembráis un cuerpo mortal» en la tumba; «cosecháis una forma morontial» en los mundos mansión."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "39:2.14",
       "pageReference": "431.3",
       "sortId": "2.039.002.014",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "6. *Los Registradores.* Estas personalidades se ocupan específicamente de la recepción, archivo, y reenvío de los registros de Salvington y de sus mundos asociados. También sirven como registradores especiales para los grupos residentes de personalidades del superuniverso y de personalidades más elevadas y como amanuenses de los tribunales de Salvington y secretarios de los jueces."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "6. *Las registradoras*. Estas personalidades están especialmente dedicadas a recibir, archivar y reenviar los registros de Salvington y sus mundos asociados. Sirven también como registradoras especiales para los grupos residentes de personalidades del superuniverso y otras más altas, y como escribanas de las cortes de Salvington y secretarias de sus dirigentes."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "39:2.15",
       "pageReference": "431.4",
       "sortId": "2.039.002.015",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "*Emisores —* recibidores y difusores— constituyen una subdivisión especializada de los registradores seráficos, que se ocupa del envío de registros y de la diseminación de información esencial. Su tarea es de orden elevado, con tantos circuitos que 144.000 mensajes pueden atravesar simultáneamente las mismas líneas de energía. Adaptan las técnicas ideográficas más elevadas de los registradores jefes superáficos y con estos símbolos comunes mantienen contacto recíproco tanto con los coordinadores de información de los supernafines terciarios como con los coordinadores glorificados de información del Cuerpo Seráfico de Consumación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "*Las difusoras* —receptoras y emisoras— constituyen una subdivisión especializada de las registradoras seráficas dedicada a enviar registros y diseminar información esencial. Su trabajo es de alto nivel y está tan multicircuitado que 144 000 mensajes pueden atravesar simultáneamente las mismas líneas de energía. Adaptan las técnicas ideográficas más altas de las jefas registradoras superáficas y mediante esos símbolos comunes mantienen contacto recíproco tanto con las coordinadoras de información de las supernafines terciarias como con las coordinadoras glorificadas de información del Cuerpo de la Compleción Seráfica."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "39:2.16",
       "pageReference": "431.5",
       "sortId": "2.039.002.016",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Los registradores seráficos de la orden superior realizan así un enlace estrecho con los cuerpos de información de su propia orden y con todos los registradores subordinados, mientras que las transmisiones les permiten mantener comunicación constante con registradores más elevados del superuniverso y, mediante este canal, con los registradores de Havona y los custodios del conocimiento en el Paraíso. Muchos de los registradores de la orden superior son serafines ascendidos desde tareas similares en las secciones inferiores del universo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Las registradoras seráficas del orden superior están así estrechamente conectadas con el cuerpo de información de su propio orden y con todos los registradores de menor rango, mientras que las difusiones les permiten mantener una comunicación constante con las registradoras más altas del superuniverso y, por el mismo canal, con las registradoras de Havona y las depositarias del conocimiento que están en el Paraíso. Muchas integrantes del orden superior de las registradoras son serafines ascendidas desde tareas similares en secciones más bajas del universo."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "39:2.17",
       "pageReference": "431.6",
       "sortId": "2.039.002.017",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "7. *Las Reservas.* Amplias reservas de todo tipo de serafines superiores se mantienen en Salvington, disponibles instantáneamente para su envío a los mundos más alejados de Nebadon cuando son requeridas por los directores de asignación o por solicitud de los administradores del universo. Las reservas de los serafines superiores también proveen auxiliares mensajeros por solicitud del jefe de las Brillantes Estrellas Vespertinas, quien está encargado de la custodia y envío de todas las comunicaciones personales. Un universo local está plenamente abastecido de medios adecuados de intercomunicación, pero siempre hay un residuo de mensajes que requiere despacho mediante mensajeros personales."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "7. *Las reservas*. Se mantienen en Salvington grandes reservas de serafines superiores de todo tipo preparadas para su envío instantáneo a los mundos más alejados de Nebadon cuando son requeridas por las directoras de asignación o a petición de los administradores del universo. Las reservas de las serafines superiores proporcionan también mensajeras auxiliares a requerimiento del jefe de las Brillantes Estrellas Vespertinas encargado de la custodia y el envío de todas las comunicaciones personales. Un universo local está plenamente provisto de los medios de intercomunicación adecuados, pero siempre hay un remanente de mensajes que enviar por mensajeros personales."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "39:2.18",
       "pageReference": "432.1",
       "sortId": "2.039.002.018",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Superiores",
-      "markdown": "Las reservas básicas para todo el universo local se mantienen en los mundos seráficos de Salvington. Este cuerpo incluye a todos los tipos de todos los grupos de ángeles."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines superiores",
+      "markdown": "Las reservas básicas para todo el universo local se mantienen en los mundos seráficos de Salvington. Este cuerpo está compuesto por ángeles de todos los tipos y todos los grupos."
     },
     {
       "type": "section",
@@ -937,8 +937,8 @@
       "standardReferenceId": "39:3.0",
       "pageReference": null,
       "sortId": "2.039.003.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
       "markdown": null
     },
     {
@@ -955,9 +955,9 @@
       "standardReferenceId": "39:3.1",
       "pageReference": "432.2",
       "sortId": "2.039.003.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "Esta orden versátil de ángeles del universo se asigna al servicio exclusivo de las constelaciones. Estos peritos servidores tienen su sede central en las capitales de la constelación pero funcionan por todo Nebadon en beneficio de sus reinos asignados."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "Este orden polifacético de ángeles del universo está asignado al servicio exclusivo de las constelaciones. Estas expertas ministradoras tienen su sede en las capitales de las constelaciones, pero ejercen su actividad en todo Nebadon en beneficio de los mundos a los que están asignadas."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "39:3.2",
       "pageReference": "432.3",
       "sortId": "2.039.003.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "1. *Asistentes Supervisores.* La primera orden de los serafines supervisores está asignada a la tarea colectiva de los Padres de la Constelación, y son ayudantes siempre eficientes de Los Altísimos. Estos serafines se ocupan principalmente de la unificación y estabilización de toda la constelación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "1. *Las asistentes supervisoras*. El primer orden de serafines supervisoras está asignado al trabajo colectivo de los Padres de las Constelaciones y son las ayudantes siempre eficaces de los Altísimos. Estas serafines se dedican principalmente a unificar y estabilizar toda una constelación."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "39:3.3",
       "pageReference": "432.4",
       "sortId": "2.039.003.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "2. *Pronosticadores de la Ley.* La base intelectual de la justicia es la ley, y en un universo local, la ley se origina en las asambleas legisladoras de las constelaciones. Estos cuerpos deliberantes codifican y promulgan formalmente las leyes básicas de Nebadon, leyes proyectadas para permitir la coordinación máxima de una entera constelación de acuerdo con la política fija de no intrusión, con el libre albedrío moral de las criaturas personales. Es deber de la segunda orden de serafines supervisores presentar ante los legisladores de la constelación un pronóstico de cómo una ley propuesta afectaría a la vida de las criaturas de libre albedrío. Están altamente calificados para realizar este servicio, en virtud de su larga experiencia en los sistemas locales y en los mundos habitados. Estos serafines no persiguen favores especiales para uno u otro grupo, pero aparecen ante los legisladores celestiales para hablar por aquellos que no pueden estar presentes para hablar por sí mismos. Aun el hombre mortal puede contribuir a la evolución de la ley universal, porque estos mismos sera-fines ilustran fiel y plenamente, no necesariamente los deseos conscientes y transitorios del hombre, sino más bien los auténticos anhelos del hombre interior, el alma morontial en evolución del mortal material en los mundos del espacio."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "2. *Las pronosticadoras de la ley*. El fundamento intelectual de la justicia es la ley y, en un universo local, la ley se origina en las asambleas legislativas de las constelaciones. Estos cuerpos deliberantes codifican y promulgan formalmente las leyes básicas de Nebadon, leyes diseñadas para establecer en toda una constelación la máxima coordinación compatible con la política fijada de no vulnerar el libre albedrío moral de las criaturas personales. El segundo orden de serafines supervisoras tiene el cometido de presentar ante los legisladores de la constelación una estimación sobre cómo afectaría un decreto propuesto a la vida de las criaturas de libre albedrío. Están bien cualificadas para realizar este servicio en virtud de su larga experiencia en los sistemas locales y en los mundos habitados. Estas serafines no buscan favores especiales para un grupo u otro, sino que comparecen ante los legisladores celestiales para hablar en nombre de aquellos que no pueden estar presentes para hablar por sí mismos. Incluso el hombre mortal puede contribuir a la evolución de la ley del universo, pues estas mismas serafines retratan con fidelidad y plenitud, no necesariamente los deseos pasajeros y conscientes del hombre, sino más bien los auténticos anhelos del hombre interior, del alma de morontia en evolución del mortal material de los mundos del espacio."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "39:3.4",
       "pageReference": "432.5",
       "sortId": "2.039.003.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "3. *Arquitectos Sociales.* Desde los planetas individuales hasta los mundos de capacitación morontial, estos serafines actúan para enaltecer todos los contactos sociales sinceros y para adelantar la evolución social de las criaturas del universo. Estos son los ángeles que intentan liberar las asociaciones de los seres inteligentes de toda artificialidad, intentando al mismo tiempo facilitar la interasociación de las criaturas volitivas sobre una base de autocomprensión real y apreciación mutua genuina."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "3. *Las arquitectas sociales*. Desde los planetas individuales hasta los mundos de formación en la morontia, estas serafines trabajan para mejorar todos los contactos sociales sinceros y para promover la evolución social de las criaturas del universo. Son las ángeles que intentan despojar a las asociaciones de seres inteligentes de toda artificialidad, al tiempo que se esfuerzan por facilitar la interasociación de las criaturas con voluntad sobre la base de una verdadera comprensión de sí mismas y un auténtico aprecio mutuo."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "39:3.5",
       "pageReference": "432.6",
       "sortId": "2.039.003.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "Los arquitectos sociales hacen todo lo posible dentro de su provincia y poder para reunir a individuos afines con el objeto de que constituyan grupos de trabajo eficientes y agradables en la tierra; y a veces estos grupos se han encontrado nuevamente asociados en los mundos de estancia para un servicio fructífero continuado. Pero no siempre alcanzan estos serafines sus objetivos; no siempre son capaces de acercar a aquellos que podrían formar el grupo más ideal para alcanzar un propósito determinado o para realizar una tarea específica; bajo estas condiciones deben utilizar lo mejor del material disponible."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "Las arquitectas sociales hacen todo lo que está dentro de su campo y sus poderes para reunir a individuos compatibles, capaces de constituir grupos de trabajo eficientes y bien avenidos en la tierra. A veces esos grupos vuelven a asociarse en los mundos mansión para continuar su fructífero servicio. Pero estas serafines no siempre logran su propósito; no siempre son capaces de reunir a los que podrían formar el grupo ideal para alcanzar un objetivo dado o realizar una tarea determinada. En esos casos tienen que utilizar el mejor material disponible."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "39:3.6",
       "pageReference": "432.7",
       "sortId": "2.039.003.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "Estos ángeles continúan su ministerio en los mundos de estancia y en los mundos morontiales más elevados. Se ocupan de toda empresa que tenga que ver con el progreso en los mundos morontiales y que se refiera a tres o más personas. Dos seres se consideran como operando sobre la base de pareja, complemento o sociedad; pero cuando tres o más se agrupan para un servicio, constituyen un problema social y por lo tanto caen bajo la jurisdicción de los arquitectos sociales. Estos eficientes serafines están organizados en setenta divisiones en Edentia, y estas divisiones sirven en los setenta mundos de progreso morontial que están alrededor de la esfera sede central."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "Estas ángeles continúan su ministerio en los mundos mansión y en mundos más altos de la morontia. Se ocupan de cualquier actividad relacionada con el progreso en los mundos de la morontia que involucre a tres o más personas. Se considera que dos seres pueden operar sobre la base del emparejamiento, la complementariedad o la asociación, pero cuando tres o más se agrupan para servir, constituyen un problema social y caen por lo tanto bajo la jurisdicción de las arquitectas sociales. Estas eficientes serafines están organizadas en setenta divisiones en Edentia, y estas divisiones aportan su ministerio a los setenta mundos de progreso de la morontia que circundan la esfera sede."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "39:3.7",
       "pageReference": "433.1",
       "sortId": "2.039.003.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "4. *Sensibilizadores Éticos.* Es misión de estos serafines fomentar y promover en la criatura el crecimiento de la apreciación de la moralidad en las relaciones interpersonales, puesto que ésta es la semilla y secreto del crecimiento continuado y fructífero de la sociedad y del gobierno, tanto humano como superhumano. Estos enaltecedores de la apreciación ética funcionan dondequiera y cuandoquiera puedan servir, como consejeros voluntarios de los gobernantes planetarios y como maestros de intercambio en los mundos de capacitación del sistema. Sin embargo vosotros no estaréis bajo su guía plena hasta que no alcancéis las escuelas de la hermandad en Edentia, donde acelerarán vuestra apreciación de aquellas mismas verdades de la fraternidad que en ese momento estaréis explorando tan entusiásticamente por la experiencia real de vivir con los univitatias en los laboratorios sociales de Edentia, los setenta satélites de la capital de Norlatiadek."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "4. *Las sensibilizadoras éticas*. Estas serafines tienen la misión de fomentar y promover en las criaturas el aprecio por la moralidad de las relaciones interpersonales, pues esa es la semilla y el secreto del crecimiento continuado y útil de sociedades y gobiernos humanos o sobrehumanos. Estas promotoras del aprecio ético actúan en todo lugar donde puedan dar servicio, como consejeras voluntarias de los regidores planetarios y como maestras de intercambio en los mundos de formación del sistema. Sin embargo, no estaréis bajo su entera dirección hasta que lleguéis a las escuelas de hermandad de Edentia, donde avivarán vuestro aprecio por las mismas verdades de fraternidad que en ese momento estaréis explorando con tanto afán en la experiencia misma de vivir con los univitatia en los laboratorios sociales de Edentia, los setenta satélites de la capital de Norlatiadek."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "39:3.8",
       "pageReference": "433.2",
       "sortId": "2.039.003.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "5. *Los Transportadores.* El quinto grupo de serafines supervisores opera como transportadores de las personalidades, llevando a los seres a las sedes de las constelaciones y desde las mismas. Estos serafines de transporte, mientras vuelan de una esfera a la otra, están plenamente conscientes de su velocidad, dirección y sitio astronómico. No atraviesan el espacio como lo haría un proyectil inanimado. Pueden pasar uno al lado del otro durante el vuelo espacial sin el menor peligro de choque. Son plenamente capaces de variar la velocidad de avance y de alterar la dirección del vuelo, aun de cambiar el destino, si sus directores así los instruyen en cualquiera de los cruces espaciales de los circuitos universales de información."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "5. *Las transportadoras*. Las serafines supervisoras del quinto grupo trabajan como transportadoras de las personalidades, trayendo y llevando seres entre las sedes de las constelaciones. Mientras vuelan de una esfera a otra, estas serafines de transporte son plenamente conscientes de su velocidad, dirección y paradero astronómico. No atraviesan el espacio como lo haría un proyectil inanimado. Pueden volar por el espacio en trayectorias cercanas sin el menor riesgo de colisión. Son perfectamente capaces de variar la velocidad y la dirección del vuelo, incluso de cambiar de destino si así se lo ordenan sus directores en cualquier cruce espacial de los circuitos de información del universo."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "39:3.9",
       "pageReference": "433.3",
       "sortId": "2.039.003.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "Estas personalidades de tránsito están organizadas de tal manera que pueden utilizar simultáneamente las tres líneas de energía distribuidas universalmente, cada una de las cuales tiene una velocidad espacial neta de 299.725 kilómetros por segundo. Estos transportadores por lo tanto pueden sobreponer la velocidad de la energía sobre la velocidad de la fuerza hasta alcanzar una velocidad media en sus largos viajes que varía entre 893.000 y 899.400 de vuestros kilómetros por segundo de vuestro tiempo. La velocidad está afectada por la masa y la proximidad de la materia vecina y por la intensidad y dirección de los circuitos principales cercanos del poder universal. Existen numerosos tipos de seres, similares a los serafines, que pueden atravesar el espacio, y que también pueden transportar a otros seres que hayan sido preparados adecuadamente."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "Estas personalidades de tránsito están organizadas de forma que pueden utilizar simultáneamente las tres líneas de energía distribuidas universalmente, cada una de las cuales tiene una velocidad espacial neta de 299 790 kilómetros por segundo. Estas transportadoras son por lo tanto capaces de superponer la velocidad de la energía a la velocidad del poder hasta alcanzar en sus viajes largos una velocidad media comprendida entre 893 000 y casi 900 000 kilómetros por segundo de vuestro tiempo. La velocidad está afectada por la masa y proximidad de la materia vecina, y por la intensidad y dirección de los principales circuitos cercanos de poder del universo. Existen numerosos tipos de seres similares a las serafines capaces de atravesar el espacio y también capaces de transportar a otros seres que hayan sido debidamente preparados para ello."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "39:3.10",
       "pageReference": "433.4",
       "sortId": "2.039.003.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "6. *Los Registradores.* La sexta orden de serafines supervisores actúa como registradores especiales de los asuntos de la constelación. Un cuerpo amplio y eficiente funciona en Edentia, la sede de la constelación de Norlatiadek, a la cual pertenece vuestro sistema y planeta."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "6. *Las registradoras*. Las serafines supervisoras del sexto orden actúan como registradoras especiales de los asuntos de la constelación. Un cuerpo numeroso y eficiente de este orden ejerce su actividad en Edentia, la sede de la constelación de Norlatiadek a la que pertenecen vuestro sistema y vuestro planeta."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "39:3.11",
       "pageReference": "433.5",
       "sortId": "2.039.003.011",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Supervisores",
-      "markdown": "7. *Las Reservas.* Se mantienen reservas generales de serafines supervisores en las sedes de las constelaciones. Estos reservistas angélicos no están en ningún sentido inactivos; muchos sirven como mensajeros auxiliares para los gobernantes de las constelaciones. Se asignan otros a las reservas de Salvington de los Vorondadek no asignados; aun otros se pueden vincular a los Hijos Vorondadek en encargos especiales, tales como el observador Vorondadek, y a veces al regente Altísimo, de Urantia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines supervisoras",
+      "markdown": "7. *Las reservas*. Se mantienen reservas generales de serafines supervisoras en las sedes de las constelaciones. Estas reservistas angélicas no están inactivas en ningún sentido; muchas sirven como auxiliares mensajeras de los gobernantes de las constelaciones; otras están adscritas en Salvington a las reservas de los Vorondadek no asignados; otras pueden incluso ser destinadas al servicio de los Hijos Vorondadek en misiones especiales, como el observador Vorondadek, y a veces regente Altísimo, de Urantia."
     },
     {
       "type": "section",
@@ -1153,8 +1153,8 @@
       "standardReferenceId": "39:4.0",
       "pageReference": null,
       "sortId": "2.039.004.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
       "markdown": null
     },
     {
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "39:4.1",
       "pageReference": "434.1",
       "sortId": "2.039.004.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "La cuarta orden de serafines está asignada a las tareas administrativas de los sistemas locales. Son oriundos de las capitales del sistema pero están estacionados en grandes números en las esferas morontiales de estancia y en los mundos habitados. Los serafines de cuarta orden están dotados por naturaleza de insólita habilidad administrativa. Son los hábiles asistentes de los directores de las divisiones inferiores del gobierno universal de un Hijo Creador y se ocupan principalmente de los asuntos de los universos locales y de sus mundos integrantes. Están organizados para el servicio como sigue:"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "El cuarto orden de serafines está asignado a las tareas administrativas de los sistemas locales. Son oriundas de las capitales de los sistemas pero están emplazadas en gran número en las esferas mansión y de la morontia, y en los mundos habitados. Las serafines de cuarto orden están dotadas por naturaleza de una aptitud administrativa poco común. Son las asistentes expertas de los directores de las divisiones inferiores del gobierno del universo de un Hijo Creador, y se dedican principalmente a los asuntos de los sistemas locales y sus mundos integrantes. Se organizan para el servicio como sigue:"
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "39:4.2",
       "pageReference": "434.2",
       "sortId": "2.039.004.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "1. *Asistentes Administrativos.* Estos capaces serafines son los asistentes inmediatos de un Soberano del Sistema, un Hijo Lanonandek primario. Son auxiliares invaluables en la ejecución de los intricados detalles de la tarea ejecutiva de la sede central del sistema. También sirven como agentes personales de los gobernantes del sistema, y viajan en grandes números a los distintos mundos de transición y a los planetas habitados, realizando muchas comisiones para el bienestar del sistema y en el interés físico y biológico de los mundos habitados."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "1. *Las asistentes administrativas*. Estas competentes serafines son las auxiliares directas de un Soberano de Sistema, un Hijo Lanonandek primario. Su ayuda es inestimable en la ejecución de los intrincados detalles del trabajo ejecutivo de la sede del sistema. Sirven también como agentes personales de los regidores del sistema, y viajan de acá para allá en gran número a los varios mundos de transición y a los planetas habitados en los que llevan a cabo muchos cometidos por el bienestar del sistema y los intereses físicos y biológicos de sus mundos habitados."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "39:4.3",
       "pageReference": "434.3",
       "sortId": "2.039.004.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Estos mismos administradores seráficos también están asignados a los gobiernos de los gobernantes de los mundos, los Príncipes Planetarios. La mayoría de los planetas en un universo dado, está bajo la jurisdicción de un Hijo Lanonandek secundario, pero en ciertos mundos, como por ejemplo en Urantia, ha habido un malogro del plan divino. En caso de traición de un Príncipe Planetario, se nombran estos serafines a los síndicos Melquisedek y a sus sucesores en la autoridad planetaria. Un cuerpo de mil de esta orden versátil de serafines asiste al gobernante actual de Urantia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Estas mismas administradoras seráficas también están adscritas a los gobiernos de los regidores de los mundos, los Príncipes Planetarios. La mayoría de los planetas de un universo dado está bajo la jurisdicción de un Hijo Lanonandek secundario, pero en ciertos mundos como Urantia se ha malogrado el plan divino. En caso de defección de un Príncipe Planetario, estas serafines quedan adscritas a los síndicos Melquisedec y sus sucesores en la autoridad planetaria. El presente regidor en funciones de Urantia está asistido por un cuerpo de mil miembros de este polifacético orden de serafines."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "39:4.4",
       "pageReference": "434.4",
       "sortId": "2.039.004.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "2. *Guías de Justicia.* Estos son los ángeles que presentan el resumen de las pruebas relativas al bienestar eterno de los hombres y de los ángeles cuando dichos asuntos se presentan para su adjudicación en los tribunales de un sistema o de un planeta. Preparan las declaraciones para todas las audiencias preliminares relativas a la sobrevivencia mortal, declaraciones que posteriormente se someten juntamente con los datos de dichos casos a los tribunales más elevados del universo y del superuniverso. La defensa de todos los casos de sobrevivencia dudosa es preparada por estos serafines, quienes tienen una comprensión perfecta de todos los detalles de cada característica y cada cargo de las acusaciones asentadas por los administradores de la justicia universal."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "2. *Las guías de la justicia*. Son las ángeles que presentan el resumen de las pruebas relacionadas con el bienestar eterno de hombres y ángeles cuando estos asuntos se presentan a juicio en los tribunales de un sistema o un planeta. Preparan las declaraciones para todas las audiencias preliminares en las que esté implicada la supervivencia de los mortales, declaraciones que se llevan posteriormente, junto con los registros de dichos casos, a los tribunales más altos del universo y el superuniverso. La defensa de todos los casos de supervivencia dudosa la preparan estas serafines, que poseen una comprensión perfecta de todos los detalles y características de cada uno de los cargos que figuran en las acusaciones formuladas por los administradores de justicia del universo."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "39:4.5",
       "pageReference": "434.5",
       "sortId": "2.039.004.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "No es misión de estos ángeles derrotar o postergar la justicia sino más bien asegurar que una justicia sin errores sea llevada a cabo con misericordia generosa para así ser justos con todas las criaturas. Estos serafines funcionan a menudo en los mundos locales, apareciendo con frecuencia ante los tríos árbitros de las comisiones conciliadoras: los tribunales que se ocupan de malentendidos de menor cuantía. Muchos de los que alguna vez sirvieron como guías de justicia en los mundos inferiores aparecen más adelante como Voces de Misericordia en las esferas más elevadas y en Salvington."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "No es misión de estas ángeles oponerse a la justicia ni retrasarla, sino más bien asegurar que se imparta con generosa misericordia y en equidad una justicia sin errores a todas las criaturas. Estas serafines ejercen a menudo sus funciones en los mundos locales, donde suelen presentarse ante los tríos arbitrales de las comisiones conciliadoras, las cortes para los malentendidos menores. Muchas ángeles que sirvieron alguna vez como guías de la justicia en dominios más bajos, aparecen después como Voces de la Misericordia en esferas más altas y en Salvington."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "39:4.6",
       "pageReference": "434.6",
       "sortId": "2.039.004.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Durante la rebelión de Lucifer en Satania se perdieron muy pocos guías de la justicia; los sofismas de la libertad personal desenfrenada, descarriaron y engañaron a más de un cuarto de los serafines administradores y de las órdenes más bajas de ministros seráficos."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "En la rebelión de Lucifer en Satania se perdieron muy pocas guías de la justicia, pero más de la cuarta parte de las otras serafines administradoras y de los órdenes más bajos de ministras seráficas fueron inducidas a error y engañadas por las sofisterías de la libertad personal desenfrenada."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "39:4.7",
       "pageReference": "434.7",
       "sortId": "2.039.004.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "3. *Intérpretes de la Ciudadanía Cósmica.* Cuando los mortales ascendentes han completado la capacitación en los mundos de estancia, el primer paso de aprendizaje en la carrera universal, se les permite disfrutar de las satisfacciones pasajeras de una madurez relativa: la ciudadanía en la capital del sistema. Aunque el alcance de cada objetivo ascendente sea un logro de hecho, en un sentido más amplio dichos objetivos son tan sólo hitos en el largo sendero ascendente al Paraíso. Pero por más que estos éxitos sean relativos, no se le niega jamás a ninguna criatura evolucionaria la satisfacción plena, aunque pasajera, del logro de un objetivo. De cuando en cuando hay una pausa en el ascenso al Paraíso, un breve período de alivio, durante el cual los horizontes universales permanecen inmóviles, el estado de la criatura es estacionario, y la personalidad saborea la dulzura del cumplimiento de un objetivo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "3. *Las intérpretes de la ciudadanía cósmica*. Cuando los mortales ascendentes han terminado su formación en los mundos mansión, su primer aprendizaje como estudiantes en la carrera del universo, se les permite disfrutar de las satisfacciones pasajeras de una madurez relativa: la ciudadanía en la capital del sistema. Aunque el hecho de alcanzar cada meta ascendente constituye un logro objetivo, en un sentido más amplio esas metas solo son hitos en la larga senda de ascenso al Paraíso. Pero por muy relativos que puedan ser esos éxitos, a ninguna criatura evolutiva se le niega nunca la satisfacción plena, aunque pasajera, de haber alcanzado una meta. De tiempo en tiempo hay una pausa en el ascenso al Paraíso, una breve temporada de respiro durante la cual los horizontes del universo permanecen inmóviles, el estatus de la criatura es estacionario y la personalidad saborea el dulzor de haber alcanzado una meta."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "39:4.8",
       "pageReference": "435.1",
       "sortId": "2.039.004.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "El primero de dichos períodos en la carrera de un mortal ascendente ocurre en la capital de un sistema local. Durante esta pausa, tú, como ciudadano de Jerusem, intentarás expresar en la vida de la criatura las cosas que has adquirido durante las ocho experiencias precedentes de la vida —que comprenden Urantia y los siete mundos de estancia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "El primero de estos periodos en la carrera de un mortal ascendente tiene lugar en la capital de un sistema local. Durante esa pausa, y como ciudadanos de Jerusem, intentaréis expresar en vuestra vida de criaturas las cosas que habréis adquirido durante las ocho experiencias de vida anteriores, que comprenden Urantia y los siete mundos mansión."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "39:4.9",
       "pageReference": "435.2",
       "sortId": "2.039.004.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Los intérpretes seráficos de la ciudadanía cósmica guían a los nuevos ciudadanos de las capitales del sistema y aceleran su apreciación de las responsabilidades del gobierno universal. Estos serafines también están estrechamente asociados con los Hijos Materiales en la administración del sistema, mientras describen la responsabilidad y moralidad de la ciudadanía cósmica a los mortales materiales de los mundos habitados."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Las intérpretes seráficas de la ciudadanía cósmica guían a los nuevos ciudadanos de las capitales de los sistemas y estimulan su valoración de las responsabilidades del gobierno del universo. Estas serafines están también estrechamente vinculadas a los Hijos Materiales en la administración del sistema, en tanto que describen la responsabilidad y la moralidad de la ciudadanía cósmica a los mortales materiales de los mundos habitados."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "39:4.10",
       "pageReference": "435.3",
       "sortId": "2.039.004.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "4. *Estimuladores de la Moralidad.* En los mundos de estancia comienzas a aprender el autogobierno para beneficio de todos los participantes. Tu mente aprende la cooperación, aprende cómo planificar con otros seres más sabios. En la sede del sistema los maestros seráficos avivarán ulteriormente tu apreciación de la moralidad cósmica —de las interacciones de la libertad y la lealtad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "4. *Las avivadoras de la moralidad*. En los mundos mansión empezáis a aprender el gobierno de vosotros mismos en beneficio de todos los interesados. Vuestra mente aprende a cooperar, aprende a hacer planes con otros seres más sabios. En la sede del sistema, las maestras seráficas avivarán aún más vuestra valoración de la moralidad cósmica, de las interacciones entre libertad y lealtad."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "39:4.11",
       "pageReference": "435.4",
       "sortId": "2.039.004.011",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "¿Qué es la lealtad? Es el fruto de una apreciación inteligente de la hermandad universal; no se puede recibir tanto y no dar nada. A medida que asciendes en la escala de la personalidad, primero aprendes a ser leal, luego a amar, después a ser filial, y más adelante podrás ser libre; pero no será hasta que seas un finalista, hasta que hayas alcanzado la perfección de la lealtad, que podrás autorrealizar la finalidad de la libertad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "¿Qué es la lealtad? Es el fruto de un aprecio inteligente por la hermandad del universo; no se puede recibir tanto y no dar nada. A medida que ascendéis por la escala de la personalidad, aprendéis primero a ser leales, después a amar, después a ser filiales, y entonces podréis ser libres. Pero hasta que seáis finalitarios, hasta que hayáis alcanzado la perfección de la lealtad, no podréis hacer realidad por vosotros mismos el carácter final de la libertad."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "39:4.12",
       "pageReference": "435.5",
       "sortId": "2.039.004.012",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Estos serafines enseñan la fecundidad de la paciencia; que el estancamiento es la muerte certera, pero que el crecimiento excesivamente rápido es igualmente suicida; que así como una gota de agua desde el nivel más alto cae al nivel más bajo, fluyendo hacia adelante, desplazándose hacia abajo constantemente por una sucesión de cortas caídas, del mismo modo es el progreso hacia arriba en los mundos morontiales y espirituales —igual de lento y en iguales etapas graduales."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Estas serafines enseñan el valor de la paciencia: que el estancamiento es muerte segura, pero que el crecimiento demasiado rápido es igualmente suicida; que igual que una gota de agua cae desde un nivel más alto a otro más bajo y, fluyendo hacia adelante, sigue descendiendo en una sucesión de pequeñas caídas, así es el progreso hacia arriba en los mundos de la morontia y del espíritu, igual de lento y por etapas graduales."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "39:4.13",
       "pageReference": "435.6",
       "sortId": "2.039.004.013",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Para los mundos habitados los estimuladores de la moralidad ilustran la vida mortal como una cadena ininterrumpida de muchos eslabones. Tu corta estadía en Urantia, en esta esfera de infancia mortal, es tan sólo un eslabón, el primero en la larga cadena que ha de extenderse a través de los universos y a través de las edades eternas. No es tanto lo que aprendes en esta primera vida; es la experiencia de vivir esta vida lo que es importante. Aun el *trabajo* en este mundo, aunque importantísimo, no lo es tanto como la *manera* en la cual cumples ese trabajo. No existe recompensa material para la vida recta, pero hay una profunda satisfacción —conciencia de logro— y ésta trasciende toda recompensa material concebible."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Las avivadoras de la moralidad describen a los mundos habitados la vida del mortal como una cadena ininterrumpida de muchos eslabones. Vuestra breve estancia en Urantia, en esta esfera de infancia de los mortales, es solo un eslabón, el primerísimo de la larga cadena que ha de extenderse a través de los universos y a lo largo de las edades eternas. Lo importante no es tanto lo que se aprende en esta primera vida sino la experiencia de vivirla. Incluso el *trabajo* en este mundo, aunque primordial, no es ni mucho menos tan importante como la *manera* de hacerlo. No hay recompensa material para el recto vivir, pero hay una satisfacción profunda —una consciencia de logro— que trasciende toda recompensa material concebible."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "39:4.14",
       "pageReference": "435.7",
       "sortId": "2.039.004.014",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Las llaves del reino de los cielos son: sinceridad, más sinceridad, y más sinceridad. Todos los hombres poseen estas llaves. Los hombres las usan —avanzan en estado espiritual— mediante decisiones, más decisiones y más decisiones. La elección moral más elevada es la elección del valor más alto posible, y siempre —en cualquier esfera, en todas ellas— eso consiste en elegir hacer la voluntad de Dios. Si el hombre así hace esa selección, *es* grande, aunque sea el ciudadano más humilde de Jerusem o aun el más bajo de los mortales en Urantia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Las llaves del reino de los cielos son: sinceridad, más sinceridad y más sinceridad. Todos los hombres tienen esas llaves. Los hombres las usan —avanzan en estatus de espíritu— mediante decisiones, más decisiones y más decisiones. La elección moral más alta es la del valor más alto posible, y esta es siempre —en cualquier esfera y en todas ellas— hacer la voluntad de Dios. Si el hombre elige hacerla, *es* grande, aunque sea el ciudadano más humilde de Jerusem, o incluso el más pequeño de los mortales de Urantia."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "39:4.15",
       "pageReference": "436.1",
       "sortId": "2.039.004.015",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "5. *Los Transportadores.* Éstos son los serafines de transporte que funcionan en los sistemas locales. En Satania, vuestro sistema, llevan a los pasajeros de y a Jerusem y sirven de otro modo como transportadores interplanetarios. Raramente pasa un día en el cual un serafín de transporte de Satania no deposite en las orillas de Urantia a un estudiante visitante o algún otro viajero de naturaleza espiritual o semiespiritual. Estos mismos atravesadores del espacio algún día te llevarán a los distintos mundos del grupo de sede central del sistema y desde los mismos, y cuando hayas terminado la asignación en Jerusem, te llevarán más allá, a Edentia. Pero no te llevarán bajo ninguna circunstancia de vuelta al mundo de origen humano. Un mortal no vuelve jamás a su planeta nativo durante la dispensación de su existencia temporal, y si volviese durante una dispensación subsiguiente, sería acompañado por un serafín de trans-porte del grupo de la sede central del universo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "5. *Las transportadoras*. Son las serafines de transporte que ejercen su función en los sistemas locales. En Satania, vuestro sistema, llevan y traen pasajeros desde y hasta Jerusem, y sirven además como transportadoras interplanetarias. Raro es el día en que una serafín de transporte de Satania no deposite a algún visitante estudiante o a algún otro viajero de naturaleza de espíritu o de semiespíritu en las orillas de Urantia. Estas mismas atravesadoras del espacio os transportarán algún día entre los varios mundos del grupo sede del sistema, y cuando hayáis terminado vuestra tarea en Jerusem, os harán avanzar hasta Edentia. Pero en ningún caso os llevarán de vuelta al mundo de vuestro origen humano. Un mortal no vuelve nunca a su planeta nativo durante la dispensación de su existencia temporal, y si volviera durante una dispensación posterior, estaría acompañado por una serafín de transporte perteneciente al grupo de la sede del universo."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "39:4.16",
       "pageReference": "436.2",
       "sortId": "2.039.004.016",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "6. *Los Registradores.* Estos serafines son los archivistas de los registros por triplicado de los sistemas locales. El templo de los registros en una capital del sistema es una estructura singular, un tercio material, construida de metales y cristales luminosos; un tercio morontial, fabricada de enlace de energía espiritual y material pero más allá de la gama de la visión mortal; y un tercio espiritual. Los registradores de esta orden supervisan y mantienen este sistema triple de registros. Los mortales ascendentes primero consultarán los archivos materiales, los Hijos Materiales y los seres de transición más elevados consultarán a los de las salas morontiales, mientras que los serafines y las personalidades espirituales más elevadas del reino examinan los registros de la sección espiritual."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "6. *Las registradoras*. Estas serafines son las encargadas de los registros triples de los sistemas locales. El templo de los registros de una capital de sistema es una estructura única: un tercio es material, construido con metales y cristales luminosos, un tercio es morontial, fabricado con el enlace de la energía espiritual y la material, pero fuera del alcance de la visión del mortal, y un tercio es espiritual. Las registradoras de este orden dirigen y mantienen este triple sistema de registros. Los mortales ascendentes consultarán al principio los archivos materiales, los Hijos Materiales y los seres de transición más altos consultan los de las salas de la morontia, mientras que las serafines y las personalidades de espíritu más altas del dominio examinan los registros de la sección de espíritu."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "39:4.17",
       "pageReference": "436.3",
       "sortId": "2.039.004.017",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "7. *Las Reservas.* El cuerpo reservista de los serafines administradores en Jerusem pasa gran parte de su tiempo de espera relacionándose socialmente en camaradería espiritual con los mortales ascendentes recién llegados desde los distintos mundos del sistema —los graduados acreditados de los mundos de estancia. Una de las delicias de tu estadía en Jerusem consistirá en conversar y visitar, durante los períodos de recreo, con estos serafines muy viajados y altamente expertos del cuerpo reservista en espera."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "7. *Las reservas*. El cuerpo de reserva de las serafines administradoras de Jerusem pasa gran parte de su tiempo de espera conversando como compañeras de espíritu con los mortales ascendentes recién llegados de los diversos mundos del sistema, los graduados acreditados de los mundos mansión. Una de las delicias de vuestra estancia en Jerusem será hablar y pasar el rato, en los periodos de descanso, con estas serafines del cuerpo de reserva que tanto han viajado y tanta experiencia tienen."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "39:4.18",
       "pageReference": "436.4",
       "sortId": "2.039.004.018",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines Administradores",
-      "markdown": "Son estas relaciones amistosas las que tanto encariñan a los mortales ascendentes con la capital de un sistema. En Jerusem encontrarás los primeros Hijos Materiales, ángeles, y peregrinos ascendentes que se entremezclan con los mortales. Aquí fraternizan seres enteramente espirituales y semiespirituales e individuos que acaban de emerger de la existencia material. Las formas mortales están allí tan modificadas y las gamas de reacción humana a la luz tan ampliadas que todos podrán disfrutar del reconocimiento mutuo y de la comprensión genuina de las personalidades."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines administradoras",
+      "markdown": "Este tipo de relaciones amistosas son las que hacen que los mortales ascendentes se encariñen tanto con la capital de un sistema. En Jerusem encontraréis entremezclados por primera vez a los Hijos Materiales, las ángeles y los peregrinos ascendentes. Allí fraternizan seres totalmente espirituales y semiespirituales con individuos recién salidos de la existencia material. Las formas de los mortales están allí tan modificadas y el campo humano de reacción a la luz se ha ampliado de tal manera, que todos son capaces de disfrutar del reconocimiento mutuo y la comprensión cordial de sus distintas personalidades."
     },
     {
       "type": "section",
@@ -1495,8 +1495,8 @@
       "standardReferenceId": "39:5.0",
       "pageReference": null,
       "sortId": "2.039.005.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
       "markdown": null
     },
     {
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "39:5.1",
       "pageReference": "436.5",
       "sortId": "2.039.005.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Estos serafines mantienen su sede central en las capitales de sistema y, aunque estrechamente relacionados con los ciudadanos adánicos residentes, están principalmente asignados al servicio de los Adanes Planetarios, los elevadores biológicos o físicos de las razas materiales en los mundos evolucionarios. El trabajo de ministerio de los ángeles se vuelve de interés cada vez mayor a medida que se acerca a los mundos habitados, porque se acerca a los problemas reales que enfrentan los hombres y mujeres del tiempo que se están preparando para intentar obtener el objetivo de la eternidad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Estas serafines mantienen sus sedes en las capitales de sistema y, aunque estrechamente vinculadas a los ciudadanos adánicos residentes, están asignadas principalmente al servicio de los Adanes Planetarios, los elevadores biológicos o físicos de las razas materiales de los mundos evolutivos. El trabajo de ministerio de las ángeles adquiere cada vez más interés a medida que se acerca a los mundos habitados, a medida que se acerca a los problemas reales de los hombres y mujeres del tiempo que se están preparando para intentar lograr la meta de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "39:5.2",
       "pageReference": "437.1",
       "sortId": "2.039.005.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "En Urantia la mayoría de los ayudantes planetarios fue eliminada cuando cayó el régimen adánico, y la supervisión seráfica de vuestro mundo recayó en mayor grado sobre los administradores, los ministros de transición, y los guardianes del destino. Pero estos asistentes seráficos de vuestros Hijos Materiales contumaces aún sirven a Urantia en los siguientes grupos:"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "En Urantia la mayoría de las ayudantes planetarias fueron retiradas al derrumbarse el régimen adánico, y la supervisión seráfica de vuestro mundo recayó en mayor medida en las administradoras, las ministras de la transición y las guardianas del destino. Sin embargo, las auxiliares seráficas de vuestros Hijos Materiales incumplidores siguen destinadas en Urantia en los grupos siguientes:"
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "39:5.3",
       "pageReference": "437.2",
       "sortId": "2.039.005.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "1. *Las Voces del Jardín.* Cuando el curso planetario de la evolución humana está alcanzando su nivel biológico más elevado, siempre aparecen los Hijos e Hijas Materiales, los Adanes y las Evas, para incrementar la evolución ulterior de las razas mediante una contribución real de su plasma vital superior. Las sedes planetarias de dichos Adanes y Evas se denominan por lo general el Jardín del Edén, y sus serafines personales se conocen frecuentemente por las «voces del Jardín». Estos serafines son de servicio inapreciable para los Adanes Planetarios en todos sus proyectos dirigidos a la elevación física e intelectual de las razas evolucionarias. Después de la falta adánica en Urantia, algunos de estos serafines quedaron en el planeta y fueron asignados a los sucesores de Adán en autoridad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "1. *Las voces del Jardín*. Cuando el curso planetario de la evolución humana está alcanzando su nivel biológico más alto, aparecen siempre los Hijos y las Hijas Materiales, los Adanes y las Evas, para impulsar la evolución ulterior de las razas mediante la contribución efectiva de su plasma superior de vida. La sede planetaria de dichos Adanes y Evas se denomina habitualmente Jardín del Edén, y sus serafines personales suelen ser conocidas como las «voces del Jardín». Estas serafines prestan un servicio inestimable a los Adanes Planetarios en todos sus proyectos de elevación física e intelectual de las razas evolutivas. Tras la falta adánica en Urantia, se dejó en el planeta a algunas de estas serafines y se asignaron a los sucesores de Adán en autoridad."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "39:5.4",
       "pageReference": "437.3",
       "sortId": "2.039.005.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "2. *Los Espíritus de la Hermandad.* Es evidente que, cuando un Adán y una Eva llegan a un mundo evolucionario, la tarea de lograr armonía racial y cooperación social entre sus diversas razas es de proporciones considerables. Raramente estas razas de colores diferentes y naturalezas distintas aceptan con simpatía el plan de la hermandad humana. Estos hombres primitivos tan sólo llegan a darse cuenta de la sabiduría de la interasociación pacífica como resultado de la maduración de la experiencia humana y mediante el ministerio fiel de los espíritus seráficos de la hermandad. Sin el trabajo de estos serafines los esfuerzos de los Hijos Materiales para armonizar y avanzar a las razas de un mundo en evolución se atrasarían considerablemente. Y si vuestro Adán se hubiese adherido al plan original para el avance de Urantia, a esta altura estos espíritus de hermandad habrían realizado transformaciones increíbles en la raza humana. En vista de la falta adánica, es en efecto notable que estas órdenes seráficas hayan sido capaces de fomentar y llevar a su maduración aun la fraternidad limitada con que vosotros contáis ahora en Urantia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "2. *Los espíritus de la hermandad*. Parece evidente que cuando un Adán y una Eva llegan a un mundo evolutivo, la tarea de conseguir armonía racial y cooperación social entre sus diversas razas es de proporciones considerables. Estas razas de colores diferentes y naturalezas variadas rara vez acogen bien el plan de hermandad humana. Estos hombres primitivos solo llegan a reconocer la sabiduría de la interasociación pacífica como resultado de una experiencia humana madura y gracias al ministerio fiel de los espíritus seráficos de la hermandad. Sin el trabajo de estas serafines, los esfuerzos de los Hijos Materiales por armonizar y hacer avanzar a las razas de un mundo en evolución se retrasarían enormemente. Y si vuestro Adán hubiera cumplido el plan original para el avance de Urantia, estos espíritus de hermandad ya habrían realizado a estas alturas transformaciones increíbles en la raza humana. En vista de la falta adánica, es verdaderamente sorprendente que estos órdenes seráficos hayan podido promover y hacer realidad incluso el grado de hermandad que tenéis ahora en Urantia."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "39:5.5",
       "pageReference": "437.4",
       "sortId": "2.039.005.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "3. *Las Almas de Paz.* Los primeros milenios de esfuerzos para lograr metas cada vez más altas de los hombres evolucionarios están marcados por muchas batallas. La paz no es estado natural de los mundos materiales. Los mundos llegan a darse cuenta de «la paz sobre la tierra y buena voluntad entre los hombres» mediante el ministerio de las almas seráficas de la paz. Aunque estos ángeles fueron en gran parte dificultados en sus primeros esfuerzos en Urantia, Vevona, jefe de las almas de la paz en los días de Adán, permaneció en Urantia y está ahora asignado al séquito del gobernador general residente. Y fue este mismo Vevona quien, como dirigente de las huestes angélicas, anunció a los mundos cuando nació Micael: «Gloria a Dios en Havona, y paz sobre la tierra y buena voluntad entre los hombres»."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "3. *Las almas de la paz*. Los primeros milenios de los esfuerzos ascendentes de los hombres evolutivos están marcados por muchas luchas. La paz no es el estado natural de los dominios materiales. Los mundos hacen realidad por primera vez «la paz en la tierra y la buena voluntad entre los hombres» gracias al ministerio de las almas seráficas de la paz. Aunque en Urantia los primeros esfuerzos de estas ángeles se frustraron en gran medida, Vevona, la jefa de las almas de la paz en tiempos de Adán, siguió destinada en Urantia y está adscrita ahora al equipo del gobernador general residente. Fue esta misma Vevona quien, como líder de las huestes angélicas, proclamó a los mundos cuando nació Miguel: «Gloria a Dios en Havona, y en la tierra paz y buena voluntad entre los hombres»."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "39:5.6",
       "pageReference": "437.5",
       "sortId": "2.039.005.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "En las épocas más avanzadas de evolución planetaria estos serafines son instrumentales en el reemplazo de la idea de la expiación por el concepto de la armonización divina como filosofía para la sobrevivencia mortal."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "En las épocas más avanzadas de la evolución planetaria, estas serafines desempeñan un papel crucial en la sustitución de la idea de la expiación por el concepto de la armonización con lo divino como filosofía de supervivencia de los mortales."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "39:5.7",
       "pageReference": "437.6",
       "sortId": "2.039.005.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "4. *Los Espíritus de la Confianza.* La desconfianza es la reacción inherente del hombre primitivo; las luchas por la sobrevivencia de las primeras edades no producen naturalmente la confianza. La confianza es una nueva adquisición humana obtenida por el ministerio de estos serafines planetarios del régimen adánico. Es misión de ellos inculcar la confianza en la mente del hombre en evolución. Los Dioses son muy confiados; el Padre Universal está dispuesto a confiar libremente por sí mismo —el Ajustador— en la asociación con el hombre."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "4. *Los espíritus de la confianza*. La desconfianza es la reacción inherente de los hombres primitivos; las luchas por la supervivencia de las primeras edades no generan confianza de forma natural. La confianza es una nueva adquisición humana fruto del ministerio de estas serafines planetarias del régimen adánico. Su misión es inculcar confianza en la mente de los hombres en evolución. Los Dioses son muy confiados; el Padre Universal está dispuesto a confiarse sin reservas —en el Ajustador— a la asociación con el hombre."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "39:5.8",
       "pageReference": "438.1",
       "sortId": "2.039.005.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Este entero grupo de serafines fue transferido al nuevo régimen después de la falta adánica, y desde entonces han continuado sus labores en Urantia. Y no han fracasado completamente puesto que está desarrollándose ahora una civilización que incorpora muchos de sus ideales de confianza y confiabilidad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Todo este grupo de serafines fue transferido al nuevo régimen tras el malogro adánico y han seguido trabajando en Urantia desde entonces. Y no han fracasado del todo, puesto que está evolucionando ahora una civilización que ha hecho suyos muchos de sus ideales de confianza y fiabilidad."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "39:5.9",
       "pageReference": "438.2",
       "sortId": "2.039.005.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "En las edades planetarias más avanzadas estos serafines enaltecen la apreciación humana de la verdad de que la incertidumbre es el secreto para un contento continuada. Ayudan a los filósofos mortales a darse cuenta de que, aun cuando la ignorancia es esencial para el éxito, sería un error colosal para la criatura conocer el futuro. Aumentan el gusto del hombre por la dulzura de la incertidumbre, por el romanticismo y el encanto de un futuro indefinido y desconocido."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "En las edades planetarias más avanzadas, estas serafines enseñan al hombre a apreciar mejor el valor de la incertidumbre como el verdadero secreto de una continuidad satisfactoria. Ayudan a los filósofos mortales a darse cuenta de que, cuando la ignorancia es esencial para el éxito, sería un error colosal que la criatura conociera el futuro. Acrecientan el gusto del hombre por el dulzor de la incertidumbre, por el romanticismo y el encanto de un futuro impreciso y desconocido."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "39:5.10",
       "pageReference": "438.3",
       "sortId": "2.039.005.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "5. *Los Transportadores.* Los transportadores planetarios sirven a los mundos individuales. La mayoría de los seres enserafinados que se traen a este planeta están en tránsito; tan sólo se detienen por un corto período; están custodiados por sus propios transportadores seráficos especiales; pero existe un gran número de tales serafines estacionados en Urantia. Estas son las personalidades de transporte que operan desde los planetas locales, como por ejemplo desde Urantia hasta Jerusem."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "5. *Las transportadoras*. Las transportadoras planetarias sirven a los mundos individuales. La mayoría de los seres enserafinados que llegan a este planeta están en tránsito; solo hacen escala; están bajo la custodia de sus propias transportadoras seráficas especiales. Sin embargo, hay un gran número de estas serafines emplazadas en Urantia. Son las personalidades de transporte que operan desde los planetas locales, por ejemplo de Urantia a Jerusem."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "39:5.11",
       "pageReference": "438.4",
       "sortId": "2.039.005.011",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Vuestra idea convencional de los ángeles se ha derivado de la siguiente manera: durante los momentos inmediatos antes de la muerte física a veces ocurre en la mente humana un fenómeno reflexivo, y esta conciencia que se va apagando parece visualizar algo de la forma del ángel guardián, la cual inmediatamente se traduce en términos del concepto habitual que de los ángeles tiene formada la mente de ese individuo."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Vuestra idea convencional sobre las ángeles tiene el siguiente origen: en los momentos inmediatamente anteriores a la muerte física, se produce a veces un fenómeno reflectante en la mente humana, y esta consciencia que se apaga parece visualizar algo de la forma de la ángel acompañante. Esto se traduce inmediatamente en términos del concepto habitual de las ángeles que tiene la mente de ese individuo."
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "39:5.12",
       "pageReference": "438.5",
       "sortId": "2.039.005.012",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "La idea errónea de que los ángeles poseen alas no se debe exclusivamente a la antigua idea de que si volaban por el aire debían tener alas. A los seres humanos algunas veces se les ha permitido observar a los serafines que estaban siendo preparados para el servicio de transporte, y las tradiciones de estas experiencias han determinado en gran parte el concepto de los ángeles que se tiene en Urantia. Al observar la preparación de un serafín de transporte para recibir a un pasajero para el tránsito interplanetario, es posible que se vea lo que aparentemente es un juego doble de alas que se extienden desde la cabeza hasta los pies del ángel. En realidad estas alas son aislantes de la energía —escudos de fricción."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "La idea errónea de que las ángeles poseen alas no se debe enteramente a las antiguas nociones de que debían tener alas para volar por los aires. Algunas veces se ha permitido a seres humanos observar a serafines que estaban siendo preparadas para un servicio de transporte, y las tradiciones de esas experiencias han influido considerablemente en el concepto urantiano de las ángeles. Al observar cómo es preparada una serafín de transporte para recibir a un pasajero en viaje interplanetario, se puede ver lo que parecen dobles juegos de alas que se extienden de la cabeza a los pies de la ángel. Esas alas son en realidad aisladores de energía, escudos antifricción."
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "39:5.13",
       "pageReference": "438.6",
       "sortId": "2.039.005.013",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Cuando los seres celestiales han de ser enserafinados para el transporte de un mundo a otro, se traen a la sede de la esfera y, después de registrarse debidamente, se les induce al sueño de tránsito. Mientras tanto, el serafín de transporte se coloca en una posición horizontal inmediatamente por encima del polo de energía universal del planeta. Mientras los escudos de energía están totalmente abiertos, la personalidad durmiente se deposita hábilmente, mediante el oficio de los asistentes seráficos, directamente encima del ángel transportador. Luego tanto los pares de escudos superiores como los inferiores se cierran y se ajustan cuidadosamente."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Cuando los seres celestiales han de ser enserafinados para su traslado de un mundo a otro, son traídos a la sede de la esfera y, tras el debido registro, se les provoca el sueño del tránsito. Mientras tanto, la serafín de transporte se coloca en posición horizontal directamente encima del polo de energía del universo del planeta. Con los escudos de energía abiertos de par en par, las asistentes seráficas de servicio depositan hábilmente a la personalidad dormida directamente encima de la ángel transportadora. Luego se cierran y ajustan cuidadosamente los pares de escudos superiores e inferiores."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "39:5.14",
       "pageReference": "438.7",
       "sortId": "2.039.005.014",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Ahora, bajo la influencia de los transformadores y de los transmitidores, comienza una extraña metamorfosis a medida que se prepara al serafín para que vire hacia las corrientes de energía de los circuitos del universo. La apariencia exterior del serafín se vuelve alargada en ambos extremos y tan envuelta en una luz extraña de tonalidad ámbar que muy pronto es imposible distinguir a la personalidad enserafinada. Cuando todo esto está listo para su partida, el jefe de transporte hace la inspección apropiada del vehículo de vida, lleva a cabo las pruebas de rutina para asegurarse de que el ángel esté adecuadamente conectado a los circuitos, luego anuncia que el viajero está debidamente enserafinado, que las energías están ajustadas, que el ángel está aislado, y que todo está listo para el destello de partida. Los controladores mecánicos, dos de ellos, ocupan entonces su posición. Ya para este momento el serafín de transporte se ha vuelto una luminosidad brillante casi transparente, vibrante, en forma de torpedo. En este momento, el despachador de transporte del reino reúne las baterías auxiliares de los transmisores de energía viviente, generalmente mil de ellos; al anunciar el destino del transporte, toca el punto cercano del vehículo seráfico, que sale despedido hacia adelante con una velocidad como la del rayo, dejando una huella de luminosidad celestial hasta donde llega la vestimenta atmosférica planetaria. En menos de diez minutos este maravilloso espectáculo se desvanece aun de la vista seráfica reforzada."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Entonces, bajo la influencia de los transformadores y los transmisores, empieza una extraña metamorfosis al tiempo que se prepara a la serafín para lanzarse a las corrientes de energía de los circuitos del universo. La apariencia exterior de la serafín se vuelve puntiaguda en ambos extremos, y queda tan envuelta en una rara luz de tonalidad ámbar que muy pronto se hace imposible distinguir a la personalidad enserafinada. Cuando todo está a punto para la partida, el jefe de transporte inspecciona el carruaje de vida, hace el examen de rutina para comprobar si la ángel está correctamente encircuitada y anuncia luego que el viajero está debidamente enserafinado, que las energías están ajustadas, que la ángel está aislada y que todo está a punto para el destello de salida. A continuación ocupan sus puestos dos controladores mecánicos. Para ese momento, la serafín de transporte se ha convertido en una vibrante silueta casi transparente con forma de torpedo resplandeciente de luz. Entonces el expedidor de transportes del mundo convoca a las baterías auxiliares de transmisores vivos de energía, normalmente mil. Y al tiempo que anuncia el destino del transporte, se estira y toca el punto más cercano del carruaje seráfico, que sale disparado a la velocidad del rayo dejando una estela de luminosidad celestial hasta donde se extiende la envoltura atmosférica planetaria. En menos de diez minutos se pierde de vista el maravilloso espectáculo, incluso para la visión reforzada de las serafines."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "39:5.15",
       "pageReference": "439.1",
       "sortId": "2.039.005.015",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "Aunque los informes planetarios espaciales se reciben al mediodía en el meridiano de la sede espiritual designada, los transportadores son despachados de este mismo lugar a la medianoche. Ésa es la hora más favorable para la partida y la hora normal cuando no se lo especifica de otra manera."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "Los informes espaciales planetarios se reciben a mediodía en el meridiano de la sede espiritual designada, en cambio las transportadoras son enviadas a medianoche desde ese mismo lugar. Es el momento más favorable para partir y la hora normal cuando no se especifica otra."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "39:5.16",
       "pageReference": "439.2",
       "sortId": "2.039.005.016",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "6. *Los Registradores.* Estos son los custodios de los asuntos principales del planeta, en sus funciones como parte del sistema, y en relación con y concerniente al gobierno del universo. Actúan para registrar los asuntos planetarios pero no se ocupan de los asuntos de la vida y existencia individual."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "6. *Las registradoras*. Son las depositarias de los asuntos principales del planeta en su funcionamiento como parte del sistema y su relación con el gobierno del universo. Su trabajo consiste en registrar los asuntos planetarios pero no se ocupan de cuestiones relacionadas con la vida y la existencia a nivel individual."
     },
     {
       "type": "paragraph",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "39:5.17",
       "pageReference": "439.3",
       "sortId": "2.039.005.017",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Asistentes Planetarios",
-      "markdown": "7. *Las Reservas.* El cuerpo reservista de Satania de serafines planetarios se mantiene en Jerusem en estrecha asociación con las reservas de los Hijos Materiales. Estas reservas abundantes proveen para toda fase de las múltiples actividades de esta orden seráfica. Estos ángeles son también los mensajeros personales de los sistemas locales. Sirven a los mortales en transición, a los ángeles, y a los Hijos Materiales así como a otros domiciliados en la sede central del sistema. Aunque Urantia está, actualmente, fuera de los circuitos espirituales de Satania y de Norlatiadek, estáis en contacto íntimo con los asuntos interplanetarios, puesto que estos mensajeros de Jerusem vienen frecuentemente a este mundo así como también a todas las demás esferas del sistema."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ayudantes planetarias",
+      "markdown": "7. *Las reservas*. El cuerpo de reserva de serafines planetarias de Satania se mantiene en Jerusem en estrecha asociación con las reservas de los Hijos Materiales. Estas numerosas reservas aseguran plenamente todos los aspectos de las múltiples actividades de este orden seráfico. Estas ángeles son también las mensajeras personales de los sistemas locales. Sirven a los mortales de transición, a las ángeles y a los Hijos Materiales, así como a otros seres domiciliados en la sede del sistema. Aunque Urantia está en el presente fuera de los circuitos espirituales de Satania y Norlatiadek, no habéis perdido el contacto íntimo con los asuntos interplanetarios, pues estas mensajeras de Jerusem vienen con frecuencia a este mundo igual que a todas las demás esferas del sistema."
     },
     {
       "type": "section",
@@ -1819,8 +1819,8 @@
       "standardReferenceId": "39:6.0",
       "pageReference": null,
       "sortId": "2.039.006.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
       "markdown": null
     },
     {
@@ -1837,9 +1837,9 @@
       "standardReferenceId": "39:6.1",
       "pageReference": "439.4",
       "sortId": "2.039.006.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "Como su nombre podría indicarlo, los serafines de ministerio transicional sirven dondequiera que puedan contribuir a la transición de la criatura del estado material al estado espiritual. Estos ángeles sirven desde los mundos habitados hasta las capitales de sistema, pero los que están en Satania presentemente dirigen sus más grandes esfuerzos hacia la educación de los mortales sobrevivientes en los siete mundos de estancia. Este ministerio se diversifica de acuerdo con las siguientes siete órdenes de asignación:"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "Como su nombre indica, las serafines del ministerio de transición sirven dondequiera que puedan contribuir a la transición de la criatura del estado material al espiritual. El servicio de estas ángeles se extiende desde los mundos habitados hasta las capitales de los sistemas, pero las que están ahora en Satania concentran sus esfuerzos en la educación de los mortales supervivientes de los siete mundos mansión. Este ministerio se diversifica con arreglo a los siete órdenes de asignación siguientes:"
     },
     {
       "type": "paragraph",
@@ -1855,9 +1855,9 @@
       "standardReferenceId": "39:6.2",
       "pageReference": "439.5",
       "sortId": "2.039.006.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "1. Evangelistas Seráficos."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "1. Evangelistas seráficas."
     },
     {
       "type": "paragraph",
@@ -1873,9 +1873,9 @@
       "standardReferenceId": "39:6.3",
       "pageReference": "439.6",
       "sortId": "2.039.006.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "2. Intérpretes Raciales."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "2. Intérpretes raciales."
     },
     {
       "type": "paragraph",
@@ -1891,9 +1891,9 @@
       "standardReferenceId": "39:6.4",
       "pageReference": "439.7",
       "sortId": "2.039.006.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "3. Planificadores de la Mente."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "3. Planificadoras de la mente."
     },
     {
       "type": "paragraph",
@@ -1909,9 +1909,9 @@
       "standardReferenceId": "39:6.5",
       "pageReference": "439.8",
       "sortId": "2.039.006.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "4. Consejeros Morontiales."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "4. Consejeras de la morontia."
     },
     {
       "type": "paragraph",
@@ -1927,9 +1927,9 @@
       "standardReferenceId": "39:6.6",
       "pageReference": "439.9",
       "sortId": "2.039.006.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "5. Técnicos."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "5. Técnicas."
     },
     {
       "type": "paragraph",
@@ -1945,9 +1945,9 @@
       "standardReferenceId": "39:6.7",
       "pageReference": "439.10",
       "sortId": "2.039.006.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "6. Registradores-Maestros."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "6. Maestras-registradoras."
     },
     {
       "type": "paragraph",
@@ -1963,9 +1963,9 @@
       "standardReferenceId": "39:6.8",
       "pageReference": "439.11",
       "sortId": "2.039.006.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "7. Reservistas Ministrantes."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "7. Reservas ministrantes."
     },
     {
       "type": "paragraph",
@@ -1981,9 +1981,9 @@
       "standardReferenceId": "39:6.9",
       "pageReference": "439.12",
       "sortId": "2.039.006.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Ministros de Transición",
-      "markdown": "Aprenderéis más acerca de estos ministros seráficos de los ascendentes transicionales en relación con los relatos que corresponden a los mundos de estancia y a la vida morontial."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las ministras de la transición",
+      "markdown": "Aprenderéis más cosas sobre estas ministradoras seráficas de los ascendentes en transición en las narraciones que tratan sobre los mundos mansión y la vida de la morontia."
     },
     {
       "type": "section",
@@ -1999,8 +1999,8 @@
       "standardReferenceId": "39:7.0",
       "pageReference": null,
       "sortId": "2.039.007.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines del Futuro",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines del futuro",
       "markdown": null
     },
     {
@@ -2017,9 +2017,9 @@
       "standardReferenceId": "39:7.1",
       "pageReference": "440.1",
       "sortId": "2.039.007.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines del Futuro",
-      "markdown": "Estos ángeles no ministran excepto en los reinos más antiguos y en los planetas más avanzados de Nebadon. Grandes números de ellos se mantienen en reserva en los mundos seráficos cerca de Salvington, donde se ocupan de actividades relacionadas con los futuros albores de la edad de luz y vida en Nebadon. Es verdad que estos serafines funcionan en relación con la carrera de los mortales ascendentes, pero sirven casi exclusivamente a aquellos mortales que sobreviven mediante alguna orden modificada de ascensión."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines del futuro",
+      "markdown": "Estas ángeles solo ejercen abundantemente su ministerio en los mundos más antiguos y en los planetas más avanzados de Nebadon. Muchas se mantienen de reserva en los mundos seráficos cercanos a Salvington, donde se ocupan de cuestiones relacionadas con el futuro amanecer de la edad de luz y vida en Nebadon. La función de estas serafines sí guarda relación con la carrera de los mortales ascendentes, aunque se dedican casi exclusivamente a los mortales que sobreviven mediante alguno de los órdenes modificados de ascensión."
     },
     {
       "type": "paragraph",
@@ -2035,9 +2035,9 @@
       "standardReferenceId": "39:7.2",
       "pageReference": "440.2",
       "sortId": "2.039.007.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Serafines del Futuro",
-      "markdown": "Ya que estos ángeles no se ocupan directamente ni de Urantia ni de sus habitantes, se considera conveniente abstenerse de describir sus fascinadoras actividades."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "Las serafines del futuro",
+      "markdown": "Dado que estas ángeles no se ocupan ahora directamente ni de Urantia ni de los urantianos, nos abstendremos de describir sus fascinantes actividades."
     },
     {
       "type": "section",
@@ -2053,8 +2053,8 @@
       "standardReferenceId": "39:8.0",
       "pageReference": null,
       "sortId": "2.039.008.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
       "markdown": null
     },
     {
@@ -2071,9 +2071,9 @@
       "standardReferenceId": "39:8.1",
       "pageReference": "440.3",
       "sortId": "2.039.008.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Los serafines se originan en los universos locales, y en estos mismos reinos de su natividad algunos alcanzan el destino de servicio. Con la ayuda y el consejo de los arcángeles decanos, algunos serafines pueden ser elevados a las tareas excelsas de Brillantes Estrellas Vespertinas, mientras que otros alcanzan el estado y servicio de los coordinados no revelados de las Estrellas Vespertinas. También se pueden intentar otras aventuras de destino en el universo local, pero Serafington siempre es el objetivo eterno de todos los ángeles. Serafington es el umbral angélico al Paraíso y al alcance de la Deidad, la esfera de transición del ministerio del tiempo al servicio excelso de la eternidad."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Las serafines son originarias de los universos locales y algunas logran su destino de servicio en esos mismos dominios donde han nacido. Con la ayuda y el consejo de los arcángeles más experimentados, algunas serafines pueden ser elevadas a la ensalzada función de Brillantes Estrellas Vespertinas, mientras que otras alcanzan el estatus y el servicio de los seres no revelados de igual rango que las Estrellas Vespertinas. También pueden intentar otras aventuras en su destino en el universo local, pero Serafington seguirá siendo siempre la meta eterna de todas las ángeles. Serafington es el umbral angélico para alcanzar el Paraíso y llegar hasta la Deidad, la esfera de transición entre el ministerio del tiempo y el servicio excelso de la eternidad."
     },
     {
       "type": "paragraph",
@@ -2089,9 +2089,9 @@
       "standardReferenceId": "39:8.2",
       "pageReference": "440.4",
       "sortId": "2.039.008.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Los serafines pueden alcanzar el Paraíso en decenas o centenares de maneras, pero las más importantes mencionadas en estas narrativas son las siguientes:"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Las serafines pueden alcanzar el Paraíso por muchas vías —cientos de ellas— pero las más importantes, tal como se expone en estas narraciones, son las siguientes:"
     },
     {
       "type": "paragraph",
@@ -2107,9 +2107,9 @@
       "standardReferenceId": "39:8.3",
       "pageReference": "440.5",
       "sortId": "2.039.008.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "1. Ser admitido a la morada seráfica del Paraíso en calidad de persona mediante el alcance de la perfección en un servicio especializado tal como artesano celestial, Consejero Técnico, o Registrador Celestial. Tornarse Compañero Paradisiaco y, habiendo alcanzado de esta manera el centro de todas las cosas, tal vez entonces volverse ministro eterno y consejero para las órdenes seráficas y otras."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "1. Ser admitida a título personal en la morada seráfica del Paraíso por haber conseguido la perfección en un servicio especializado como artesana celestial, Asesora Técnica o Registradora Celestial. Convertirse en Acompañante del Paraíso y, tras haber alcanzado así el centro de todas las cosas, llegar a ser quizás ministra y asesora eterna de los órdenes seráficos y otros."
     },
     {
       "type": "paragraph",
@@ -2125,9 +2125,9 @@
       "standardReferenceId": "39:8.4",
       "pageReference": "440.6",
       "sortId": "2.039.008.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "2. Ser convocado a Serafington. Bajo ciertas condiciones los serafines son convocados a las alturas; en otras circunstancias los ángeles a veces alcanzan el Paraíso en un período de tiempo mucho más corto que los mortales. Pero aunque un par seráfico sea altamente adecuado, no puede iniciar la partida hacia Serafington ni a ningún otro lado. Sólo los guardianes del destino triunfantes están seguros de proceder hacia el Paraíso por el sendero progresivo de ascensión evolucionaria. Todos los demás deben aguardar pacientemente la llegada de los mensajeros del Paraíso de los supernafines terciarios que traen la convocación que les manda aparecer en las alturas."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "2. Ser convocada a Serafington. Bajo ciertas condiciones las serafines son llamadas a comparecer en lo alto; en otras circunstancias las ángeles consiguen a veces llegar al Paraíso en mucho menos tiempo que los mortales. Pero por muy capacitado que esté, un par seráfico no puede iniciar su partida hacia Serafington ni hacia ningún otro lugar. Solo las guardianas del destino que han tenido éxito pueden tener la seguridad de seguir hacia el Paraíso por una senda progresiva de ascenso evolutivo. Todas las demás deben esperar pacientemente la llegada de los mensajeros paradisiacos de las supernafines terciarias con la orden de comparecer en lo alto."
     },
     {
       "type": "paragraph",
@@ -2143,9 +2143,9 @@
       "standardReferenceId": "39:8.5",
       "pageReference": "440.7",
       "sortId": "2.039.008.005",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "3. Alcanzar el Paraíso por la técnica evolucionaria mortal. La elección suprema de los serafines en la carrera del tiempo es el puesto de ángel guardián para poder alcanzar la carrera de finalidad y calificar para la asignación a las esferas eternas del servicio seráfico. Estos guías personales de los hijos del tiempo se llaman guardianes del destino, lo cual significa que protegen a las criaturas mortales en el camino del destino divino, y que al hacer así determinan su propio destino elevado."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "3. Alcanzar el Paraíso por la técnica evolutiva de los mortales. La elección suprema de las serafines en la carrera del tiempo es el puesto de ángel guardiana a fin de poder acceder a la carrera de la finalización y cualificarse para ser destinadas a las esferas eternas de servicio seráfico. Estas guías personales de los hijos del tiempo se llaman guardianas del destino, lo que significa que custodian a las criaturas mortales en la senda del destino divino y que al hacerlo están determinando su propio alto destino."
     },
     {
       "type": "paragraph",
@@ -2161,9 +2161,9 @@
       "standardReferenceId": "39:8.6",
       "pageReference": "440.8",
       "sortId": "2.039.008.006",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Se seleccionan los guardianes del destino de las filas de las personalidades angélicas más expertas de todas las órdenes de serafines que han calificado para este servicio. Todos los mortales sobrevivientes del destino de fusión con el Ajustador tienen guardianes temporales asignados a ellos, y estos asociados pueden ser asignados permanentemente cuando los sobrevivientes mortales alcanzan el necesario desarrollo intelectual y espiritual. Antes de que los ascendentes mortales abandonen los mundos de estancia, todos ellos tienen asociados seráficos permanentes. Este grupo de espíritus ministrantes se describe en los relatos sobre Urantia."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Las guardianas del destino son seleccionadas de entre las personalidades angélicas más experimentadas de todos los órdenes de serafines que se han cualificado para este servicio. Todos los mortales supervivientes destinados a fusionarse con el Ajustador tienen guardianas temporales asignadas, y estas compañeras pueden quedar adscritas de forma permanente cuando los supervivientes mortales alcanzan el desarrollo intelectual y espiritual requerido. Antes de que los ascendentes mortales dejen los mundos mansión, todos tienen compañeras seráficas permanentes. Este grupo de espíritus ministrantes se describirá en las narraciones sobre Urantia."
     },
     {
       "type": "paragraph",
@@ -2179,9 +2179,9 @@
       "standardReferenceId": "39:8.7",
       "pageReference": "441.1",
       "sortId": "2.039.008.007",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "No es posible para los ángeles alcanzar a Dios desde el nivel de origen humano, porque son creados un «poco más alto que vosotros»; pero se ha dispuesto sabiamente que, aunque no puedan comenzar desde abajo, desde las tierras espirituales inferiores de la existencia mortal, pueden bajar a ellas hacia los que sí comienzan allí su carrera y pilotear a estas criaturas, paso a paso, de un mundo a otro, hasta las puertas de Havona. Cuando los mortales ascendentes abandonan Uversa para comenzar los círculos de Havona, aquellos guardianes de asignación subsiguiente a la vida en la carne se despiden temporalmente de sus asociados peregrinos mientras viajan a Serafington, el destino angélico del gran universo. Aquí intentarán estos guardianes, e indudablemente lograrán, los siete círculos de la luz seráfica."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Las ángeles no pueden llegar a Dios desde el nivel humano de origen, pues son creadas un «poco más altas que vosotros». Pero, aunque no puedan de ninguna manera empezar desde el fondo, desde el punto espiritualmente más bajo de la existencia mortal, se ha dispuesto sabiamente que puedan descender hasta los que empiezan desde abajo del todo y conducir a esas criaturas, paso a paso, mundo a mundo, hasta los portales de Havona. Cuando los mortales ascendentes salen de Uversa para empezar los círculos de Havona, las guardianas que estuvieron vinculadas a ellos después de su vida en la carne se despiden temporalmente de sus compañeros peregrinos y se dirigen hacia Serafington, el destino angélico del gran universo. Allí intentarán alcanzar, y alcanzarán sin duda, los siete círculos de luz seráfica."
     },
     {
       "type": "paragraph",
@@ -2197,9 +2197,9 @@
       "standardReferenceId": "39:8.8",
       "pageReference": "441.2",
       "sortId": "2.039.008.008",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Muchos, pero no todos, de estos serafines asignados como guardianes de destino durante la vida material acompañan a sus asociados mortales a través de los círculos de Havona, y algunos otros serafines pasan a través de los círculos del universo central en forma totalmente diferente de la de los ascendentes mortales. Pero sea cual fuere la ruta de ascensión, todos los serafines evolucionarios atraviesan Serafington, y la mayoría pasa a través de esta experiencia en vez de los circuitos de Havona."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Muchas de las serafines asignadas como guardianas del destino durante la vida material, aunque no todas, acompañan a sus compañeros mortales a través de los círculos de Havona, mientras que algunas otras serafines pasan a través de los circuitos del universo central de forma totalmente distinta a la del ascenso de los mortales. Pero sea cual sea la ruta de ascenso, todas las serafines evolutivas atraviesan Serafington, y la mayoría pasa por esta experiencia en vez de pasar por los circuitos de Havona."
     },
     {
       "type": "paragraph",
@@ -2215,9 +2215,9 @@
       "standardReferenceId": "39:8.9",
       "pageReference": "441.3",
       "sortId": "2.039.008.009",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Serafington es la esfera de destino para los ángeles, y su logro de este mundo es muy distinto de las experiencias de los peregrinos mortales en Ascendington. Los ángeles no están absolutamente seguros de su futuro eterno hasta haber llegado a Serafington. Ningún ángel que haya alcanzado a Serafington se ha descarriado jamás; el pecado nunca encontrará respuesta en el corazón de un serafín de consumación."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Serafington es la esfera de destino de las ángeles y su consecución de ese mundo es muy diferente a las experiencias de los peregrinos mortales en Ascendington. Las ángeles no están absolutamente seguras de su futuro eterno hasta que alcanzan Serafington. No se conoce ningún caso de ángel que se haya descarriado después de llegar a Serafington; el pecado no encontrará nunca lugar en el corazón de una serafín de la compleción."
     },
     {
       "type": "paragraph",
@@ -2233,9 +2233,9 @@
       "standardReferenceId": "39:8.10",
       "pageReference": "441.4",
       "sortId": "2.039.008.010",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "El Destino Seráfico",
-      "markdown": "Los graduados de Serafington tienen asignaciones varias: los guardianes de destino con experiencia en los círculos de Havona generalmente entran en el Cuerpo de Finalistas Mortales. Otros guardianes, habiendo pasado sus pruebas de separación de Havona, frecuentemente vuelven a unirse a sus asociados mortales en el Paraíso, y algunos se vuelven los asociados sempiternos de los finalistas mortales, mientras que otros entran a los distintos cuerpos no mortales de finalistas, y muchos son incorporados a los cuerpos de Consumación Seráfica."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El destino seráfico",
+      "markdown": "Las graduadas de Serafington reciben distintas asignaciones: las guardianas del destino con experiencia en los círculos de Havona entran generalmente en el Cuerpo de Finalitarios Mortales. Otras guardianas, tras superar sus pruebas de clasificación en Havona, suelen reunirse con sus compañeros mortales en el Paraíso, y algunas se convierten en compañeras perpetuas de los finalitarios mortales, mientras que otras entran en los diversos cuerpos de finalitarios no mortales y muchas se incorporan al Cuerpo de la Compleción Seráfica."
     },
     {
       "type": "section",
@@ -2251,8 +2251,8 @@
       "standardReferenceId": "39:9.0",
       "pageReference": null,
       "sortId": "2.039.009.000",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Los Cuerpos de Consumación Seráfica",
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El Cuerpo de la Compleción Seráfica",
       "markdown": null
     },
     {
@@ -2269,9 +2269,9 @@
       "standardReferenceId": "39:9.1",
       "pageReference": "441.5",
       "sortId": "2.039.009.001",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Los Cuerpos de Consumación Seráfica",
-      "markdown": "Después de alcanzar al Padre de los espíritus y de ser admitidos al servicio seráfico de consumación, a los ángeles se les asigna a veces al ministerio de los mundos establecidos en luz y vida. Logran la asignación a los elevados seres trinidizados de los universos y a los servicios excelsos del Paraíso y de Havona. Estos serafines de los universos locales han compensado experiencialmente el diferencial en potencial de divinidad que anteriormente los separaba de los espíritus ministrantes del universo central y de los superuniversos. Los ángeles de los Cuerpos Seráficos de Consumación sirven como asociados de los seconafines del superuniverso y como asistentes a las altas órdenes de supernafines del Paraíso-Havona. Para estos ángeles la carrera del tiempo ha terminado; de allí en adelante y por siempre son los servidores de Dios, los cónyuges de las personalidades divinas, y los compañeros de los finalistas del Paraíso."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El Cuerpo de la Compleción Seráfica",
+      "markdown": "Después de alcanzar al Padre de los espíritus y de ser admitidas en el servicio seráfico de la compleción, las ángeles son destinadas a veces al ministerio de los mundos asentados en luz y vida. Logran vincularse a los altos seres trinizados de los universos y a los excelsos servicios del Paraíso y de Havona. Estas serafines de los universos locales han compensado experiencialmente la diferencia en potencial de divinidad que las separaba antes de los espíritus ministrantes del universo central y los superuniversos. Las ángeles del Cuerpo de la Compleción Seráfica sirven como adjuntas de las seconafines de los superuniversos y como auxiliares de los altos órdenes de supernafines del Paraíso-Havona. Para esas ángeles la carrera del tiempo ha terminado. En adelante y para siempre serán las servidoras de Dios, las consortes de las personalidades divinas y las iguales de los finalitarios del Paraíso."
     },
     {
       "type": "paragraph",
@@ -2287,9 +2287,9 @@
       "standardReferenceId": "39:9.2",
       "pageReference": "441.6",
       "sortId": "2.039.009.002",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Los Cuerpos de Consumación Seráfica",
-      "markdown": "Grandes números de serafines de consumación vuelven a sus universos nativos, para complementar allí el ministerio de dote divina con el ministerio de la perfección experiencial. Nebadon es, hablando comparativamente, uno de los universos más jóvenes y por lo tanto no tiene tantos de estos graduados serafingtonicos reintegrados como se encuentran en reinos más antiguos; sin embargo nuestro universo local está adecuadamente provisto de serafines de consumación, porque es significativo que los reinos evolucionarios revelan una necesidad en aumento de estos servicios a medida que se van acercando al estado de la luz y la vida. Actualmente los serafines de consumación sirven más ampliamente con las órdenes supremas de los serafines, pero algunos sirven con cada una de las demás órdenes angélicas. Aun vuestro mundo disfruta de un amplio ministerio de doce grupos especializados del Cuerpo de Consumación Seráfica; estos decanos serafines de supervisión planetaria acompañan a cada Príncipe Planetario que es comisionado a los mundos habitados."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El Cuerpo de la Compleción Seráfica",
+      "markdown": "Muchas serafines de la compleción vuelven a sus universos nativos donde complementan el ministerio de la dotación divina con el ministerio de la perfección experiencial. Nebadon es, comparativamente hablando, uno de los universos más jóvenes y por eso no tiene tantas graduadas que hayan vuelto de Serafington como otros dominios más antiguos. Sin embargo, nuestro universo local está bien provisto de serafines de la compleción, y es significativo observar que los mundos evolutivos muestran una necesidad creciente de sus servicios a medida que se acercan al estatus de luz y vida. Las serafines de la compleción sirven ahora de forma más generalizada con los órdenes supremos de serafines, pero algunas sirven con cada uno de los otros órdenes angélicos. Incluso vuestro mundo disfruta del amplio ministerio de doce grupos especializados del Cuerpo de la Compleción Seráfica. Estas serafines maestras dedicadas a la supervisión planetaria acompañan a los mundos habitados a cada uno de los Príncipes Planetarios recién destinados."
     },
     {
       "type": "paragraph",
@@ -2305,9 +2305,9 @@
       "standardReferenceId": "39:9.3",
       "pageReference": "442.1",
       "sortId": "2.039.009.003",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Los Cuerpos de Consumación Seráfica",
-      "markdown": "Muchas avenidas fascinantes de ministerio están abiertas a los serafines de consumación, pero tal como todos ellos anhelaban la asignación como guardianes del destino en los días pre-paradisiacos, así en la experiencia post-paradisiaca desean particularmente servir como asistentes de autootorgamiento de los Hijos Paradisiacos encarnados. Siguen estando dedicados supremamente a ese plan universal de iniciar para las criaturas mortales de los mundos evolucionarios el largo y atrayente viaje hacia el objetivo paradisiaco de divinidad y eternidad. A lo largo de la entera aventura mortal de encontrar a Dios y de alcanzar la perfección divina, estos ministros espirituales de consumación seráfica, juntamente con los fieles espíritus ministrantes del tiempo, son por siempre y para siempre vuestros verdaderos amigos y asistentes infalibles."
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El Cuerpo de la Compleción Seráfica",
+      "markdown": "Muchas vías fascinantes de ministerio se abren para las serafines de la compleción, pero igual que todas ellas anhelaban misiones como guardianas del destino en los tiempos anteriores a su llegada al Paraíso, lo que más desean tras llegar al Paraíso es servir como acompañantes de los Hijos del Paraíso encarnados en sus otorgamientos. Siguen estando supremamente dedicadas al plan universal de iniciar a las criaturas mortales de los mundos evolutivos en el largo e ilusionante viaje hacia la meta paradisiaca de divinidad y eternidad. Durante toda la aventura del mortal de encontrar a Dios y conseguir la perfección divina, estas ministradoras espirituales de la compleción seráfica, junto con los fieles espíritus ministrantes del tiempo, serán para vosotros siempre y por siempre amigas verdaderas y ayudantes a toda prueba."
     },
     {
       "type": "paragraph",
@@ -2323,9 +2323,9 @@
       "standardReferenceId": "39:9.4",
       "pageReference": "442.2",
       "sortId": "2.039.009.004",
-      "paperTitle": "Las Huestes Seráficas",
-      "sectionTitle": "Los Cuerpos de Consumación Seráfica",
-      "markdown": "[Presentado por un Melquisedek que actúa por solicitud del Jefe de las Huestes Seráficas de Nebadon.]"
+      "paperTitle": "Las huestes seráficas",
+      "sectionTitle": "El Cuerpo de la Compleción Seráfica",
+      "markdown": "[Presentado por un Melquisedec que actúa a petición del jefe de las huestes seráficas de Nebadon.]"
     }
   ]
 }

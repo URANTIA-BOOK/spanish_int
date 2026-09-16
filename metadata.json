@@ -1,8 +1,8 @@
 {
-  "source_file": "uf-spa-419-1993-1.9.md",
-  "source_sha256": "08e2dd5b52c620709f44aedc8dc5e189f6bd4eba2916e335e6242a4e3fc044ae",
+  "source_file": "uf-spa-001-2021-1.2.md",
+  "source_sha256": "a61390298db1834bb498f41b9cc54d4ac11ba3753a91db597142f24e8992dec7",
   "source_layout": "monolith",
-  "source_url": "https://www.urantia.org/sites/default/files/book/es/uf-spa-419-1993-1.9-md.zip",
+  "source_url": "https://www.urantia.org/sites/default/files/book/es-int/uf-spa-001-2021-1.2-md.zip",
   "pipeline_version": 3,
   "front_matter": [
     {
@@ -13,35 +13,31 @@
     {
       "role": "Parts",
       "path": "parts.md",
-      "label": "Las Partes del Libro"
+      "label": "Las partes del libro"
     },
     {
       "role": "Titles",
       "path": "titles.md",
-      "label": "Los Títulos de los Documentos"
+      "label": "Los títulos de los documentos"
     },
     {
       "role": "Contents",
       "path": "contents.md",
-      "label": "Contenido del Libro"
+      "label": "Contenido del libro"
     }
   ],
   "language_code": "spa",
-  "region_code": "419",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "region_code": "001",
+  "version_id": "UF-SPA-001-2021-1.2",
   "version_stamp": "UF-202412132348",
-  "version_number": "1.9",
-  "first_published": 1993,
-  "copyright_year": 1993,
+  "version_number": "1.2",
+  "first_published": 2021,
+  "copyright_year": 2021,
   "edition_native": "Traducción al español",
-  "edition_english": "Spanish Translation (Latin American Edition), 2024 Release",
-  "isbns": [
-    "978-1883395-049 (eBook)",
-    "978-1883395-025 (tapa rústica)",
-    "978-1883395-216 (tapa dura)"
-  ],
+  "edition_english": "Spanish Translation (International Edition), 2024 Release",
+  "isbns": [],
   "book_title": "El libro de Urantia",
-  "release_branch": "release/spa-1.9",
+  "release_branch": "release/spa-1.2",
   "git_author_name": "URANTIA FOUNDATION",
   "git_author_email": "foundation@urantia.org",
   "parts": [
@@ -57,8 +53,8 @@
     },
     {
       "id": 1,
-      "label": "PARTE I — El Universo Central y los Superuniversos",
-      "title": "El Universo Central y los Superuniversos",
+      "label": "Parte I — El universo central y los superuniversos",
+      "title": "El universo central y los superuniversos",
       "branch": "part/1-el-universo-central-y-los-superuniversos",
       "subdir": "part-1",
       "papers": [
@@ -97,8 +93,8 @@
     },
     {
       "id": 2,
-      "label": "PARTE II — El Universo Local",
-      "title": "El Universo Local",
+      "label": "Parte II — El universo local",
+      "title": "El universo local",
       "branch": "part/2-el-universo-local",
       "subdir": "part-2",
       "papers": [
@@ -131,9 +127,9 @@
     },
     {
       "id": 3,
-      "label": "PARTE III — La Historia de Urantia",
-      "title": "La Historia de Urantia",
-      "branch": "part/3-la-historia-de-urantia",
+      "label": "Parte III — Historia de Urantia",
+      "title": "Historia de Urantia",
+      "branch": "part/3-historia-de-urantia",
       "subdir": "part-3",
       "papers": [
         57,
@@ -203,9 +199,9 @@
     },
     {
       "id": 4,
-      "label": "PARTE IV — La Vida y las Enseñanzas de Jesus",
-      "title": "La Vida y las Enseñanzas de Jesus",
-      "branch": "part/4-la-vida-y-las-ensenanzas-de-jesus",
+      "label": "Parte IV — Vida y enseñanzas de Jesús",
+      "title": "Vida y enseñanzas de Jesús",
+      "branch": "part/4-vida-y-ensenanzas-de-jesus",
       "subdir": "part-4",
       "papers": [
         120,
@@ -300,22 +296,22 @@
       "page": 21
     },
     "2": {
-      "title": "La Naturaleza de Dios",
+      "title": "La naturaleza de Dios",
       "author": "Consejero Divino",
       "page": 33
     },
     "3": {
-      "title": "Los Atributos de Dios",
+      "title": "Los atributos de Dios",
       "author": "Consejero Divino",
       "page": 44
     },
     "4": {
-      "title": "La Relación de Dios con el Universo",
+      "title": "La relación de Dios con el universo",
       "author": "Consejero Divino",
       "page": 54
     },
     "5": {
-      "title": "La Relación de Dios con el Individuo",
+      "title": "La relación de Dios con el individuo",
       "author": "Consejero Divino",
       "page": 62
     },
@@ -325,7 +321,7 @@
       "page": 73
     },
     "7": {
-      "title": "La Relación del Hijo Eterno con el Universo",
+      "title": "La relación del Hijo Eterno con el universo",
       "author": "Consejero Divino",
       "page": 81
     },
@@ -335,7 +331,7 @@
       "page": 90
     },
     "9": {
-      "title": "La Relación del Espíritu Infinito con el Universo",
+      "title": "La relación del Espíritu Infinito con el universo",
       "author": "Consejero Divino",
       "page": 98
     },
@@ -350,57 +346,57 @@
       "page": 118
     },
     "12": {
-      "title": "El Universo de los Universos",
+      "title": "El universo de universos",
       "author": "Perfeccionador de la Sabiduría",
       "page": 128
     },
     "13": {
-      "title": "Las Esferas Sagradas del Paraíso",
+      "title": "Las esferas sagradas del Paraíso",
       "author": "Perfeccionador de la Sabiduría",
       "page": 143
     },
     "14": {
-      "title": "El Universo Central y Divino",
+      "title": "El universo central y divino",
       "author": "Perfeccionador de la Sabiduría",
       "page": 152
     },
     "15": {
-      "title": "Los Siete Superuniversos",
+      "title": "Los siete superuniversos",
       "author": "Censor Universal",
       "page": 164
     },
     "16": {
-      "title": "Los Siete Espíritus Rectores",
+      "title": "Los siete Espíritus Maestros",
       "author": "Censor Universal",
       "page": 184
     },
     "17": {
-      "title": "Los Siete Grupos de Espíritus Supremos",
+      "title": "Los siete grupos de Espíritus Supremos",
       "author": "Consejero Divino",
       "page": 197
     },
     "18": {
-      "title": "Las Personalidades Supremas Trinitarias",
+      "title": "Las personalidades supremas de la Trinidad",
       "author": "Consejero Divino",
       "page": 207
     },
     "19": {
-      "title": "Los Seres Coordinados de Origen en la Trinidad",
+      "title": "Los seres de igual rango con origen en la Trinidad",
       "author": "Consejero Divino",
       "page": 214
     },
     "20": {
-      "title": "Los Hijos de Dios Paradisiacos",
+      "title": "Los Hijos de Dios del Paraíso",
       "author": "Perfeccionador de la Sabiduría",
       "page": 223
     },
     "21": {
-      "title": "Los Hijos Creadores Paradisiacos",
+      "title": "Los Hijos Creadores del Paraíso",
       "author": "Perfeccionador de la Sabiduría",
       "page": 234
     },
     "22": {
-      "title": "Los Hijos de Dios Trinidizados",
+      "title": "Los Hijos Trinizados de Dios",
       "author": "Mensajero Poderoso",
       "page": 243
     },
@@ -410,62 +406,62 @@
       "page": 256
     },
     "24": {
-      "title": "Las Personalidades Más Elevadas del Espíritu Infinito",
+      "title": "Las personalidades más altas del Espíritu Infinito",
       "author": "Consejero Divino",
       "page": 264
     },
     "25": {
-      "title": "Las Huestes de Mensajeros del Espacio",
+      "title": "Las huestes de mensajeros del espacio",
       "author": "Un Elevado en Autoridad",
       "page": 273
     },
     "26": {
-      "title": "Los Espíritus Ministrantes del Universo Central",
+      "title": "Los espíritus ministrantes del universo central",
       "author": "Perfeccionador de la Sabiduría",
       "page": 285
     },
     "27": {
-      "title": "El Ministerio de los Supernafines Primarios",
+      "title": "El ministerio de las supernafines primarias",
       "author": "Perfeccionador de la Sabiduría",
       "page": 298
     },
     "28": {
-      "title": "Los Espíritus Ministrantes de los Superuniversos",
+      "title": "Los espíritus ministrantes de los superuniversos",
       "author": "Mensajero Poderoso",
       "page": 306
     },
     "29": {
-      "title": "Los Directores del Poder Universal",
+      "title": "Los Directores del Poder del Universo",
       "author": "Censor Universal",
       "page": 319
     },
     "30": {
-      "title": "Las Personalidades del Gran Universo",
+      "title": "Las personalidades del gran universo",
       "author": "Mensajero Poderoso",
       "page": 330
     },
     "31": {
-      "title": "El Cuerpo de la Finalidad",
+      "title": "El Cuerpo de la Finalización",
       "author": "Consejero Divino y Un Sin Nombre ni Número",
       "page": 345
     },
     "32": {
-      "title": "La Evolución de los Universos Locales",
+      "title": "La evolución de los universos locales",
       "author": "Mensajero Poderoso",
       "page": 357
     },
     "33": {
-      "title": "La Administración del Universo Local",
+      "title": "La administración del universo local",
       "author": "Jefe de los Arcángeles",
       "page": 366
     },
     "34": {
-      "title": "El Espíritu Materno del Universo Local",
+      "title": "El Espíritu Madre del universo local",
       "author": "Mensajero Poderoso",
       "page": 374
     },
     "35": {
-      "title": "Los Hijos de Dios de los Universos Locales",
+      "title": "Los Hijos de Dios de los universos locales",
       "author": "Jefe de los Arcángeles",
       "page": 384
     },
@@ -475,67 +471,67 @@
       "page": 396
     },
     "37": {
-      "title": "Las Personalidades del Universo Local",
+      "title": "Las personalidades del universo local",
       "author": "Estrella Vespertina",
       "page": 406
     },
     "38": {
-      "title": "Los Espíritus Ministrantes del Universo Local",
+      "title": "Los espíritus ministrantes del universo local",
       "author": "Melquisedek",
       "page": 418
     },
     "39": {
-      "title": "Las Huestes Seráficas",
+      "title": "Las huestes seráficas",
       "author": "Melquisedek",
       "page": 426
     },
     "40": {
-      "title": "Los Hijos de Dios Ascendentes",
+      "title": "Los Hijos de Dios ascendentes",
       "author": "Mensajero Poderoso",
       "page": 443
     },
     "41": {
-      "title": "Los Aspectos Físicos del Universo Local",
+      "title": "Los aspectos físicos del universo local",
       "author": "Arcángel",
       "page": 455
     },
     "42": {
-      "title": "La Energía — La Mente y la Materia",
+      "title": "La energía: la mente y la materia",
       "author": "Mensajero Poderoso",
       "page": 467
     },
     "43": {
-      "title": "Las Constelaciones",
+      "title": "Las constelaciones",
       "author": "Malavatia Melquisedek",
       "page": 485
     },
     "44": {
-      "title": "Los Artesanos Celestiales",
+      "title": "Los artesanos celestiales",
       "author": "Arcángel",
       "page": 497
     },
     "45": {
-      "title": "La Administración del Sistema Local",
+      "title": "La administración del sistema local",
       "author": "Melquisedek",
       "page": 509
     },
     "46": {
-      "title": "La Sede Central del Sistema Local",
+      "title": "La sede del sistema local",
       "author": "Arcángel",
       "page": 519
     },
     "47": {
-      "title": "Los Siete Mundos de Estancia",
+      "title": "Los siete mundos mansión",
       "author": "Estrella Vespertina",
       "page": 530
     },
     "48": {
-      "title": "La Vida Morontial",
+      "title": "La vida en la morontia",
       "author": "Arcángel",
       "page": 541
     },
     "49": {
-      "title": "Los Mundos Habitados",
+      "title": "Los mundos habitados",
       "author": "Melquisedek",
       "page": 559
     },
@@ -545,77 +541,77 @@
       "page": 572
     },
     "51": {
-      "title": "Los Adanes Planetarios",
+      "title": "Los Adanes planetarios",
       "author": "Lanonandek Secundario",
       "page": 580
     },
     "52": {
-      "title": "Las Épocas Planetarias de los Mortales",
+      "title": "Las épocas planetarias de los mortales",
       "author": "Mensajero Poderoso",
       "page": 589
     },
     "53": {
-      "title": "La Rebelión de Lucifer",
+      "title": "La rebelión de Lucifer",
       "author": "Manovandet Melquisedek",
       "page": 601
     },
     "54": {
-      "title": "Los Problemas de la Rebelión de Lucifer",
+      "title": "Los problemas de la rebelión de Lucifer",
       "author": "Mensajero Poderoso",
       "page": 613
     },
     "55": {
-      "title": "Las Esferas de Luz y Vida",
+      "title": "Las esferas de luz y vida",
       "author": "Mensajero Poderoso",
       "page": 621
     },
     "56": {
-      "title": "Unidad Universal",
+      "title": "La unidad universal",
       "author": "Mensajero Poderoso y Machiventa Melquisedek",
       "page": 637
     },
     "57": {
-      "title": "El Origen de Urantia",
+      "title": "El origen de Urantia",
       "author": "Portador de Vida",
       "page": 651
     },
     "58": {
-      "title": "El Establecimiento de la Vida en Urantia",
+      "title": "El establecimiento de la vida en Urantia",
       "author": "Portador de Vida",
       "page": 664
     },
     "59": {
-      "title": "La Era de la Vida Marina en Urantia",
+      "title": "La era de la vida marina en Urantia",
       "author": "Portador de Vida",
       "page": 672
     },
     "60": {
-      "title": "Urantia Durante la Era Primitiva de la Vida Terrestre",
+      "title": "Urantia durante la era de la primera vida terrestre",
       "author": "Portador de Vida",
       "page": 685
     },
     "61": {
-      "title": "La Era de los Mamíferos en Urantia",
+      "title": "La era de los mamíferos en Urantia",
       "author": "Portador de Vida",
       "page": 693
     },
     "62": {
-      "title": "Las Razas Protohumanas del Hombre Primitivo",
+      "title": "Las razas de los albores del primer hombre",
       "author": "Portador de Vida",
       "page": 703
     },
     "63": {
-      "title": "La Primera Familia Humana",
+      "title": "La primera familia humana",
       "author": "Portador de Vida",
       "page": 711
     },
     "64": {
-      "title": "Las Razas Evolucionarias de Color",
+      "title": "Las razas evolutivas de color",
       "author": "Portador de Vida",
       "page": 718
     },
     "65": {
-      "title": "La Supervisión de la Evolución",
+      "title": "El sobrecontrol de la evolución",
       "author": "Portador de Vida",
       "page": 730
     },
@@ -625,32 +621,32 @@
       "page": 741
     },
     "67": {
-      "title": "La Rebelión Planetaria",
+      "title": "La rebelión planetaria",
       "author": "Melquisedek",
       "page": 754
     },
     "68": {
-      "title": "Los Albores de la Civilización",
+      "title": "Los albores de la civilización",
       "author": "Melquisedek",
       "page": 763
     },
     "69": {
-      "title": "Las Instituciones Humanas Primitivas",
+      "title": "Las instituciones humanas primitivas",
       "author": "Melquisedek",
       "page": 772
     },
     "70": {
-      "title": "La Evolución del Gobierno Humano",
+      "title": "La evolución del gobierno humano",
       "author": "Melquisedek",
       "page": 783
     },
     "71": {
-      "title": "El Desarrollo del Estado",
+      "title": "El desarrollo del Estado",
       "author": "Melquisedek",
       "page": 800
     },
     "72": {
-      "title": "El Gobierno de un Planeta Vecino",
+      "title": "El gobierno de un planeta vecino",
       "author": "Melquisedek",
       "page": 808
     },
@@ -665,202 +661,202 @@
       "page": 828
     },
     "75": {
-      "title": "La Falta de Adán y Eva",
+      "title": "La falta de Adán y Eva",
       "author": "Solonia",
       "page": 839
     },
     "76": {
-      "title": "El Segundo Jardín",
+      "title": "El segundo Jardín",
       "author": "Solonia",
       "page": 847
     },
     "77": {
-      "title": "Los Seres Intermedios",
+      "title": "Las criaturas intermedias",
       "author": "Arcángel",
       "page": 855
     },
     "78": {
-      "title": "La Raza Violeta Después de los Días de Adán",
+      "title": "La raza violeta después de los días de Adán",
       "author": "Arcángel",
       "page": 868
     },
     "79": {
-      "title": "La Expansión Andita en el Oriente",
+      "title": "La expansión andita en Oriente",
       "author": "Arcángel",
       "page": 878
     },
     "80": {
-      "title": "La Expansión Andita en el Occidente",
+      "title": "La expansión andita en Occidente",
       "author": "Arcángel",
       "page": 889
     },
     "81": {
-      "title": "El Desarrollo de la Civilización Moderna",
+      "title": "El desarrollo de la civilización moderna",
       "author": "Arcángel",
       "page": 900
     },
     "82": {
-      "title": "La Evolución del Matrimonio",
+      "title": "La evolución del matrimonio",
       "author": "Jefe de los Serafines",
       "page": 913
     },
     "83": {
-      "title": "La Institución del Matrimonio",
+      "title": "La institución del matrimonio",
       "author": "Jefe de los Serafines",
       "page": 922
     },
     "84": {
-      "title": "Matrimonio y Vida Familiar",
+      "title": "El matrimonio y la vida de familia",
       "author": "Jefe de los Serafines",
       "page": 931
     },
     "85": {
-      "title": "Los Orígenes de la Adoración",
+      "title": "Los orígenes de la adoración",
       "author": "Estrella Vespertina",
       "page": 944
     },
     "86": {
-      "title": "La Evolución Primitiva de la Religión",
+      "title": "La evolución inicial de la religión",
       "author": "Estrella Vespertina",
       "page": 950
     },
     "87": {
-      "title": "Los Cultos a los Fantasmas",
+      "title": "Los cultos a los fantasmas",
       "author": "Estrella Vespertina",
       "page": 958
     },
     "88": {
-      "title": "Los Fetiches, los Amuletos y la Magia",
+      "title": "Los fetiches, los amuletos y la magia",
       "author": "Estrella Vespertina",
       "page": 967
     },
     "89": {
-      "title": "El Pecado, el Sacrificio y la Expiación",
+      "title": "El pecado, el sacrificio y la expiación",
       "author": "Estrella Vespertina",
       "page": 974
     },
     "90": {
-      "title": "El Shamanismo — Los Curanderos y los Sacerdotes",
+      "title": "El chamanismo: los curanderos y los sacerdotes",
       "author": "Melquisedek",
       "page": 986
     },
     "91": {
-      "title": "La Evolución de la Oración",
+      "title": "La evolución de la oración",
       "author": "Jefe de los seres intermedios",
       "page": 994
     },
     "92": {
-      "title": "La Evolución Ulterior de la Religión",
+      "title": "La evolución posterior de la religión",
       "author": "Melquisedek",
       "page": 1003
     },
     "93": {
-      "title": "Maquiventa Melquisedek",
+      "title": "Maquiventa Melquisedec",
       "author": "Melquisedek",
       "page": 1014
     },
     "94": {
-      "title": "Las Enseñanzas de Melquisedek en el Oriente",
+      "title": "Las enseñanzas de Melquisedec en Oriente",
       "author": "Melquisedek",
       "page": 1027
     },
     "95": {
-      "title": "Las Enseñanzas de Melquisedek en el Levante",
+      "title": "Las enseñanzas de Melquisedec en el Levante",
       "author": "Melquisedek",
       "page": 1042
     },
     "96": {
-      "title": "Yahvé — El Dios de los Hebreos",
+      "title": "Yahvé, el Dios de los hebreos",
       "author": "Melquisedek",
       "page": 1052
     },
     "97": {
-      "title": "Evolución del Concepto de Dios Entre los Hebreos",
+      "title": "La evolución del concepto de Dios entre los hebreos",
       "author": "Melquisedek",
       "page": 1062
     },
     "98": {
-      "title": "Las Enseñanzas de Melquisedek en el Occidente",
+      "title": "Las enseñanzas de Melquisedec en Occidente",
       "author": "Melquisedek",
       "page": 1077
     },
     "99": {
-      "title": "Los Problemas Sociales de la Religión",
+      "title": "Los problemas sociales de la religión",
       "author": "Melquisedek",
       "page": 1086
     },
     "100": {
-      "title": "La Religión en la Experiencia Humana",
+      "title": "La religión en la experiencia humana",
       "author": "Melquisedek",
       "page": 1094
     },
     "101": {
-      "title": "La Verdadera Naturaleza de la Religión",
+      "title": "La naturaleza real de la religión",
       "author": "Melquisedek",
       "page": 1104
     },
     "102": {
-      "title": "Los Cimientos de la Fe Religiosa",
+      "title": "Los fundamentos de la fe religiosa",
       "author": "Melquisedek",
       "page": 1118
     },
     "103": {
-      "title": "La Realidad de la Experiencia Religiosa",
+      "title": "La realidad de la experiencia religiosa",
       "author": "Melquisedek",
       "page": 1129
     },
     "104": {
-      "title": "El Crecimiento del Concepto de la Trinidad",
+      "title": "El crecimiento del concepto de trinidad",
       "author": "Melquisedek",
       "page": 1143
     },
     "105": {
-      "title": "La Deidad y la Realidad",
+      "title": "La deidad y la realidad",
       "author": "Melquisedek",
       "page": 1152
     },
     "106": {
-      "title": "Los Niveles de la Realidad en el Universo",
+      "title": "Los niveles de realidad en el universo",
       "author": "Melquisedek",
       "page": 1162
     },
     "107": {
-      "title": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "title": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "author": "Mensajero Solitario",
       "page": 1176
     },
     "108": {
-      "title": "La Misión y el Ministerio de los Ajustadores del Pensamiento",
+      "title": "La misión y el ministerio de los Ajustadores del Pensamiento",
       "author": "Mensajero Solitario",
       "page": 1185
     },
     "109": {
-      "title": "La Relación de los Ajustadores con las Criaturas del Universo",
+      "title": "La relación de los Ajustadores con las criaturas del universo",
       "author": "Mensajero Solitario",
       "page": 1195
     },
     "110": {
-      "title": "La Relación de los Ajustadores con los Seres Mortales",
+      "title": "La relación de los Ajustadores con los mortales individuales",
       "author": "Mensajero Solitario",
       "page": 1203
     },
     "111": {
-      "title": "El Ajustador y el Alma",
+      "title": "El Ajustador y el alma",
       "author": "Mensajero Solitario",
       "page": 1215
     },
     "112": {
-      "title": "La Sobrevivencia de la Personalidad",
+      "title": "La supervivencia de la personalidad",
       "author": "Mensajero Solitario",
       "page": 1225
     },
     "113": {
-      "title": "Los Guardianes Seráficos del Destino",
+      "title": "Las guardianas seráficas del destino",
       "author": "Jefe de los Serafines",
       "page": 1241
     },
     "114": {
-      "title": "El Gobierno Planetario Seráfico",
+      "title": "El gobierno planetario seráfico",
       "author": "Jefe de los Serafines",
       "page": 1250
     },
@@ -875,42 +871,42 @@
       "page": 1268
     },
     "117": {
-      "title": "Dios el Supremo",
+      "title": "Dios Supremo",
       "author": "Mensajero Poderoso",
       "page": 1278
     },
     "118": {
-      "title": "El Supremo y el Ultimo — El Tiempo y el Espacio",
+      "title": "El Supremo y el Último: el tiempo y el espacio",
       "author": "Mensajero Poderoso",
       "page": 1294
     },
     "119": {
-      "title": "Los Autootorgamientos de Cristo Micael",
+      "title": "Los otorgamientos de Cristo Miguel",
       "author": "Jefe Estrellas Vespertinas",
       "page": 1308
     },
     "120": {
-      "title": "El Autootorgamiento de Micael en Urantia",
+      "title": "El otorgamiento de Miguel en Urantia",
       "author": "Mantutia Melquisedek",
       "page": 1323
     },
     "121": {
-      "title": "Los Tiempos del Autootorgamiento de Micael",
+      "title": "La época del otorgamiento de Miguel",
       "author": "Comisión de Seres Intermedios",
       "page": 1332
     },
     "122": {
-      "title": "El Nacimiento y la Infancia de Jesús",
+      "title": "El nacimiento y la infancia de Jesús",
       "author": "Comisión de Seres Intermedios",
       "page": 1344
     },
     "123": {
-      "title": "La Infancia de Jesús",
+      "title": "Los comienzos de la niñez de Jesús",
       "author": "Comisión de Seres Intermedios",
       "page": 1355
     },
     "124": {
-      "title": "La Niñez Posterior de Jesús",
+      "title": "El final de la niñez de Jesús",
       "author": "Comisión de Seres Intermedios",
       "page": 1366
     },
@@ -920,47 +916,47 @@
       "page": 1377
     },
     "126": {
-      "title": "Los Dos Años Cruciales",
+      "title": "Los dos años cruciales",
       "author": "Comisión de Seres Intermedios",
       "page": 1386
     },
     "127": {
-      "title": "Los Años de la Adolescencia",
+      "title": "Los años de la adolescencia",
       "author": "Comisión de Seres Intermedios",
       "page": 1395
     },
     "128": {
-      "title": "Los Primeros Años de la Vida Adulta de Jesús",
+      "title": "Jesús comienza su vida adulta",
       "author": "Comisión de Seres Intermedios",
       "page": 1407
     },
     "129": {
-      "title": "La Vida Adulta de Jesús",
+      "title": "Jesús prosigue su vida adulta",
       "author": "Comisión de Seres Intermedios",
       "page": 1419
     },
     "130": {
-      "title": "En el Camino a Roma",
+      "title": "De camino a Roma",
       "author": "Comisión de Seres Intermedios",
       "page": 1427
     },
     "131": {
-      "title": "Las Religiones del Mundo",
+      "title": "Las religiones del mundo",
       "author": "Comisión de Seres Intermedios",
       "page": 1442
     },
     "132": {
-      "title": "La Estadía en Roma",
+      "title": "La estancia en Roma",
       "author": "Comisión de Seres Intermedios",
       "page": 1455
     },
     "133": {
-      "title": "El Regreso de Roma",
+      "title": "La vuelta de Roma",
       "author": "Comisión de Seres Intermedios",
       "page": 1468
     },
     "134": {
-      "title": "Los Años de Transición",
+      "title": "Los años de transición",
       "author": "Comisión de Seres Intermedios",
       "page": 1483
     },
@@ -970,32 +966,32 @@
       "page": 1496
     },
     "136": {
-      "title": "El Bautismo y los Cuarenta Días",
+      "title": "El bautismo y los cuarenta días",
       "author": "Comisión de Seres Intermedios",
       "page": 1509
     },
     "137": {
-      "title": "El Tiempo de Espera en Galilea",
+      "title": "La espera en Galilea",
       "author": "Comisión de Seres Intermedios",
       "page": 1524
     },
     "138": {
-      "title": "La Capacitación de los Mensajeros del Reino",
+      "title": "La formación de los mensajeros del reino",
       "author": "Comisión de Seres Intermedios",
       "page": 1538
     },
     "139": {
-      "title": "Los Doce Apóstoles",
+      "title": "Los doce apóstoles",
       "author": "Comisión de Seres Intermedios",
       "page": 1548
     },
     "140": {
-      "title": "La Ordenación de los Doce",
+      "title": "La ordenación de los doce",
       "author": "Comisión de Seres Intermedios",
       "page": 1568
     },
     "141": {
-      "title": "El Comienzo de la Obra Pública",
+      "title": "Empieza la obra pública",
       "author": "Comisión de Seres Intermedios",
       "page": 1587
     },
@@ -1005,7 +1001,7 @@
       "page": 1596
     },
     "143": {
-      "title": "De Paso por Samaria",
+      "title": "El paso por Samaria",
       "author": "Comisión de Seres Intermedios",
       "page": 1607
     },
@@ -1015,62 +1011,62 @@
       "page": 1617
     },
     "145": {
-      "title": "Cuatro Días Memorables en Capernaum",
+      "title": "Cuatro días intensos en Cafarnaúm",
       "author": "Comisión de Seres Intermedios",
       "page": 1628
     },
     "146": {
-      "title": "La Primera Gira de Predicación en Galilea",
+      "title": "La primera gira de predicación en Galilea",
       "author": "Comisión de Seres Intermedios",
       "page": 1637
     },
     "147": {
-      "title": "El Interludio en Jerusalén",
+      "title": "El paréntesis de la visita a Jerusalén",
       "author": "Comisión de Seres Intermedios",
       "page": 1647
     },
     "148": {
-      "title": "La Capacitación de los Evangelistas en Betsaida",
+      "title": "La formación de evangelistas en Betsaida",
       "author": "Comisión de Seres Intermedios",
       "page": 1657
     },
     "149": {
-      "title": "La Segunda Gira de Predicación",
+      "title": "La segunda gira de predicación",
       "author": "Comisión de Seres Intermedios",
       "page": 1668
     },
     "150": {
-      "title": "La Tercera Gira de Predicación",
+      "title": "La tercera gira de predicación",
       "author": "Comisión de Seres Intermedios",
       "page": 1678
     },
     "151": {
-      "title": "La Estadía y la Enseñanza Junto al Mar",
+      "title": "La temporada de enseñanza a la orilla del mar",
       "author": "Comisión de Seres Intermedios",
       "page": 1688
     },
     "152": {
-      "title": "Los Acontecimientos que Condujerona la Crisis de Capernaum",
+      "title": "Los antecedentes de la crisis de Cafarnaúm",
       "author": "Comisión de Seres Intermedios",
       "page": 1698
     },
     "153": {
-      "title": "La Crisis en Capernaum",
+      "title": "La crisis de Cafarnaúm",
       "author": "Comisión de Seres Intermedios",
       "page": 1707
     },
     "154": {
-      "title": "Los Últimos Días en Capernaum",
+      "title": "Los últimos días en Cafarnaúm",
       "author": "Comisión de Seres Intermedios",
       "page": 1717
     },
     "155": {
-      "title": "La Huida por la Galilea del Norte",
+      "title": "La huida por el norte de Galilea",
       "author": "Comisión de Seres Intermedios",
       "page": 1725
     },
     "156": {
-      "title": "La Estadía en Tiro y Sidón",
+      "title": "La estancia en Tiro y Sidón",
       "author": "Comisión de Seres Intermedios",
       "page": 1734
     },
@@ -1080,107 +1076,107 @@
       "page": 1743
     },
     "158": {
-      "title": "El Monte de la Transfiguración",
+      "title": "El monte de la transfiguración",
       "author": "Comisión de Seres Intermedios",
       "page": 1752
     },
     "159": {
-      "title": "La Gira por la Decápolis",
+      "title": "La gira por la Decápolis",
       "author": "Comisión de Seres Intermedios",
       "page": 1762
     },
     "160": {
-      "title": "Rodán de Alejandría",
+      "title": "Rodan de Alejandría",
       "author": "Comisión de Seres Intermedios",
       "page": 1772
     },
     "161": {
-      "title": "Las Conversaciones Ulteriores con Rodán",
+      "title": "Otras conversaciones con Rodan",
       "author": "Comisión de Seres Intermedios",
       "page": 1783
     },
     "162": {
-      "title": "En la Fiesta de los Tabernáculos",
+      "title": "En la fiesta de los tabernáculos",
       "author": "Comisión de Seres Intermedios",
       "page": 1788
     },
     "163": {
-      "title": "La Ordenación de los Setenta en Magadán",
+      "title": "La ordenación de los setenta en Magadán",
       "author": "Comisión de Seres Intermedios",
       "page": 1800
     },
     "164": {
-      "title": "En la Fiesta de la Consagración del Templo",
+      "title": "En la fiesta de la consagración",
       "author": "Comisión de Seres Intermedios",
       "page": 1809
     },
     "165": {
-      "title": "Comienza la Misión de Perea",
+      "title": "Empieza la misión en Perea",
       "author": "Comisión de Seres Intermedios",
       "page": 1817
     },
     "166": {
-      "title": "La Última Visita al Norte de Perea",
+      "title": "La última visita al norte de Perea",
       "author": "Comisión de Seres Intermedios",
       "page": 1825
     },
     "167": {
-      "title": "La Visita a Filadelfia",
+      "title": "La visita a Filadelfia",
       "author": "Comisión de Seres Intermedios",
       "page": 1833
     },
     "168": {
-      "title": "La Resurrección de Lázaro",
+      "title": "La resurrección de Lázaro",
       "author": "Comisión de Seres Intermedios",
       "page": 1842
     },
     "169": {
-      "title": "La Última Enseñanza en Pella",
+      "title": "Las últimas enseñanzas en Pella",
       "author": "Comisión de Seres Intermedios",
       "page": 1850
     },
     "170": {
-      "title": "El Reino del Cielo",
+      "title": "El reino de los cielos",
       "author": "Comisión de Seres Intermedios",
       "page": 1858
     },
     "171": {
-      "title": "Camino a Jerusalén",
+      "title": "En el camino a Jerusalén",
       "author": "Comisión de Seres Intermedios",
       "page": 1867
     },
     "172": {
-      "title": "La Entrada a Jerusalén",
+      "title": "La entrada en Jerusalén",
       "author": "Comisión de Seres Intermedios",
       "page": 1878
     },
     "173": {
-      "title": "El Lunes en Jerusalén",
+      "title": "El lunes en Jerusalén",
       "author": "Comisión de Seres Intermedios",
       "page": 1888
     },
     "174": {
-      "title": "Martes por la Mañana en el Templo",
+      "title": "El martes por la mañana en el templo",
       "author": "Comisión de Seres Intermedios",
       "page": 1897
     },
     "175": {
-      "title": "El Último Discurso en el Templo",
+      "title": "El último discurso en el templo",
       "author": "Comisión de Seres Intermedios",
       "page": 1905
     },
     "176": {
-      "title": "El Anochecer del Martes en el Monte de los Olivos",
+      "title": "El martes por la noche en el monte Olivete",
       "author": "Comisión de Seres Intermedios",
       "page": 1912
     },
     "177": {
-      "title": "El Miércoles, Día de Descanso",
+      "title": "El miércoles, día de descanso",
       "author": "Comisión de Seres Intermedios",
       "page": 1920
     },
     "178": {
-      "title": "El Último Día en el Campamento",
+      "title": "El último día en el campamento",
       "author": "Comisión de Seres Intermedios",
       "page": 1929
     },
@@ -1190,12 +1186,12 @@
       "page": 1936
     },
     "180": {
-      "title": "El Discurso de Despedida",
+      "title": "El discurso de despedida",
       "author": "Comisión de Seres Intermedios",
       "page": 1944
     },
     "181": {
-      "title": "Las Advertencias y Admoniciones Finales",
+      "title": "Las advertencias y exhortaciones finales",
       "author": "Comisión de Seres Intermedios",
       "page": 1953
     },
@@ -1205,62 +1201,62 @@
       "page": 1963
     },
     "183": {
-      "title": "La Traición y el Arresto de Jesús",
+      "title": "La traición y el arresto de Jesús",
       "author": "Comisión de Seres Intermedios",
       "page": 1971
     },
     "184": {
-      "title": "Ante el Tribunal del Sanedrín",
+      "title": "Ante el tribunal del Sanedrín",
       "author": "Comisión de Seres Intermedios",
       "page": 1978
     },
     "185": {
-      "title": "El Juicio Ante Pilato",
+      "title": "El juicio ante Pilatos",
       "author": "Comisión de Seres Intermedios",
       "page": 1987
     },
     "186": {
-      "title": "Poco Antes de la Crucifixión",
+      "title": "Poco antes de la crucifixión",
       "author": "Comisión de Seres Intermedios",
       "page": 1997
     },
     "187": {
-      "title": "La Crucifixión",
+      "title": "La crucifixión",
       "author": "Comisión de Seres Intermedios",
       "page": 2004
     },
     "188": {
-      "title": "El Período en la Tumba",
+      "title": "En la tumba",
       "author": "Comisión de Seres Intermedios",
       "page": 2012
     },
     "189": {
-      "title": "La Resurrección",
+      "title": "La resurrección",
       "author": "Comisión de Seres Intermedios",
       "page": 2020
     },
     "190": {
-      "title": "Las Apariciones Morontiales de Jesús",
+      "title": "Las apariciones de Jesús en la morontia",
       "author": "Comisión de Seres Intermedios",
       "page": 2029
     },
     "191": {
-      "title": "Las Apariciones a los Apóstoles y a Otros Líderes",
+      "title": "Las apariciones a los apóstoles y a otros líderes",
       "author": "Comisión de Seres Intermedios",
       "page": 2037
     },
     "192": {
-      "title": "Las Apariciones en Galilea",
+      "title": "Las apariciones en Galilea",
       "author": "Comisión de Seres Intermedios",
       "page": 2045
     },
     "193": {
-      "title": "Las Apariciones Finales y la Ascensión",
+      "title": "Las apariciones finales y la ascensión",
       "author": "Comisión de Seres Intermedios",
       "page": 2052
     },
     "194": {
-      "title": "El Advenimiento del Espíritu de la Verdad",
+      "title": "El otorgamiento del Espíritu de la Verdad",
       "author": "Comisión de Seres Intermedios",
       "page": 2059
     },
@@ -1270,7 +1266,7 @@
       "page": 2069
     },
     "196": {
-      "title": "La Fe de Jesús",
+      "title": "La fe de Jesús",
       "author": "Comisión de Seres Intermedios",
       "page": 2087
     }

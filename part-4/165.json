@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/165.md",
-  "source_sha256": "d993d9152eae7926a79f0ee94205ad6cf491ff7f37f1e1e9f600973e091d8612",
+  "source_sha256": "a941de169b6fc8146150d5c332ca4c24871d07526efd9e16b403bb6bb042d8ef",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "165:0.0",
       "pageReference": null,
       "sortId": "4.165.000.000",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "165:0.0",
       "pageReference": null,
       "sortId": "4.165.000.000",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "165:0.1",
       "pageReference": "1817.1",
       "sortId": "4.165.000.001",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
-      "markdown": "EL MARTES, 3 de enero del año 30 d. de J.C., Abner, el ex jefe de los doce apóstoles de Juan el Bautista, un nazareo, anteriormente jefe de la escuela nazarea de En-Gedi, ahora jefe de los setenta mensajeros del reino, reunió a sus asociados y les dio las instrucciones finales antes de enviarlos en misión a todas las ciudades y aldeas de Perea. Esta misión de Perea duró casi tres meses y fue el último ministerio del Maestro. Jesús pasó directamente de esta labor a Jerusalén para vivir su experiencia final en la carne. Los setenta, ayudados por la labor periódica de Jesús y de los doce apóstoles, trabajaron en las siguientes ciudades y aldeas, además de unas cincuenta aldeas adicionales: Zafón, Gadara, Macad, Arbela, Ramat, Edrei, Bosora, Caspin, Mispé, Gérasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Galaad, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhue, Bet-Peor, Sitim, Sibma, Medeba, Bet-Meón, Areópolis y Aroer."
+      "markdown": "EL MARTES 3 de enero del año 30 d. C. Abner, el que fuera jefe de los doce apóstoles de Juan el Bautista, en su día jefe de la escuela nazarea de En-Gedi y ahora jefe de los setenta mensajeros del reino, convocó a sus compañeros y les dio las instrucciones finales antes de enviarlos a todas las ciudades y pueblos de Perea. Esta misión en Perea duró casi tres meses y fue el último ministerio del Maestro. Después Jesús fue directamente a Jerusalén a pasar por las experiencias finales de su encarnación. Los setenta, apoyados periódicamente por Jesús y los doce apóstoles, actuaron en las siguientes ciudades y poblaciones: Zafón, Gadara, Macad, Arbela, Ramat, Edrei, Bosora, Caspin, Mispá, Gerasa, Ragaba, Sucot, Amatus, Adam, Penuel, Capitolias, Dion, Hatita, Gada, Filadelfia, Jogbeha, Gilead, Bet-Nimra, Tiro, Eleale, Livias, Hesbón, Callirhoe, Bet-Peor, Sitim, Sibma, Medeba, Bet-Meón, Areópolis, Aroer y en unas cincuenta aldeas más."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "165:0.2",
       "pageReference": "1817.2",
       "sortId": "4.165.000.002",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
-      "markdown": "Durante toda esta gira en Perea, el cuerpo de mujeres, que ya contaba con sesenta y dos miembros, se hizo cargo de la mayor parte de la tarea de ministrar a los enfermos. Este fue el período final del desarrollo de los aspectos espirituales más elevados del evangelio del reino, y por lo tanto, no hubo milagros. En ninguna otra parte de Palestina trabajaron los apóstoles y discípulos de Jesús tan a fondo, y en ninguna otra región aceptaron en forma tan general los mejores grupos de ciudadanos las enseñanzas del Maestro."
+      "markdown": "Durante toda esta gira por Perea el cuerpo de mujeres, que contaba ya con sesenta y dos miembros, se hizo cargo de casi todo el trabajo de atención a los enfermos. Este fue el periodo final del desarrollo de los aspectos espirituales superiores del evangelio del reino, y por eso no hubo obras milagrosas. En ninguna otra parte de Palestina los apóstoles y discípulos de Jesús se emplearon tan a fondo, y en ninguna otra zona fueron tan bien acogidas las enseñanzas del Maestro entre los mejores sectores de la población."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "165:0.3",
       "pageReference": "1817.3",
       "sortId": "4.165.000.003",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
-      "markdown": "En esta época, la población de Perea era aproximadamente mitad gentil y mitad judía, porque en general los judíos habían sido desalojados de estas regiones durante los tiempos de Judas Macabeo. Perea era la provincia más bella y pintoresca de toda Palestina. Los judíos se referían en general a ella como «las tierras más allá del Jordán»."
+      "markdown": "En aquella época Perea estaba habitada casi a partes iguales por gentiles y judíos, ya que los muchos colectivos judíos habían sido desalojados de estas regiones en tiempos de Judas Macabeo. Perea era la provincia más bella y pintoresca de Palestina. Los judíos solían referirse a ella como «la tierra de allende el Jordán»."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "165:0.4",
       "pageReference": "1817.4",
       "sortId": "4.165.000.004",
-      "paperTitle": "Comienza la Misión de Perea",
+      "paperTitle": "Empieza la misión en Perea",
       "sectionTitle": null,
-      "markdown": "Durante este período, Jesús repartió su tiempo entre el campamento de Pella y giras realizadas con los doce para ayudar a los setenta en las diversas ciudades en las que éstos enseñaban y predicaban. Bajo la dirección de Abner, los setenta bautizaban a los creyentes a pesar de que Jesús no les había encargado que lo hicieran."
+      "markdown": "Durante este periodo Jesús repartió su tiempo entre enseñar en el campamento de Pella y viajar con los doce para dar apoyo a los setenta en las distintas ciudades donde enseñaban y predicaban. Siguiendo las instrucciones de Abner los setenta bautizaban a todos los creyentes aunque Jesús no les había encargado que lo hicieran."
     },
     {
       "type": "section",
@@ -127,8 +127,8 @@
       "standardReferenceId": "165:1.0",
       "pageReference": null,
       "sortId": "4.165.001.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "En el Campamento de Pella",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "En el campamento de Pella",
       "markdown": null
     },
     {
@@ -145,9 +145,9 @@
       "standardReferenceId": "165:1.1",
       "pageReference": "1817.5",
       "sortId": "4.165.001.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "En el Campamento de Pella",
-      "markdown": "A mediados de enero, se habían reunido más de mil doscientas personas en Pella, y Jesús enseñaba a esta multitud por lo menos una vez cada día cuando se encontraba en el campamento, hablando generalmente a las nueve de la mañana si no se lo impedía la lluvia. Pedro y los demás apóstoles enseñaban todas las tardes. Jesús reservaba las noches para las sesiones usuales de preguntas y respuestas con los doce y otros discípulos avanzados. Los grupos nocturnos eran, término medio, de unos cincuenta."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "En el campamento de Pella",
+      "markdown": "Para mediados de enero se habían reunido en Pella más de mil doscientas personas. Cuando Jesús residía en el campamento enseñaba a esta multitud al menos una vez al día; solía hablarles a las nueve de la mañana si la lluvia no lo impedía. Pedro y los demás apóstoles enseñaban por las tardes. Jesús reservaba las noches para las sesiones habituales de preguntas y respuestas con los doce y otros discípulos avanzados. La media de los grupos nocturnos era de unas cincuenta personas."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "165:1.2",
       "pageReference": "1817.6",
       "sortId": "4.165.001.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "En el Campamento de Pella",
-      "markdown": "A mediados del mes de marzo, época en la que inició Jesús su viaje hacia Jerusalén, más de cuatro mil personas componían el amplio público que escuchaba la prédica de Jesús o de Pedro cada mañana. El Maestro decidió poner fin a su obra en la tierra en el momento en que el interés en su mensaje alcanzaba una cumbre, la más alta cumbre de esta segunda fase, fase no milagrosa, del progreso del reino. Aunque tres cuartos de los integrantes de la multitud eran buscadores de la verdad, también había gran número de fariseos de Jerusalén y de otras partes, juntamente con muchas personas dudosas y cavilosas."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "En el campamento de Pella",
+      "markdown": "A mediados de marzo, cuando Jesús empezó su viaje hacia Jerusalén, más de cuatro mil personas escuchaban todas las mañanas la predicación de Jesús o de Pedro. El Maestro eligió terminar su obra en la tierra cuando el interés por su mensaje estaba en un punto alto, el más alto de esta segunda fase de progreso del reino en la que no hubo milagros. Las tres cuartas partes de esta multitud de oyentes eran buscadores de la verdad, pero había también un buen número de fariseos de Jerusalén y de otros lugares, y otros muchos escépticos e indecisos."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "165:1.3",
       "pageReference": "1818.1",
       "sortId": "4.165.001.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "En el Campamento de Pella",
-      "markdown": "Jesús y los doce apóstoles dedicaron mucho de su tiempo a la multitud reunida en el campamento de Pella. Los doce casi no prestaron atención al trabajo en el terreno, limitándose a acompañar a Jesús de vez en cuando para visitar a los asociados de Abner. Abner conocía muy bien el distrito de Perea, puesto que éste fue el terreno en el cual su maestro anterior, Juan el Bautista, había realizado la mayor parte de su obra. Después del comienzo de la misión de Perea, Abner y los setenta no volvieron nunca más al campamento de Pella."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "En el campamento de Pella",
+      "markdown": "Jesús y los doce apóstoles dedicaron gran parte de su tiempo a la multitud reunida en el campamento de Pella. Los doce prestaron poca o ninguna atención al trabajo de campo; se limitaron a ir con Jesús a visitar a los compañeros de Abner. Abner conocía bien la región de Perea porque ese era el terreno donde su anterior maestro, Juan el Bautista, había hecho casi toda su labor. Después de emprender la misión en Perea, Abner y los setenta no volvieron nunca más al campamento de Pella."
     },
     {
       "type": "section",
@@ -199,8 +199,8 @@
       "standardReferenceId": "165:2.0",
       "pageReference": null,
       "sortId": "4.165.002.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
       "markdown": null
     },
     {
@@ -217,9 +217,9 @@
       "standardReferenceId": "165:2.1",
       "pageReference": "1818.2",
       "sortId": "4.165.002.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "Un grupo de más de trescientas personas de Jerusalén, fariseos y otros, siguió a Jesús hacia el norte hasta Pella, cuando rápidamente se alejó de la jurisdicción de los dirigentes judíos al finalizar la fiesta de la consagración; y fue en presencia de estos instructores y líderes judíos, así como también de los doce apóstoles, que Jesús predicó el sermón del «Buen Pastor». Después de media hora de conversaciones casuales, hablando a un grupo de unos cien, Jesús dijo:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "Cuando Jesús se encaminó hacia el norte tras la fiesta de la consagración para salir cuanto antes de la jurisdicción de los dirigentes judíos, le siguió hasta Pella un grupo de más de trescientos habitantes de Jerusalén, fariseos y otros. Y fueron estos maestros y líderes judíos, junto con los doce apóstoles, los que escucharon el sermón del «Buen Pastor». Después de media hora de conversación informal, Jesús se dirigió así a un centenar de oyentes:"
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "165:2.2",
       "pageReference": "1818.3",
       "sortId": "4.165.002.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Esta noche tengo mucho que deciros, y puesto que muchos entre vosotros sois mis discípulos y algunos entre vosotros, mis amargos enemigos, presentaré mis enseñanzas en una parábola para que cada uno de vosotros tome de ella lo que encuentre acogida en su corazón."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Esta noche tengo muchas cosas que deciros. Puesto que muchos de vosotros sois mis discípulos y otros mis enemigos acérrimos, presentaré mi enseñanza en forma de parábola para que cada uno tome para sí lo que encuentre acogida en su corazón."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "165:2.3",
       "pageReference": "1818.4",
       "sortId": "4.165.002.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Esta noche, hay ante mí hombres que serían capaces de morir por mí y por el evangelio del reino, y algunos de entre ellos así lo harán en años venideros; y hay aquí también algunos entre vosotros, esclavos de la tradición, que me habéis seguido desde Jerusalén, y que, con vuestros líderes tenebrosos e ilusos, queréis matar al Hijo del Hombre. La vida que ahora vivo en la carne a ambos os juzgará, a los buenos pastores y a los falsos pastores. Si los falsos pastores fueran ciegos, no tendrían pecado; mas vosotros afirmáis que veis; vosotros profesáis ser maestros en Israel; por eso, vuestro pecado permanecerá en vosotros."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Esta noche hay aquí ante mí hombres que estarían dispuestos a morir por mí y por este evangelio del reino, y algunos de ellos harán esta ofrenda en los años por venir. También estáis aquí algunos esclavos de la tradición que me habéis seguido desde Jerusalén y que, sumidos igual que vuestros jefes en las tinieblas del engaño, buscáis la muerte del Hijo del Hombre. La vida que vivo ahora en la carne os juzgará a ambos, a los verdaderos pastores y a los falsos pastores. Si los falsos pastores fueran ciegos no tendrían pecado, pero vosotros decís que veis; os preciáis de ser maestros de Israel, por eso vuestro pecado permanece en vosotros."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "165:2.4",
       "pageReference": "1818.5",
       "sortId": "4.165.002.004",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«El buen pastor junta su rebaño en el redil por la noche en tiempos de peligro. Y cuando llega la mañana, entra en el corral por la puerta, y cuando llama, las ovejas conocen su voz. Pero el pastor que entra al corral por otros medios y no por la puerta, es un ladrón y un salteador. El buen pastor entra al corral después que el portero le abre la puerta, y su rebaño, conociendo su voz, sale cuando llama; y cuando ha sacado afuera todas sus ovejas, el buen pastor va delante de ellas; las conduce y las ovejas le siguen. Sus ovejas le siguen porque conocen su voz; no seguirían a un extraño. Huirán de un extraño porque no conocen su voz. Esta multitud que está aquí reunida a nuestro alrededor es como el rebaño sin pastor, pero cuando les hablamos ellos conocen la voz del pastor, y nos seguirán; por lo menos, los que tienen hambre de verdad y sed de rectitud lo harán. Algunos entre vosotros no sois de mi redil; no conocéis mi voz y no me seguiréis. Puesto que sois pastores falsos, las ovejas no conocen vuestra voz y no os seguirán»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«El buen pastor reúne a su rebaño en el redil por la noche en tiempo de peligro. Cuando llega la mañana entra en el redil por la puerta, y las ovejas conocen su voz cuando las llama. Todo pastor que no entra por la puerta en el redil de las ovejas es un ladrón y un salteador. El verdadero pastor entra en el redil cuando el guardián le abre la puerta, y sus ovejas, que conocen su voz, salen cuando las llama; y cuando todas las que son suyas están fuera, el verdadero pastor va delante de ellas, abre camino y las ovejas lo siguen. Sus ovejas lo siguen porque conocen su voz, no seguirán a un extraño. Huirán del extraño porque no conocen su voz. Esta multitud que se ha reunido aquí alrededor de nosotros son como ovejas sin pastor, pero cuando les hablamos, conocen la voz del pastor y nos siguen; al menos nos siguen los que tienen hambre de verdad y sed de rectitud. Algunos de vosotros no sois de mi redil, no conocéis mi voz y no me seguís. Y como sois falsos pastores, las ovejas no conocen vuestra voz y no os seguirán.»"
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "165:2.5",
       "pageReference": "1819.1",
       "sortId": "4.165.002.005",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "Cuando hubo Jesús dicho esta parábola, nadie preguntó nada. Después de un tiempo nuevamente comenzó a hablar, siguiendo la conversación sobre la parábola:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "Cuando Jesús terminó de contar esta parábola nadie le preguntó nada. Entonces comentó así la parábola:"
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "165:2.6",
       "pageReference": "1819.2",
       "sortId": "4.165.002.006",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Si vosotros queréis ser los ayudantes del pastor de los rebaños de mi Padre, debéis ser, no solamente líderes meritorios, sino que también debéis *alimentar* al rebaño con buena comida; no sois buenos pastores a menos que conduzcáis vuestro rebaño a los pastos verdes junto a las aguas calmas."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Vosotros que aspiráis a ser pastores ayudantes de los rebaños de mi Padre, además de ser jefes dignos, tenéis que *alimentar* al rebaño con buena comida. Solo seréis verdaderos pastores si lleváis a vuestros rebaños a pastos verdes junto a aguas tranquilas."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "165:2.7",
       "pageReference": "1819.3",
       "sortId": "4.165.002.007",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Ahora bien, por miedo a que algunos entre vosotros comprendan demasiado fácilmente esta parábola, yo os declaro que soy a la vez la puerta del corral del Padre y el buen pastor de los rebaños de mi Padre. Todo pastor que busca entrar al corral sin mí fracasará, y las ovejas no oirán su voz. Yo, con los que ministran conmigo, soy la puerta. Toda alma que entre al camino eterno por los medios que yo he creado y ordenado, será salvada y podrá proseguir hasta llegar a los pastos eternos del Paraíso."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Y ahora, por si a alguno le parece demasiado fácil entender esta parábola, yo os declaro que soy la puerta del redil del Padre y al mismo tiempo el verdadero pastor de los rebaños de mi Padre. Todo pastor que intente entrar sin mí en el redil fracasará, y las ovejas no escucharán su voz. Yo soy la puerta junto con aquellos que ministran conmigo. Toda alma que entre en el camino eterno por los medios que he creado y ordenado será salvada y podrá proseguir hasta las praderas eternas del Paraíso."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "165:2.8",
       "pageReference": "1819.4",
       "sortId": "4.165.002.008",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Pero también soy yo el pastor verdadero que hasta es capaz de dar su vida por el rebaño. El ladrón se mete en el corral sólo para robar, matar y destruir; pero yo he venido para que podáis tener vida y tenerla más abundantemente. El asalariado huye ante el peligro, y deja que las ovejas se dispersen y sean destruidas; pero el pastor verdadero no huye cuando viene el lobo; protege su rebaño, y si hace falta, da su vida por sus ovejas. De cierto, de cierto os digo, amigos y enemigos, yo soy el pastor verdadero; yo conozco a los míos y los míos me conocen a mí. No huiré frente al peligro. Completaré este servicio hasta que la voluntad de mi Padre sea hecha, y no abandonaré al rebaño que el Padre ha confiado a mis cuidados."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Y además soy el verdadero pastor que está dispuesto a dar hasta su vida por las ovejas. El ladrón se mete en el redil solo para robar, matar y destruir, pero yo he venido para que todos tengáis vida y la tengáis en abundancia. El asalariado huye cuando llega el peligro y deja que las ovejas se dispersen y perezcan, pero el verdadero pastor no huye cuando viene el lobo sino que protege a su rebaño, y si es necesario da la vida por sus ovejas. En verdad, en verdad os digo, amigos y enemigos, que yo soy el verdadero pastor, conozco a los míos y los míos me conocen. No huiré ante el peligro. Terminaré este servicio, cumpliré la voluntad de mi Padre y no abandonaré al rebaño que el Padre ha puesto a mi cuidado."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "165:2.9",
       "pageReference": "1819.5",
       "sortId": "4.165.002.009",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Pero tengo muchas otras ovejas que no son de este redil, y estas palabras son verdaderas no sólo para este mundo. Estas otras ovejas también oyen y reconocen mi voz, y yo he prometido al Padre que todas serán conducidas a un mismo rebaño, a una sola hermandad de los hijos de Dios. Entonces todos vosotros conoceréis la voz de un solo pastor, el pastor verdadero, y todos reconocerán la paternidad de Dios."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Pero tengo muchas otras ovejas que no son de este redil, y mis palabras son verdad no solo para este mundo. Esas otras ovejas también escuchan y conocen mi voz, y he prometido al Padre que serán reunidas todas en un solo redil, en una sola hermandad de hijos de Dios. Entonces todos vosotros conoceréis la voz de un solo pastor, el pastor verdadero, y todos aceptaréis la paternidad de Dios."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "165:2.10",
       "pageReference": "1819.6",
       "sortId": "4.165.002.010",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "«Así pues sabréis por qué el Padre me ama y ha puesto en mis manos todos sus rebaños de este dominio para que los cuide; es porque el Padre sabe que yo no dejaré de proteger mi rebaño ni abandonaré mis ovejas y que, si hace falta, no vacilaré en dar mi vida al servicio de sus muchos rebaños. Pero, recordad, que si doy mi vida, la tomaré de nuevo. Ningún hombre, ni ninguna otra criatura puede quitarme la vida. Tengo el derecho y el poder de dar mi vida, y tengo igual derecho y poder para tomarla nuevamente. Vosotros no podéis comprender esto, pero yo recibí esta autoridad de mi Padre, aun antes de que existiera este mundo»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "«Y así sabréis por qué el Padre me ama y ha puesto en mis manos todos sus rebaños de este dominio para que los cuide; es porque el Padre sabe que no flaquearé en la defensa del redil, que no abandonaré a mis ovejas y que si fuera necesario, no dudaré en entregar mi vida por sus múltiples rebaños. Pero sabed que si doy mi vida la recuperaré. Ningún hombre ni ninguna otra criatura puede quitarme la vida. Tengo el derecho y el poder de entregar mi vida y tengo el mismo poder y el mismo derecho de recuperarla. Vosotros no podéis comprenderlo, pero yo recibí esa autoridad de mi Padre incluso antes de que este mundo fuera.»"
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "165:2.11",
       "pageReference": "1819.7",
       "sortId": "4.165.002.011",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "Cuando oyeron estas palabras, sus apóstoles quedaron confundidos, sus discípulos estaban asombrados, mientras que los fariseos de Jerusalén y de los alrededores salieron en la noche diciendo: «Está fuera de sí o poseído por un diablo». Pero aun algunos de los maestros de Jerusalén dijeron: «Habla como quien tiene autoridad; además, ¿quién ha visto a uno poseído por un diablo abrir los ojos de un hombre que nació ciego y hacer todas las cosas maravillosas que este hombre ha hecho?»"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "Estas palabras dejaron confundidos a sus apóstoles y atónitos a sus discípulos. Por su parte, los fariseos procedentes de Jerusalén y sus alrededores salieron a la noche comentando: «O está loco o tiene un demonio dentro». Pero incluso algunos de los maestros de Jerusalén decían: «Habla como quien tiene autoridad. Además, ¿quién ha visto nunca a un endemoniado abrir los ojos a un ciego de nacimiento y hacer todas las cosas maravillosas que este hombre ha hecho?»."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "165:2.12",
       "pageReference": "1819.8",
       "sortId": "4.165.002.012",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Buen Pastor",
-      "markdown": "Al día siguiente cerca de la mitad de estos maestros judíos profesaron su creencia en Jesús, y la otra mitad retornó espantada a Jerusalén y a sus hogares."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del buen pastor",
+      "markdown": "A la mañana siguiente cerca de la mitad de estos maestros judíos de la zona de Jerusalén se declararon creyentes en Jesús, y los demás volvieron consternados a sus casas."
     },
     {
       "type": "section",
@@ -433,8 +433,8 @@
       "standardReferenceId": "165:3.0",
       "pageReference": null,
       "sortId": "4.165.003.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
       "markdown": null
     },
     {
@@ -451,9 +451,9 @@
       "standardReferenceId": "165:3.1",
       "pageReference": "1819.9",
       "sortId": "4.165.003.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "A fines de enero, las multitudes de los sábados por la tarde eran casi de tres mil personas. El sábado 28 de enero, Jesús predicó el sermón memorable sobre «Confianza y preparación espiritual». Después de las observaciones preliminares de Simón Pedro, el Maestro dijo:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "A finales de enero se reunían casi tres mil personas las tardes de sabbat. El sábado 28 de enero Jesús predicó el memorable sermón sobre «La confianza y la preparación espiritual». Simón Pedro hizo unas observaciones preliminares y luego habló así el Maestro:"
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "165:3.2",
       "pageReference": "1820.1",
       "sortId": "4.165.003.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«Lo que muchas veces he dicho a mis apóstoles y a mis discípulos, declaro ahora a esta multitud: guardaos de la levadura de los fariseos, que es la hipocresía, nacida del prejuicio y alimentada por la esclavitud de las tradiciones, aunque muchos de estos fariseos sean de corazón honesto y algunos entre ellos permanecen aquí como mis discípulos. Pronto todos vosotros comprenderéis mis enseñanzas porque no hay nada que esté ahora escondido, que no será revelado. Lo que se oculta de vosotros se os hará evidente cuando el Hijo del Hombre haya completado su misión en la tierra y en la carne."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«Lo que he dicho muchas veces a mis apóstoles y a mis discípulos lo proclamo ahora ante esta multitud: Guardaos de la levadura de los fariseos que es hipocresía nacida de los prejuicios y alimentada por la esclavitud a las tradiciones, aunque también es cierto que muchos de esos fariseos son rectos de corazón y algunos de ellos están aquí como discípulos míos. Dentro de poco todos comprenderéis mi enseñanza, pues no hay nada encubierto que no haya de ser revelado. Lo que ahora está oculto a vuestros ojos se dará a conocer cuando el Hijo del Hombre haya consumado su misión en la tierra y en la carne."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "165:3.3",
       "pageReference": "1820.2",
       "sortId": "4.165.003.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«Pronto, muy pronto, lo que nuestros enemigos confabulan ahora en secreto, en las tinieblas, saldrá a la luz y será proclamado desde las azoteas. Mas yo os digo, amigos míos, no les temáis a ellos cuando traten de destruir al Hijo del Hombre. No temáis a los que, aunque puedan matar el cuerpo, después ya no tendrán poder alguno sobre vosotros. Yo os advierto que no temáis a nadie, ni en el cielo ni en la tierra, sino que os regocijéis en el conocimiento de Aquél que tiene el poder de liberaros de toda injusticia y de presentaros sin culpa ante el asiento de justicia de todo el universo."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«Pronto, muy pronto, las cosas que nuestros enemigos están tramando ahora en secreto y en la oscuridad saldrán a la luz y se proclamarán desde las azoteas. Pero yo os digo, amigos, que no les tengáis miedo cuando intenten destruir al Hijo del Hombre. No temáis a los que pueden matar el cuerpo pero después ya no tienen ningún poder sobre vosotros. Os advierto que no temáis a nadie ni en el cielo ni en la tierra, sino que os regocijéis en el conocimiento de Aquel que tiene el poder de liberaros de toda injusticia y de presentaros sin culpa ante el tribunal de un universo."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "165:3.4",
       "pageReference": "1820.3",
       "sortId": "4.165.003.004",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«¿No se venden cinco pajarillos por dos cuartillos? Sin embargo, cuando estos pajaritos vuelan en busca de alimento, ni uno de ellos existe sin el conocimiento del Padre, la fuente de toda vida. Para los guardianes seráficos, hasta los cabellos de vuestra cabeza están numerados. Si todo esto es verdad, ¿por qué vivir temerosos de las muchas pequeñeces que surgen en vuestra vida diaria? Yo os digo: no temáis; vosotros valéis mucho más que muchos pajarillos."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«¿No se venden cinco gorriones por dos céntimos? Y sin embargo cuando esos pajaritos revolotean en busca de alimento, ni uno de ellos existe sin que lo sepa el Padre, la fuente de toda vida. Para las guardianas seráficas hasta los cabellos de vuestra cabeza están contados. Si todo esto es verdad, ¿por qué vivís asustados por las muchas pequeñeces que surgen en vuestra vida diaria? Pero yo os digo: no tengáis miedo, valéis mucho más que muchos gorriones juntos."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "165:3.5",
       "pageReference": "1820.4",
       "sortId": "4.165.003.005",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«Todos los que entre vosotros habéis tenido el valor de confesar vuestra fe en mi evangelio ante los hombres, yo presentaré a los ángeles del cielo; pero el que rechace a sabiendas la verdad de mis enseñanzas ante los hombres, será rechazado por el guardián de su destino aun ante los ángeles del cielo."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«A todos los que habéis tenido el valor de confesar ante los hombres vuestra fe en mi evangelio yo os reconoceré dentro de poco ante las ángeles del cielo. Pero el que niegue a sabiendas ante los hombres la verdad de mis enseñanzas será negado por su guardiana del destino incluso ante las ángeles del cielo."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "165:3.6",
       "pageReference": "1820.5",
       "sortId": "4.165.003.006",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«Digáis lo que digáis sobre el Hijo del Hombre, se os perdonará; pero el que presuma blasfemar contra Dios, difícilmente encontrará perdón. Cuando los hombres llegan hasta el extremo de asignar las obras de Dios a las fuerzas del mal, esos rebeldes deliberados difícilmente buscarán el perdón de sus pecados."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«Digáis lo que digáis contra el Hijo del Hombre, os será perdonado; pero quien se atreva a blasfemar contra Dios no hallará perdón. Cuando los hombres llegan hasta el extremo de atribuir a sabiendas los actos de Dios a las fuerzas del mal, esos rebeldes intencionados no buscarán el perdón de sus pecados."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "165:3.7",
       "pageReference": "1820.6",
       "sortId": "4.165.003.007",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«Y cuando nuestros enemigos os lleven ante los rectores de las sinagogas y ante otras altas autoridades, no os preocupéis por lo que debéis decir, ni os aflijáis por cómo contestar a sus preguntas, porque el espíritu que reside en vosotros os enseñará certeramente en esa misma hora lo que debéis decir en honor del evangelio del reino."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«Y cuando nuestros enemigos os lleven ante los jefes de las sinagogas y ante otras altas autoridades, no os preocupéis por lo que diréis ni os inquietéis por la manera de responder a sus preguntas, porque el espíritu que mora dentro de vosotros os enseñará en ese mismo momento lo que habréis de decir en honor del evangelio del reino."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "165:3.8",
       "pageReference": "1820.7",
       "sortId": "4.165.003.008",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "«¿Por cuánto tiempo permaneceréis en el valle de la indecisión? ¿Por qué vaciláis entre dos opiniones? ¿Por qué titubean los judíos o los gentiles en aceptar la buena nueva de que son hijos del Dios eterno? ¿Cuánto tiempo nos llevará persuadiros que entréis con regocijo en vuestra herencia espiritual? Yo vine a este mundo para revelar a vosotros el Padre y conduciros al Padre. Lo primero ya he hecho, pero lo segundo no puedo hacer sin vuestro consentimiento; el Padre jamás obliga a nadie a entrar en el reino. La invitación siempre existió y siempre existirá: el que quiera, que venga y que comparta libremente del agua viva»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "«¿Cuánto tiempo perderéis en el valle de la decisión? ¿Por qué os quedáis parados entre dos opiniones? ¿Por qué habría de dudar un judío o un gentil a la hora de aceptar la buena nueva de que es hijo del Dios eterno? ¿Cuánto tardaremos en convenceros de que toméis posesión con alegría de vuestra herencia espiritual? He venido a este mundo a revelaros al Padre y a conduciros al Padre. Lo primero ya lo he hecho, pero no puedo hacer lo segundo sin vuestro consentimiento; el Padre nunca obliga a nadie a entrar en el reino. La invitación ha sido y será siempre: Que venga todo el que quiera y participe libremente del agua de vida.»"
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "165:3.9",
       "pageReference": "1820.8",
       "sortId": "4.165.003.009",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "El Sermón del Sábado en Pella",
-      "markdown": "Cuando Jesús hubo terminado de hablar, muchos salieron para ser bautizados por los apóstoles en el Jordán, mientras él escuchaba las preguntas de los que se quedaban allí."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El sermón del sabbat en Pella",
+      "markdown": "Cuando Jesús terminó de hablar muchos se encaminaron al Jordán para ser bautizados por los apóstoles mientras Jesús atendía a las preguntas de los que se quedaron."
     },
     {
       "type": "section",
@@ -613,8 +613,8 @@
       "standardReferenceId": "165:4.0",
       "pageReference": null,
       "sortId": "4.165.004.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
       "markdown": null
     },
     {
@@ -631,9 +631,9 @@
       "standardReferenceId": "165:4.1",
       "pageReference": "1821.1",
       "sortId": "4.165.004.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Mientras los apóstoles bautizaban a los creyentes, el Maestro hablaba con los que se quedaban allí. Y cierto joven le dijo: «Maestro, mi padre murió dejándonos muchas propiedades a mí y a mi hermano, pero mi hermano se niega a darme lo que es mío. ¿Quieres tú pues ordenar a mi hermano que comparta esta herencia conmigo?» Jesús se indignó ligeramente de que este joven de mentalidad material trajera a colación tal cuestión de negocios; pero aprovechó la ocasión para impartir una enseñanza ulterior. Dijo Jesús: «Hombre, ¿quién me ha puesto de divisor entre vosotros? ¿De dónde sacaste la idea de que yo me ocupo de los asuntos materiales de este mundo?» Luego, volviéndose a los que estaban a su alrededor, dijo: «Cuidaos, guardaos de la codicia; la vida del hombre no consiste en la abundancia de los bienes que posea. La felicidad no viene del poder de la riqueza, el gozo no surge de la riqueza. La riqueza en sí no es una maldición, pero el amor a la riqueza muchas veces conduce a una devoción tal por las cosas de este mundo, que el alma se enceguece a las bellas atracciones de las realidades espirituales del reino de Dios en la tierra y al regocijo de la vida eterna en el cielo."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Mientras los apóstoles bautizaban a los creyentes, otros se quedaron hablando con el Maestro. Cierto joven le dijo: «Maestro, mi padre nos dejó al morir muchas propiedades a mi hermano y a mí, pero mi hermano no quiere darme lo que es mío. ¿Podrías ordenar a mi hermano que reparta la herencia conmigo?». A Jesús le indignó un poco que este joven propenso al materialismo trajera a colación una disputa económica, pero decidió aprovechar la oportunidad para ampliar sus enseñanzas y le respondió: «Dime, ¿quién me ha nombrado partidor de lo vuestro? ¿De dónde has sacado la idea de que me intereso por los asuntos materiales de este mundo?». Luego se volvió hacia todos los presentes y dijo: «Cuidad de manteneros libres de codicia; la vida de un hombre no consiste en poseer muchas cosas. La felicidad no nace del poder de la riqueza y la alegría no surge de los bienes materiales. Los bienes en sí mismos no son una maldición, pero el amor a la riqueza provoca muchas veces una entrega tal a las cosas de este mundo que el alma se vuelve ciega a los hermosos atractivos de las realidades espirituales del reino de Dios en la tierra y a las alegrías de la vida eterna en el cielo."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "165:4.2",
       "pageReference": "1821.2",
       "sortId": "4.165.004.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "«Os contaré la historia de cierto rico cuya tierra había producido mucho; cuando se volvió muy rico, empezó a pensar dentro de sí, diciendo: ‘¿Qué haré con todas mis riquezas? Ahora tengo tanto que no tengo dónde almacenar mi riqueza’. Y después de meditar sobre este problema, se dijo: ‘Esto haré; derribaré mis graneros, y los edificaré más grandes, y así tendré lugar abundante para almacenar mis frutos y mis bienes. Diré luego a mi alma: alma, muchas riquezas tienes guardadas por muchos años; ahora pues reposa; come, bebe y regocíjate, porque eras rica y tienes muchos bienes’."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "«Voy a contaros la historia de cierto hombre rico cuyas tierras producían mucho. Cuando se hizo muy rico empezó a decirse: ‘¿Qué haré con todas mis riquezas? Tengo tantas que ya no tengo sitio donde almacenar mi fortuna’. Después de reflexionar sobre este problema decidió: ‘Derribaré mis graneros y construiré otros más grandes, y así tendré sitio suficiente para almacenar mis frutos y mis bienes. Entonces podré decir a mi alma: alma, tienes una gran fortuna acumulada para muchos años, ya puedes descansar; come, bebe y diviértete porque eres rica y tus bienes aumentan’."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "165:4.3",
       "pageReference": "1821.3",
       "sortId": "4.165.004.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "«Pero este hombre rico también era necio. Al preocuparse por los asuntos materiales de su mente y cuerpo, se había olvidado de almacenar tesoros en el cielo para satisfacción del espíritu y salvación del alma. Tampoco pudo gozar del placer de consumir su riqueza acumulada porque esa noche misma su alma fue llamada. Esa noche llegaron unos bandidos que asaltaron su casa y lo mataron, y después de robar las cosas de sus graneros, los incendiaron para que nada quedara. Y lo que los ladrones no se llevaron de la propiedad se disputaron sus herederos. Este hombre acumuló sus tesoros en la tierra, pero no fue rico para con Dios»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "«Pero este hombre además de rico era necio. Mientras atendía a las necesidades materiales de su mente y de su cuerpo, no se ocupó de acumular tesoros en el cielo para la satisfacción del espíritu y la salvación del alma. Y ni siquiera pudo disfrutar del placer de consumir las riquezas que había acumulado porque esa misma noche le fue requerida el alma. Esa noche irrumpieron en su casa unos bandidos y lo mataron, y después de saquear sus graneros quemaron lo que quedaba. Las propiedades que se salvaron de los ladrones se las disputaron sus herederos. Este hombre había acumulado tesoros para sí en la tierra, pero no era rico ante Dios.»"
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "165:4.4",
       "pageReference": "1821.4",
       "sortId": "4.165.004.004",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Así trató Jesús al joven y su herencia porque sabía que su problema era la codicia. Si este no hubiese sido el caso, el Maestro no habría interferido, porque él nunca se metía en los asuntos temporales ni siquiera de sus apóstoles, y mucho menos de sus discípulos."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Jesús respondió así al joven sobre su herencia porque sabía que su problema era la codicia. Pero aunque no hubiera existido este problema, el Maestro tampoco habría intervenido porque nunca se entrometía en los asuntos temporales, ni siquiera en los de sus apóstoles y mucho menos en los de sus discípulos."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "165:4.5",
       "pageReference": "1821.5",
       "sortId": "4.165.004.005",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Cuando Jesús hubo terminado su relato, otro se levantó y le preguntó: «Maestro, sé que tus apóstoles han vendido todas sus posesiones terrenales para seguirte y que tienen todas las cosas en común tal como lo hacen los esenios, pero ¿es que quieres que todos nosotros, tus discípulos, hagamos lo mismo? ¿Es acaso pecado poseer riqueza honesta?» Y Jesús respondió a esta pregunta: «Amigo mío, no es pecado poseer riquezas honorables; pero lo es si conviertes la riqueza de las posesiones materiales en *tesoros* que absorban tus intereses y desvíen tu afecto de la devoción a los asuntos espirituales del reino. No hay pecado ninguno en tener posesiones honestas en la tierra, siempre y cuando tu *tesoro* esté en el cielo, porque donde esté tu tesoro, allí también estará tu corazón. Hay una gran diferencia entre la riqueza que conduce a la avaricia y al egoísmo y la que tienen y dispensan en espíritu de fideicomiso los que tienen abundancia de bienes mundanos, y que tan generosamente contribuyen a mantener a los que dedican todas sus energías al trabajo del reino. Muchos de entre vosotros que estáis aquí sin dinero, recibís comida y albergue en la ciudad de tiendas, gracias a las contribuciones de hombres y mujeres generosos, de buena posición, que son dadas para estos fines a vuestro anfitrión, David Zebedeo."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Cuando Jesús terminó de contar su historia se levantó otro oyente y le preguntó: «Maestro, sé que tus apóstoles han vendido todas sus posesiones terrenales para seguirte y tienen todas las cosas en común igual que los esenios. ¿Quieres que todos los que somos discípulos tuyos hagamos lo mismo? ¿Es pecado poseer una fortuna honrada?». Jesús respondió así a esta pregunta: «Amigo, no es pecado tener una fortuna honorable, pero sí es pecado convertir la riqueza de las posesiones materiales en *tesoros* que absorban tu interés y desvíen tus afectos de la dedicación a los objetivos espirituales del reino. No hay pecado en tener posesiones honradas en la tierra con tal de que tu *tesoro* esté en el cielo, pues allí donde esté tu tesoro estará también tu corazón. Hay una gran diferencia entre la riqueza que conduce a la avaricia y al egoísmo, y la que poseen y administran con espíritu de gestión los que tienen bienes abundantes en este mundo y contribuyen con tanta liberalidad a sostener a los que consagran todas sus energías al trabajo del reino. Muchos de los que estáis aquí y no tenéis dinero sois alojados y alimentados en esa ciudad de tiendas porque hombres y mujeres ricos y generosos han proporcionado el dinero necesario a vuestro anfitrión David Zebedeo."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "165:4.6",
       "pageReference": "1822.1",
       "sortId": "4.165.004.006",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "«Pero, no olvidéis jamás que, después de todo, la riqueza no perdura. El amor por la riqueza ofusca demasiado a menudo, aun destruye, la visión espiritual. No dejéis de reconocer el peligro de que la riqueza se vuelva en vez de vuestro siervo vuestro amo»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "«Y no olvidéis nunca que, a fin de cuentas, la riqueza es perecedera. El amor a las riquezas oscurece e incluso destruye demasiadas veces la visión espiritual. No perdáis nunca de vista el peligro de que el dinero, en vez de ser vuestro servidor, se convierta en vuestro amo»."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "165:4.7",
       "pageReference": "1822.2",
       "sortId": "4.165.004.007",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Jesús no enseñó ni propició la negligencia, el ocio, ni la indiferencia en proveer las necesidades físicas para la familia; tampoco aconsejó depender de la limosna. Pero sí enseñó que las cosas materiales y temporales deben estar subordinadas al bienestar del alma y al progreso de la naturaleza espiritual en el reino del cielo."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Jesús no enseñó ni toleró la ociosidad ni la imprevisión, ni tampoco aceptó nunca desatender a las necesidades materiales de la propia familia o depender de limosnas. Lo que enseñó es que lo material y temporal debe estar subordinado al bienestar del alma y al progreso de la naturaleza espiritual en el reino de los cielos."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "165:4.8",
       "pageReference": "1822.3",
       "sortId": "4.165.004.008",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Luego, mientras la gente bajó al río para presenciar el bautismo, el primer joven vino a ver en privado a Jesús para hablar de su herencia, porque le parecía que Jesús lo había tratado con cierta dureza; y cuando el Maestro le escuchó nuevamente, contestó: «Hijo mío, ¿por qué pierdes la oportunidad de comer el pan de la vida en un día como éste, cuando de veras podrías satisfacer tu avaricia? ¿Acaso no sabes que las leyes judías de la herencia serán administradas con justicia si compareces con tu queja ante el tribunal de la sinagoga? ¿Acaso no puedes ver que mi obra tiene que ver con asegurarme de que tú sepas sobre tu herencia celestial? No has leído en la Escritura: ‘Hay el que acumula riquezas con avaricia y sacrificio, y ésta es la porción de su recompensa: cuando dice, ya hallé reposo y ahora podré comerme mis bienes, pero no sabe lo que el tiempo le traerá, y que también deberá abandonar todas estas cosas a otros, cuando muera’. Acaso no has leído el mandamiento: ‘No codiciarás’. Y nuevamente: ‘Ellos comieron y se llenaron y engordaron, y luego se volvieron hacia otros dioses’. Has leído en los Salmos que ‘el Señor odia a los codiciosos’ y que ‘mejor es lo poco del justo, que las riquezas de muchos protervos’. ‘Si se aumentan las riquezas, no pongas el corazón en ellas’. Has leído lo que dice Jeremías: ‘Que no se alabe el rico en sus riquezas’; y Ezequiel habló la verdad cuando dijo: ‘sus labios hablan de amor, pero el corazón de ellos anda en pos de su avaricia»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Mientras la gente bajaba al río para presenciar los bautismos, el primer joven fue a hablar con Jesús en privado sobre el tema de su herencia porque consideraba que Jesús había sido demasiado duro con él. Después de escuchar otra vez su caso, el Maestro le dijo: «Hijo, ¿por qué te dejas llevar por tu tendencia a la codicia en un día como este, y pierdes la oportunidad de alimentarte con el pan de vida? ¿No sabes que las leyes de sucesión judías se aplicarán con justicia si vas con tu queja al tribunal de la sinagoga? ¿No ves que yo estoy aquí para asegurar que conozcas tu herencia celestial? ¿No has leído en las Escrituras: ‘Hay quien acumula riquezas con cautela y sacrificio, y esta es la porción de su recompensa, pues dice para sí: ya hallé reposo y ahora podré comer siempre de mis bienes, pero no sabe lo que el tiempo le traerá, ni tampoco que tendrá que dejar todas esas cosas a otros cuando muera’? ¿No has leído el mandamiento: ‘No codiciarás’. Y también: ‘Comieron hasta hartarse y engordaron, y entonces se volvieron hacia otros dioses’? ¿Has leído en los Salmos que ‘el Señor aborrece a los codiciosos’ y que ‘mejor es lo poco del justo que la abundancia de muchos impíos’. ‘Si aumentan las riquezas, no pongas el corazón en ellas’? ¿Has leído lo que dice Jeremías: ‘Que el rico no se gloríe de su riqueza’?; y Ezequiel habló con verdad cuando dijo: ‘Hacen alarde de amor con los labios, pero sus corazones andan tras sus ganancias’»."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "165:4.9",
       "pageReference": "1822.4",
       "sortId": "4.165.004.009",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Jesús despidió pues al joven, diciéndole: «Hijo mío, ¿de qué te valdrá ganar el mundo entero si pierdes tu propia alma?»"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Jesús despidió al joven con estas palabras: «Hijo, ¿de qué te servirá ganar el mundo entero, si pierdes tu alma?»."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "165:4.10",
       "pageReference": "1822.5",
       "sortId": "4.165.004.010",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "A otro que estaba cerca y que preguntó a Jesús cómo serían juzgados los ricos el día del juicio, él respondió: «Yo no he venido para juzgar ni a ricos ni a pobres, pero la vida que viven los hombres será el juez de todos. Aparte de cualquier otra cosa que concierna a los ricos en el juicio, los que adquieren grandes riquezas deben responder por lo menos tres preguntas, y estas preguntas son:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Otro oyente preguntó cómo serían tratados los ricos el día del juicio y Jesús respondió: «No he venido a juzgar ni a pobres ni a ricos, sino que todos los hombres serán juzgados por su forma de vivir. En lo que respecta al juicio de los ricos, todos los que hayan adquirido grandes riquezas deberán responder por lo menos a estas tres preguntas:"
     },
     {
       "type": "paragraph",
@@ -811,8 +811,8 @@
       "standardReferenceId": "165:4.11",
       "pageReference": "1822.6",
       "sortId": "4.165.004.011",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
       "markdown": "«1. ¿Cuánta riqueza has acumulado?"
     },
     {
@@ -829,9 +829,9 @@
       "standardReferenceId": "165:4.12",
       "pageReference": "1822.7",
       "sortId": "4.165.004.012",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "«2. ¿De qué manera conseguiste esta riqueza?"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "«2. ¿Cómo conseguiste esa riqueza?"
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "165:4.13",
       "pageReference": "1822.8",
       "sortId": "4.165.004.013",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "«3. ¿Cómo usaste tu riqueza?»"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "«3. ¿Cómo empleaste tu riqueza?»"
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "165:4.14",
       "pageReference": "1822.9",
       "sortId": "4.165.004.014",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La División de la Herencia",
-      "markdown": "Luego Jesús fue a su tienda para descansar un rato antes de la cena. Cuando los apóstoles terminaron de bautizar, también volvieron y querían hablar con él sobre la riqueza en la tierra y los tesoros en el cielo, pero él estaba dormido."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "El reparto de la herencia",
+      "markdown": "Luego Jesús se fue a descansar un rato en su tienda antes de la cena. Cuando los apóstoles terminaron de bautizar fueron a hablar con él sobre las riquezas en la tierra y el tesoro en el cielo, pero estaba dormido."
     },
     {
       "type": "section",
@@ -883,8 +883,8 @@
       "standardReferenceId": "165:5.0",
       "pageReference": null,
       "sortId": "4.165.005.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
       "markdown": null
     },
     {
@@ -901,9 +901,9 @@
       "standardReferenceId": "165:5.1",
       "pageReference": "1823.1",
       "sortId": "4.165.005.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "Esa noche después de la cena, cuando Jesús y los doce se reunieron para su conferencia diaria, Andrés dijo: «Maestro, mientras nosotros bautizábamos a los creyentes, tú hablaste muchas palabras a la multitud que allí permanecía, pero que nosotros no escuchamos. ¿Querrías repetir esas palabras para nuestro beneficio?» En respuesta a la solicitud de Andrés, Jesús dijo:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "Después de cenar esa noche Jesús y los doce se reunieron para hablar como de costumbre, y Andrés preguntó: «Maestro, mientras nosotros bautizábamos a los creyentes dijiste muchas cosas a la gente que se quedó contigo y no pudimos oírlas. ¿Podrías repetir esas palabras para nosotros?». Jesús le contestó:"
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "165:5.2",
       "pageReference": "1823.2",
       "sortId": "4.165.005.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "«Sí, Andrés, os hablaré de estos asuntos de la riqueza y de la autosuficiencia, pero mis palabras para vosotros, los apóstoles, deben ser un tanto diferentes de las que hablé a los discípulos y a la multitud, puesto que vosotros lo habéis abandonado todo, no sólo para seguirme a mí, sino para ser ordenados embajadores del reino. Ya habéis tenido varios años de experiencia, y sabéis que el Padre cuyo reino proclamáis no os abandonará. Habéis dedicado vuestra vida al ministerio del reino; por lo tanto, no os angustiéis ni os preocupéis por las cosas de la vida temporal, por lo que comeréis, ni que pondréis sobre vuestros cuerpos. El bienestar del alma es más que comida y bebida; el progreso en el espíritu está muy por encima de la necesidad del atavío. Cuando os tiente dudar de la seguridad de vuestro pan, pensad en los cuervos; ni siembran ni cosechan ni tienen almacenes ni graneros, y sin embargo el Padre provee comida para todo el que la busca. ¡Y cuánto más valiosos sois vosotros que muchos pájaros! Además, la angustia y la incertidumbre nada harán por proveeros vuestras necesidades materiales. ¿Quién entre vosotros podrá, sólo por angustiarse, agregar una palma a vuestra estatura o un día a vuestra vida? Puesto que estos asuntos no están en vuestras manos, ¿por qué preocuparos por ellos?"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "«Sí, Andrés, os hablaré de la riqueza y los medios de subsistencia, pero a vosotros, mis apóstoles, no puedo hablaros exactamente igual que a los discípulos y a la multitud, puesto que vosotros lo habéis dejado todo, no solo para seguirme, sino para ser ordenados embajadores del reino. Tenéis ya varios años de experiencia y sabéis que el Padre cuyo reino proclamáis no os abandonará. Habéis dedicado vuestras vidas al ministerio del reino, por lo tanto no os inquietéis ni os preocupéis por las cosas de la vida temporal, por lo que comeréis, ni tampoco por vuestro cuerpo y la ropa que llevaréis. El bienestar del alma vale más que la comida y la bebida; el progreso en el espíritu está muy por encima de la vestimenta. Cuando tengáis tentaciones de poner en duda la seguridad de vuestro pan, mirad a los cuervos que ni siembran ni siegan ni recogen en graneros, y sin embargo el Padre proporciona comida a todos los que la buscan. ¡Cuánto más valéis vosotros que muchas aves juntas! Además, ni vuestras preocupaciones ni las dudas que os corroen pueden hacer nada por satisfacer vuestras necesidades materiales. ¿Quién de vosotros, a fuerza de preocuparse, puede añadir un palmo a su estatura o un día a su vida? Puesto que esas cosas no están en vuestras manos, ¿por qué os agobiáis por esos problemas?"
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "165:5.3",
       "pageReference": "1823.3",
       "sortId": "4.165.005.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "«Pensad en los lirios, y como crecen; no se afanan ni hilan; mas os digo que ni aun Salomón con toda su gloria se vistió como uno de estos. Si Dios así viste la hierba del campo, que está viva hoy y mañana se corta y se echa al fuego, cuanto más él os vestiré a vosotros, embajadores del reino celestial. O vosotros ¡cuán poca fe tenéis! Cuando os dedicáis de todo corazón a la proclamación del evangelio del reino, no deberíais albergar incertidumbre en vuestra mente por vuestro sostén ni por la familia que habéis dejado. Si realmente dedicáis vuestra vida al evangelio, viviréis por el evangelio. Si tan sólo sois discípulos creyentes, debéis ganaros vuestro pan y contribuir al mantenimiento de todos los que enseñan y predican y curan. Si os preocupáis por vuestro pan y agua, ¿de qué manera diferís de las naciones del mundo que tan diligentemente buscan dichas necesidades? Dedicaos a vuestra obra, creed que tanto el Padre como yo conocemos vuestras necesidades. Dejadme aseguraros de una vez por todas de que, si dedicáis vuestra vida a la obra del reino, todas vuestras necesidades reales serán suministradas. Buscad las cosas más grandes, y las menos importantes serán halladas; pedid cosas celestiales y las cosas materiales estarán incluidas. La sombra por seguro sigue a la sustancia."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "«Mirad cómo crecen los lirios: no trabajan ni hilan, pero yo os digo que ni Salomón en toda su gloria se vistió como uno de ellos. Si Dios viste así a la hierba del campo que hoy está viva y mañana será segada y echada al fuego, cuánto mejor os vestirá a vosotros, los embajadores del reino celestial. ¡Hombres de poca fe!, dado que os dedicáis de todo corazón a proclamar el evangelio del reino no deberíais tener dudas sobre vuestro sustento ni el de las familias que habéis dejado atrás. Si dais verdaderamente vuestras vidas al evangelio, viviréis del evangelio. Si sois solo discípulos creyentes tendréis que ganaros el pan y contribuir al sostenimiento de todos los que enseñan, predican y sanan. Si vivís angustiados por vuestro pan y vuestra agua, ¿en qué os diferenciaréis de las naciones del mundo que tanto se afanan por esas necesidades? Entregaos a vuestro trabajo convencidos de que tanto el Padre como yo sabemos que necesitáis todas esas cosas. Puedo aseguraros de una vez por todas que si dedicáis vuestra vida al trabajo del reino todas vuestras necesidades reales serán satisfechas. Buscad lo más grande y dentro encontraréis lo más pequeño; pedid lo celestial y estará incluido lo terrenal. La sombra sigue siempre a la sustancia."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "165:5.4",
       "pageReference": "1823.4",
       "sortId": "4.165.005.004",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "«Tan sólo sois un grupo pequeño, pero si tenéis fe, si no tropezáis con el temor, yo os declaro que será satisfacción de mi Padre daros este reino. Habéis puesto vuestro tesoro allí donde la bolsa no envejece, donde el ladrón no puede saquear, y donde la polilla no puede destruir. Como dije a la multitud, allí donde está el tesoro, también estará vuestro corazón."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "«No sois más que un grupo pequeño, pero si tenéis fe, si el miedo no os hace tropezar, declaro que mi Padre os dará muy gustosamente este reino. Habéis guardado vuestros tesoros donde la bolsa no envejece, donde ningún ladrón os la puede robar y donde ninguna polilla la puede destruir. Y como dije antes a la gente, donde esté vuestro tesoro allí estará también vuestro corazón."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "165:5.5",
       "pageReference": "1824.1",
       "sortId": "4.165.005.005",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "«Pero en la tarea que nos aguarda, y en lo que queda para vosotros después que yo vuelva al Padre, habréis de pasar duras pruebas. Guardaos todos contra el temor y las dudas. Cada uno de vosotros, preparad vuestra mente y dejad que vuestra lámpara siga encendida. Guardaos como hombres que están esperando el regreso de su amo de una fiesta nupcial, para que, cuando él vuelva y golpee en la puerta, podáis abrirle con rapidez. A estos siervos vigilantes los bendecirá, pues los encuentra fieles en momentos tan importantes. Entonces hará el amo que los siervos se sienten y él les servirá. De cierto, de cierto os digo, que una crisis se avecina a vuestras vidas, y os corresponde vigilar y estar listos."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "«Pero en el trabajo que nos espera inmediatamente y en el que quedará para vosotros después de que yo vaya al Padre seréis probados con rigor. Todos tendréis que estar alerta contra las dudas y el miedo. Que cada uno de vosotros ciña los lomos de su mente y mantenga encendida su lámpara. Comportaos como hombres que están esperando a que vuelva su señor de la fiesta nupcial para que podáis abrirle en el acto cuando llegue y llame a la puerta. El amo bendecirá a estos servidores atentos por su lealtad en un momento tan importante. Entonces el amo hará que sus servidores se sienten, y él mismo se pondrá a servirles. En verdad, en verdad os digo que se avecina una crisis en vuestras vidas; velad pues y estad preparados."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "165:5.6",
       "pageReference": "1824.2",
       "sortId": "4.165.005.006",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "«Bien comprendéis que ningún hombre permitirá que entren ladrones a su casa si sabe la hora en que llegarán esos ladrones. Cuidad también de vosotros mismos, porque en el momento en que menos lo penséis y en la forma que menos sospechéis, el Hijo del Hombre partirá»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "«Es evidente que ningún hombre dejaría que entrara en su casa el ladrón si supiera a qué hora iba a venir. Velad también por vosotros mismos, porque a la hora que menos sospechéis y de una manera que no imagináis se irá el Hijo del Hombre.»"
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "165:5.7",
       "pageReference": "1824.3",
       "sortId": "4.165.005.007",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "Las Conversaciones con los Apóstoles Sobre la Riqueza",
-      "markdown": "Los doce permanecieron sentados en silencio por varios minutos. Algunas de estas advertencias las habían oído antes, pero no dentro del marco que se les presentaba en esta ocasión."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "Las conversaciones con los apóstoles sobre la riqueza",
+      "markdown": "Los doce se quedaron sentados en silencio durante algunos minutos. Algunas de estas advertencias las habían oído antes, pero no en el contexto en que el Maestro las presentó esa noche."
     },
     {
       "type": "section",
@@ -1027,8 +1027,8 @@
       "standardReferenceId": "165:6.0",
       "pageReference": null,
       "sortId": "4.165.006.000",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La Respuesta a la Pregunta de Pedro",
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "La respuesta a la pregunta de Pedro",
       "markdown": null
     },
     {
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "165:6.1",
       "pageReference": "1824.4",
       "sortId": "4.165.006.001",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La Respuesta a la Pregunta de Pedro",
-      "markdown": "Mientras estaban allí sentados pensando, Simón Pedro preguntó: «¿Es que dices esta parábola para nosotros, tus apóstoles, o para todos los discípulos?» Y Jesús contestó:"
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "La respuesta a la pregunta de Pedro",
+      "markdown": "Mientras permanecían sentados pensativamente, Simón Pedro preguntó: «¿Esta parábola nos la cuentas solo a nosotros, tus apóstoles, o es para todos los discípulos?». Y Jesús contestó:"
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "165:6.2",
       "pageReference": "1824.5",
       "sortId": "4.165.006.002",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La Respuesta a la Pregunta de Pedro",
-      "markdown": "«En los momentos de prueba se revela el alma del hombre; la prueba revela lo que verdaderamente alberga su corazón. Cuando el siervo haya pasado la prueba, el amo de la casa pondrá a este siervo al frente de la casa y le confiará su hogar, sabiendo con tranquilidad que sus hijos serán debidamente cuidados y alimentados. Asimismo, yo pronto sabré en quien podré confiar el bienestar de mis hijos, cuando regrese al Padre. Así como el amo de la casa pondrá los buenos y probados siervos a cargo de los asuntos de su familia, del mismo modo yo pondré a cargo de los asuntos de mi reino a los que resistan las pruebas de este período."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "La respuesta a la pregunta de Pedro",
+      "markdown": "«El alma del hombre se revela a la hora de la prueba; las pruebas sacan a relucir lo que hay realmente en el corazón. Cuando el sirviente ha pasado la prueba, el señor de la casa puede confiar a ese sirviente el gobierno de la casa con la tranquilidad de que ese mayordomo fiel velará por que sus hijos estén bien cuidados y alimentados. Del mismo modo, yo sabré pronto a quién podré confiar el bienestar de mis hijos cuando haya regresado al Padre. Igual que el señor de la casa pondrá al servidor de probada fidelidad al frente de los asuntos de su familia, yo también exaltaré a los que superen las pruebas de esta hora en los asuntos de mi reino."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "165:6.3",
       "pageReference": "1824.6",
       "sortId": "4.165.006.003",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La Respuesta a la Pregunta de Pedro",
-      "markdown": "«Pero si el siervo es holgazán y piensa en su corazón, ‘mi amo tarda en llegar’, y comienza a maltratar a los demás siervos y come y bebe con los borrachos, y entonces el amo regresará en el momento en que él no lo espera y, encontrándolo infiel, lo expulsará en deshonra. Por lo tanto hacéis bien en prepararos para ese día en que de pronto seréis visitados inesperadamente. Recordad, mucho se os ha dado; por lo tanto, mucho se esperará de vosotros. Duras pruebas se os avecinan. Yo tengo un bautismo que me bautizará, y vigilaré hasta que esto se haya llevado a cabo. Vosotros predicáis paz en la tierra, pero mi misión no traerá paz en los asuntos materiales de los hombres, por lo menos, no por un tiempo. La división es el único resultado posible cuando dos miembros de una familia creen en mí y tres de ellos rechazan este evangelio. Amigos, parientes y seres queridos están destinados a estar los unos contra los otros por causa del evangelio que vosotros predicáis. Es verdad que cada uno de estos creyentes tendrá una gran paz duradera en su corazón, pero la paz en la tierra no llegará hasta tanto no estén todos dispuestos a creer y a ingresar en la herencia gloriosa de la filiación de Dios. Sin embargo, salid a todo el mundo y proclamad este evangelio a todas las naciones, a todo hombre, mujer y niño»."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "La respuesta a la pregunta de Pedro",
+      "markdown": "«Pero si el criado es holgazán y empieza a decirse: ‘Mi señor tardará en volver’, y empieza a maltratar a los demás sirvientes y a comer y a beber con los borrachos, su señor llegará cuando menos lo espere, comprobará que no es de fiar y lo despedirá con ignominia. Estad pues preparados para el día en que seáis visitados de pronto y sin aviso. Recordad que se os ha dado mucho y por eso se os exigirá mucho. Se avecinan duras pruebas para vosotros. Yo he de ser bautizado, y estaré alerta hasta que se cumpla este bautismo. Vosotros predicáis paz en la tierra, pero mi misión no traerá paz a los asuntos materiales de los hombres, al menos durante un tiempo. Si dos miembros de una familia creen en mí y otros tres rechazan este evangelio, la división será inevitable. Los amigos, los parientes y los seres queridos se levantarán los unos contra los otros a causa del evangelio que predicáis. Es verdad que cada uno de los creyentes gozará de una paz grande y duradera en su propio corazón, pero la paz en la tierra no llegará hasta que todos estén dispuestos a creer en la gloriosa herencia de su filiación con Dios y a acceder a ella. No obstante, id por todo el mundo a proclamar este evangelio a todas las naciones, a todos los hombres, mujeres y niños.»"
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "165:6.4",
       "pageReference": "1824.7",
       "sortId": "4.165.006.004",
-      "paperTitle": "Comienza la Misión de Perea",
-      "sectionTitle": "La Respuesta a la Pregunta de Pedro",
-      "markdown": "Fue éste el fin de un día sábado pletórico y fructífero. Al día siguiente, Jesús y los doce fueron a las ciudades del norte de Perea para visitar a los setenta, quienes estaban trabajando en estas regiones bajo la supervisión de Abner."
+      "paperTitle": "Empieza la misión en Perea",
+      "sectionTitle": "La respuesta a la pregunta de Pedro",
+      "markdown": "Y así terminó este largo e intenso día de sabbat. A la mañana siguiente Jesús y los doce se fueron a las ciudades del norte de Perea para encontrarse con los setenta que estaban trabajando en estas regiones bajo la supervisión de Abner."
     }
   ]
 }

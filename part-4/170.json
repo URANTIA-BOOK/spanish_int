@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/170.md",
-  "source_sha256": "47c635c6223f3315f9bb8547f63e5c803d4ec6417d15d7f4ae028d5d9783158b",
+  "source_sha256": "a3b35717b9912550bf28892f64fa21207dfd1e95f12c5ac4a6d5cfb22843d54b",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "170:0.0",
       "pageReference": null,
       "sortId": "4.170.000.000",
-      "paperTitle": "El Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "170:0.0",
       "pageReference": null,
       "sortId": "4.170.000.000",
-      "paperTitle": "El Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "170:0.1",
       "pageReference": "1858.1",
       "sortId": "4.170.000.001",
-      "paperTitle": "El Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
       "sectionTitle": null,
-      "markdown": "POR la tarde del sábado 11 de marzo, Jesús predicó su último sermón en Pella. Éste se contó entre los discursos más notables de su ministerio público, pues comprendía un discurso pleno y completo del reino del cielo. Se daba cuenta de la confusión que existía en la mente de sus apóstoles y discípulos sobre el sentido y el significado de los términos «reino del cielo» y «reino de Dios», que usaba indistintamente en su misión en la carne. Aunque este término mismo de reino del *cielo* debería haber sido suficiente para separar su significado de toda conexión con los reinos *terrenales* y los gobiernos temporales, no lo era. La idea de un rey temporal estaba demasiado profundamente arraigada en la mente judía para que se la pudiera desalojar en una sola generación. Por consiguiente, Jesús al principio no se opuso abiertamente a este concepto largamente acariciado del reino."
+      "markdown": "EL SÁBADO 11 de marzo por la tarde Jesús predicó su último sermón en Pella. Esta alocución, una de las más notables de su ministerio público, trató de forma amplia y completa sobre el reino de los cielos. El Maestro se daba cuenta de la confusión que existía en la mente de sus apóstoles y discípulos sobre la trascendencia y el significado de las expresiones «reino de los cielos» y «reino de Dios», que él utilizaba indistintamente para designar su misión de otorgamiento. Aunque la propia expresión «reino de los *cielos*» debería haber sido suficiente para disociar su significado de cualquier relación con los reinos *terrenales* y los gobiernos temporales, no lo era. La idea de un rey temporal tenía raíces demasiado profundas en la mente de los judíos como para poder desalojarla en una sola generación. Por eso al principio Jesús no se opuso abiertamente a este concepto del reino que llevaban tanto tiempo cultivando."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "170:0.2",
       "pageReference": "1858.2",
       "sortId": "4.170.000.002",
-      "paperTitle": "El Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
       "sectionTitle": null,
-      "markdown": "Este sábado por la tarde el Maestro intentó aclarar la enseñanza sobre el reino del cielo; trató del tema desde todo punto de vista, intentando aclarar los muchos y diferentes sentidos en los que se había usado el término. En esta narrativa vamos a ampliar el discurso, agregando numerosas declaraciones hechas por Jesús en ocasiones previas e incluyendo algunas observaciones hechas solamente a los apóstoles durante las discusiones vespertinas de este mismo día. También vamos a hacer ciertos comentarios relativos a la evolución subsiguiente de la idea de reino en lo que se relaciona con la subsiguiente iglesia cristiana."
+      "markdown": "Aquella tarde el Maestro intentó dejar muy clara la enseñanza sobre el reino de los cielos. Trató el tema desde todos los puntos de vista y se esforzó por explicar los muchos sentidos diferentes en los que se había utilizado esta expresión. En esta exposición ampliaremos su discurso añadiendo numerosas afirmaciones hechas por Jesús en ocasiones anteriores e incluiremos algunas observaciones que hizo solo a los apóstoles en la conversación vespertina de ese mismo sábado. Haremos también ciertos comentarios sobre el desarrollo subsiguiente de la idea del reino en la Iglesia cristiana posterior."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "170:1.0",
       "pageReference": null,
       "sortId": "4.170.001.000",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "170:1.1",
       "pageReference": "1858.3",
       "sortId": "4.170.001.001",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "En relación con la declaración del sermón de Jesús, debe notarse que en todas las escrituras hebreas había un concepto dual del reino del cielo. Los profetas presentaban el reino de Dios como:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "En relación con el relato del sermón de Jesús cabe señalar que en todas las escrituras hebreas había un concepto dual del reino de los cielos. Los profetas presentaban el reino de Dios como:"
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "170:1.2",
       "pageReference": "1858.4",
       "sortId": "4.170.001.002",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "1. Una realidad presente; y como:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "1. Una realidad presente."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "170:1.3",
       "pageReference": "1858.5",
       "sortId": "4.170.001.003",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "2. Una esperanza futura —cuando el reino se realizaría en su plenitud en el momento en que apareciese el Mesías. Éste es el concepto de reino que enseñaba Juan el Bautista."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "2. Una esperanza futura cuando el reino se hiciera realidad en su plenitud con la aparición del Mesías. Este es el concepto del reino que enseñó Juan el Bautista."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "170:1.4",
       "pageReference": "1858.6",
       "sortId": "4.170.001.004",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "Desde el principio, Jesús y los apóstoles enseñaron ambos conceptos. Había otras dos ideas del reino que es bueno recordar:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "Jesús y los apóstoles enseñaron estos dos conceptos desde el primer momento, y no olvidemos que existían además otras dos ideas del reino:"
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "170:1.5",
       "pageReference": "1858.7",
       "sortId": "4.170.001.005",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "3. El concepto posterior judío de un reino mundial trascendental de origen sobrenatural y de inauguración milagrosa."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "3. El concepto judío más tardío de un reino mundial y trascendental de origen sobrenatural que había de inaugurarse milagrosamente."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "170:1.6",
       "pageReference": "1858.8",
       "sortId": "4.170.001.006",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "4. Las enseñanzas persas que ilustraban el establecimiento al fin del mundo, de un reino divino como logro del triunfo del bien sobre el mal."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "4. Las enseñanzas persas que describían el establecimiento de un reino divino al fin del mundo como resultado del triunfo del bien sobre el mal."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "170:1.7",
       "pageReference": "1858.9",
       "sortId": "4.170.001.007",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "Poco antes del advenimiento de Jesús en la tierra, los judíos combinaron y confundieron todas estas ideas del reino en su concepto apocalíptico del advenimiento del Mesías para establecer la era del triunfo de los judíos, la edad eterna del gobierno supremo de Dios sobre la tierra, el nuevo mundo, la era en la que la humanidad toda adoraría a Yahvé. Al escoger y utilizar este concepto del reino del cielo, Jesús eligió apropiarse de la herencia más vital y culminante tanto de la religión judía como de la persa."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "Justo antes del advenimiento de Jesús a la tierra, los judíos combinaban y confundían todas estas ideas del reino en su concepto apocalíptico de la llegada del Mesías que había de inaugurar la edad del triunfo judío, la edad eterna del reinado supremo de Dios en la tierra, el nuevo mundo, la era en la que toda la humanidad adoraría a Yahvé. Cuando Jesús decidió utilizar este concepto del reino de los cielos, optó por apropiarse de la herencia más vital y culminante tanto de la religión judía como de la persa."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "170:1.8",
       "pageReference": "1859.1",
       "sortId": "4.170.001.008",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "El reino del cielo, tal como ha sido comprendido e interpretado erróneamente durante todos los siglos de la era cristiana, comprende cuatro grupos distintos de ideas:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "El reino de los cielos, tal como ha sido entendido y malentendido a lo largo de los siglos de la era cristiana, englobaba cuatro diferentes grupos de ideas:"
     },
     {
       "type": "paragraph",
@@ -253,8 +253,8 @@
       "standardReferenceId": "170:1.9",
       "pageReference": "1859.2",
       "sortId": "4.170.001.009",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
       "markdown": "1. El concepto de los judíos."
     },
     {
@@ -271,8 +271,8 @@
       "standardReferenceId": "170:1.10",
       "pageReference": "1859.3",
       "sortId": "4.170.001.010",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
       "markdown": "2. El concepto de los persas."
     },
     {
@@ -289,9 +289,9 @@
       "standardReferenceId": "170:1.11",
       "pageReference": "1859.4",
       "sortId": "4.170.001.011",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "3. El concepto de la experiencia personal de Jesús: «el reino del cielo dentro de vosotros»."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "3. El concepto de la experiencia personal de Jesús: «el reino de los cielos dentro de vosotros»."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "170:1.12",
       "pageReference": "1859.5",
       "sortId": "4.170.001.012",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "4. Los conceptos compuestos y confusos que los fundadores y promulgadores del cristianismo han tratado de imponer al mundo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "4. Los conceptos compuestos y confusos que los fundadores y promulgadores del cristianismo han intentado inculcar al mundo."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "170:1.13",
       "pageReference": "1859.6",
       "sortId": "4.170.001.013",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "En momentos distintos y en circunstancias diversas parece que Jesús pudiese haber presentado numerosos conceptos del «reino» en sus enseñanzas públicas, pero a sus apóstoles siempre enseñó que el reino comprende la experiencia personal del hombre en relación con sus semejantes en la tierra y con el Padre en el cielo. En relación con el reino, sus últimas palabras siempre fueron: «el reino está dentro de vosotros»."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "En distintos momentos y circunstancias parece que Jesús pudo haber presentado muchos conceptos del «reino» en sus enseñanzas públicas, pero siempre enseñó a sus apóstoles que el reino consistía en la experiencia personal del hombre con sus semejantes de la tierra y con el Padre del cielo. Siempre que hablaba del reino terminaba diciendo: «El reino está dentro de vosotros»."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "170:1.14",
       "pageReference": "1859.7",
       "sortId": "4.170.001.014",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "Los siglos de confusión que sobrevinieron, respecto del significado del término «reino del cielo», se debieron a tres factores:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "Tres factores han sido los causantes de muchos siglos de confusión sobre el significado de la expresión «reino de los cielos»:"
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "170:1.15",
       "pageReference": "1859.8",
       "sortId": "4.170.001.015",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "1. La confusión ocasionada por la observación de la idea de «reino» tal como fue pasando a través de las varias fases progresivas de su modificación por parte de Jesús y de sus apóstoles."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "1. La confusión que se produjo al observar que la idea del «reino» pasaba por varias fases progresivas de replanteamiento por parte de Jesús y sus apóstoles."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "170:1.16",
       "pageReference": "1859.9",
       "sortId": "4.170.001.016",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "2. La confusión que inevitablemente estaba asociada con el transplante del cristianismo primitivo de suelo judío a suelo gentil."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "2. La confusión que acompañó inevitablemente al trasplante del cristianismo primitivo del terreno judío al gentil."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "170:1.17",
       "pageReference": "1859.10",
       "sortId": "4.170.001.017",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Los Conceptos del Reino del Cielo",
-      "markdown": "3. La confusión inherente al hecho de que el cristianismo se transformó en una religión organizada sobre la idea central de la persona de Jesús; el evangelio del reino se tornó más y más una religión *sobre* él."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Los conceptos del reino de los cielos",
+      "markdown": "3. La confusión inherente al hecho de que el cristianismo se convirtió en una religión organizada en torno a la idea central de la persona de Jesús. El evangelio del reino se fue convirtiendo cada vez más en una religión *sobre* Jesús."
     },
     {
       "type": "section",
@@ -415,8 +415,8 @@
       "standardReferenceId": "170:2.0",
       "pageReference": null,
       "sortId": "4.170.002.000",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
       "markdown": null
     },
     {
@@ -433,9 +433,9 @@
       "standardReferenceId": "170:2.1",
       "pageReference": "1859.11",
       "sortId": "4.170.002.001",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "El Maestro aclaró que el reino del cielo debe comenzar con el concepto dual de la verdad de la paternidad de Dios y el hecho correlacionado de la hermandad de los hombres, y debe centrarse en esto. La aceptación de esta enseñanza, aclaró Jesús, liberaría al hombre de su larga esclavitud de miedo animal y al mismo tiempo enriquecería el vivir humano con los siguientes dones de la nueva vida de libertad espiritual:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "El Maestro dejó muy claro que el reino de los cielos debe empezar por el concepto dual de la verdad de la paternidad de Dios y el hecho correlativo de la hermandad de los hombres, y debe estar centrado en dicho concepto. Jesús afirmó que la aceptación de esta enseñanza liberaría a los hombres de la esclavitud multisecular del miedo animal y enriquecería al mismo tiempo el vivir humano con las siguientes dotaciones de la nueva vida de libertad espiritual:"
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "170:2.2",
       "pageReference": "1859.12",
       "sortId": "4.170.002.002",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "1. La posesión de un nuevo valor y mayor poder espiritual. El evangelio del reino iba a liberar al hombre e inspirarlo para que se atreviera a albergar la esperanza de vida eterna."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "1. Una valentía nueva y un poder espiritual mayor. El evangelio del reino había de hacer libre al hombre e inspirarlo para atreverse a esperar en la vida eterna."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "170:2.3",
       "pageReference": "1859.13",
       "sortId": "4.170.002.003",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "2. El evangelio llevaba un mensaje de nueva confianza y verdadero consuelo para todos los hombres, aun los pobres."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "2. El evangelio llevaba un mensaje de nueva confianza y consuelo verdadero para todos los hombres, incluso para los pobres."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "170:2.4",
       "pageReference": "1859.14",
       "sortId": "4.170.002.004",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "3. En sí mismo era una nueva norma de valores morales, una nueva vara de ética para medir la conducta humana. Ilustraba el ideal del nuevo orden de la sociedad humana que resultaría de él."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "3. Era en sí mismo un nuevo criterio de valores morales, una nueva vara ética con la que medir la conducta humana. Describía el ideal de un nuevo orden de sociedad humana que había de resultar de él."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "170:2.5",
       "pageReference": "1859.15",
       "sortId": "4.170.002.005",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "4. Enseñaba la preeminencia de lo espiritual en comparación con lo material; glorificaba las realidades espirituales y exaltaba los ideales sobrehumanos."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "4. Enseñaba la preeminencia de lo espiritual frente a lo material, glorificaba las realidades espirituales y exaltaba los ideales sobrehumanos."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "170:2.6",
       "pageReference": "1860.1",
       "sortId": "4.170.002.006",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "5. Este nuevo evangelio presentaba el alcance espiritual como meta auténtica del vivir. La vida humana recibía una nueva dotación de valor moral y dignidad divina."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "5. Este nuevo evangelio presentaba el logro espiritual como la verdadera meta del vivir. La vida humana recibía una nueva dotación de valor moral y dignidad divina."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "170:2.7",
       "pageReference": "1860.2",
       "sortId": "4.170.002.007",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "6. Jesús enseñó que las realidades eternas eran el resultado (la recompensa) del esfuerzo recto en la tierra. La estadía mortal del hombre en la tierra adquirió nuevo significado como consecuencia del reconocimiento de un destino noble."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "6. Jesús enseñó que las realidades eternas eran el resultado (la recompensa) del esfuerzo por vivir rectamente en la tierra. La estancia mortal del hombre en la tierra adquirió nuevos significados como consecuencia del reconocimiento de un destino noble."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "170:2.8",
       "pageReference": "1860.3",
       "sortId": "4.170.002.008",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "7. El nuevo evangelio afirmaba que la salvación humana es la revelación de un propósito divino de largo alcance que debe ser satisfecho y realizado en el destino futuro del servicio sin fin de los hijos salvados de Dios."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "7. El nuevo evangelio afirmaba que la salvación humana es la revelación de un propósito divino de largo alcance que ha de cumplirse y realizarse en el destino futuro del servicio sin fin de los hijos salvados de Dios."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "170:2.9",
       "pageReference": "1860.4",
       "sortId": "4.170.002.009",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Estas enseñanzas comprenden la idea ampliada del reino que enseñó Jesús. Este gran concepto casi no se pudo encontrar en las enseñanzas del reino, elementales y confusas, de Juan el Bautista."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Estas enseñanzas constituyen la idea ampliada del reino que Jesús enseñó. Este gran concepto no estaba contenido en las enseñanzas confusas y elementales de Juan el Bautista sobre el reino."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "170:2.10",
       "pageReference": "1860.5",
       "sortId": "4.170.002.010",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Los apóstoles eran incapaces de aprehender el significado real de las declaraciones del Maestro sobre el reino. La distorsión subsiguiente de las enseñanzas de Jesús, tal como se las encuentra en el Nuevo Testamento, se debe al hecho de que el concepto de los que escribieron los evangelios estaba teñido por la creencia de que Jesús en ese momento se había ausentado del mundo tan sólo por un corto tiempo; que pronto retornaría para establecer el reino en poder y gloria —la misma idea que ellos habían mantenido mientras estaba él con ellos en la carne. Pero Jesús no vinculaba el establecimiento del reino con la idea de su retorno a este mundo. El hecho de que hayan pasado siglos sin ningún signo de la aparición de la «Nueva Era» no está de ninguna manera en desacuerdo con las enseñanzas de Jesús."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Los apóstoles no pudieron captar el significado real de las declaraciones del Maestro sobre el reino. La distorsión posterior de las enseñanzas de Jesús, tal como las recoge el Nuevo Testamento, se debe a que el concepto de los escritores del evangelio estaba teñido por la creencia de que Jesús se había ausentado del mundo por poco tiempo y volvería pronto para establecer el reino en poder y gloria. Esta era la idea que tenían mientras Jesús estuvo con ellos en la carne. Pero Jesús nunca relacionó el establecimiento del reino con la idea de su retorno a este mundo. Que hayan pasado los siglos sin ningún signo de la aparición de la «Nueva Edad» no contradice en nada las enseñanzas de Jesús."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "170:2.11",
       "pageReference": "1860.6",
       "sortId": "4.170.002.011",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "El gran esfuerzo contenido en este sermón fue un intento de traducir el concepto del reino del cielo en un ideal de la idea de hacer la voluntad de Dios. Durante mucho tiempo había enseñado el Maestro a sus seguidores a que oraran: «Venga tu reino; hágase tu voluntad»; y en este momento intentó con gran intensidad inducirlos a que abandonaran el uso del término *reino de Dios* en favor del equivalente más práctico, *la voluntad de Dios.* Pero no tuvo éxito."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Este sermón fue el gran esfuerzo de Jesús por transformar el concepto del reino de los cielos en el ideal de hacer la voluntad de Dios. Hacía tiempo que el Maestro había enseñado a sus seguidores a rezar: «Que venga tu reino; que se haga tu voluntad», y en ese momento puso todo su empeño en intentar que sustituyeran la expresión *reino de Dios* por su equivalente más práctico: *la voluntad de Dios*. Pero no lo consiguió."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "170:2.12",
       "pageReference": "1860.7",
       "sortId": "4.170.002.012",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Jesús deseaba sustituir la idea de reino, rey y súbditos por el concepto de familia celestial, Padre celestial, e hijos liberados de Dios ocupados en el servicio gozoso y voluntario de sus semejantes y en la adoración sublime e inteligente de Dios el Padre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Jesús deseaba sustituir la idea de reino, rey y súbditos por el concepto de familia celestial, de Padre celestial e hijos liberados de Dios dedicados al servicio jubiloso y voluntario a sus semejantes y a la adoración sublime e inteligente de Dios Padre."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "170:2.13",
       "pageReference": "1860.8",
       "sortId": "4.170.002.013",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Hasta este momento, los apóstoles habían adoptado un doble punto de vista del reino; lo consideraban:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Hasta ese momento los apóstoles habían adquirido un punto de vista doble sobre el reino. Lo consideraban como:"
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "170:2.14",
       "pageReference": "1860.9",
       "sortId": "4.170.002.014",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "1. Un asunto de experiencia personal presente en ese momento en el corazón de los verdaderos creyentes, y"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "1. Una experiencia personal que tenía lugar en el corazón de los verdaderos creyentes."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "170:2.15",
       "pageReference": "1860.10",
       "sortId": "4.170.002.015",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "2. Una cuestión de fenómeno racial o mundial; que el reino existiría en el futuro, algo que se podría añorar."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "2. Una serie de fenómenos raciales o mundiales. El reino estaba en el futuro, era una expectativa ilusionante."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "170:2.16",
       "pageReference": "1860.11",
       "sortId": "4.170.002.016",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Consideraban el advenimiento del reino en el corazón de los hombres como un desarrollo gradual, como la levadura en la masa o como el crecimiento de la semilla de mostaza. Creían que el advenimiento del reino en el sentido racial o mundial sería tanto repentino como espectacular. Jesús nunca se cansó de decirles que el reino del cielo era su experiencia personal en la comprensión de las cualidades más altas de la vida espiritual; que esas realidades de la experiencia espiritual se traducen progresivamente en niveles nuevos y más altos de certeza divina y grandeza eterna."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Consideraban la venida del reino al corazón de los hombres como un desarrollo gradual semejante a la levadura en la masa o el crecimiento de la semilla de mostaza. En cambio pensaban que la venida del reino en el sentido racial o mundial sería repentina y espectacular. Jesús no se cansó nunca de repetirles que el reino de los cielos era su propia experiencia personal de darse cuenta de las cualidades más altas del vivir espiritual, y que estas realidades de la experiencia de espíritu se traducen progresivamente en niveles nuevos y más altos de certidumbre divina y grandeza eterna."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "170:2.17",
       "pageReference": "1860.12",
       "sortId": "4.170.002.017",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Esa tarde, el Maestro les enseñó claramente un nuevo concepto de la doble naturaleza del reino, al ilustrar las siguientes dos fases:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Aquella tarde el Maestro explicó claramente un nuevo concepto de la doble naturaleza del reino cuando describió los dos aspectos siguientes:"
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "170:2.18",
       "pageReference": "1860.13",
       "sortId": "4.170.002.018",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "«Primero. El reino de Dios en este mundo, el supremo deseo de hacer la voluntad de Dios, el amor altruista del hombre que rinde los buenos frutos de una mejor conducta ética y moral."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "«Primero: el reino de Dios en este mundo, el deseo supremo de hacer la voluntad de Dios, el amor desinteresado de los hombres que produce los buenos frutos de una mejor conducta ética y moral."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "170:2.19",
       "pageReference": "1861.1",
       "sortId": "4.170.002.019",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "«Segundo. El reino de Dios en el cielo, la meta de los creyentes mortales, el estado en el que el amor por Dios se ha perfeccionado, y se cumple la voluntad de Dios más divinamente»."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "«Segundo: el reino de Dios en el cielo, la meta de los creyentes mortales, el estado en el que el amor a Dios se ha perfeccionado y en el que se hace la voluntad de Dios de manera más divina.»"
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "170:2.20",
       "pageReference": "1861.2",
       "sortId": "4.170.002.020",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Jesús enseñó que, por la fe, el creyente entra *ahora* al reino. En los varios discursos enseñó que dos cosas son esenciales para ingresar al reino por la fe:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Jesús enseñó que el creyente entra desde *ahora mismo* en el reino por la fe. En sus diversos discursos explicó que hay dos cosas esenciales para entrar en el reino por la fe:"
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "170:2.21",
       "pageReference": "1861.3",
       "sortId": "4.170.002.021",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "1. *La fe, la sinceridad.* Venir como un niñito, para recibir el don de la filiación como un regalo; someterse a hacer, sin preguntas, la voluntad del Padre, y con una genuina y plena confianza en la sabiduría del Padre; entrar al reino, libre de prejuicios y preconceptos; tener la mente abierta y dispuesta a aprender como un niño pequeño."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "1. *Tener fe y sinceridad*. Llegar como un niño pequeño y recibir el don de la filiación como un regalo; someterse a cumplir la voluntad del Padre sin cuestionarla, con plena seguridad y confianza sincera en la sabiduría del Padre; entrar en el reino libre de prejuicios e ideas preconcebidas; ser de mentalidad abierta y estar dispuesto a aprender como un niño no consentido."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "170:2.22",
       "pageReference": "1861.4",
       "sortId": "4.170.002.022",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "2. *El hambre de la verdad.* La sed de rectitud, un cambio de la actitud mental, la adquisición de la motivación para ser como Dios y para encontrar a Dios."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "2. *Tener hambre de verdad*. La sed de rectitud supone cambiar de mentalidad y adquirir la motivación de ser como Dios y de encontrar a Dios."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "170:2.23",
       "pageReference": "1861.5",
       "sortId": "4.170.002.023",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Jesús enseñó que el pecado no es hijo de una naturaleza defectuosa, sino más bien el descendiente de una mente conocedora dominada por una voluntad no sumisa. Sobre el pecado, enseñó que Dios *ha* perdonado; que nosotros podemos disponer personalmente de ese perdón mediante el acto de perdonar a nuestros semejantes. Cuando perdonas a tu hermano en la carne, creas de esa manera en tu alma la capacidad para recibir la realidad del perdón de Dios por tus errores."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Jesús enseñó que el pecado no es producto de una naturaleza imperfecta, sino más bien fruto de una mente consciente dominada por una voluntad insumisa. Con respecto al pecado, enseñó que Dios ya *ha* perdonado y que ponemos dicho perdón a nuestra disposición personal mediante el acto de perdonar a nuestros semejantes. Cuando perdonáis a vuestro hermano en la carne creáis en vuestra propia alma la capacidad de recibir la realidad del perdón de Dios por vuestras propias malas acciones."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "170:2.24",
       "pageReference": "1861.6",
       "sortId": "4.170.002.024",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Cuando el apóstol Juan comenzó a escribir la historia de la vida y las enseñanzas de Jesús, los primeros cristianos ya habían tenido tantos problemas con la idea del reino de Dios y las persecuciones por ella generadas que prácticamente habían abandonado el uso de este término. Juan habla mucho sobre la «vida eterna». Jesús a menudo se refirió a esta idea como el «reino de la vida». También mencionó frecuentemente «el reino de Dios dentro de vosotros». Una vez habló de tal experiencia como «la hermandad de la familia con Dios el Padre». Jesús intentó reemplazar «reino» por muchos términos, pero siempre sin éxito. Entre otros usó: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de los creyentes, la hermandad del hombre, el redil del Padre, los niños de Dios, la comunidad de los fieles, el servicio del Padre, y los hijos liberados de Dios."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "En el momento en que el apóstol Juan empezaba a escribir la historia de la vida y enseñanzas de Jesús, la idea del reino de Dios había provocado tantas persecuciones a los primeros cristianos que habían dejado de utilizar la expresión casi por completo. Juan habla mucho sobre la «vida eterna». Jesús habló mucho del «reino de la vida». También aludió con frecuencia al «reino de Dios dentro de vosotros». Una vez calificó esta experiencia de «comunión familiar con Dios Padre». Jesús intentaba sustituir la palabra ‘reino’ por otros muchos términos, aunque nunca lo consiguió. Utilizó entre otros: la familia de Dios, la voluntad del Padre, los amigos de Dios, la comunidad de creyentes, la hermandad de los hombres, el redil del Padre, los hijos de Dios, la comunidad de los fieles, el servicio del Padre y los hijos liberados de Dios."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "170:2.25",
       "pageReference": "1861.7",
       "sortId": "4.170.002.025",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "El Concepto de Jesús Sobre el Reino",
-      "markdown": "Pero no pudo escapar al uso de la idea del reino. Tan sólo más de cincuenta años más tarde, después de la destrucción de Jerusalén por los ejércitos romanos, este concepto del reino comenzó a transformarse en el culto de la vida eterna a medida que sus aspectos sociales e institucionales fueron incorporados por la iglesia cristiana en rápida expansión y cristalización."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "El concepto de Jesús sobre el reino",
+      "markdown": "Pero no pudo evitar que se utilizara la idea de reino. No fue hasta más de cincuenta años más tarde, después de la destrucción de Jerusalén por los ejércitos romanos, cuando este concepto del reino empezó a transformarse en el culto de la vida eterna, al tiempo que sus aspectos sociales e institucionales eran asumidos por la rápida expansión y cristalización de la Iglesia cristiana."
     },
     {
       "type": "section",
@@ -883,8 +883,8 @@
       "standardReferenceId": "170:3.0",
       "pageReference": null,
       "sortId": "4.170.003.000",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
       "markdown": null
     },
     {
@@ -901,9 +901,9 @@
       "standardReferenceId": "170:3.1",
       "pageReference": "1861.8",
       "sortId": "4.170.003.001",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "Jesús intentó constantemente hacer comprender a sus apóstoles y discípulos que debían adquirir, por la fe, una rectitud que excediera la rectitud de las acciones esclavizantes que algunos de los escribas y fariseos con tanta vanagloria mostraban al mundo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "Jesús estaba siempre intentando inculcar a sus apóstoles y discípulos que debían adquirir, por la fe, una rectitud que sobrepasara la rectitud de las obras serviles de las que tanto se vanagloriaban ante el mundo algunos escribas y fariseos."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "170:3.2",
       "pageReference": "1861.9",
       "sortId": "4.170.003.002",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "Aunque Jesús enseñó que la fe, la simple creencia parecida a la de un niño, es la llave de la puerta del reino, también enseñó que, habiendo entrado, hay pasos progresivos de rectitud que todo niño creyente debe ascender para crecer hasta la estatura plena de los vigorosos hijos de Dios."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "Jesús enseñó que la fe, creer con la sencillez de un niño, es la llave de la puerta del reino. Enseñó también que después de pasar la puerta están los peldaños progresivos de rectitud que todo niño creyente debe ascender para crecer hasta la estatura plena de los hijos vigorosos de Dios."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "170:3.3",
       "pageReference": "1861.10",
       "sortId": "4.170.003.003",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "Es en la consideración de la técnica de *recepción* del perdón de Dios que el alcance de la rectitud del reino es revelado. La fe es el precio que pagas para entrar en la familia de Dios; pero el perdón es el acto de Dios que acepta tu fe como precio de entrada. Y la recepción del perdón de Dios por un creyente del reino comprende una experiencia definida y real y consiste en seguir cuatro pasos, los pasos del reino de la rectitud interior:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "En la manera de *recibir* el perdón de Dios es donde se revela el modo de alcanzar la rectitud del reino. La fe es el precio que pagáis por entrar en la familia de Dios, pero el perdón es el acto de Dios que acepta vuestra fe como precio de admisión. Para un creyente en el reino recibir el perdón de Dios supone una experiencia concreta y real compuesta por los cuatro pasos siguientes, que son los peldaños del reino hacia la rectitud interior:"
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "170:3.4",
       "pageReference": "1862.1",
       "sortId": "4.170.003.004",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "1. El perdón de Dios se hace realmente disponible y el hombre lo experimenta personalmente sólo en la medida en que él mismo perdona a sus semejantes."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "1. El hombre puede disponer efectivamente del perdón de Dios y experimentarlo personalmente en la misma medida en que perdona a sus semejantes."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "170:3.5",
       "pageReference": "1862.2",
       "sortId": "4.170.003.005",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "2. El hombre no perdona de verdad a sus semejantes, a menos que los ame como a sí mismo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "2. El hombre no perdonará de verdad a sus semejantes a menos que los ame como a sí mismo."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "170:3.6",
       "pageReference": "1862.3",
       "sortId": "4.170.003.006",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "3. Amar así a tu prójimo como a ti mismo *es* la ética más elevada."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "3. Amar así al prójimo como a uno mismo *es* la ética más elevada."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "170:3.7",
       "pageReference": "1862.4",
       "sortId": "4.170.003.007",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "4. La conducta moral, la verdadera rectitud, se torna entonces en el resultado natural de dicho amor."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "4. La conducta moral, la rectitud verdadera, será por lo tanto el resultado natural de ese amor."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "170:3.8",
       "pageReference": "1862.5",
       "sortId": "4.170.003.008",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "Es evidente por lo tanto, que la religión verdadera e interior del reino tiende infaliblemente y cada vez más a manifestarse en avenidas prácticas de servicio social. Jesús enseñó una religión viva que impelía a sus creyentes a que hicieran obra de servicio amante. Pero Jesús no puso la ética en el lugar de la religión. Él enseñó religión como causa y ética como resultado."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "Se hace así patente que la verdadera religión interior del reino tiende a manifestarse de forma creciente e indefectible en las vías prácticas del servicio social. Jesús enseñó una religión viva que impulsaba a sus creyentes a dedicarse a servir por amor. Pero Jesús no puso la ética en el lugar de la religión. Enseñó que la religión era la causa y la ética, el resultado."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "170:3.9",
       "pageReference": "1862.6",
       "sortId": "4.170.003.009",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "La rectitud de todo acto debe ser medida por el motivo; las formas más elevadas de virtud son, por ende inconscientes. Jesús nunca se preocupó ni por la moral ni la ética como tales. Se preocupó siempre y plenamente por aquella relación interior y espiritual con Dios el Padre, que tan certera y directamente se manifiesta exteriormente en el servicio amante a los hombres. Enseñó que la religión del reino es una experiencia personal genuina que ningún hombre puede contener dentro de sí mismo; que la conciencia de ser miembro de la familia de los creyentes conduce inevitablemente a la práctica de los preceptos de la conducta familiar, al servicio a los propios hermanos y hermanas en el esfuerzo de elevar y expandir la hermandad."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "La rectitud de cualquier acto se mide por su motivación; las formas más altas del bien son por lo tanto inconscientes. Jesús no se interesó nunca por la ética ni por la moralidad en sí mismas. Estaba dedicado a la comunión interior y espiritual con Dios Padre que se manifiesta tan cierta y directamente en el servicio externo de amor a los hombres. Enseñó que la religión del reino es una auténtica experiencia personal que nadie puede reservar para sí; que la consciencia de pertenecer a la familia de los creyentes lleva inevitablemente a cumplir los preceptos de conducta de la familia, el servicio a nuestros hermanos y hermanas en un esfuerzo por realzar y ampliar la hermandad."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "170:3.10",
       "pageReference": "1862.7",
       "sortId": "4.170.003.010",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "La religión del reino es personal e individual; los frutos, los resultados, son familiares y sociales. Jesús nunca dejó de exaltar lo sagrado del individuo en contraste con la comunidad. Pero también reconocía que el hombre desarrolla su carácter mediante el servicio altruista; que desenvuelve su naturaleza moral en las relaciones amantes con sus semejantes."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "La religión del reino es personal, individual; sus frutos, sus resultados, son familiares, sociales. Jesús no dejó nunca de exaltar el carácter sagrado del individuo en contraste con la comunidad. Pero reconocía también que el hombre desarrolla su carácter mediante el servicio desinteresado y que despliega su naturaleza moral en sus relaciones de amor con sus semejantes."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "170:3.11",
       "pageReference": "1862.8",
       "sortId": "4.170.003.011",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "En Relación con la Rectitud",
-      "markdown": "Al enseñar que el reino está dentro de uno, al exaltar al individuo, Jesús dio el golpe de gracia a la antigua sociedad, en cuanto abrió la puerta para la nueva dispensación de la verdadera rectitud social. Este nuevo orden social poco lo conoce el mundo porque se ha negado a practicar los principios del evangelio del reino del cielo. Y cuando este reino de preeminencia espiritual llegue a la tierra, no se manifestará simplemente en mejores condiciones sociales y materiales, sino más bien en la gloria de aquellos valores espirituales elevados y enriquecidos que son característicos de la era que se avecina de mejores relaciones humanas y de alcances espirituales cada vez más avanzadas."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Con relación a la rectitud",
+      "markdown": "Al enseñar que el reino está dentro de nosotros, al exaltar al individuo, Jesús dio el golpe de gracia al viejo orden social y abrió paso a la nueva dispensación de la verdadera rectitud social. El mundo ha conocido poco este nuevo orden social porque se ha negado a practicar los principios del evangelio del reino de los cielos. Y cuando este reino de preeminencia espiritual venga a la tierra, no se manifestará en una mera mejora de las condiciones sociales y materiales, sino más bien en las glorias de los valores espirituales realzados y enriquecidos que caracterizarán la edad de mejores relaciones humanas y logros espirituales progresivos que se aproxima."
     },
     {
       "type": "section",
@@ -1099,8 +1099,8 @@
       "standardReferenceId": "170:4.0",
       "pageReference": null,
       "sortId": "4.170.004.000",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
       "markdown": null
     },
     {
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "170:4.1",
       "pageReference": "1862.9",
       "sortId": "4.170.004.001",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "Jesús nunca ofreció una definición precisa del reino. En cierto momento hablaba de una fase del reino, en otro momento conversaba de un aspecto diferente de la hermandad del reino de Dios en el corazón de los hombres. En el curso de este sermón del sábado por la tarde Jesús mencionó no menos de cinco fases, o épocas, del reino, y éstas fueron:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "Jesús no dio nunca una definición precisa del reino. Unas veces disertaba sobre una faceta del reino y otras hablaba de un aspecto diferente de la hermandad del reinado de Dios en el corazón de los hombres. Durante el sermón de esa tarde de sabbat Jesús habló por lo menos de cinco fases o épocas del reino, que fueron las siguientes:"
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "170:4.2",
       "pageReference": "1862.10",
       "sortId": "4.170.004.002",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "1. Como parte de la vida espiritual, la experiencia personal e interior de la comunidad del creyente individual con Dios el Padre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "1. La experiencia personal interna de la vida espiritual de cada creyente en comunión individual con Dios Padre."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "170:4.3",
       "pageReference": "1863.1",
       "sortId": "4.170.004.003",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "2. La hermandad en crecimiento de los creyentes del evangelio, los aspectos sociales de moral más elevada y de ética más noble que resultan del reinado del espíritu de Dios en el corazón de los creyentes individuales."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "2. La hermandad creciente de los que creen en el evangelio, los aspectos sociales del avance moral y el estímulo ético que resultan del reinado del espíritu de Dios en el corazón de los creyentes individuales."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "170:4.4",
       "pageReference": "1863.2",
       "sortId": "4.170.004.004",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "3. La hermandad supermortal de los seres espirituales invisibles que prevalece en la tierra y en el cielo, el reino sobrehumano de Dios."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "3. La hermandad supramortal de los seres espirituales invisibles que prevalece en la tierra y en el cielo, el reino sobrehumano de Dios."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "170:4.5",
       "pageReference": "1863.3",
       "sortId": "4.170.004.005",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "4. La perspectiva de una satisfacción más completa de la voluntad de Dios, el avance hacia el amanecer de un nuevo orden social en relación con un vivir espiritual mejorado —la próxima etapa del hombre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "4. La perspectiva de un cumplimiento más perfecto de la voluntad de Dios, el avance hacia el amanecer de un nuevo orden social en conexión con un vivir espiritual mejorado, la siguiente edad del hombre."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "170:4.6",
       "pageReference": "1863.4",
       "sortId": "4.170.004.006",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "5. El reino en su plenitud, la era espiritual futura de luz y vida en la tierra."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "5. El reino en su plenitud, la futura edad espiritual de luz y vida en el planeta."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "170:4.7",
       "pageReference": "1863.5",
       "sortId": "4.170.004.007",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "Por lo tanto, es necesario siempre que examinemos las enseñanzas del Maestro, para determinar a cuál de estas cinco fases puede estar haciendo referencia cuando usa el término reino del cielo. Mediante este proceso de modificación gradual de la voluntad del hombre, que a su vez afecta las decisiones humanas, Micael y sus asociados de igual modo gradual pero certero están cambiando el entero curso de la evolución humana, tanto social como en otros aspectos."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "Por eso hemos de examinar siempre la enseñanza del Maestro para determinar a cuál de estas cinco fases puede estar haciendo referencia cuando utiliza la expresión «reino de los cielos». Mediante este proceso de cambiar gradualmente la voluntad del hombre, con su correspondiente influencia sobre las decisiones humanas, Miguel y sus asociados están cambiando de forma gradual pero cierta todo el curso de la evolución humana, socialmente y en otros aspectos."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "170:4.8",
       "pageReference": "1863.6",
       "sortId": "4.170.004.008",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "En esta ocasión, el Maestro hizo hincapié sobre los siguientes cinco puntos como representación de las características cardinales del evangelio del reino:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "En esta ocasión el Maestro puso énfasis en los cinco puntos siguientes en cuanto que representan los rasgos cardinales del evangelio del reino:"
     },
     {
       "type": "paragraph",
@@ -1261,8 +1261,8 @@
       "standardReferenceId": "170:4.9",
       "pageReference": "1863.7",
       "sortId": "4.170.004.009",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
       "markdown": "1. La preeminencia del individuo."
     },
     {
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "170:4.10",
       "pageReference": "1863.8",
       "sortId": "4.170.004.010",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "2. La voluntad como factor determinante en la experiencia del hombre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "2. La voluntad como factor determinante en la experiencia humana."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "170:4.11",
       "pageReference": "1863.9",
       "sortId": "4.170.004.011",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "3. La comunidad espiritual con Dios el Padre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "3. La comunidad espiritual con Dios Padre."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "170:4.12",
       "pageReference": "1863.10",
       "sortId": "4.170.004.012",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "4. Las satisfacciones supremas del servicio amoroso del hombre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "4. Las satisfacciones supremas de servir a los hombres con amor."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "170:4.13",
       "pageReference": "1863.11",
       "sortId": "4.170.004.013",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "5. La trascendencia en la personalidad humana de lo espiritual sobre lo material."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "5. La trascendencia de lo espiritual sobre lo material en la personalidad humana."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "170:4.14",
       "pageReference": "1863.12",
       "sortId": "4.170.004.014",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "Este mundo no ha probado nunca seria, sincera u honestamente estas ideas dinámicas, estos ideales divinos de la doctrina de Jesús del reino del cielo. Pero no debéis desalentaros por el progreso aparentemente lento de la idea del reino en Urantia. Recordad que el orden de la evolución progresiva está sujeto a periódicos cambios repentinos e inesperados tanto en el mundo material como en el mundo espiritual. El autootorgamiento de Jesús como Hijo encarnado fue precisamente un acontecimiento extraño e inesperado de esa naturaleza en la vida espiritual del mundo. No cometáis tampoco el error fatal, al buscar la manifestación del reino en la era, de no ocuparos de establecerlo en vuestra alma."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "Este mundo no ha puesto nunca a prueba seria, sincera y honradamente estas ideas dinámicas y estos ideales divinos de la doctrina de Jesús sobre el reino de los cielos. Pero no deberíais desanimaros por el progreso aparentemente lento de la idea del reino en Urantia. Recordad que el orden de la evolución progresiva está sujeto a cambios periódicos repentinos e inesperados tanto en el mundo material como en el espiritual. El otorgamiento de Jesús como Hijo encarnado fue precisamente uno de esos acontecimientos extraños e inesperados en la vida espiritual del mundo. Ni tampoco cometáis el error fatal de buscar la manifestación del reino en vuestra época y olvidaros de establecerlo en vuestra propia alma."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "170:4.15",
       "pageReference": "1863.13",
       "sortId": "4.170.004.015",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "Aunque Jesús atribuyó una fase del reino al futuro y, en numerosas ocasiones, sugirió que dicho evento podría aparecer como parte de una crisis mundial; y aunque también con certidumbre, en varias ocasiones, prometió definitivamente que algún día retornaría a Urantia, es necesario aclarar que nunca vinculó positivamente estas dos ideas entre sí. Prometió una nueva revelación del reino sobre la tierra en algún tiempo futuro; también prometió que alguna vez volvería en persona a este mundo; pero no dijo que los dos acontecimientos fueran sinónimos. Por todo lo que sabemos, estas promesas pueden referirse al mismo acontecimiento, o no."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "Aunque Jesús se refirió a una fase del reino situada en el futuro e insinuó en numerosas ocasiones que ese acontecimiento podría aparecer como parte de una crisis mundial, y aunque también prometió claramente, con toda certeza y en diversas ocasiones volver a Urantia alguna vez, hay que dejar constancia de que nunca asoció explícitamente estas dos ideas. Prometió una nueva revelación del reino en la tierra en algún momento futuro, prometió también volver alguna vez a este mundo en persona, pero nunca dijo que esos dos acontecimientos coincidirían. Que nosotros sepamos, estas promesas podrían referirse o no al mismo acontecimiento."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "170:4.16",
       "pageReference": "1863.14",
       "sortId": "4.170.004.016",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Enseñanzas de Jesús Sobre el Reino",
-      "markdown": "Sus apóstoles y discípulos vincularon con certeza estas dos enseñanzas. Cuando el reino no se materializó tal como ellos habían esperado, recordando la enseñanza del Maestro sobre un reino futuro y recordando su promesa de volver, llegaron a la conclusión de que estas promesas se referían a un acontecimiento idéntico; por lo tanto vivieron en la esperanza de un segundo advenimiento inmediato con el fin de establecer el reino en su plenitud y con poder y gloria. Así también han vivido generaciones sucesivas de creyentes en la tierra con la misma esperanza inspiradora pero desalentadora."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las enseñanzas de Jesús sobre el reino",
+      "markdown": "Pero es indudable que sus apóstoles y discípulos relacionaron estas dos enseñanzas. Cuando el reino no se materializó como esperaban, recordaron la enseñanza del Maestro sobre un reino futuro y la asociaron a su promesa de que volvería hasta llegar a la conclusión de que ambas promesas se referían al mismo acontecimiento. Por eso vivieron esperando esa inminente segunda venida en la que habría de establecerse el reino en su plenitud con poder y majestad, y así han vivido en la tierra las generaciones sucesivas de creyentes, con la misma inspiradora pero decepcionante esperanza."
     },
     {
       "type": "section",
@@ -1405,8 +1405,8 @@
       "standardReferenceId": "170:5.0",
       "pageReference": null,
       "sortId": "4.170.005.000",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
       "markdown": null
     },
     {
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "170:5.1",
       "pageReference": "1864.1",
       "sortId": "4.170.005.001",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Habiendo resumido las enseñanzas de Jesús sobre el reino del cielo, se nos permite narrar ciertas ideas posteriores atribuidas al concepto del reino y hacer un pronóstico profético del reino tal como puede evolucionar en la era venidera."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Al final de este resumen de las enseñanzas de Jesús sobre el reino de los cielos hemos sido autorizados a exponer ciertas ideas posteriores que se asociaron al concepto del reino y a hacer un pronóstico profético sobre la posible evolución del reino en la edad por venir."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "170:5.2",
       "pageReference": "1864.2",
       "sortId": "4.170.005.002",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "A lo largo de los primeros siglos de propaganda cristiana, la idea del reino del cielo estuvo enormemente influida por los conceptos, por aquel entonces en rápida difusión, del idealismo griego, la idea de lo natural como sombra de lo espiritual —lo temporal como sombra de lo eterno en el tiempo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Durante los primeros siglos de la propaganda cristiana la idea del reino de los cielos estuvo enormemente influida por las nociones del idealismo griego que estaba entonces en plena difusión: la idea de lo natural como sombra de lo espiritual, lo temporal como sombra de lo eterno en el tiempo."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "170:5.3",
       "pageReference": "1864.3",
       "sortId": "4.170.005.003",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Pero el gran paso que marcó el transplante de las enseñanzas de Jesús de un suelo judío a un suelo gentil, se tomó cuando el Mesías del reino se volvió el Redentor de la iglesia, una organización religiosa y social que creció de las actividades de Pablo y de sus sucesores y que se basó en las enseñanzas de Jesús, suplementadas por las ideas de Filón y las doctrinas persas del bien y del mal."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Pero el gran paso que marcó el trasplante de las enseñanzas de Jesús del terreno judío al terreno gentil consistió en convertir al Mesías del reino en el Redentor de la Iglesia, una organización religiosa y social que surgió de las actividades de Pablo y sus sucesores y se fundamentó en las enseñanzas de Jesús complementadas por las ideas de Filón y las doctrinas persas del bien y del mal."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "170:5.4",
       "pageReference": "1864.4",
       "sortId": "4.170.005.004",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Las ideas e ideales de Jesús, comprendidas en la enseñanza del evangelio del reino, casi no se realizaron ya que sus seguidores distorsionaban progresivamente sus declaraciones. El concepto del reino explicado por el Maestro fue notablemente modificado por dos grandes tendencias:"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Las ideas y los ideales de Jesús recogidos en la enseñanza del evangelio del reino estuvieron a punto de perderse a medida que sus seguidores iban distorsionando progresivamente sus declaraciones. El concepto del reino presentado por el Maestro fue modificado notablemente por dos grandes tendencias:"
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "170:5.5",
       "pageReference": "1864.5",
       "sortId": "4.170.005.005",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "1. Los creyentes judíos persistieron en considerarle el *Mesías.* Creían que Jesús pronto retornaría para establecer realmente el reino mundial y más o menos material."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "1. Los creyentes judíos siguieron considerando a Jesús como el *Mesías*. Creían que volvería muy pronto para establecer de hecho un reino mundial más o menos material."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "170:5.6",
       "pageReference": "1864.6",
       "sortId": "4.170.005.006",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "2. Los cristianos gentiles comenzaron muy pronto a aceptar las doctrinas de Pablo que llevaban cada vez más a la creencia general de que Jesús era el *Redentor* de los hijos de la iglesia, que era la sucesora nueva e institucional del concepto anterior de hermandad puramente espiritual del reino."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "2. Los cristianos gentiles empezaron a aceptar enseguida las doctrinas de Pablo que condujeron cada vez más a la creencia general de que Jesús era el *Redentor* de los hijos de la Iglesia, la nueva sucesora institucional del concepto anterior de hermandad puramente espiritual del reino."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "170:5.7",
       "pageReference": "1864.7",
       "sortId": "4.170.005.007",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "La iglesia, como desarrollo social del reino, habría sido totalmente natural y aun deseable. El mal de la iglesia no estribó en su existencia sino más bien en el hecho de que suplantó casi completamente el concepto del reino elaborado por Jesús. La iglesia institucionalizada de Pablo se volvió virtualmente el sustituto del reino del cielo que Jesús había proclamado."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "La Iglesia como consecuencia social del reino habría sido enteramente natural e incluso deseable. El mal de la Iglesia no fue su existencia, sino que suplantó casi por completo el concepto de Jesús sobre el reino. La Iglesia institucionalizada de Pablo se convirtió en el sustituto virtual del reino de los cielos que Jesús había proclamado."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "170:5.8",
       "pageReference": "1864.8",
       "sortId": "4.170.005.008",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Pero no dudéis, este mismo reino del cielo que el Maestro enseñó existe en el corazón del creyente, y resta ser proclamado a esta iglesia cristiana, y aun a todas las demás religiones, razas y naciones de la tierra —aun a cada ser."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Pero el Maestro enseñó que el reino de los cielos existe dentro del corazón del creyente, y no dudéis que este mismo reino de los cielos ha de ser proclamado todavía a la Iglesia cristiana, así como a todas las demás religiones, razas y naciones del planeta, incluso a cada individuo."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "170:5.9",
       "pageReference": "1864.9",
       "sortId": "4.170.005.009",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "El reino enseñado por Jesús, el ideal espiritual de la rectitud individual y el concepto de la comunidad divina del hombre con Dios, se fue sumergiendo paulatinamente en el concepto místico de la persona de Jesús como Redentor-Creador y cabeza espiritual de una comunidad religiosa socializada. De esta manera, una iglesia formal e institucional se volvió el sustituto de una hermandad del reino formada por individuos guiados por el espíritu."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "El reino que enseñó Jesús —el ideal espiritual de rectitud individual y el concepto de comunión divina del hombre con Dios— se sumergió gradualmente en la concepción mística de la persona de Jesús como Creador-Redentor y cabeza espiritual de una comunidad religiosa socializada. Así fue como la hermandad del reino guiada individuo a individuo por el espíritu fue sustituida por una Iglesia formal e institucional."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "170:5.10",
       "pageReference": "1864.10",
       "sortId": "4.170.005.010",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "La iglesia fue el resultado *social* inevitable y útil de la vida y de las enseñanzas de Jesús; la tragedia consistió en el hecho de que esta reacción social a las enseñanzas del reino desplazara tan plenamente el concepto espiritual del verdadero reino tal como Jesús lo había enseñado y vivido."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "La Iglesia fue un resultado *social* inevitable y útil de la vida y las enseñanzas de Jesús. La tragedia estuvo en el hecho de que esta reacción social a las enseñanzas sobre el reino desplazara tan completamente el concepto espiritual del reino real tal como lo vivió y enseñó Jesús."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "170:5.11",
       "pageReference": "1865.1",
       "sortId": "4.170.005.011",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "El reino, para los judíos, era la *comunidad* israelita; para los gentiles se volvió la *iglesia* cristiana. Para Jesús el reino era la suma de aquellos *seres* que habían confesado su fe en la paternidad de Dios, declarando de ese modo su dedicación total a hacer la voluntad de Dios, volviéndose así miembros de la hermandad espiritual del hombre."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Para los judíos el reino era la *comunidad* israelita, para los gentiles se convirtió en la *Iglesia* cristiana. Para Jesús el reino era la suma de las *personas* que habían confesado su fe en la paternidad de Dios y al hacerlo se consagraban sin reservas a hacer la voluntad de Dios y se convertían en miembros de la hermandad espiritual del hombre."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "170:5.12",
       "pageReference": "1865.2",
       "sortId": "4.170.005.012",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "El Maestro se daba cuenta plenamente de que aparecerían en el mundo ciertos resultados sociales como consecuencia de la diseminación del evangelio del reino; pero era su intención que todas estas manifestaciones sociales deseables aparecieran como crecimientos inconscientes e inevitables, o frutos naturales, de la experiencia personal interior de los individuos creyentes, de la comunidad espiritual y comunión con el espíritu divino que reside en todos los creyentes y los activa."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "El Maestro se daba perfecta cuenta de que aparecerían ciertos resultados sociales en el mundo como consecuencia de la difusión del evangelio del reino, pero su intención era que todas esas manifestaciones sociales deseables aparecieran como productos inconscientes e inevitables de la experiencia personal interna de cada creyente individual, como frutos naturales de la camaradería y la comunión puramente espiritual con el espíritu divino que mora dentro de todos esos creyentes y los activa."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "170:5.13",
       "pageReference": "1865.3",
       "sortId": "4.170.005.013",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Jesús previó que una organización social, o iglesia, seguiría el progreso del verdadero reino espiritual, y por eso no se opuso nunca a que los apóstoles practicaran el rito del bautismo de Juan. Enseñó que el alma amante de la verdad, el alma que tiene hambre y sed de rectitud, de Dios, es admitida por la fe al reino espiritual; al mismo tiempo, los apóstoles enseñaron que dicho creyente es admitido a la organización social de los discípulos mediante el rito exterior del bautismo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Jesús preveía que una organización social o Iglesia seguiría al progreso del verdadero reino espiritual y por eso no se opuso nunca a que los apóstoles practicaran el rito del bautismo de Juan. El Maestro enseñaba que el alma que ama la verdad, el alma que tiene hambre y sed de rectitud, de Dios, es admitida por la fe en el reino espiritual; los apóstoles enseñaban al mismo tiempo que ese creyente es admitido en la organización social de los discípulos mediante el rito externo del bautismo."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "170:5.14",
       "pageReference": "1865.4",
       "sortId": "4.170.005.014",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Cuando los seguidores inmediatos de Jesús descubrieron que el ideal del establecimiento del reino en el corazón de los hombres mediante el dominio y la guía del espíritu en cada creyente les había fracasado parcialmente, dispusieron salvar sus enseñanzas del total olvido sustituyendo el ideal del reino del Maestro por la creación gradual de una organización social visible: la iglesia cristiana. Después de efectuar este programa de sustitución, para mantener la uniformidad y asegurar el reconocimiento de las enseñanzas del Maestro sobre el hecho del reino, proyectaron la idea del reino al futuro. La iglesia, en cuanto estuvo bien establecida, comenzó a enseñar que el reino aparecería en realidad cuando culminara la era cristiana, con el segundo advenimiento de Cristo."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Cuando los seguidores directos de Jesús reconocieron que habían fracasado parcialmente en hacer realidad el ideal del Maestro de establecer el reino en el corazón de los hombres mediante la dominación y guía del espíritu en cada creyente individual, intentaron evitar que se perdieran totalmente sus enseñanzas sustituyendo el ideal del reino que tenía el Maestro por la creación gradual de una organización social visible: la Iglesia cristiana. Después de llevar a cabo este programa de sustitución optaron por situar el reino en el futuro, a fin de mantener la coherencia y asegurar el reconocimiento de las enseñanzas del Maestro sobre el hecho del reino. En cuanto la Iglesia estuvo bien establecida empezó a enseñar que el reino aparecería en realidad cuando culminara la era cristiana con la segunda venida de Cristo."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "170:5.15",
       "pageReference": "1865.5",
       "sortId": "4.170.005.015",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "De esta manera, el reino se tornó el concepto de una era, la idea de una visitación futura, y el ideal de la redención final de los santos del Altísimo. Los primeros cristianos (y muchos de los que vinieron después) perdieron de vista en general la idea del Padre e hijo que era la esencia de las enseñanzas de Jesús sobre el reino, sustituyéndola por la bien organizada comunidad social de la iglesia. La iglesia de este modo se volvió principalmente una hermandad *social* que desplazó efectivamente el concepto e ideal de Jesús de una hermandad *espiritual.*"
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Y así se convirtió el reino en el concepto de una edad, en la idea de una visitación futura y en el ideal de la redención final de los santos del Altísimo. Los primeros cristianos (y demasiados de los que vinieron después) perdieron generalmente de vista la idea de Padre e hijo incorporada en la enseñanza de Jesús sobre el reino y pusieron en su lugar la comunidad social bien organizada de la Iglesia. La Iglesia se convirtió principalmente en una hermandad *social*, que desplazó efectivamente el concepto y el ideal de Jesús de una hermandad *espiritual*."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "170:5.16",
       "pageReference": "1865.6",
       "sortId": "4.170.005.016",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "El concepto ideal de Jesús fracasó en gran parte, pero sobre los cimientos de la vida personal y las enseñanzas del Maestro, suplementados por los conceptos griego y persa de vida eterna y aumentados por la doctrina de Filón de lo temporal contrastado con lo espiritual, Pablo construyó una de las sociedades humanas más progresivas que hayan existido jamás en Urantia."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "El concepto ideal de Jesús fracasó en gran parte, pero sobre los fundamentos de la vida y las enseñanzas personales del Maestro, complementados con los conceptos griegos y persas de la vida eterna y acrecentados por la doctrina de Filón sobre el contraste de lo temporal con lo espiritual, Pablo se puso a construir una de las sociedades humanas más progresivas que han existido jamás en Urantia."
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "170:5.17",
       "pageReference": "1865.7",
       "sortId": "4.170.005.017",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "El concepto de Jesús aún vive en las religiones avanzadas del mundo. La iglesia cristiana de Pablo es la sombra socializada y humanizada de lo que Jesús quería que fuera el reino del cielo —y lo que con toda seguridad será. Pablo y sus sucesores transfirieron parcialmente los asuntos de la vida eterna, de cada individuo, a la iglesia. Cristo, de este modo, se tornó en el dirigente de la iglesia, en vez de ser el hermano mayor de cada creyente dentro de la familia del Padre del reino. Pablo y sus contemporáneos aplicaron todas las implicaciones espirituales de Jesús que se referían a él mismo y a cada creyente, a la *iglesia* como grupo de creyentes; y al hacer así, dieron un golpe mortal al concepto de Jesús del reino divino en el corazón de cada creyente."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "El concepto de Jesús está aún vivo en las religiones avanzadas del mundo. La Iglesia cristiana de Pablo es la sombra socializada y humanizada de lo que Jesús quería que fuera el reino de los cielos y que con toda certeza llegará a ser. Pablo y sus sucesores transfirieron parcialmente las cuestiones de la vida eterna del individuo a la Iglesia. Cristo se convirtió así en la cabeza de la Iglesia en vez del hermano mayor de cada creyente individual en la familia del reino del Padre. Pablo y sus contemporáneos atribuyeron a la *Iglesia* como grupo de creyentes todas las implicaciones espirituales de Jesús sobre sí mismo y sobre el creyente individual, y al hacerlo asestaron un golpe mortal al concepto de Jesús sobre el reino divino en el corazón de cada creyente."
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "170:5.18",
       "pageReference": "1866.1",
       "sortId": "4.170.005.018",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Así pues, durante siglos, la iglesia cristiana ha laborado en una situación altamente embarazosa porque se atrevió a reclamar para sí aquellos poderes y privilegios misteriosos del reino, que tan sólo pueden ser ejercidos y experimentados entre Jesús y sus hermanos creyentes espirituales. De este modo resulta aparente que la asociación con la iglesia no significa necesariamente la comunidad del reino; una es espiritual, la otra, principalmente social."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Por eso la Iglesia cristiana se ha visto muy incomodada en su labor a lo largo de los siglos, porque se atrevió a atribuirse los misteriosos poderes y privilegios del reino, poderes y privilegios que solo pueden ser ejercidos y experimentados entre Jesús y los creyentes, sus hermanos espirituales. Y se hace así patente que la pertenencia a la Iglesia no significa necesariamente comunión en el reino; una es espiritual, la otra, principalmente social."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "170:5.19",
       "pageReference": "1866.2",
       "sortId": "4.170.005.019",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Tarde o temprano surgirá otro Juan el Bautista más grande, que proclamará que «el reino de Dios está cerca» —significando un retorno del elevado concepto espiritual de Jesús, quien proclamó que el reino es la voluntad de su Padre celestial que domina y trasciende en el corazón del creyente —y haciéndolo así sin referirse de ninguna manera ni a la iglesia visible en la tierra ni al segundo advenimiento anticipado de Cristo. Es necesario que ocurra un renacimiento de las enseñanzas *verdaderas* de Jesús, una redeclaración que deshaga el trabajo de sus primeros seguidores, quienes procuraron crear un sistema socio-filosófico de creencias sobre el *hecho* de la estadía de Micael en la tierra. En poco tiempo, la enseñanza de esta historia *sobre* Jesús prácticamente suplantó la predicación del evangelio del reino de Jesús. Así pues, una religión histórica desplazó aquella enseñanza en la cual Jesús había combinado las ideas morales y los ideales espirituales más elevados del hombre con la esperanza más sublime del hombre para el futuro —la vida eterna. Y ése era el evangelio del reino."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "Tarde o temprano surgirá otro Juan el Bautista más grande que proclamará que «el reino de Dios está cerca» —con el significado de un retorno al concepto espiritual superior de Jesús que proclamó que el reino es la voluntad dominante y trascendente de su Padre celestial en el corazón del creyente— y hará todo esto sin referirse de ningún modo ni a la Iglesia visible en la tierra ni a la anticipada segunda venida de Cristo. Tiene que producirse un renacimiento de las enseñanzas *auténticas* de Jesús, una nueva exposición de su doctrina para deshacer la obra de sus primeros seguidores que se dedicaron a crear un sistema sociofilosófico de creencias sobre el *hecho* de la estancia de Miguel en la tierra. Esta historia *sobre* Jesús tardó poco en suplantar casi por completo la predicación del evangelio de Jesús sobre el reino. De esta manera una religión histórica desplazó la enseñanza en la que Jesús había combinado las ideas morales y los ideales espirituales más altos del hombre con sus esperanzas más sublimes para el futuro: la vida eterna. Y ese era el evangelio del reino."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "170:5.20",
       "pageReference": "1866.3",
       "sortId": "4.170.005.020",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "Es justamente porque el evangelio de Jesús tenía tantas facetas, que en el curso de pocos siglos los estudiantes de los documentos sobre sus enseñanzas se dividieron en tantos cultos y sectas. La triste subdivisión de los creyentes cristianos resulta del fracaso de discernir en las muchas enseñanzas del Maestro la singularidad divina de su incomparable vida única. Pero algún día, los verdaderos creyentes de Jesús no estarán así divididos espiritualmente en su actitud ante los no creyentes. Siempre podremos tener diversidad de comprensión intelectual e interpretación, aun diversos grados de socialización, pero la falta del sentimiento de fraternidad espiritual es inexcusable y reprensible."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "El evangelio de Jesús tenía tantas facetas que a los pocos siglos los estudiosos de los textos de sus enseñanzas estaban divididos en innumerables cultos y sectas. Esta lamentable subdivisión de los creyentes cristianos se debe a su incapacidad de percibir en las múltiples enseñanzas del Maestro la unicidad divina de su vida incomparable. Pero algún día los verdaderos creyentes en Jesús no mostrarán esta actitud de división espiritual ante los no creyentes. Podremos tener siempre diferencias de comprensión e interpretación intelectual, incluso distintos grados de socialización, pero la falta de hermandad espiritual es reprensible e inexcusable."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "170:5.21",
       "pageReference": "1866.4",
       "sortId": "4.170.005.021",
-      "paperTitle": "El Reino del Cielo",
-      "sectionTitle": "Las Ideas Posteriores Sobre el Reino",
-      "markdown": "¡No os equivoquéis! Existe en las enseñanzas de Jesús una naturaleza eterna que no le permitirá permanecer por siempre sin frutos en el corazón de los hombres pensadores. El reino, tal como lo concibió Jesús, ha fracasado en gran parte en la tierra; por ahora, una iglesia exterior ha tomado su lugar; pero debéis comprender que esta iglesia es tan sólo la etapa larval del reino espiritual impedido, que lo llevará a través de esta era material, a una dispensación más espiritual en la que las enseñanzas del Maestro gozarán de una oportunidad más plena para su desarrollo. Así pues, la así llamada iglesia cristiana se vuelve el capullo en el cual está ahora durmiendo el concepto del reino de Jesús. El reino de la hermandad divina aún está vivo y saldrá finalmente y con certeza de su largo letargo, con tanta certeza como surge finalmente la mariposa, como la bella evolución de su menos atrayente criatura de desarrollo metamórfico."
+      "paperTitle": "El reino de los cielos",
+      "sectionTitle": "Las ideas posteriores sobre el reino",
+      "markdown": "¡No os equivoquéis! En las enseñanzas de Jesús hay una naturaleza eterna que no permitirá que permanezcan improductivas para siempre en el corazón de las personas inteligentes. El reino tal como Jesús lo concebía ha fracasado considerablemente en la tierra. Una Iglesia externa ocupa por ahora su lugar, pero deberíais comprender que esta Iglesia no es más que la etapa larvaria del frustrado reino espiritual que lo transportará a través de esta edad material y lo conducirá hasta una dispensación más espiritual en la que las enseñanzas del Maestro tendrán la oportunidad de desarrollarse con más plenitud. La llamada Iglesia cristiana se convierte así en el capullo donde dormita ahora el concepto de Jesús sobre el reino. El reino de la hermandad divina sigue vivo y terminará saliendo de su larga sumersión con la misma seguridad que emerge la mariposa como el hermoso desarrollo de una tosca crisálida."
     }
   ]
 }

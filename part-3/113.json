@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/113.md",
-  "source_sha256": "0132e0100897d342638036ad0c282124f29c0e14c6aee88b4140295fd4c8b51e",
+  "source_sha256": "c67ca7fefcb2420855caf88b0f8818b3bd599114272745df660afd5db83c474f",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "113:0.0",
       "pageReference": null,
       "sortId": "3.113.000.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
+      "paperTitle": "Las guardianas seráficas del destino",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "113:0.0",
       "pageReference": null,
       "sortId": "3.113.000.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
+      "paperTitle": "Las guardianas seráficas del destino",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "113:0.1",
       "pageReference": "1241.1",
       "sortId": "3.113.000.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
+      "paperTitle": "Las guardianas seráficas del destino",
       "sectionTitle": null,
-      "markdown": "HABIENDO presentado los relatos acerca de los Espíritus de Ministerio del Tiempo y de las Huestes de Mensajeros del Espacio, llegamos a la consideración de los ángeles guardianes, los serafines dedicados al ministerio de los mortales individuales, para cuya elevación y perfeccionamiento ha sido proveído todo este vasto esquema de supervivencia de progresión espiritual. Durante edades pasadas en Urantia, estos guardianes del destino eran prácticamente el único grupo reconocido de ángeles. Los serafines planetarios son efectivamente espíritus ministrantes enviados para servir a los que sobrevivirán. Estos serafines asistentes han funcionado como asistentes espirituales del hombre mortal en todos los grandes acontecimientos del pasado y del presente. En muchas revelaciones «la palabra fue dicha por medio de los ángeles»; muchos de los mandatos del cielo han sido «recibidos por disposición de los ángeles»."
+      "markdown": "DESPUÉS DE HABER tratado sobre los espíritus ministrantes del tiempo y las huestes de mensajeros del espacio, pasamos a considerar a las ángeles guardianas, las serafines dedicadas al ministerio de los mortales individuales para cuya elevación y perfeccionamiento se ha dispuesto todo este vasto plan de supervivencia y progresión espiritual. En el pasado estas guardianas del destino eran casi el único grupo reconocido de ángeles en Urantia. De hecho, las serafines planetarias son espíritus ministrantes enviados para servir a los que sobrevivirán. Estas serafines acompañantes han desempeñado sus funciones como ayudantes espirituales del hombre mortal en todos los grandes acontecimientos del pasado y del presente. En muchas revelaciones «la palabra fue pronunciada por ángeles» y muchos de los mandatos del cielo han sido «recibidos mediante el ministerio de ángeles»."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "113:0.2",
       "pageReference": "1241.2",
       "sortId": "3.113.000.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
+      "paperTitle": "Las guardianas seráficas del destino",
       "sectionTitle": null,
-      "markdown": "Los serafines son los ángeles tradicionales del cielo; son los espíritus ministrantes que viven tan cerca de vosotros y tanto hacen por vosotros. Han ministrado en Urantia desde los primeros tiempos de la inteligencia humana."
+      "markdown": "Las serafines son las ángeles tradicionales del cielo, los espíritus ministrantes que viven a vuestro lado y hacen tanto por vosotros. Llevan ejerciendo su ministerio en Urantia desde los primeros tiempos de la inteligencia humana."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "113:1.0",
       "pageReference": null,
       "sortId": "3.113.001.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "113:1.1",
       "pageReference": "1241.3",
       "sortId": "3.113.001.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "La enseñanza sobre los ángeles guardianes no es un mito; ciertos grupos de seres humanos en realidad tienen ángeles personales. Fue en reconocimiento de esto por lo que Jesús, al hablar de los niños del reino de los cielos, dijo: «Cuidad que no despreciéis a ninguno de estos pequeños, pues yo os digo, que sus ángeles contemplan constantemente la presencia del espíritu de mi Padre»."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "La enseñanza sobre ángeles guardianas no es ningún mito; ciertos grupos de seres humanos tienen realmente ángeles personales. Jesús lo corrobora cuando dice al hablar de los niños del reino de los cielos: «Tened cuidado de no despreciar a ninguno de estos pequeños, pues yo os digo que sus ángeles contemplan siempre la presencia del espíritu de mi Padre»."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "113:1.2",
       "pageReference": "1241.4",
       "sortId": "3.113.001.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "Originalmente, los serafines se asignaron claramente a las distintas razas separadas de Urantia. Pero desde el autootorgamiento de Micael, se los ha asignado según la inteligencia, la espiritualidad y el destino humanos. Intelectualmente, la humanidad se divide en tres clases:"
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "En un principio las serafines fueron asignadas de forma específica a las distintas razas de Urantia, pero desde el otorgamiento de Miguel son asignadas con arreglo a la inteligencia, la espiritualidad y el destino de los seres humanos. Desde el punto de vista intelectual la humanidad se divide en tres clases:"
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "113:1.3",
       "pageReference": "1241.5",
       "sortId": "3.113.001.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "1. Los de mente subnormal —los que no ejercen un poder de voluntad normal; los que no toman decisiones promedio. Esta clase comprende a los que no pueden en-tender a Dios; les falta la capacidad para la adoración inteligente de la Deidad. Los seres subnormales de Urantia son ministrados por un cuerpo de serafines, una compañía, con un batallón de querubines, encargados de vigilar que se les extienda justicia y misericordia en las luchas de la vida en la esfera."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "1. Los seres humanos con mente inferior a la normal: los que no ejercen un poder normal de la voluntad ni toman las decisiones promedio de la vida. Esta clase abarca a los que no pueden comprender a Dios porque les falta capacidad para adorar inteligentemente a la Deidad. Los seres de Urantia con capacidad intelectual inferior a la normal tienen un cuerpo de serafines, una compañía, con un batallón de querubines encargadas de atenderlos y atestiguar que les alcanza la justicia y la misericordia en las luchas terrenales por la vida."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "113:1.4",
       "pageReference": "1241.6",
       "sortId": "3.113.001.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "2. El tipo normal, promedio de mente humana. Desde el punto de vista del ministerio seráfico, la mayor parte de los hombres y mujeres se dividen en siete clases de acuerdo con su estado al ir alcanzando los círculos de progreso humano y desarrollo espiritual."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "2. Las mentes humanas normales de tipo medio. Desde el punto de vista del ministerio seráfico, la mayoría de los hombres y mujeres se agrupan en siete clases según su estatus de realización de los círculos de progreso humano y desarrollo espiritual."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "113:1.5",
       "pageReference": "1241.7",
       "sortId": "3.113.001.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "3. Los que tienen mente supernormal —aquellos de gran poder de decisión e indudable potencial de logro espiritual; hombres y mujeres que disfrutan de mayor o menor contacto con sus Ajustadores residentes; miembros de los distintos cuerpos de reserva del destino. Sea cual fuere el círculo en el cual se encuentre un ser humano, si este individuo es convocado a las filas de cualquiera de los varios cuerpos de reserva del destino, en ese mismo momento se le asignan serafines personales, y desde ese momento hasta que termina su carrera terrestre, ese mortal disfrutará del ministerio continuo y el cuidado incesante de un ángel guardián. También, cuando un ser humano toma *la* decisión suprema, cuando hay un verdadero compromiso con el Ajustador, se asigna inmediatamente un guardián personal a esa alma."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "3. Los seres humanos con mente superior a la normal: los que poseen una gran capacidad de decisión y un potencial indudable de logro espiritual. Son hombres y mujeres que han establecido un contacto mayor o menor con su Ajustador interior, miembros de los diversos cuerpos de reserva del destino. Sea cual fuere el círculo donde se encuentre un ser humano en un momento dado, en cuanto ese individuo es enrolado en cualquiera de los distintos cuerpos de reserva del destino, le es asignada una serafín personal, y ese mortal se beneficiará desde entonces hasta el fin de su carrera terrenal del cuidado continuo y la vigilancia incesante de una ángel guardiana. Del mismo modo, cuando un ser humano toma *la* decisión suprema, cuando hay esponsales reales con el Ajustador, una guardiana personal es asignada inmediatamente a esa alma."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "113:1.6",
       "pageReference": "1242.1",
       "sortId": "3.113.001.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "En el ministerio de los así llamados seres normales, las asignaciones seráficas se realizan de acuerdo con el logro humano de los círculos de intelectualidad y espiritualidad. Comienzas en tu mente de dote mortal en el séptimo círculo y te trasladas hacia adentro en la tarea de la autocomprensión, la autoconquista y el autodominio; y de círculo en círculo avanzas hasta alcanzar (si la muerte natural no termina tu carrera transfiriendo tus luchas a los mundos de estancia) el primer círculo o círculo interior de contacto y comunión relativos con el Ajustador residente."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "En el ministerio de los llamados seres normales, las asignaciones seráficas se hacen según los círculos de intelectualidad y espiritualidad alcanzados por los humanos. Empezáis con la mente propia de vuestra vestidura mortal en el séptimo círculo y viajáis hacia dentro en la tarea de comprenderos, dominaros y superaros a vosotros mismos. Así vais avanzando de círculo en círculo hasta que alcanzáis (si la muerte no detiene vuestra carrera y transfiriere vuestras luchas a los mundos mansión) el círculo primero o más interno de relativo contacto y comunión con el Ajustador que mora dentro de vosotros."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "113:1.7",
       "pageReference": "1242.2",
       "sortId": "3.113.001.007",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "Los seres humanos en el círculo inicial o séptimo cuentan con un ángel guardián con una compañía de querubines asistentes asignados al cuidado y custodia de mil mortales. En el sexto círculo, se asigna un par seráfico con una compañía de querubines a guiar a estos mortales ascendentes en grupos de quinientos. Cuando se alcanza el quinto círculo, los seres humanos se agrupan en compañías de aproximadamente cien, y un par de guardianes serafines con un grupo de querubines se asigna a su cargo. Al conseguir el cuarto círculo, los seres mortales son reunidos en grupos de diez, y nuevamente el encargo se entrega a un par de serafines, asistidos por una compañía de querubines."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "Los seres humanos que están en el círculo inicial o séptimo tienen una ángel guardiana con una compañía de querubines auxiliares encargadas de cuidar y custodiar a mil mortales. En el círculo sexto, una pareja seráfica asistida por una compañía de querubines tiene la misión de guiar a los mortales ascendentes en grupos de quinientos. Cuando alcanzan el círculo quinto, los seres humanos son agrupados en compañías de unos cien y puestos a cargo de una pareja de serafines guardianas con un grupo de querubines. Al alcanzar el círculo cuarto, los seres mortales forman grupos de diez y se encarga de ellos una pareja de serafines asistida por una compañía de querubines."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "113:1.8",
       "pageReference": "1242.3",
       "sortId": "3.113.001.008",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes",
-      "markdown": "Cuando una mente mortal rompe la inercia de la herencia animal y alcanza el tercer círculo de la intelectualidad humana y de la espiritualidad adquirida, un ángel personal (en realidad dos) se dedicarán desde ese momento entera y exclusivamente a este mortal ascendente. Así estas almas humanas, además de la presencia constante y cada vez más eficaz de los Ajustadores del Pensamiento residentes, reciben la ayuda indivisa de estos guardianes personales del destino en todos sus esfuerzos por terminar el tercer círculo, atravesar el segundo y alcanzar el primero."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas",
+      "markdown": "Cuando una mente mortal rompe la inercia de la herencia animal y alcanza el círculo tercero de intelectualidad humana y espiritualidad adquirida, una ángel personal (en realidad dos) se dedicará a partir de entonces entera y exclusivamente a ese mortal ascendente. Y así, estas almas humanas, además de la presencia constante y cada vez más eficaz de su Ajustador del Pensamiento, reciben la asistencia íntegra de estas guardianas personales del destino en todos sus esfuerzos por completar el tercer círculo, atravesar el segundo y alcanzar el primero."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "113:2.0",
       "pageReference": null,
       "sortId": "3.113.002.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "113:2.1",
       "pageReference": "1242.4",
       "sortId": "3.113.002.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "No se conoce a los serafines como guardianes del destino hasta el momento en que se los asigna a la asociación de un alma humana que ha alcanzado uno o más de tres logros: ha hecho la decisión suprema de volverse semejante a Dios, ha entrado al tercer círculo o ha sido hecho partícipe de uno de los cuerpos de reserva del destino."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Las serafines no son consideradas guardianas del destino hasta el momento en que son destinadas a acompañar a un alma humana que ha conseguido uno o más de estos tres logros: tomar la decisión suprema de hacerse semejante a Dios, entrar en el tercer círculo o ser enrolada en uno de los cuerpos de reserva del destino."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "113:2.2",
       "pageReference": "1242.5",
       "sortId": "3.113.002.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "En la evolución de las razas se asigna un guardián del destino al primer ser humano que alcanza el círculo requerido de conquista. En Urantia el primer mortal que tuvo un guardián personal fue Rantowoc, un hombre sabio de la raza roja de hace mucho tiempo."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "En la evolución de las razas se asigna una guardiana del destino al primer ser que alcanza el círculo de conquista requerido. El primer mortal que consiguió una guardiana personal en Urantia fue Rantowoc, un sabio de la raza roja que vivió hace mucho tiempo."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "113:2.3",
       "pageReference": "1242.6",
       "sortId": "3.113.002.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Se hacen todas las asignaciones angélicas a partir de un grupo de serafines voluntarios, y estos nombramientos están siempre de acuerdo con las necesidades humanas y con la consideración del estado del par angélico —a la luz de la experiencia, pericia y sabiduría seráficas. Se asigna como guardianes del destino sólo a los serafines de servicio prolongado, los tipos más expertos y probados. Muchos guardianes han ganado gran experiencia valiosa en aquellos mundos que son de la serie de no fusión con el Ajustador. Como los Ajustadores, los serafines se ocupan de estos seres durante una sola vida y son luego liberados para nuevas asignaciones. Muchos guardianes en Urantia han tenido esta previa experiencia práctica en otros mundos."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Todas las ángeles asignadas proceden de un plantel de serafines voluntarias. Estos nombramientos se hacen siempre en función de las necesidades humanas y tomando en consideración el estatus de la pareja angélica en cuanto a experiencia, destreza y sabiduría seráfica. Solo las serafines veteranas, las más probadas y experimentadas, son asignadas como guardianas del destino. Muchas guardianas han adquirido abundante y valiosa experiencia en los mundos cuyos habitantes no se fusionan con el Ajustador. Igual que los Ajustadores, las serafines atienden a estos seres durante una sola vida y luego son liberadas para nuevas misiones. Muchas guardianas que ahora están en Urantia han tenido antes esta experiencia práctica en otros mundos."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "113:2.4",
       "pageReference": "1243.1",
       "sortId": "3.113.002.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Cuando los seres humanos no llegan a sobrevivir, sus guardianes personales o de grupo pueden servir repetidamente en capacidad similar en el mismo planeta. Los serafines desarrollan un respeto sentimental por los mundos individuales y mantienen un afecto especial por ciertas razas y tipos de criaturas mortales con las cuales se han asociado tan estrecha e íntimamente."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Cuando los seres humanos no consiguen sobrevivir, sus guardianas personales o colectivas pueden seguir desempeñando repetidas veces tareas semejantes en ese mismo planeta. Las serafines desarrollan una estima sentimental por los mundos individuales y profesan un afecto especial a ciertas razas y ciertos tipos de criaturas mortales con las que han estado tan estrecha e íntimamente asociadas."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "113:2.5",
       "pageReference": "1243.2",
       "sortId": "3.113.002.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Los ángeles desarrollan un gran afecto por sus asociados humanos; y vosotros, si tan sólo pudierais visualizar a los serafines, también desarrollaríais un cálido afecto por ellos. Liberados de los cuerpos materiales y puestos en formas espirituales, estaríais muy cerca de los ángeles en muchos atributos de la personalidad. Comparten la mayor parte de vuestras emociones y experimentan algunas más. La única emoción que os impulsa y que es para ellos algo difícil de comprender es la herencia del temor animal que ocupa tanto lugar en la vida mental del habitante promedio de Urantia. Los ángeles verdaderamente encuentran difícil comprender por qué vosotros permitís tan persistentemente que vuestros poderes intelectuales más elevados, aun vuestra fe religiosa, estén tan dominados por el temor, tan profundamente desmoralizados por el pánico irracional del miedo y de la ansiedad."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Las ángeles desarrollan un afecto duradero por sus compañeros humanos, y si vosotros pudierais visualizar a las serafines sentiríais también un cálido afecto por ellas. Despojados de vuestros cuerpos materiales y provistos de formas de espíritu, estaríais muy cerca de las ángeles en muchos atributos de la personalidad. Ellas comparten la mayor parte de vuestras emociones y experimentan algunas más. La única de vuestras emociones dominantes que les cuesta entender es el legado del miedo animal que ocupa un lugar tan importante en la vida mental del urantiano medio. Para las ángeles es francamente difícil comprender por qué os obstináis en permitir que vuestros poderes intelectuales más altos, incluso vuestra fe religiosa, estén tan dominados por el miedo, tan profundamente desmoralizados por el pánico irracional del terror y la ansiedad."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "113:2.6",
       "pageReference": "1243.3",
       "sortId": "3.113.002.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Todos los serafines tienen nombres individuales, pero en los registros de asignación al servicio en el mundo, se los designa frecuentemente por sus números planetarios. En la sede central del universo están registrados por nombre y número. El guardián del destino del sujeto humano utilizado en esta comunicación de contacto es el número 3 del grupo 17, de la compañía 126, del batallón 4, de la unidad 384, de la legión 6, de la hueste 37, del ejército seráfico 182.314 de Nebadon. El número de la asignación planetaria actual de este serafín en Urantia y para con este sujeto humano es 3.641.852."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Todas las serafines tienen nombres individuales, pero en los registros de asignación al servicio de los mundos suelen estar inscritas por sus números planetarios. En la sede del universo están registradas por nombre y número. La guardiana del destino del sujeto humano utilizado en esta comunicación por contacto es la número 3 del grupo 17 de la compañía 126 del batallón 4 de la unidad 384 de la legión 6 de la hueste 37 del ejército seráfico 182 314 de Nebadon. La presente asignación planetaria en Urantia de esta serafín con este sujeto humano tiene el número 3 641 852."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "113:2.7",
       "pageReference": "1243.4",
       "sortId": "3.113.002.007",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "En el ministerio de la custodia personal, la asignación de ángeles con el encargo de guardianes del destino, los serafines siempre ofrecen voluntariamente sus servicios. En la ciudad anfitriona de esta visitación, cierto mortal fue recientemente admitido al cuerpo de reserva del destino, y puesto que un ángel guardián asiste personalmente a los humanos en estas condiciones, más de cien serafines calificados se ofrecieron para el cargo. El director planetario seleccionó a doce de los individuos más expertos y posteriormente nombró al serafín que seleccionó como el mejor para guiar a este ser humano por la jornada de su vida. O sea, seleccionaron a cierto par de serafines igualmente calificados; uno de los dos de este par seráfico está siempre de centinela."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "En el ministerio de custodia personal, cuando las ángeles son asignadas como guardianas del destino, las serafines ofrecen siempre voluntariamente sus servicios. En la ciudad donde hacemos esta visitación cierto mortal fue admitido recientemente en el cuerpo de reserva del destino, y como en esos casos todos los humanos son atendidos personalmente por ángeles guardianas, más de cien serafines cualificadas se presentaron como candidatas. La directora planetaria seleccionó a doce de las más experimentadas y luego nombró a la serafín que ellas eligieron como la más indicada para guiar a ese ser humano en su viaje por la vida. Eligieron de hecho a una pareja de serafines igual de cualificadas para que una de las dos esté siempre de guardia."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "113:2.8",
       "pageReference": "1243.5",
       "sortId": "3.113.002.008",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Las tareas seráficas pueden ser incansables, pero cada uno de los dos del par angélico es capaz de satisfacer todas las responsabilidades del ministerio. Como los querubines, los serafines generalmente sirven en pares, pero a diferencia de sus asociados menos avanzados, los serafines a veces trabajan individualmente. En prácticamente todos sus contactos con los seres humanos, pueden funcionar como individuos. Se requieren los dos ángeles tan sólo para comunicación y servicio en los circuitos más elevados de los universos."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Las tareas seráficas pueden ser incesantes, pero cualquiera de los miembros de la pareja angélica puede encargarse de todas las responsabilidades del ministerio. Como las querubines, las serafines suelen actuar por parejas, pero a diferencia de sus compañeras menos avanzadas, las serafines trabajan a veces solas y pueden actuar individualmente en prácticamente todos sus contactos con los seres humanos. La presencia de ambas ángeles solo es necesaria para el servicio y las comunicaciones en los circuitos más altos de los universos."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "113:2.9",
       "pageReference": "1243.6",
       "sortId": "3.113.002.009",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Cuando un par seráfico acepta la asignación de custodia, sirve a ese ser humano por el resto de su vida. El complemento del ser (uno de los dos ángeles) se vuelve el registrador de la empresa. Estos serafines complementarios son los ángeles registradores de los mortales de los mundos evolucionarios. Un par de querubines (un querubín y un sanobín) que están siempre asociados con los guardianes seráficos, mantienen los registros pero siempre uno de los serafines patrocina estos registros."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Cuando una pareja seráfica acepta una misión de custodia la desempeñará durante el resto de la vida de ese ser humano. El complemento del ser (una de las dos ángeles) se convierte en la cronista de la empresa. Estas serafines de complemento son las ángeles registradoras de los mortales de los mundos evolutivos. Conserva el historial la pareja de querubines (una querubín y una sanobín), que está siempre asociada a las guardianas seráficas, pero la responsabilidad de estos archivos la asume siempre una de las serafines."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "113:2.10",
       "pageReference": "1244.1",
       "sortId": "3.113.002.010",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Guardianes del Destino",
-      "markdown": "Para los fines de descansar y volver a cargarse con la energía vital de los circuitos del universo, el guardián es reemplazado periódicamente por su complemento, y durante su ausencia el querubín asociado funciona como registrador, tal como ocurre también cuando el serafín complementario se encuentra similarmente ausente."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las guardianas del destino",
+      "markdown": "Para poder descansar y recargarse con la energía de vida de los circuitos del universo, la guardiana se turna periódicamente con su complemento. Durante su ausencia la querubín asociada actúa como registradora, y lo mismo ocurre cuando se ausenta la serafín de complemento."
     },
     {
       "type": "section",
@@ -451,8 +451,8 @@
       "standardReferenceId": "113:3.0",
       "pageReference": null,
       "sortId": "3.113.003.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
       "markdown": null
     },
     {
@@ -469,9 +469,9 @@
       "standardReferenceId": "113:3.1",
       "pageReference": "1244.2",
       "sortId": "3.113.003.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "Una de las cosas más importantes que hace el guardián del destino para su sujeto mortal es efectuar una coordinación personal de las numerosas influencias espirituales impersonales que residen y rodean la mente y el alma de la criatura material en evolución. Los seres humanos son personalidades, y es excesivamente difícil para los espíritus no personales y las entidades prepersonales, hacer un contacto directo con estas mentes tan altamente materiales y discretamente personales. En el ministerio del ángel guardián todas estas influencias están más o menos unificadas y hechas más fácilmente apreciables por la naturaleza expansiva moral de la personalidad humana en evolución."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "Una de las principales cosas que hace una guardiana del destino por su sujeto mortal es establecer una coordinación personal de las numerosas influencias impersonales del espíritu que habitan, rodean e inciden en la mente y el alma de la criatura material en evolución. Los seres humanos son personalidades, por eso las entidades prepersonales y los espíritus no personales tienen enormes dificultades para establecer contacto directo con mentes tan materiales y tan marcadamente personales. El ministerio de la ángel guardiana unifica todas estas influencias en mayor o menor medida y las hace más fáciles de apreciar para la naturaleza moral creciente de la personalidad humana que evoluciona."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "113:3.2",
       "pageReference": "1244.3",
       "sortId": "3.113.003.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "Más específicamente, puede el guardián seráfico correlacionar las múltiples agencias e influencias del Espíritu Infinito, y lo hace, desde los dominios de los controladores físicos y los espíritus ayudantes de la mente hasta el Espíritu Santo de la Ministra Divina y la presencia del Espíritu Omnipresente de la Tercera Fuente y Centro del Paraíso. Habiendo unificado así y hecho más personales estos vastos ministerios del Espíritu Infinito, el serafín procede a correlacionar esta influencia integrada del Actor Conjunto con la presencia espiritual del Padre y la del Hijo."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "En concreto, esta guardiana seráfica puede correlacionar y correlaciona los múltiples agentes e influencias del Espíritu Infinito, desde los dominios de los controladores físicos y los espíritus-mente adjutores hasta el Espíritu Santo de la Ministra Divina y hasta la presencia del Espíritu Omnipresente de la Tercera Fuente y Centro del Paraíso. Después de unificar así y hacer más personales estos vastos ministerios del Espíritu Infinito, la serafín procede a correlacionar esta influencia integrada del Actor Conjunto con las presencias de espíritu del Padre y del Hijo."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "113:3.3",
       "pageReference": "1244.4",
       "sortId": "3.113.003.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "El Ajustador es la presencia del Padre; el Espíritu de la Verdad es la presencia de los Hijos. El ministerio de los serafines guardianes unifica y coordina estas dotes divinas en los niveles más bajos de la experiencia espiritual humana. Los servidores angélicos tienen el don de combinar el amor del Padre y la misericordia del Hijo en su ministerio a las criaturas mortales."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "El Ajustador es la presencia del Padre, el Espíritu de la Verdad es la presencia de los Hijos. Estas dotaciones divinas son unificadas y coordinadas en los niveles inferiores de la experiencia espiritual humana por el ministerio de las serafines guardianas. Las servidoras angélicas tienen el talento de combinar el amor del Padre y la misericordia del Hijo en su ministerio a las criaturas mortales."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "113:3.4",
       "pageReference": "1244.5",
       "sortId": "3.113.003.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "Y aquí se revela la razón por la cual el guardián seráfico finalmente se vuelve el custodio personal de los esquemas mentales, de las fórmulas de la memoria y de las realidades del alma del mortal sobreviviente durante ese intervalo entre la muerte física y la resurrección morontial. Nadie, si no los hijos ministerosos del Espíritu Infinito, podría así funcionar para bien de la criatura humana durante esta fase de transición de un nivel del universo a otro nivel más elevado. Aun cuando caes en tu sueño terminal de transición, cuando pasas del tiempo a la eternidad, un alto supernafín comparte del mismo modo el tránsito contigo como custodio de la identidad de la criatura y de la seguridad de la integridad personal."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "Y esto explica que la guardiana seráfica se acabe convirtiendo en la depositaria personal de los patrones de la mente, las fórmulas de la memoria y las realidades del alma del mortal superviviente durante el intervalo entre la muerte física y la resurrección en la morontia. Nadie, salvo las hijas ministrantes del Espíritu Infinito, podría hacer esto por la criatura humana durante esta fase de la transición de un nivel del universo a otro nivel superior. Y cuando entréis en el adormecimiento de vuestra transición terminal, cuando paséis del tiempo a la eternidad, una alta supernafín compartirá también con vosotros el tránsito como depositaria de vuestra identidad de criatura y garantía de vuestra integridad personal."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "113:3.5",
       "pageReference": "1244.6",
       "sortId": "3.113.003.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "En el nivel espiritual, el serafín hace personales muchos ministerios por otra parte impersonales y prepersonales del universo; son coordinadores. En un nivel intelectual, son los correlacionadores de la mente y la morontia; son intérpretes. Y en un nivel físico, manipulan el medio ambiente terrestre mediante su vinculación con los Controladores Físicos Decanos y a través del ministerio cooperativo de los seres intermedios."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "En el nivel espiritual las serafines hacen personales muchos ministerios del universo que sin ellas serían impersonales y prepersonales, son coordinadoras. En el nivel intelectual establecen una correlación entre la mente y la morontia, son intérpretes. En el nivel físico manipulan el entorno terrestre mediante su enlace con los Controladores Físicos Maestros y a través del ministerio cooperativo de las criaturas intermedias."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "113:3.6",
       "pageReference": "1244.7",
       "sortId": "3.113.003.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "La Relación con Otras Influencias Espirituales",
-      "markdown": "Éste es un relato de las funciones múltiples e intricadas de un serafín asistente; pero, ¿de qué manera tal personalidad angélica subordinada, creada tan sólo un poco por encima del nivel universal de la humanidad, puede hacer cosas tan difíciles y complejas? Realmente no lo sabemos, pero conjeturamos que este ministerio fenomenal está facilitado de alguna manera no divulgada por el trabajo no reconocido ni revelado del Ser Supremo, la Deidad, que se está actualizando, de los universos evolutivos del tiempo y del espacio. Por todas partes del reino entero de supervivencia progresiva en el Ser Supremo, y a través de él, los serafines forman una parte esencial de la progresión mortal continuada."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "La relación con otras influencias del espíritu",
+      "markdown": "Después de describir las muchas y complejas funciones de las serafines acompañantes nos preguntamos: ¿cómo pueden estas personalidades angélicas de rango menor, creadas solo un poco por encima del nivel de la humanidad en el universo, hacer cosas tan difíciles y complejas? Realmente no lo sabemos, pero conjeturamos que este admirable ministerio está facilitado de alguna manera no desvelada por el trabajo no reconocido y no revelado del Ser Supremo, la Deidad en vías de actualización de los universos evolutivos del tiempo y el espacio. En todo el ámbito de la supervivencia progresiva en y a través del Ser Supremo, las serafines son una parte esencial del progreso continuo del mortal."
     },
     {
       "type": "section",
@@ -577,8 +577,8 @@
       "standardReferenceId": "113:4.0",
       "pageReference": null,
       "sortId": "3.113.004.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
       "markdown": null
     },
     {
@@ -595,9 +595,9 @@
       "standardReferenceId": "113:4.1",
       "pageReference": "1245.1",
       "sortId": "3.113.004.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "Los serafines guardianes no son mente, aunque surgen de la misma fuente que también da origen a la mente mortal: el Espíritu Creativo. Los serafines son estimuladores de la mente; intentan continuamente promover en la mente humana las decisiones que cumplen los círculos. Lo hacen, no de la manera en que lo hace el Ajustador, operando desde adentro y a través del alma, sino más bien desde afuera hacia adentro, trabajando a través del medio ambiente social, ético y moral de los seres humanos. Los serafines no son la atracción divina en forma de Ajustador del Padre Universal, pero funcionan como agencia personal del ministerio del Espíritu Infinito."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "Las serafines guardianas no son mente, aunque nacen de la misma fuente que da origen a la mente del mortal, el Espíritu Creativo. Las serafines son estimuladoras de la mente, buscan siempre promover en la mente humana decisiones encaminadas a alcanzar los círculos. Esto no lo hacen como los Ajustadores, que actúan desde dentro y a través del alma, sino más bien de fuera hacia dentro, a través del entorno social, ético y moral de los seres humanos. Las serafines no ejercen la atracción del Padre Universal en forma de Ajustador divino, pero sí actúan como agentes personales del ministerio del Espíritu Infinito."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "113:4.2",
       "pageReference": "1245.2",
       "sortId": "3.113.004.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "El hombre mortal, sujeto a la dirección del Ajustador, es también sensible a la guía seráfica. El Ajustador es la esencia de la eterna naturaleza humana; el serafín es el maestro de la naturaleza evolutiva del hombre —en esta vida, la mente mortal, en la próxima, el alma morontial. En los mundos de estancia tendréis conciencia y conoceréis a los instructores seráficos; pero en la primera vida los hombres generalmente no tienen conciencia de ellos."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "El hombre mortal sujeto a las directrices del Ajustador también es receptivo a la guía seráfica. El Ajustador es la esencia de la naturaleza eterna del hombre, la serafín es la maestra de la naturaleza evolutiva del hombre: de la mente mortal en esta vida y del alma de morontia en la próxima. En los mundos mansión seréis conscientes y tendréis conocimiento de vuestras instructoras seráficas, pero en la primera vida los hombres no suelen ser conscientes de ellas."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "113:4.3",
       "pageReference": "1245.3",
       "sortId": "3.113.004.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "Los serafines funcionan como maestros de los hombres guiando los pasos de la personalidad humana hacia caminos de experiencias nuevas y progresivas. Aceptar la guía de un serafín raramente significa conseguir una vida fácil. Al seguir esta guía, con seguridad encontrarás, y si tienes la valentía, atravesarás, las empinadas colinas de la elección moral y del progreso espiritual."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "Las serafines actúan como maestras de los hombres guiando los pasos de la personalidad humana por caminos de experiencias nuevas y progresivas. La guía de una serafín rara vez conduce a una vida de comodidades. Al seguir sus directrices podéis estar seguros de que afrontaréis, y si tenéis valor superaréis, los escarpados riscos de la elección moral y el progreso espiritual."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "113:4.4",
       "pageReference": "1245.4",
       "sortId": "3.113.004.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "El impulso a la adoración se origina en gran parte en las estimulaciones espirituales de los ayudantes de la mente más elevados, reforzadas por la guía del Ajustador. Pero el impulso a la oración tan frecuentemente experimentado por los mortales conscientes de Dios surge muy frecuentemente como resultado de la influencia seráfica. El serafín guardián está manipulando constantemente el medio ambiente mortal para el propósito de aumentar el discernimiento cósmico del ascendente humano con el fin de que dicho candidato para la supervivencia pueda adquirir una realización enaltecida de la presencia del Ajustador residente y de esta manera pueda dar una mayor cooperación a la misión espiritual de la presencia divina."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "El impulso de adoración tiene su origen principal en las incitaciones espirituales de los adjutores mente superiores reforzadas por las directrices del Ajustador. En cambio la necesidad de orar que experimentan tan a menudo los mortales conscientes de Dios es producto muchas veces de la influencia seráfica. La serafín guardiana manipula constantemente el entorno del mortal con intención de aumentar la visión interior cósmica del humano ascendente para que ese candidato a la supervivencia se haga más consciente de la presencia de su Ajustador interior y pueda así cooperar mejor con la misión espiritual de la presencia divina."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "113:4.5",
       "pageReference": "1245.5",
       "sortId": "3.113.004.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "Aunque aparentemente no hay comunicación entre los Ajustadores residentes y los serafines que rodean al hombre, siempre parecen trabajar en perfecta armonía y exquisito acuerdo. Los guardianes son más activos en aquellos tiempos en que los Ajustadores están menos activos, pero su ministerio está en cierto modo extrañamente correlacionado. Tal extraordinaria cooperación difícilmente podría ser o accidental o incidental."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "Aunque no existe ninguna comunicación aparente entre los Ajustadores que moran dentro del hombre y las serafines que lo rodean, parecen trabajar siempre en perfecta compenetración y armonía. La iniciativa de las guardianas aumenta en los momentos en que los Ajustadores están menos activos, y existe una extraña correlación entre sus respectivos ministerios. Una cooperación tan admirable dista mucho de ser accidental o fortuita."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "113:4.6",
       "pageReference": "1245.6",
       "sortId": "3.113.004.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Dominios de Acción Seráfica",
-      "markdown": "La personalidad de ministerio del serafín guardián, la presencia Divina del Ajustador residente, la acción en circuito del Espíritu Santo y la conciencia del Hijo del Espíritu de la Verdad están todas divinamente correlacionadas en una unidad significativa de ministerio espiritual en la personalidad mortal y para la misma. Aunque provienen de diferentes fuentes y niveles diferentes, estas influencias celestiales están todas integradas en la presencia acogedora y evolutiva del Ser Supremo."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Los ámbitos de acción seráficos",
+      "markdown": "La personalidad ministrante de la serafín guardiana, la presencia Divina del Ajustador interior, la acción encircuitada del Espíritu Santo y la consciencia del Hijo que es el Espíritu de la Verdad están todos correlacionados de manera divina de modo que constituyen una unidad significativa de ministerio espiritual en la personalidad del mortal y para ella. Aunque proceden de distintas fuentes y diferentes niveles, todas estas influencias celestiales están integradas en la presencia envolvente y en vías de evolución del Ser Supremo."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "113:5.0",
       "pageReference": null,
       "sortId": "3.113.005.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "113:5.1",
       "pageReference": "1245.7",
       "sortId": "3.113.005.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
-      "markdown": "Los ángeles no invaden la santidad de la mente humana; no manipulan la voluntad de los mortales; tampoco se ponen en contacto directo con los Ajustadores residentes. El guardián del destino te influye de toda manera posible que siempre esté de acuerdo con la dignidad de tu personalidad; bajo ninguna circunstancia interfieren estos ángeles con la libre acción del libre albedrío humano. Ni los ángeles ni ninguna otra orden de personalidad universal tienen poder ni autoridad para limitar o cercenar las prerrogativas de la elección humana."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
+      "markdown": "Las ángeles no invaden el santuario de la mente humana. No manipulan la voluntad de los mortales ni tampoco entran en contacto directo con los Ajustadores que moran dentro de ellos. La guardiana del destino hace todo lo posible por influir sobre vosotros respetando siempre la dignidad de vuestra personalidad. Estas ángeles no interfieren en ningún caso con la libre acción de la voluntad humana. Ni las ángeles ni ningún otro orden de personalidad del universo tienen poder ni autoridad para cercenar o limitar las prerrogativas de la elección humana."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "113:5.2",
       "pageReference": "1246.1",
       "sortId": "3.113.005.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
-      "markdown": "Los ángeles están tan cerca de vosotros y con tanto sentimiento os cuidan, que figurativamente «lloran por vuestra intolerancia y testarudez intencionadas». Los serafines no esparcen lágrimas físicas; no tienen cuerpos físicos; tampoco poseen alas. Pero sí tienen emociones espirituales, y experimentan sentimientos y sensaciones de naturaleza espiritual que son en ciertas maneras comparables a las emociones humanas."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
+      "markdown": "Las ángeles están tan cerca de vosotros y os cuidan con tanto afecto que en sentido figurado «lloran por vuestra intolerancia y vuestra obstinación». Las serafines no derraman lágrimas físicas, no tienen cuerpos físicos ni tampoco alas, pero tienen emociones espirituales y experimentan sensaciones y sentimientos de naturaleza espiritual que son comparables en ciertos aspectos a las emociones humanas."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "113:5.3",
       "pageReference": "1246.2",
       "sortId": "3.113.005.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
-      "markdown": "Los serafines actúan para vuestro bien independientemente de vuestras solicitudes directas; ejecutan los mandatos de sus superiores, y por lo tanto funcionan a pesar de vuestros antojos pasajeros o de vuestros estados cambiantes de ánimo. Esto no implica que vosotros no podáis hacer más fácil o más difícil sus tareas, sino más bien que a los ángeles no les concierne directamente vuestras solicitudes ni vuestras oraciones."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
+      "markdown": "Las serafines trabajan por vosotros con total independencia de vuestras peticiones directas. Ejecutan los mandatos de sus superiores sin atender a vuestros caprichos pasajeros ni a vuestros cambios de humor. Esto no quiere decir que no podáis facilitar o dificultar su labor, sino simplemente que las ángeles no atienden directamente a vuestras oraciones y peticiones."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "113:5.4",
       "pageReference": "1246.3",
       "sortId": "3.113.005.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
-      "markdown": "En la vida de la carne la inteligencia de los ángeles no está directamente disponible para los hombres mortales. No son dueños ni directores; son simplemente guardianes. Los serafines os *vigilan;* no buscan directamente influiros; vosotros debéis trazar vuestro propio curso de acción, pero estos ángeles entonces actúan para hacer el mejor uso posible del curso que habéis elegido. No intervienen (generalmente) arbitrariamente en los asuntos rutinarios de la vida humana. Pero cuando reciben instrucciones de sus superiores para efectuar alguna obra poco común, podéis estar seguros de que estos guardianes encontrarán la manera de llevar a cabo estos mandatos. Por lo tanto, no se entremeten en el cuadro del drama humano excepto en urgencias, y entonces generalmente por orden directa de sus superiores. Son los seres que os seguirán por muchas edades, y por eso están recibiendo una introducción a su obra futura y asociación con la personalidad."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
+      "markdown": "La inteligencia de las ángeles no está a disposición de los hombres mortales mientras viven en la carne. No son jefas supremas ni directoras sino simplemente guardianas. Las serafines os *guardan*, no intentan influir directamente sobre vosotros. Vosotros sois quienes debéis trazar vuestro propio camino, y luego ellas intentarán hacer el mejor uso posible del curso que hayáis elegido. Por regla general no intervienen de forma arbitraria en los asuntos rutinarios de la vida humana a no ser que sus superiores les encarguen algún cometido excepcional, y en esos casos podéis estar seguros de que estas guardianas encontrarán la manera de llevar a cabo sus mandatos. Por lo tanto, solo se entrometen en el panorama del drama humano en casos de emergencia y normalmente por orden directa de sus superiores. Estos seres, que os seguirán durante muchas edades, se preparan así para su trabajo futuro y su asociación de personalidad."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "113:5.5",
       "pageReference": "1246.4",
       "sortId": "3.113.005.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "El Ministerio Seráfico a los Mortales",
-      "markdown": "Los serafines pueden funcionar como ministros materiales para los seres humanos bajo ciertas circunstancias, pero su acción en esta función es muy rara. Pueden, con la ayuda de los seres intermedios y de los controladores físicos, funcionar en una amplia gama de actividades para bien de los seres humanos, aun hacer contacto real con la humanidad, pero estos acontecimientos son muy poco frecuentes. En la mayor parte de los casos las circunstancias del reino material proceden sin alteraciones por la acción seráfica, aunque han surgido ocasiones en las que algún eslabón vital de la cadena de la evolución humana corría peligro, y entonces los guardianes seráficos han actuado, y adecuadamente, por su propia iniciativa."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "El ministerio seráfico a los mortales",
+      "markdown": "En determinadas circunstancias las serafines pueden ejercer la función de ministradoras materiales para los seres humanos, aunque es muy raro que lo hagan. Con la ayuda de las criaturas intermedias y de los controladores físicos, son capaces de ejercer una amplia gama de actividades en favor de los seres humanos, incluso de establecer contacto con la humanidad, pero esto ocurre muy pocas veces. En la mayoría de los casos las circunstancias del entorno material siguen su curso sin ninguna alteración seráfica. Sin embargo, cuando los eslabones vitales de la cadena de la evolución humana se han visto alguna vez en peligro, las guardianas seráficas han intervenido acertadamente por iniciativa propia."
     },
     {
       "type": "section",
@@ -811,8 +811,8 @@
       "standardReferenceId": "113:6.0",
       "pageReference": null,
       "sortId": "3.113.006.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
       "markdown": null
     },
     {
@@ -829,9 +829,9 @@
       "standardReferenceId": "113:6.1",
       "pageReference": "1246.5",
       "sortId": "3.113.006.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "Habiéndoos dicho algo sobre el ministerio de los serafines durante la vida natural, intentaré informaros acerca de la conducta de los guardianes del destino al tiempo de la disolución mortal de sus asociados humanos. Después de tu muerte, tus registros, especificaciones de identidad y la entidad morontial del alma humana —evolucionada por el ministerio conjunto de la mente mortal y del Ajustador divino— son fielmente conservados por el guardián del destino juntamente con todos los demás valores relacionados con tu existencia futura, todo lo que constituye tu yo, tu real yo, excepto la identidad de la existencia continuada, representada por el Ajustador que parte y la actualidad de la personalidad."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Tras esta breve exposición sobre el ministerio de las serafines durante la vida natural, intentaré informaros sobre la actuación de las guardianas del destino en el momento de la desintegración mortal de sus compañeros humanos. Cuando morís vuestro historial, vuestras especificaciones de identidad y la entidad de morontia del alma humana —desarrollada conjuntamente por el ministerio de la mente del mortal y del Ajustador divino— son conservados fielmente por la guardiana del destino junto con todos los demás valores relacionados con vuestra existencia futura, todo lo que os constituye y conforma vuestro yo real, excepto la identidad de la existencia continua —representada por el Ajustador que se va— y la actualidad de la personalidad."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "113:6.2",
       "pageReference": "1246.6",
       "sortId": "3.113.006.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "En el momento en que desaparece la luz piloto en la mente humana, la luminosidad espiritual que los serafines asocian con la presencia del Ajustador, el ángel guardián se apersona ante los ángeles comandantes, sucesivamente, del grupo, compañía, batallón, unidad, legión y hueste; y después de haber sido debidamente registrado para la aventura final del tiempo y del espacio, dicho ángel recibe la certificación del jefe planetario de serafines para presentarse ante la Estrella Vespertina (o algún otro asistente de Gabriel) que manda el ejército seráfico de este candidato para la ascensión universal. Cuando el comandante de la más alta de las unidades organizacionales le otorga el permiso, dicho guardián del destino procede al primer mundo de estancia y allí aguarda la concientización de su protegido en la carne."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Cuando en la mente humana se apaga la luz piloto, esa luminosidad espiritual que las serafines asocian con la presencia del Ajustador, la ángel acompañante informa en persona sucesivamente a las ángeles que están al mando del grupo, la compañía, el batallón, la unidad, la legión y la hueste. Entonces esta ángel se inscribe para la aventura final del tiempo y el espacio y recibe una certificación de la jefa planetaria de las serafines para que la presente ante la Estrella Vespertina (u otro lugarteniente de Gabriel) que está al mando del ejército seráfico de esta candidata a la ascensión en el universo. Una vez recibida la autorización del jefe de esta unidad organizativa suprema, la guardiana del destino se dirige al primer mundo mansión para esperar allí la vuelta a la consciencia del que fuera su pupilo en la carne."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "113:6.3",
       "pageReference": "1247.1",
       "sortId": "3.113.006.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "En caso de que el alma humana no llegue a sobrevivir después de haber recibido la asignación de un ángel personal, el serafín asistente debe proceder a la sede central del universo local para atestiguar sobre la exactitud de los registros completos de su complemento, tal como fueron trasmitidos previamente. Luego comparece ante los tribunales de los arcángeles para ser absuelto de culpa en el asunto del fracaso del sujeto a su cargo en la empresa de la supervivencia, y a continuación regresa a los mundos, para ser asignado nuevamente a otro mortal de potencialidad ascendente o a alguna otra división del ministerio seráfico."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Cuando un alma humana que ha estado bajo la custodia de una ángel personal no sobrevive, la serafín acompañante debe dirigirse a la sede del universo local para testificar sobre el informe completo de su complemento tal como fue presentado con anterioridad. Después comparece ante los tribunales de los arcángeles para ser absuelta de toda culpa por el fracaso de su sujeto en la supervivencia, y luego vuelve a los mundos para ser asignada a otro mortal de potencialidad ascendente o destinada a alguna otra división del ministerio seráfico."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "113:6.4",
       "pageReference": "1247.2",
       "sortId": "3.113.006.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "Pero los ángeles ministran a las criaturas evolucionarias de muchas maneras además de los servicios de custodia personal y de grupo. Los guardianes personales cuyos sujetos no van inmediatamente a los mundos de estancia, no permanecen ociosos esperando el llamado dispensacional del juicio; se los vuelve a asignar a numerosas misiones de ministerio por todo el universo."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Pero el ministerio de las ángeles no se limita a los servicios de custodia personal y colectiva, sino que trabajan de muchas otras maneras para las criaturas evolutivas. Las guardianas personales cuyos sujetos no pasan inmediatamente a los mundos mansión no se quedan allí inactivas a la espera de los llamamientos dispensacionales de juicio, sino que son destinadas entretanto a numerosas misiones de ministerio por todo el universo."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "113:6.5",
       "pageReference": "1247.3",
       "sortId": "3.113.006.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "El guardián serafín es el fideicomiso de custodia de los valores de sobrevivencia del alma durmiente del hombre mortal, así como el Ajustador ausente *es* la identidad de ese ser universal inmortal. Cuando estos dos colaboran en las salas de resurrección del mundo de estancia en conjunción con la forma morontial recién fabricada, ocurre la reconstitución de los factores constituyentes de la personalidad del mortal ascendente."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "La serafín guardiana es la depositaria que custodia los valores de supervivencia del alma aletargada del hombre mortal, igual que el Ajustador ausente *es* la identidad de ese ser inmortal del universo. Mediante la colaboración de ambos en las salas de resurrección de mansonia, en conjunción con la forma de morontia recién fabricada, se produce el reensamblaje de los elementos integrantes de la personalidad del mortal ascendente."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "113:6.6",
       "pageReference": "1247.4",
       "sortId": "3.113.006.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "El Ajustador te identificará; el serafín guardián te repersonalizará y luego te volverá a presentar al Monitor fiel de tus días terrestres."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "El Ajustador os identificará. La serafín guardiana os repersonalizará y luego volverá a presentaros al fiel Monitor de vuestros días en la tierra."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "113:6.7",
       "pageReference": "1247.5",
       "sortId": "3.113.006.007",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "Y aún así, cuando acaba una edad planetaria, cuando se reúnen los que están en los círculos inferiores del logro mortal, son sus guardianes de grupo los que los reúnen en las salas de resurrección de las esferas de estancia, así como dice vuestro registro: «Y él enviará sus ángeles con gran voz y juntará a sus escogidos desde un extremo del reino a otro»."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Y cuando al término de una edad planetaria se reúne a aquellos que están en los círculos inferiores de logro mortal, son sus guardianas colectivas las que los reensamblan en las salas de resurrección de las esferas mansión, tal como consta en vuestros escritos: «Y él enviará a sus ángeles con gran voz, y reunirá a sus elegidos de un extremo a otro del dominio»."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "113:6.8",
       "pageReference": "1247.6",
       "sortId": "3.113.006.008",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "La técnica de la justicia exige que los guardianes personales o de grupo respondan al llamado dispensacional en nombre de todas las personalidades no sobrevivientes. Los Ajustadores de tales seres no sobrevivientes no retornan, y cuando se pasa lista, los serafines responden, pero los Ajustadores no dan ninguna respuesta. Esto constituye la «resurrección de los injustos», en realidad, el reconocimiento formal de la cesación de la existencia de la criatura. Este llamado de la justicia siempre ocurre inmediatamente después del llamado de la misericordia, la resurrección de los sobrevivientes dormidos. Pero estos son asuntos que no conciernen a nadie sino a los supremos y omniscientes Jueces de los valores de supervivencia. Estos problemas de adjudicación realmente no nos conciernen."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "El procedimiento de la justicia exige que las guardianas personales o colectivas respondan al llamamiento nominal de la dispensación en nombre de todas las personalidades no supervivientes. Los Ajustadores de los no supervivientes no vuelven a ellos, de modo que cuando se pasa lista la serafín responde pero el Ajustador no contesta. Esto constituye la «resurrección de los injustos», que es en realidad el reconocimiento formal de que la criatura ha dejado de existir. Este llamamiento nominal de la justicia sigue siempre inmediatamente al llamamiento nominal de la misericordia, la resurrección de los supervivientes durmientes. Pero estos asuntos no incumben a nadie más que a los Jueces supremos y omniscientes de los valores de supervivencia. En realidad estas decisiones judiciales no son asunto nuestro."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "113:6.9",
       "pageReference": "1247.7",
       "sortId": "3.113.006.009",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "Los guardianes de grupo pueden servir en un planeta una edad tras otra y por fin volverse custodios de las almas durmientes de miles y miles de sobrevivientes durmientes. Pueden servir en muchos mundos distintos de un sistema dado puesto que la respuesta de la resurrección ocurre en los mundos de estancia."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Las guardianas colectivas pueden servir en un planeta edad tras edad y acabar convirtiéndose en las depositarias de las almas aletargadas de miles y miles de supervivientes durmientes. Pueden servir así en muchos mundos distintos de un mismo sistema, puesto que la respuesta de la resurrección ocurre en los mundos mansión."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "113:6.10",
       "pageReference": "1247.8",
       "sortId": "3.113.006.010",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Ángeles Guardianes Después de la Muerte",
-      "markdown": "Todos los guardianes personales y de grupo en el sistema de Satania que se descarriaron en la rebelión de Lucifer, a pesar de que muchos se arrepintieron sinceramente de su locura, han de permanecer detenidos en Jerusem hasta la adjudicación final de la rebelión. Ya los Censores Universales han privado arbitrariamente a estos guardianes desobedientes e infieles de todos los aspectos de sus fideicomisos de almas, habiendo entregado estas realidades morontiales a los cuidados de los seconafines voluntarios para su salvaguardia."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las ángeles guardianas después de la muerte",
+      "markdown": "Todas las guardianas personales y colectivas del sistema de Satania que se descarriaron durante la rebelión de Lucifer, a pesar de que muchas se arrepintieron sinceramente de su locura, han de permanecer detenidas en Jerusem hasta el enjuiciamiento final de la rebelión. Por de pronto, los Censores Universales han desposeído ya de forma discrecional a estas guardianas desobedientes e infieles de todos los elementos de las almas que les habían sido confiadas y han puesto estas realidades de morontia bajo la salvaguardia de seconafines voluntarias."
     },
     {
       "type": "section",
@@ -1009,8 +1009,8 @@
       "standardReferenceId": "113:7.0",
       "pageReference": null,
       "sortId": "3.113.007.000",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
       "markdown": null
     },
     {
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "113:7.1",
       "pageReference": "1248.1",
       "sortId": "3.113.007.001",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "Es realmente memorable en la carrera del mortal ascendente este primer despertar en las orillas del mundo de estancia; allí, por primera vez, ver en realidad a tus compañeros angélicos amados por largo tiempo y siempre presentes durante los días en la tierra; allí también hacerse verdaderamente consciente de la identidad y presencia del Monitor divino que por tanto tiempo residió en tu mente sobre la tierra. Tal experiencia constituye un despertar glorioso, una verdadera resurrección."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "El primer despertar en las orillas del mundo mansión es todo un hito en la carrera del mortal ascendente. Entonces veréis por primera vez a vuestras compañeras angélicas que os acompañaron siempre y a las que amasteis por mucho tiempo en la vida terrenal. Allí os haréis también verdaderamente conscientes de la presencia y la identidad del Monitor divino que habitó durante tanto tiempo dentro de vuestra mente en la tierra. Una experiencia así constituye un despertar glorioso, una verdadera resurrección."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "113:7.2",
       "pageReference": "1248.2",
       "sortId": "3.113.007.002",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "En las esferas morontiales los serafines asistentes (hay dos de ellos) son abiertamente tus compañeros. Estos ángeles no solamente se asocian contigo a medida que progresas a través de la carrera de los mundos de transición, asistiéndote de toda manera posible en la adquisición del estado morontial y espiritual, sino que también aprovechan la oportunidad de avanzar por el estudio en las academias de expansión para serafines evolucionarios que existen en los mundos de estancia."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "Las dos serafines que os atienden en las esferas de la morontia son vuestras compañeras declaradas. Estas ángeles no solo se asocian a vuestros progresos en la carrera de los mundos de transición y os ayudan de todas las formas posibles a adquirir el estatus de la morontia y del espíritu, sino que aprovechan a su vez la oportunidad para ampliar estudios en las escuelas de extensión para serafines evolutivas establecidas en los mundos mansión."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "113:7.3",
       "pageReference": "1248.3",
       "sortId": "3.113.007.003",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "La raza humana fue creada apenas por debajo de los tipos más sencillos de las órdenes angélicas. Por lo tanto, vuestra primera asignación del trabajo que os aguarda inmediatamente después de que obtengáis conciencia de la personalidad, posteriormente a vuestra liberación de los vínculos de la carne será como asistentes al serafín."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "La raza humana fue creada justo un poco por debajo de los órdenes angélicos más simples, por eso la primera misión de vuestra vida en la morontia será asistir a las serafines en el trabajo que les queda por hacer en cuanto recuperéis la consciencia de personalidad tras la liberación de los vínculos de la carne."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "113:7.4",
       "pageReference": "1248.4",
       "sortId": "3.113.007.004",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "Antes de abandonar los mundos de estancia, todos los mortales tendrán asociados o guardianes seráficos permanentes. Y a medida que ascendáis en las esferas morontiales, eventualmente serán los guardianes seráficos aquellos que atestiguarán y certificarán los decretos de vuestra unión eterna con los Ajustadores del Pensamiento. Juntos han establecido vuestras identidades de personalidad como hijos de la carne de los mundos del tiempo. Luego, con vuestro logro del estado morontial maduro, os acompañan a través de Jerusem y los mundos asociados del progreso y la cultura del sistema. Después de eso van con vosotros a Edentia y a sus setenta esferas de socialización avanzada, y posteriormente os pilotearán a los Melquisedek y os seguirán a lo largo de la estupenda carrera en los mundos de sede central del universo. Y cuando hayáis aprendido la sabiduría y cultura de los Melquisedek, os llevarán a Salvington, en donde os encontraréis frente a frente con el Soberano de todo Nebadon. Y aún os seguirán estos guías seráficos a través de los sectores menor y mayor del superuniverso y más allá a los mundos de recepción de Uversa, permaneciendo con vosotros hasta que finalmente os enseconafinaréis para el largo viaje a Havona."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "Antes de dejar los mundos mansión todos los mortales tendrán guardianas o compañeras seráficas permanentes. Durante vuestro ascenso por las esferas de la morontia las guardianas seráficas terminarán siendo las que atestigüen y certifiquen los decretos de vuestra unión eterna con el Ajustador del Pensamiento. Juntos han establecido la identidad de vuestra personalidad como hijos de la carne procedentes de los mundos del tiempo. Y cuando alcancéis más adelante el estado morontial maduro, os acompañarán por Jerusem y por los mundos asociados de progreso y cultura del sistema. Después de eso irán con vosotros a Edentia y a sus setenta esferas de socialización avanzada. Posteriormente os conducirán hasta los Melquisedec y os seguirán a través de la espléndida carrera en los mundos sede del universo. Y cuando hayáis asimilado la sabiduría y la cultura de los Melquisedec, os llevarán a Salvington donde os encontraréis cara a cara con el Soberano de todo Nebadon. Estas guías seráficas os seguirán incluso por el sector menor y los sectores mayores del superuniverso y llegarán hasta los mundos de recepción de Uversa. Seguirán con vosotros hasta que os ensecunafinéis finalmente para el largo vuelo a Havona."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "113:7.5",
       "pageReference": "1248.5",
       "sortId": "3.113.007.005",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "Algunos de los guardianes del destino asignados durante la carrera mortal siguen el curso de los peregrinos ascendentes a través de Havona. Los demás se despiden temporalmente de sus asociados mortales de tanto tiempo y luego, mientras estos mortales atraviesan los círculos del universo central, alcanzan los círculos de Serafington. Y estarán esperando en las orillas del Paraíso cuando sus asociados mortales despierten del último sueño de tránsito del tiempo a las nuevas experiencias de la eternidad. Estos serafines ascendentes entran posteriormente en servicios divergentes en el cuerpo de finalistas y el Cuerpo Seráfico de Consumación."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "Algunas guardianas del destino asignadas durante la carrera mortal siguen el curso de los peregrinos ascendentes por Havona. Las demás se despiden temporalmente de los mortales a los que estuvieron asociadas durante tanto tiempo, y mientras estos mortales atraviesan los círculos del universo central, estas guardianas del destino alcanzan los círculos de Serafington. Cuando sus compañeros mortales despierten del último sueño de tránsito del tiempo a las nuevas experiencias de la eternidad, ellas los estarán esperando en las orillas del Paraíso. Estas serafines ascendentes prestan luego diferentes servicios en el cuerpo finalitario y en el Cuerpo de la Compleción Seráfica."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "113:7.6",
       "pageReference": "1248.6",
       "sortId": "3.113.007.006",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "El hombre y el ángel pueden o no ser reunidos en servicio eterno, pero donde sea que la asignación seráfica los lleve, los serafines están siempre en comunicación con sus previos protegidos en los mundos evolucionarios, con los mortales ascendentes del tiempo. Las asociaciones íntimas y los contactos afectivos de los mundos de origen humano no son nunca olvidados ni jamás completamente rotos. En las edades eternas, hombres y ángeles cooperarán en el servicio divino así como lo hicieron en la carrera del tiempo."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "Los hombres y las ángeles pueden o no volver a estar juntos en el servicio eterno, pero sea cual sea el destino de su misión seráfica, las serafines están siempre en comunicación con sus antiguos pupilos de los mundos evolutivos, los mortales ascendentes del tiempo. Las asociaciones íntimas y los vínculos afectivos de los mundos de origen humano nunca se cortan ni olvidan por completo. En las edades eternas hombres y ángeles cooperarán en el servicio divino como lo hicieron en la carrera del tiempo."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "113:7.7",
       "pageReference": "1249.1",
       "sortId": "3.113.007.007",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "Para los serafines, la manera más segura de llegar a las Deidades del Paraíso es mediante la guía conseguida de un alma de origen evolucionario hasta las compuertas del Paraíso. Por lo tanto la asignación de guardián del destino es la tarea más altamente codiciada del trabajo seráfico."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "La manera más segura para las serafines de llegar hasta las Deidades del Paraíso consiste en guiar con éxito a un alma de origen evolutivo hasta los portales del Paraíso. Por eso el puesto seráfico más apreciado es el de guardiana del destino."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "113:7.8",
       "pageReference": "1249.2",
       "sortId": "3.113.007.008",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "Sólo los guardianes del destino son llamados al Cuerpo de los Finalistas primario o el de los mortales, y dichos pares están ocupados en la suprema aventura de la obtención de la unicidad de las identidades; los dos seres han alcanzado biunificación espiritual en Serafington antes de su admisión al Cuerpo de Finalistas. En esta experiencia las dos naturalezas angélicas, tan complementarias en todas sus funciones universales, alcanzan una condición espiritual última de dos en uno, lo cual repercute en una nueva capacidad para la recepción de un fragmento no Ajustador del Padre del Paraíso y fusión con él. Así algunos de vuestros asociados seráficos amantes en el tiempo también se vuelven vuestros asociados finalistas en la eternidad, hijos del Supremo e hijos perfeccionados del Padre del Paraíso."
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "Solo las guardianas del destino son enroladas en el Cuerpo de la Finalización primario o de los mortales, y esas parejas han emprendido la aventura suprema del aunamiento de identidades. Esos dos seres han conseguido la biunificación espiritual en Serafington antes de ser recibidos en el cuerpo finalitario. En esta experiencia las dos naturalezas angélicas, tan complementarias en todas sus funciones en el universo, alcanzan la suprema condición espiritual de ser dos en una, y esto conlleva una nueva capacidad para recibir un fragmento no Ajustador del Padre del Paraíso y fusionarse con él. Y así, algunas de vuestras amorosas compañeras seráficas en el tiempo se convertirán también en vuestras compañeras finalitarias en la eternidad, descendientes del Supremo e hijas perfeccionadas del Padre del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "113:7.9",
       "pageReference": "1249.3",
       "sortId": "3.113.007.009",
-      "paperTitle": "Los Guardianes Seráficos del Destino",
-      "sectionTitle": "Los Serafines y la Carrera Ascendente",
-      "markdown": "[Presentado por el jefe de los serafines estacionados en Urantia.]"
+      "paperTitle": "Las guardianas seráficas del destino",
+      "sectionTitle": "Las serafines y la carrera ascendente",
+      "markdown": "[Presentado por la jefa de las serafines destinadas en Urantia.]"
     }
   ]
 }

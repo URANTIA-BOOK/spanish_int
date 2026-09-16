@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/048.md",
-  "source_sha256": "37f03d78e4bdc35565fc7be0b30ff73d04e4643cbdafe2fd682e734e1029b57c",
+  "source_sha256": "4496a8b6600f3bc05d96995bd836f0b574510ce210fc5a9f3fa6e9720fccfd4b",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "48:0.0",
       "pageReference": null,
       "sortId": "2.048.000.000",
-      "paperTitle": "La Vida Morontial",
+      "paperTitle": "La vida en la morontia",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "48:0.0",
       "pageReference": null,
       "sortId": "2.048.000.000",
-      "paperTitle": "La Vida Morontial",
+      "paperTitle": "La vida en la morontia",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "48:0.1",
       "pageReference": "541.1",
       "sortId": "2.048.000.001",
-      "paperTitle": "La Vida Morontial",
+      "paperTitle": "La vida en la morontia",
       "sectionTitle": null,
-      "markdown": "LOS Dioses no pueden transformar una criatura de naturaleza animal grosera en un espíritu perfeccionado por un acto misterioso de magia creadora —o por lo menos no lo hacen. Cuando los Creadores desean producir seres perfectos, lo hacen mediante creación directa y original, pero jamás emprenden la conversión de las criaturas de origen animal y material en seres de perfección en un solo paso."
+      "markdown": "LOS dioses no pueden transformar por arte misterioso de magia creativa a una criatura de tosca naturaleza animal en espíritu perfeccionado, o al menos no lo hacen. Cuando los Creadores desean dar origen a seres perfectos, lo hacen mediante creación directa y original, pero no convierten nunca en un solo paso a criaturas materiales de origen animal en seres de perfección."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "48:0.2",
       "pageReference": "541.2",
       "sortId": "2.048.000.002",
-      "paperTitle": "La Vida Morontial",
+      "paperTitle": "La vida en la morontia",
       "sectionTitle": null,
-      "markdown": "La vida morontial, tal como se extiende a través de varias etapas de la carrera en el universo local, es el único camino posible por el cual los mortales materiales pueden lograr el umbral del mundo de espíritu. ¿Cuál puede ser la magia que encierra la muerte, la disolución material del cuerpo humano, que pueda con un solo paso transformar instantáneamente la mente mortal y material en un espíritu inmortal y perfeccionado? Estas creencias no son sino supersticiones ignorantes y fábulas placenteras."
+      "markdown": "La vida en la morontia, tal como se extiende por las distintas etapas de la carrera en el universo local, es el único acceso posible por el que los mortales materiales pueden alcanzar el umbral del mundo del espíritu. ¿Qué magia no necesitaría la muerte, la disolución material del cuerpo humano, para poder transformar instantáneamente la mente mortal y material en espíritu inmortal y perfeccionado mediante ese simple paso? Esas creencias no son más que supersticiones ignorantes y fábulas placenteras."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "48:0.3",
       "pageReference": "541.3",
       "sortId": "2.048.000.003",
-      "paperTitle": "La Vida Morontial",
+      "paperTitle": "La vida en la morontia",
       "sectionTitle": null,
-      "markdown": "Siempre interviene esta transición morontial entre el estado mortal y el subsiguiente estado espiritual de los seres humanos sobrevivientes. Este estado intermedio del progreso universal difiere marcadamente en las distintas creaciones locales, pero en su intento y propósito todas ellas son grandemente similares. La estructuración de los mundos de estancia y de los mundos morontiales más elevados en Nebadon es bastante típica de los regímenes de transición morontial en esta parte de Orvonton."
+      "markdown": "Esta transición en la morontia media siempre entre el estado mortal y el estatus posterior de espíritu de los seres humanos supervivientes. Este estado intermedio de progreso en el universo difiere notablemente en las diversas creaciones locales, pero a efectos prácticos todos son bastante parecidos. La organización de los mundos mansión y los mundos de la morontia más altos en Nebadon es bastante típica de los regímenes de transición por la morontia de esta parte de Orvonton."
     },
     {
       "type": "section",
@@ -109,8 +109,8 @@
       "standardReferenceId": "48:1.0",
       "pageReference": null,
       "sortId": "2.048.001.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
       "markdown": null
     },
     {
@@ -127,9 +127,9 @@
       "standardReferenceId": "48:1.1",
       "pageReference": "541.4",
       "sortId": "2.048.001.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "Los reinos morontiales son las esferas de enlace del universo local entre los niveles material y espiritual de la existencia de las criaturas. Esta vida morontial se conocía en Urantia desde los días primitivos del Príncipe Planetario. De vez en cuando este estado de transición se ha enseñado a los mortales, y el concepto, en una forma distorsionada, ha hallado cabida en las religiones de hoy en día."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Los mundos de la morontia son las esferas de los universos locales que enlazan los niveles material y espiritual de existencia de las criaturas. Esta vida en la morontia se ha conocido en Urantia desde los primeros días del Príncipe Planetario. Este estado de transición ha sido enseñado algunas veces a los mortales, y el concepto, aunque distorsionado, ha hallado cabida en las religiones de hoy en día."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "48:1.2",
       "pageReference": "541.5",
       "sortId": "2.048.001.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "Las esferas morontiales son las fases de transición de la ascensión mortal a través de los mundos de progresión del universo local. Sólo los siete mundos que rodean la esfera de los finalistas de los sistemas locales son denominados mundos de estancia, pero las cincuenta y seis moradas de transición del sistema, en común con las esferas más elevadas alrededor de las constelaciones y la sede central del universo, se denominan mundos de morontia. Estas creaciones comparten la belleza física y la grandeza morontial de las esferas sedes centrales del universo local."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Las esferas de la morontia son las fases de transición de la ascensión de los mortales a través de los mundos de progresión del universo local. Solo se llaman mundos mansión los siete mundos de los sistemas locales que rodean la esfera de los finalitarios. Las cincuenta y seis moradas de transición del sistema, junto con las esferas más altas que rodean la sede de las constelaciones y del universo, se llaman todas ellas mundos de la morontia. Estas creaciones comparten la belleza física y la grandiosidad morontial de las esferas sede del universo local."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "48:1.3",
       "pageReference": "541.6",
       "sortId": "2.048.001.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "Todos estos mundos son esferas arquitectónicas, y tienen exactamente el doble del número de elementos de los planetas evolutivos. Estos mundos hechos a medida no sólo abundan en metales pesados y cristales, poseyendo cien elementos físicos, sino que también tienen exactamente cien formas de una organización única de la energía denominada *material de morontia.* Los Controladores Físicos Decanos y los Supervisores del Poder Morontial son capaces de modificar las revoluciones de las unidades primarias de la materia y al mismo tiempo de transformar estas asociaciones de energía de modo tal como para crear esta nueva sustancia."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Todos estos mundos son esferas arquitectónicas, y poseen justo el doble de elementos que los planetas evolucionados. Estos mundos hechos a medida no solo abundan en cristales y metales pesados. Además de cien elementos físicos, tienen exactamente cien formas de una organización única de energía llamada *material de la morontia*. Los Controladores Físicos Maestros y los Supervisores del Poder de la Morontia son capaces de modificar las revoluciones de las unidades primarias de materia y transformar al mismo tiempo esas asociaciones de energía de tal forma que crean esta nueva sustancia."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "48:1.4",
       "pageReference": "542.1",
       "sortId": "2.048.001.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "La vida morontial primitiva en los sistemas locales es muy parecida a la de vuestro presente mundo material, tornándose menos física y más verdaderamente morontial en los mundos de estudio de la constelación. A medida que avanzas a las esferas de Salvington, logras cada vez más los niveles espirituales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "La vida de morontia inicial en los sistemas locales es muy parecida a la vida en vuestro mundo material presente. Se hace menos física y más verdaderamente morontial en los mundos de estudio de la constelación, y a medida que avanzáis hasta las esferas de Salvington, vais alcanzando niveles cada vez más espirituales."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "48:1.5",
       "pageReference": "542.2",
       "sortId": "2.048.001.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "Los Supervisores del Poder Morontial son capaces de efectuar una unión de las energías materiales y espirituales, organizando así una forma morontial de materialización que es receptiva a la superposición de un espíritu controlador. Cuando atravesas la vida morontial de Nebadon, estos mismos pacientes y hábiles Supervisores del Poder Morontial sucesivamente te proveerán con 570 cuerpos morontiales, siendo cada uno una fase de tu transformación progresiva. Desde el momento en que abandonas los mundos materiales hasta que se te constituye como espíritu de primera etapa en Salvington, sufrirás tan sólo 570 cambios morontiales separados y ascendentes. Ocho de estos ocurren en el sistema, setenta y uno en la constelación, y 491 durante la estadía en las esferas de Salvington."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Los Supervisores del Poder de la Morontia son capaces de efectuar una unión de las energías materiales y espirituales para organizar así una forma de materialización de morontia receptiva a la superposición de un espíritu controlador. Cuando atraveséis la vida de la morontia de Nebadon, estos expertos y pacientes Supervisores del Poder de la Morontia os proporcionarán sucesivamente 570 cuerpos de morontia, y cada uno de ellos será una fase de vuestra transformación progresiva. Desde el momento en que dejéis los mundos materiales hasta que seáis establecidos como espíritus de primera etapa en Salvington, sufriréis exactamente 570 cambios de morontia distintos y ascendentes. Ocho de ellos ocurren en el sistema, setenta y uno en la constelación y 491 durante la estancia en las esferas de Salvington."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "48:1.6",
       "pageReference": "542.3",
       "sortId": "2.048.001.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "En los días de la carne mortal el espíritu divino reside en ti, casi como una cosa aparte —en realidad una invasión del hombre por el espíritu otorgado del Padre Universal. Pero en la vida morontial el espíritu se volverá una parte real de tu personalidad, y a medida que pasas sucesivamente a través de las 570 transformaciones progresivas, asciendes del estado material al estado espiritual de la vida de la criatura."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Mientras vivís en la carne mortal, el espíritu divino mora en vuestro interior casi como una cosa aparte. En realidad el hombre es invadido por el espíritu otorgado del Padre Universal. Pero en la vida en la morontia, el espíritu se convertirá en una parte real de vuestra personalidad, y al pasar sucesivamente por las 570 transformaciones progresivas, ascendéis desde el estado material hasta el estado espiritual de vida de las criaturas."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "48:1.7",
       "pageReference": "542.4",
       "sortId": "2.048.001.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Materiales Morontiales",
-      "markdown": "Pablo supo de la existencia de los mundos morontiales y de la realidad del material morontial, pues escribió: «Poseen en los cielos una sustancia mejor y más duradera». Y estos materiales morontiales son reales, concretos, tal como «la ciudad tiene sus cimientos, cuyo constructor es Dios». Cada una de estas esferas maravillosas es «un país mejor, o sea, un país celestial»."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los materiales de la morontia",
+      "markdown": "Pablo sabía de la existencia de los mundos de la morontia y de la realidad de los materiales de la morontia cuando escribió: «Tienen en el cielo una sustancia mejor y más duradera». Y esos materiales de la morontia son reales, literales, como cuando alude a «la ciudad que tiene cimientos cuyo arquitecto y constructor es Dios». Y cada una de esas maravillosas esferas es «un país mejor, es decir, un país celestial»."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "48:2.0",
       "pageReference": null,
       "sortId": "2.048.002.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "48:2.1",
       "pageReference": "542.5",
       "sortId": "2.048.002.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Estos seres singulares se ocupan exclusivamente de la supervisión de aquellas actividades que representan una combinación de trabajo de energías espirituales y físicas o semimateriales. Se dedican exclusivamente al ministerio de la progresión morontial. No es tanto que los ministren a los mortales durante la experiencia de transición, sino más bien que hacen posible el medio ambiente de transición para las criaturas morontiales en progreso. Son los canales del poder morontial que sostienen y energizan las fases morontiales de los mundos de transición."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Estos seres únicos se dedican exclusivamente a supervisar las actividades que conllevan una combinación operativa de energías espirituales y físicas o semimateriales. Se dedican exclusivamente al ministerio de la progresión en la morontia, pero no porque atiendan a los mortales durante la experiencia de transición, sino porque hacen posible el entorno de transición para las criaturas que progresan en la morontia. Son los canales del poder de la morontia que sostienen y energizan las fases de morontia de los mundos de transición."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "48:2.2",
       "pageReference": "542.6",
       "sortId": "2.048.002.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Los Supervisores del Poder Morontial son los vástagos del Espíritu Materno de un universo local. Su diseño es relativamente estándar aunque difieren ligeramente en su naturaleza según las distintas creaciones locales. Son creados para su función específica y no requieren capacitación alguna antes de asumir su responsabilidad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Las Supervisoras del Poder de la Morontia son progenie del Espíritu Madre de un universo local. Presentan un diseño bastante uniforme, aunque su naturaleza difiere ligeramente en las diversas creaciones locales. Son creadas para su función específica y no necesitan ninguna capacitación antes de asumir sus responsabilidades."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "48:2.3",
       "pageReference": "542.7",
       "sortId": "2.048.002.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "La creación de los primeros Supervisores del Poder Morontial es simultánea a la llegada del primer sobreviviente mortal a las orillas de los primeros mundos de estancia del universo local. Son creados en grupos de mil, clasificados como sigue:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Las primeras Supervisoras del Poder de la Morontia son creadas al tiempo que llega el primer superviviente mortal a las orillas de alguno de los primeros mundos mansión de un universo local. Son creadas en grupos de mil y se clasifican como sigue:"
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "48:2.4",
       "pageReference": "542.8",
       "sortId": "2.048.002.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "1. Reguladores de los Circuitos . . . 400"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "1. Reguladoras de circuitos . . . 400"
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "48:2.5",
       "pageReference": "542.9",
       "sortId": "2.048.002.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "2. Coordinadores de los Sistemas . . 200"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "2. Coordinadoras de sistemas . . 200"
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "48:2.6",
       "pageReference": "542.10",
       "sortId": "2.048.002.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "3. Custodios Planetarios . . 100"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "3. Guardianas planetarias . . 100"
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "48:2.7",
       "pageReference": "543.1",
       "sortId": "2.048.002.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "4. Controladores Combinados . . 100"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "4. Controladoras conjuntas . . 100"
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "48:2.8",
       "pageReference": "543.2",
       "sortId": "2.048.002.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "5. Estabilizadores de los Enlaces . . . 100"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "5. Estabilizadoras de enlaces . . . 100"
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "48:2.9",
       "pageReference": "543.3",
       "sortId": "2.048.002.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "6. Clasificadores Selectivos . . . . 50"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "6. Clasificadoras selectivas . . . . 50"
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "48:2.10",
       "pageReference": "543.4",
       "sortId": "2.048.002.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "7. Registradores Asociados . . . 50"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "7. Registradoras asociadas . . . 50"
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "48:2.11",
       "pageReference": "543.5",
       "sortId": "2.048.002.011",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Los supervisores del poder siempre sirven en su universo nativo. Son dirigidos exclusivamente por la actividad espiritual conjunta del Hijo del Universo y del Espíritu del Universo pero por otra parte son un grupo totalmente autogobernante. Mantienen una sede en cada uno de los primeros mundos de estancia de los sistemas locales, donde trabajan en estrecha asociación tanto con los controladores físicos como con los serafines, pero funcionan en un mundo propio en cuanto se refiere a la manifestación de la energía y a la aplicación del espíritu."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Las supervisoras del poder sirven siempre en su universo nativo. Están dirigidas exclusivamente por la actividad de espíritu conjunta del Hijo del Universo y el Espíritu del Universo, pero por lo demás son un grupo totalmente autónomo. Mantienen una sede en cada uno de los primeros mundos mansión de los sistemas locales, donde trabajan en estrecha relación con los controladores físicos y las serafines, pero actúan en un mundo propio en lo que concierne a la manifestación de la energía y la aplicación del espíritu."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "48:2.12",
       "pageReference": "543.6",
       "sortId": "2.048.002.012",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "También a veces trabajan en conexión con fenómenos supermateriales en los mundos evolucionarios como ministros de asignación temporal. Pero raramente sirven en los planetas habitados; tampoco trabajan en los mundos más elevados de capacitación del superuniverso, estando principalmente dedicados al régimen de transición de la progresión morontial de un universo local."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "A veces trabajan también en relación con fenómenos supramateriales como ministradoras destinadas temporalmente en los mundos evolutivos. En cambio sirven muy pocas veces en los planetas habitados y tampoco trabajan en mundos de formación más altos del superuniverso. Se dedican principalmente al régimen de transición de la progresión en la morontia de un universo local."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "48:2.13",
       "pageReference": "543.7",
       "sortId": "2.048.002.013",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "1. *Reguladores de los Circuitos.* Éstos son los seres singulares que coordinan la energía física y espiritual y regulan su flujo en los canales segregados de las esferas de morontia, y estos circuitos son exclusivamente planetarios, limitados a un solo mundo. Los circuitos morontiales son distintos de los circuitos físicos y espirituales de los mundos de transición, y suplementarios a los mismos, y se requieren millones de estos reguladores para energizar un sistema de mundos de estancia semejante al de Satania."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "1. *Reguladoras de circuitos*. Son los seres únicos que coordinan las energías física y espiritual y regulan su flujo hacia los canales segregados de las esferas de la morontia; y estos circuitos son exclusivamente planetarios, limitados a un solo mundo. Los circuitos de la morontia son distintos y complementarios de los circuitos tanto físicos como espirituales de los mundos de transición, y se necesitan millones de estas reguladoras para energizar un sistema de mundos mansión como el de Satania."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "48:2.14",
       "pageReference": "543.8",
       "sortId": "2.048.002.014",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Los reguladores de los circuitos inician aquellos cambios en las energías materiales que las vuelven sujetas al control y regulación de sus asociados. Estos seres son generadores de poder morontial como también reguladores de los circuitos. Así como un dínamo aparentemente genera electricidad de la atmósfera, del mismo modo estos dínamos vivientes morontiales parecen transformar las energías omnipresentes del espacio en aquellos materiales que los supervisores morontiales tejen en los cuerpos y las actividades de vida de los mortales ascendentes."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Las reguladoras de circuitos provocan en las energías materiales los cambios que las ponen bajo el control y la regulación de sus colegas. Estos seres son a la vez generadoras del poder de la morontia y reguladoras de circuitos. De forma parecida a como una dinamo genera aparentemente electricidad de la atmósfera, estas dinamos vivas de la morontia parecen transformar las energías omnipresentes del espacio en materiales con los que los supervisores de la morontia tejen los cuerpos y las actividades vitales de los mortales ascendentes."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "48:2.15",
       "pageReference": "543.9",
       "sortId": "2.048.002.015",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "2. *Coordinadores de los Sistemas.* Puesto que cada mundo morontial tiene una orden separada de energía morontial, es extremadamente difícil para los seres humanos visualizar estas esferas. Pero en cada esfera sucesiva de transición, los mortales encontrarán la vida botánica y todo lo demás que pertenece a la existencia morontial progresivamente modificada para corresponder a la espiritización en avance de los sobrevivientes ascendentes. Puesto que el sistema de energía de cada mundo está individualizada de esta manera, estos coordinadores operan para armonizar y combinar tales sistemas distintos de poder en una unidad de trabajo para las esferas asociadas de un grupo específico."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "2. *Coordinadoras de sistemas*. Dado que cada mundo de la morontia tiene un orden separado de energía de la morontia, es sumamente difícil para los humanos visualizar esas esferas. Pero en cada esfera consecutiva de transición, los mortales encontrarán que la vida vegetal y todo lo relativo a la existencia en la morontia se va modificando progresivamente para corresponder a la espiritualización creciente de los supervivientes en ascenso. Y puesto que el sistema de energía de cada mundo está individualizado de esta manera, estas coordinadoras trabajan para armonizar y combinar los distintos sistemas del poder en una unidad de trabajo para las esferas asociadas de un grupo determinado."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "48:2.16",
       "pageReference": "543.10",
       "sortId": "2.048.002.016",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Los mortales ascendentes gradualmente progresan de lo físico a lo espiritual a medida que avanzan de un mundo morontial a otro; de aquí la necesidad de proveer una escala ascendente de esferas morontiales y una escala ascendente de formas morontiales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Los mortales ascendentes progresan gradualmente de lo físico a lo espiritual a medida que avanzan de un mundo de la morontia a otro, de aquí la necesidad de proporcionarles una escala ascendente de esferas de la morontia y una escala ascendente de formas de morontia."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "48:2.17",
       "pageReference": "543.11",
       "sortId": "2.048.002.017",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Cuando los seres ascendentes de los mundos de estancia pasan de una esfera a la otra, los serafines de transporte los entregan a los recibidores de los coordinadores de los sistemas en un mundo más avanzado. Aquí en esos templos singulares en el centro de los setenta edificios dispuestos en radio en los que están ubicadas las cámaras de transición semejantes a las salas de resurrección en el mundo inicial de recepción para los mortales de origen terrestre, los coordinadores de los sistemas realizan eficazmente los necesarios cambios de forma de la criatura. Estos primeros cambios de la forma morontial requieren aproximadamente siete días de tiempo estándar para su cumplimiento."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Cuando los ascendentes de los mundos mansión pasan de una esfera a otra, las serafines de transporte los entregan a los receptores de las coordinadoras de sistemas del mundo superior. Ahí, en esos templos únicos, en el centro de las setenta alas radiales donde están las cámaras de transición similares a las salas de resurrección del primer mundo de recepción de los mortales de origen terrestre, las coordinadoras de sistemas efectúan hábilmente los cambios necesarios en la forma de la criatura. Se necesitan unos siete días de tiempo estándar para llevar a cabo estos primeros cambios en la forma de morontia."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "48:2.18",
       "pageReference": "544.1",
       "sortId": "2.048.002.018",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "3. *Custodios Planetarios.* Cada mundo morontial, desde las esferas de estancia hasta las sedes centrales del universo, está en la custodia —en cuanto se refiere a los asuntos morontiales— de setenta guardianes. Estos constituyen el concilio planetario local de autoridad morontial suprema. Este concilio concede el material para las for-mas morontiales a todas las criaturas ascendentes que llegan a las esferas y autoriza aquellos cambios de forma de la criatura que hacen posible que un ascendentero proceda a la esfera subsiguiente. Una vez que atraveses los mundos de estancia, te trasladarás de una fase de vida morontial a otra sin tener que perder la conciencia. La inconciencia acompaña tan sólo las metamorfosis primeras y las transiciones posteriores de un universo a otro y de Havona al Paraíso."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "3. *Guardianas planetarias*. Cada mundo de la morontia, desde las esferas mansión hasta la sede del universo, está bajo la custodia —en lo que se refiere a los asuntos de la morontia— de setenta guardianas. Constituyen el consejo planetario local de autoridad suprema de la morontia. Este consejo concede a todas las criaturas ascendentes que aterrizan en las esferas el material para las formas de morontia y autoriza los cambios de forma de la criatura que permiten a un ascendente pasar a la esfera siguiente. Después de haber atravesado los mundos mansión, pasaréis de una fase de vida en la morontia a otra sin tener que perder la consciencia. La inconsciencia acompaña solo a las primeras metamorfosis y a las transiciones posteriores de un universo a otro y de Havona al Paraíso."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "48:2.19",
       "pageReference": "544.2",
       "sortId": "2.048.002.019",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "4. *Controladores Combinados.* Uno de estos seres altamente mecánicos está siempre estacionado en el centro de cada unidad administrativa de un mundo morontial. El controlador combinado es sensible a las energías físicas, espirituales y morontiales, y funciona con ellas; con este ser siempre están en asociación dos coordinadores de los sistemas, cuatro reguladores de los circuitos, un custodio planetario, un estabilizador de los enlaces y un registrador asociado o un clasificador selectivo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "4. *Controladoras conjuntas*. Uno de estos seres muy mecánicos está siempre emplazado en el centro de cada unidad administrativa de un mundo de la morontia. Una controladora conjunta es sensible a las energías físicas, espirituales y morontiales, y actúa con ellas. Están siempre asociadas a este ser dos coordinadoras de sistemas, cuatro reguladoras de circuitos, una guardiana planetaria, una estabilizadora de enlaces y una registradora asociada o una clasificadora selectiva."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "48:2.20",
       "pageReference": "544.3",
       "sortId": "2.048.002.020",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "5. *Estabilizadores de los Enlaces.* Éstos son los reguladores de la energía morontial en asociación con las fuerzas físicas y espirituales del reino. Hacen posible la conversión de la energía morontial en material morontial. La entera organización morontial de existencia depende de los estabilizadores. Desaceleran las revoluciones de la energía hasta el punto en que puede ocurrir la fisicalización. Pero no poseo términos para comparar o ilustrar el ministerio de estos seres. Está completamente más allá de la imaginación humana."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "5. *Estabilizadoras de enlaces*. Son las reguladoras de la energía de la morontia en asociación con las fuerzas físicas y de espíritu del mundo. Hacen posible la conversión de la energía de la morontia en material de la morontia. Toda la organización en la morontia de la existencia depende de las estabilizadoras. Desaceleran las revoluciones de la energía hasta el punto de permitir que adquiera forma física. Pero me faltan términos para poder comparar o ilustrar el ministerio de estos seres. Sobrepasa por completo la imaginación humana."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "48:2.21",
       "pageReference": "544.4",
       "sortId": "2.048.002.021",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "6. *Clasificadores Selectivos.* A medida que progresas de una clase o fase de un mundo morontial a otro, es necesario que seas reprogramado o afinado para el avance, y es tarea de estos clasificadores selectivos mantenerte en sintonía progresiva con la vida morontial."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "6. *Clasificadoras selectivas*. A medida que progresáis de una clase o fase de un mundo de la morontia a otra, tenéis que ser reajustados o sintonizados con vuestro avance, y es tarea de estas clasificadoras selectivas manteneros en sincronía progresiva con la vida de la morontia."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "48:2.22",
       "pageReference": "544.5",
       "sortId": "2.048.002.022",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Aunque las formas básicas morontiales de vida y de materia son idénticas desde el primer mundo de estancia hasta la última esfera de transición del universo, existe una progresión funcional que gradualmente se extiende desde lo material hasta lo espiritual. Tu adaptación a esta creación básicamente uniforme pero cada vez más avanzada y espiritizada se realiza mediante esta reprogramación selectiva. Dicho ajuste en el mecanismo de personalidad es equivalente a una nueva creación, a pesar de que retienes la misma forma morontial."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Aunque las formas básicas de vida y materia de la morontia son idénticas desde el primer mundo mansión hasta la última esfera de transición del universo, hay una progresión funcional que se extiende gradualmente desde lo material hasta lo espiritual. Vuestra adaptación a esta creación básicamente uniforme pero cada vez más avanzada y espiritualizada se efectúa mediante esos reajustes selectivos. Esta adecuación del mecanismo de la personalidad equivale a una nueva creación, a pesar de que conserváis la misma forma de morontia."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "48:2.23",
       "pageReference": "544.6",
       "sortId": "2.048.002.023",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Podrás presentarte repetidamente al examen de estos examinadores, y en cuanto registres un logro espiritual adecuado, se complacerán en certificarte para una posición avanzada. Estos cambios progresivos dan como resultado reacciones modificadas al ambiente morontial, tales como cambios en los requisitos alimenticios y numerosas otras prácticas personales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Podréis presentaros repetidas veces a las pruebas de estas examinadoras, y en cuanto demostréis un logro espiritual adecuado, certificarán con agrado que podéis pasar a una posición más avanzada. Estos cambios progresivos tienen como resultado nuevas reacciones al entorno de la morontia, como modificaciones en las necesidades alimenticias y en muchas otras prácticas personales."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "48:2.24",
       "pageReference": "544.7",
       "sortId": "2.048.002.024",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Los clasificadores selectivos también son de gran utilidad en el agrupamiento de las personalidades morontiales para fines de estudio, enseñanza y otros proyectos. Indican naturalmente a los que mejor funcionarán en asociación provisional."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Otro importante cometido de las clasificadoras selectivas es agrupar a las personalidades de morontia para fines de estudio, enseñanza y otros proyectos. Identifican naturalmente a los que trabajarán mejor en cooperación temporal."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "48:2.25",
       "pageReference": "544.8",
       "sortId": "2.048.002.025",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "7. *Registradores Asociados.* El mundo morontial tiene sus propios registradores, que sirven en asociación con los registradores espirituales en la supervisión y custodia de los registros y otros datos indígenas a las creaciones morontiales. Los registros morontiales están disponibles para todas las órdenes de personalidades."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "7. *Registradoras asociadas*. El mundo de la morontia tiene sus propios registradores, que se encargan, en cooperación con los registradores de espíritu, de supervisar y custodiar los registros y otros datos propios de las creaciones de la morontia. Los registros de la morontia están a disposición de todos los órdenes de personalidades."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "48:2.26",
       "pageReference": "545.1",
       "sortId": "2.048.002.026",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Supervisores del Poder Morontial",
-      "markdown": "Todos los mundos de transición morontial son accesibles tanto para los seres materiales como los de espíritu. Como progresores morontiales permaneceréis en pleno contacto con el mundo material y con las personalidades materiales, mientras que discerniréis y fraternizaréis cada vez más con los seres de espíritu; y al tiempo de la partida del régimen morontial, habréis visto a todas las órdenes de espíritus con excepción de algunos de los tipos más elevados tales como los Mensajeros Solitarios."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Supervisoras del Poder de la Morontia",
+      "markdown": "Todos los mundos de transición de la morontia son accesibles por igual a los seres materiales y de espíritu. Como progresores de la morontia conservaréis pleno contacto con el mundo material y las personalidades materiales, al tiempo que percibiréis cada vez más a los seres de espíritu y fraternizaréis cada vez más con ellos. Cuando os llegue el momento de dejar el régimen de la morontia, habréis llegado a ver a todos los órdenes de espíritus, con la excepción de algunos de los tipos más altos, como los Mensajeros Solitarios."
     },
     {
       "type": "section",
@@ -739,8 +739,8 @@
       "standardReferenceId": "48:3.0",
       "pageReference": null,
       "sortId": "2.048.003.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
       "markdown": null
     },
     {
@@ -757,9 +757,9 @@
       "standardReferenceId": "48:3.1",
       "pageReference": "545.2",
       "sortId": "2.048.003.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Estos anfitriones de los mundos de estancia y los demás mundos morontiales son las progenies del Espíritu Materno de un universo local. Son creados de época en época en grupos de cien mil, y en Nebadon existen al presente más de setenta mil millones de estos seres singulares."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Estas anfitrionas de los mundos mansión y de la morontia son progenie del Espíritu Madre de un universo local. Son creadas de edad en edad en grupos de cien mil. En Nebadon existen en el presente más de setenta mil millones de estos seres únicos."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "48:3.2",
       "pageReference": "545.3",
       "sortId": "2.048.003.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Los Melquisedek capacitan a los Compañeros Morontiales para el servicio, en un planeta especial cerca de Salvington; no pasan a través de las facultades centrales Melquisedek. En cuanto a servicio van desde los mundos de estancia más bajos de los sistemas hasta las esferas de estudio más elevadas de Salvington, pero pocas veces se los encuentra en los mundos habitados. Sirven bajo la supervisión general de los Hijos de Dios y bajo la dirección inmediata de los Melquisedek."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Los Melquisedec capacitan para el servicio a las Acompañantes de la Morontia en un planeta especial cercano a Salvington. No pasan por las escuelas Melquisedec centrales. Su servicio se extiende desde los mundos mansión más bajos de los sistemas hasta las más altas esferas de estudio de Salvington, pero es raro que aparezcan por los mundos habitados. Sirven bajo la supervisión general de los Hijos de Dios y la dirección directa de los Melquisedec."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "48:3.3",
       "pageReference": "545.4",
       "sortId": "2.048.003.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Los Compañeros Morontiales mantienen diez mil sedes centrales en un universo local —una en cada uno de los primeros mundos de estancia de los sistemas locales. Son una orden casi totalmente autogobernada y, en general, son un grupo inteligente y leal de seres; pero de vez en cuando, en relación con algunos desafortunados trastornos celestiales, se ha sabido que se han descarriado. Miles de estas útiles criaturas se perdieron durante los tiempos de la rebelión de Lucifer en Satania. Vuestro sistema local tiene ahora una cuota completa de estos seres, pero la pérdida a causa de la rebelión de Lucifer, ha sido recuperada tan sólo recientemente."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Las Acompañantes de la Morontia mantienen diez mil sedes en un universo local, una en cada uno de los primeros mundos mansión de los sistemas locales. Forman un orden casi enteramente autónomo y son, en general, un grupo de seres inteligentes y leales. Sin embargo, se han descarriado alguna vez en conexión con ciertos lamentables disturbios celestiales. Durante los tiempos de la rebelión de Lucifer en Satania, se perdieron miles de estas útiles criaturas. Las pérdidas de la rebelión de Lucifer solo se han repuesto recientemente, y el cupo de estos seres en vuestro sistema local está ya completo."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "48:3.4",
       "pageReference": "545.5",
       "sortId": "2.048.003.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Existen dos tipos distintos de Compañeros Morontiales; un tipo es enérgico, el otro es retraído, pero por otra parte son de estado equivalente. No son criaturas sexuales, pero manifiestan un afecto conmovedoramente hermoso entre sí. Aunque no sean sociables en el sentido material (humano), son de parentesco muy cercano a las razas humanas en la orden de existencia de criaturas. Los seres intermedios de los mundos son vuestros parientes más cercanos; luego vienen los querubines morontiales, y después de ellos los Compañeros Morontiales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Hay dos tipos distintos de Acompañantes de la Morontia: uno enérgico y el otro reservado, pero aparte de eso son iguales en estatus. No son criaturas sexuadas pero manifiestan un afecto hermoso y conmovedor la una por la otra. Y aunque no se puede decir que practiquen el compañerismo en el sentido material (humano), son parientes muy cercanos de las razas humanas en el orden de existencia de las criaturas. Las criaturas intermedias de los mundos son vuestros parientes más cercanos, luego vienen las querubines de la morontia y después las Acompañantes de la Morontia."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "48:3.5",
       "pageReference": "545.6",
       "sortId": "2.048.003.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Estos compañeros son seres conmovedoramente afectuosos y encantadoramente sociales. Poseen personalidades definidas, y cuando los conozcáis en los mundos de estancia, después de aprender a reconocerlos como clase, rápidamente discerniréis su individualidad. Los mortales se asemejan todos unos a los otros; sin embargo cada uno de vosotros posee una personalidad definida y reconocible."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Estas acompañantes ofrecen un trato encantador y un afecto conmovedor. Poseen personalidades bien diferenciadas y, cuando las conozcáis en los mundos mansión, después de aprender a reconocerlas como clase, pronto distinguiréis su individualidad. Todos los mortales se parecen entre sí, y al mismo tiempo cada uno de vosotros posee una personalidad reconocible y bien diferenciada."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "48:3.6",
       "pageReference": "545.7",
       "sortId": "2.048.003.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Es posible derivar una idea de la naturaleza del trabajo de estos compañeros morontiales según la siguiente clasificación de sus actividades en un sistema local:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Para intentar transmitir cierta idea sobre la naturaleza de la labor de estas Acompañantes de la Morontia, partiremos de la siguiente clasificación de sus actividades en un sistema local:"
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "48:3.7",
       "pageReference": "545.8",
       "sortId": "2.048.003.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "1. *Guardianes de los Peregrinos* no se asignan a tareas específicas en su asociación con los progresores morontiales. Estos compañeros son responsables de la entera carrera morontial y por lo tanto son los coordinadores de la labor de todos los demás ministros morontiales y de transición."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "1. *Guardianas de los Peregrinos*. No tienen asignada ninguna tarea específica en su relación con los progresores de la morontia. Estas acompañantes son responsables de toda la carrera en la morontia y son, por lo tanto, las coordinadoras del trabajo de todos los demás ministros de la morontia y de la transición."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "48:3.8",
       "pageReference": "546.1",
       "sortId": "2.048.003.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "2. *Recibidores de los Peregrinos y Asociadores Libres.* Éstos son los compañeros sociales de los recién llegados a los mundos de estancia. Con certeza uno de ellos estará disponible para darte la bienvenida cuando te despiertes en el mundo de estancia inicial del primer sueño de tránsito del tiempo, cuando experimentes la resurrección de la muerte física a la vida morontial. Y desde el momento en que así se te dé la bienvenida al despertarte, hasta el día en que dejes el universo local en calidad de espíritu de primera etapa, estos compañeros morontiales por siempre estarán contigo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "2. *Receptoras de los Peregrinos y Asociadoras Libres*. Son las acompañantes sociales de los recién llegados a los mundos mansión. Una de ellas estará seguro ahí para daros la bienvenida cuando despertéis del primer sueño de tránsito del tiempo en el mundo mansión inicial, cuando experimentéis la resurrección de la muerte de la carne a la vida en la morontia. Y desde el momento de esta bienvenida formal al despertaros hasta el día en que dejéis el universo local como espíritus de primera etapa, estas Acompañantes de la Morontia estarán siempre con vosotros."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "48:3.9",
       "pageReference": "546.2",
       "sortId": "2.048.003.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Los compañeros no son asignados permanentemente a individuos. Un mortal ascendente en uno de los mundos de estancia o de los mundos más elevados puede tener un compañero diferente en cada una de varias ocasiones sucesivas o puede pasar largos períodos de tiempo sin compañero. Todo dependerá de los requisitos, como así también de la disponibilidad de compañeros."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Las acompañantes no son asignadas a los individuos de forma permanente. Un mortal ascendente en un mundo mansión u otro más alto puede tener una acompañante distinta en varias ocasiones sucesivas o pasar largos periodos de tiempo sin acompañante. Todo dependerá de las necesidades y también del número de acompañantes disponible."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "48:3.10",
       "pageReference": "546.3",
       "sortId": "2.048.003.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "3. *Anfitriones de los Visitantes Celestiales.* Estas criaturas gentiles se dedican a entretener a los grupos superhumanos de estudiantes visitantes y otros seres celestiales que a la sazón se encuentren en los mundos de transición. Tendrás amplia oportunidad de visitar cualquier reino que hayas logrado experiencialmente. Se permiten estudiantes visitantes en todos los planetas habitados, aún los que están en aislamiento."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "3. *Anfitrionas de los visitantes celestiales*. Estas amables criaturas se dedican a atender a los grupos sobrehumanos de visitantes estudiantes y a otros seres celestiales que residen ocasionalmente en los mundos de transición. Tendréis muchas oportunidades de visitar cualquier mundo que hayáis alcanzado experiencialmente. Se permiten visitantes estudiantes en todos los planetas habitados, incluso en los aislados."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "48:3.11",
       "pageReference": "546.4",
       "sortId": "2.048.003.011",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "4. *Coordinadores y Directores de Enlace.* Estos compañeros se dedican a facilitar la relación morontial y prevenir la confusión. Son los instructores de la conducta social y del progreso morontial, patrocinan clases y otras actividades de grupo entre los mortales ascendentes. Mantienen amplias áreas en las que reúnen a sus alumnos y de vez en cuando solicitan de los artesanos celestiales y de los directores de reversión para el embellecimiento de sus programas. A medida que vas progresando, tendrás un contacto íntimo con estos compañeros, y te encariñarás profundamente con ambos grupos. Del azar dependerá que tu asociación sea con un compañero de tipo enérgico o con uno de tipo retraído."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "4. *Coordinadoras y directoras de enlace*. Estas acompañantes se dedican a facilitar las relaciones en la morontia y evitar que ocurran confusiones. Son las instructoras de conducta social y progreso en la morontia, y patrocinan clases y otras actividades de grupo entre los mortales ascendentes. Mantienen amplias zonas donde reúnen a sus alumnos y a veces solicitan a los artesanos celestiales y a los directores de la reversión que embellezcan sus programas. A medida que progreséis, entraréis en contacto íntimo con estas acompañantes y os encariñaréis profundamente con ambos grupos. El tipo de acompañante que os toque, enérgico o reservado, dependerá del azar."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "48:3.12",
       "pageReference": "546.5",
       "sortId": "2.048.003.012",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "5. *Intérpretes y Traductores.* Durante la primera parte de la carrera en los mundos de estancia podrás recurrir frecuentemente a los intérpretes y traductores. Conocen y hablan todas las lenguas de un universo local; son los lingistas de los reinos."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "5. *Intérpretes y traductoras*. Al principio de vuestra carrera en mansonia tendréis que recurrir con frecuencia a las intérpretes y las traductoras. Conocen y hablan todas las lenguas de un universo local, son las lingüistas de los mundos."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "48:3.13",
       "pageReference": "546.6",
       "sortId": "2.048.003.013",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "No adquirirás nuevos idiomas automáticamente; allí aprenderás un idioma de forma semejante a como lo haces aquí, y estos seres brillantes serán tus instructores de idiomas. El primer estudio en los mundos de estancia será la lengua de Satania y luego el idioma de Nebadon. Y mientras tu estés aprendiendo estas nuevas lenguas, los compañeros morontiales serán tus eficientes intérpretes y traductores. Nunca encontrarás a un visitante en cualquiera de estos mundos sin que un Compañero Morontial pueda oficiar como intérprete."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "No adquiriréis nuevos idiomas automáticamente. Allí los idiomas se aprenden más o menos como aquí abajo, y estos seres brillantes serán vuestras profesoras. Lo primero que estudiaréis en los mundos mansión será la lengua de Satania y luego el idioma de Nebadon. Y mientras domináis estas nuevas lenguas, las Acompañantes de la Morontia serán vuestras intérpretes y traductoras pacientes y eficaces. No os encontraréis nunca con ningún visitante en ninguno de esos mundos sin que haya una Acompañante de la Morontia para hacer de intérprete."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "48:3.14",
       "pageReference": "546.7",
       "sortId": "2.048.003.014",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "6. *Supervisores de las Excursiones y la Reversión.* Estos compañeros te acompañarán en los viajes más largos a la esfera central y a los mundos vecinos de transición. Planifican, conducen y supervisan todas las giras individuales y de grupo alrededor de los mundos de capacitación y cultura del sistema."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "6. *Supervisoras de excursiones y de la reversión*. Estas acompañantes harán con vosotros los viajes más largos a la esfera sede y a los mundos de cultura de transición que la rodean. Organizan, dirigen y supervisan todas esas giras individuales o en grupo por los mundos de formación y cultura del sistema."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "48:3.15",
       "pageReference": "546.8",
       "sortId": "2.048.003.015",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "7. *Custodios de las Zonas y de los Edificios.* Aun las estructuras materiales y morontiales aumentan en perfección y grandeza a medida que avanzas en la carrera de los mundos de estancia. Como individuos y en grupos se os permite realizar ciertos cambios en las moradas asignadas durante vuestra estadía en los diferentes mundos de estancia. Muchas de las actividades de estas esferas ocurren en los recintos abiertos de los círculos, cuadrados y triángulos de distintas designaciones. La mayoría de las estructuras de los mundos de estancia son sin techo, siendo recintos de construcción magnífica y embellecimiento exquisito. Las condiciones climáticas y otras condiciones físicas que prevalecen en los mundos arquitectónicos hacen que los techos sean totalmente innecesarios."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "7. *Guardianas de áreas y edificios*. Hasta las estructuras materiales y de morontia aumentan en perfección y grandiosidad a medida que avanzáis en la carrera en mansonia. Tanto individualmente como en grupo, estáis autorizados a hacer ciertos cambios en las moradas que os han sido asignadas durante vuestra estancia en los distintos mundos mansión. Muchas de las actividades de estas esferas tienen lugar en los recintos abiertos de las diferentes áreas designadas como círculos, cuadrados y triángulos. La mayoría de las estructuras de los mundos mansión no tienen techo y son recintos magníficamente construidos y exquisitamente decorados. El clima y las demás condiciones físicas de los mundos arquitectónicos hacen que los techos sean totalmente innecesarios."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "48:3.16",
       "pageReference": "547.1",
       "sortId": "2.048.003.016",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Estos custodios de las fases de transición de la vida ascendente son supremos en la gestión de los asuntos morontiales. Fueron creados para este trabajo, y hasta la actualización del Ser Supremo, seguirán siendo Compañeros Morontiales; no realizan ninguna otra tarea."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Estas guardianas de las fases de transición de la vida ascendente son supremas en la gestión de los asuntos de la morontia. Fueron creadas para esta labor, y en espera de la factualización del Ser Supremo, seguirán siendo siempre Acompañantes de la Morontia. No tienen ningún otro cometido."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "48:3.17",
       "pageReference": "547.2",
       "sortId": "2.048.003.017",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "A medida que los sistemas y los universos se establecen en luz y vida, los mundos de estancia cesan gradualmente su función como esferas de transición de capacitación morontial. Más y más los finalistas instituyen su nuevo régimen de capacitación, que parece ser diseñado para trasladar la conciencia cósmica del presente nivel del gran universo al de los futuros universos exteriores. Los Compañeros Morontiales están destinados a funcionar cada vez más en asociación con los finalistas y en numerosos otros reinos, al presente no revelados en Urantia."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "A medida que los sistemas y los universos se asientan en luz y vida, los mundos mansión dejan gradualmente de funcionar como esferas de transición para la formación en la morontia. Los finalitarios van estableciendo cada vez más su nuevo régimen de formación, que parece estar concebido para trasladar la consciencia cósmica desde el nivel presente del gran universo al de los futuros universos exteriores. Las Acompañantes de la Morontia están destinadas a trabajar cada vez más en asociación con los finalitarios y en muchos otros campos no revelados ahora en Urantia."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "48:3.18",
       "pageReference": "547.3",
       "sortId": "2.048.003.018",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Compañeros Morontiales",
-      "markdown": "Puedes anticipar que estos seres contribuirán grandemente a que disfrutes de los mundos de estancia, sea tu estadía prolongada o breve. Y continuarás disfrutando de ellos durante la entera ascensión hasta Salvington. No son, técnicamente, esenciales para porción alguna de tu experiencia de supervivencia. Podrías alcanzar Salvington sin ellos, pero los echarías grandemente de menos. Constituyen el lujo de la personalidad en tu carrera ascendente en el universo local."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Acompañantes de la Morontia",
+      "markdown": "Podéis anticipar que estos seres os ayudarán mucho a disfrutar de vuestra estancia en los mundos mansión, tanto si es corta como si es larga. Y seguiréis apreciando su compañía durante todo el camino de subida a Salvington. Estrictamente hablando, no son esenciales en ningún aspecto de vuestra experiencia de supervivencia. Podríais llegar a Salvington sin ellas, pero las echaríais mucho de menos. Son un lujo de la personalidad en vuestra carrera ascendente en el universo local."
     },
     {
       "type": "section",
@@ -1081,8 +1081,8 @@
       "standardReferenceId": "48:4.0",
       "pageReference": null,
       "sortId": "2.048.004.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
       "markdown": null
     },
     {
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "48:4.1",
       "pageReference": "547.4",
       "sortId": "2.048.004.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "La hilaridad del regocijo y el equivalente de la sonrisa son tan universales como la música. Existe un equivalente morontial y espiritual de la hilaridad y de la risa. La vida ascendente se divide aproximadamente por igual entre trabajo y recreación — suspensión de las tareas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "La alegre diversión y el equivalente de la sonrisa son tan universales como la música. Hay un equivalente morontial y espiritual de la diversión y de la risa. La vida ascendente se divide casi por igual entre el trabajo y el juego, que es estar libre de obligaciones."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "48:4.2",
       "pageReference": "547.5",
       "sortId": "2.048.004.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "La recreación celestial y el humor superhumano son muy diferentes de sus análogos humanos, pero todos nos permitimos en verdad alguna forma de ambos; y realmente hacen por nosotros, en nuestro estado, más o menos lo que el humor ideal es capaz de hacer por vosotros en Urantia. Los Compañeros Morontiales son patrocinadores hábiles de la recreación, y los ayudan con gran pericia los directores de reversión."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "El recreo celestial y el humor sobrehumano son muy distintos de sus análogos humanos, pero todos los practicamos de alguna forma, y realmente suponen para nosotros, en nuestro estado, casi lo mismo que el humor ideal supone para vosotros en Urantia. Las Acompañantes de la Morontia son hábiles patrocinadoras del juego y cuentan con la experta colaboración de los directores de la reversión."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "48:4.3",
       "pageReference": "547.6",
       "sortId": "2.048.004.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Tal vez entenderíais mejor el trabajo de los directores de reversión si los comparáramos con los tipos más elevados de los humoristas en Urantia, aunque sería una forma enormemente burda y un tanto desafortunada de intentar transmitir la idea de la función de estos directores de cambio y recreación, estos ministros del humor excelso de los reinos morontiales y los de espíritu."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Para ayudaros a comprender el trabajo de los directores de la reversión podríamos compararlos con los tipos superiores de humoristas de Urantia, aunque sería una forma muy burda y bastante desafortunada de intentar daros una idea de la función de estos directores del cambio y el recreo, los ministradores del humor excelso de los mundos de la morontia y del espíritu."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "48:4.4",
       "pageReference": "547.7",
       "sortId": "2.048.004.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Al hablar del humorismo espiritual, dejadme deciros primero lo que *no* es. El humorismo espiritual no está nunca teñido de una acentuación de los infortunios de los seres débiles y falibles. Tampoco es jamás blasfemo de la rectitud y gloria de la divinidad. Nuestro humor comprende tres niveles generales de apreciación:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Al tratar sobre el humor del espíritu, permitidme que os diga primero lo que *no* es. Las bromas del espíritu no se ceban nunca en las desgracias de los errados y los débiles. Tampoco blasfeman nunca sobre la rectitud y la gloria de la divinidad. Nuestro humor abarca tres niveles generales de apreciación:"
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "48:4.5",
       "pageReference": "547.8",
       "sortId": "2.048.004.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "1. *Bromas de reminiscencias.* Ocurrencias que nacen de los recuerdos de episodios basados en la propia experiencia de combate, lucha, y a veces temor, y frecuentemente tonta ansiedad infantil. Para nosotros, esta fase del humor deriva de la capacidad profunda y constante de extraer material de recuerdo del pasado para sazonar placenteramente y aligerar de otras maneras las pesadas cargas del presente."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "1. *Bromas reminiscentes*. Ocurrencias que surgen de recuerdos de experiencias pasadas de nuestra propia lucha, llena de esfuerzos, a veces temores y a menudo preocupaciones tontas e infantiles. Para nosotros, este aspecto del humor proviene de una arraigada y constante capacidad de recurrir al pasado en busca de materiales de recuerdo con los que sazonar agradablemente, además de aligerar, las pesadas cargas del presente."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "48:4.6",
       "pageReference": "548.1",
       "sortId": "2.048.004.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "2. *Humorismo corriente.* La falta de sentido de mucho de lo que tan frecuentemente nos produce preocupaciones serias, el regocijo de descubrir la falta de importancia de muchas de nuestras ansiedades personales graves. Apreciamos mejor esta fase del humorismo cuando somos capaces de abandonar las ansiedades del presente en favor de las certezas del futuro."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "2. *Humor corriente*. La falta de sentido de muchas de las cosas que tanto nos preocupan, la alegría de descubrir la insignificancia de casi todo lo que nos causa una intensa ansiedad personal. Apreciamos más este aspecto del humor cuando somos más capaces de apartar las inquietudes del presente en favor de las certezas del futuro."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "48:4.7",
       "pageReference": "548.2",
       "sortId": "2.048.004.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "3. *Regocijo profético.* Tal vez sea difícil para los mortales visualizar esta fase del humorismo, pero obtenemos una satisfacción específica de la certeza de que «todas las cosas funcionan para el bien» —para los espíritus y los seres morontiales así como también para los mortales. Este aspecto del humorismo celestial nace de nuestra fe en la protección amante de nuestros superiores y en la estabilidad divina de nuestros Directores Supremos."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "3. *Alegría profética*. Quizás sea difícil para los mortales imaginar este aspecto del humor, pero a nosotros nos produce una satisfacción muy especial la seguridad de que «todas las cosas trabajan juntas para el bien», tanto de los espíritus y los morontianos como de los mortales. Este aspecto del humor celestial nace de nuestra fe en el cuidado amoroso de nuestros superiores y en la estabilidad divina de nuestros Directores Supremos."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "48:4.8",
       "pageReference": "548.3",
       "sortId": "2.048.004.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Pero los directores de reversión de los reinos no se ocupan exclusivamente de ilustrar el humorismo elevado de varias órdenes de seres inteligentes; también se ocupan del liderazgo de la diversión, la recreación espiritual y el entretenimiento morontial. En este respecto cuentan con la cooperación sincera de los artesanos celestiales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Pero los directores de la reversión de los mundos no se dedican exclusivamente a representar el humor elevado de los diversos órdenes de seres inteligentes. Se ocupan también de liderar la diversión, el recreo espiritual y el entretenimiento en la morontia. Y en este terreno cuentan con la colaboración entusiasta de los artesanos celestiales."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "48:4.9",
       "pageReference": "548.4",
       "sortId": "2.048.004.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Los mismos directores de reversión no son un grupo creado; son un cuerpo reclutado que comprende seres que van desde los nativos de Havona hasta las huestes de mensajeros del espacio y los espíritus de ministerio del tiempo y a los progresores morontiales de los mundos evolucionarios. Todos son voluntarios que se dedican a la tarea de ayudar a sus semejantes en el logro del cambio del mecanismo de pensamiento y del reposo mental, porque dichas actitudes son sumamente útiles en la recuperación de las energías agotadas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Los propios directores de la reversión no son un grupo creado. Son un cuerpo reclutado que reúne a seres que van desde los nativos de Havona, pasando por las huestes de mensajeros del espacio y los espíritus ministrantes del tiempo, hasta los progresores de la morontia de los mundos evolutivos. Todos son voluntarios entregados a la labor de ayudar a sus semejantes a cambiar el pensamiento y descansar la mente, dos recursos muy útiles para reponer las energías agotadas."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "48:4.10",
       "pageReference": "548.5",
       "sortId": "2.048.004.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "En el momento en que las energías se hallan parcialmente agotadas por el esfuerzo del logro, y mientras se aguarda la recepción de nuevas cargas de energía, existe un placer agradable en revivir la actuación de otros días y edades. *Se descansa al recordar las primeras experiencias de la raza o de la orden.* Y ése es precisamente el motivo por el cual estos artistas se llaman directores de reversión —ayudan en la reversión del recuerdo a un estado anterior de desarrollo o a un estado menos experto del ser."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Quien está parcialmente exhausto por los esfuerzos del logro y a la espera de recibir nuevas cargas de energía, siente un agradable placer al revivir las actuaciones de otros tiempos y otras edades. *Recordar las primeras experiencias de la raza o del orden produce descanso*. Y precisamente por eso se llama a estos artistas directores de la reversión, porque ayudan a la memoria a revertir a un estado anterior de desarrollo o a un estatus menos experimentado del ser."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "48:4.11",
       "pageReference": "548.6",
       "sortId": "2.048.004.011",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Todos los seres disfrutan de este tipo de reversión, excepto aquellos que son Creadores inherentes, por lo tanto autorejuvenecedores automáticos, y otros tipos de seres altamente especializados, tales como los centros del poder y los controladores físicos, que son siempre y eternamente totalmente pragmáticos en todas sus reacciones. Estas liberaciones periódicas de la tensión del deber funcional son parte normal de la vida en todos los mundos a lo largo y lo ancho de los universos, pero no en la Isla del Paraíso. Los seres indígenas en esta morada central son incapaces de agotarse y por lo tanto no están sujetos a la reenergización. Con tales seres de perfección paradisiaca eterna no puede haber reversión a las experiencias evolucionarias."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Todos los seres disfrutan con este tipo de reversión excepto aquellos que son Creadores inherentes y ciertos tipos de criaturas sumamente especializadas, como los centros del poder y los controladores físicos. Los primeros se rejuvenecen a sí mismos de forma automática y los segundos son eterna y sistemáticamente pragmáticos en todas sus reacciones. Estas liberaciones periódicas de la tensión del deber funcional son parte habitual de la vida en todos los mundos de todo el universo de universos, pero no en la Isla del Paraíso. Los seres autóctonos de esa morada central son incapaces de agotarse y, por lo tanto, no tienen necesidad de recargarse de energía. Para esos seres de perfección paradisiaca eterna no puede haber reversión a ninguna experiencia evolutiva."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "48:4.12",
       "pageReference": "548.7",
       "sortId": "2.048.004.012",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "La mayoría de nosotros hemos llegado a través de las etapas inferiores de la existencia o a través de los niveles progresivos de nuestras órdenes, y es refrescante y en cierto modo agradable recordar ciertos episodios de nuestras experiencias primitivas. Hay una sensación de reposo en la contemplación de aquello que es antiguo en la propia orden, y que permanece como posesión recordatoria en la mente. El futuro significa lucha y avance; representa trabajo, esfuerzo y logro; pero el pasado tiene el gusto de las cosas ya dominadas y logradas; la contemplación del pasado permite el descanso y una revisión tan libre de preocupaciones como para provocar la hilaridad espiritual y un estado morontial de mente que linda con el regocijo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "La mayoría de nosotros hemos ascendido desde etapas más bajas de la existencia o a través de los niveles progresivos de nuestros órdenes, y es reconfortante e incluso divertido volver la mirada a ciertos episodios de nuestras primeras experiencias. Hay una sensación de descanso en la contemplación de lo que es viejo en nuestro orden y que perdura como recuerdo en poder de la mente. El futuro significa avance y lucha; conlleva trabajo, esfuerzo y consecución; en cambio el pasado tiene el sabor de las cosas ya dominadas y conseguidas. La contemplación del pasado nos permite relajarnos y hacer una revisión despreocupada que alegra el espíritu y pone al borde del júbilo a la mente de morontia."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "48:4.13",
       "pageReference": "548.8",
       "sortId": "2.048.004.013",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Aun el humorismo mortal se torna más rico cuando ilustra episodios que afectan a aquellos que están un poco por debajo del propio estado de desarrollo actual, o cuando muestra a individuos supuestamente superiores que caen víctimas de las experiencias comúnmente asociadas con los que supuestamente son sus inferiores. Vosotros en Urantia habéis permitido que mucho de lo que es a la vez vulgar y cruel se confunda con vuestro humorismo, pero en general, debéis ser felicitados por un sentido del humor relativamente agudo. Algunas de vuestras razas poseen una rica vena de humorismo, que las ayuda considerablemente en sus carreras terrenales. Aparentemente habéis recibido mucho del humorismo de vuestra herencia adánica, mucho más de lo que habéis heredado en el campo de la música o el arte."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Hasta el humor de los mortales se hace más jovial cuando describe episodios que afectan a aquellos que están un poco por debajo de nuestro estado de desarrollo presente o cuando retrata a individuos supuestamente superiores a nosotros que caen víctimas de experiencias asociadas normalmente a los supuestos inferiores. Los urantianos habéis permitido que muchas cosas a la vez vulgares y antipáticas se confundan con vuestro humor, pero en general, hay que felicitaros por un sentido del humor relativamente agudo. Algunas de vuestras razas tienen una rica vena de humor que les sirve de gran ayuda en sus carreras terrenales. Al parecer habéis recibido de vuestra herencia adánica mucho sentido del humor, mucho más que de la música o del arte."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "48:4.14",
       "pageReference": "549.1",
       "sortId": "2.048.004.014",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Toda Satania, durante los períodos de recreación, aquellos períodos cuando los habitantes renuevan en forma refrescante los recuerdos de una etapa inferior de la existencia, se edifica gracias al placentero humorismo del cuerpo de directores de reversión proveniente de Urantia. El sentido del humor celestial nos acompaña siempre, aun cuando nos encontramos ocupados en la más difícil de las asignaciones. Previene un desarrollo excesivo de la sensación de nuestra propia importancia. Pero no lo desencadenamos libremente, como se podría decir, no «nos divertimos», lo hacemos solamente cuando estamos en un período de recreo de las asignaciones serias de nuestras respectivas órdenes."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Todo Satania se edifica con el humor agradable de un cuerpo de directores de la reversión procedentes de Urantia durante los momentos de juego, esos momentos reparadores en los que sus habitantes resucitan estimulantemente los recuerdos de una etapa más baja de su existencia. El sentido del humor celestial nos acompaña incluso cuando estamos dedicados a las tareas más difíciles. Ayuda a impedir que la noción de nuestra propia importancia crezca en exceso. Pero no le damos rienda suelta, no «nos divertimos», como diríais vosotros, más que a la hora de descansar de las serias misiones de nuestros órdenes respectivos."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "48:4.15",
       "pageReference": "549.2",
       "sortId": "2.048.004.015",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Cuando tenemos la tentación de magnificar nuestra propia importancia, si nos detenemos para contemplar la infinitud de la grandeza y magnitud de nuestros Hacedores, nuestra propia autoglorificación se torna sublimemente ridícula, lindando aun con lo cómico. Una de las funciones del humorismo consiste en ayudarnos a todos a que nos tomemos menos en serio. *El humorismo es el antídoto divino contra la exaltación del ego.*"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Cuando tenemos la tentación de exagerar nuestra propia importancia, si nos paramos a contemplar la infinitud de grandeza y esplendor de nuestros Hacedores, nuestra autoglorificación se vuelve sublimemente ridícula y raya incluso en lo cómico. Una de las funciones del humor es ayudarnos a todos a tomarnos menos en serio. *El humor es el antídoto divino contra la exaltación del ego*."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "48:4.16",
       "pageReference": "549.3",
       "sortId": "2.048.004.016",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "La necesidad de la recreación y diversión del humorismo es mayor en aquellas órdenes de seres ascendentes sometidas a una tensión sostenida en sus luchas hacia arriba. Los dos extremos de la vida tienen poca necesidad de recreación humorística. Los hombres primitivos no tienen capacidad para el humorismo, y los seres de perfección paradisiaca no tienen necesidad del mismo. Las huestes de Havona constituyen por naturaleza una agrupación regocijada y alegre de personalidades supremamente felices. En el Paraíso la calidad de la adoración elimina la necesidad de las actividades de reversión. Pero entre aquellos que comienzan sus carreras muy por debajo del objetivo de la perfección paradisiaca, hay amplio lugar para el ministerio de los directores de reversión."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "La necesidad de distraerse y divertirse mediante el humor es mayor en los órdenes de seres ascendentes sometidos a una tensión continua en sus luchas por elevarse. Los dos extremos de la vida tienen poca necesidad de diversiones humorísticas: los hombres primitivos carecen de capacidad para el humor y los seres de perfección paradisiaca no lo necesitan. Las huestes de Havona son por naturaleza un conjunto alegre y estimulante de personalidades supremamente felices. En el Paraíso la calidad de la adoración hace innecesarias las actividades de la reversión. Pero para aquellos que empiezan su carrera muy por debajo de la meta de la perfección paradisiaca, el ministerio de los directores de la reversión desempeña un papel importante."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "48:4.17",
       "pageReference": "549.4",
       "sortId": "2.048.004.017",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Cuanto más alta la especie mortal, mayor la tensión y más grande la capacidad para el humorismo, así como también la necesidad del mismo. En el mundo de espíritu lo opuesto es verdad: cuanto más alto ascendemos, menor es la necesidad de las diversiones de las experiencias de reversión. Pero procediendo hacia abajo en la escala de la vida de espíritu, desde el Paraíso hasta las huestes seráficas, existe una necesidad en aumento de la misión de la hilaridad y el ministerio de la alegría. Aquellos seres que más necesitan la acción refrescante de la reversión periódica al estado intelectual de experiencias previas son los tipos más elevados de las especies humanas, los morontianos, los ángeles, y los Hijos Materiales, juntamente con otros tipos similares de personalidad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Cuanto más alta es la especie mortal, más tensión soporta, tiene más capacidad para el humor y lo necesita más. En el mundo del espíritu ocurre lo contrario: cuanto más se asciende, menos se necesitan las diversiones de la reversión. En cambio, a medida que descendemos en la escala de la vida de espíritu desde el Paraíso hasta las huestes seráficas, la función de la risa y el ministerio de la alegría son cada vez más necesarios. Los seres que más necesitan el efecto refrescante de la reversión periódica al estatus intelectual de sus experiencias anteriores son los tipos más altos de la especie humana, los morontianos, las ángeles y los Hijos Materiales, igual que todos los tipos semejantes de personalidad."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "48:4.18",
       "pageReference": "549.5",
       "sortId": "2.048.004.018",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "El humorismo debe funcionar como válvula automática de seguridad para prevenir la acumulación de presiones excesivas debidas a la monotonía de una autocontemplación sostenida y grave asociada con la intensa lucha por el progreso evolucionario y el logro elevado. El humor funciona también para disminuir la impresión del impacto inesperado del hecho o de la verdad, del hecho rígido y de la verdad flexible y eternamente viva. La personalidad mortal, que no está nunca segura de lo que encontrará en lo próximo, capta rápidamente a través del humorismo —llega al objetivo y logra el esclarecimiento— la naturaleza inesperada de la situación, sea ésta hecho o verdad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "El humor debería funcionar como válvula automática de seguridad para prevenir la acumulación excesiva de las presiones que conlleva la monotonía de la contemplación seria y continua de uno mismo asociada a la intensa lucha del progreso evolutivo y el logro elevado. El humor contribuye también a suavizar el impacto inesperado de un hecho o de una verdad, del hecho rígido e implacable y de la verdad flexible y eternamente viva. La personalidad del mortal, siempre insegura de lo que le espera mañana, capta rápidamente a través del humor —entiende y logra visión interior— la naturaleza inesperada de la situación, ya se trate de un hecho o una verdad."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "48:4.19",
       "pageReference": "549.6",
       "sortId": "2.048.004.019",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Aunque el humor de Urantia es excesivamente burdo y casi sin arte, sirve un propósito valioso tanto como seguro de salud como en calidad de liberador de la presión emocional, previniendo de este modo una tensión nerviosa dañina y una autocontemplación excesivamente seria. El humor y el juego —la relajación— no son nunca reacciones del esfuerzo progresivo; son siempre los ecos de una mirada hacia atrás, un recuerdo del pasado. Aun en Urantia y así como sois ahora, siempre halláis una sensación rejuvenecedora cuando podéis suspender por un corto período los esfuerzos de las luchas más nuevas y elevadas intelectuales y revertir a las ocupaciones más simples de vuestros antepasados."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "El humor de Urantia, aunque extremadamente burdo y muy poco artístico, cumple una función importante como seguro de salud y liberador de la presión emocional, al contrarrestar las tensiones nerviosas nocivas y la autocontemplación excesiva. El humor y el juego —la diversión— no son nunca reacciones de esfuerzo progresivo. Son siempre los ecos de una mirada hacia atrás, una reminiscencia del pasado. Incluso tal como sois ahora en Urantia, os sentís rejuvenecidos cuando podéis interrumpir por un momento vuestro esfuerzo intelectual hacia nuevos objetivos más elevados y volver a las ocupaciones más simples de vuestros antepasados."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "48:4.20",
       "pageReference": "550.1",
       "sortId": "2.048.004.020",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Directores de Reversión",
-      "markdown": "Los principios de la vida recreativa urantiana son filosóficamente sólidos y siguen aplicandose a lo largo de vuestra vida ascendente, y a través de los circuitos de Havona hasta las orillas eternas del Paraíso. Como seres ascendentes vosotros poseéis los recuerdos personales de todas las existencias inferiores y anteriores, y sin dichos recuerdos identificadores del pasado no habría base para el humor del presente, sea éste risa mortal o hilaridad morontial. Es este recuerdo de las experiencias pasadas el que provee la base para la diversión y la recreación presentes. Así pues disfrutaréis de los equivalentes celestiales de vuestro humor terrestre a través de toda vuestra carrera morontial, y luego, en vuestra carrera cada vez más espiritual. Y aquella parte de Dios (el Ajustador) que se vuelve la parte eterna de la personalidad de un mortal ascendente contribuye las tonalidades de divinidad a las expresiones regocijadas, aun a la risa espiritual, de las criaturas ascendentes del tiempo y del espacio."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los directores de la reversión",
+      "markdown": "Los principios recreativos de Urantia son filosóficamente válidos y continúan aplicándose durante toda vuestra vida ascendente y a través de los circuitos de Havona hasta las orillas eternas del Paraíso. Como seres ascendentes, conserváis los recuerdos personales de todas vuestras existencias anteriores e inferiores, y sin estos recuerdos identitarios del pasado no habría base para el humor del presente, ya sea la risa del mortal o el regocijo en la morontia. Es esta evocación de las experiencias del pasado la que proporciona la base para la diversión y la distracción del presente. Y así disfrutaréis de los equivalentes celestiales de vuestro humor terrenal durante todo el camino de subida de vuestra larga carrera, primero en la morontia y después cada vez más espiritual. Y es el Ajustador, esa parte de Dios que se convierte en una parte eterna de la personalidad del mortal ascendente, quien aporta los toques de divinidad a las expresiones de alegría, incluso a la risa espiritual, de las criaturas ascendentes del tiempo y el espacio."
     },
     {
       "type": "section",
@@ -1459,8 +1459,8 @@
       "standardReferenceId": "48:5.0",
       "pageReference": null,
       "sortId": "2.048.005.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
       "markdown": null
     },
     {
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "48:5.1",
       "pageReference": "550.2",
       "sortId": "2.048.005.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Los Maestros de los Mundos de Estancia constituyen un cuerpo de querubines y sanobines abandonados pero glorificados. Cuando un peregrino del tiempo avanza desde un mundo de prueba en el espacio hasta los mundos de estancia y los mundos asociados de capacitación morontial, va acompañado de su serafín personal o de grupo, el guardián del destino. En los mundos de la existencia mortal el serafín tiene el hábil apoyo de los querubines y sanobines; pero cuando su pupilo mortal se libera de las cadenas de la carne y comienza su carrera ascendente, cuando comienza la vida postmaterial o morontial, el serafín asistente ya no necesita de las ministraciones de sus lugartenientes anteriores, el querubín y el sanobín."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Las Maestras de los Mundos Mansión son un cuerpo de querubines y sanobines abandonadas pero glorificadas. Cuando un peregrino del tiempo avanza desde un mundo de prueba del espacio a los mundos mansión y sus mundos asociados de formación en la morontia, le acompaña su serafín personal o de grupo, la guardiana del destino. En los mundos de existencia mortal, la serafín está eficazmente asistida por las querubines y las sanobines; pero cuando su pupilo mortal es liberado de las ataduras de la carne y empieza su carrera ascendente, cuando comienza la vida posmaterial o en la morontia, la serafín acompañante ya no necesita la colaboración de sus antiguas lugartenientes, la querubín y la sanobín."
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "48:5.2",
       "pageReference": "550.3",
       "sortId": "2.048.005.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Estos ayudantes abandonados del serafín de ministerio frecuentemente son llamados a la sede central del universo, donde pasan al abrazo íntimo del Espíritu Materno del Universo y luego proceden a las esferas de capacitación del sistema como Maestros de los Mundos de Estancia. Estos maestros frecuentemente visitan los mundos materiales y actúan desde los mundos de estancia más bajos hasta las más elevadas de las esferas educacionales relacionadas con la sede central del universo. Según su propio solicitud pueden regresar a su anterior tarea asociativa con los serafines ministrantes."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Estas asistentes abandonadas de la serafín ministrante son convocadas con frecuencia a la sede del universo, donde pasan por el abrazo íntimo del Espíritu Madre del Universo y salen luego a las esferas de formación del sistema como Maestras de los Mundos Mansión. Estas maestras visitan a menudo los mundos materiales y actúan desde los mundos mansión más bajos hasta las más altas esferas educativas vinculadas a la sede del universo. Por iniciativa propia pueden volver a su antiguo trabajo de colaboración con las serafines ministrantes."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "48:5.3",
       "pageReference": "550.4",
       "sortId": "2.048.005.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Existen miles y miles de millones de estos maestros en Satania, y sus números aumentan constantemente porque, en la mayoría de los casos, cuando un serafín procede hacia adentro con el mortal fusionado con el Ajustador, tanto el querubín como el sanobín se quedan atrás."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Hay miles y miles de millones de estas maestras en Satania, y su número crece sin parar porque en la mayoría de los casos, cuando una serafín avanza hacia dentro con un mortal fusionado con el Ajustador, deja atrás a una querubín y una sanobín."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "48:5.4",
       "pageReference": "550.5",
       "sortId": "2.048.005.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Los Maestros de los Mundos de Estancia, como la mayoría de los demás instructores, son comisionados por los Melquisedek. En general los Compañeros Morontiales les dirigen, pero como individuos y como instructores están bajo la supervisión de los jefes interinos de las escuelas o esferas en las que puedan encontrarse enseñando."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Las Maestras de los Mundos Mansión, como la mayoría de los demás instructores, son comisionadas por los Melquisedec. En los aspectos generales son supervisadas por las Acompañantes de la Morontia, pero personalmente y como maestras están bajo la supervisión de los directores en funciones de las escuelas o de las esferas en las que estén ejerciendo como instructoras."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "48:5.5",
       "pageReference": "550.6",
       "sortId": "2.048.005.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Estos querubines avanzados generalmente trabajan en pares tal como lo hacían cuando asistían al serafín. Por naturaleza están muy cerca del tipo morontial de existencia, y son inherentemente maestros comprensivos de los mortales ascendentes y conducen con la mayor eficiencia el programa del mundo de estancia y del sistema de instrucción morontial."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Estas querubines ascendidas trabajan habitualmente en parejas igual que cuando estaban adscritas a la serafín. Están muy cerca por naturaleza del tipo de existencia de la morontia, y como maestras son inherentemente comprensivas con los mortales ascendentes. Llevan a cabo con la mayor eficiencia el programa del mundo mansión y del sistema educativo de la morontia."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "48:5.6",
       "pageReference": "551.1",
       "sortId": "2.048.005.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "En las escuelas de la vida morontial estos maestros enseñan a nivel individual, de grupo, de clase y de masa. En los mundos de estancia dichas escuelas están organizadas en tres grupos generales de cien divisiones cada uno: las facultades del pensamiento, las facultades del sentimiento, y las facultades de la acción. Cuando llegas a la constelación, se agregan las facultades de la ética, las facultades de la administración, y las facultades del ajuste social. En los mundos sede central del universo ingresarás a las facultades de filosofía, divinidad, y espiritualidad pura."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "En las escuelas de la vida en la morontia estas maestras se dedican a la enseñanza individual, por grupos, por promociones y a la enseñanza de masas. En los mundos mansión esas escuelas están organizadas en tres grupos generales de cien divisiones cada uno: las escuelas del pensamiento, las escuelas del sentimiento y las escuelas de la acción. Cuando alcanzáis la constelación se añaden las escuelas de ética, las escuelas de administración y las escuelas de ajuste social. En los mundos sede del universo ingresaréis en las escuelas de filosofía, de divinidad y de espiritualidad pura."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "48:5.7",
       "pageReference": "551.2",
       "sortId": "2.048.005.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Aquellas cosas que podrías haber aprendido en la tierra pero no aprendiste, deben ser adquiridas bajo el tutelaje de estos maestros fieles y pacientes. No existen caminos reales, atajos ni senderos fáciles al Paraíso. Sean cuales fueren las variaciones de cada itinerario, debes aprender las lecciones de una esfera antes de proceder a la siguiente; por lo menos esto es así, una vez que abandonas el mundo de tu natividad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Las cosas que podríais haber aprendido en la tierra pero que no aprendisteis deben adquirirse bajo la tutela de estas maestras fieles y pacientes. No hay caminos regios, ni atajos ni sendas fáciles al Paraíso. Con independencia de las variaciones individuales en la ruta, tenéis que dominar las lecciones de una esfera antes de pasar a la siguiente. Al menos esto es así una vez que habéis dejado vuestro mundo nativo."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "48:5.8",
       "pageReference": "551.3",
       "sortId": "2.048.005.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Uno de los propósitos de la carrera morontial es efectuar la erradicación permanente de los vestigios animales en los sobrevivientes mortales, tales como la postergación, la ambigüedad, la falta de sinceridad, el evitar los problemas, la injusticia, y la búsqueda de lo fácil. La vida en los mundos de estancia enseña muy pronto a los jóvenes pupilos morontiales que posponer no significa en ningún sentido evitar. Después de la vida en la carne, ya no se dispone del tiempo como técnica para evitar situaciones o evadir obligaciones desagradables."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Uno de los objetivos de la carrera en la morontia es erradicar para siempre en los supervivientes mortales vestigios de carácter animal tales como la procrastinación, el subterfugio, la insinceridad, el escapismo frente a los problemas, la inequidad y la búsqueda de lo fácil. La vida en mansonia enseña muy pronto a los jóvenes alumnos de la morontia que posponer no significa en ningún sentido evitar. Después de la vida en la carne, el factor tiempo ya no sirve como técnica para esquivar situaciones o eludir obligaciones desagradables."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "48:5.9",
       "pageReference": "551.4",
       "sortId": "2.048.005.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Comenzando su servicio en las esferas más bajas de estadía, los Maestros de los Mundos de Estancia avanzan, mediante la experiencia, a través de las esferas de instrucción del sistema y de la constelación hasta los mundos de capacitación de Salvington. No se los somete a ninguna disciplina especial ni antes ni después de ingresar ellos al abrazo del Espíritu Materno del Universo. Ya han sido capacitados para su tarea durante el servicio como asociados seráficos en los mundos nativos de sus pupilos de paso por los mundos de estancia. Han tenido experiencia real con estos mortales en avance en los mundos habitados. Son maestros prácticos y compasivos, sabios y comprensivos instructores, guías peritos y eficientes. Están totalmente familiarizados con los planes del esquema ascendente y tienen experiencia profunda en las fases iniciales de la carrera de progresión."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Las Maestras de los Mundos Mansión empiezan a servir en las esferas de permanencia más bajas y van avanzando con la experiencia por las esferas educativas del sistema y de la constelación hasta los mundos de formación de Salvington. No están sujetas a ninguna disciplina especial ni antes ni después de ser abrazadas por el Espíritu Madre del Universo. Ya fueron capacitadas para su trabajo mientras servían como adjuntas seráficas en los mundos nativos de sus alumnos que ahora residen en los mundos mansión. En los mundos habitados adquirieron una experiencia efectiva con dichos mortales en avance. Son maestras prácticas y compasivas, instructoras sabias y comprensivas, guías capaces y eficientes. Están plenamente familiarizadas con los planes de los ascendentes y poseen una profunda experiencia sobre las fases iniciales de la carrera de progresión."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "48:5.10",
       "pageReference": "551.5",
       "sortId": "2.048.005.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Maestros de los Mundos de Estancia",
-      "markdown": "Muchos de los más antiguos de estos maestros, los que por mucho tiempo han servido en los mundos del circuito de Salvington, son abrazados nuevamente por el Espíritu Materno del Universo, y a partir del segundo abrazo estos querubines y sanobines emergen con el estado de serafín."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las Maestras de los Mundos Mansión",
+      "markdown": "Muchas de estas maestras más antiguas, las que han servido durante mucho tiempo en los mundos del circuito de Salvington, son abrazadas de nuevo por el Espíritu Madre del Universo, y de este segundo abrazo estas querubines y sanobines emergen con el estatus de serafines."
     },
     {
       "type": "section",
@@ -1657,8 +1657,8 @@
       "standardReferenceId": "48:6.0",
       "pageReference": null,
       "sortId": "2.048.006.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
       "markdown": null
     },
     {
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "48:6.1",
       "pageReference": "551.6",
       "sortId": "2.048.006.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Aunque todas las órdenes de ángeles, desde los ayudantes planetarios hasta los serafines supremos, ministran en los mundos de estancia, los ministros de transición están más exclusivamente asignados a estas actividades. Estos ángeles son de la sexta orden de los servidores seráficos, y su ministerio está dedicado a facilitar el tránsito de las criaturas materiales y mortales desde la vida temporal en la carne hasta las primeras etapas de la existencia morontial en los siete mundos de estancia."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Aunque todos los órdenes de ángeles, desde las ayudantes planetarias hasta las serafines supremas, ejercen su ministerio en los mundos de la morontia, las ministras de la transición están asignadas más exclusivamente a estas actividades. Estas ángeles son del orden sexto de servidoras seráficas y su ministerio está dedicado a facilitar el tránsito de las criaturas materiales y mortales desde la vida temporal en la carne hasta las primeras etapas de la existencia en la morontia en los siete mundos mansión."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "48:6.2",
       "pageReference": "551.7",
       "sortId": "2.048.006.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Debéis comprender que la vida morontial de un mortal ascendente se inicia en realidad en los mundos habitados en el momento en que se concibe el alma, cuando la mente de la criatura de estado moral es habitada por el Ajustador espiritual. Y desde ese momento en adelante, el alma mortal tiene la capacidad potencial de la fusión supermortal, aun para ser reconocida en los niveles más elevados de las esferas morontiales del universo local."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Debéis comprender que la vida en la morontia de un mortal ascendente empieza realmente en los mundos habitados con la concepción del alma, en el momento en que la mente de criatura con estatus moral es habitada por el Ajustador de espíritu. A partir de ese momento el alma del mortal adquiere la capacidad potencial de actuar a nivel supramortal, incluso de ser reconocida en los niveles más altos de las esferas de la morontia del universo local."
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "48:6.3",
       "pageReference": "552.1",
       "sortId": "2.048.006.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Sin embargo, no tendréis conciencia del ministerio de los serafines de transición hasta que no lleguéis a los mundos de estancia, en los que trabajan incansablemente para el avance de sus pupilos mortales, siendo asignados para el servicio en las siguientes siete divisiones:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Sin embargo, no seréis conscientes del ministerio de las serafines de transición hasta que logréis llegar a los mundos mansión, donde trabajan sin descanso para el avance de sus alumnos mortales. Están destinadas a servir en las siete divisiones siguientes:"
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "48:6.4",
       "pageReference": "552.2",
       "sortId": "2.048.006.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "1. *Evángeles Seráficos.* En el momento en que os hacéis conscientes en los mundos de estancia, se os clasifica en los registros del sistema como espíritus en evolución. Es verdad que aún no sois verdaderos espíritus, pero ya no sois seres mortales ni materiales; os habéis embarcado en la carrera de preespiritu y habéis sido debidamente admitidos a la vida morontial."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "1. *Evangelistas seráficas*. En el momento en que recuperáis la consciencia en los mundos mansión, sois clasificados en los registros del sistema como espíritus en evolución. Es verdad que aún no sois en realidad espíritus, pero ya no sois seres mortales o materiales. Habéis emprendido la carrera de preespíritus y habéis sido debidamente admitidos en la vida de la morontia."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "48:6.5",
       "pageReference": "552.3",
       "sortId": "2.048.006.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "En los mundos de estancia los evángeles seráficos te ayudarán a elegir sabiamente entre las rutas opcionales a Edentia, Salvington, Uversa, y Havona. Si existen varias rutas igualmente aconsejables, éstas se te presentarán, y tú podrás seleccionar la que más te convenga. Estos serafines hacen luego recomendaciones a los veinticuatro consejeros en Jerusem sobre el curso que sería más aconsejable para cada alma ascendente."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "En los mundos mansión las evangelistas seráficas os ayudarán a elegir sabiamente entre las rutas opcionales a Edentia, Salvington, Uversa y Havona. Si hay varias rutas igualmente aconsejables, os las mostrarán y se os permitirá elegir la que más os atraiga. Estas serafines recomiendan luego a los veinticuatro consejeros de Jerusem el recorrido más ventajoso para cada alma ascendente."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "48:6.6",
       "pageReference": "552.4",
       "sortId": "2.048.006.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "No se te ofrece una selección sin restricciones para tu curso futuro; pero puedes elegir dentro de los límites de lo que los ministros de transición y sus superiores sabiamente determinan como lo más indicado para tu logro espiritual futuro. El mundo espiritual está gobernado por el principio del respeto de tu selección de libre albedrío, siempre y cuando el curso que puedas elegir no sea perjudicial para ti o dañino para tus compañeros."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "No se os permite decidir sin restricciones sobre vuestro curso futuro, pero podéis elegir dentro de los límites de aquello que las ministras de la transición y sus superiores establecen sabiamente como lo más adecuado para vuestro futuro logro de espíritu. El mundo del espíritu se rige por el principio del respeto a la elección de vuestro libre albedrío, siempre que el curso que elijáis no sea perjudicial para vosotros ni nocivo para vuestros compañeros."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "48:6.7",
       "pageReference": "552.5",
       "sortId": "2.048.006.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Estos evángeles seráficos están dedicados a la proclamación del evangelio de la progresión eterna, el triunfo del logro de la perfección. En los mundos de estancia proclaman la gran ley de la conservación y dominio de la bondad: Ninguna acción de bondad se pierde totalmente; puede ser frustrada durante mucho tiempo pero no se anula totalmente jamás, y es eternamente poderosa en proporción con la divinidad de su motivación."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Estas evangelistas seráficas se dedican a proclamar la doctrina del progreso eterno, el triunfo del logro de la perfección. En los mundos mansión proclaman la gran ley de la conservación y el predominio de la bondad: ningún acto bueno se pierde nunca totalmente. Puede ser frustrado durante mucho tiempo, pero nunca anulado del todo, y es eternamente poderoso en proporción con la divinidad de su motivación."
     },
     {
       "type": "paragraph",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "48:6.8",
       "pageReference": "552.6",
       "sortId": "2.048.006.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Aun en Urantia aconsejan a los maestros humanos de la verdad y la rectitud que adhieran a la predicación de «la bondad de Dios, que lleva al arrepentimiento», para proclamar «el amor de Dios, que elimina todo temor». Aun así se han declarado estas verdades en vuestro mundo:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Incluso en Urantia aconsejan a los maestros humanos de la verdad y la rectitud que se adhieran a la predicación de «la bondad de Dios que conduce al arrepentimiento», que proclamen «el amor de Dios que expulsa todo temor». Así es como se han declarado estas verdades en vuestro mundo:"
     },
     {
       "type": "paragraph",
@@ -1819,9 +1819,9 @@
       "standardReferenceId": "48:6.9",
       "pageReference": "552.7",
       "sortId": "2.048.006.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Los Dioses son mis pastores; no me descarriaré;"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Los Dioses son mis cuidadores, no me extraviaré."
     },
     {
       "type": "paragraph",
@@ -1837,9 +1837,9 @@
       "standardReferenceId": "48:6.10",
       "pageReference": "552.8",
       "sortId": "2.048.006.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;De la mano me conducirán por los bellos y gloriosos senderos refrescantes de la vida eterna."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Codo con codo, me conducen por los bellos senderos y la gloriosa renovación de la vida eterna."
     },
     {
       "type": "paragraph",
@@ -1855,9 +1855,9 @@
       "standardReferenceId": "48:6.11",
       "pageReference": "552.9",
       "sortId": "2.048.006.011",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Ante esta presencia divina no careceré de alimento ni tendré sed de agua."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;En esta Divina Presencia no tendré necesidad de alimento ni sed de agua."
     },
     {
       "type": "paragraph",
@@ -1873,9 +1873,9 @@
       "standardReferenceId": "48:6.12",
       "pageReference": "552.10",
       "sortId": "2.048.006.012",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Aunque descienda al valle de la incertidumbre o ascienda a los mundos de la duda,"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Aunque baje al valle de la incertidumbre o ascienda a los mundos de la duda,"
     },
     {
       "type": "paragraph",
@@ -1891,9 +1891,9 @@
       "standardReferenceId": "48:6.13",
       "pageReference": "552.11",
       "sortId": "2.048.006.013",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Aunque camine en soledad o con los semejantes de mi clase,"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Aunque camine en soledad o con los que son como yo,"
     },
     {
       "type": "paragraph",
@@ -1909,9 +1909,9 @@
       "standardReferenceId": "48:6.14",
       "pageReference": "552.12",
       "sortId": "2.048.006.014",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Aunque triunfe en los coros de la luz o trastabille en los ámbitos solitarios de las esferas,"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Aunque triunfe en los coros de la luz o titubee en los lugares solitarios de las esferas,"
     },
     {
       "type": "paragraph",
@@ -1927,9 +1927,9 @@
       "standardReferenceId": "48:6.15",
       "pageReference": "552.13",
       "sortId": "2.048.006.015",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Tu buen espíritu me ministrará, y tu ángel glorioso me confortará."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Tu buen espíritu me socorrerá y tu ángel gloriosa me confortará."
     },
     {
       "type": "paragraph",
@@ -1945,9 +1945,9 @@
       "standardReferenceId": "48:6.16",
       "pageReference": "552.14",
       "sortId": "2.048.006.016",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Aunque descienda a las profundidades de la obscuridad y de la muerte misma,"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Aunque descienda a las profundidades de la oscuridad y de la misma muerte,"
     },
     {
       "type": "paragraph",
@@ -1963,9 +1963,9 @@
       "standardReferenceId": "48:6.17",
       "pageReference": "552.15",
       "sortId": "2.048.006.017",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;No dudare de ti, ni te temeré,"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;No dudaré de ti ni te temeré,"
     },
     {
       "type": "paragraph",
@@ -1981,9 +1981,9 @@
       "standardReferenceId": "48:6.18",
       "pageReference": "552.16",
       "sortId": "2.048.006.018",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Porque sé que en la plenitud del tiempo y en la gloria de tu nombre"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Porque sé que en la plenitud de los tiempos y en la gloria de tu nombre"
     },
     {
       "type": "paragraph",
@@ -1999,9 +1999,9 @@
       "standardReferenceId": "48:6.19",
       "pageReference": "552.17",
       "sortId": "2.048.006.019",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "&#160;&#160;&#160;&#160;Me elevarás hasta sentarme junto a ti en los almenajes de las alturas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "&#160;&#160;&#160;&#160;Me levantarás para sentarme contigo en las almenas de lo alto."
     },
     {
       "type": "paragraph",
@@ -2017,9 +2017,9 @@
       "standardReferenceId": "48:6.20",
       "pageReference": "553.1",
       "sortId": "2.048.006.020",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Ése fue el relato susurrado al pastorcillo en la noche. No pudo él recordarlo palabra por palabra, pero con lo mejor de su memoria lo dijo más o menos tanto como se registra actualmente."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Esta declaración fue susurrada al pastorcillo en la noche. No pudo retenerla palabra por palabra, pero transmitió todo lo que pudo recordar poco más o menos como se conserva hoy."
     },
     {
       "type": "paragraph",
@@ -2035,9 +2035,9 @@
       "standardReferenceId": "48:6.21",
       "pageReference": "553.2",
       "sortId": "2.048.006.021",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Estos serafines son también los evángeles del evangelio del logro de la perfección para el entero sistema así como tambíen para el mortal ascendente individual. Aun ahora en el joven sistema de Satania sus enseñanzas y planes comprenden disposiciones para las edades futuras en las que los mundos de estancia dejarán de servir como peldaños a las esferas elevadas para los ascendentes mortales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Estas serafines son también las evangelistas de la doctrina del logro de la perfección tanto para los ascendentes individuales como para el sistema entero. Incluso ahora, en el joven sistema de Satania, sus enseñanzas y sus planes contienen disposiciones para edades futuras cuando los mundos mansión hayan dejado de servir como peldaños hacia las esferas de arriba para los ascendentes mortales."
     },
     {
       "type": "paragraph",
@@ -2053,9 +2053,9 @@
       "standardReferenceId": "48:6.22",
       "pageReference": "553.3",
       "sortId": "2.048.006.022",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "2. *Intérpretes de las Razas.* No todas las razas de seres mortales son semejantes. Es verdad que existe un modelo planetario que se manifiesta en las naturalezas y tendencias físicas, mentales y espirituales de las distintas razas de un mundo dado; pero también hay tipos raciales definidos, y tendencias sociales muy claras que caracterizan a las progenies de estos diferentes tipos básicos de seres humanos. En los mundos del tiempo, los intérpretes raciales seráficos suplementan los esfuerzos de los comisionados de la raza en la armonización de los variados puntos de vista de las razas, y continúan actuando en los mundos de estancia, en los que estas mismas diferencias tienden a persistir hasta cierto punto. En un planeta confuso, tal como Urantia, estos seres brillantes prácticamente no han tenido oportunidad justa de actuar, pero son los sociólogos hábiles y los consejeros étnicos sabios del primer cielo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "2. *Intérpretes raciales*. No todas las razas de seres mortales son iguales. Es verdad que existe un patrón planetario que aparece en la naturaleza y las tendencias físicas, mentales y espirituales de las distintas razas de un mundo dado, pero hay también tipos raciales bien diferenciados, y los vástagos de esos diferentes tipos básicos de seres humanos se caracterizan por tendencias sociales muy definidas. En los mundos del tiempo las intérpretes raciales seráficas fomentan los esfuerzos de los comisionados de las razas por armonizar los diversos puntos de vista de las razas, y siguen actuando en los mundos mansión, donde esas mismas diferencias tienden a persistir en cierta medida. En un planeta confundido como Urantia, estos seres brillantes no han llegado a tener la oportunidad de ejercer adecuadamente su función, pero son las sociólogas expertas y las sabias asesoras étnicas del primer cielo."
     },
     {
       "type": "paragraph",
@@ -2071,9 +2071,9 @@
       "standardReferenceId": "48:6.23",
       "pageReference": "553.4",
       "sortId": "2.048.006.023",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Deberíais considerar la declaración sobre «el cielo» y «el cielo de los cielos». El cielo concebido por la mayoría de vuestros profetas era el primero de los mundos de estancia del sistema local. Cuando el apóstol habló de ser «arrebatado hasta el tercer cielo», se refería a aquella experiencia en la cual su Ajustador se separó durante el sueño y en ese estado extraño se proyectó al tercero de los siete mundos de estancia. Algunos de vuestros sabios vieron la visión del cielo más grande, «el cielo de los cielos», del cual la experiencia séptuple de los mundos de estancia fue la primer parte; la segunda, Jerusem; la tercera, Edentia y sus satélites; la cuarta, Salvington y las esferas de instrucción que la rodean; la quinta, Uversa; la sexta, Havona; y la séptima, el Paraíso."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Deberíais considerar la declaración sobre «el cielo» y «el cielo de los cielos». El cielo imaginado por la mayoría de vuestros profetas era el primero de los mundos mansión del sistema local. Cuando el apóstol dijo que había sido «arrebatado hasta el tercer cielo», se refería a la experiencia en la que su Ajustador se separó durante el sueño, y en ese estado insólito, se proyectó al tercero de los siete mundos mansión. Algunos de vuestros sabios tuvieron la visión de un cielo más grande, «el cielo de los cielos», en la que la experiencia séptupla de los mundos mansión no era sino el primer cielo. El segundo era Jerusem, el tercero Edentia con sus satélites, el cuarto Salvington con las esferas educativas que lo rodean, el quinto Uversa, el sexto Havona y el séptimo el Paraíso."
     },
     {
       "type": "paragraph",
@@ -2089,9 +2089,9 @@
       "standardReferenceId": "48:6.24",
       "pageReference": "553.5",
       "sortId": "2.048.006.024",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "3. *Planificadores de la Mente.* Estos serafines están dedicados a la agrupación eficaz de los seres morontiales y a la organización de su trabajo de grupo en los mundos de estancia. Son los sicólogos del primer cielo. La mayoría de este grupo especial de ministros seráficos ha tenido experiencia anterior como ángeles guardianes de los hijos del tiempo, pero sus pupilos, por una u otra razón, no llegaron a personalizarse en los mundos de estancia o que sobrevivieron mediante la técnica de la fusión con el Espíritu."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "3. *Planificadoras de la mente*. Estas serafines se dedican a agrupar eficazmente a los seres de la morontia y a organizar su trabajo en equipo en los mundos mansión. Son las psicólogas del primer cielo. La mayoría de las ministras seráficas de esta división particular han tenido experiencia previa como ángeles guardianas de los hijos del tiempo, pero por alguna razón, sus pupilos no consiguieron personalizarse en los mundos mansión o bien sobrevivieron por la técnica de fusión con el Espíritu."
     },
     {
       "type": "paragraph",
@@ -2107,9 +2107,9 @@
       "standardReferenceId": "48:6.25",
       "pageReference": "553.6",
       "sortId": "2.048.006.025",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Es tarea de los planificadores de la mente estudiar la naturaleza, experiencia y estado de las almas con Ajustador en tránsito a través de los mundos de estancia y facilitar su clasificación respecto de su asignación y avance. Pero estos planificadores de la mente no urden ni traman, ni se aprovechan de otra manera de la ignorancia ni de otras limitaciones de los estudiantes del mundo de estancia. Son totalmente justos y eminentemente rectos. Respetan vuestra voluntad morontial recién nacida, os consideran seres volitivos independientes e intentan alentar vuestro desarrollo y avance rápidos. Aquí os encontráis cara a cara con verdaderos amigos y consejeros comprensivos, ángeles que son verdaderamente capaces de ayudaros «a veros a vosotros mismos como los demás os ven a vosotros» y «a conoceros así como los ángeles os conocen»."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "La tarea de las planificadoras de la mente consiste en estudiar la naturaleza, la experiencia y el estatus de las almas con Ajustador que están en tránsito por los mundos mansión, y ayudar a formar con ellas grupos de trabajo y de progresión. Pero estas planificadoras de la mente no conspiran, ni manipulan ni se aprovechan de ninguna manera de la ignorancia u otras limitaciones de los estudiantes de los mundos mansión. Son totalmente equitativas y eminentemente justas. Respetan vuestra recién nacida voluntad de la morontia; os consideran seres volitivos independientes y os animan a desarrollaros y avanzar con rapidez. Os encontraréis cara a cara con unas verdaderas amigas y unas consejeras comprensivas, unas ángeles que son realmente capaces de ayudaros «a veros como os ven los demás» y «a conoceros como os conocen las ángeles»."
     },
     {
       "type": "paragraph",
@@ -2125,9 +2125,9 @@
       "standardReferenceId": "48:6.26",
       "pageReference": "553.7",
       "sortId": "2.048.006.026",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Aun en Urantia, estos serafines enseñan la verdad sempiterna: si tu propia mente no te sirve bien, puedes intercambiarla por la mente de Jesús de Nazaret, que siempre te sirve bien."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Precisamente en Urantia, estas serafines enseñan esta eterna verdad: si vuestra propia mente no os sirve bien, podéis cambiarla por la mente de Jesús de Nazaret, que siempre os sirve bien."
     },
     {
       "type": "paragraph",
@@ -2143,9 +2143,9 @@
       "standardReferenceId": "48:6.27",
       "pageReference": "554.1",
       "sortId": "2.048.006.027",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "4. *Consejeros Morontiales.* Estos ministros se llaman así porque están asignados a la enseñanza, dirección y asesoramiento de los mortales sobrevivientes de los mundos de origen humano, almas en tránsito hacia las facultades superiores de la sede central del sistema. Son los maestros de aquellos que tratan de discernir la unidad experiencial de niveles divergentes de la vida, aquellos que intentan la integración de los significados y la unificación de los valores. Ésta es la función de la filosofía en la vida mortal, y de la mota en las esferas morontiales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "4. *Consejeras de la morontia*. Estas ministradoras se llaman así porque tienen la misión de enseñar, dirigir y aconsejar a los mortales supervivientes de los mundos de origen humano, a las almas en tránsito hacia las escuelas superiores de la sede del sistema. Son las maestras de los que buscan comprender mejor la unidad experiencial de los niveles divergentes de la vida, de los que intentan integrar los significados y unificar los valores. Esta es la función de la filosofía en la vida mortal y de la mota en las esferas de la morontia."
     },
     {
       "type": "paragraph",
@@ -2161,9 +2161,9 @@
       "standardReferenceId": "48:6.28",
       "pageReference": "554.2",
       "sortId": "2.048.006.028",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "La mota es más que una filosofía superior; es para la filosofía lo que son dos ojos comparados con uno; posee un efecto estereoscópico sobre los significados y los valores. El hombre material ve el universo, por así decirlo, con un solo ojo —plano. Los estudiantes de los mundos de estancia logran perspectiva cósmica —profundidad— mediante la superposición de las percepciones de la vida morontial sobre las percepciones de la vida física. Y consiguen enfocar claramente estos puntos de vista materiales y morontiales en gran parte a través del ministerio incansable de estos consejeros seráficos, quienes tan pacientemente enseñan a los estudiantes de los mundos de estancia y a los progresores morontiales. Muchos de los consejeros de enseñanza de la orden suprema de serafines comenzaron su carrera como asesores de las almas recién liberadas de los mortales del tiempo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "La mota es más que una filosofía superior; es con respecto a la filosofía lo que dos ojos con respecto a uno. Tiene un efecto estereoscópico sobre los significados y los valores. El hombre material ve el universo, por así decirlo, con un solo ojo; lo ve plano. Los estudiantes de los mundos mansión obtienen la perspectiva cósmica, la profundidad, al superponer las percepciones de la vida en la morontia a las percepciones de la vida física. Y son capaces de enfocar con claridad estos puntos de vista materiales y de la morontia gracias en gran medida al ministerio incansable de sus consejeras seráficas, que con tanta paciencia instruyen a los estudiantes de los mundos mansión y a los progresores de la morontia. Muchas de las consejeras de enseñanza del orden supremo de serafines empezaron su carrera como asesoras de las almas de los mortales del tiempo recién liberadas."
     },
     {
       "type": "paragraph",
@@ -2179,9 +2179,9 @@
       "standardReferenceId": "48:6.29",
       "pageReference": "554.3",
       "sortId": "2.048.006.029",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "5. *Técnicos.* Éstos son los serafines que ayudan a los nuevos seres ascendentes a ajustarse al medio ambiente nuevo y comparativamente ajeno de las esferas morontiales. La vida en los mundos de transición comprende un contacto auténtico con las energías y materiales tanto de los niveles físicos como de los morontiales y, hasta cierto punto, con las realidades espirituales. Los ascendenteros deben aclimatarse en cada nuevo nivel morontial, y en todo ello los técnicos seráficos los asisten grandemente. Estos serafines actúan como enlace con los Supervisores del Poder Morontial y con los Controladores Físicos Decanos y funcionan ampliamente como instructores de los peregrinos ascendentes en cuanto a la naturaleza de aquellas energías que se utilizan en las esferas de transición. Sirven como atravesadores espaciales de urgencia y realizan numerosas otras tareas regulares y especiales."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "5. *Técnicas*. Son las serafines que ayudan a los nuevos ascendentes a adaptarse al entorno nuevo y relativamente extraño de las esferas de la morontia. La vida en los mundos de transición conlleva un contacto real con las energías y los materiales tanto del nivel físico como de la morontia y, hasta cierto punto, con las realidades espirituales. Los ascendentes deben aclimatarse a cada nuevo nivel de la morontia, y las técnicas seráficas les ayudan enormemente en todas estas cosas. Estas serafines actúan como enlaces con los Supervisores del Poder de la Morontia y los Controladores Físicos Maestros y ejercen una amplia actividad como instructoras de los peregrinos ascendentes en cuanto a la naturaleza de las energías que se utilizan en las esferas de transición. Sirven como atravesadoras de emergencia del espacio y desempeñan muchas otras tareas regulares y especiales."
     },
     {
       "type": "paragraph",
@@ -2197,9 +2197,9 @@
       "standardReferenceId": "48:6.30",
       "pageReference": "554.4",
       "sortId": "2.048.006.030",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "6. *Maestros-Registradores.* Estos serafines son los registradores de las transacciones entre las zonas de lo espiritual y lo físico, de las relaciones de hombres y ángeles, de las transacciones morontiales de los reinos más bajos del universo. También sirven como instructores sobre las técnicas eficientes y eficaces de registro de hechos. Existe una artesanía en la recolección y coordinación inteligente de datos relacionados, y este arte está enaltecido en colaboración con los artesanos celestiales, y aun los ascendentes mortales se vuelven así relacionados con los serafines registradores."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "6. *Maestras-registradoras*. Estas serafines son las registradoras de las actividades fronterizas entre lo espiritual y lo físico, de las relaciones entre hombres y ángeles, de las actividades en la morontia de los mundos inferiores del universo. Sirven también como instructoras sobre las técnicas eficientes y eficaces de registro de hechos. Se requiere cierta maestría para reunir y coordinar datos relacionados de forma inteligente, y este arte se realza con la colaboración de los artesanos celestiales. Incluso los mortales ascendentes pueden afiliarse así con las serafines registradoras."
     },
     {
       "type": "paragraph",
@@ -2215,9 +2215,9 @@
       "standardReferenceId": "48:6.31",
       "pageReference": "554.5",
       "sortId": "2.048.006.031",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Los registradores de todas las órdenes seráficas dedican cierta cantidad de tiempo a la educación y capacitación de los progresores morontiales. Estos custodios angélicos de los hechos del tiempo son los instructores ideales de todos los que buscan averiguar hechos. Antes de abandonar a Jerusem, te familiarizarás completamente con la historia de Satania y de sus 619 mundos habitados, y los registradores seráficos impartirán mucho de esta historia."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Las registradoras de todos los órdenes seráficos dedican cierta cantidad de tiempo a educar y formar a los progresores de la morontia. Estas depositarias angélicas de los hechos del tiempo son las instructoras ideales de todos los buscadores de hechos. Antes de dejar Jerusem, os habréis familiarizado bien con la historia de Satania y sus 619 mundos habitados, y gran parte de esta historia os la habrán enseñado las registradoras seráficas."
     },
     {
       "type": "paragraph",
@@ -2233,9 +2233,9 @@
       "standardReferenceId": "48:6.32",
       "pageReference": "554.6",
       "sortId": "2.048.006.032",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Estos ángeles están todos dentro de la cadena de registradores que se extiende desde los custodios más bajos hasta los más elevados de los hechos del tiempo y de las verdades de la eternidad. Algún día te enseñarán a buscar la verdad así como también los hechos, a expandir tu alma así como también tu mente. Aún ahora deberías aprender a regar el jardín de tu corazón así como también a buscar las tierras áridas del conocimiento. Las formas no tienen valor cuando se aprenden las lecciones. No hay pollito sin cáscara, pero el cascarón ya no vale nada una vez que sale el pollito. Pero a veces el error es tan grande que rectificarlo mediante la revelación podría ser fatal para esas verdades que surgen lentamente y que son esenciales para reemplazar experiencialmente el error. Cuando los niños tienen sus ideales, no los desalojéis; dejadlos crecer. Y mientras aprendéis a pensar como hombres, también debéis aprender a rezar como niños."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Todas estas ángeles están dentro de la cadena de registradores que se extiende desde los más bajos depositarios de los hechos del tiempo y las verdades de la eternidad, hasta los más altos. Algún día os enseñarán a buscar tanto la verdad como los hechos, a expandir tanto vuestra alma como vuestra mente. Incluso ahora, deberíais aprender a regar el jardín de vuestro corazón y a buscar también en las arenas secas del conocimiento. Las formas no tienen valor cuando se han aprendido las lecciones. No puede haber polluelo sin cascarón, y ningún cascarón vale nada una vez que ha salido el polluelo. Pero a veces el error es tan grande que rectificarlo mediante la revelación sería fatal para aquellas verdades que emergen lentamente y que son esenciales para acabar con él por la vía experiencial. Cuando los niños tienen sus ideales, no se los quitéis; dejadlos crecer. Y mientras aprendéis a pensar como hombres, debéis también aprender a rezar como niños."
     },
     {
       "type": "paragraph",
@@ -2251,9 +2251,9 @@
       "standardReferenceId": "48:6.33",
       "pageReference": "555.1",
       "sortId": "2.048.006.033",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "La ley es la vida misma y no las reglas de su conducta. El mal es una transgresión de la ley, no una violación de las reglas de conducta que pertenecen a la vida, que *es* la ley. La falsedad no es asunto de técnica de narración sino una acción premeditada de perversión de la verdad. La creación de imágenes nuevas basadas en viejos hechos, el restablecimiento de la vida paterna en la vida de los vástagos —estos son triunfos artísticos de la verdad. La sombra del movimiento de un solo cabello, premeditada para un propósito desleal, la desviación o perversión más leve de aquello que es principio —estas constituyen la falsedad. Pero el fetiche de la verdad factualizada, la verdad fosilizada, la mano de hierro de la así llamada verdad invariable, os retiene ciegamente en el circuito cerrado de los hechos fríos. Es posible conocer técnicamente el hecho y sin embargo errar eternamente en cuanto a la verdad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "La ley es la vida misma y no sus reglas de conducta. El mal es una trasgresión de la ley, no una violación de las reglas de conducta relativas a la vida, que *es* la ley. La falsedad no es un fallo del método narrativo sino algo premeditado para tergiversar la verdad. La creación de imágenes nuevas a partir de hechos viejos, la repetición de la vida de los padres en las vidas de los hijos, esos son los triunfos artísticos de la verdad. La más mínima sombra de desviación premeditada con propósito falso, la más ligera deformación o perversión de lo que constituye un principio, eso es falsedad. Pero el fetiche de la verdad factualizada, de la verdad fosilizada, la mordaza de hierro de la llamada verdad inmutable, nos retiene ciegamente en un círculo cerrado de hechos fríos. Es posible tener razón formal en cuanto a los hechos y errar eternamente en cuanto a la verdad."
     },
     {
       "type": "paragraph",
@@ -2269,9 +2269,9 @@
       "standardReferenceId": "48:6.34",
       "pageReference": "555.2",
       "sortId": "2.048.006.034",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "7. *Reservas Ministrantes.* En el primer mundo de estancia se encuentra un amplio cuerpo de todas las órdenes de los serafines de transición. Aparte de los guardianes del destino, estos ministros de transición son los más cercanos a los humanos de todas las órdenes de los serafines, y vosotros transcurriréis con ellos muchos de vuestros momentos de esparcimiento. Los ángeles se deleitan en el servicio y, cuando no son asignados, a menudo ofrecen voluntariamente ministerio. El alma de muchos ascendentes mortales se ha entibiado por primera vez con el fuego divino de la voluntad de servir a través de una amistad personal con los servidores voluntarios de las reservas seráficas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "7. *Reservas Ministrantes*. En el primer mundo mansión se mantiene un importante contingente de todos los órdenes de serafines de transición. Entre todos los órdenes de serafines, estas ministras de la transición son, después de las guardianas del destino, las más cercanas a los humanos, y pasaréis con ellas muchos de vuestros momentos de ocio. Las ángeles disfrutan con el servicio y a menudo prestan su asistencia voluntaria cuando no tienen una misión. El alma de muchos ascendentes mortales se ha encendido por primera vez con el fuego divino de la voluntad de servir gracias a una amistad personal con las servidoras voluntarias de las reservas seráficas."
     },
     {
       "type": "paragraph",
@@ -2287,9 +2287,9 @@
       "standardReferenceId": "48:6.35",
       "pageReference": "555.3",
       "sortId": "2.048.006.035",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "De ellos aprenderás a dejar que la presión se canalice en estabilidad y certidumbre; aprenderás a ser fiel y sincero y, al mismo tiempo, alegre; a aceptar los desafíos sin quejas y a enfrentar las dificultades e incertidumbres sin temor. Ellos preguntarán: si fracasas, ¿te levantarás indomitablemente para probar de nuevo? Si triunfas, ¿mantendrás una actitud bien equilibrada —una actitud estabilizada y espiritualizada— a través de todo esfuerzo en la larga lucha por romper las cadenas de la inercia material, por lograr la libertad de la existencia espiritual?"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "De ellas aprenderéis a dejar que las tensiones evolucionen hacia la estabilidad y la certidumbre; a ser leales y responsables al tiempo que alegres; a aceptar los desafíos sin quejas y hacer frente sin miedo a las dificultades y las incertidumbres. Os preguntarán: si falláis, ¿os levantaréis indomablemente para volver a intentarlo? Si tenéis éxito, ¿mantendréis una postura equilibrada —una actitud estabilizada y espiritualizada— en todos los esfuerzos de vuestra larga lucha por romper las cadenas de la inercia material, por lograr la libertad de la existencia de espíritu?"
     },
     {
       "type": "paragraph",
@@ -2305,9 +2305,9 @@
       "standardReferenceId": "48:6.36",
       "pageReference": "555.4",
       "sortId": "2.048.006.036",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Así como los mortales, estos ángeles también han engendrado muchas desilusiones, y te harán notar que a veces tus desencantos más desilusionantes se transformaron en tus mayores bendiciones. A veces la semilla plantada necesita morir, la muerte de tus esperanzas más apreciadas, antes de poder renacer para dar los frutos de nueva vida y nueva oportunidad. De ellos aprenderás a sufrir menos penas y desencantos, primero, haciendo menos planes personales relacionados con otras personalidades, y luego, aceptando tu destino después de haber cumplido fielmente tu deber."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Igual que los mortales, estas ángeles han sufrido muchas desilusiones y os harán ver que, a veces, vuestras desilusiones más decepcionantes se han convertido en vuestras mayores bendiciones. Para plantar una semilla a veces es necesario que muera, que mueran vuestras esperanzas más queridas para poder renacer y dar los frutos de una nueva vida y una nueva oportunidad. Aprenderéis de ellas a sufrir menos penas y decepciones, primero porque haréis menos planes personales respecto a otras personalidades, y después porque aceptaréis vuestra suerte cuando hayáis cumplido fielmente vuestro deber."
     },
     {
       "type": "paragraph",
@@ -2323,9 +2323,9 @@
       "standardReferenceId": "48:6.37",
       "pageReference": "555.5",
       "sortId": "2.048.006.037",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Serafines de los Mundos Morontiales — Los Ministros de Transición",
-      "markdown": "Aprenderás que acrecientas tus cargas y disminuyes la posibilidad del triunfo si te tomas demasiado seriamente. Nada puede tomar precedencia sobre la tarea de la esfera de tu estado —de este mundo o el siguiente. La tarea de preparación para la próxima esfera es muy importante, pero nada iguala la importancia de la tarea del mundo en el cual estás viviendo actualmente. Pero aunque la *tarea* es importante, el *yo* no lo es. Cuando te sientes importante, pierdes energía a través del desgaste de la dignidad del ego, de manera que queda poca energía para realizar la tarea. La autoimportancia en lugar de la importancia de la tarea, agota a las criaturas inmaduras; es el elemento del ego el que agota, y no el esfuerzo del logro. Puedes realizar una labor importante si no te vuelves autoimportante; podrás cumplir varias tareas tan fácilmente como una sola, si prescindes de tu ego. La variedad descansa; la monotonía es la que cansa y agota. Todos los días son iguales —vida, o la alternativa de la muerte."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Las serafines de los mundos de la morontia, las ministras de la transición",
+      "markdown": "Aprenderéis que aumentáis vuestra carga y reducís vuestras posibilidades de éxito si os tomáis demasiado en serio. Nada tiene prioridad sobre el trabajo en la esfera en la que estéis situados, ya sea en este mundo o en el próximo. El trabajo de preparación para la esfera siguiente y más alta es muy importante, pero nada es tan importante como vuestro trabajo en el mundo en el que os encontráis viviendo. Sin embargo, aunque el *trabajo* es importante, el *yo* no lo es. Cuando os sentís importantes perdéis energía en el desgaste natural de la dignidad del ego, de manera que queda poca energía para hacer el trabajo. No es la importancia del trabajo sino la importancia de sí mismas lo que agota a las criaturas inmaduras. Lo que agota es el peso del yo, no el esfuerzo del logro. Podéis hacer un trabajo importante si no os dais importancia. Podéis hacer varias cosas tan fácilmente como una sola si dejáis de lado vuestro yo. La variedad es relajante, lo que desgasta y agota es la monotonía. Uno tras otro, los días corren iguales y siempre con la misma alternativa: la vida o la muerte."
     },
     {
       "type": "section",
@@ -2341,8 +2341,8 @@
       "standardReferenceId": "48:7.0",
       "pageReference": null,
       "sortId": "2.048.007.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
       "markdown": null
     },
     {
@@ -2359,9 +2359,9 @@
       "standardReferenceId": "48:7.1",
       "pageReference": "556.1",
       "sortId": "2.048.007.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "Los planos más bajos de la mota morontial se unen directamente con los niveles más elevados de la filosofía humana. En el primer mundo de estancia es práctica enseñar a los estudiantes menos avanzados mediante la técnica paralela, o sea, en una columna se presentan los conceptos más sencillos de los significados mota, y en la columna adyacente se citan declaraciones análogas de la filosofía mortal."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "Los planos más bajos de la mota de la morontia se unen directamente con los niveles más altos de la filosofía humana. En el primer mundo mansión es costumbre enseñar a los alumnos menos avanzados mediante la técnica de paralelización, o sea, en una columna se presentan los conceptos más sencillos de los significados de la mota y en la otra se recogen los enunciados análogos de la filosofía de los mortales."
     },
     {
       "type": "paragraph",
@@ -2377,9 +2377,9 @@
       "standardReferenceId": "48:7.2",
       "pageReference": "556.2",
       "sortId": "2.048.007.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "No hace mucho tiempo, mientras me hallaba ejecutando una asignación en el primer mundo de estancia de Satania, tuve ocasión de observar este método de enseñanza; y aunque no es permisible que presente el contenido mota de la lección, se me permite registrar las veintiocho declaraciones de la filosofía humana que este instructor morontial estaba utilizando como material de ilustración designado para ayudar a estos nuevos habitantes del mundo de estancia en sus primeros esfuerzos por captar el significado y el sentido de mota. Estas ilustraciones de la filosofía humana fueron:"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "No hace mucho tiempo, mientras llevaba a cabo una misión en el primer mundo mansión de Satania, tuve ocasión de observar este método de enseñanza. Y aunque no debo presentar el contenido de mota de la lección, he sido autorizado a dejar constancia de las veintiocho afirmaciones de la filosofía humana que ese instructor de la morontia estaba utilizando como material ilustrativo para ayudar a esos nuevos residentes del mundo mansión en sus primeros esfuerzos por captar la relevancia y el significado de la mota. Estos ejemplos de filosofía humana eran:"
     },
     {
       "type": "paragraph",
@@ -2395,9 +2395,9 @@
       "standardReferenceId": "48:7.3",
       "pageReference": "556.3",
       "sortId": "2.048.007.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "1. La exhibición de pericia especializada no significa posesión de capacidad espiritual. El ingenio no es un sustituto del carácter auténtico."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "1. Una manifestación de competencia especializada no significa posesión de capacidad espiritual. El ingenio no sustituye al verdadero carácter."
     },
     {
       "type": "paragraph",
@@ -2413,9 +2413,9 @@
       "standardReferenceId": "48:7.4",
       "pageReference": "556.4",
       "sortId": "2.048.007.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "2. Pocas personas viven a la altura de la fe que realmente tienen. El temor sin raciocinio es un poderoso fraude intelectual practicado sobre el alma mortal en evolución."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "2. Pocas personas viven a la altura de la fe que realmente tienen. Infundir un miedo irracional en el alma de un mortal en evolución es un fraude intelectual superlativo."
     },
     {
       "type": "paragraph",
@@ -2431,9 +2431,9 @@
       "standardReferenceId": "48:7.5",
       "pageReference": "556.5",
       "sortId": "2.048.007.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "3. No se pueden exceder las capacidades inherentes; una botella de medio litro no podrá contener jamás un litro. El concepto espiritual no puede ser forzado en forma mecánica dentro del molde de la memoria material."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "3. Las capacidades inherentes no se pueden sobrepasar; en medio litro nunca cabrá un litro. Los conceptos de espíritu no se pueden forzar mecánicamente para que entren en el molde de la memoria material."
     },
     {
       "type": "paragraph",
@@ -2449,9 +2449,9 @@
       "standardReferenceId": "48:7.6",
       "pageReference": "556.6",
       "sortId": "2.048.007.006",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "4. Pocos mortales se atreven jamás a sumar los créditos de la personalidad establecidos por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son en verdad ricas, pero se niegan a creerlo."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "4. Pocos mortales se atreven nunca a sumar los activos de su personalidad dispensados por el ministerio combinado de la naturaleza y de la gracia. La mayoría de las almas empobrecidas son verdaderamente ricas, pero se niegan a creerlo."
     },
     {
       "type": "paragraph",
@@ -2467,9 +2467,9 @@
       "standardReferenceId": "48:7.7",
       "pageReference": "556.7",
       "sortId": "2.048.007.007",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "5. Las dificultades pueden desafiar la mediocridad y derrotar al temeroso, pero sirven de estímulo para los verdaderos hijos de los Altísimos."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "5. Las dificultades pueden desafiar a los mediocres y derrotar a los temerosos, pero para los verdaderos hijos de los Altísimos solo sirven de estímulo."
     },
     {
       "type": "paragraph",
@@ -2485,9 +2485,9 @@
       "standardReferenceId": "48:7.8",
       "pageReference": "556.8",
       "sortId": "2.048.007.008",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "6. Disfrutar de privilegio sin abuso, contar con libertad sin libertinaje, poseer poder y no utilizarlo nunca para el propio engrandecimiento —estas son las señas de la civilización elevada."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "6. El privilegio sin abuso, la libertad sin libertinaje y el poder jamás utilizado para el engrandecimiento propio son los distintivos de una alta civilización."
     },
     {
       "type": "paragraph",
@@ -2503,9 +2503,9 @@
       "standardReferenceId": "48:7.9",
       "pageReference": "556.9",
       "sortId": "2.048.007.009",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "7. No ocurren accidentes ciegos e impredecibles en el cosmos. Tampoco ayudan los seres celestiales a los seres inferiores que se niegan a guiarse por su luz de la verdad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "7. Así como en el cosmos no ocurren accidentes ciegos ni imprevistos, los seres celestiales tampoco ayudan a un ser más bajo cuando se niega a actuar según su luz de verdad."
     },
     {
       "type": "paragraph",
@@ -2521,9 +2521,9 @@
       "standardReferenceId": "48:7.10",
       "pageReference": "556.10",
       "sortId": "2.048.007.010",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "8. El esfuerzo no siempre produce el deleite, pero no hay felicidad sin esfuerzo inteligente."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "8. El esfuerzo no siempre produce alegría, pero no hay felicidad sin esfuerzo inteligente."
     },
     {
       "type": "paragraph",
@@ -2539,9 +2539,9 @@
       "standardReferenceId": "48:7.11",
       "pageReference": "556.11",
       "sortId": "2.048.007.011",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "9. La acción logra la fuerza; la moderación resulta en el encanto."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "9. La acción produce fuerza, la moderación, encanto."
     },
     {
       "type": "paragraph",
@@ -2557,9 +2557,9 @@
       "standardReferenceId": "48:7.12",
       "pageReference": "556.12",
       "sortId": "2.048.007.012",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "10. La rectitud hace sonar las cuerdas armónicas de la verdad, y la melodía vibra a través del cosmos hasta el reconocimiento del Infinito."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "10. La rectitud toca los acordes armónicos de la verdad y su melodía vibra por todo el cosmos, incluso hasta donde la reconoce el Infinito."
     },
     {
       "type": "paragraph",
@@ -2575,9 +2575,9 @@
       "standardReferenceId": "48:7.13",
       "pageReference": "556.13",
       "sortId": "2.048.007.013",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "11. Los débiles se permiten resoluciones, pero los fuertes actúan. La vida no es sino un día de trabajo —hacedlo bien. La acción es nuestra; las consecuencias, de Dios."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "11. Mientras los débiles se dedican a hacer buenos propósitos, los fuertes actúan. La vida no es más que un día de trabajo, hacedlo bien. La acción es nuestra; las consecuencias, de Dios."
     },
     {
       "type": "paragraph",
@@ -2593,9 +2593,9 @@
       "standardReferenceId": "48:7.14",
       "pageReference": "556.14",
       "sortId": "2.048.007.014",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "12. La mayor aflicción del cosmos consiste en jamás haber tenido aflicciones. Los mortales tan sólo aprenden la sabiduría a través de la experiencia de las tribulaciones."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "12. La mayor aflicción del cosmos es no haber estado nunca afligido. Los mortales solo aprenden sabiduría a través de las tribulaciones."
     },
     {
       "type": "paragraph",
@@ -2611,9 +2611,9 @@
       "standardReferenceId": "48:7.15",
       "pageReference": "556.15",
       "sortId": "2.048.007.015",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "13. Las estrellas se disciernen mejor en el aislamiento solitario de las profundidades experienciales, y no desde las cimas iluminadas y estáticas de las montañas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "13. Las estrellas se perciben mejor desde el aislamiento solitario de las profundidades experienciales, no desde las cimas iluminadas y extáticas de las montañas."
     },
     {
       "type": "paragraph",
@@ -2629,9 +2629,9 @@
       "standardReferenceId": "48:7.16",
       "pageReference": "556.16",
       "sortId": "2.048.007.016",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "14. Estimulad el apetito por la verdad de vuestros asociados; ofreced consejo tan sólo cuando se os pide."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "14. Estimulad el apetito de vuestros compañeros por la verdad. Dad consejo solo cuando os lo pidan."
     },
     {
       "type": "paragraph",
@@ -2647,9 +2647,9 @@
       "standardReferenceId": "48:7.17",
       "pageReference": "557.1",
       "sortId": "2.048.007.017",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "15. La afectación es el esfuerzo ridículo de los ignorantes por parecer sabios, el intento del alma estéril por parecer rica."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "15. La afectación es el esfuerzo ridículo del ignorante por parecer sabio, el intento del alma estéril por parecer rica."
     },
     {
       "type": "paragraph",
@@ -2665,9 +2665,9 @@
       "standardReferenceId": "48:7.18",
       "pageReference": "557.2",
       "sortId": "2.048.007.018",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "16. No podéis percibir la verdad espiritual hasta tanto no la experimentéis con los sentimientos, y muchas verdades no son realmente sentidas excepto en las adversidades."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "16. No podréis percibir la verdad espiritual hasta que sintáis su experiencia, y muchas verdades solo se sienten realmente en la adversidad."
     },
     {
       "type": "paragraph",
@@ -2683,9 +2683,9 @@
       "standardReferenceId": "48:7.19",
       "pageReference": "557.3",
       "sortId": "2.048.007.019",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "17. La ambición es peligrosa hasta que no se la socializa plenamente. No habréis adquirido en verdad virtud alguna hasta tanto vuestras acciones no os hagan merecedores de ella."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "17. La ambición es peligrosa mientras no está plenamente socializada. No habréis adquirido de verdad una virtud hasta que vuestros actos os hagan dignos de ella."
     },
     {
       "type": "paragraph",
@@ -2701,9 +2701,9 @@
       "standardReferenceId": "48:7.20",
       "pageReference": "557.4",
       "sortId": "2.048.007.020",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "18. La impaciencia es un veneno del espíritu; la ira es como una piedra arrojada en un nido de avispas."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "18. La impaciencia es un veneno del espíritu. La ira es como una piedra que se arroja en un avispero."
     },
     {
       "type": "paragraph",
@@ -2719,9 +2719,9 @@
       "standardReferenceId": "48:7.21",
       "pageReference": "557.5",
       "sortId": "2.048.007.021",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "19. Abandonad toda ansiedad. Los desencantos más difíciles de soportar son los que no llegan nunca."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "19. Hay que eliminar la ansiedad. Las decepciones más difíciles de soportar son las que no llegan nunca."
     },
     {
       "type": "paragraph",
@@ -2737,9 +2737,9 @@
       "standardReferenceId": "48:7.22",
       "pageReference": "557.6",
       "sortId": "2.048.007.022",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "20. Sólo un poeta puede discernir poesía en la prosa común de la existencia rutinaria."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "20. Solo un poeta puede percibir poesía en la prosa corriente de la existencia rutinaria."
     },
     {
       "type": "paragraph",
@@ -2755,9 +2755,9 @@
       "standardReferenceId": "48:7.23",
       "pageReference": "557.7",
       "sortId": "2.048.007.023",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "21. La misión elevada de todo arte es, mediante sus ilusiones, anticipar una realidad universal más elevada, cristalizar las emociones del tiempo en el pensamiento de la eternidad."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "21. La alta misión de todo arte es prefigurar mediante sus ilusiones una realidad más alta del universo, cristalizar las emociones del tiempo en el pensamiento de la eternidad."
     },
     {
       "type": "paragraph",
@@ -2773,9 +2773,9 @@
       "standardReferenceId": "48:7.24",
       "pageReference": "557.8",
       "sortId": "2.048.007.024",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "22. El alma en evolución no se vuelve divina por lo que haga, sino por lo que trata de hacer."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "22. El alma en evolución no se convierte en divina por lo que hace, sino por lo que se esfuerza en hacer."
     },
     {
       "type": "paragraph",
@@ -2791,9 +2791,9 @@
       "standardReferenceId": "48:7.25",
       "pageReference": "557.9",
       "sortId": "2.048.007.025",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "23. La muerte nada agregó a la posesión intelectual ni a la dote espiritual, pero agregó al estado experiencial la conciencia de la *supervivencia.*"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "23. La muerte no ha añadido nada a las posesiones intelectuales ni a la dotación espiritual, pero ha añadido al estatus experiencial la consciencia de la *supervivencia*."
     },
     {
       "type": "paragraph",
@@ -2809,9 +2809,9 @@
       "standardReferenceId": "48:7.26",
       "pageReference": "557.10",
       "sortId": "2.048.007.026",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "24. El destino de la eternidad está determinado de momento en momento por los logros del vivir de día en día. Las acciones de hoy son el destino de mañana."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "24. El destino de la eternidad se determina momento a momento por los logros del vivir de cada día. Los actos de hoy son el destino de mañana."
     },
     {
       "type": "paragraph",
@@ -2827,9 +2827,9 @@
       "standardReferenceId": "48:7.27",
       "pageReference": "557.11",
       "sortId": "2.048.007.027",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "25. La grandeza yace no tanto en poseer fuerza como en hacer un uso sabio y divino de dicha fuerza."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "25. La grandeza no consiste tanto en poseer fuerza como en hacer un uso sabio y divino de esa fuerza."
     },
     {
       "type": "paragraph",
@@ -2845,9 +2845,9 @@
       "standardReferenceId": "48:7.28",
       "pageReference": "557.12",
       "sortId": "2.048.007.028",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "26. El conocimiento tan sólo se posee si se lo comparte; está protegido por la sabiduría y es socializado por el amor."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "26. El conocimiento solo se posee si se comparte; la sabiduría lo salvaguarda y el amor lo socializa."
     },
     {
       "type": "paragraph",
@@ -2863,9 +2863,9 @@
       "standardReferenceId": "48:7.29",
       "pageReference": "557.13",
       "sortId": "2.048.007.029",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "27. El progreso exige el desarrollo de la individualidad; la mediocridad busca la perpetuación en la estandarización."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "27. El progreso exige desarrollar la individualidad; la mediocridad busca perpetuarse en la uniformidad."
     },
     {
       "type": "paragraph",
@@ -2881,9 +2881,9 @@
       "standardReferenceId": "48:7.30",
       "pageReference": "557.14",
       "sortId": "2.048.007.030",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "28. La defensa argumentativa de cualquier posición es inversamente proporcional a la verdad que contiene."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "28. La argumentación necesaria para defender cualquier proposición es inversamente proporcional a la verdad que contiene."
     },
     {
       "type": "paragraph",
@@ -2899,9 +2899,9 @@
       "standardReferenceId": "48:7.31",
       "pageReference": "557.15",
       "sortId": "2.048.007.031",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "La Mota Morontial",
-      "markdown": "Ésta es la tarea de los principiantes en el primer mundo de estancia, mientras que otros alumnos más avanzados en los mundos siguientes comienzan a dominar los niveles más elevados del discernimiento cósmico y de la mota morontial."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "La mota de la morontia",
+      "markdown": "Este es el trabajo de los principiantes del primer mundo mansión, mientras que en los mundos siguientes, otros alumnos más avanzados van dominando los niveles más altos de la visión interior cósmica y la mota de la morontia."
     },
     {
       "type": "section",
@@ -2917,8 +2917,8 @@
       "standardReferenceId": "48:8.0",
       "pageReference": null,
       "sortId": "2.048.008.000",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
       "markdown": null
     },
     {
@@ -2935,9 +2935,9 @@
       "standardReferenceId": "48:8.1",
       "pageReference": "557.16",
       "sortId": "2.048.008.001",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
-      "markdown": "Desde el momento de la graduación de los mundos de estancia hasta el logro del estado espiritual en la carrera superuniversal, los mortales ascendentes son denominados progresores morontiales. Vuestro pasaje a través de esta maravillosa vida limítrofe constituirá una experiencia inolvidable, un recuerdo encantador. Es la compuerta evolucionaria a la vida espiritual y el logro futuro de la perfección de la criatura, mediante el cual los seres ascendentes alcanzan el objetivo del tiempo: hallar a Dios en el Paraíso."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
+      "markdown": "Desde su graduación en los mundos mansión hasta que alcanzan el estatus de espíritu en su carrera en el superuniverso, los mortales ascendentes se denominan progresores de la morontia. Vuestro paso por esta maravillosa vida fronteriza será una experiencia inolvidable, un recuerdo encantador. Es el portal evolutivo hacia la vida de espíritu y hacia el logro final de la perfección como criatura que lleva a los ascendentes a alcanzar la meta del tiempo: el encuentro con Dios en el Paraíso."
     },
     {
       "type": "paragraph",
@@ -2953,9 +2953,9 @@
       "standardReferenceId": "48:8.2",
       "pageReference": "557.17",
       "sortId": "2.048.008.002",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
-      "markdown": "Existe un propósito definido y divino en todo este esquema morontial y posteriormente espiritual de progresión mortal, esta compleja escuela de capacitación universal para las criaturas ascendentes. Es designio de los Creadores ofrecer a las criaturas del tiempo una oportunidad de aprendizaje gradual de los detalles de la operación y administración del gran universo, y este prolongado curso de capacitación se cumple mejor permitiendo que los mortales sobrevivientes asciendan gradualmente y con participación real cada peldaño de la ascensión."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
+      "markdown": "Hay un propósito inequívoco y divino en todo este programa de progresión de los mortales primero en la morontia y luego en el espíritu, en esta minuciosa escuela de formación en el universo para las criaturas ascendentes. El designio de los Creadores consiste en ofrecer a las criaturas del tiempo una oportunidad escalonada de dominar los detalles del funcionamiento y la administración del gran universo, y este largo curso de formación se lleva mejor a cabo haciendo que los mortales supervivientes vayan escalando de forma gradual y participen efectivamente en cada etapa del ascenso."
     },
     {
       "type": "paragraph",
@@ -2971,9 +2971,9 @@
       "standardReferenceId": "48:8.3",
       "pageReference": "558.1",
       "sortId": "2.048.008.003",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
-      "markdown": "El plan de supervivencia mortal tiene un objetivo práctico y útil; no sois los receptores de toda esta labor divina y capacitación cuidadosa tan sólo para que podáis sobrevivir y disfrutar de la beatitud sin fin y de la facilidad eterna. Existe un objetivo de servicio trascendental que se oculta más allá del horizonte de la presente edad del universo. Si los Dioses hubiesen decidido meramente llevaros a través de una larga y eterna excursión de deleite, con certeza no hubiesen transformado el universo entero hasta tal punto en una vasta y complicada escuela de capacitación práctica, solicitando una parte sustancial de la creación celestial como maestros e instructores, y luego pasar edades tras edades dirigiéndoos uno por uno, a través de esta gigantesca escuela universal de capacitación experiencial. El adelanto del esquema de la progresión mortal parece ser una de las ocupaciones principales del universo organizado presente, y la mayoría de las innumerables órdenes de inteligencias creadas están ocupadas directa o indirectamente en el avance de alguna fase de este plan progresivo de perfección."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
+      "markdown": "El plan de supervivencia de los mortales tiene un objetivo práctico y útil. No sois los destinatarios de toda esta labor divina y toda esta esmerada formación solo para que podáis sobrevivir y disfrutar de la dicha sin fin y el bienestar eterno. Hay una meta de servicio trascendente oculta más allá del horizonte de la presente edad del universo. Si los Dioses solo hubieran planeado llevaros a una larga excursión de gozo eterno, no habrían convertido todo el universo en una escuela de formación práctica tan inmensa e intrincada, no habrían destinado a una parte importante de la creación celestial al papel de maestros e instructores y no habrían pasado luego edades y edades pilotándoos uno a uno por esa gigantesca escuela de formación experiencial en el universo. El desarrollo del programa de progresión del mortal parece ser uno de los asuntos principales del presente universo organizado, y la mayoría de los innumerables órdenes de inteligencias creadas se dedica directa o indirectamente a hacer avanzar algún aspecto de este plan progresivo de perfección."
     },
     {
       "type": "paragraph",
@@ -2989,9 +2989,9 @@
       "standardReferenceId": "48:8.4",
       "pageReference": "558.2",
       "sortId": "2.048.008.004",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
-      "markdown": "Al atravesar la escala ascendente de la existencia viva desde el hombre mortal hasta el abrazo de la Deidad, vosotros en verdad vivís la vida misma de toda etapa y fase posible de la existencia de la criatura perfeccionada dentro de los límites de la presente edad universal. El tramo desde hombre mortal hasta finalista paradisiaco comprende todo lo que puede ser ahora —abraza todo lo que es presentemente posible para las órdenes vivientes de criaturas inteligentes, perfeccionadas, finitas. Si el destino futuro de los finalistas paradisiacos es el servicio en los nuevos universos ahora en formación, es seguro que en esta nueva y futura creación no habrá órdenes creadas de seres experienciales cuyas vidas sean totalmente diferentes de aquellas que han vivido los finalistas mortales en algún mundo como parte de su capacitación ascendente, como una de las etapas de su progreso de duración milenaria desde animal hasta ángel y desde ángel hasta espíritu y desde espíritu hasta Dios."
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
+      "markdown": "Al atravesar la escala ascendente de existencia viva desde hombre mortal hasta el abrazo de la Deidad, vivís la vida misma de toda posible fase y etapa de existencia de la criatura perfeccionada dentro de los límites de la presente edad del universo. Entre el hombre mortal y el finalitario del Paraíso queda abarcado todo lo que ahora se puede ser, está contenido todo lo que es posible en el presente para los órdenes vivos de seres criatura finitos inteligentes y perfeccionados. Si el destino futuro de los finalitarios del Paraíso es servir en nuevos universos que están ahora en formación, es seguro que en esa nueva creación futura no habrá órdenes creados de seres experienciales cuyas vidas sean completamente distintas de las que han vivido los finalitarios mortales en algún mundo como parte de su formación ascendente, como una de las etapas de su progreso multisecular de animal a ángel, de ángel a espíritu y de espíritu hasta Dios."
     },
     {
       "type": "paragraph",
@@ -3007,9 +3007,9 @@
       "standardReferenceId": "48:8.5",
       "pageReference": "558.3",
       "sortId": "2.048.008.005",
-      "paperTitle": "La Vida Morontial",
-      "sectionTitle": "Los Progresores Morontiales",
-      "markdown": "[Presentado por un Arcángel de Nebadon.]"
+      "paperTitle": "La vida en la morontia",
+      "sectionTitle": "Los progresores de la morontia",
+      "markdown": "[Presentado por un arcángel de Nebadon.]"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/index.md",
-  "source_sha256": "2c180b1f06cd16171a35d121f7228313348d017a81897438d1986ed474b90a6e",
+  "source_sha256": "dbf36cdc23085862e6f708c903683c6970ef089e3c0e93956afff148ce54414f",
   "rows": [
     {
       "type": "part",
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "La Historia de Urantia",
-      "partSponsorship": "Estos documentos fueron auspiciados por un Cuerpo de Personalidades del Universo Local que actúan por autoridad de Gabriel de Salvington."
+      "partTitle": "Historia de Urantia",
+      "partSponsorship": "Estos documentos fueron patrocinados por un cuerpo de personalidades del universo local que actúa por autorización de Gabriel de Salvington."
     }
   ]
 }

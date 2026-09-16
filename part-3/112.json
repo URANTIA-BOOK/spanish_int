@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/112.md",
-  "source_sha256": "743ab8509a2f18a90d832561640292f6b846ffbaf0ba65a75efa3ff115487599",
+  "source_sha256": "6e7ebb7a2b70c2ade9a8ecd3fb09170410980332e1e8b038e5bd5eeaf77b137b",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "112:0.0",
       "pageReference": null,
       "sortId": "3.112.000.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "112:0.0",
       "pageReference": null,
       "sortId": "3.112.000.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "112:0.1",
       "pageReference": "1225.1",
       "sortId": "3.112.000.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "LOS planetas evolucionarios son las esferas del origen humano, los mundos iniciales de la carrera mortal ascendente. Urantia es tu punto de partida; aquí tú y tu Ajustador del Pensamiento divino os combináis en una unión temporal. Has recibido el don de una guía perfecta; por lo tanto, si corres la carrera del tiempo con sinceridad y ganas la meta final de la fe, la recompensa de las edades será tuya; estarás eternamente unido con tu Ajustador residente. Allí empezarás tu vida real, la vida de ascensión, de la cual tu estado mortal presente es tan sólo el vestíbulo. Luego comenzaréis vuestra misión exaltada y progresiva como finalistas en la eternidad que se extiende ante vosotros. Y a través de todas estas edades y etapas sucesivas de crecimiento evolucionario, existe una parte de ti que permanece absolutamente inalterada, y ésa es la personalidad —la permanencia en presencia del cambio."
+      "markdown": "LOS planetas evolutivos son las esferas del origen humano, los mundos iniciales de la carrera ascendente del mortal. Urantia es vuestro punto de partida, y ahí os juntáis en una unión temporal con vuestro divino Ajustador del Pensamiento. Habéis sido dotados de un guía perfecto, por eso, si corréis sinceramente la carrera del tiempo y alcanzáis la meta final de la fe, la recompensa de las edades será vuestra y quedaréis unidos para la eternidad con vuestro Ajustador interior. Entonces empezará vuestra vida real, la vida ascendente, que tiene como antesala el estado mortal en el que os encontráis ahora. Será el comienzo de vuestra misión excelsa y progresiva como finalitarios en la eternidad que se extiende ante vosotros. Durante todas estas edades y etapas sucesivas de crecimiento evolutivo, una parte de vosotros permanece absolutamente inalterable, y esa es precisamente la personalidad: la permanencia en presencia del cambio."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "112:0.2",
       "pageReference": "1225.2",
       "sortId": "3.112.000.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "Aunque sería presuntuoso intentar definir la personalidad, puede resultar útil un recuento de algunas de las cosas que se conocen sobre la personalidad:"
+      "markdown": "Aunque sería un atrevimiento intentar definir la personalidad, puede resultar útil enumerar algunas de las cosas que se conocen sobre la personalidad:"
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "112:0.3",
       "pageReference": "1225.3",
       "sortId": "3.112.000.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "1. La personalidad es esa cualidad en la realidad donada por el Padre Universal mismo o por el Actor Conjunto, que actúa en nombre del Padre."
+      "markdown": "1. La personalidad es una cualidad de la realidad que es otorgada por el propio Padre Universal o por el Actor Conjunto en nombre del Padre."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "112:0.4",
       "pageReference": "1225.4",
       "sortId": "3.112.000.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "2. Cualquier sistema viviente de energía que incluya la mente o el espíritu, puede recibir este don."
+      "markdown": "2. Puede ser otorgada a cualquier sistema vivo de energía que contenga mente o espíritu."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "112:0.5",
       "pageReference": "1225.5",
       "sortId": "3.112.000.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "3. No está totalmente sujeta a las cadenas de la causación antecedente. Es relativamente creadora o cocreadora."
+      "markdown": "3. No está enteramente sujeta a las cadenas de la causalidad antecedente. Es relativamente creativa o cocreativa."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "112:0.6",
       "pageReference": "1225.6",
       "sortId": "3.112.000.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "4. Cuando la reciben las criaturas materiales evolucionarias, hace que el espíritu anhele el dominio de la energía-materia a través de la mediación de la mente."
+      "markdown": "4. Cuando es otorgada a criaturas materiales evolutivas hace que el espíritu se esfuerce por dominar la materia-energía por mediación de la mente."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "112:0.7",
       "pageReference": "1225.7",
       "sortId": "3.112.000.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "5. La personalidad, aunque no tiene identidad, puede unificar la identidad de cualquier sistema viviente de energía."
+      "markdown": "5. Aunque desprovista de identidad, la personalidad puede unificar la identidad de cualquier sistema vivo de energía."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "112:0.8",
       "pageReference": "1225.8",
       "sortId": "3.112.000.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "6. Tan sólo revela respuestas cualitativas al circuito de personalidad, en contraste con las tres energías que muestran respuestas tanto cualitativas como cuantitativas a la gravedad."
+      "markdown": "6. Responde solo cualitativamente al circuito de la personalidad, a diferencia de las tres energías que muestran una respuesta tanto cualitativa como cuantitativa a la gravedad."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "112:0.9",
       "pageReference": "1225.9",
       "sortId": "3.112.000.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "7. La personalidad es inalterable en presencia del cambio."
+      "markdown": "7. La personalidad no cambia en presencia del cambio."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "112:0.10",
       "pageReference": "1225.10",
       "sortId": "3.112.000.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "8. Puede dar un don a Dios: dedicación del libre albedrío a hacer la voluntad de Dios."
+      "markdown": "8. Puede hacer un regalo a Dios: dedicar el libre albedrío a hacer la voluntad de Dios."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "112:0.11",
       "pageReference": "1225.11",
       "sortId": "3.112.000.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "9. Se caracteriza por la moralidad —consciencia de la relatividad de las relaciones con otras personas. Discierne los niveles de conducta y discrimina selectivamente entre ellos."
+      "markdown": "9. Se caracteriza por la moralidad, la consciencia de la relatividad de las relaciones con otras personas. Percibe niveles de conducta y discrimina selectivamente entre ellos."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "112:0.12",
       "pageReference": "1225.12",
       "sortId": "3.112.000.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "10. La personalidad es única, absolutamente única: es única en el tiempo y en el espacio; es única en la eternidad y en el Paraíso; es única cuando se la recibe como don —no hay duplicados; es única durante cada momento de la existencia; es única en relación a Dios —él no tiene favoritos, pero tampoco las suma entre sí, porque no son sumables —son asociables pero no totalizables."
+      "markdown": "10. La personalidad es única, absolutamente única. Es única en el tiempo y en el espacio. Es única en la eternidad y en el Paraíso. Es única cuando es otorgada (no hay duplicados). Es única durante todos los momentos de la existencia. Es única con relación a Dios, que no hace acepción de personas pero que tampoco las suma porque no son sumables (son asociables pero no totalizables)."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "112:0.13",
       "pageReference": "1226.1",
       "sortId": "3.112.000.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "11. La personalidad responde directamente a la presencia de otras personalidades."
+      "markdown": "11. La personalidad reacciona directamente a la presencia de otra personalidad."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "112:0.14",
       "pageReference": "1226.2",
       "sortId": "3.112.000.014",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "12. Es la cosa singular que se puede agregar al espíritu, ilustrando así la primacía del Padre en relación con el Hijo. (La mente no necesita ser agregada al espíritu)."
+      "markdown": "12. Es la única cosa que se puede añadir al espíritu, e ilustra así la primacía del Padre con relación al Hijo. (La mente no necesita ser añadida al espíritu)."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "112:0.15",
       "pageReference": "1226.3",
       "sortId": "3.112.000.015",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "13. La personalidad puede sobrevivir a la muerte mortal con identidad en el alma sobreviviente. El Ajustador y la personalidad son inalterables; la relación entre ellos (en el alma) no es sino cambio, evolución continuada; y si este cambio (crecimiento) cesara, el alma cesaría."
+      "markdown": "13. La personalidad puede sobrevivir a la muerte y mantener su identidad en el alma superviviente. Ni el Ajustador ni la personalidad cambian, pero la relación entre ambos (en el alma) no es más que cambio, evolución permanente. Y si este cambio (este crecimiento) cesara, el alma cesaría."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "112:0.16",
       "pageReference": "1226.4",
       "sortId": "3.112.000.016",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
+      "paperTitle": "La supervivencia de la personalidad",
       "sectionTitle": null,
-      "markdown": "14. La personalidad es consciente en forma única del tiempo, y esto es algo distinto de la percepción del tiempo que tienen la mente o el espíritu."
+      "markdown": "14. La personalidad es consciente del tiempo de forma única y muy distinta de la percepción del tiempo que tienen la mente o el espíritu."
     },
     {
       "type": "section",
@@ -343,8 +343,8 @@
       "standardReferenceId": "112:1.0",
       "pageReference": null,
       "sortId": "3.112.001.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
       "markdown": null
     },
     {
@@ -361,9 +361,9 @@
       "standardReferenceId": "112:1.1",
       "pageReference": "1226.5",
       "sortId": "3.112.001.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "El Padre Universal otorga la personalidad a sus criaturas como un don potencialmente eterno. Tal don divino está destinado a funcionar en numerosos niveles y en situaciones universales sucesivas que van desde lo finito más bajo a lo absonito más elevado, aun hasta los límites de lo absoluto. La personalidad funciona pues en tres planes cósmicos o en tres fases universales:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "El Padre Universal otorga la personalidad a sus criaturas en forma de dotación potencialmente eterna. Este don divino está diseñado para actuar en numerosos niveles y en situaciones sucesivas del universo que van desde lo finito más humilde hasta lo absonito más elevado e incluso hasta las fronteras de lo absoluto. La personalidad actúa así en tres planos cósmicos o en tres posiciones del universo:"
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "112:1.2",
       "pageReference": "1226.6",
       "sortId": "3.112.001.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "1. *Estado de ubicación.* La personalidad funciona con igual eficiencia en el universo local, en el superuniverso y en el universo central."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "1. *El estatus de posición*. La personalidad actúa con la misma eficacia en el universo local, en el superuniverso y en el universo central."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "112:1.3",
       "pageReference": "1226.7",
       "sortId": "3.112.001.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "2. *Estado de significado.* La personalidad funciona eficazmente en los niveles de lo finito, lo absonito y aun junto a los límites de lo absoluto."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "2. *El estatus de significado*. La personalidad desempeña eficazmente su papel en los niveles de lo finito, de lo absonito e incluso cuando incide en lo absoluto."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "112:1.4",
       "pageReference": "1226.8",
       "sortId": "3.112.001.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "3. *Estado de valor.* La personalidad se puede realizar experiencialmente en los reinos progresivos de lo material, lo morontial y lo espiritual."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "3. *El estatus de valor*. La personalidad se puede realizar experiencialmente en los dominios progresivos de lo material, lo morontial y lo espiritual."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "112:1.5",
       "pageReference": "1226.9",
       "sortId": "3.112.001.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "La personalidad tiene una gama perfeccionada de actuación dimensional cósmica. Las dimensiones de la personalidad finita son tres, y son funcionales a grandes rasgos como sigue:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "La personalidad tiene un ámbito perfeccionado de rendimiento dimensional cósmico. Las dimensiones de la personalidad finita son tres y actúan en líneas generales como sigue:"
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "112:1.6",
       "pageReference": "1226.10",
       "sortId": "3.112.001.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "1. *La longitud* representa la dirección y naturaleza de la progresión —movimiento a través del espacio y según el tiempo— evolución."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "1. *La longitud* representa la dirección y la naturaleza de la progresión, el movimiento a través del espacio y conforme al tiempo, la evolución."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "112:1.7",
       "pageReference": "1226.11",
       "sortId": "3.112.001.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "2. *La profundidad* vertical comprende los impulsos y actitudes del organismo, los variados niveles de autorrealización y el fenómeno general de reacción al medio ambiente."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "2. *La profundidad vertical* abarca los impulsos y actitudes del organismo, los niveles variables de autorrealización y el fenómeno general de reacción al entorno."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "112:1.8",
       "pageReference": "1226.12",
       "sortId": "3.112.001.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "3. *La amplitud* comprende el campo del dominio de la coordinación, la asociación y la organización del yo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "3. *La anchura* abarca la esfera de la coordinación, la asociación y la organización de la yoidad."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "112:1.9",
       "pageReference": "1226.13",
       "sortId": "3.112.001.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "El tipo de personalidad que es donado a los mortales urantianos tiene una potencialidad de siete dimensiones de autoexpresión o realización de la persona. Estos fenómenos dimensionales son realizables como tres en el nivel finito, tres en el nivel absonito, y uno en el nivel absoluto. En los niveles subabsolutos esta dimensión séptima o de la totalidad es experienciable como el *hecho* de la personalidad. Esta suprema dimensión es un absoluto asociable y, aunque no infinito, es dimensionalmente potencial para la penetración subinfinita de lo absoluto."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "El tipo de personalidad otorgado a los mortales de Urantia tiene una potencialidad de siete dimensiones de autoexpresión o realización de la persona. Estos fenómenos dimensionales son realizables a razón de tres en el nivel finito, tres en el nivel absonito y uno en el nivel absoluto. En los niveles subabsolutos esta séptima dimensión o dimensión de totalidad es experimentable como el *hecho* de la personalidad. Esta dimensión suprema es un absoluto asociable, y aunque no es infinita, tiene potencial dimensional de penetración subinfinita de lo absoluto."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "112:1.10",
       "pageReference": "1226.14",
       "sortId": "3.112.001.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "Las dimensiones finitas de la personalidad tienen que ver con la longitud, profundidad y amplitud cósmicas. La longitud indica significado; la profundidad significa valor; la amplitud comprende el discernimiento —la capacidad de experimentar una conciencia indiscutible de la realidad cósmica."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "Las dimensiones finitas de la personalidad están relacionadas con la longitud, la profundidad y la anchura cósmica. La longitud denota significado, la profundidad significa valor y la anchura comprende la visión interior: la capacidad de experimentar una consciencia irrefutable de la realidad cósmica."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "112:1.11",
       "pageReference": "1227.1",
       "sortId": "3.112.001.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "En el nivel morontial todas estas dimensiones finitas del nivel material están grandemente enaltecidas, y ciertos nuevos valores dimensionales son realizables. Todas estas experiencias dimensionales ampliadas del nivel morontial se unen maravillosamente con la dimensión suprema, o sea, de la personalidad a través de la influencia de mota y también por la contribución de las matemáticas morontiales."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "En el nivel de la morontia todas estas dimensiones finitas del nivel material están muy realzadas, y se pueden realizar ciertos valores dimensionales nuevos. Todas estas experiencias dimensionales ampliadas del nivel de la morontia se articulan maravillosamente con la dimensión suprema o dimensión de la personalidad gracias a la influencia de la mota y también a la contribución de las matemáticas de la morontia."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "112:1.12",
       "pageReference": "1227.2",
       "sortId": "3.112.001.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "Se podrían evitar muchos de los problemas experimentados por los mortales en su estudio de la personalidad humana si la criatura finita recordara que los niveles dimensionales y los niveles espirituales no están coordinados en la realización experiencial de la personalidad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "Muchos de los problemas que experimentan los mortales en su estudio de la personalidad humana se podrían evitar si la criatura finita recordara que los niveles dimensionales y los niveles espirituales no están coordinados en la realización experiencial de la personalidad."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "112:1.13",
       "pageReference": "1227.3",
       "sortId": "3.112.001.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "La vida es realmente un proceso que tiene lugar entre el organismo (yo) y su medio ambiente. La personalidad imparte el valor de identidad y significados de continuidad a esta asociación organismal-ambiental. Así pues se reconocerá que el fenómeno de la respuesta al estímulo no es un mero proceso mecánico, puesto que la personalidad funciona como un factor en la situación total. Es por siempre verdad que los mecanismos son pasivos en forma innata; los organismos son inherentemente activos."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "La vida es realmente un proceso que se produce entre el organismo (la yoidad) y su entorno. La personalidad imparte valor de identidad y significados de continuidad a esta asociación entre organismo y entorno. Se reconocerá así que el fenómeno de respuesta al estímulo no es un mero proceso mecánico, puesto que la personalidad interviene como factor en la situación total. Siempre será cierto que los mecanismos son innatamente pasivos y los organismos, inherentemente activos."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "112:1.14",
       "pageReference": "1227.4",
       "sortId": "3.112.001.014",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "La vida física es un proceso que tiene lugar no tanto dentro del organismo como *entre* el organismo y el medio ambiente. Y cada uno de estos procesos tiende a crear y establecer modelos de reacción organismal a este medio ambiente. Todos estos *modelos directivos* son altamente influyentes en la selección de las metas."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "La vida física es un proceso que ocurre no tanto dentro del organismo como *entre* el organismo y el entorno. Todos los procesos de este tipo tienden a crear y establecer patrones de reacción del organismo a ese entorno, y todos esos *patrones directores* influyen considerablemente en la elección de los objetivos."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "112:1.15",
       "pageReference": "1227.5",
       "sortId": "3.112.001.015",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "A través de la mediación de la mente, el yo y el medio ambiente establecen un contacto significativo. La habilidad y el consentimiento del organismo de hacer tales contactos significativos con el medio ambiente (respuesta a un impulso) representa la *actitud* de la personalidad entera.La personalidad no puede funcionar muy bien en aislamiento."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "El yo y el entorno entran en contacto significativo por mediación de la mente. La aptitud y la buena disposición del organismo para establecer este tipo de contactos significantes con el entorno (respuesta a un impulso) representan la *actitud* de toda la personalidad."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "112:1.16",
       "pageReference": "1227.6",
       "sortId": "3.112.001.016",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "El hombre es naturalmente una criatura social; lo domina el anhelo de pertenecer. Es literalmente verdad que «ningún hombre vive para sí»."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "La personalidad no puede desempeñar bien su papel cuando está aislada. El hombre es una criatura social por naturaleza; está dominado por el anhelo de pertenencia. Es literalmente cierto que «ningún hombre vive para sí»."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "112:1.17",
       "pageReference": "1227.7",
       "sortId": "3.112.001.017",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "Pero el concepto de la personalidad como sentido de la totalidad de la criatura viviente y funcionante significa mucho más que la integración de las relaciones; significa la *unificación* de todos los factores de la realidad así como también la coordinación de las relaciones. Las relaciones existen entre dos objetos, pero tres o más objetos resultan en un *sistema,* y dicho sistema es mucho más que tan sólo una relación ampliada o compleja. Esta distinción es vital, porque en un sistema cósmico los miembros individuales no están conectados entre sí excepto en relación con el todo y a través de la individualidad del todo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "Pero el concepto de personalidad en el sentido de la totalidad de la criatura que vive y actúa implica mucho más que unas relaciones integradas. Significa la *unificación* de todos los factores de la realidad así como la coordinación de las relaciones. Entre dos objetos existen relaciones, pero tres o más objetos generan un *sistema*, y ese sistema es mucho más que una relación ampliada o compleja. Esta distinción es fundamental, porque en un sistema cósmico los miembros individuales solo están conectados entre sí en relación con el todo y a través de la individualidad del todo."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "112:1.18",
       "pageReference": "1227.8",
       "sortId": "3.112.001.018",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "En el organismo humano la suma de sus partes constituye el yo —la individualidad— pero dicho proceso no tiene absolutamente nada que ver con la personalidad, que es el unificador de todos estos factores en cuanto se relacionan a las realidades cósmicas."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "En el organismo humano la suma de las partes constituye el yo —la individualidad— pero este proceso no tiene nada que ver con la personalidad, que es la unificadora de todos estos factores en sus relaciones con las realidades cósmicas."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "112:1.19",
       "pageReference": "1227.9",
       "sortId": "3.112.001.019",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Personalidad y la Realidad",
-      "markdown": "En los agregados las partes se suman; en los sistemas las partes se *arreglan.* Los sistemas son significativos debido a la organización —a los valores de posición. En un buen sistema todos los factores están en posición cósmica. En un sistema malo hay algo que falta o que está desplazado —desarreglado. En el sistema humano es la personalidad la que unifica todas las actividades y a su vez imparte las cualidades de identidad y creatividad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La personalidad y la realidad",
+      "markdown": "En un agregado las partes se suman, en un sistema las partes se *disponen en orden*. Los sistemas son significantes por su organización, sus valores posicionales. En un buen sistema todos los factores están en posición cósmica. En un mal sistema hay algo que falta o está desplazado, trastocado. En el sistema humano es la personalidad la que unifica todas las actividades e imparte a su vez las cualidades de identidad y creatividad."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "112:2.0",
       "pageReference": null,
       "sortId": "3.112.002.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "112:2.1",
       "pageReference": "1227.10",
       "sortId": "3.112.002.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "En cuanto al estudio del yo es útil recordar lo siguiente:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "En el estudio de la yoidad conviene recordar:"
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "112:2.2",
       "pageReference": "1227.11",
       "sortId": "3.112.002.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "1. Los sistemas físicos son subordinados."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "1. Que los sistemas físicos son de rango inferior."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "112:2.3",
       "pageReference": "1227.12",
       "sortId": "3.112.002.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "2. Los sistemas intelectuales son coordinados."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "2. Que los sistemas intelectuales tienen el mismo rango."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "112:2.4",
       "pageReference": "1227.13",
       "sortId": "3.112.002.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "3. La personalidad es superordenada."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "3. Que la personalidad es de rango superior."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "112:2.5",
       "pageReference": "1227.14",
       "sortId": "3.112.002.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "4. La fuerza espiritual residente es potencialmente directiva."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "4. Que la fuerza espiritual que mora en el interior tiene potencial de dirigir."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "112:2.6",
       "pageReference": "1228.1",
       "sortId": "3.112.002.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "En todos los conceptos del yo es necesario reconocer que el hecho de la vida viene primero, su evaluación o interpretación más tarde. El niño humano primero *vive* y posteriormente *piensa* sobre su vivir. En la economía cósmica el discernimiento precede a la previsión."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "En todos los conceptos sobre la yoidad se debería reconocer que lo primero es el hecho de la vida y después viene su valoración o interpretación. El niño humano primero *vive* y luego *piensa* sobre su vida. En la economía cósmica la visión interior precede a la previsión."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "112:2.7",
       "pageReference": "1228.2",
       "sortId": "3.112.002.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "El hecho universal de Dios que se vuelve hombre ha cambiado para siempre todos los significados y ha alterado todos los valores de la personalidad humana. En el verdadero sentido de la palabra, el amor connota respeto mutuo de personalidades enteras, sean éstas humanas o divinas o humanas *y* divinas. Las partes del yo pueden funcionar de muchas maneras —pensando, sintiendo, deseando— pero sólo los atributos coordinados de la personalidad entera están enfocados en la acción inteligente; y todos estos poderes están asociados con la dote espiritual de la mente mortal cuando un ser humano sincera y altruísticamente ama a otro ser, humano o divino."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "El hecho universal de Dios hecho hombre ha cambiado para siempre todos los significados y transformado todos los valores de la personalidad humana. En el verdadero sentido de la palabra, el amor implica consideración mutua entre personalidades completas, ya sean humanas, divinas o humanas *y* divinas. Las partes del yo pueden intervenir de muchas maneras —pueden pensar, sentir, desear— pero solo los atributos coordinados de la personalidad completa están concentrados hacia una acción inteligente. Todos estos poderes se asocian a la dotación espiritual de la mente del mortal cuando un ser humano ama sincera y desinteresadamente a otro ser, humano o divino."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "112:2.8",
       "pageReference": "1228.3",
       "sortId": "3.112.002.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "Se basan todos los conceptos mortales de la realidad en la suposición de la actualidad de la personalidad humana; todos los conceptos de las realidades superhumanas se basan en la experiencia de la personalidad humana con la realidad cósmica de ciertas entidades espirituales asociadas y personalidades divinas y en la misma. Todo lo que sea no espiritual en la experiencia humana, a excepción de la personalidad, es un medio para un fin. Toda verdadera relación del hombre mortal con otras personas —humanas o divinas— es un fin en sí mismo. Y dicho compañerismo con la personalidad de la Deidad es el objetivo eterno de la ascensión universal."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "Todos los conceptos que tiene el mortal de la realidad parten del supuesto de la actualidad de la personalidad humana. Todos los conceptos de las realidades sobrehumanas se basan en la experiencia de la personalidad humana con y en las realidades cósmicas de ciertas entidades espirituales y personalidades divinas asociadas. Todo lo no espiritual de la experiencia humana, excepto la personalidad, es un medio encaminado a un fin. Todas las relaciones verdaderas del hombre mortal con otras personas —humanas o divinas— son un fin en sí mismas. Y una comunión así con la personalidad de la Deidad es la meta eterna de la ascensión en el universo"
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "112:2.9",
       "pageReference": "1228.4",
       "sortId": "3.112.002.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "La posesión de la personalidad identifica al hombre como ser espiritual, puesto que la unidad del yo y la autoconciencia de la personalidad son dotes del mundo supermaterial. El hecho mismo de que un materialista mortal pueda negar la existencia de las realidades supermateriales demuestra por sí mismo la presencia, e indica la operación de la síntesis espiritual y conciencia cósmica en su mente humana."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "La posesión de una personalidad identifica al hombre como ser espiritual, puesto que la unidad de la yoidad y la autoconsciencia de la personalidad son dotaciones del mundo supramaterial. El hecho de que un mortal materialista pueda negar la existencia de realidades supramateriales demuestra en y por sí mismo la presencia y actividad de la síntesis espiritual y la consciencia cósmica en su mente humana."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "112:2.10",
       "pageReference": "1228.5",
       "sortId": "3.112.002.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "Existe una gran laguna cósmica entre la materia y el pensamiento, y esta laguna es inmensurablemente mayor entre la mente material y el amor espiritual. No se puede explicar la conciencia, y aun menos la autoconciencia por ninguna teoría de asociación electrónica mecanicista o de fenómeno materialista de la energía."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "Existe un gran abismo cósmico entre la materia y el pensamiento, y este abismo es inconmensurablemente mayor entre la mente material y el amor espiritual. La consciencia, y mucho menos la autoconsciencia, no puede ser explicada mediante ninguna teoría de asociación electrónica mecanicista ni ningún fenómeno de energía materialista."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "112:2.11",
       "pageReference": "1228.6",
       "sortId": "3.112.002.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "A medida que la mente persigue la realidad en su último análisis, la materia se desvanece para los sentidos materiales pero puede aún permanecer real en la mente. Cuando el discernimiento espiritual persigue esa realidad que permanece después de la desaparición de la materia y la persigue hasta su último análisis, ésta se desvanece de la mente, pero el discernimiento del espíritu aun puede percibir las realidad cósmicas y valores supremos de una naturaleza espiritual. De tal manera la ciencia da paso a la filosofía, mientras que la filosofía debe rendirse a las conclusiones inherentes a la experiencia espiritual genuina. El pensamiento se rinde a la sabiduría, y la sabiduría se pierde en la adoración esclarecida y reflexiva."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "A medida que la mente persigue la realidad hasta su análisis último, la materia se desvanece para los sentidos materiales aunque puede seguir siendo real para la mente. Cuando la visión interior espiritual persigue la realidad que permanece después de la desaparición de la materia, y la persigue hasta su análisis último, desaparece para la mente, pero la visión interior del espíritu puede seguir percibiendo las realidades cósmicas y los valores supremos de naturaleza espiritual. En consecuencia, la ciencia deja paso a la filosofía mientras que la filosofía debe rendirse a las conclusiones inherentes a la experiencia espiritual auténtica. El pensamiento se rinde ante la sabiduría y la sabiduría se pierde en una adoración iluminada y reflexiva."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "112:2.12",
       "pageReference": "1228.7",
       "sortId": "3.112.002.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "En la ciencia el yo humano observa el mundo material; la filosofía es la observación de esta observación del mundo material; la religión, la verdadera experiencia espiritual, es la realización experiencial de la realidad cósmica de la observación de la observación de toda esta síntesis relativa de los materiales de energía del tiempo y del espacio. Construir una filosofía del universo basada exclusivamente en el materialismo es ignorar el hecho de que todas las cosas materiales son concebidas inicialmente como reales en la experiencia de la conciencia humana. El observador no puede ser lo observado; la evaluación exige cierto grado de trascendencia de la cosa que está siendo evaluada."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "En la ciencia el yo humano observa el mundo material. La filosofía es la observación de esta observación del mundo material. La religión, la verdadera experiencia espiritual, es la comprensión experiencial de la realidad cósmica de la observación de la observación de toda esta síntesis relativa de los materiales de energía del tiempo y el espacio. Construir una filosofía del universo sobre un materialismo excluyente es ignorar el hecho de que todas las cosas materiales son concebidas inicialmente como reales en la experiencia de la consciencia humana. El observador no puede ser la cosa observada; la evaluación exige trascender en algún grado la cosa evaluada."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "112:2.13",
       "pageReference": "1228.8",
       "sortId": "3.112.002.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "Con el tiempo, el pensamiento lleva a la sabiduría y la sabiduría conduce a la adoración; en la eternidad, la adoración conduce a la sabiduría, y la sabiduría resulta en la finalidad del pensamiento."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "En el tiempo, el pensamiento conduce a la sabiduría y la sabiduría conduce a la adoración. En la eternidad, la adoración conduce a la sabiduría y la sabiduría da como resultado un pensamiento de carácter final."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "112:2.14",
       "pageReference": "1229.1",
       "sortId": "3.112.002.014",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "La posibilidad de la unificación del ser evolutivo es inherente a las cualidades de sus factores constitutivos: las energías básicas, los tejidos principales, el supercontrol químico fundamental, las ideas supremas, los motivos supremos, los objetivos supremos y el espíritu divino del don del Paraíso —el secreto de la autoconciencia de la naturaleza espiritual humana."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "La posibilidad de unificación del yo en vías de evolución es inherente a las cualidades de sus factores constitutivos, a saber, las energías básicas, los tejidos maestros, el sobrecontrol químico fundamental, las ideas supremas, los móviles supremos, las metas supremas y el espíritu divino otorgado desde el Paraíso, que es el secreto de la autoconsciencia de la naturaleza espiritual del hombre."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "112:2.15",
       "pageReference": "1229.2",
       "sortId": "3.112.002.015",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "El propósito de la evolución cósmica consiste en adquirir la unidad de la personalidad a través de un dominio cada vez mayor del espíritu, de una respuesta volitiva a la enseñanza y conducción del Ajustador del Pensamiento. Se caracteriza la personalidad, tanto humana como superhumana, por una cualidad cósmica inherente que puede llamarse «la evolución del dominio», la expansión del control tanto del yo como del medio ambiente."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "El propósito de la evolución cósmica es conseguir la unidad de la personalidad mediante una dominación creciente del espíritu, una respuesta volitiva a las enseñanzas y directrices del Ajustador del Pensamiento. La personalidad tanto humana como sobrehumana se caracteriza por una cualidad cósmica inherente que se puede llamar «la evolución de la dominación», la expansión del control tanto de sí misma como de su entorno."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "112:2.16",
       "pageReference": "1229.3",
       "sortId": "3.112.002.016",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "Una personalidad ascendente otrora humana pasa a través de dos grandes fases de dominio volitivo en aumento sobre el yo en el universo:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "Una personalidad ascendente, en otro tiempo humana, pasa por dos grandes fases de dominación volitiva creciente sobre el yo y en el universo:"
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "112:2.17",
       "pageReference": "1229.4",
       "sortId": "3.112.002.017",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "1. La experiencia prefinalista o buscadora de Dios mediante una mayor autorrealización a través de una técnica de expansión y actualización de la identidad juntamente con la solución de los problemas cósmicos y el consiguiente dominio del universo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "1. La experiencia prefinalitaria o de búsqueda de Dios, consistente en aumentar la autorrealización mediante una técnica de expansión y actualización de la identidad junto con la resolución de problemas cósmicos y la consiguiente maestría respecto al universo."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "112:2.18",
       "pageReference": "1229.5",
       "sortId": "3.112.002.018",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "2. La experiencia postfinalista o reveladora de Dios de la expansión creadora de autorrealización a través de la revelación del Ser Supremo de la experiencia a las inteligencias que buscan a Dios y que aún no han logrado los niveles divinos de la semejanza con Dios."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "2. La experiencia posfinalitaria o reveladora de Dios, consistente en la expansión creativa de la autorrealización a través de la revelación del Ser Supremo de la experiencia a las inteligencias que buscan a Dios pero no han alcanzado aún los niveles divinos de semejanza con Dios."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "112:2.19",
       "pageReference": "1229.6",
       "sortId": "3.112.002.019",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "Las personalidades descendentes logran experiencias análogas a través de sus varias aventuras universales al tratar de ampliar su capacidad de determinar y ejecutar las voluntades divinas de las Deidades Suprema, Última y Absoluta."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "Las personalidades descendentes adquieren experiencias análogas a través de sus diversas aventuras en el universo cuando intentan aumentar su capacidad de averiguar y ejecutar la voluntad divina de las Deidades Suprema, Última y Absoluta."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "112:2.20",
       "pageReference": "1229.7",
       "sortId": "3.112.002.020",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo",
-      "markdown": "El yo material, la entidad del ego en la identidad humana, depende durante su vida física de la función continuada del vehículo material de la vida, de la existencia continuada del equilibrio desequilibrado de energías e intelecto que, en Urantia, se le ha dado el nombre de *vida.* Pero el yo de valor de supervivencia, el yo que puede trascender la experiencia de la muerte, tan sólo evoluciona mediante el establecimiento de una transferencia potencial del asiento de la identidad de la personalidad evolutiva desde el vehículo transitorio de la vida —el cuerpo material— al vehículo de naturaleza más duradera e inmortal del alma morontial y aun más allá a aquellos niveles en los que el alma se infunde de realidad espiritual y eventualmente logra el estado de la misma. Esta transferencia misma a partir de la asociación material a la identificación morontial se efectúa mediante la sinceridad, persistencia y firmeza de las decisiones de la criatura humana que busca a Dios."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo",
+      "markdown": "El yo material, la entidad ego de la identidad humana, depende durante la vida física de la función continua del vehículo material de vida, de la existencia continua de ese equilibrio inestable entre el intelecto y las energías que en Urantia se ha dado en llamar *vida*. Pero la yoidad que tiene valor de supervivencia, la yoidad que puede trascender la experiencia de la muerte, solo evoluciona cuando se establece una transferencia potencial del asiento de la identidad de la personalidad evolutiva desde el vehículo transitorio de la vida —el cuerpo material— hasta la naturaleza más duradera e inmortal del alma de morontia, y después más allá, hasta los niveles en los que el alma es infundida con realidad de espíritu y termina alcanzando el estatus de realidad de espíritu. Esta transferencia efectiva desde una asociación material hasta una identificación con la morontia se consigue mediante la sinceridad, la perseverancia y la firmeza de las decisiones de la criatura humana en su búsqueda de Dios."
     },
     {
       "type": "section",
@@ -1081,8 +1081,8 @@
       "standardReferenceId": "112:3.0",
       "pageReference": null,
       "sortId": "3.112.003.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
       "markdown": null
     },
     {
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "112:3.1",
       "pageReference": "1229.8",
       "sortId": "3.112.003.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "Los urantianos generalmente reconocen un solo tipo de muerte, la cesación física de las energías vitales; pero en cuanto a la supervivencia de la personalidad existen en realidad tres tipos de muerte:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "Los urantianos reconocen generalmente un solo tipo de muerte, el cese físico de las energías de la vida, pero en lo que respecta a la supervivencia de la personalidad existen en realidad tres tipos de muerte:"
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "112:3.2",
       "pageReference": "1229.9",
       "sortId": "3.112.003.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "1. *Muerte espiritual (muerte del alma).* Si y cuando el hombre mortal rechaza finalmente la supervivencia; si ha sido pronunciado espiritualmente insolvente, morontialmente en bancarrota, en la opinión conjunta del Ajustador y del serafín sobreviviente, una vez que se haya registrado dicho consejo coordinado en Uversa, y después que los Censores y sus asociados reflectores han verificado estos hallazgos, los gobernantes de Orvonton ordenan la liberación inmediata del Monitor residente. Pero esta liberación del Ajustador de ninguna manera afecta los deberes del serafín personal o de grupo en cuanto a ese individuo abandonado por el Ajustador. Este tipo de muerte es final en su significación a pesar de la continuación temporal de las energías vivientes de los mecanismos físicos y mentales. Desde el punto de vista cósmico, este mortal ya está muerto; la vida que continúa indica meramente la persistencia del impulso material de las energías cósmicas."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "1. *La muerte espiritual (la del alma)*. Cuando un hombre mortal rechaza la supervivencia, y lo hace de forma definitiva, es declarado insolvente espiritual y en quiebra morontial a criterio conjunto e igualitario del Ajustador y la serafín superviviente. Una vez registrado este informe en Uversa y verificadas sus conclusiones por los Censores y sus colaboradores reflectantes, los regidores de Orvonton ordenan la liberación inmediata de su Monitor interior. Pero esta liberación del Ajustador no afecta en modo alguno a los deberes de la serafín personal o colectiva que se ocupa del individuo abandonado por el Ajustador. Este tipo de muerte es definitivo, aunque se mantengan durante un tiempo las energías vivas de los mecanismos físicos y mentales. Desde el punto de vista cósmico el sujeto ya está muerto; la vida que continúa solo indica que persiste el impulso material de las energías cósmicas."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "112:3.3",
       "pageReference": "1230.1",
       "sortId": "3.112.003.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "2. *Muerte intelectual (muerte de la mente).* Cuando los circuitos vitales del ministerio ayudante más elevado se interrumpen por las aberraciones del intelecto o por la destrucción parcial del mecanismo del cerebro, y si estas condiciones pasan a cierto punto crítico de irreparabilidad, se libera inmediatamente el Ajustador residente para partir hacia Divinington. En los registros universales una personalidad mortal se considera muerta cuando los circuitos esenciales de la mente de la acción volitiva humana han sido destruidos. Nuevamente, ésta es la muerte, a pesar de la función continuada de los mecanismos vivientes del cuerpo físico. El cuerpo menos la mente volitiva ya no es humano, pero de acuerdo con la selección previa de la voluntad humana, el alma de dicho individuo puede sobrevivir."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "2. *La muerte intelectual (la de la mente)*. Cuando los circuitos vitales del ministerio adjutor más alto se ven deteriorados por las aberraciones del intelecto o por una destrucción parcial del mecanismo del cerebro, y si los daños sobrepasan el punto crítico de lo irreparable, el Ajustador interior es liberado inmediatamente hacia Divinington. En los registros del universo se considera que una personalidad mortal ha encontrado la muerte cuando se han destruido los circuitos de mente esenciales por los que actúa la voluntad humana. Como en el caso anterior, se ha producido la muerte aunque el mecanismo vivo del cuerpo físico siga funcionando. El cuerpo menos la mente volitiva ya no es humano, pero el alma del individuo puede sobrevivir dependiendo de las elecciones anteriores de esa voluntad humana."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "112:3.4",
       "pageReference": "1230.2",
       "sortId": "3.112.003.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "3. *Muerte física (muerte del cuerpo y de la mente).* Cuando la muerte sobrecoge a un ser humano, el Ajustador permanece en la citadela de la mente hasta que ésta cesa su función como mecanismo inteligente, más o menos en el momento en que las energías medibles del cerebro cesan sus pulsaciones rítmicas vitales. Después de esta disolución, el Ajustador se despide de esta mente evaneciente, sin ceremonia, tal como entrara en ella años atrás, y procede a Divinington vía Uversa."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "3. *La muerte física (la del cuerpo y la mente)*. Cuando la muerte sorprende a un ser humano el Ajustador permanece en la ciudadela de la mente hasta que esta deja de funcionar como mecanismo inteligente, hacia el momento en que cesan las pulsaciones vitales rítmicas de las energías medibles del cerebro. Tras esta desintegración, el Ajustador se despide de la mente que se desvanece con tan poca ceremonia como entró en ella años atrás y se dirige a Divinington pasando por Uversa."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "112:3.5",
       "pageReference": "1230.3",
       "sortId": "3.112.003.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "Después de la muerte, el cuerpo material retorna al mundo elemental del cual se derivó, pero persisten dos factores no materiales de la personalidad sobreviviente: el Ajustador del Pensamiento preexistente, con la transcripción de la memoria de la carrera mortal, se dirige a Divinington; al mismo tiempo el alma morontial inmortal del humano fallecido permanece en la custodia del guardián del destino. Estas fases y formas del alma, estas fórmulas de identidad otrora cinéticas pero en este momento estáticas, son esenciales para la repersonalización en los mundos morontiales; y es la reunión del Ajustador con el alma la que vuelve a constituir la personalidad sobreviviente, la que te vuelve conciencia al tiempo del despertar morontial."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "Después de la muerte el cuerpo material vuelve a su mundo elemental de origen, pero perduran dos factores no materiales de la personalidad superviviente: por un lado el Ajustador del Pensamiento preexistente se dirige a Divinington con la trascripción de los recuerdos de la carrera del mortal y por otro el alma inmortal de morontia del humano difunto queda bajo la custodia de la guardiana del destino. Estas fases y formas del alma, estas fórmulas de la identidad en su día dinámicas pero ahora estáticas, son esenciales para la repersonalización en los mundos de la morontia. La reunión del Ajustador y el alma es lo que reensambla la personalidad superviviente, lo que os devolverá la consciencia en el momento del despertar en la morontia."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "112:3.6",
       "pageReference": "1230.4",
       "sortId": "3.112.003.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "Para los que no tienen guardianes seráficos personales, los custodios de grupo efectúan fiel y eficientemente el mismo servicio de mantenimiento seguro de la identidad y resurrección de la personalidad. Los serafines son indispensables para volver a reunir la personalidad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "Para los que no tienen guardianas seráficas personales, las guardianas colectivas desempeñan con fidelidad y eficacia el mismo servicio de salvaguardia de la identidad y de resurrección de la personalidad. Las serafines son indispensables para el reensamblaje de la personalidad."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "112:3.7",
       "pageReference": "1230.5",
       "sortId": "3.112.003.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Fenómeno de la Muerte",
-      "markdown": "En el momento de la muerte el Ajustador del Pensamiento pierde temporalmente la personalidad, pero no la identidad; el sujeto humano pierde temporalmente la identidad, pero no la personalidad; en los mundos de estancia ambos se reúnen en manifestación eterna. Un Ajustador del Pensamiento que haya partido no vuelve jamás a la tierra como el ser en el cual residiera anteriormente; personalidad no se manifiesta jamás sin la voluntad humana; y un ser humano des-Ajustadorizado no manifiesta jamás, después de la muerte, una identidad activa ni establece comunicación alguna con los seres vivos de la tierra. Estas almas des-Ajustadorizadas están total y absolutamente inconscientes durante el sueño largo o corto de la muerte. No puede haber exhibición alguna de ningún tipo de personalidad ni habilidad de comunicación con otras personalidades hasta que se haya completado la supervivencia. Aquellos que van a los mundos de estancia no se les permite enviar mensajes a sus seres queridos. Es política de todos los universos prohibir dicha comunicación durante el período de una dispensación corriente."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El fenómeno de la muerte",
+      "markdown": "Tras la muerte el Ajustador del Pensamiento pierde temporalmente la personalidad pero no la identidad mientras que el sujeto humano pierde temporalmente la identidad pero no la personalidad, y en los mundos mansión ambos se reúnen en una manifestación eterna. Un Ajustador del Pensamiento que se ha ido no vuelve nunca a la tierra como el ser donde habitó anteriormente. La personalidad no se manifiesta nunca sin la voluntad humana, y un ser humano separado de su Ajustador no manifiesta nunca una identidad activa después de la muerte ni establece ningún tipo de comunicación con los seres vivos de la tierra. Esas almas separadas de su Ajustador están total y absolutamente inconscientes durante el largo o corto sueño de la muerte. No puede haber ningún tipo de manifestación de la personalidad ni capacidad de entablar contacto con otras personalidades hasta después de consumada la supervivencia. Los que van a los mundos mansión no están autorizados a enviar mensajes a sus seres queridos de la tierra. Es política de todos los universos prohibir este tipo de comunicaciones durante el periodo de la dispensación en curso."
     },
     {
       "type": "section",
@@ -1225,8 +1225,8 @@
       "standardReferenceId": "112:4.0",
       "pageReference": null,
       "sortId": "3.112.004.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
       "markdown": null
     },
     {
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "112:4.1",
       "pageReference": "1231.1",
       "sortId": "3.112.004.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "Cuando ocurre la muerte, sea ésta de naturaleza material, intelectual o espiritual, el Ajustador se despide de su anfitrión mortal y parte hacia Divinington. Desde las sedes centrales del universo local y los superuniversos se hace un contacto reflexivo con los supervisores de ambos gobiernos, y el Monitor se registra ausente por el mismo número que indicó su ingreso en los dominios del tiempo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "Cuando sobreviene la muerte, material, intelectual o espiritual, el Ajustador se despide de su anfitrión mortal y sale hacia Divinington. Desde las sedes del universo local y del superuniverso se establece un contacto reflectante entre los supervisores de ambos gobiernos y se registra la salida del Monitor con el mismo número con que se registró su entrada en los dominios del tiempo."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "112:4.2",
       "pageReference": "1231.2",
       "sortId": "3.112.004.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "De alguna manera no plenamente comprendida, los Censores Universales son capaces de apoderarse de un epítome de la vida humana tal como se incorpora en la transcripción duplicada del Ajustador de los valores espirituales y significados morontiales de la mente en la que residió. Los Censores pueden apoderarse de la versión preparada por el Ajustador sobre el carácter de supervivencia del humano fallecido y sus cualidades espirituales, y todos estos datos, juntamente con los registros seráficos, están disponibles para ser presentados al tiempo de la adjudicación del individuo correspondiente. También se utiliza esta información para confirmar aquellos mandatos superuniversales que posibilitan que ciertos seres ascendentes comiencen inmediatamente su carrera morontial, en el momento de su disolución mortal, para proceder a los mundos de estancia antes de la terminación formal de una dispensación planetaria."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "De alguna manera que no comprendemos del todo, los Censores Universales pueden tomar posesión de un epítome de la vida humana tal como está encarnada en la trascripción duplicada de los valores espirituales y los significados de la morontia que conserva el Ajustador de la mente donde habitó. Los Censores están capacitados para apropiarse de la versión que tiene el Ajustador sobre el carácter de supervivencia y las cualidades espirituales del humano difunto, y todos estos datos, junto con los registros seráficos, están disponibles para ser presentados en el momento del juicio de ese individuo. Esta información se utiliza también para confirmar los mandatos del superuniverso que permiten a ciertos ascendentes empezar inmediatamente su carrera en la morontia tras su desintegración física y dirigirse a los mundos mansión antes de la terminación formal de una dispensación planetaria."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "112:4.3",
       "pageReference": "1231.3",
       "sortId": "3.112.004.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "Después de la muerte física, excepto en los individuos trasladados de entre los vivientes, el Ajustador liberado va inmediatamente a su esfera hogareña de Divinington. Los detalles de lo que ocurre en ese mundo durante el tiempo en que se aguarda la reaparición misma del mortal sobreviviente dependen principalmente de si el ser humano asciende a los mundos de estancia por su propio derecho universal o aguarda un llamado dispensacional de los sobrevivientes durmientes de una edad planetaria."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "Tras la muerte física, y excepto en el caso de individuos trasladados de entre los vivos, el Ajustador liberado va inmediatamente a Divinington, su esfera de residencia. Los detalles de lo que sucede en ese mundo mientras espera la reaparición factual del mortal superviviente dependen principalmente de si el ser humano asciende a los mundos mansión por su propio derecho individual o si aguarda una convocatoria dispensacional de los supervivientes durmientes de una edad planetaria."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "112:4.4",
       "pageReference": "1231.4",
       "sortId": "3.112.004.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "Si el mortal asociado pertenece a un grupo que será personalizado al fin de una dispensación, el Ajustador no retornará inmediatamente al mundo de estancia del sistema previo de su servicio sino que, a su discreción, entrará en uno de los siguientes encargos temporales:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "Si el mortal al que está vinculado pertenece a un grupo que será repersonalizado al final de una dispensación, el Ajustador no volverá inmediatamente al mundo mansión del antiguo sistema donde sirvió sino que optará por una de las misiones temporales siguientes:"
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "112:4.5",
       "pageReference": "1231.5",
       "sortId": "3.112.004.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "1. Se incorporará a las filas de los Monitores desaparecidos para un servicio no revelado."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "1. Enrolarse en el colectivo de los Monitores desaparecidos para servicios no desvelados."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "112:4.6",
       "pageReference": "1231.6",
       "sortId": "3.112.004.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "2. Será asignado por un período a la observación del régimen del Paraíso."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "2. Ser destinado durante un tiempo a observar el régimen del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "112:4.7",
       "pageReference": "1231.7",
       "sortId": "3.112.004.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "3. Será incorporado en una de las muchas academias de capacitación de Divinington."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "3. Inscribirse en una de las muchas escuelas de formación de Divinington."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "112:4.8",
       "pageReference": "1231.8",
       "sortId": "3.112.004.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "4. Será asignado por un período como estudiante observador en una de las otras seis esferas sagradas que constituyen el circuito del Padre de los mundos del Paraíso."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "4. Ser destinado durante un tiempo como observador estudiante en una de las otras seis esferas sagradas que constituyen el circuito de los mundos paradisiacos del Padre."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "112:4.9",
       "pageReference": "1231.9",
       "sortId": "3.112.004.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "5. Será asignado al servicio de mensajería de los Ajustadores Personalizados."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "5. Ser destinado al servicio de mensajeros de los Ajustadores Personalizados."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "112:4.10",
       "pageReference": "1231.10",
       "sortId": "3.112.004.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "6. Será nombrado instructor asociado en las escuelas de Divinington dedicadas a la capacitación de los Monitores pertenecientes al grupo virgen."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "6. Hacerse instructor asociado de las escuelas de Divinington dedicadas a la formación de los Monitores del grupo virgen."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "112:4.11",
       "pageReference": "1231.11",
       "sortId": "3.112.004.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "7. Se le encargará la selección de un grupo de mundos en los cuales posiblemente podría servir en el caso de que existan causas razonables para creer que el socio humano puede haber rechazado la supervivencia."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "7. Seleccionar otros posibles mundos donde servir en el caso de que hubiera motivos razonables para creer que el compañero humano podría haber rechazado la supervivencia."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "112:4.12",
       "pageReference": "1231.12",
       "sortId": "3.112.004.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "Si, al sobrecogerte la muerte, has alcanzado el tercer círculo o un reino más alto y por lo tanto se te ha asignado un guardián personal de destino, y si éste certifica incondicionalmente que la transcripción final del resumen del carácter de supervivencia presentado por el Ajustador y, si tanto el serafín como el Ajustador concuerdan esencialmente en cada artículo de sus registros y recomendaciones de vida, si los Censores Universales y sus asociados reflexivos en Uversa confirman estos datos y lo hacen sin reservas ni dudas, en tal caso los Ancianos de los Días envían el mandato de posición avanzada por los circuitos de comunicación a Salvington, y, con este mandato, los tribunales del Soberano de Nebadon decretarán el pasaje inmediato del alma sobreviviente a las salas de resurrección de los mundos de estancia."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "Si la muerte os sorprende cuando habéis alcanzado el tercer círculo o una esfera superior y se os ha asignado en consecuencia una guardiana personal del destino, y si la guardiana del destino certifica incondicionalmente la trascripción final del resumen del carácter de supervivencia que presenta el Ajustador —si tanto la serafín como el Ajustador están esencialmente de acuerdo en todos los detalles de sus informes y recomendaciones sobre vuestra vida—, si los Censores Universales y sus colaboradores reflectantes de Uversa confirman estos datos y lo hacen sin reservas ni equívocos, entonces los Ancianos de los Días destellan por los circuitos de comunicación que van a Salvington el mandato que establece esa posición avanzada. Y tras este anuncio público, los tribunales del Soberano de Nebadon decretarán el paso inmediato del alma superviviente a las salas de resurrección de los mundos mansión."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "112:4.13",
       "pageReference": "1232.1",
       "sortId": "3.112.004.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "Los Ajustadores Después de la Muerte",
-      "markdown": "Si el individuo humano sobrevive sin atraso, el Ajustador, así se me ha dicho, se registra en Divinington, procede a la presencia Paradisiaca del Padre Universal, vuelve inmediatamente y es abrazado por Ajustadores Personalizados del superuniverso y del universo local de asignación, recibe el reconocimiento del jefe de los Monitores Personalizados de Divinington y luego, inmediatamente, pasa a la «realización de la transición de la identidad», siendo convocado desde allí en el tercer período y habiéndose preparado en el mundo de estancia la forma real de personalidad para la recepción del alma sobreviviente del mortal terrestre tal como el guardián del destino la ha proyectado."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "Los Ajustadores después de la muerte",
+      "markdown": "Según mis informaciones, si el individuo humano sobrevive sin dilación, el Ajustador se registra en Divinington, se dirige a la presencia paradisiaca del Padre Universal, vuelve inmediatamente para ser abrazado por los Ajustadores Personalizados del superuniverso y del universo local donde está destinado, recibe el reconocimiento del jefe de los Monitores Personalizados de Divinington y acto seguido pasa a la «realización de la transición de la identidad» tras ser convocado en el tercer periodo y en el mundo mansión a llevarla a cabo en la forma de la personalidad preparada para recibir al alma superviviente del mortal terrenal tal como esa forma ha sido proyectada por la guardiana del destino."
     },
     {
       "type": "section",
@@ -1477,8 +1477,8 @@
       "standardReferenceId": "112:5.0",
       "pageReference": null,
       "sortId": "3.112.005.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
       "markdown": null
     },
     {
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "112:5.1",
       "pageReference": "1232.2",
       "sortId": "3.112.005.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "El yo es una realidad cósmica ya sea en forma material, morontial o espiritual. La actualidad de lo *personal* es el don del Padre Universal que actúa por sí mismo o a través de sus múltiples agencias universales. Decir que un ser es personal es reconocer la individualización relativa de tal ser dentro del organismo cósmico. El cosmos viviente es un agregado integrado casi infinito de unidades reales, todas las cuales están relativamente sujetas al destino del todo. Pero se han dotado a los que son personales de una real elección de aceptación de destino o de rechazo de destino."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "La yoidad es una realidad cósmica ya sea material, morontial o espiritual. La actualidad de lo *personal* es otorgamiento del Padre Universal que actúa en y por sí mismo o a través de sus múltiples agentes del universo. Decir que un ser es personal es reconocer la individuación relativa de ese ser dentro del organismo cósmico. El cosmos vivo es una agregación casi infinitamente integrada de unidades reales, todas ellas relativamente sujetas al destino del conjunto. Pero las unidades personales han sido dotadas de la facultad real de elegir entre la aceptación y el rechazo de su destino."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "112:5.2",
       "pageReference": "1232.3",
       "sortId": "3.112.005.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Lo que proviene del Padre es como el Padre, eterno, y esto es igualmente cierto de la personalidad, que Dios otorga por su propia elección libre, como ocurre con el Ajustador del Pensamiento, un fragmento real de Dios. La personalidad del hombre es eterna, pero en cuanto a la identidad es una realidad eterna condicionada. Habiendo aparecido en respuesta a la voluntad del Padre, la personalidad alcanzará el destino de Deidad, pero el hombre debe elegir si estará o no presente en el momento del logro de tal destino. Si no se realiza dicha elección, la personalidad alcanza la Deidad experiencial directamente, volviéndose parte del Ser Supremo. El ciclo está predestinado, pero la participación del hombre en él es facultativo, personal y experiencial."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Lo que viene del Padre es eterno como el Padre, y esto es tan cierto para la personalidad, que Dios otorga en virtud de su propio libre albedrío, como para el divino Ajustador del Pensamiento, un fragmento real de Dios. La personalidad del hombre es eterna, pero es una realidad eterna condicionada en cuanto a la identidad. Al haber aparecido en respuesta a la voluntad del Padre, la personalidad alcanzará el destino de la Deidad, pero el hombre debe elegir si estará o no presente cuando se alcance ese destino. Si el hombre elige no estar, la personalidad llegará directamente a la Deidad experiencial y se convertirá en parte del Ser Supremo. El ciclo está predeterminado, pero la participación del hombre es opcional, personal y experiencial."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "112:5.3",
       "pageReference": "1232.4",
       "sortId": "3.112.005.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "La identidad mortal es una condición transitoria de tiempo y vida en el universo; es real sólo en cuanto la personalidad elige volverse un fenómeno universal permanente. Ésta es la diferencia esencial entre el hombre y un sistema de energía: el sistema de energía debe continuar, no tiene elección; pero el hombre es responsable de la determinación de su propio destino. El Ajustador es verdaderamente el camino al Paraíso, pero el hombre mismo debe tomar ese camino por su propia decisión, por su elección del libre albedrío."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "La identidad del mortal es una condición transitoria de la vida temporal en el universo. Solo es real en la medida en que la personalidad elige convertirse en un fenómeno permanente del universo. Aquí está la diferencia esencial entre el hombre y un sistema de energía: el sistema de energía continúa necesariamente, no tiene elección, en cambio el hombre elige a la hora de determinar su propio destino. El Ajustador es en verdad la senda al Paraíso, pero es el hombre quien debe buscar esa senda por su propia decisión, por la elección de su libre albedrío."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "112:5.4",
       "pageReference": "1232.5",
       "sortId": "3.112.005.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Los seres humanos poseen identidad sólo en el sentido material. Estas cualidades del yo son expresadas por la mente material al funcionar en el sistema de energía del intelecto. Cuando se dice que el hombre tiene identidad, se reconoce que él posee un circuito mental que ha sido colocado en subordinación a las acciones y elecciones de la voluntad de la personalidad humana. Pero ésta es una manifestación material y puramente temporal, del mismo modo que el embrión humano es una etapa transitoria parasitaria de la vida humana. Los seres humanos, desde una perspectiva cósmica, nacen, viven y mueren en un instante relativo del tiempo; no son perdurables. Pero la personalidad mortal, por su propia selección posee el poder de transferir su asiento de identidad del sistema material intelectual pasajero al sistema más elevado del alma morontial que, en asociación con el Ajustador del Pensamiento, es creada como nuevo vehículo para la manifestación de la personalidad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Los seres humanos solo poseen identidad en el sentido material. La mente material expresa esas cualidades del yo cuando actúa en el sistema de energía del intelecto. Cuando se dice que el hombre tiene identidad se reconoce que posee un circuito de mente que ha sido subordinado a los actos y elecciones de la voluntad de la personalidad humana. Pero esta es una manifestación material y puramente temporal, exactamente igual que el embrión humano es una etapa parasitaria transitoria de la vida humana. Desde una perspectiva cósmica los seres humanos nacen, viven y mueren en un instante relativo del tiempo; no son duraderos. Pero la personalidad del mortal posee por su propia elección el poder de transferir el asiento de su identidad desde el sistema del intelecto material pasajero hasta el sistema superior del alma de morontia que se crea en colaboración con el Ajustador del Pensamiento como el nuevo vehículo de manifestación de la personalidad."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "112:5.5",
       "pageReference": "1233.1",
       "sortId": "3.112.005.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Es este mismo poder de elección, la insignia universal de lo que el hombre es criatura con libre albedrío, lo que constituye su mayor oportunidad y su suprema responsabilidad cósmica. De la integridad de la volición humana depende el destino eterno del finalista futuro; de la sinceridad del libre albedrío mortal el Ajustador divino depende para su personalidad eterna; de la fidelidad de la elección mortal depende el Padre Universal para la realización de un nuevo hijo ascendente; de la constancia y sabiduría de las acciones y decisiones depende el Ser Supremo para la actualidad de la evolución experiencial."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Este mismo poder de elección, este distintivo para el universo del libre albedrío de la criatura, constituye la mayor oportunidad del hombre y su responsabilidad cósmica suprema. De la integridad de la volición humana depende el destino eterno del futuro finalitario. De la sinceridad del libre albedrío del mortal depende el Ajustador divino para obtener la personalidad eterna. De la fidelidad de la elección del mortal depende el Padre Universal para hacer realidad a un nuevo hijo ascendente. De la perseverancia y la sabiduría de las acciones resultantes de las decisiones depende el Ser Supremo para actualizar su evolución experiencial."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "112:5.6",
       "pageReference": "1233.2",
       "sortId": "3.112.005.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Aunque los círculos cósmicos del crecimiento de la personalidad deben ser alcanzados finalmente, si los accidentes del tiempo y las dificultades de la existencia material te previenen, sin culpa tuya, de lograr estos niveles en tu planeta nativo, si tus intenciones y deseos son de valor de supervivencia, se emitirán decretos de extensión del período de prueba. Se te permitirá tiempo adicional para que te pruebes."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Tarde o temprano deberéis alcanzar los círculos cósmicos de crecimiento de la personalidad, pero puede ocurrir que, sin culpa por vuestra parte, los accidentes del tiempo y las limitaciones de la existencia material os impidan alcanzar estos niveles en vuestro planeta natal. En ese caso, si vuestras intenciones y deseos tienen valor de supervivencia, se decretará la prolongación de vuestro periodo de prueba. Se os concederá tiempo adicional para demostrar vuestra valía."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "112:5.7",
       "pageReference": "1233.3",
       "sortId": "3.112.005.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Si en algún momento hubiese dudas en cuanto a la aconsejabilidad de avanzar a una determinada identidad humana a los mundos de estancia, los gobiernos del universo invariablemente deciden a favor del interés personal de ese individuo; avanzan sin titubeos a dicha alma a un estado de ser transicional, mientras continúan sus observaciones del intento morontial naciente y del propósito espiritual. Así la justicia divina está segura de cumplirse, y la misericordia divina recibe una oportunidad más de extender su ministerio."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Cuando existe alguna duda sobre la conveniencia de hacer avanzar a una identidad humana a los mundos mansión, los gobiernos del universo dictaminan invariablemente a favor del interés personal de ese individuo. Promocionan sin vacilar a esa alma al estatus de ser transicional mientras siguen observando la aparición de sus intenciones en la morontia y propósitos espirituales. Así se garantiza el cumplimiento de la justicia divina y se concede a la misericordia divina una nueva oportunidad de ampliar su ministerio."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "112:5.8",
       "pageReference": "1233.4",
       "sortId": "3.112.005.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Los gobiernos de Orvonton y Nebadon no afirman perfección absoluta para el funcionamiento minucioso del plan universal de la repersonalización mortal, pero sí declaran manifestar y efectivamente manifiestan paciencia, tolerancia, comprensión y compasión misericordiosa. Deberíamos más bien correr el riesgo de una rebelión en el sistema que cortejar el peligro de privar a un mortal que lucha, de cualquier mundo evolucionario, de la felicidad eterna de perseguir la carrera de ascensión."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Los gobiernos de Orvonton y de Nebadon no se precian de ejecutar con perfección absoluta el plan universal de repersonalización de los mortales en todos sus detalles, pero sí se precian de actuar, y actúan, con paciencia, tolerancia, comprensión y compasión misericordiosa. Preferimos asumir el riesgo de rebelión en un sistema antes que correr el peligro de privar a un solo mortal que lucha en cualquier mundo evolutivo de la alegría eterna de proseguir la carrera ascendente."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "112:5.9",
       "pageReference": "1233.5",
       "sortId": "3.112.005.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Esto no significa que los seres humanos han de disfrutar de una segunda oportunidad frente al rechazo de la primera, de ninguna manera. Pero sí significa que toda criatura volitiva ha de experimentar la oportunidad auténtica de hacer una elección sin dudas, autoconsciente y final. Los Jueces soberanos del universo no privarán a ningún ser de estado de personalidad, si ese ser no ha hecho su elección eterna en forma final y plena; el alma del hombre debe tener y se le da, la plena y amplia oportunidad de revelar su verdadero intento y propósito auténtico."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Esto no significa para nada que los seres humanos vayan a tener una segunda oportunidad si rechazan la primera. Lo que significa es que todas las criaturas con voluntad han de tener una oportunidad real de hacer una elección indubitable, plenamente consciente y definitiva. Los Jueces soberanos de los universos no privarán del estatus de personalidad a ningún ser que no haya hecho la elección eterna de manera plena y definitiva. El alma humana debe tener y tendrá la oportunidad total de revelar su intención verdadera y su propósito real."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "112:5.10",
       "pageReference": "1233.6",
       "sortId": "3.112.005.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Cuando los mortales más avanzados espiritual y cósmicamente mueren, proceden inmediatamente a los mundos de estancia; en general, esta disposición opera para los que se haya asignado un guardián personal seráfico. Se puede detener otros mortales hasta el momento en que se complete una adjudicación de sus asuntos, después de lo cual pueden proceder a los mundos de estancia, o ser asignados a las filas de los sobrevivientes durmientes que serán repersonalizados en masa al fin de la presente dispensación planetaria."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Cuando mueren los mortales más avanzados en lo cósmico y lo espiritual, se dirigen inmediatamente a los mundos mansión. Esta disposición suele estar reservada para los que tienen asignadas guardianas seráficas personales. Otros mortales pueden ser retenidos mientras son juzgados sus asuntos, y tras el juicio podrán dirigirse a los mundos mansión o ser incorporados a los supervivientes durmientes que serán repersonalizados en masa al final de la dispensación planetaria en curso."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "112:5.11",
       "pageReference": "1233.7",
       "sortId": "3.112.005.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Existen dos dificultades que obstaculizan mis esfuerzos para explicar exactamente lo que *te* ocurre en la muerte, el *tú* sobreviviente que es distinto del Ajustador que parte. Una de éstas consiste en la imposibilidad de llevar a vuestro nivel de comprensión una descripción adecuada de la transacción en la región fronteriza de los dominios físico y morontial. La otra ocurre debido a las restricciones colocadas sobre mi comisión como revelador de la verdad por las autoridades gubernamentales celestiales de Urantia. Existen muchos detalles interesantes que podría presentar, pero no lo hago por consejo de vuestros supervisores planetarios inmediatos. Sin embargo, dentro de los límites de mi permiso, puedo decir tanto como esto:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Hay dos dificultades que complican mis esfuerzos por explicar lo que *os* ocurre exactamente en la muerte, lo que le ocurre a *vuestro yo* superviviente que es distinto del Ajustador que se va. Una de ellas consiste en la imposibilidad de transmitir a vuestro nivel de comprensión la descripción adecuada de una operación que ocurre en la frontera entre el dominio físico y el de la morontia. La otra proviene de las restricciones a mi cometido como revelador de la verdad impuestas por las autoridades celestiales que gobiernan Urantia. Os podría presentar muchos detalles interesantes, pero me los reservo por consejo de vuestros supervisores planetarios directos. Dentro de los límites de mi mandato solo puedo decir lo siguiente:"
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "112:5.12",
       "pageReference": "1234.1",
       "sortId": "3.112.005.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Existe algo real, algo de la evolución humana, algo adicional al Monitor Misterioso, que sobrevive a la muerte. Esta entidad de nueva aparición es el alma, y sobrevive a la muerte tanto del cuerpo físico como de la mente material. Esta entidad es el hijo conjunto de la vida combinada y los esfuerzos del tú humano en enlace con el tú divino, el Ajustador. Este hijo de parentesco humano y divino constituye el elemento sobreviviente del origen terrestre; es el yo morontial, el alma inmortal."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Hay algo real, algo que evoluciona en el humano, algo distinto al Monitor de Misterio, que sobrevive a la muerte. Esta entidad recién aparecida es el alma, y sobrevive a la muerte tanto de vuestro cuerpo físico como de vuestra mente material. Esta entidad es el fruto conjunto de la vida y los esfuerzos combinados de vuestro yo humano en conexión con vuestro yo divino, el Ajustador. Este fruto de ascendencia humana y divina constituye el elemento superviviente de origen terrestre. Es el yo de morontia, el alma inmortal."
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "112:5.13",
       "pageReference": "1234.2",
       "sortId": "3.112.005.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Este hijo de significado persistente y valor sobreviviente está totalmente inconsciente durante el período que corre desde la muerte hasta la repersonalización y está bajo la custodia del guardián seráfico de destino a lo largo de esta temporada de espera. No funcionarás como ser consciente, después de la muerte, hasta no haber logrado la nueva conciencia morontial en los mundos de estancia de Satania."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Este fruto con significado que perdura y valor que sobrevive está totalmente inconsciente durante el periodo que transcurre entre la muerte y la repersonalización, custodiado por la guardiana seráfica del destino durante toda esa temporada de espera. Tras la muerte no actuaréis como seres conscientes hasta que hayáis adquirido la nueva consciencia de morontia en los mundos mansión de Satania."
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "112:5.14",
       "pageReference": "1234.3",
       "sortId": "3.112.005.014",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "En el momento de la muerte la identidad funcional asociada con la personalidad humana se interrumpe a través de la cesación del movimiento vital. La personalidad humana, aunque transcienda sus partes constituyentes, depende de ellas para su identidad funcional. La interrupción de la vida destruye los esquemas cerebrales físicos para la dote mental, y la destrucción de la mente termina la conciencia mental. La conciencia de esa criatura no puede posteriormente volver a aparecer hasta que no se haya establecido una situación cósmica que permita que esa misma personalidad humana pueda funcionar nuevamente en relación con la energía viva."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Con la muerte, la identidad funcional asociada a la personalidad humana se descompone al cesar el movimiento vital. Aunque la personalidad humana trasciende a sus partes constituyentes, depende de ellas para mantener su identidad funcional. La suspensión de la vida destruye los patrones del cerebro físico necesarios para su dotación de mente, y la descomposición de la mente pone fin a la consciencia del mortal. La consciencia de esa criatura no podrá reaparecer posteriormente hasta que se haya establecido una situación cósmica que permita a esa misma personalidad humana actuar de nuevo en relación con la energía viva."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "112:5.15",
       "pageReference": "1234.4",
       "sortId": "3.112.005.015",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Durante el tránsito de los mortales sobrevivientes desde el mundo de origen hasta los mundos de estancia, sea que experimenten la reconstitución de la personalidad en el tercer período o que asciendan al tiempo de una resurrección de grupo, los arcángeles de sus mundos de actividades especiales preservan fielmente el registro de la constitución de la personalidad. Estos seres no son los custodios de la personalidad (como los guardianes serafines lo son del alma), pero sin embargo es verdad que todo factor identificable de la personalidad está salvaguardado eficazmente en la custodia de estos fideicomisos confiables de la supervivencia mortal. En cuanto a la ubicación exacta de la personalidad mortal durante el tiempo comprendido entre la muerte y la sobrevivencia, no lo sabemos."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Durante el tránsito de los mortales supervivientes desde su mundo de origen a los mundos mansión, tanto si su personalidad es reensamblada en el tercer periodo como si ascienden en una resurrección colectiva, el expediente de la constitución de la personalidad lo preservan fielmente los arcángeles en sus mundos de actividades especiales. Estos seres no custodian la personalidad (como las serafines guardianas custodian el alma), pero no deja de ser cierto que todo elemento identificable de la personalidad es preservado eficazmente por estos depositarios seguros de la supervivencia del mortal. En cuanto al paradero exacto de la personalidad del mortal durante el tiempo que transcurre entre la muerte y la supervivencia, lo desconocemos."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "112:5.16",
       "pageReference": "1234.5",
       "sortId": "3.112.005.016",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "La situación que hace posible la repersonalización ocurre en las salas de la resurrección de los planetas receptores morontiales de un universo local. Aquí, en estas cámaras de reconstitución de vida, las autoridades supervisoras proveen esa relación de energía universal —morontial, mental y espiritual— que hace posible el retorno de la conciencia del sobreviviente durmiente. La reconstitución de las partes constituyentes de una personalidad en otro tiempo material comprende:"
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "La situación que hace posible la repersonalización se produce en las salas de resurrección de los planetas receptores de la morontia de un universo local. En esas cámaras de ensamblaje de la vida, las autoridades supervisoras proporcionan la relación de energía del universo —morontial, mental y espiritual— que hace posible restituir la consciencia del superviviente dormido. El reensamblaje de los componentes de una personalidad que fue material en su día implica:"
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "112:5.17",
       "pageReference": "1234.6",
       "sortId": "3.112.005.017",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "1. La fabricación de una forma apta, un modelo de energía morontial, en el cual el nuevo sobreviviente pueda hacer contacto con la realidad no espiritual, y dentro de la cual la variación morontial de la mente cósmica pueda conectarse con sus circuitos."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "1. La fabricación de una forma adecuada, un patrón de energía de morontia, en el cual el nuevo superviviente pueda establecer contacto con la realidad no espiritual y dentro del cual la variante de morontia de la mente cósmica se pueda encircuitar."
     },
     {
       "type": "paragraph",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "112:5.18",
       "pageReference": "1234.7",
       "sortId": "3.112.005.018",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "2. El retorno del Ajustador a la criatura morontial en espera. El Ajustador es el custodio eterno de tu identidad ascendente; tu Monitor es el seguro absoluto de que tú mismo y ningún otro ocuparás la forma morontial creada para tu personalidad que despierta. Y el Ajustador estará presente en la reconstitución de tu personalidad para retomar nuevamente el papel de guía al Paraíso de tu ser sobreviviente."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "2. El retorno del Ajustador a la criatura de morontia en espera. El Ajustador es el custodio eterno de vuestra identidad ascendente. Vuestro Monitor es la garantía absoluta de que sois vosotros mismos y no otro quien ocupará la forma de morontia creada para el despertar de vuestra personalidad. Y el Ajustador estará presente en el reensamblaje de vuestra personalidad para asumir una vez más el papel de guía paradisiaco de vuestro yo superviviente."
     },
     {
       "type": "paragraph",
@@ -1819,9 +1819,9 @@
       "standardReferenceId": "112:5.19",
       "pageReference": "1235.1",
       "sortId": "3.112.005.019",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "3. Cuando se han reunido estos tres requisitos de la repersonalización, el custodio seráfico de las potencialidades del alma inmortal dormida, con la asistencia de numerosas personalidades cósmicas, dona esta entidad morontial a la forma morontial de mente y cuerpo que está esperando y confía este hijo evolucionario del Supremo a la asociación eterna con el Ajustador en espera. Y esto completa la repersonalización, reconstitución de la memoria, discernimiento y conciencia —identidad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "3. Una vez reunidos estos requisitos esenciales para la repersonalización, la guardiana seráfica de las potencialidades del alma inmortal aletargada, asistida por numerosas personalidades cósmicas, otorga esta entidad de morontia a la forma morontial de cuerpo y mente preparada al efecto y vincula a este hijo evolutivo del Supremo a su asociación eterna con el Ajustador expectante. Y queda así completada la repersonalización, el reensamblaje de los recuerdos, la visión interior y la consciencia, es decir, de la identidad."
     },
     {
       "type": "paragraph",
@@ -1837,9 +1837,9 @@
       "standardReferenceId": "112:5.20",
       "pageReference": "1235.2",
       "sortId": "3.112.005.020",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "El hecho de la repersonalización consiste en la detención de la fase morontial, conectada con los circuitos, de la mente cósmica recientemente segregada por parte del yo humano que despierta. El fenómeno de la personalidad depende de la persistencia de la identidad de la reacción del yo al medio ambiente universal; y esto tan sólo puede realizarse a través del medio de la mente. La entidad yo persiste a pesar de un cambio continuo en todos los factores componentes del yo; en la vida física el cambio es gradual; en la muerte y después de la repersonalización, el cambio es repentino. La auténtica realidad de toda entidad del yo (personalidad) puede funcionar sensiblemente a las condiciones del universo por virtud de un cambio incesante de sus partes constituyentes; el estancamiento termina en la muerte inevitable. La vida humana es un cambio incesante de los factores de la vida, unificados por la estabilidad de una personalidad incambiable."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "El hecho de la repersonalización consiste en que el yo humano que despierta toma posesión de la fase encircuitada de morontia de la mente cósmica recién segregada. El fenómeno de la personalidad depende de la persistencia de la identidad de la reacción de la yoidad al entorno del universo, y esta solo se puede llevar a cabo por medio de la mente. La yoidad persiste a pesar del cambio continuo de todos los factores que componen el yo. En la vida física el cambio es gradual, en la muerte y con la repersonalización, el cambio es repentino. La verdadera realidad de toda yoidad (personalidad) es capaz de responder adecuadamente a las condiciones del universo gracias al cambio incesante de sus partes constituyentes. El estancamiento conduce inevitablemente a la muerte. La vida humana es un cambio sin fin de los factores de la vida unificados por la estabilidad de una personalidad que no cambia."
     },
     {
       "type": "paragraph",
@@ -1855,9 +1855,9 @@
       "standardReferenceId": "112:5.21",
       "pageReference": "1235.3",
       "sortId": "3.112.005.021",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "Cuando así despiertas en los mundos de estancia de Jerusem, estarás tan cambiado, la transformación espiritual será tan grande que, si no fuera por tu Ajustador del Pensamiento y tu guardián del destino, que tan plenamente conectan tu nueva vida en los nuevos mundos con tu vieja vida en el primer mundo, tendrías al principio dificultad en relacionar la nueva conciencia morontial con la memoria renaciente de tu identidad previa. A pesar de la continuidad del yo personal, mucho de la vida mortal parecería al principio un vago y confuso sueño. Pero el tiempo aclarará muchas asociaciones mortales."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "Y cuando os despertéis así en los mundos mansión de Jerusem estaréis tan cambiados, la transformación espiritual será tan grande que, si no fuera por vuestro Ajustador del Pensamiento y la guardiana del destino que conectarán plenamente vuestra nueva vida en los nuevos mundos con vuestra antigua vida en el primer mundo, os costaría relacionar al principio vuestra nueva consciencia de morontia con los recuerdos de vuestra identidad anterior. A pesar de la continuidad de la yoidad personal, gran parte de la vida mortal os parecerá al principio un sueño vago y confuso. Pero el tiempo clarificará muchas asociaciones de vuestra etapa mortal."
     },
     {
       "type": "paragraph",
@@ -1873,9 +1873,9 @@
       "standardReferenceId": "112:5.22",
       "pageReference": "1235.4",
       "sortId": "3.112.005.022",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Supervivencia del Yo Humano",
-      "markdown": "El Ajustador del Pensamiento recordará y volverá a recontar para ti sólo aquellos recuerdos y experiencias que son parte de tu carrera universal y que son esenciales para ésta. Si el Ajustador ha sido un socio en la evolución de alguna cosa en la mente humana, estas experiencias valiosas sobrevivirán en la conciencia eterna del Ajustador. Pero mucho de tu vida pasada y sus recuerdos, que no han tenido ni significado espiritual ni valor morontial, perecerá con tu cerebro material; mucho de la experiencia material desaparecerá como antiguos andamios que, habiéndote ayudado a pasar al nivel morontial, ya no tienen un propósito en el universo. Pero la personalidad y los enlaces entre personalidades no son jamás andamios; la memoria mortal de las relaciones con las personalidades tiene valor cósmico y persistirá. En los mundos de estancia conocerás y serás conocido, y más, recordarás y serás recordado por tus asociados de antaño en la corta pero estimulante vida en Urantia."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La supervivencia del yo humano",
+      "markdown": "El Ajustador del Pensamiento solo os recordará y enumerará los recuerdos y experiencias que forman parte de vuestra carrera en el universo y son esenciales para ella. Si el Ajustador ha estado asociado a la evolución de algo en la mente humana, esas experiencias que merecen la pena sobrevivirán en la consciencia eterna del Ajustador. Pero gran parte de vuestra vida pasada y de sus recuerdos carentes de significado espiritual o valor de la morontia perecerán con el cerebro material. Muchas experiencias materiales desaparecerán como andamiajes de otro tiempo que, habiéndoos servido de puente hacia el nivel de la morontia, ya no tienen utilidad en el universo. Pero la personalidad y las relaciones entre las personalidades no son nunca andamiajes; el recuerdo humano de las relaciones entre personalidades tiene valor cósmico y perdurará. En los mundos mansión conoceréis y seréis conocidos, y es más, recordaréis y seréis recordados por vuestros compañeros de otro tiempo en la corta pero fascinante vida en Urantia."
     },
     {
       "type": "section",
@@ -1891,8 +1891,8 @@
       "standardReferenceId": "112:6.0",
       "pageReference": null,
       "sortId": "3.112.006.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
       "markdown": null
     },
     {
@@ -1909,9 +1909,9 @@
       "standardReferenceId": "112:6.1",
       "pageReference": "1235.5",
       "sortId": "3.112.006.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "Así como surge la mariposa de su etapa de oruga, del mismo modo las verdaderas personalidades de los seres humanos surgen en los mundos de estancia, por primera vez libres de la vestimenta de antaño en la carne material. La carrera morontial en el universo local tiene que ver con la elevación continuada del mecanismo de la personalidad desde el nivel morontial inicial de existencia del alma hasta el nivel morontial final de espiritualidad progresiva."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "Igual que una mariposa emerge del estado de oruga, la verdadera personalidad de los seres humanos emergerá en los mundos mansión y se manifestará por primera vez sin su antigua envoltura de carne material. La carrera en la morontia del universo local consiste en la elevación continua del mecanismo de la personalidad desde el primer nivel de la morontia de existencia del alma hasta el nivel final de la morontia de espiritualidad progresiva."
     },
     {
       "type": "paragraph",
@@ -1927,9 +1927,9 @@
       "standardReferenceId": "112:6.2",
       "pageReference": "1235.6",
       "sortId": "3.112.006.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "Es difícil instruiros acerca de vuestras formas de personalidad morontial para la carrera en el universo local. Se os dotará de modelos morontiales de manifestabilidad de la personalidad, y éstas son vestimentas que, en último análisis, están más allá de vuestra comprensión. Estas formas, aunque enteramente reales, no son modelos de energía del orden material que comprendéis ahora. Sin embargo sirven el mismo propósito en los mundos del universo local que cumplen vuestros cuerpos materiales en los planetas de natividad humana."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "Es difícil instruiros sobre vuestras formas de la personalidad en la morontia para la carrera en el universo local. Seréis dotados con patrones de morontia capaces de manifestar la personalidad, pero esas vestiduras están más allá de vuestra comprensión. Esas formas, aunque enteramente reales, no son patrones de energía del orden material que entendéis ahora. Sin embargo, cumplen la misma función en los mundos del universo local que vuestros cuerpos materiales en los planetas donde nacen los humanos."
     },
     {
       "type": "paragraph",
@@ -1945,9 +1945,9 @@
       "standardReferenceId": "112:6.3",
       "pageReference": "1236.1",
       "sortId": "3.112.006.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "Hasta cierto punto, la aparición de la forma material del cuerpo es una respuesta al carácter de la identidad de la personalidad; el cuerpo físico refleja en grado limitado algo de la naturaleza inherente de la personalidad. Aun más lo hace la forma morontial. En la vida física, los mortales pueden ser hermosos por fuera aunque feos por dentro; en la vida morontial, y cada vez más en sus niveles más elevados, la forma de la personalidad variará directamente de acuerdo con la naturaleza de la persona interior. En el nivel espiritual, la forma exterior y la naturaleza interior comienzan a aproximar una identificación completa, que se hace más y más perfecta en los niveles espirituales cada vez más altos."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "La apariencia de la forma corporal material responde en cierta medida al carácter de la identidad de la personalidad. Si el cuerpo físico refleja hasta cierto punto algo de la naturaleza inherente de la personalidad, mucho más lo hace la forma de morontia. En la vida física los mortales pueden ser hermosos por fuera pero feos por dentro. En la vida en la morontia la forma de la personalidad va reflejando directamente la naturaleza de la persona interior de manera creciente a medida que se elevan los niveles. En el nivel espiritual, la forma exterior y la naturaleza interior empiezan a acercarse a una identificación completa que se hace cada vez más perfecta en niveles de espíritu cada vez más altos."
     },
     {
       "type": "paragraph",
@@ -1963,9 +1963,9 @@
       "standardReferenceId": "112:6.4",
       "pageReference": "1236.2",
       "sortId": "3.112.006.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "En el estado morontial se le otorga al mortal ascendente con la modificación nebadónica de la dote de mente cósmica del Espíritu Rector de Orvonton. El intelecto mortal como tal ha perecido, ha cesado de existir como entidad universal enfocada aparte de los circuitos indiferenciados de la mente del Espíritu Creativo. Pero los significados y valores de la mente mortal no han perecido. Ciertas fases de la mente se continúan en el alma sobreviviente; el Ajustador mantiene ciertos valores experienciales de la mente humana previa; y persiste en el universo local el registro de la vida humana como fue vivida en la carne, juntamente con ciertos registros vivos en los numerosos seres preocupados con la evaluación final del mortal ascendente, seres que van de los serafines a los Censores Universales y probablemente más allá hasta el Supremo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "En el estado de morontia el mortal ascendente es dotado con la variante propia de Nebadon de la dotación de mente cósmica del Espíritu Maestro de Orvonton. El intelecto mortal ha perecido como tal intelecto, ha dejado de existir como entidad focalizada del universo separada de los circuitos indiferenciados de mente del Espíritu Creativo. Pero los significados y valores de la mente del mortal no han perecido. Ciertos aspectos de la mente perduran en el alma superviviente, el Ajustador guarda ciertos valores experienciales de la antigua mente humana y se conservan en el universo local los expedientes de la historia de la vida humana tal como fue vivida en la carne, junto con ciertos registros vivos en los numerosos seres que se ocupan de la evaluación final del mortal ascendente. El rango de estos seres abarca desde las serafines hasta los Censores Universales y es probable que se amplíe hasta el Supremo."
     },
     {
       "type": "paragraph",
@@ -1981,9 +1981,9 @@
       "standardReferenceId": "112:6.5",
       "pageReference": "1236.3",
       "sortId": "3.112.006.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "La volición de la criatura no puede existir sin la mente, pero persiste a pesar de la pérdida del intelecto material. Durante los tiempos inmediatamente subsiguientes a la supervivencia, la personalidad ascendente está en gran medida guiada por los modelos de carácter heredados de la vida humana y por la acción de nueva aparición de la mota morontial. Y estas guías hacia la conducta de los mundos de estancia funcionan aceptablemente en las primeras etapas de la vida morontial y previamente a la emergencia de la voluntad morontial como expresión volitiva plena de la personalidad ascendente."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "La volición de una criatura no puede existir sin la mente pero subsiste a pesar de la pérdida del intelecto material. Durante los primeros tiempos de la supervivencia, la personalidad ascendente se guía en gran medida por los patrones de carácter heredados de la vida humana y por la acción recién aparecida de la mota de la morontia. Estas pautas de conducta en mansonia funcionan aceptablemente durante las primeras etapas de la vida en la morontia antes de que aparezca la voluntad de la morontia como expresión volitiva plenamente desarrollada de la personalidad ascendente."
     },
     {
       "type": "paragraph",
@@ -1999,9 +1999,9 @@
       "standardReferenceId": "112:6.6",
       "pageReference": "1236.4",
       "sortId": "3.112.006.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "No existen en la carrera del universo local influencias comparables a los siete espíritus ayudantes de la mente de la existencia humana. La mente morontial debe evolucionar por contacto directo con la mente cósmica, de la manera en que esta mente cósmica ha sido modificada y traducida por la fuente creadora del intelecto del universo local —la Ministra Divina."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "En la carrera del universo local no hay influencias comparables a los siete espíritus-mente adjutores de la existencia humana. La mente de la morontia debe evolucionar por contacto directo con la mente cósmica tal como esta mente cósmica ha sido modificada y traducida por la fuente creativa del intelecto del universo local, la Ministra Divina."
     },
     {
       "type": "paragraph",
@@ -2017,9 +2017,9 @@
       "standardReferenceId": "112:6.7",
       "pageReference": "1236.5",
       "sortId": "3.112.006.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "La mente mortal, antes de la muerte, es autoconscientemente independiente de la presencia Ajustadora; la mente que está bajo la influencia de los ayudantes, necesita tan sólo el modelo asociado de energía material para poder operar. Pero el alma morontial, estando encima de la influencia de los ayudantes, no retiene la autoconciencia sin el Ajustador cuando pierde el mecanismo de la mente material. Esta alma evolutiva posee sin embargo un carácter continuado que deriva de las decisiones de su mente que estaba bajo la influencia de los ayudantes y con la cual estaba previamente asociada, y este carácter se vuelve memoria activa cuando se energizan los modelos de la misma al regreso del Ajustador."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "Antes de la muerte la mente mortal es autoconsciente con independencia de la presencia del Ajustador; la mente adjutora solo necesita el patrón asociado de energía material para poder operar. Pero el alma de morontia, al ser superadjutora, no conserva la consciencia de sí misma sin el Ajustador cuando se ve privada del mecanismo de la mente material. Esta alma en vías de evolución posee sin embargo un carácter de continuidad que proviene de las decisiones de su antigua mente adjutora asociada, y este carácter se convierte en recuerdos activos cuando sus patrones son energizados por el Ajustador que regresa."
     },
     {
       "type": "paragraph",
@@ -2035,9 +2035,9 @@
       "standardReferenceId": "112:6.8",
       "pageReference": "1236.6",
       "sortId": "3.112.006.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "La persistencia de la memoria es prueba de la retención de la identidad de la individualidad original; es esencial para completar la autoconciencia de la continuidad y expansión de la personalidad. Aquellos mortales que ascienden sin Ajustadores dependen de la instrucción de los asociados seráficos para la reconstrucción de la memoria humana; las almas morontiales de los mortales fusionados con el Espíritu no están limitadas en otros aspectos. El esquema de memoria persiste en el alma, pero este modelo requiere la presencia del Ajustador anterior para volverse *inmediatamente* autorrealizable como memoria continuada. Se requiere considerable tiempo sin el Ajustador para que el sobreviviente mortal vuelva a explorar, vuelva a aprender y vuelva a captar, la conciencia memorativa de los significados y valores de una existencia previa."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "La persistencia de los recuerdos es la prueba de que se retiene la identidad de la yoidad original y es fundamental para completar la autoconsciencia de la continuidad y expansión de la personalidad. Los mortales que ascienden sin Ajustador dependen de la instrucción de sus acompañantes seráficas para reconstruir sus recuerdos humanos, esta es la única limitación que afecta a las almas de morontia de los mortales fusionados con el Espíritu. El patrón de los recuerdos subsiste en el alma, pero este patrón requiere la presencia del antiguo Ajustador para poder realizarse *inmediatamente* como continuación de los recuerdos. Sin el Ajustador, el superviviente mortal necesita un tiempo considerable para volver a explorar y a aprender, para recuperar los recuerdos conscientes de los significados y valores de una existencia anterior."
     },
     {
       "type": "paragraph",
@@ -2053,9 +2053,9 @@
       "standardReferenceId": "112:6.9",
       "pageReference": "1237.1",
       "sortId": "3.112.006.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "El alma de valor de supervivencia refleja fielmente las acciones y motivaciones tanto cualitativas como cuantitativas del intelecto material, el asiento anterior de la identidad del yo. Al elegir la verdad, la belleza y la bondad, la mente mortal entra en su carrera universal premorontial bajo la protección de los siete espíritus ayudantes de la mente unificados bajo la dirección del espíritu de sabiduría. Posteriormente, al cumplir los siete círculos de logro premorontial, la superposición de la dote de la mente morontial sobre la mente ayudante inicia la carrera preespiritual o morontial de progresión en el universo local."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "El alma con valor de supervivencia refleja fielmente las acciones y motivaciones tanto cualitativas como cuantitativas del intelecto material, el antiguo asiento de la identidad de la yoidad. Cuando la mente del mortal elige la verdad, la belleza y la bondad, inicia su carrera de premorontia en el universo bajo la tutela de los siete espíritus-mente adjutores unificados bajo la dirección del espíritu de sabiduría. Una vez completados posteriormente los siete círculos de logro de premorontia, la dotación de mente de morontia se superpone a la mente adjutora y se inicia así la carrera preespiritual o en la morontia de progresión en el universo local."
     },
     {
       "type": "paragraph",
@@ -2071,9 +2071,9 @@
       "standardReferenceId": "112:6.10",
       "pageReference": "1237.2",
       "sortId": "3.112.006.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "El Yo Morontial",
-      "markdown": "Cuando una criatura sale de su planeta nativo, deja atrás al ministro ayudante y se vuelve dependiente solamente del intelecto morontial. Cuando un alma ascendente deja el universo local, ha logrado el nivel espiritual de la existencia, habiendo pasado más allá del nivel morontial. Esta entidad espiritual de nueva aparición se sincroniza entonces con el ministerio directo de la mente cósmica de Orvonton."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "El yo de morontia",
+      "markdown": "Cuando una criatura deja su planeta natal, deja atrás el ministerio adjutor y pasa a depender únicamente del intelecto de morontia. Cuando un ascendente deja el universo local, ha sobrepasado el nivel de la morontia y alcanzado el nivel espiritual de existencia. Esta entidad de espíritu recién aparecida pasa entonces a sintonizarse con el ministerio directo de la mente cósmica de Orvonton."
     },
     {
       "type": "section",
@@ -2089,8 +2089,8 @@
       "standardReferenceId": "112:7.0",
       "pageReference": null,
       "sortId": "3.112.007.000",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
       "markdown": null
     },
     {
@@ -2107,9 +2107,9 @@
       "standardReferenceId": "112:7.1",
       "pageReference": "1237.3",
       "sortId": "3.112.007.001",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "La fusión con el Ajustador del Pensamiento imparte a la personalidad actualidades eternas que previamente eran tan sólo potenciales. Entre estas nuevas dotes podemos mencionar: fijación de la cualidad de divinidad, experiencia y memoria de la eternidad pasada, inmortalidad y una fase de la absolutez potencial cualificada."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "La fusión con el Ajustador del Pensamiento otorga a la personalidad actualidades eternas que antes eran solo potenciales. Entre estas nuevas dotaciones cabe mencionar: la fijación de la cualidad de divinidad, la experiencia y los recuerdos de la eternidad pasada, la inmortalidad y una porción de absolutidad potencial cualificada."
     },
     {
       "type": "paragraph",
@@ -2125,9 +2125,9 @@
       "standardReferenceId": "112:7.2",
       "pageReference": "1237.4",
       "sortId": "3.112.007.002",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Cuando hayas recorrido tu curso terrestre en tu forma temporal, te despertarás en las orillas de un mundo mejor, y finalmente te reunirás con tu fiel Ajustador en un abrazo eterno. Esta fusión constituye el misterio de hacer uno solo de Dios y el hombre, el misterio de la evolución de la criatura finita, pero es eternamente verdadero. La fusión es el secreto de la esfera sagrada de Ascendington, y ninguna criatura, salvo las que han experimentado la fusión con el espíritu de la Deidad, puede comprender el verdadero significado de los valores actuales que se combinan cuando la identidad de una criatura del tiempo se torna eternamente una con el espíritu de la Deidad Paradisiaca."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Cuando hayáis corrido la carrera terrenal bajo vuestra forma temporal, os despertaréis en las orillas de un mundo mejor y acabaréis unidos a vuestro fiel Ajustador en un abrazo eterno. Esta fusión constituye el misterio que hace uno a Dios con el hombre, el misterio de la evolución de la criatura finita; pero es eternamente cierta. La fusión es el secreto de la esfera sagrada de Ascendington, y ninguna criatura, salvo aquellas que han experimentado la fusión con el espíritu de la Deidad, puede comprender el verdadero significado de los valores reales que se conjuntan cuando la identidad de una criatura del tiempo se hace eternamente una con el espíritu de la Deidad del Paraíso."
     },
     {
       "type": "paragraph",
@@ -2143,9 +2143,9 @@
       "standardReferenceId": "112:7.3",
       "pageReference": "1237.5",
       "sortId": "3.112.007.003",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Generalmente se efectúa la fusión con el Ajustador mientras el ascendente reside dentro de su sistema local. Puede suceder en el planeta de natividad como trascendencia de la muerte natural; puede ocurrir en cualquiera de los mundos de estancia o en la sede del sistema; aun se puede retrasar hasta el tiempo de la estadía en la constelación; o, en casos especiales, puede no ser consumada hasta que el ascendente no esté en la capital del universo local."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "La fusión con el Ajustador se suele producir mientras el ascendente reside dentro de su sistema local. Puede ocurrir en su planeta natal como trascendencia de la muerte natural, en cualquiera de los mundos mansión o en la sede del sistema. Se puede incluso retrasar hasta el tiempo de la estancia en la constelación, y en casos especiales puede no consumarse hasta la llegada del ascendente a la capital del universo local."
     },
     {
       "type": "paragraph",
@@ -2161,9 +2161,9 @@
       "standardReferenceId": "112:7.4",
       "pageReference": "1237.6",
       "sortId": "3.112.007.004",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Cuando se ha efectuado la fusión con el Ajustador, ya no puede existir ningún peligro futuro que amenace la carrera eternal de dicha personalidad. Los seres celestiales pasan por pruebas a lo largo de una larga experiencia, pero los mortales pasan por un período de pruebas relativamente corto e intenso en los mundos evolucionarios y morontiales."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Cuando se ha producido la fusión con el Ajustador ya no puede haber peligro para la futura carrera eterna de esa personalidad. Los seres celestiales son puestos a prueba durante toda una larga experiencia, en cambio los mortales pasan por una prueba relativamente corta e intensa en los mundos evolutivos y de la morontia."
     },
     {
       "type": "paragraph",
@@ -2179,9 +2179,9 @@
       "standardReferenceId": "112:7.5",
       "pageReference": "1237.7",
       "sortId": "3.112.007.005",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "La fusión con el Ajustador no ocurre jamás hasta tanto no se pronuncien los mandatos del superuniverso relativos a que la naturaleza humana ha hecho su elección final e irrevocable a favor de la carrera eterna. Ésta es la autorización de unicidad, que, cuando se la emite, constituye el permiso para que la personalidad fusionada finalmente abandone las fronteras del universo local para proceder en algún momento a la sede central del superuniverso, desde cuyo punto el peregrino del tiempo en un futuro distante se enseconafinará para el prolongado viaje al universo central de Havona y la aventura a la Deidad."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "La fusión con el Ajustador no ocurre nunca hasta que los mandatos del superuniverso han confirmado la decisión definitiva e irrevocable de la naturaleza humana a favor de la carrera eterna. Una vez emitida esta autorización de aunamiento constituye el salvoconducto que permitirá en su día a la personalidad fusionada salir de los confines del universo local para dirigirse en el futuro a la sede del superuniverso, desde donde el peregrino del tiempo se ensecunafinará en un futuro lejano para el largo vuelo hacia el universo central de Havona y la aventura de la Deidad."
     },
     {
       "type": "paragraph",
@@ -2197,9 +2197,9 @@
       "standardReferenceId": "112:7.6",
       "pageReference": "1238.1",
       "sortId": "3.112.007.006",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "En los mundos evolucionarios, el yo es material; es un objeto en el universo y como tal está sujeto a las leyes de la existencia material. Es un hecho en el tiempo y responde a las vicisitudes del mismo. *Aquí se deben formular las decisiones de supervivencia.* En el estado morontial el yo se ha vuelto una realidad universal nueva y más duradera, y su crecimiento continuado se basa en una sincronización cada vez mayor con los circuitos mentales y espirituales de los universos. *Ahora se confirman las decisiones de supervivencia.* Cuando el yo alcanza el nivel espiritual, se ha vuelto un valor seguro en el universo, y se funda este nuevo valor en el hecho de que *se han tomado las decisiones de supervivencia,* hecho que ha sido atestiguado por la fusión eterna con el Ajustador del Pensamiento. Y habiendo alcanzado el estado de un verdadero valor universal, la criatura se vuelve potencialmente liberada para la búsqueda del valor universal más elevado —Dios."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "En los mundos evolutivos la yoidad es material, es una cosa del universo y está sometida como tal a las leyes de la existencia material. Es un hecho que ocurre en el tiempo y es sensible a sus vicisitudes. *Ahí es donde se tienen que formular las decisiones sobre la supervivencia*. En el estado de morontia el yo se ha convertido en una realidad del universo nueva y más duradera que sigue creciendo en la medida en que va aumentando su sintonía con los circuitos de mente y de espíritu de los universos. *Entonces se confirman las decisiones sobre la supervivencia*. Cuando el yo alcanza el nivel espiritual se ha convertido en un valor seguro del universo, y este nuevo valor se basa en el hecho de que *ya se han tomado las decisiones sobre la supervivencia*, un hecho atestiguado por la fusión eterna con el Ajustador del Pensamiento. Una vez alcanzado el estatus de verdadero valor del universo, la criatura queda potencialmente libre de buscar el valor más alto del universo: Dios."
     },
     {
       "type": "paragraph",
@@ -2215,9 +2215,9 @@
       "standardReferenceId": "112:7.7",
       "pageReference": "1238.2",
       "sortId": "3.112.007.007",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Estos seres fusionados son duales en sus reacciones con el universo: son individuos morontiales discretos no muy distintos de los serafines, y también son seres potencialmente de la orden de los finalistas del Paraíso."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Estos seres fusionados son dobles en sus reacciones en el universo: por un lado son individuos de morontia diferenciados no muy distintos de las serafines, y son además en potencial seres del orden de los finalitarios del Paraíso."
     },
     {
       "type": "paragraph",
@@ -2233,9 +2233,9 @@
       "standardReferenceId": "112:7.8",
       "pageReference": "1238.3",
       "sortId": "3.112.007.008",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Pero el individuo fusionado es realmente una personalidad, un ser, cuya unidad desafía todo intento de análisis por parte de cualquier inteligencia de los universos. Así pues, habiendo pasado los tribunales del universo local desde el más bajo hasta el más elevado, ninguno de los cuales ha sido capaz de identificar al hombre o al Ajustador, el uno aparte del otro, finalmente serás llevado ante el Soberano de Nebadon, el Padre de tu universo local. Y allí, por acción del ser mismo cuya paternidad creadora en este universo del tiempo ha hecho posible el hecho de tu vida, recibirás aquellas credenciales que te permitirán eventualmente proceder en tu carrera en el superuniverso en búsqueda del Padre Universal."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Pero el individuo fusionado es realmente una sola personalidad, un solo ser, cuya unidad desafía todos los intentos de análisis de cualquier inteligencia de los universos. Y así, habiendo pasado ante los tribunales del universo local, desde el más bajo hasta el más alto, sin que ninguno de ellos haya podido identificar al hombre o al Ajustador por separado, seréis llevados finalmente ante el Soberano de Nebadon, el Padre de vuestro universo local. Y allí, de la mano del ser mismo cuya paternidad creativa en este universo del tiempo ha hecho posible el hecho de vuestra vida, recibiréis las credenciales que os darán derecho a proseguir con el tiempo vuestra carrera en el superuniverso en busca del Padre Universal."
     },
     {
       "type": "paragraph",
@@ -2251,9 +2251,9 @@
       "standardReferenceId": "112:7.9",
       "pageReference": "1238.4",
       "sortId": "3.112.007.009",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "¿Acaso el Ajustador triunfante ha ganado estado de personalidad gracias a su magnífico servicio a la humanidad, o bien es que el valiente ser humano ha adquirido estado de inmortalidad a través de sus sinceros esfuerzos por alcanzar un estado de semejanza con el Ajustador? No es ninguna de las dos cosas; los dos juntos han logrado la evolución de un miembro de una de las órdenes únicas de personalidades ascendentes del Supremo, que será por siempre hallado útil, fiel y eficaz, un candidato para crecimiento y desarrollo ulteriores, por siempre dirigido hacia arriba y que no cesa jamás la ascensión excelsa hasta atravesar los siete circuitos de Havona y hasta que el alma antaña de origen terrestre se encuentre en reconocimiento adorador de la personalidad real del Padre en el Paraíso."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "¿Se ha ganado el Ajustador victorioso la personalidad por su magnífico servicio a la humanidad o ha logrado el valiente humano la inmortalidad gracias a su esfuerzo sincero por asemejarse al Ajustador? Ni lo uno ni lo otro. Juntos han conseguido hacer evolucionar a un miembro de uno de los órdenes únicos de personalidades ascendentes del Supremo, un ser siempre fiel, eficaz y servicial que aspira a seguir creciendo cada vez más hacia arriba. Quien fuera en su día un alma de origen terrenal no se detendrá en su ascensión superna hasta haber atravesado los siete circuitos de Havona para llegar a reconocer y adorar a la personalidad misma del Padre que está en el Paraíso."
     },
     {
       "type": "paragraph",
@@ -2269,9 +2269,9 @@
       "standardReferenceId": "112:7.10",
       "pageReference": "1238.5",
       "sortId": "3.112.007.010",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "A través de esta magnífica ascensión, el Ajustador del Pensamiento es la garantía divina de la estabilización espiritual futura y plena del mortal ascendente. Mientras tanto, la presencia del libre albedrío mortal permite al Ajustador un canal eterno para liberar la naturaleza divina e infinita. Ahora, estas dos identidades se han vuelto una; ningún acontecimiento del tiempo o de la eternidad podrá jamás separar al hombre y al Ajustador; son inseparables, están eternamente fusionados."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Durante toda esta magnífica ascensión el Ajustador del Pensamiento es la promesa divina de la plena estabilización espiritual futura del mortal ascendente. A su vez, el libre albedrío humano proporciona al Ajustador un cauce eterno para liberar la naturaleza divina e infinita. Estas dos identidades ya son una. Ningún acontecimiento del tiempo ni de la eternidad podrán separar al hombre y al Ajustador. Son inseparables, están fusionados por toda la eternidad."
     },
     {
       "type": "paragraph",
@@ -2287,9 +2287,9 @@
       "standardReferenceId": "112:7.11",
       "pageReference": "1238.6",
       "sortId": "3.112.007.011",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "En los mundos de fusión con el Ajustador, el destino del Monitor Misterioso es idéntico al del mortal ascendente: el Cuerpo de Finalistas en el Paraíso. Y ni el Ajustador ni el mortal pueden lograr este objetivo único sin la cooperación plena y la ayuda fiel del otro. Esta unión extraordinaria es uno de los fenómenos cósmicos más fascinantes y asombrosos de esta época universal."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "En los mundos donde los seres humanos se fusionan con el Ajustador, el destino del Monitor de Misterio es idéntico al del mortal ascendente: el Cuerpo de la Finalización del Paraíso. Ni el Ajustador ni el mortal pueden alcanzar esa meta única sin la plena cooperación y la ayuda fiel del otro. Esta asociación extraordinaria es uno de los fenómenos cósmicos más fascinantes y asombrosos de la presente edad del universo."
     },
     {
       "type": "paragraph",
@@ -2305,9 +2305,9 @@
       "standardReferenceId": "112:7.12",
       "pageReference": "1239.1",
       "sortId": "3.112.007.012",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "A partir del tiempo de la fusión con el Ajustador, el estado del ascendente es el de una criatura evolucionaria. El miembro humano fue el primero en disfrutar de personalidad, y por consiguiente, está por encima del Ajustador en todo asunto relacionado con el reconocimiento de la personalidad. La sede Paradisiaca de este ser fusionado es Ascendington, no Divinington, y esta combinación única de Dios y hombre se considera como un mortal ascendente hasta llegar al Cuerpo de los Finalistas."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "A partir del momento de la fusión con el Ajustador, el estatus del ascendente es el de criatura evolutiva. El miembro humano fue el primero en poseer personalidad y, por lo tanto, está jerárquicamente por encima del Ajustador en todo lo relacionado con el reconocimiento de la personalidad. La sede paradisiaca de este ser fusionado es Ascendington, no Divinington, y esta combinación única de Dios y hombre está clasificada como mortal ascendente durante todo el camino que recorre hasta el Cuerpo de la Finalización."
     },
     {
       "type": "paragraph",
@@ -2323,9 +2323,9 @@
       "standardReferenceId": "112:7.13",
       "pageReference": "1239.2",
       "sortId": "3.112.007.013",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Una vez que un Ajustador se fusiona con un mortal ascendente, el número de ese Ajustador se borra de los registros del superuniverso. Lo que pasa en los registros de Divinington yo no lo sé, pero supongo que el registro de ese Ajustador se traslada a los círculos secretos de las cortes interiores de Grandfanda, el jefe interino del Cuerpo de los Finalistas."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Una vez que un Ajustador se fusiona con un mortal ascendente el número de ese Ajustador se borra de los archivos del superuniverso. Desconozco lo que sucede con los registros de Divinington, pero supongo que el expediente de ese Ajustador se traslada a los círculos secretos de las cortes internas de Grandfanda, el director en funciones del Cuerpo de la Finalización."
     },
     {
       "type": "paragraph",
@@ -2341,9 +2341,9 @@
       "standardReferenceId": "112:7.14",
       "pageReference": "1239.3",
       "sortId": "3.112.007.014",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Con la fusión Ajustadora, el Padre Universal ha cumplido su promesa del don de sí mismo a sus criaturas materiales; ha satisfecho la promesa, ha consumado el plan, del otorgamiento de divinidad sobre la humanidad. Ahora comienza el intento humano de realizar y actualizar las posibilidades ilimitadas que son inherentes a la sociedad excelsa con Dios que de este modo se ha tornado un hecho."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Cuando se produce la fusión con el Ajustador, el Padre Universal hace realidad su promesa de donarse a sus criaturas materiales. Ha cumplido la promesa y consumado el plan del otorgamiento eterno de la divinidad a la humanidad. A partir de ese momento empieza el intento humano por comprender y actualizar las posibilidades ilimitadas inherentes a la asociación superna con Dios que se ha factualizado de este modo."
     },
     {
       "type": "paragraph",
@@ -2359,9 +2359,9 @@
       "standardReferenceId": "112:7.15",
       "pageReference": "1239.4",
       "sortId": "3.112.007.015",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "El destino presente conocido de los mortales sobrevivientes es el Cuerpo de los Finalistas del Paraíso; éste también es la meta del destino de todos aquellos Ajustadores del Pensamiento que se unen en eterna unión con sus compañeros mortales. En el presente, los finalistas del Paraíso trabajan en todo el gran universo en muchas empresas, pero todos conjeturamos que tendrán otras tareas aun más excelsas de cumplir en el futuro distante después de que los siete superuniversos se hayan establecido en luz y vida, y cuando el Dios finito haya finalmente emergido del misterio que rodea ahora a esta Deidad Suprema."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Hasta donde sabemos ahora, el destino de los mortales supervivientes es el Cuerpo de la Finalización del Paraíso y esta es también la meta del destino para todos los Ajustadores del Pensamiento que se han unido eternamente con sus compañeros mortales. En el presente, los finalitarios del Paraíso están dedicados a numerosas actividades por todo el gran universo, pero todos conjeturamos que tendrán otras tareas aun más supernas en el futuro lejano cuando los siete superuniversos se hayan asentado en luz y vida, y cuando el Dios finito haya emergido definitivamente del misterio que rodea ahora a esta Deidad Suprema."
     },
     {
       "type": "paragraph",
@@ -2377,9 +2377,9 @@
       "standardReferenceId": "112:7.16",
       "pageReference": "1239.5",
       "sortId": "3.112.007.016",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Se os ha instruido hasta cierto punto sobre la organización y el personal del universo central, los superuniversos y los universos locales; algo se os ha dicho sobre el carácter y origen de algunas de las varias personalidades que ahora gobiernan estas extensas creaciones. También se os ha informado acerca del proceso de organización de vastas galaxias de universos mucho más allá de la periferia del gran universo, en el primer nivel del espacio exterior. En el curso de estos relatos también se ha sugerido que el Ser Supremo revelará su función terciaria aún no revelada en esas regiones inexploradas del espacio exterior. También se os ha dicho que los finalistas del cuerpo del Paraíso son los hijos experienciales del Supremo."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Se os ha instruido hasta cierto punto sobre la organización y el personal del universo central, de los superuniversos y de los universos locales. Se os ha dicho algo sobre el origen y el carácter de algunas de las diversas personalidades que rigen ahora estas extensas creaciones. Se os ha informado también de que hay vastas galaxias de universos en proceso de organización mucho más allá de la periferia del gran universo, en el primer nivel del espacio exterior. Se os ha dado a entender además en estas narraciones que el Ser Supremo desvelará su función terciaria no revelada en esas regiones ahora inexploradas del espacio exterior. Y se os ha dicho también que los finalitarios del cuerpo paradisiaco son los hijos experienciales del Supremo."
     },
     {
       "type": "paragraph",
@@ -2395,9 +2395,9 @@
       "standardReferenceId": "112:7.17",
       "pageReference": "1239.6",
       "sortId": "3.112.007.017",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Creemos que los mortales fusionados con el Ajustador, juntamente con sus asociados finalistas, están destinados a funcionar de alguna manera en la administración de los universos del primer nivel del espacio exterior. No tenemos la menor duda de que eventualmente estas enormes galaxias se tornarán universos habitados. Y estamos igualmente convencidos de que entre los administradores de aquéllos se encontrará a los finalistas del Paraíso cuyas naturalezas son la consecuencia cósmica de la combinación de criatura y Creador."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Creemos que los mortales fusionados con su Ajustador, junto con sus compañeros finalitarios, están destinados a participar de alguna manera en la administración de los universos del primer nivel del espacio exterior. No tenemos la menor duda de que estas enormes galaxias se convertirán a su debido tiempo en universos habitados. Y estamos igualmente convencidos de que entre sus administradores se encontrarán los finalitarios del Paraíso cuyas naturalezas son la consecuencia cósmica de la mezcla de la criatura y el Creador."
     },
     {
       "type": "paragraph",
@@ -2413,9 +2413,9 @@
       "standardReferenceId": "112:7.18",
       "pageReference": "1239.7",
       "sortId": "3.112.007.018",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "¡Qué aventura! ¡Qué romance! Una creación gigantesca para ser administrada por los hijos del Supremo, esos Ajustadores personalizados y humanizados, mortales Ajustadorizados y eternizados, estas combinaciones misteriosas y asociaciones eternas de la manifestación más elevada conocida de la esencia de la Primera Fuente y Centro y la forma más baja de vida inteligente capaz de comprender y alcanzar al Padre Universal. Concebimos que tales seres amalgamados, tales asociaciones de Creador y criatura, llegarán a ser gobernantes extraordinarios, administradores incomparables y directores comprensivos y compasivos para todas las formas de vida inteligente que puedan existir algún día en todos estos futuros universos del primer nivel del espacio exterior."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "¡Qué aventura! ¡Qué gesta! Una creación gigantesca para ser administrada por los hijos del Supremo, esos Ajustadores personalizados y humanizados, esos mortales fusionados con su Ajustador y eternizados, esas combinaciones misteriosas y esas asociaciones eternas entre la manifestación más alta que se conoce de la esencia de la Primera Fuente y Centro y la forma más baja de vida inteligente capaz de comprender y alcanzar al Padre Universal. Imaginamos que esos seres amalgamados, esas asociaciones de Creador y criatura, se convertirán en regidores espléndidos, administradores incomparables y directores comprensivos y compasivos de todas y cada una de las formas de vida inteligente que puedan llegar a existir en esos futuros universos del primer nivel del espacio exterior."
     },
     {
       "type": "paragraph",
@@ -2431,9 +2431,9 @@
       "standardReferenceId": "112:7.19",
       "pageReference": "1240.1",
       "sortId": "3.112.007.019",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
-      "markdown": "Es verdad que vosotros los mortales sois de origen terrestre, animal; vuestro cuerpo en realidad es de polvo. Pero si realmente lo queréis, pero si verdaderamente lo deseáis, seguramente la herencia de las edades será vuestra, y algún día serviréis a lo largo y a lo ancho de los universos en vuestro carácter verdadero: hijos del Dios Supremo de la experiencia e hijos divinos del Padre del Paraíso de todas las personalidades."
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
+      "markdown": "Es cierto que vosotros los mortales sois de origen terrenal, animal, y que vuestro cuerpo es polvo. Pero si lo deseáis realmente y lo queréis de verdad, la herencia de las edades es vuestra y serviréis algún día por todos los universos en vuestra auténtica calidad de descendientes del Dios Supremo de la experiencia e hijos divinos del Padre del Paraíso de todas las personalidades."
     },
     {
       "type": "paragraph",
@@ -2449,8 +2449,8 @@
       "standardReferenceId": "112:7.20",
       "pageReference": "1240.2",
       "sortId": "3.112.007.020",
-      "paperTitle": "La Sobrevivencia de la Personalidad",
-      "sectionTitle": "La Fusión con el Ajustador",
+      "paperTitle": "La supervivencia de la personalidad",
+      "sectionTitle": "La fusión con el Ajustador",
       "markdown": "[Presentado por un Mensajero Solitario de Orvonton.]"
     }
   ]

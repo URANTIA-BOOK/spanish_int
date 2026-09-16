@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/145.md",
-  "source_sha256": "7f69cb770720a45c0f8aed26b145ccf54e2893e9cd019f73a6c6ee0ed90f415a",
+  "source_sha256": "5a4749c685a709ece3978668e479ca876a3dd75305270c34e39a512bd96fcde8",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "145:0.0",
       "pageReference": null,
       "sortId": "4.145.000.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "145:0.0",
       "pageReference": null,
       "sortId": "4.145.000.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "145:0.1",
       "pageReference": "1628.1",
       "sortId": "4.145.000.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
       "sectionTitle": null,
-      "markdown": "JESÚS y los apóstoles llegaron a Capernaum la tarde del martes 13 de enero. Como de costumbre, establecieron su cuartel general en la casa de Zebedeo en Betsaida. Ya Juan el Bautista había sido ajusticiado, y Jesús se preparaba para lanzar abierta y públicamente su primera gira de predicación en Galilea. La nueva del regreso de Jesús se corrió rápidamente por toda la ciudad, y al día siguiente, temprano, María la madre de Jesús partió apresuradamente camino a Nazaret para visitar a su hijo José."
+      "markdown": "JESÚS y los apóstoles llegaron a Cafarnaúm el martes 13 de enero por la tarde. Como de costumbre, establecieron su cuartel general en Betsaida, en casa de Zebedeo. Ahora que Juan el Bautista había sido ejecutado, Jesús se preparó para lanzarse a su primera gira de predicación pública en Galilea. La noticia del retorno de Jesús se extendió enseguida por toda la ciudad, y a primeras horas del día siguiente María, la madre de Jesús, salió apresuradamente hacia Nazaret para visitar a su hijo José."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "145:0.2",
       "pageReference": "1628.2",
       "sortId": "4.145.000.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
       "sectionTitle": null,
-      "markdown": "Jesús pasó el miércoles, el jueves y el viernes en la casa de Zebedeo, instruyendo a sus apóstoles en preparación de la primera gira prolongada de predicación pública. También recibió a muchos interesados sinceros a quienes enseñó tanto en grupos como individualmente. Encargó a Andrés que dispusiera lo necesario para que Jesús hablase en la sinagoga ese sábado."
+      "markdown": "Jesús pasó el miércoles, jueves y viernes en casa de Zebedeo instruyendo y preparando a sus apóstoles para su primera gran gira de predicación pública. También recibió y enseñó, tanto individualmente como en grupos, a muchas personas interesadas. A través de Andrés, se organizó para hablar en la sinagoga el sabbat siguiente."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "145:0.3",
       "pageReference": "1628.3",
       "sortId": "4.145.000.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
       "sectionTitle": null,
-      "markdown": "El viernes al fin de la tarde la hermana menor de Jesús, Ruth, lo visitó en secreto. Pasaron juntos casi una hora, en una barca anclada a poca distancia de la costa. Ningún ser humano supo de esta visita, salvo Juan Zebedeo, a quien se le advirtió que nada dijera a nadie. Ruth fue la única entre los familiares de Jesús que creyó en la divinidad de su misión en la tierra constantemente y sin vacilaciones desde la temprana adquisición de su conciencia espiritual, y a lo largo del pletórico ministerio de Jesús, su muerte, su resurrección y ascensión; finalmente pasó Ruth a los mundos del más allá sin haber dudado jamás del carácter sobrenatural de la misión en la carne de su padre-hermano. A través de las duras tribulaciones del proceso, el repudio y la crucifixión, la pequeña Ruth fue el mayor consuelo de Jesús en cuanto se refería a su familia terrestre."
+      "markdown": "Al final de la tarde del viernes Rut, la hermana menor de Jesús, le hizo una visita en secreto. Pasaron casi una hora juntos en una barca anclada a poca distancia de la costa. Ningún ser humano salvo Juan Zebedeo supo nunca de esta visita, y se le advirtió de que no se lo dijera a nadie. Rut fue el único miembro de la familia de Jesús que creyó sistemática e inquebrantablemente en la divinidad de su misión en la tierra desde que se despertó en ella la consciencia espiritual y durante todos los intensos episodios de su ministerio, muerte, resurrección y ascensión. Rut pasó finalmente a los mundos del más allá sin haber dudado nunca del carácter sobrenatural de la misión de su hermano-padre en la carne. La pequeña Rut fue el principal consuelo de Jesús por parte de su familia terrenal durante las penosas pruebas de su juicio, rechazo y crucifixión."
     },
     {
       "type": "section",
@@ -109,8 +109,8 @@
       "standardReferenceId": "145:1.0",
       "pageReference": null,
       "sortId": "4.145.001.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Redada de los Peces",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La gran redada de peces",
       "markdown": null
     },
     {
@@ -127,9 +127,9 @@
       "standardReferenceId": "145:1.1",
       "pageReference": "1628.4",
       "sortId": "4.145.001.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Redada de los Peces",
-      "markdown": "En la mañana del viernes de esta misma semana, al estar Jesús enseñando junto al lago, la multitud tanto se le fue acercando que prácticamente lo empujó hasta la orilla misma; entonces llamó Jesús con un gesto a unos pescadores que estaban cerca de allí en una barca, para que fueran a rescatarlo. Subiendo a la barca, continuó pues enseñando a la multitud congregada más de dos horas. La barca llevaba el nombre de «Simón», habiendo sido anteriormente la barca de pesca de Simón Pedro, la cual había sido construida por Jesús mismo. Esta mañana usaban la barca David Zebedeo y dos de sus socios, que acababan de volver después de una noche de pesca infructuosa en el lago. Estaban limpiando y remendando sus redes cuando Jesús los llamó a que lo ayudaran."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La gran redada de peces",
+      "markdown": "El viernes por la mañana de esa misma semana Jesús estaba enseñando a la orilla del mar y la gente se agolpaba tanto a su alrededor que lo empujaba hacia el agua. Entonces llamó por señas a unos pescadores, se subió a su barca y siguió predicando a la multitud durante más de dos horas. La embarcación se llamaba «Simón»; era la antigua nave de pesca de Simón Pedro y había sido construida por las propias manos de Jesús. Esa mañana iba tripulada por David Zebedeo y dos compañeros, que acababan de volver a la costa tras una noche infructuosa de pesca en el lago. Estaban limpiando y reparando sus redes cuando Jesús les pidió ayuda."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "145:1.2",
       "pageReference": "1628.5",
       "sortId": "4.145.001.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Redada de los Peces",
-      "markdown": "Cuando terminó Jesús de enseñar a las gentes, dijo a David: «Como hubisteis de interrumpir vuestro trabajo para acudir en mi ayuda, dejadme ahora trabajar con vosotros. Vamos a pescar. Vayamos allí, donde las aguas son profundas, y arrojad las redes». Pero Simón, uno de los ayudantes de David, respondió: «Maestro, no vale la pena. Trabajamos toda la noche, y nada pescamos. Sin embargo, si es tu voluntad, iremos a donde es hondo y arrojaremos las redes». Simón estuvo dispuesto a seguir las instrucciones de Jesús porque su amo David así se lo indicó con un gesto. Cuando llegaron al sitio señalado por Jesús, arrojaron las redes y juntaron tal cantidad de peces que temían que se rompieran las redes, tanto que llamaron a sus asociados que estaban en la costa para que vinieran a ayudarlos. Cuando hubieron cargado las tres barcas de tal cantidad de peces que estaban a punto de hundirse, este Simón se arrojó a los pies de Jesús diciendo: «Apártate de mí, Maestro, porque soy un pecador». Simón y todos los demás estaban asombrados por la abundancia de peces. Desde ese día, David Zebedeo, este Simón y sus asociados abandonaron sus redes y siguieron a Jesús."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La gran redada de peces",
+      "markdown": "Cuando Jesús hubo terminado de enseñar a la gente dijo a David: «Has perdido tu tiempo por ayudarme, así que ahora me toca a mí trabajar contigo. Vamos a pescar hacia aquella parte profunda. Echad ahí las redes y hallaréis pesca». Simón, uno de los ayudantes de David, contestó: «Maestro, es inútil. Hemos faenado toda la noche y no hemos pescado nada, pero si tú lo dices saldremos y echaremos las redes». Simón consintió en seguir las indicaciones de Jesús porque David, su patrón, se lo ordenó con un gesto. Al llegar al lugar designado por Jesús echaron las redes y juntaron tal cantidad de peces que temían romper las redes; tanto es así que tuvieron que pedir ayuda por señas a sus compañeros de la costa. Cuando hubieron llenado tres barcas de peces hasta casi hundirlas, este Simón se postró a los pies de Jesús diciendo: «Apártate de mí, Maestro, porque soy un pecador». Simón y todos los implicados en este episodio se quedaron atónitos con esta redada de peces. A partir de aquel día, David Zebedeo, este Simón y sus compañeros abandonaron sus redes y siguieron a Jesús."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "145:1.3",
       "pageReference": "1629.1",
       "sortId": "4.145.001.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Redada de los Peces",
-      "markdown": "Pero no había sido ésta en ningún sentido una pesca milagrosa. Jesús era un observador atento de la naturaleza; era, a la vez, un pescador experto y conocía los hábitos de los peces en el Mar de Galilea. En esta ocasión, se limitó a señalar a estos hombres el sitio al que generalmente convergían los peces a esa hora del día. Pero los seguidores de Jesús siempre lo consideraban un milagro."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La gran redada de peces",
+      "markdown": "Pero este episodio no fue ninguna pesca milagrosa. Jesús era un observador atento de la naturaleza; era un experto pescador y conocía los hábitos de los peces del mar de Galilea. En esta ocasión se limitó a dirigir a esos hombres hacia el lugar donde los peces solían juntarse habitualmente a aquella hora del día. Sin embargo los seguidores de Jesús lo consideraron siempre un milagro."
     },
     {
       "type": "section",
@@ -181,8 +181,8 @@
       "standardReferenceId": "145:2.0",
       "pageReference": null,
       "sortId": "4.145.002.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
       "markdown": null
     },
     {
@@ -199,9 +199,9 @@
       "standardReferenceId": "145:2.1",
       "pageReference": "1629.2",
       "sortId": "4.145.002.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "El sábado siguiente, en el servicio de la tarde de la sinagoga, Jesús predicó su sermón sobre «La voluntad del Padre en el cielo». Por la mañana, Simón Pedro había predicado sobre «El reino». En la reunión del jueves por la noche en la sinagoga había enseñado Andrés, siendo su tema «El nuevo camino». En ese momento había más creyentes de Jesús en Capernaum que en ninguna otra ciudad de la tierra."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "El sabbat siguiente Jesús predicó su sermón sobre «La voluntad del Padre del cielo» en el oficio de la tarde en la sinagoga. Por la mañana Simón Pedro había predicado sobre «El reino». En la reunión del jueves por la noche en la sinagoga Andrés había enseñado sobre «El nuevo camino». En aquel momento había en Cafarnaúm más gente que creía en Jesús que en cualquier otra ciudad de la tierra."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "145:2.2",
       "pageReference": "1629.3",
       "sortId": "4.145.002.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Cuando Jesús enseñó en la sinagoga ese sábado por la tarde, de acuerdo con la costumbre tomó el primer texto de la ley, leyendo del libro del Exodo: «Y servirás al Señor tu Dios, y él bendecirá tu pan y tu agua, y toda enfermedad te será quitada». Eligió el segundo texto de los Profetas, leyendo de Isaías: «Levántate, resplandece, porque ha venido tu luz, y la gloria del Señor se ha levantado sobre ti. Podrá la oscuridad cubrir la tierra y podrán las tinieblas envolver a la gente, mas sobre ti amanecerá el espíritu del Señor y contigo será vista la gloria divina. Aun los gentiles andarán a esta luz, y muchas mentes preclaras se rendirán ante el resplandor de esta luz»."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Esa tarde de sabbat en la sinagoga Jesús, siguiendo la costumbre, tomó el primer texto de la ley y leyó del libro del Éxodo: «Y servirás al Señor tu Dios, y él bendecirá tu pan y tu agua, y toda enfermedad será apartada de ti». El segundo texto lo escogió de los Profetas y leyó de Isaías: «Levántate y resplandece, porque ha llegado tu luz y la gloria del Señor ha amanecido sobre ti. La oscuridad podrá cubrir la tierra y las tinieblas profundas a la gente, pero el espíritu del Señor se levantará sobre ti y verán que la gloria divina te acompaña. Incluso los gentiles vendrán hacia esta luz y muchos grandes pensadores se rendirán ante su resplandor»."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "145:2.3",
       "pageReference": "1629.4",
       "sortId": "4.145.002.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Jesús predicó este sermón para aclarar el hecho de que la religión es una *experiencia personal.* Entre otras cosas dijo el Maestro:"
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Este sermón fue un esfuerzo por parte de Jesús de dejar claro el hecho de que la religión es una *experiencia personal*. El Maestro dijo entre otras cosas:"
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "145:2.4",
       "pageReference": "1629.5",
       "sortId": "4.145.002.004",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "«Bien sabéis que aunque un padre de corazón tierno ama a su familia en su totalidad, los considera así en grupo, debido a su poderoso afecto por cada uno de los individuos que forman esa familia. Ya no tienes que acercarte al Padre en el cielo como hijo de Israel, sino como *hijo de Dios.* Como grupo, sois efectivamente los hijos de Israel, pero como individuos, cada uno de vosotros es hijo de Dios. Yo he venido, no para revelar el Padre a los hijos de Israel, sino más bien para traer este conocimiento de Dios y la revelación de su amor y misericordia al creyente individual, como una genuina experiencia personal. Todos los profetas os han enseñado que Yahvé ama a su pueblo, que Dios ama a Israel. Pero yo he venido entre vosotros para proclamar una verdad aun más grande, una verdad que muchos de los últimos profetas también alcanzaron a comprender, o sea, que Dios *os* ama —a cada uno de vosotros— como individuos. Durante todas estas generaciones habéis vosotros tenido una religión nacional o racial; yo he venido ahora para daros una religión personal."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "«Es bien sabido que si un padre cariñoso ama a su familia como conjunto y la considera como grupo, se debe al profundo afecto que siente por cada uno de los miembros de esa familia. Ya no tenéis que acercaros al Padre del cielo como hijos de Israel sino como *hijos de Dios*. Como grupo sois sin duda los hijos de Israel, pero como individuo cada uno de vosotros es un hijo de Dios. Yo no he venido para revelar al Padre a los hijos de Israel sino para traer a cada creyente concreto este conocimiento de Dios y la revelación de su amor y su misericordia como una auténtica experiencia personal. Todos los profetas os han enseñado que Yahvé cuida de su pueblo, que Dios ama a Israel. Pero yo he venido a vosotros para proclamar una verdad más grande, una verdad que muchos de los últimos profetas también captaron, la verdad de que Dios ama —a cada uno de vosotros— como individuos. Durante todas estas generaciones habéis tenido una religión nacional o racial; yo vengo ahora a daros una religión personal.**"
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "145:2.5",
       "pageReference": "1630.1",
       "sortId": "4.145.002.005",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "«Pero aun ésta no es una idea nueva. Muchos de entre vosotros con sensibilidad espiritual han conocido esta verdad, en la medida en que algunos de los profetas así os han instruido. Acaso no habéis leído en las Escrituras que dice el profeta Jeremías: ‘En aquellos días no dirán más: los padres comieron las uvas agrias y los dientes de los hijos tienen la dentera. Cada cual morirá por su propia maldad; los dientes de todo hombre que comiere las uvas agrias, tendrán la dentera. He aquí que vienen días en los cuales haré nuevo pacto con mi pueblo, no como el pacto que hice con sus padres el día que los sacé de la tierra de Egipto, sino que será el pacto según el nuevo camino. Escribiré aun mi ley en su corazón. Yo seré a ellos por Dios, y ellos me serán por pueblo. En aquello día no dirán, un hombre a su vecino: ¿conoces al Señor? ¡No!, porque todos me conocerán, desde el más pequeño hasta el más grande’."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "«Pero esta idea no es nueva. Muchos de los que tenéis inclinaciones espirituales habéis conocido esta verdad porque algunos profetas os la han enseñado. ¿No habéis leído en las Escrituras este pasaje del profeta Jeremías?: ‘En aquellos días ya no volverán a decir: los padres comieron uvas agrias y los hijos tienen dentera. Cada cual morirá por su propia iniquidad; todo hombre que coma uvas agrias tendrá dentera. Mirad, llega el día en que haré una nueva alianza con mi pueblo, no como la alianza que hice con sus padres cuando los saqué de la tierra de Egipto, sino conforme al nuevo camino. Incluso escribiré mi ley en sus corazones. Yo seré su Dios y ellos serán mi pueblo. Ese día ningún hombre preguntará a su vecino: ¿conoces al Señor? ¡No! Porque todos ellos me conocerán personalmente, desde el más pequeño hasta el más grande’."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "145:2.6",
       "pageReference": "1630.2",
       "sortId": "4.145.002.006",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "«¿Acaso no habéis leído estas promesas? ¿Acaso no creéis en las Escrituras? ¿Acaso no comprendéis que las palabras del profeta se cumplen en lo que contempláis en este día? ¿Acaso no os exhortó Jeremías a que hicierais la religión en un asunto del corazón, a que os relacionarais con Dios como individuos? ¿Acaso no os dijo el profeta que Dios del cielo escudriña cada corazón individual? ¿No se os advirtió que el corazón humano por naturaleza es engañoso más que todas las cosas y muchas veces desesperadamente perverso?"
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "«¿No habéis leído estas promesas? ¿No creéis en las Escrituras? ¿No entendéis que las palabras del profeta se están cumpliendo en lo que estáis viendo hoy mismo? ¿No os ha exhortado Jeremías a que hagáis de la religión un asunto del corazón, a que os relacionéis con Dios como individuos? ¿No os ha dicho el profeta que el Dios del cielo escudriñará el corazón de cada uno de vosotros? ¿Y no se os ha advertido que el corazón humano es, por naturaleza, más engañoso que nada y a menudo extremadamente perverso?"
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "145:2.7",
       "pageReference": "1630.3",
       "sortId": "4.145.002.007",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "«¿Acaso no habéis leído también donde Ezequiel enseñó a vuestros padres que la religión debe llegar a ser realidad en vuestra experiencia individual? Ya no usaréis el proverbio que dice: ‘los padres comieron las uvas agrias y los dientes de los hijos tienen la dentera’. ‘Así como yo vivo’, dice el Señor Dios, ‘He aquí que todas las almas son mías; como el alma del padre, así el alma del hijo. Sólo el alma que peca morirá’. Y luego, Ezequiel llegó a predecir este día cuando habló en nombre de Dios diciendo: ‘También os daré corazón nuevo, y pondré espíritu nuevo dentro de vosotros’."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "«¿No habéis leído también el pasaje donde Ezequiel enseñó en su día a vuestros padres que la religión debe hacerse realidad en vuestra experiencia individual? Nunca más tendréis por qué usar el proverbio que dice: ‘Los padres comieron uvas agrias y los hijos tienen dentera’. ‘Vivo yo’, dice el Señor Dios, ‘ved que todas las almas son mías; tanto el alma del padre como el alma del hijo. Solo el alma que peque morirá’. Y luego Ezequiel predijo incluso el día de hoy cuando habló en nombre de Dios diciendo: ‘Os daré también un corazón nuevo y pondré dentro de vosotros un espíritu nuevo’."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "145:2.8",
       "pageReference": "1630.4",
       "sortId": "4.145.002.008",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "«Ya no temáis que Dios castigue una nación por el pecado de un individuo; tam-poco castigará el Padre en el cielo a uno de sus hijos creyentes por los pecados de una nación, a pesar de que cada integrante de una familia sufra a menudo las consecuencias materiales de los errores de la familia y de las transgresiones del grupo. ¿Acaso no os dais cuenta de que la esperanza de una nación mejor —o de un mundo mejor— está vinculada con el progreso y esclarecimiento del individuo?»"
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "«Dejad de temer que Dios castigue a una nación por el pecado de un individuo. El Padre del cielo tampoco castigará a uno de sus hijos creyentes por los pecados de una nación, si bien es cierto que cada integrante de una familia sufre a menudo las consecuencias materiales de los errores de la familia y de las transgresiones del grupo. ¿No os dais cuenta de que la esperanza de una nación mejor —o de un mundo mejor— está ligada al progreso y al esclarecimiento del individuo?»"
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "145:2.9",
       "pageReference": "1630.5",
       "sortId": "4.145.002.009",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Luego dijo el Maestro que, una vez que el hombre discierne esta libertad espiritual, el Padre en el cielo manda que sus hijos en la tierra comiencen esa ascensión eterna de la carrera hacia el Paraíso que consiste en la respuesta consciente de la criatura al impulso divino del espíritu residente por encontrar a su Creador, por conocer a Dios y por esforzarse en llegar a ser como él."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "El Maestro terminó explicando que, una vez que el hombre ha percibido esta libertad espiritual, el Padre del cielo quiere que sus hijos de la tierra empiecen la ascensión eterna de la carrera al Paraíso, que consiste en una respuesta consciente de la criatura al divino afán del espíritu que mora en su interior por encontrar al Creador, conocer a Dios y hacerse como él."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "145:2.10",
       "pageReference": "1630.6",
       "sortId": "4.145.002.010",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Los apóstoles mucho aprendieron de este sermón. Todos ellos se percataron más plenamente de que el evangelio del reino es un mensaje dirigido al individuo y no a la nación."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Este sermón fue de gran ayuda para los apóstoles. Todos comprendieron mucho mejor que el evangelio del reino es un mensaje dirigido al individuo, no a la nación."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "145:2.11",
       "pageReference": "1630.7",
       "sortId": "4.145.002.011",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Aunque el pueblo de Capernaum conocía las enseñanzas de Jesús, se asombraron al escuchar su sermón de este día sábado. Él enseñaba verdaderamente como aquel que tiene autoridad, y no como los escribas."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Aunque los habitantes de Cafarnaúm ya conocían las enseñanzas de Jesús, este sermón del sabbat los dejó impresionados. Enseñó realmente como quien tiene autoridad, no como los escribas."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "145:2.12",
       "pageReference": "1630.8",
       "sortId": "4.145.002.012",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "En el momento en que Jesús terminaba de hablar, un joven oyente que mucho se había turbado por sus palabras, cayó en un violento ataque epiléptico acompañado de fuertes gritos. Al fin del ataque, cuando estaba volviendo en sí, habló en un estado de ensueño, diciendo: «¿Qué tenemos que ver nosotros contigo, Jesús de Nazaret? Tú eres el santo enviado por Dios; ¿has venido para destruirnos?» Jesús mandó a la multitud que callara y, tomando al joven de la mano, dijo: «Recúperate»; y éste inmediatamente despertó."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Cuando Jesús terminó de hablar, un joven oyente que se había sentido muy alterado por sus palabras sufrió un violento ataque epiléptico acompañado de fuertes gritos. Al final de la crisis, mientras recobraba la consciencia, habló en estado de ensoñación y dijo: «¿Qué tenemos que ver contigo, Jesús de Nazaret? Eres el santo de Dios; ¿has venido a destruirnos?» Jesús pidió calma a la gente y tomó al joven de la mano diciéndole: «Vuelve en ti», y el enfermo se despertó en el acto."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "145:2.13",
       "pageReference": "1631.1",
       "sortId": "4.145.002.013",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Este joven no estaba poseído por un espíritu impuro o un demonio; era simplemente víctima de la epilepsia. Pero se le había enseñado lo que poseía un espíritu maligno, que ésa era la causa de su aflicción. Él así lo creía y así actuaba en todo lo que pensaba o decía sobre su enfermedad. Todos creían que estos fenómenos se debían directamente a la presencia de espíritus impuros. Por consiguiente, creyeron que Jesús había arrojado un demonio desde el ser este hombre. Pero en realidad Jesús no curó la epilepsia del joven en esa ocasión. No fue hasta más tarde, después de la puesta del sol, que este joven fue sanado. Mucho después del día de Pentecostés, el apóstol Juan, quien fue el último en escribir sobre las obras de Jesús, evitó toda referencia a estos así llamados actos de «echar a los demonios», y así lo hizo porque ya no ocurrieron estos casos de posesión por el demonio después de Pentecostés."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Se trataba de un caso de epilepsia ordinaria; el joven no estaba poseído por ningún demonio o espíritu impuro, pero le habían enseñado que un espíritu maligno le provocaba esos ataques. Él así lo creía y así se comportaba en todo lo referente a su enfermedad. Todo el mundo creía que esos fenómenos estaban causados directamente por la presencia de espíritus impuros, y la gente pensó naturalmente que Jesús había expulsado un demonio de este hombre. Sin embargo Jesús no curó su epilepsia en ese momento. El joven fue sanado realmente aquel día, pero eso ocurrió más tarde, después de la puesta del sol. El apóstol Juan fue el último que escribió sobre los hechos de Jesús, y lo hizo mucho después del día de Pentecostés. Juan evitó en sus escritos toda referencia a estas supuestas «expulsiones de demonios» en vista del hecho de que no volvió a haber ningún caso de posesión demoníaca después de Pentecostés."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "145:2.14",
       "pageReference": "1631.2",
       "sortId": "4.145.002.014",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Como resultado de este incidente trivial, se corrió rápidamente por todo Capernaum la noticia de que Jesús había echado a un demonio del ser de cierto hombre, curándolo milagrosamente en la sinagoga al terminar su sermón vespertino. El sábado era el día más indicado para que estos rumores tan sorprendentes se corrieran tan velozmente. Los relatos llegaron hasta las poblaciones más pequeñas que rodeaban a Capernaum, y muchos los creyeron."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Como resultado de este trivial incidente no tardó en difundirse por todo Cafarnaúm la noticia de que Jesús había expulsado a un demonio de un hombre y lo había sanado milagrosamente en la sinagoga al final de su sermón de la tarde. El sabbat era el día más indicado para que se propagara rápidamente un rumor tan llamativo. La noticia llegó también hasta los asentamientos más pequeños que rodeaban Cafarnaúm y se la creyó mucha gente."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "145:2.15",
       "pageReference": "1631.3",
       "sortId": "4.145.002.015",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "La esposa de Simón Pedro y la madre de ella se ocupaban de la mayor parte del trabajo doméstico y de cocinar en la gran casa de Zebedeo, que se había convertido en el cuartel general de Jesús y los doce. La casa de Pedro estaba cerca de la de Zebedeo; y Jesús y sus amigos se detuvieron allí, camino de vuelta de la sinagoga, porque la suegra de Pedro estaba enferma desde hacía varios días, con fiebre y escalofríos. Ocurrió pues que, mientras Jesús estaba de pie junto a la mujer enferma y le apretaba la mano y le acariciaba la frente hablándole palabras de consuelo y aliento, la fiebre la abandonó. Jesús aún no había tenido tiempo de explicar a sus apóstoles que no se había producido milagro alguno en la sinagoga; y con este episodio tan fresco y vívido en su mente, y al recordar además el incidente del agua y el vino en Caná, interpretaron esta coincidencia como otro milagro, y algunos de ellos corrieron a dar la nueva por toda la ciudad."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "En la amplia casa de Zebedeo convertida en cuartel general de Jesús y los doce, la esposa y la suegra de Simón Pedro se encargaban de hacer la comida y casi todo el trabajo doméstico. La casa de Pedro estaba cerca de la de Zebedeo, y al volver de la sinagoga, Jesús y sus amigos fueron a visitar a la suegra de Pedro que llevaba varios días postrada con fiebre y escalofríos. Durante esa visita dio la casualidad de que le desapareció la fiebre coincidiendo más o menos con el rato en que Jesús estuvo junto a la enferma agarrándole la mano y acariciándole la frente con palabras de consuelo y aliento. Jesús no había tenido tiempo de explicar a sus apóstoles que no se había obrado ningún milagro en la sinagoga, y ellos, con ese incidente tan fresco en la memoria unido al recuerdo del agua y el vino de Caná, interpretaron esta última coincidencia como otro milagro. Algunos salieron apresuradamente a difundir la noticia por toda la ciudad."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "145:2.16",
       "pageReference": "1631.4",
       "sortId": "4.145.002.016",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Amata, la suegra de Pedro, sufría de paludismo. En esa ocasión no fue sanada milagrosamente por Jesús. Su curación no se produjo hasta varias horas más tarde, después de la puesta del sol, en conexión con el acontecimiento extraordinario que ocurrió en el patio delante de la casa de Zebedeo."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Amata, la suegra de Pedro, tenía paludismo. Jesús no la curó milagrosamente durante su visita sino que fue curada unas horas más tarde durante el extraordinario acontecimiento que tuvo lugar en el patio delantero de la casa de Zebedeo tras la puesta del sol."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "145:2.17",
       "pageReference": "1631.5",
       "sortId": "4.145.002.017",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Tarde en la Sinagoga",
-      "markdown": "Estos casos son ejemplos típicos de la forma en que una generación con anhelos de acontecimientos maravillosos, un pueblo que amaba pensar en milagros, se aferraba indefectiblemente de estas coincidencias como pretexto para proclamar que Jesús había producido otro milagro."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La tarde en la sinagoga",
+      "markdown": "Estos casos muestran cómo una generación aficionada a los prodigios y un pueblo inclinado a los milagros se aferraban sistemáticamente a todas estas coincidencias como pretexto para proclamar que Jesús había obrado otro milagro."
     },
     {
       "type": "section",
@@ -505,8 +505,8 @@
       "standardReferenceId": "145:3.0",
       "pageReference": null,
       "sortId": "4.145.003.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
       "markdown": null
     },
     {
@@ -523,9 +523,9 @@
       "standardReferenceId": "145:3.1",
       "pageReference": "1631.6",
       "sortId": "4.145.003.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Cuando Jesús y sus apóstoles se preparaban para compartir su cena al terminarse este sábado memorable, ya en Capernaum y sus alrededores había cundido la curiosidad y la zozobra por los así llamados milagros de curación; y todos los que estaban enfermos o afligidos empezaron a prepararse para ir adonde Jesús o para que sus amigos los llevaran allí en cuanto se pusiera el sol. Según las enseñanzas judías no está permitido ni siquiera ir en busca de salud durante las horas sagradas del sábado."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Al final de este intenso sabbat, cuando Jesús y sus apóstoles se disponían a cenar, todo Cafarnaúm y sus alrededores rebosaba de expectación por las supuestas curaciones milagrosas y todos los enfermos y lisiados de la zona se preparaban para llegar hasta Jesús o hacer que los llevaran sus amigos en cuanto se pusiera el sol. Según las enseñanzas judías, ni siquiera estaba permitido ir en busca de curación durante las horas sagradas del sabbat."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "145:3.2",
       "pageReference": "1632.1",
       "sortId": "4.145.003.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Así pues, tan pronto como el sol desapareció detrás del horizonte, decenas de hombres, mujeres y niños afligidos se encaminaron a la casa de Zebedeo en Betsaida. Un hombre salió con su hija paralítica en cuanto se ocultó el sol tras la casa de su vecino."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Por eso, en cuanto el sol se hundió en el horizonte decenas de dolientes —hombres, mujeres y niños— se encaminaron hacia la casa de Zebedeo en Betsaida. Un hombre salió con su hija paralítica en cuanto se ocultó el sol por detrás de la casa de su vecino."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "145:3.3",
       "pageReference": "1632.2",
       "sortId": "4.145.003.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Los acontecimientos de todo ese día venían preparando el escenario para este extraordinario espectáculo a la puesta del sol. Hasta el texto que Jesús eligiera para su sermón de la tarde parecía sugerir que la enfermedad se desterraría; ¡él había hablado con tanta autoridad y poder! ¡Y tan apremiante había sido su mensaje! Sin apelar a la autoridad humana, había hablado directamente a la conciencia y al alma de los hombres. Sin recurrir a la lógica ni a la sutileza legal, ni a la elocuencia ingeniosa, había apelado poderosa, directa, clara y personalmente al corazón de sus oyentes."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Los acontecimientos del día habían preparado el escenario para este extraordinario espectáculo al anochecer. ¡Hasta el texto que Jesús había utilizado en su sermón de la tarde insinuaba que la enfermedad sería desterrada, y había hablado con un poder y una autoridad sin precedentes! ¡No había apelado a la autoridad humana, sino que había hablado directamente a la conciencia y el alma de los hombres con un mensaje irresistible! No había recurrido a la lógica ni a subterfugios legales ni a dichos ingeniosos, sino que había apelado de forma poderosa, directa, clara y personal al corazón de sus oyentes."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "145:3.4",
       "pageReference": "1632.3",
       "sortId": "4.145.003.004",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Ese sábado fue un gran día en la vida de Jesús en la tierra y en la vida de un universo. Para el universo local, la pequeña ciudad judía de Capernaum era en ese momento realmente la capital de Nebadon. El puñado de judíos que se encontraban en la sinagoga de Capernaum no eran los únicos en escuchar las palabras estremecedoras con que Jesús concluyó su sermón: «El odio es la sombra del temor; la venganza, la máscara de la cobardía». Tampoco podían los oyentes olvidar sus palabras benditas, que declaraban: «El hombre es hijo de Dios; no es hijo del diablo»."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Aquel sabbat fue un gran día en la vida terrenal de Jesús y también en la vida de un universo. A todos los efectos prácticos del universo local, la pequeña ciudad judía de Cafarnaúm fue la capital real de Nebadon. El puñado de judíos presentes en la sinagoga de Cafarnaúm no fueron los únicos seres que escucharon la importantísima declaración que cerró el sermón de Jesús: «El odio es la sombra del miedo y la venganza, la máscara de la cobardía». Sus oyentes tampoco olvidarían sus benditas palabras cuando dijo: «El hombre es hijo de Dios, no vástago del diablo»."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "145:3.5",
       "pageReference": "1632.4",
       "sortId": "4.145.003.005",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Poco después de la puesta del sol, mientras Jesús y sus apóstoles departían en la sobremesa, la esposa de Pedro oyó voces en el patio y, al ir a la puerta, vio una multitud de enfermos que convergían hacia la casa y muchos más que se iban acercando por el congestionado camino de Capernaum, en busca de curación en las manos de Jesús. Al contemplar este espectáculo, ella volvió inmediatamente e informó a su marido, quien se lo dijo a Jesús."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Poco después de ponerse el sol, Jesús y los apóstoles estaban aún de sobremesa cuando la esposa de Pedro oyó voces en el patio delantero. Al asomarse a la puerta vio que se estaba congregando una multitud de enfermos ante la casa, y muchos más se acercaban por el abarrotado camino de Cafarnaúm en busca de curación a manos de Jesús. Ante este espectáculo avisó inmediatamente a su marido, y Pedro se lo dijo a Jesús."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "145:3.6",
       "pageReference": "1632.5",
       "sortId": "4.145.003.006",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Cuando el Maestro salió de la puerta de entrada de la casa de Zebedeo, sus ojos se encontraron con una gran masa de humanidad enferma y afligida. Contempló casi mil seres humanos enfermos y sufrientes; por lo menos, ésa era la multitud congregada delante de él. No todos los presentes estaban afligidos; algunos traían a sus seres queridos para que se sanaran."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Cuando el Maestro apareció en la entrada principal de la casa de Zebedeo, una masa humana doliente y afligida se desplegó ante sus ojos. Había por lo menos mil seres humanos enfermos y achacosos reunidos delante de él, aunque no todos estaban aquejados de alguna dolencia; algunos acompañaban a sus seres queridos en este esfuerzo por curarse."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "145:3.7",
       "pageReference": "1632.6",
       "sortId": "4.145.003.007",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "El espectáculo de estos mortales afligidos, hombres, mujeres y niños sumidos en el sufrimiento, debido en gran parte a los errores y malas obras de sus propios Hijos confiados, de la administración del universo, conmovió profundamente el corazón humano de Jesús y puso a prueba la misericordia divina de este benévolo Hijo Creador. Pero Jesús bien sabía que no era posible construir un movimiento espiritual duradero sobre los cimientos de milagros puramente materiales. Se había abstenido constantemente de exhibir sus prerrogativas de creador de acuerdo con su política fijada. Desde el episodio de Caná no había habido ningún acontecimiento sobrenatural ni milagroso durante su enseñanza; sin embargo, esta multitud afligida conmovió profundamente su corazón compasivo y apeló fuertemente a su compasivo cariño."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "El espectáculo de esos mortales dolientes —hombres, mujeres y niños— que sufrían en gran parte por culpa de los errores y desmanes de sus propios Hijos encargados de la administración del universo, conmovió de forma especial el corazón humano de Jesús y fue un reto para la misericordia divina de este benévolo Hijo Creador. Pero Jesús sabía muy bien que no podría construir nunca un movimiento espiritual duradero sobre el fundamento de unos prodigios puramente materiales, por eso se había abstenido sistemáticamente de exhibir sus prerrogativas de creador. Desde Caná no se había visto nada sobrenatural ni milagroso asociado a sus enseñanzas, y sin embargo esa multitud doliente enterneció su corazón compasivo y apeló poderosamente a su cariñosa comprensión."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "145:3.8",
       "pageReference": "1632.7",
       "sortId": "4.145.003.008",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Una voz en el frente del patio exclamó: «Maestro, di la palabra, devuélvenos la salud, cúranos de nuestras enfermedades y salva nuestras almas». Ni bien fueron pronunciadas estas palabras, cuando un vasto séquito de serafines, controladores físicos, Portadores de Vida y seres intermedios, siempre presente junto a este Creador encarnado de un universo, se preparó para actuar con poder creativo en el caso de que diera una señal su Soberano. Fue éste uno de esos momentos de la carrera terrestre de Jesús en los que la sabiduría divina y la compasión humana se entrelazaron de tal modo en el juicio del Hijo del Hombre, que éste buscó refugio en apelar a la voluntad de su Padre."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Una voz procedente del patio delantero exclamó: «Maestro, di la palabra, devuélvenos la salud, sana nuestras enfermedades y salva nuestras almas». Apenas se hubieron pronunciado estas palabras, la vasta comitiva de serafines, controladores físicos, Portadores de Vida e intermedios que acompañaban siempre a este Creador encarnado de un universo se preparó para actuar con poder creativo si su Soberano daba la señal. Este fue uno de los momentos de la carrera terrenal de Jesús en los que la sabiduría divina y la compasión humana se entrelazaron tanto en el juicio del Hijo del Hombre que se refugió en la apelación a la voluntad de su Padre."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "145:3.9",
       "pageReference": "1632.8",
       "sortId": "4.145.003.009",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Cuando Pedro imploró al Maestro que escuchara el llanto de desamparo de la multitud, Jesús, bajando la mirada sobre esa masa de aflicción, contestó: «He venido al mundo para revelar al Padre y establecer su reino. Para este propósito he vivido mi vida hasta este momento. Si, por lo tanto, fuera voluntad de Aquel que me envió y no estuviera en desacuerdo con mi dedicación a la proclamación del evangelio del reino del cielo, desearía ver a mis hijos sanados— y...» pero las palabras siguientes de Jesús se perdieron en el tumulto."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Cuando Pedro imploró al Maestro que atendiera a esta llamada de socorro, Jesús, mirando a la muchedumbre de afligidos, contestó: «He venido al mundo a revelar al Padre y establecer su reino. Con este propósito he vivido mi vida hasta ahora. Por lo tanto, si fuera la voluntad de Aquel que me ha enviado y no es incompatible con mi dedicación a proclamar el evangelio del reino de los cielos, desearía ver sanados a mis hijos... y...» pero el resto de sus palabras se perdió en el tumulto."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "145:3.10",
       "pageReference": "1633.1",
       "sortId": "4.145.003.010",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Jesús había pasado la responsabilidad de esta decisión de curación al fallo de su Padre. Evidentemente la voluntad del Padre no puso objeción alguna, porque ni bien pronunció el Maestro estas palabras, el séquito de personalidades celestiales que servía bajo el mando del Ajustador de Pensamiento Personalizado de Jesús entró en poderosa actividad. El vasto séquito descendió en el medio de esta multitud abigarrada de mortales afligidos, y en un instante de tiempo 683 hombres, mujeres y niños fueron sanados, perfectamente curados de todas sus enfermedades físicas y de otros trastornos materiales. Un espectáculo semejante no se había visto en la tierra nunca antes de este día, ni tampoco después. Y para todos nosotros que estuvimos presentes, el contemplar esta oleada creadora de curaciones fue en verdad un espectáculo estremecedor."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Jesús había transferido a su Padre la responsabilidad de esta decisión de curar. Es evidente que la voluntad del Padre no puso ninguna objeción, pues apenas fueron pronunciadas estas palabras del Maestro, el conjunto de personalidades celestiales que servían bajo las órdenes del Ajustador del Pensamiento Personalizado de Jesús se movilizó poderosamente. La vasta comitiva descendió hasta aquella muchedumbre heterogénea de mortales afligidos, y en un instante 683 hombres, mujeres y niños fueron sanados, fueron perfectamente curados de todas sus enfermedades físicas y de demás trastornos corporales. Ni antes ni después de aquel día se ha visto nunca en la tierra una escena semejante, y para aquellos de nosotros que estuvimos presentes contemplando esta oleada creativa de curaciones fue un espectáculo apasionante."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "145:3.11",
       "pageReference": "1633.2",
       "sortId": "4.145.003.011",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Pero entre todos los seres sorprendidos por esta explosión repentina e inesperada de curaciones sobrenaturales, Jesús era el que más sorprendido estaba. En un momento, cuando su interés y compasión humanos convergían en el espectáculo de sufrimiento y aflicción desplegado ante sus ojos, descuidó en su mente humana las advertencias admonitorias de su Ajustador Personalizado sobre la imposibilidad de limitar el elemento temporal de las prerrogativas creadoras de un Hijo Creador bajo ciertas condiciones y en ciertas circunstancias. Jesús deseaba ver sanados a estos mortales sufrientes, siempre y cuando ello no violara la voluntad de su Padre. El Ajustador Personalizado de Jesús falló instantáneamente que dicho acto de energía creadora en ese momento no transgrediría la voluntad del Padre del Paraíso, y por esa decisión —en vista de la expresión del deseo de sanar que la había precedido— el acto creador *se hizo realidad.* Lo que un *Hijo Creador* desea y lo que es *voluntad* del Padre, SE HACE REALIDAD. Durante el resto de la vida de Jesús en la tierra no volvió a darse ningún otro episodio de curaciones físicas en masa."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Pero de todos los seres que contemplaron asombrados esta explosión repentina e inesperada de sanación sobrenatural, Jesús fue el más sorprendido. En un momento en que todo su interés de hombre compasivo estaba concentrado en la escena de dolor y sufrimiento desplegada ante sus ojos, su mente humana descuidó los avisos de su Ajustador Personalizado que le había advertido de que, en ciertas circunstancias y bajo ciertas condiciones, era imposible limitar el elemento tiempo en las prerrogativas creadoras de un Hijo Creador. Jesús deseaba ver curados a esos mortales que sufrían, siempre que ello no fuera contrario a la voluntad de su Padre. El Ajustador Personalizado de Jesús dictaminó instantáneamente que realizar ese acto de energía creativa en aquel momento no transgrediría la voluntad del Padre del Paraíso, y por esta decisión —en vista del deseo sanador que acababa de expresar Jesús— el acto creativo *fue*. Lo que un *Hijo Creador* desea y su Padre *quiere* ES. Durante el resto de la vida de Jesús en la tierra no se hubo ninguna otra sanación corporal masiva de mortales."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "145:3.12",
       "pageReference": "1633.3",
       "sortId": "4.145.003.012",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Como era de esperarse, la fama de estas curaciones en Betsaida de Capernaum a la puesta del sol se difundió a lo largo y a lo ancho de Galilea, de Judea y más allá. Nuevamente se despertó el temor de Herodes, que envió observadores a que le informaran sobre la obra y las enseñanzas de Jesús y averiguaran si era el ex carpintero de Nazaret o Juan el Bautista resucitado de entre los muertos."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Como es natural, la noticia de la curación a la puesta de sol en Betsaida de Cafarnaúm se difundió a lo largo y ancho de Galilea y Judea y más allá. Volvieron a despertarse los temores de Herodes, que mandó observadores a informarse sobre el trabajo y las enseñanzas de Jesús y a averiguar si se trataba del antiguo carpintero de Nazaret o de Juan el Bautista resucitado de entre los muertos."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "145:3.13",
       "pageReference": "1633.4",
       "sortId": "4.145.003.013",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Desde ese momento en adelante y hasta el fin de su carrera terrestre, Jesús fue considerado, sobre todo debido a esta demostración no deliberada de curaciones físicas, tanto médico como predicador. Aunque sí continuó enseñando, su obra personal consistió mayormente en ministrar a los enfermos y a los angustiados, mientras que sus apóstoles hacían el trabajo de predicación pública y bautizaban a los creyentes."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "A partir de esta demostración accidental de sanación física, Jesús se convirtió tanto en médico como en predicador durante el resto de su carrera en la tierra. Es cierto que siguió enseñando, pero su labor personal consistió principalmente en atender a los enfermos y afligidos mientras sus apóstoles se encargaban de predicar al público y bautizar a los creyentes."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "145:3.14",
       "pageReference": "1633.5",
       "sortId": "4.145.003.014",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Pero la mayoría de los que recibieron esta curación física sobrenatural o creadora en esta demostración de energía divina después de la puesta del sol, no tuvieron un beneficio espiritual permanente de esta extraordinaria manifestación de misericordia. Unos pocos fueron incitados a la virtud por este ministerio físico, pero el reino espiritual no progresó en el corazón de los hombres debido a esta extraordinaria erupción de curación creadora instantánea."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "La mayoría de los que fueron curados de forma sobrenatural o creativa mediante esta demostración de energía divina no sacaron ningún beneficio espiritual permanente de esa extraordinaria manifestación de misericordia. Unos pocos se sintieron verdaderamente edificados por este ministerio físico, pero el increíble despliegue de sanación creativa atemporal que se produjo esa tarde al caer el sol no hizo progresar el reino espiritual en el corazón de los hombres."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "145:3.15",
       "pageReference": "1633.6",
       "sortId": "4.145.003.015",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Curación a la Puesta del Sol",
-      "markdown": "Los portentos curativos que de cuando en cuando se hicieron presentes durante la misión de Jesús sobre la tierra, no formaban parte de su plan de proclamación del reino. Eran incidentalmente inherentes al hecho de que hubiera en la tierra un ser divino de prerrogativas creadoras casi ilimitadas, en el contexto de una combinación sin precedentes de misericordia divina y compasión humana. Pero estos así llamados milagros dieron a Jesús muchos problemas, porque producían una publicidad que fomentaba prejuicios y se permitían mucha notoriedad no deseada."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La curación tras la puesta del sol",
+      "markdown": "Las curaciones milagrosas que jalonaron la misión de Jesús en la tierra no formaban parte de su plan de proclamación del reino. Eran incidentalmente inherentes a la existencia en la tierra de un ser divino con prerrogativas casi ilimitadas de creador unidas a una combinación sin precedentes de misericordia divina y compasión humana. Esos llamados milagros, con su inevitable publicidad, dieron muchos problemas a Jesús pues generaron prejuicios y una notoriedad que no deseaba."
     },
     {
       "type": "section",
@@ -793,8 +793,8 @@
       "standardReferenceId": "145:4.0",
       "pageReference": null,
       "sortId": "4.145.004.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Noche Siguiente",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La noche siguiente",
       "markdown": null
     },
     {
@@ -811,9 +811,9 @@
       "standardReferenceId": "145:4.1",
       "pageReference": "1634.1",
       "sortId": "4.145.004.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Noche Siguiente",
-      "markdown": "Durante toda la noche que siguió a esta gran explosión de curación, la multitud regocijante y dichosa invadió la casa de Zebedeo, y los apóstoles de Jesús llegaron al nivel más alto posible de entusiasmo emotivo. Desde un punto de vista humano, éste fue probablemente el día más grande de todos los días inolvidables de la asociación de ellos con Jesús. Nunca antes ni después pudo su esperanza alcanzar tales alturas de confianza expectativa. Unos pocos días antes les había dicho Jesús cuando aún se encontraban en Samaria, que ya había llegado la hora de la proclamación del reino en *pleno poderío,* y ahora habían contemplado sus ojos lo que suponían el cumplimiento de esta promesa. Se estremecían imaginando lo que estaba por venir, si esta extraordinaria manifestación de poder curativo era tan sólo el comienzo. Desapareció por completo toda incertidumbre sobre la divinidad de Jesús. Estaban literalmente embriagados de éxtasis, como bajo un encantamiento."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La noche siguiente",
+      "markdown": "Tras la gran oleada de curaciones, la casa de Zebedeo fue invadida durante toda la velada por una muchedumbre jubilosa y feliz, y el entusiasmo emocional de los apóstoles de Jesús llegó a su cima. Desde el punto de vista humano este fue probablemente el día más grande de todos los días grandes de su asociación con Jesús. En ningún momento anterior ni posterior alcanzaron sus esperanzas tales alturas de expectativa. Pocos días antes, cuando estaban aún dentro de las fronteras de Samaria, Jesús les había dicho que había llegado la hora en que el reino sería proclamado con *poder*, y ellos daban por hecho que lo que acababan de ver con sus ojos era el cumplimiento de esa promesa. Les entusiasmaba la idea de lo que podría venir después si esta impresionante manifestación de poder sanador no era más que el principio. Sus dudas recurrentes sobre la divinidad de Jesús se habían desvanecido. Estaban literalmente embriagados por el éxtasis de su asombro."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "145:4.2",
       "pageReference": "1634.2",
       "sortId": "4.145.004.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Noche Siguiente",
-      "markdown": "Pero cuando buscaron a Jesús, no pudieron hallarlo. El Maestro estaba muy turbado por lo que había ocurrido. Estos hombres, mujeres y niños que habían sido curados de sus diversas enfermedades se quedaron hasta tarde en la noche, esperando el regreso de Jesús para expresarle su gratitud. Los apóstoles no podían entender la conducta del Maestro a medida que pasaban las horas y él permanecía en reclusión; la dicha de ellos habría sido plena y perfecta si no hubiera sido por su ausencia continuada. Cuando regresó Jesús entre ellos, ya era tarde, y prácticamente todos los beneficiarios del episodio de curación se habían vuelto a su casa. Jesús rechazó las congratulaciones y la adoración de los doce y de los otros que se habían quedado para saludarlo, diciendo tan sólo: «No os regocijéis de que mi Padre tiene el poder para curar el cuerpo, sino más bien de que tiene la fuerza para salvar el alma. Vayamos a descansar, porque mañana tenemos que ocuparnos de los asuntos del Padre»."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La noche siguiente",
+      "markdown": "Pero cuando fueron a buscar a Jesús no pudieron encontrarlo. El Maestro estaba muy perturbado por lo ocurrido. Los hombres, mujeres y niños que habían sido curados de diversas enfermedades se quedaron hasta bien entrada la noche esperando que Jesús volviera para darle las gracias. Pero las horas pasaban, el Maestro seguía oculto y los apóstoles no podían comprender esta conducta; su alegría habría sido plena y perfecta de no haber sido por esta prolongada ausencia. Cuando Jesús por fin regresó era ya muy tarde y casi todos los beneficiados habían vuelto a sus casas. Jesús no aceptó ni felicitaciones ni intentos de adoración por parte de los doce y de los que se habían quedado para saludarlo. Se limitó a decir: «No os regocijéis porque mi Padre tenga poder de sanar el cuerpo sino porque tiene poder de salvar el alma. Vayamos a descansar porque mañana tendremos que ocuparnos de los asuntos del Padre»."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "145:4.3",
       "pageReference": "1634.3",
       "sortId": "4.145.004.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "La Noche Siguiente",
-      "markdown": "Nuevamente, doce hombres desilusionados, perplejos y con el corazón lleno de pena fueron a su descanso; pocos entre ellos, excepto los gemelos, durmieron mucho esa noche. Tan pronto como el Maestro hacía algo que les alegraba el alma y les regocijaba el corazón, inmediatamente después hacía añicos la esperanza de los apóstoles y destruía completamente los cimientos de su coraje y entusiasmo. Al mirarse entre sí estos pescadores perplejos, sólo tenían un pensamiento: «No podemos comprenderlo. ¿Qué es lo que significa todo esto?»"
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "La noche siguiente",
+      "markdown": "Y una vez más, los doce se fueron a descansar tristes, confusos y decepcionados; salvo los gemelos, pocos pudieron dormir esa noche. En cuanto el Maestro hacía algo que reconfortaba el alma y llenaba de alegría el corazón de sus apóstoles, parecía que le faltaba tiempo para hacer añicos sus esperanzas y destrozar los fundamentos de su valor y su entusiasmo. Cuando estos desconcertados pescadores se miraban entre sí, todos pensaban lo mismo: «No podemos comprenderle. ¿Qué significa todo esto?»."
     },
     {
       "type": "section",
@@ -865,8 +865,8 @@
       "standardReferenceId": "145:5.0",
       "pageReference": null,
       "sortId": "4.145.005.000",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
       "markdown": null
     },
     {
@@ -883,9 +883,9 @@
       "standardReferenceId": "145:5.1",
       "pageReference": "1634.4",
       "sortId": "4.145.005.001",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Tampoco Jesús durmió mucho este sábado por la noche. Se daba cuenta de que el mundo estaba lleno de sufrimiento físico y repleto de dificultades materiales, y discurría el grave peligro de verse obligado a dedicar mucho de su tiempo al cuidado de los enfermos y afligidos, que su misión de establecimiento del reino espiritual en el corazón de los hombres habría de sufrir interferencias o por lo menos se subordinaría al ministerio de las cosas materiales. Por estos pensamientos y otros similares que ocupaban la mente mortal de Jesús durante la noche, se levantó el domingo por la mañana mucho antes del amanecer y se fue a solas a uno de sus sitios favoritos para comunicarse con su Padre. El tema de la oración de Jesús esta madrugada era pedir sabiduría y juicio suficientes para refrenar su compasión humana en combinación con su misericordia divina, conmoverse tanto en presencia del sufrimiento mortal que lo llevara a dedicar todo su tiempo al ministerio físico, descuidando el ministerio espiritual. Aunque no deseaba evitar por completo el ministerio a los enfermos, sabía que también tenía que hacer el trabajo más importante de la enseñanza espiritual y la capacitación religiosa."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Jesús tampoco durmió mucho aquel sábado por la noche. Se dio cuenta de que el mundo estaba lleno de sufrimiento físico y plagado de dificultades materiales. Previó el gran peligro de verse obligado a dedicar tanto de su tiempo al cuidado de los enfermos y afligidos que su misión de establecer el reino espiritual en el corazón de los hombres se viera obstaculizada por el ministerio de las cosas físicas, o al menos subordinada a él. Estos pensamientos y otros parecidos ocuparon la mente mortal de Jesús durante la noche, así que se levantó aquel domingo mucho antes del amanecer y se fue a comulgar con el Padre a uno de sus lugares de retiro preferidos. La oración de Jesús de esa madrugada de domingo trató sobre la sabiduría y el juicio necesarios para no permitir que su compasión humana, unida a su misericordia divina, se conmovieran ante el sufrimiento de los mortales hasta el punto de dedicar todo su tiempo al ministerio físico y descuidar el espiritual. Aunque no quería dejar por completo de atender a los enfermos, sabía que su labor más importante era de enseñanza espiritual y formación religiosa."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "145:5.2",
       "pageReference": "1635.1",
       "sortId": "4.145.005.002",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Jesús iba tan a menudo a las colinas para orar porque no había allí cuartos privados que se adecuaran a su devoción personal."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Jesús iba tan a menudo a orar a las colinas porque no había habitaciones privadas adecuadas para sus devociones personales."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "145:5.3",
       "pageReference": "1635.2",
       "sortId": "4.145.005.003",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Pedro no pudo dormir esa noche; por eso, muy temprano, poco después de que Jesús se había ido a orar, despertó a Santiago y a Juan, y los tres se fueron a buscar al Maestro. Después de buscarlo por más de una hora lo encontraron y le rogaron que les explicara la razón de su extraña conducta. Deseaban saber por qué parecía estar preocupado por la erupción espectacular del espíritu de curación, mientras que todo el mundo estaba tan lleno de dicha y los apóstoles tanto se regocijaban."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Pedro no pudo dormir aquella noche. Poco después de que Jesús saliera a orar despertó a Santiago y a Juan, y los tres fueron a buscar a su Maestro. Encontraron a Jesús después de buscarlo durante más de una hora y le rogaron que les explicara la razón de su extraña conducta. Deseaban saber por qué parecía tan preocupado por el poderoso derramamiento del espíritu de curación cuando toda la gente estaba alborozada y sus apóstoles tan llenos de alegría."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "145:5.4",
       "pageReference": "1635.3",
       "sortId": "4.145.005.004",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Por más de cuatro horas trató Jesús de explicar a estos tres apóstoles lo que había ocurrido. Les enseñó lo que había acontecido y les explicó los peligros de tales manifestaciones. Jesús les dijo en confianza el motivo por el cual había salido a orar. Trató de aclararles a sus asociados personales las razones reales de por qué el reino del Padre no se podía construir sobre la base de portentos y curaciones físicas. Pero ellos no podían comprender sus enseñanzas."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Jesús se esforzó durante más de cuatro horas por explicar a estos tres apóstoles lo que había pasado. Les enseñó lo que había ocurrido y les mostró los peligros de ese tipo de manifestaciones. Jesús les confió la razón por la que había salido a orar. Intentó explicar claramente a sus compañeros personales las verdaderas razones por las que el reino del Padre no se podía construir sobre prodigios ni sanaciones físicas. Pero ellos no pudieron comprender su enseñanza."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "145:5.5",
       "pageReference": "1635.4",
       "sortId": "4.145.005.005",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Mientras tanto, temprano por la mañana del domingo, otras multitudes de almas afligidas y muchos curiosos empezaron a congregarse alrededor de la casa de Zebedeo. Clamaban que querían ver a Jesús. Andrés y los apóstoles estaban tan perplejos que, mientras Simón el Zelote hablaba a la asamblea, Andrés, con varios de sus asociados, fue a buscar a Jesús. Cuando Andrés hubo ubicado a Jesús en compañía de los tres, dijo: «Maestro, ¿por qué nos dejas solos con la multitud? He aquí que todos los hombres te buscan; nunca antes tantos han buscado tus enseñanzas. Aun en este momento la casa está rodeada de los que han venido de lejos y de cerca por tus obras poderosas. ¿Es que no vas a volver con nosotros para ministrar a ellos?»"
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Mientras tanto, desde las primeras horas de esa mañana de domingo, otra multitud de almas afligidas y muchos curiosos habían empezado a congregarse alrededor de la casa de Zebedeo. Clamaban que querían ver a Jesús. Andrés y los apóstoles estaban tan desorientados que, mientras Simón Zelotes hablaba al público, Andrés y otros compañeros fueron en busca de Jesús. Cuando Andrés hubo localizado a Jesús en compañía de los tres, le dijo: «Maestro, ¿por qué nos dejas solos con la multitud? Mira, todo el mundo te busca; nunca tantos han buscado tus enseñanzas. En este mismo momento la casa está rodeada de personas que han venido de cerca y de lejos atraídas por tus poderosas obras. ¿No vas a volver con nosotros para atenderlos?»."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "145:5.6",
       "pageReference": "1635.5",
       "sortId": "4.145.005.006",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Cuando Jesús escuchó esto, contestó: «Andrés, ¿acaso no te enseñé a ti y a estos otros que mi misión en la tierra es la revelación del Padre, y mi mensaje, la proclamación del reino del cielo? ¿Cómo puede ser pues que quieras que yo me desvíe de mi misión para gratificar a los curiosos y para satisfacer a los que buscan signos y portentos? ¿Acaso no hemos estado entre estas gentes durante todos estos meses? ¿Acaso han venido ellos antes en multitudes para escuchar la buena nueva del reino? ¿Por qué vienen ahora a importunarnos? ¿No buscan acaso curar su cuerpo físico en vez de regocijarse porque han recibido la verdad espiritual para la salvación de su alma? Cuando los hombres son atraídos a nosotros por manifestaciones extraordinarias, muchos de ellos vienen buscando, no la verdad y la salvación, sino más bien la curación de sus dolencias físicas y la redención de sus dificultades materiales."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Al oír esto Jesús contestó: «Andrés, ¿no te he enseñado a ti y a estos otros que mi misión en la tierra es revelar al Padre y mi mensaje proclamar el reino de los cielos? ¿Entonces por qué quieres que me desvíe de mi trabajo para contentar a los curiosos y satisfacer a los que buscan signos y prodigios? ¿No hemos estado entre esa gente todos estos meses? ¿Acaso han venido en multitudes para oír la buena nueva del reino? ¿Por qué vienen ahora a asediarnos? ¿No será para buscar la curación de sus cuerpos físicos, en vez de la verdad espiritual para la salvación de sus almas? Cuando los hombres son atraídos hacia nosotros por manifestaciones extraordinarias, muchos de ellos no vienen buscando la verdad y la salvación sino la curación de sus dolencias físicas y la solución de sus dificultades materiales."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "145:5.7",
       "pageReference": "1635.6",
       "sortId": "4.145.005.007",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "«Durante todo este tiempo estuve en Capernaum, y tanto en la sinagoga como junto al mar he proclamado la buena nueva del reino a todos los que tenían oídos para escuchar y corazón para recibir la verdad. No es la voluntad de mi Padre que vuelva contigo para ocuparme de estos curiosos ni que me dedique al ministerio de las cosas materiales con exclusión de las espirituales. Os he ordenado para que prediquéis el evangelio y para que ministréis a los enfermos, pero no debo dedicar todos mis esfuerzos a sanar cuerpos, en vez de enseñar la verdad. No, Andrés, no voy a volver contigo. Vete y dile a la gente que crean en lo que les hemos enseñado y que se regocijen en la libertad de los hijos de Dios, y prepara las cosas para nuestra partida a las otras ciudades de Galilea, donde ya ha sido preparado el camino para la predicación de la buena nueva del reino. Con este propósito vine yo del Padre. Vete pues, y prepara nuestra partida inmediata, y yo aguardaré aquí tu retorno»."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "«He estado todo este tiempo en Cafarnaúm y he proclamado la buena nueva del reino, tanto en la sinagoga como a la orilla del mar, a todos los que tenían oídos para oír y corazón para recibir la verdad. No es voluntad de mi Padre que vaya con vosotros para satisfacer a esos curiosos y ocuparme del ministerio de las cosas físicas con exclusión de las espirituales. Os he ordenado para que prediquéis el evangelio y atendáis a los enfermos, pero yo no debo dejarme absorber por las curaciones y desatender mi enseñanza. No, Andrés, no voy a volver con vosotros. Id y decid a la gente que crean en lo que les hemos enseñado y que se regocijen en la libertad de los hijos de Dios. Y ahora saldremos hacia las otras ciudades de Galilea, donde el camino ya ha sido preparado para la predicación de la buena nueva del reino. Con este propósito he venido del Padre. Id pues y preparadlo todo para salir de viaje cuanto antes mientras yo os espero aquí.»"
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "145:5.8",
       "pageReference": "1636.1",
       "sortId": "4.145.005.008",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Cuando Jesús hubo hablado, Andrés y sus compañeros apóstoles tristemente se encaminaron de vuelta a la casa de Zebedeo, despidieron a la multitud reunida y rápidamente se prepararon para el viaje, como Jesús les había mandado. Así pues, por la tarde del domingo 18 de enero del año 28 d. de J.C., Jesús y los apóstoles comenzaron su primera gira realmente pública y abierta de predicación en las ciudades de Galilea. Durante esta primera gira predicaron el evangelio del reino en muchas ciudades, pero no visitaron a Nazaret."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Tras estas palabras de Jesús, Andrés y los otros apóstoles volvieron tristemente a casa de Zebedeo, despidieron a la multitud reunida y se prepararon rápidamente para el viaje, tal como Jesús les había ordenado. Y así, ese domingo por la tarde, el 18 de enero del año 28 d. C., Jesús y los apóstoles iniciaron su primera gira de predicación realmente pública y abierta por las ciudades de Galilea. En esta primera gira predicaron el evangelio del reino en muchas ciudades pero no fueron a Nazaret."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "145:5.9",
       "pageReference": "1636.2",
       "sortId": "4.145.005.009",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Ese domingo por la tarde, poco después de que Jesús y sus apóstoles partieron en dirección a Rimón, sus hermanos Santiago y Judá vinieron a visitarlo, presentándose en la casa de Zebedeo. Alrededor del mediodía de ese día Judá había buscado a su hermano Santiago e insistido en que fueran a ver a Jesús. Pero cuando Santiago finalmente consintió en ir con Judá, Jesús ya había partido."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Aquel domingo por la tarde, poco después de que Jesús saliera hacia Rimón con sus apóstoles, sus hermanos Santiago y Judá se presentaron en casa de Zebedeo para verlo. Judá había ido a buscar a Santiago hacia mediodía para insistirle en que fueran juntos a ver a Jesús, pero cuando Santiago consintió por fin en acompañar a Judá, Jesús ya se había ido."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "145:5.10",
       "pageReference": "1636.3",
       "sortId": "4.145.005.010",
-      "paperTitle": "Cuatro Días Memorables en Capernaum",
-      "sectionTitle": "Domingo por la Madrugada",
-      "markdown": "Los apóstoles lamentaban abandonar el ambiente de gran interés que había surgido en Capernaum. Pedro calculaba que no menos de mil creyentes pudieron haber sido bautizados en el reino. Jesús les escuchó pacientemente, pero no consintió en volver. Prevaleció el silencio por un rato, y luego Tomás se dirigió a sus compañeros apóstoles diciendo: «¡Vamos! El Maestro ha hablado. No importa que no comprendamos plenamente los misterios del reino de los cielos, pues una cosa es segura: Seguimos a un maestro que no busca la gloria para sí mismo». Y a regañadientes salieron para predicar la buena nueva en las ciudades de Galilea."
+      "paperTitle": "Cuatro días intensos en Cafarnaúm",
+      "sectionTitle": "El domingo por la mañana temprano",
+      "markdown": "Los apóstoles se resistían a desaprovechar el gran interés que se había despertado en Cafarnaúm. Pedro calculaba que podían haber sido bautizados no menos de mil creyentes para el reino. Jesús los escuchó con paciencia pero se negó a volver. Entonces hubo un largo silencio hasta que Tomás se dirigió así a sus compañeros apóstoles: «¡Vamos! El Maestro ha hablado. Aunque no podamos comprender del todo los misterios del reino de los cielos, de una cosa sí estamos seguros: seguimos a un maestro que no busca ninguna gloria para sí mismo». Y salieron a regañadientes a predicar la buena nueva por las ciudades de Galilea."
     }
   ]
 }

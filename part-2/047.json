@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/047.md",
-  "source_sha256": "8a8515c17bdba01b0195799565a622924740cdb48e306dec16c7d36f9d747653",
+  "source_sha256": "47c47c9664cfb0cfd33e1d385d0381fafe269e79d41da838222055e42330fd5c",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "47:0.0",
       "pageReference": null,
       "sortId": "2.047.000.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "47:0.0",
       "pageReference": null,
       "sortId": "2.047.000.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "47:0.1",
       "pageReference": "530.1",
       "sortId": "2.047.000.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
-      "markdown": "EL HIJO Creador, cuando estaba en Urantia, habló de las «muchas moradas en el universo del Padre». En cierto sentido, los cincuenta y seis mundos que rodean a Jerusem están dedicados a la cultura transicional de los mortales ascendentes, pero los siete satélites del mundo número uno se conocen más específicamente como mundos de estancia."
+      "markdown": "CUANDO el Hijo Creador estuvo en Urantia habló de las «muchas mansiones que hay en el universo del Padre». En cierto sentido, los cincuenta y seis mundos que rodean Jerusem están dedicados a la cultura de transición de los mortales ascendentes, pero los siete satélites del mundo número uno se conocen más específicamente como los mundos mansión."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "47:0.2",
       "pageReference": "530.2",
       "sortId": "2.047.000.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
-      "markdown": "El mundo de transición número uno mismo está exclusivamente dedicado a las actividades de los ascendentes, siendo la sede central del cuerpo de finalistas asignado a Satania. Este mundo ahora sirve como sede central para más de cien mil compañías de finalistas, y hay mil seres glorificados en cada uno de estos grupos."
+      "markdown": "El propio mundo de transición número uno está dedicado exclusivamente a las actividades de los ascendentes y es la sede del cuerpo de finalitarios asignado a Satania. Este mundo sirve ahora como sede de más de cien mil compañías de finalitarios, y en cada uno de estos grupos hay mil seres glorificados."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "47:0.3",
       "pageReference": "530.3",
       "sortId": "2.047.000.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
-      "markdown": "Cuando un sistema se establece en luz y vida, y a medida que los mundos de estancia uno por uno cesan de servir como estaciones de capacitación de los mortales, los ocupa una población creciente de finalistas que se va congregando en estos sistemas más antiguos y más altamente perfeccionados."
+      "markdown": "Cuando un sistema se asienta en luz y vida, y a medida que los mundos mansión van dejando uno tras otro de servir como centros de formación para mortales, estos son sustituidos por la población creciente de finalitarios que se acumula en estos sistemas más antiguos y mucho más perfeccionados."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "47:0.4",
       "pageReference": "530.4",
       "sortId": "2.047.000.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
+      "paperTitle": "Los siete mundos mansión",
       "sectionTitle": null,
-      "markdown": "Los siete mundos de estancia están a cargo de los supervisores morontiales y de los Melquisedek. Hay un gobernador interino en cada mundo, directamente responsable ante los gobernantes de Jerusem. Los conciliadores de Uversa mantienen una sede central en cada uno de los mundos de estancia, y el punto de reunión local de los Asesores Técnicos se encuentra adyacente. Los directores de reversión y los artesanos celestiales mantienen una sede central de grupo en cada uno de estos mundos. Los espironga actúan desde el mundo de estancia número dos en adelante, mientras que los siete, en común con otros planetas de cultura transicional y el mundo sede central, están abundantemente provistos de espornagia de creación estándar."
+      "markdown": "Los siete mundos mansión están a cargo de los supervisores de la morontia y de los Melquisedec. En cada mundo hay un gobernador interino que es directamente responsable ante los regidores de Jerusem. Los conciliadores de Uversa mantienen una sede en cada uno de los mundos mansión, y junto a ella se encuentra el lugar de encuentro local de los Asesores Técnicos. Los directores de la reversión y los artesanos celestiales mantienen una sede de grupo en cada uno de estos mundos. Los spironga ejercen su función a partir del mundo mansión número dos, mientras que los spornagia de tipo normal abundan en los siete mundos mansión, así como en los demás planetas de cultura de transición y en el mundo sede central."
     },
     {
       "type": "section",
@@ -127,8 +127,8 @@
       "standardReferenceId": "47:1.0",
       "pageReference": null,
       "sortId": "2.047.001.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
       "markdown": null
     },
     {
@@ -145,9 +145,9 @@
       "standardReferenceId": "47:1.1",
       "pageReference": "530.5",
       "sortId": "2.047.001.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "Aunque sólo los finalistas y ciertos grupos de hijos salvados y de sus cuidadores residen en el mundo transicional número uno, se toman precauciones para el entretenimiento de todas las clases de seres espirituales, mortales de transición, y estudiantes visitantes. Los espornagia, que funcionan en todos estos mundos, son anfitriones acogedores para todos los seres que pueden reconocer. Tienen una vaga sensación respecto de los finalistas pero no los pueden visualizar. Han de considerarlos un poco como vosotros consideráis a los ángeles en vuestro estado físico presente."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "Aunque en el mundo de transición número uno solo residen finalitarios y ciertos grupos de niños salvados con sus cuidadores, está previsto albergar en él a todas las clases de seres de espíritu, mortales de transición y visitantes estudiantes. Los spornagia que ejercen su función en todos estos mundos son los anfitriones hospitalarios de todos los seres que son capaces de reconocer. En cuanto a los finalitarios, tienen una vaga impresión de ellos pero no pueden verlos. Esta noción debe ser muy parecida a la que tenéis vosotros de las ángeles en vuestro estado físico presente."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "47:1.2",
       "pageReference": "530.6",
       "sortId": "2.047.001.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "Aunque el mundo de los finalistas es una esfera de exquisita belleza física y extraordinario embellecimiento morontial, la gran morada espiritual ubicada en el centro de las actividades, el templo de los finalistas, no es visible para la visión material sin auxilios ni para la visión primitiva morontial. Pero los transformadores de la energía pueden hacer que los mortales ascendentes visualicen muchas de estas realidades, y de vez en cuando así lo hacen, tal como en las oportunidades de las asambleas de clase de los estudiantes de este mundo de estancia."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "Aunque el mundo finalitario es una esfera de exquisita belleza física y extraordinario embellecimiiento morontial, la gran morada de espíritu situada en el centro de actividades, el templo de los finalitarios, no es visible sin ayuda para la visión material ni para la visión de las primeras etapas de la morontia. Sin embargo, los transformadores de energía son capaces de hacer visibles muchas de estas realidades a los mortales ascendentes y a veces lo hacen, como ocurre en las reuniones de promoción de los estudiantes de los mundos mansión en esta esfera cultural."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "47:1.3",
       "pageReference": "531.1",
       "sortId": "2.047.001.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "A través de la entera experiencia en los mundos de estancia estarás en cierto modo consciente espiritualmente de la presencia de tus hermanos glorificados que han logrado el Paraíso, pero es muy refrescante, una y otra vez, percibirlos realmente en su actuación en sus moradas de sede central. No visualizarás espontáneamente a los finalistas hasta que no adquieras la verdadera visión espiritual."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "Durante toda vuestra experiencia en los mundos mansión tendréis cierta consciencia espiritual de la presencia de vuestros hermanos glorificados que han logrado llegar al Paraíso, pero es muy alentador poder ver de vez en cuando cómo llevan a cabo sus actividades en las moradas de su sede. No veréis espontáneamente a los finalitarios hasta que hayáis adquirido la verdadera visión de espíritu."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "47:1.4",
       "pageReference": "531.2",
       "sortId": "2.047.001.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "En el primer mundo de estancia todos los sobrevivientes deben pasar los requisitos de la comisión de progenitores de sus planetas nativos. La presente comisión de Urantia consiste en doce parejas de progenitores, recientemente llegadas, que han tenido la experiencia mortal de criar a tres o más hijos hasta la pubertad. El servicio en esta comisión es rotativo y en general tan sólo de diez años. Aquellos que no satisfacen a estos comisionados en cuanto a su experiencia de progenitor deben calificar ulteriormente sirviendo en los hogares de los Hijos Materiales de Jerusem o en parte en la guardería probatoria en el mundo de los finalistas."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "En el primer mundo mansión todos los supervivientes deben cumplir los requisitos de la comisión parental de su planeta nativo. La presente comisión de Urantia está compuesta por doce parejas parentales llegadas recientemente, que tuvieron como mortales la experiencia de criar a tres o más hijos hasta la pubertad. El servicio en esta comisión es rotatorio y normalmente solo por diez años. Todos aquellos que no consigan satisfacer a estos comisionados en cuanto a su experiencia parental deberán ampliar su formación sirviendo en los hogares de los Hijos Materiales de Jerusem o, parcialmente, en la guardería probatoria del mundo de los finalitarios."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "47:1.5",
       "pageReference": "531.3",
       "sortId": "2.047.001.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "Pero sea cual fuere la experiencia de progenitor, los padres y las madres de los mundos de estancia que tienen hijos en la guardería probatoria, tienen toda la oportunidad de colaborar con los custodios morontiales de dichos niños en cuanto a su instrucción y capacitación. Estos padres tienen permiso para viajar allí y visitar hasta cuatro veces por año. Y una de las escenas más emocionantemente hermosas de toda la carrera ascendente es observar a los padres de los mundos de estancia abrazar a sus vástagos materiales en la ocasión de sus peregrinajes periódicos al mundo de los finalistas. Aunque uno de los progenitores o los dos puedan abandonar el mundo de estancia antes que el hijo, muy a menudo son contemporáneos durante una temporada."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "Pero independientemente de su experiencia parental, los padres de los mundos mansión que tienen hijos creciendo en la guardería probatoria reciben todo tipo de oportunidades de colaborar en su instrucción y formación con los custodios de dichos niños en la morontia. A esos padres se les permite viajar allí para visitarlos hasta cuatro veces al año. Y una de las escenas más hermosas y conmovedoras de toda la carrera ascendente es observar a los padres de los mundos mansión abrazar a sus vástagos materiales en sus peregrinajes periódicos al mundo finalitario. Aunque uno de los padres, o los dos, pueden marcharse de un mundo mansión antes que su hijo, muchas veces coinciden en él durante una temporada."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "47:1.6",
       "pageReference": "531.4",
       "sortId": "2.047.001.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Mundo de los Finalistas",
-      "markdown": "Ningún mortal ascendente puede escapar a la experiencia de criar hijos —los propios o los de otros— sea en los mundos materiales o posteriormente en el mundo de los finalistas en Jerusem. Los padres deben pasar por esta experiencia esencial tan ciertamente como las madres. Es una idea desafortunada y errónea de los pueblos modernos de Urantia que la crianza de los hijos sea en gran parte tarea de las madres. Los niños necesitan a sus padres tanto como a sus madres, y los padres necesitan de esta experiencia paternal tanto como las madres."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El mundo de los finalitarios",
+      "markdown": "Ningún mortal ascendente puede librarse de la experiencia de criar niños —los suyos o los de otros— ya sea en los mundos materiales o bien posteriormente en el mundo finalitario o en Jerusem. Los padres deben pasar por esta experiencia esencial tan ciertamente como las madres. En los pueblos modernos de Urantia existe la idea errónea y desafortunada de que el cuidado de los hijos es principalmente tarea de las madres. Los niños necesitan a sus padres tanto como a sus madres y los padres necesitan esta experiencia parental tanto como las madres."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "47:2.0",
       "pageReference": null,
       "sortId": "2.047.002.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "47:2.1",
       "pageReference": "531.5",
       "sortId": "2.047.002.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Las escuelas que reciben a los infantes de Satania están ubicadas en el mundo de los finalistas, la primera de las esferas de la cultura de transición de Jerusem. Estas escuelas que reciben infantes son empresas dedicadas a la alimentación y capacitación de los hijos del tiempo, incluyendo a los que han muerto en los mundos evolucionarios del espacio antes de adquirir el estado individual en los registros del universo. En el caso de la supervivencia de uno o los dos progenitores del niño, el guardián de destino encarga a su querubín asociado como custodio de la identidad potencial del niño, dejando al querubín la responsabilidad de entregar esta alma no desarrollada a las manos de los Maestros de los Mundos de Estancia en las guarderías probatorias de los mundos morontiales."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Las escuelas de Satania que acogen a los bebés están situadas en el mundo finalitario, la primera de las esferas de cultura de transición de Jerusem. Estas escuelas de acogida de bebés son iniciativas dedicadas a la crianza y formación de los niños del tiempo, entre ellos los que han muerto en los mundos evolutivos del espacio antes de adquirir un estatus individual en los registros del universo. En el caso de que uno o los dos padres del niño sobrevivan, la guardiana del destino nombra depositaria de la identidad potencial del niño a su querubín adjunta y le encarga la responsabilidad de poner esta alma sin desarrollar en manos de las Maestras de los Mundos Mansión de las guarderías probatorias de los mundos de la morontia."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "47:2.2",
       "pageReference": "531.6",
       "sortId": "2.047.002.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Estos mismos querubines abandonados son quienes, como Maestros de los Mundos de Estancia, bajo la supervisión de los Melquisedek, mantienen instalaciones instructivas tan amplias para la capacitación de los pupilos probatorios de los finalistas. Estos pupilos de los finalistas, estos infantes de los mortales ascendentes, están siempre personalizados en su preciso estado físico al tiempo de la muerte excepto con respecto a su potencial reproductor. Este despertar ocurre en el momento preciso de la llegada de cualquiera de los progenitores al primer mundo de estancia. Y entonces estos niños tienen toda oportunidad, como lo son, para elegir el camino celestial tal como lo hubieran hecho en los mundos en que la muerte tan prematuramente terminara su carrera."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Son estas mismas querubines abandonadas quienes, como Maestras de los Mundos Mansión y bajo la supervisión de los Melquisedec, mantienen esas amplias instalaciones educativas para la formación de los pupilos en prueba de los finalitarios. Estos pupilos de los finalitarios, estos niños de los mortales ascendentes, se personalizan siempre en el estatus físico exacto que tenían en el momento de morir salvo en potencial de reproducción. Este despertar ocurre en el momento exacto de la llegada de uno de sus padres al primer mundo mansión. Y entonces se da a esos niños, tal como son, todas las oportunidades de elegir el camino celestial exactamente igual que podrían haber elegido en los mundos donde la muerte puso fin tan prematuramente a su carrera."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "47:2.3",
       "pageReference": "532.1",
       "sortId": "2.047.002.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "En el mundo guardería, se agrupan las criaturas en período de prueba según tengan o no Ajustador, porque los Ajustadores vienen para residir en estos hijos materiales lo mismo que en los mundos del tiempo. Los hijos de edades pre-Ajustadores son criados en familias de cinco, que van en edades desde un año o menos hasta aproximadamente cinco años, o sea la edad en que llega el Ajustador."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "En el mundo guardería las criaturas en prueba están agrupadas según tengan o no Ajustador, pues los Ajustadores vienen a morar en el interior de estos niños materiales exactamente igual que en los mundos del tiempo. Los niños demasiado pequeños para tener Ajustador son atendidos en familias de cinco, y tienen edades comprendidas entre menos de un año y aproximadamente cinco años, o cuando llegue el Ajustador."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "47:2.4",
       "pageReference": "532.2",
       "sortId": "2.047.002.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Todos los hijos en los mundos en evolución que tienen Ajustador del Pensamiento, pero que antes de la muerte no habían hecho la elección en lo que concierne la carrera al Paraíso, también son repersonalizados en el mundo de los finalistas del sistema, y del mismo modo allí crecen dentro de familias de Hijos Materiales y de sus asociados tal como lo hacen los pequeños que llegaron sin Ajustador, pero que posteriormente recibirán a los Monitores Misteriosos después de lograr la edad específica de la elección moral."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Todos los niños de los mundos en evolución que tienen Ajustador del Pensamiento, pero que no habían hecho su elección sobre la carrera paradisiaca antes de morir, también son repersonalizados en el mundo finalitario del sistema. Allí crecen en las familias de los Hijos Materiales y sus asociados, igual que los pequeños que llegaron sin Ajustador pero que recibirán posteriormente a los Monitores de Misterio cuando alcancen la edad establecida para la elección moral."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "47:2.5",
       "pageReference": "532.3",
       "sortId": "2.047.002.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Los niños y jóvenes resididos por el Ajustador en los mundos finalistas también son criados en familias de cinco, que van en edades desde seis hasta catorce años; aproximadamente, estas familias consisten en niños cuyas edades son de seis, ocho, diez, doce, y catorce años. En cualquier momento después de los dieciséis años, si se ha realizado la elección final, se trasladan al primer mundo de estancia y comienzan su ascensión al Paraíso. Algunos hacen la elección antes de esa edad y proceden a las esferas de ascensión, pero muy pocos niños por debajo de los dieciséis años, tal como se los calcula de acuerdo con los estándares de Urantia, se encuentran en los mundos de estancia."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Los niños y los jóvenes habitados por Ajustadores que están en el mundo finalitario también son criados en familias de cinco y tienen edades comprendidas entre seis y catorce años. Estas familias están formadas por niños de aproximadamente seis, ocho, diez, doce y catorce años. En cualquier momento después de los dieciséis años, si han hecho su elección final, son trasladados al primer mundo mansión y empiezan su ascensión al Paraíso. Algunos hacen su elección antes de esa edad y pasan a las esferas de ascensión, pero en los mundos mansión se ven muy pocos niños menores de dieciséis años calculados según los criterios de edad de Urantia."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "47:2.6",
       "pageReference": "532.4",
       "sortId": "2.047.002.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Los serafines guardianes asisten a estos jóvenes en la guardería probatoria en el mundo de los finalistas de la misma manera en que ministran espiritualmente a los mortales en los planetas evolucionarios, mientras que los fieles espornagia ministran a sus necesidades físicas. Así pues estos niños crecen en el mundo de transición hasta el momento en que hacen su elección final."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Las serafines guardianas atienden a estos jóvenes de la guardería probatoria del mundo finalitario exactamente igual que aportan su ministerio espiritual a los mortales de los planetas evolutivos, mientras que los fieles spornagia cuidan de sus necesidades físicas. Y así crecen estos niños en el mundo de transición hasta el momento de hacer su elección final."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "47:2.7",
       "pageReference": "532.5",
       "sortId": "2.047.002.007",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Una vez que la vida material ha corrido su curso, si no se ha hecho una elección para la vida ascendente, o si estos hijos del tiempo deciden definitivamente en contra de la aventura a Havona, la muerte termina automáticamente sus carreras de prueba. No hay adjudicación en tales casos; no hay resurrección de dicha segunda muerte. Simplemente llegan a ser como si no hubiesen sido."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Cuando la vida material ha recorrido su curso, si no se ha hecho una elección sobre la vida ascendente, o si estos hijos del tiempo se deciden definitivamente en contra de la aventura de Havona, la muerte pone fin automáticamente a su carrera de prueba. Para estos casos no hay ningún juicio; no hay resurrección de esta segunda muerte. Se vuelven simplemente como si no hubieran sido."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "47:2.8",
       "pageReference": "532.6",
       "sortId": "2.047.002.008",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Guardería del Período de Prueba",
-      "markdown": "Pero si eligen el camino paradisiaco de la perfección, inmediatamente se los pre-para para trasladarlos al primer mundo de estancia, donde muchos de ellos llegan a tiempo para reunirse con sus padres en la ascensión a Havona. Después de pasar a través de Havona y lograr las Deidades, estas almas salvadas de origen mortal constituyen la ciudadanía ascendente permanente del Paraíso. Estos niños que han sido privados de la valiosa y esencial experiencia evolucionaria en los mundos de natividad mortal no entran en las filas del Cuerpo de la Finalidad."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La guardería probatoria",
+      "markdown": "Pero si eligen el camino paradisiaco de la perfección, son preparados inmediatamente para su traslado al primer mundo mansión donde muchos llegan a tiempo para reunirse con sus padres en el ascenso a Havona. Después de pasar por Havona y de lograr llegar a las Deidades, esas almas salvadas de origen mortal constituyen la ciudadanía ascendente permanente del Paraíso. Los niños que se vieron privados de la valiosa y esencial experiencia evolutiva en los mundos nativos de los mortales no se incorporan al Cuerpo de la Finalización."
     },
     {
       "type": "section",
@@ -415,8 +415,8 @@
       "standardReferenceId": "47:3.0",
       "pageReference": null,
       "sortId": "2.047.003.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
       "markdown": null
     },
     {
@@ -433,9 +433,9 @@
       "standardReferenceId": "47:3.1",
       "pageReference": "532.7",
       "sortId": "2.047.003.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "En los mundos de estancia los sobrevivientes mortales resurgidos reanudan su vida exactamente desde donde la interrumpieron cuando los sobrecogió la muerte. Cuando vas de Urantia al primer mundo de estancia, observarás un cambio considerable, pero si hubieras provenido de una esfera del tiempo más normal y progresiva, difícilmente notarías la diferencia excepto por el hecho de que poseerías un cuerpo diferente; el tabernáculo de carne y hueso se ha dejado atrás en el mundo de natividad."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "En los mundos mansión los supervivientes mortales resucitados reanudan su vida justo donde la dejaron cuando les sorprendió la muerte. Cuando vayáis desde Urantia al primer mundo mansión notaréis un cambio considerable, pero si hubierais llegado desde una esfera del tiempo más normal y progresiva, apenas notaríais la diferencia de no ser por el hecho de poseer un cuerpo distinto. El tabernáculo de carne y hueso se ha quedado atrás en el mundo nativo."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "47:3.2",
       "pageReference": "532.8",
       "sortId": "2.047.003.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "El centro mismo de todas las actividades en el primer mundo de estancia es la sala resurreccional, el enorme templo de ensamblaje de la personalidad. Esta estructura gigantesca consiste en el punto central de reunión de los guardianes seráficos del destino, los Ajustadores del Pensamiento, y los arcángeles de la resurrección. Los Portadores de Vida también actúan con estos seres celestiales en la resurrección de los muertos."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "El centro de todas las actividades del primer mundo mansión es la sala de resurrección, el enorme templo de ensamblaje de la personalidad. Esta gigantesca estructura es el punto central de reunión de las guardianas seráficas del destino, los Ajustadores del Pensamiento y los arcángeles de la resurrección. Los Portadores de Vida participan también con estos seres celestiales en la resurrección de los muertos."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "47:3.3",
       "pageReference": "533.1",
       "sortId": "2.047.003.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Las transcripciones de la mente mortal y los esquemas activos de la memoria de la criatura tal como son transformadas desde los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento antes residente; estos facto-res espiritizados de la mente, la memoria, y la personalidad de la criatura son por siempre parte de dichos Ajustadores. La matriz-mente de la criatura y los potenciales pasivos de la identidad están presentes en el alma morontial confiada a los cuidados de los guardianes seráficos del destino. Y es la reunión del alma morontial confiada a los serafines y de la mente de espíritu confiada al Ajustador la que vuelve a ensamblar la personalidad de la criatura y constituye la resurrección del sobreviviente durmiente."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "47:3.4",
       "pageReference": "533.2",
       "sortId": "2.047.003.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Si una personalidad transitoria de origen mortal nunca fuera de este modo reensamblada, los elementos espirituales de la criatura mortal no sobreviviente continuarían por siempre como una parte integral de la dote experiencial individual del Ajustador que la residió."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Si una personalidad transitoria de origen mortal no fuera reensamblada de esta manera, los elementos de espíritu de la criatura mortal no superviviente perdurarían para siempre como parte integrante de la dotación experiencial individual del Ajustador que moró en su interior."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "47:3.5",
       "pageReference": "533.3",
       "sortId": "2.047.003.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Desde el Templo de la Nueva Vida se extienden siete alas radiales, las salas de resurrección de las razas mortales. Cada una de estas estructuras está dedicada a la congregación de una de las siete razas del tiempo. Hay cien mil cámaras personales de resurrección en cada una de estas siete alas, que rematan en las salas circulares de ensamblaje en clase, que sirven como cámaras de despertar hasta para un millón de individuos. Estas salas están rodeadas de cámaras de ensamblaje de la personalidad de las razas mezcladas de los mundos postadánicos normales. Sea cual fuere la técnica que se pueda emplear en los mundos individuales del tiempo en relación con las resurrecciones especiales o dispensacionales, el reensamblaje real y consciente de la personalidad auténtica y completa toma lugar en las salas de resurrección del mundo de estancia número uno. Durante toda la eternidad recordarás las profundas impresiones de haber presenciado por primera vez estas mañanas de resurrección."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Desde el templo de la Vida Nueva se extienden siete alas radiales, las salas de resurrección de las razas de mortales. Cada una de estas estructuras está dedicada al ensamblaje de una de las siete razas del tiempo. Cada una de las siete alas contiene cien mil cámaras personales de resurrección y termina en las salas circulares de ensamblaje por promociones que sirven como cámaras para despertar hasta a un millón de individuos. Estas salas están rodeadas de cámaras donde se ensambla la personalidad de las razas mezcladas de los mundos posadánicos normales. Con independencia del método que se pueda emplear en cada uno de los mundos del tiempo para resurrecciones especiales o dispensacionales, el reensamblaje real y consciente de la personalidad completa propiamente dicha tiene lugar en las salas de resurrección de mansonia número uno. Recordaréis durante toda la eternidad la profunda impresión que sentisteis al presenciar por primera vez esas mañanas de resurrección."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "47:3.6",
       "pageReference": "533.4",
       "sortId": "2.047.003.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Desde las salas de resurrección, procederás al sector Melquisedek, en el cual se te asigna residencia permanente. Luego se da comienzo a un período de diez días de libertad personal. Estás libre para explorar el vecindario inmediato de tu nuevo hogar y familiarizarte con el programa que te enfrenta. También tendrás tiempo de gratificar tu deseo de consultar el registro y de visitar a tus seres queridos y otros amigos terrestres que puedan haberte precedido a estos mundos. Al fin de tu período de diez días de tiempo libre comienzas el segundo paso en el viaje al Paraíso, porque los mundos de estancia son efectivamente esferas de capacitación, no meramente planetas de detención."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Desde las salas de resurrección os dirigís al sector Melquisedec donde se os asigna una residencia permanente. Entonces empieza para vosotros un periodo de diez días de libertad personal. Sois libres de explorar las inmediaciones de vuestro nuevo hogar y de familiarizaros con vuestro próximo programa. También tenéis tiempo de satisfacer vuestro deseo de consultar el registro y visitar a vuestros seres queridos y otros amigos de la tierra que os hayan precedido en esos mundos. Al final de estos diez días de asueto empezaréis la segunda etapa de vuestro viaje al Paraíso, pues los mundos mansión no son simples planetas de parada en el camino sino verdaderas esferas de formación."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "47:3.7",
       "pageReference": "533.5",
       "sortId": "2.047.003.007",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "En el mundo de estancia número uno (o en otro en caso de estado avanzado) reanudarás tu capacitación intelectual y desarrollo espiritual en el nivel exacto en el que se te interrumpiera debido a la muerte. Entre el momento de la muerte planetaria, o el traslado, y la resurrección en el mundo de estancia, el hombre mortal no gana absolutamente nada, aparte de experimentar el hecho de la supervivencia. Comienzas allí donde te interrumpes aquí."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "En el mundo mansión número uno (o en otro si vuestro estatus es más avanzado) reanudaréis vuestra formación intelectual y vuestro desarrollo espiritual en el nivel exacto en que fueron interrumpidos por la muerte. Entre el momento de la muerte planetaria o traslado y la resurrección en el mundo mansión, el hombre mortal no adquiere absolutamente nada aparte de experimentar el hecho de la supervivencia. Empezaréis allí exactamente donde lo dejasteis aquí."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "47:3.8",
       "pageReference": "533.6",
       "sortId": "2.047.003.008",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Casi la entera experiencia del mundo de estancia número uno pertenece al ministerio de la deficiencia. Los sobrevivientes que llegan a esta primera esfera de estadía tienen tantos y tan variados defectos de carácter de la criatura y deficiencias de experiencia mortal que las actividades principales del reino consisten en la corrección y cura de estas múltiples herencias de la vida en la carne en los mundos evolucionarios materiales del tiempo y del espacio."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Casi toda la experiencia del mundo mansión número uno está centrada en remediar la deficiencia. Los supervivientes que llegan a esta primera esfera de detención presentan tantos defectos y tan variados en su carácter de criaturas, tantas deficiencias y tan variadas en su experiencia como mortales, que la principal actividad de este mundo consiste en corregir y curar esas múltiples secuelas de la vida en la carne propia de los mundos evolutivos materiales del tiempo y el espacio."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "47:3.9",
       "pageReference": "534.1",
       "sortId": "2.047.003.009",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "La estadía en el mundo de estancia número uno tiene el propósito de desarrollar a los sobrevivientes mortales por lo menos hasta el estado de la dispensación postadánica en los mundos evolucionarios normales. Espiritualmente, por supuesto, los estudiantes del mundo de estancia están mucho más adelantados en dicho estado de mero desarrollo humano."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "La estancia en el mundo mansión número uno tiene como objetivo elevar el desarrollo de los supervivientes mortales al menos hasta el estatus de la dispensación posadánica de los mundos evolutivos normales. Espiritualmente, por supuesto, los estudiantes de los mundos mansión han sobrepasado por mucho ese estado de mero desarrollo humano."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "47:3.10",
       "pageReference": "534.2",
       "sortId": "2.047.003.010",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Si no se te exige detenerte en el mundo de estancia número uno, al fin de diez días ingresarás en el sueño de traslado y procederás al mundo número dos, y cada diez días de allí en adelante avanzarás de este modo hasta llegar al mundo de tu asignación."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Si no tenéis que deteneros en el mundo mansión número uno, al cabo de los diez días entraréis en el sueño del traslado para dirigiros al mundo número dos, y seguiréis avanzando así cada diez días hasta que lleguéis al mundo que tengáis asignado."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "47:3.11",
       "pageReference": "534.3",
       "sortId": "2.047.003.011",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "El centro de los siete círculos principales de la administración del primer mundo de estancia está ocupado por el templo de los Compañeros Morontiales, los guías personales asignados a los mortales ascendentes. Estos compañeros son la progenie del Espíritu Materno del universo local, y existen varios millones de ellos en los mundos morontiales de Satania. Aparte de los asignados como acompañantes de grupo, mucho tendrás que ver con los intérpretes y traductores, los custodios de edificios, y los supervisores de excursiones. Todos estos compañeros cooperan activamente con los que tienen que ver con el desarrollo de tus factores mentales y espirituales de la personalidad que abarca el cuerpo morontial."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "En el centro de los siete círculos principales de la administración del primer mundo mansión se encuentra el templo de las Acompañantes de la Morontia, las guías personales asignadas a los mortales ascendentes. Estas acompañantes son progenie del Espíritu Madre del universo local y hay varios millones de ellas en los mundos de la morontia de Satania. Además de tratar con las asignadas como acompañantes de grupo, tendréis mucha relación con las intérpretes y traductoras, las que custodian edificios y las supervisoras de excursiones. Todas estas compañeras cooperan activamente con los encargados de desarrollar los factores de mente y espíritu de vuestra personalidad dentro del cuerpo de morontia."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "47:3.12",
       "pageReference": "534.4",
       "sortId": "2.047.003.012",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Primer Mundo de Estancia",
-      "markdown": "Cuando comienzas tu carrera en el primer mundo de estancia, se asigna un compañero morontial a cada compañía de mil mortales ascendentes, pero encontrarás números mayores a medida que progreses a través de las siete esferas de estancia. Estos seres hermosos y versátiles son asociados sociables y guías encantadores. Tienen libertad para acompañar a individuos o a grupos seleccionados a cualquiera de las esferas de la cultura de transición, incluyendo sus mundos satélites. Son los guías de excursión y compañeros de recreación de todos los mortales ascendentes. Frecuentemente acompañan a los grupos sobrevivientes en visitas periódicas a Jerusem, y en cualquier momento en que estés allí, podrás dirigirte al sector de registro de la capital del sistema y encontrarte con los mortales ascendentes de los siete mundos de estancia, puesto que viajan libremente de aquí para allá entre sus moradas residenciales y la sede central del sistema."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El primer mundo mansión",
+      "markdown": "Cuando empezáis en el primer mundo mansión, se asigna una Acompañante de la Morontia a cada compañía de mil mortales ascendentes, pero os encontraréis con más a medida que progreséis por las siete esferas mansión. Estos seres hermosos y polifacéticos son colaboradoras muy sociables y guías encantadoras. Tienen libertad para acompañar a individuos o a grupos seleccionados a cualquiera de las esferas de cultura de transición y sus mundos satélites. Son las guías de excursiones y compañeras de asueto de todos los mortales ascendentes. Acompañan con frecuencia a grupos de supervivientes en visitas periódicas a Jerusem, donde podréis en cualquier momento ir al sector de registros de la capital del sistema a encontraros con mortales ascendentes de los siete mundos mansión, ya que estos viajan libremente entre sus moradas residenciales y la sede del sistema."
     },
     {
       "type": "section",
@@ -649,8 +649,8 @@
       "standardReferenceId": "47:4.0",
       "pageReference": null,
       "sortId": "2.047.004.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
       "markdown": null
     },
     {
@@ -667,9 +667,9 @@
       "standardReferenceId": "47:4.1",
       "pageReference": "534.5",
       "sortId": "2.047.004.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Es en esta esfera en la que serás iniciado más plenamente en la vida de los mundos de estancia. Las agrupaciones de la vida morontial empiezan a formarse; los grupos de trabajo y las organizaciones sociales empiezan a funcionar, las comunidades toman proporciones formales, y los mortales en avance inauguran nuevas órdenes sociales y arreglos gubernamentales."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "En esta esfera es donde sois iniciados más plenamente a la vida en mansonia. Las agrupaciones de la vida en la morontia empiezan a tomar forma. Los grupos de trabajo y las organizaciones sociales empiezan a funcionar, las comunidades adquieren sus proporciones constitutivas y los mortales en avance dan origen a nuevos órdenes sociales y nuevas disposiciones de gobierno."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "47:4.2",
       "pageReference": "534.6",
       "sortId": "2.047.004.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Los sobrevivientes fusionados con el Espíritu ocupan los mundos de estancia juntamente con los mortales ascendentes fusionados con el Ajustador. Aunque las varias órdenes de vida celestial difieren, todas ellas son cordiales y fraternales. En todos los mundos de ascensión no encontrarás nada que se asemeje a la intolerancia humana y a las discriminaciones de los sistemas de castas desconsiderados."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "Los supervivientes fusionados con el Espíritu ocupan los mundos mansión igual que los mortales ascendentes fusionados con el Ajustador. Aunque los diversos órdenes de vida celestial son diferentes, todos son amistosos y fraternales. En ninguno de los mundos de ascensión encontraréis nada comparable a la intolerancia humana ni a las discriminaciones de los denigrantes sistemas de castas."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "47:4.3",
       "pageReference": "534.7",
       "sortId": "2.047.004.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "A medida que asciendes uno por uno a los mundos de estancia, éstos llegan a estar más atestados de actividades morontiales de los sobrevivientes en avance. A medida que avanzas, reconocerás más y más las características de Jerusem agregadas a los mundos de estancia. El mar de cristal hace su aparición en el segundo mundo de estancia."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "A medida que vayáis ascendiendo por los mundos mansión uno tras otro, los encontraréis cada vez más animados por las actividades en la morontia de los supervivientes en avance. A medida que avancéis, iréis reconociendo cada vez más características de Jerusem en los mundos mansión. El mar de vidrio hace su aparición en la segunda mansonia."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "47:4.4",
       "pageReference": "534.8",
       "sortId": "2.047.004.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Se adquiere un cuerpo morontial recién desarrollado y adaptablemente ajustado cuando avanzas de un mundo de estancia a otro. Te duermes en el transporte seráfico y despiertas en las salas de resurrección, con un nuevo cuerpo no desarrollado aún, de forma parecida a cuando llegaste por primera vez al mundo de estancia número uno, excepto que el Ajustador del Pensamiento no te abandona durante estos sueños de tránsito entre los mundos de estancia. Tu personalidad permanecerá intacta una vez que pasas de los mundos evolucionarios al mundo de estancia inicial."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "Cada vez que avanzáis de un mundo mansión a otro, adquirís un cuerpo de morontia recién desarrollado y bien adaptado. Os dormís con el transporte seráfico y os despertáis en las salas de resurrección con un cuerpo nuevo pero sin desarrollar, de forma muy parecida a cuando llegasteis por primera vez al mundo mansión número uno, salvo por el hecho de que el Ajustador del Pensamiento no se separa de vosotros durante esos sueños de tránsito entre mundos mansión. Una vez que habéis pasado de los mundos evolutivos al mundo mansión inicial, vuestra personalidad permanece intacta."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "47:4.5",
       "pageReference": "535.1",
       "sortId": "2.047.004.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Tu memoria Ajustador permanece plenamente intacta a medida que asciendes en la vida morontial. Aquellas asociaciones mentales que eran puramente animalísticas y totalmente materiales perecieron con el cerebro físico, pero todo lo que en tu vida mental era valioso, y que tenía valor de supervivencia, fue duplicado por el Ajustador y está retenido como parte de la memoria personal durante todo el camino de la carrera ascendente. Tendrás conciencia de todas tus experiencias valiosas a medida que avanzas de un mundo de estancia a otro y de una sección del universo a otra —incluso hasta el Paraíso."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "En vuestro ascenso por la vida de la morontia, vuestros recuerdos se mantienen completos e intactos en el Ajustador. Las asociaciones mentales que eran puramente animales y enteramente materiales perecieron de forma natural con el cerebro físico, pero todo lo que había de valioso en vuestra vida mental y tenía valor de supervivencia fue duplicado por el Ajustador y se conserva como parte de vuestros recuerdos personales durante todo el camino de la carrera ascendente. Seréis conscientes de todas vuestras experiencias valiosas al avanzar de un mundo mansión a otro y de una sección del universo a otra, incluso hasta el Paraíso."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "47:4.6",
       "pageReference": "535.2",
       "sortId": "2.047.004.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Aunque tengas cuerpo morontial, continúas, a través de todos estos siete mundos, comiendo, bebiendo y descansando. Compartes de la orden morontial de alimento, un reino de energía viviente desconocido en los mundos materiales. El cuerpo morontial utiliza plenamente tanto el alimento como el agua; no existe residuo de deshecho. Considera: el mundo de estancia número uno es una esfera muy material, que presenta los comienzos iniciales del régimen morontial. Aún estás muy cerca de la condición humana y no muy lejos de los puntos de vista limitados de la vida mortal, pero cada mundo revela un progreso definido. De esfera en esfera te vuelves menos material, más intelectual, y ligeramente más espiritual. El progreso espiritual es mayor en los últimos tres de estos siete mundos progresivos."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "Aunque tenéis cuerpos de morontia, seguís comiendo, bebiendo y descansando en vuestro paso por esos siete mundos. Ingerís los alimentos del orden de la morontia, un ámbito de energía viva desconocido en los mundos materiales. El cuerpo de morontia utiliza plenamente tanto la comida como el agua, pero no hay desechos residuales. No olvidéis que mansonia número uno es una esfera muy material que aloja los primeros comienzos del régimen de la morontia. Seguís siendo casi humanos y no estáis muy alejados de los puntos de vista limitados de la vida mortal, pero cada mundo aporta un progreso muy claro. De esfera en esfera os vais haciendo menos materiales, más intelectuales y un poco más espirituales. El progreso espiritual es mayor en los tres últimos de estos siete mundos progresivos."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "47:4.7",
       "pageReference": "535.3",
       "sortId": "2.047.004.007",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "Las deficiencias biológicas fueron en gran parte corregidas en el primer mundo de estancia. Allí se corrigieron los defectos de la experiencia planetaria pertenecientes a la vida sexual, la asociación familiar, y la función de los progenitores o se proyectaron para la rectificación futura entre las familias de los Hijos Materiales en Jerusem."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "Las deficiencias biológicas fueron compensadas en su mayor parte en el primer mundo mansión. Allí, los defectos de la experiencia planetaria relacionados con la vida sexual, la vinculación familiar y la función parental fueron corregidos o incluidos en proyectos de rectificación futura dentro de las familias de los Hijos Materiales de Jerusem."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "47:4.8",
       "pageReference": "535.4",
       "sortId": "2.047.004.008",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Segundo Mundo de Estancia",
-      "markdown": "El mundo de estancia número dos provee más específicamente la eliminación de todas las fases de conflicto intelectual y para la curación de todas las variedades de la falta de armonía mental. El esfuerzo de dominar el significado de morontia mota, que comenzara en el primer mundo de estancia, continúa aquí más intensamente. El desarrollo en el mundo de estancia número dos se compara con el estado intelectual de la cultura post-Hijo Magisterial de los mundos evolucionarios ideales."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El segundo mundo mansión",
+      "markdown": "En mansonia número dos se produce concretamente la eliminación de todos los aspectos de conflicto intelectual y la curación de todas las variedades de falta de armonía mental. El esfuerzo por comprender el sentido de la mota de la morontia, que empezó en el primer mundo mansión, se hace más intenso en el segundo. El desarrollo que se alcanza en mansonia número dos es comparable al nivel intelectual de la cultura posterior al Hijo Magistrado en los mundos evolutivos ideales."
     },
     {
       "type": "section",
@@ -811,8 +811,8 @@
       "standardReferenceId": "47:5.0",
       "pageReference": null,
       "sortId": "2.047.005.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Tercer Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El tercer mundo mansión",
       "markdown": null
     },
     {
@@ -829,9 +829,9 @@
       "standardReferenceId": "47:5.1",
       "pageReference": "535.5",
       "sortId": "2.047.005.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Tercer Mundo de Estancia",
-      "markdown": "El tercer mundo de estancia es la sede central de los Maestros de los Mundos de Estancia. Aunque actúan en las siete esferas de estancia, mantienen su sede de grupo en el centro de los círculos escolares del mundo número tres. Hay millones de estos instructores en los mundos de estancia y en los mundos morontiales más elevados. Estos querubines avanzados y glorificados sirven como maestros morontiales por todo el camino desde los mundos de estancia hasta la última esfera de capacitación ascendente del universo local. Estarán entre los últimos en darte un afectuoso adiós cuando se acerque el momento de la despedida, el momento en que digas adiós —por lo menos por unas cuantas edades— al universo de tu origen, cuando te enserafines para el tránsito a los mundos de recepción del sector menor del superuniverso."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El tercer mundo mansión",
+      "markdown": "Mansonia tercera es la sede de las Maestras de los Mundos Mansión. Aunque actúan en las siete esferas mansión, mantienen su sede de grupo en el centro de los círculos escuela del mundo número tres. Hay millones de estas instructoras en los mundos mansión y en los mundos más altos de la morontia. Estas querubines avanzadas y glorificadas sirven como maestras de la morontia en todo el camino de subida desde los mundos mansión hasta la última esfera de formación ascendente del universo local. Ellas estarán entre los últimos seres que os despidan con cariño cuando se acerque la hora de marcharos, el momento en que digáis adiós —al menos durante algunas edades— a vuestro universo de origen y os enserafinéis para el tránsito a los mundos de recepción del sector menor del superuniverso."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "47:5.2",
       "pageReference": "535.6",
       "sortId": "2.047.005.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Tercer Mundo de Estancia",
-      "markdown": "Cuando te encuentres en el primer mundo de estancia, se te permitirá visitar el primer mundo de transición, la sede de los finalistas y la guardería probatoria del sistema para la crianza de los niños evolucionarios no desarrollados. Cuando llegues al mundo de estancia número dos, recibirás permiso para visitar periódicamente el mundo de transición número dos, en el que está ubicada la sede central de supervisión morontial para toda Satania y sus facultades de capacitación para todas las varias órdenes morontiales. Cuando llegues al mundo de estancia número tres, inmediatamente se te otorgará el permiso para visitar la tercera esfera de transición, la sede central de las órdenes angélicas y la base de sus distintas facultades de capacitación sistémicas. Las visitas a Jerusem a partir de este mundo son cada vez más beneficiosas y el interés está en constante aumento para los mortales en avance."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El tercer mundo mansión",
+      "markdown": "Mientras residáis en el primer mundo mansión, tendréis permiso para visitar el primero de los mundos de transición, la sede de los finalitarios y la guardería probatoria del sistema donde se crían los niños evolutivos no desarrollados. Cuando lleguéis a mansonia número dos, recibiréis permiso para visitar periódicamente el mundo de transición número dos, donde se encuentran la sede de los supervisores de la morontia de toda Satania y las escuelas de formación de los diversos órdenes de la morontia. Cuando lleguéis al mundo mansión número tres, se os concederá inmediatamente un permiso para visitar la tercera esfera de transición, sede de los órdenes angélicos y centro de las diversas escuelas de formación del sistema. Las visitas a Jerusem desde este mundo son cada vez más provechosas e interesantes para los mortales en avance."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "47:5.3",
       "pageReference": "536.1",
       "sortId": "2.047.005.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Tercer Mundo de Estancia",
-      "markdown": "El tercer mundo de estancia es un mundo de gran logro personal y social para todos los que no han alcanzado el equivalente de estos círculos de cultura antes de liberarse de la carne en los mundos de natividad mortal. En esta esfera se comienza el trabajo de instrucción más positivo. La capacitación de los primeros dos mundos de estancia es principalmente de naturaleza compensatoria de deficiencias —negativa— porque tiene que ver con la tarea de suplementar la experiencia de la vida en la carne. En este tercer mundo de estancia los sobrevivientes verdaderamente comienzan su cultura morontial progresiva. El propósito principal de esta capacitación consiste en mejorar la comprensión de la correlación de morontia mota y la lógica mortal, la coordinación de morontia mota y de la filosofía humana. Los mortales sobrevivientes alcanzan ahora un discernimiento práctico en la verdadera metafísica. Ésta es la introducción real a la comprensión inteligente de los significados cósmicos y las interrelaciones en el universo. La cultura del tercer mundo de estancia participa de la naturaleza de la época post-autootorgamiento de un Hijo en un planeta habitado normal."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El tercer mundo mansión",
+      "markdown": "Mansonia tercera es un mundo de grandes logros personales y sociales para todos los que no han alcanzado el equivalente a estos círculos de cultura antes de liberarse de la carne en los mundos donde nacieron como mortales. En esta esfera empieza un trabajo educativo más positivo. En los dos primeros mundos mansión casi toda la formación es de naturaleza negativa —centrada en las deficiencias— en el sentido de complementar la experiencia de la vida en la carne. En este tercer mundo mansión los supervivientes comienzan realmente su cultura progresiva en la morontia. El propósito principal de esta formación es mejorar el entendimiento de la correlación entre la mota morontial y la lógica mortal, la coordinación de la mota de la morontia con la filosofía humana. Con ello los mortales supervivientes adquieren una visión interior práctica de la verdadera metafísica. Es la auténtica introducción a una comprensión inteligente de los significados cósmicos y las interrelaciones del universo. La cultura del tercer mundo mansión es de la misma naturaleza que la edad posterior al otorgamiento de un Hijo en un planeta habitado normal."
     },
     {
       "type": "section",
@@ -883,8 +883,8 @@
       "standardReferenceId": "47:6.0",
       "pageReference": null,
       "sortId": "2.047.006.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Cuarto Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El cuarto mundo mansión",
       "markdown": null
     },
     {
@@ -901,9 +901,9 @@
       "standardReferenceId": "47:6.1",
       "pageReference": "536.2",
       "sortId": "2.047.006.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Cuarto Mundo de Estancia",
-      "markdown": "Cuando llegas al cuarto mundo de estancia, has ingresado realmente en la carrera morontial; has progresado un largo camino desde la existencia material inicial. Ahora se te permite visitar el mundo de transición número cuatro, para que te familiarices con las sedes centrales y las facultades de capacitación de los superángeles, incluyendo a las Brillantes Estrellas Vespertinas. A través de los buenos oficios de estos superángeles del cuarto mundo de transición, los visitantes morontiales pueden acercarse mucho a las varias órdenes de los Hijos de Dios durante las visitas periódicas a Jerusem, ya que se van abriendo gradualmente nuevos sectores de la capital del sistema a los mortales en avance, a medida que éstos visitan repetidamente el mundo sede central. Nuevos esplendores se van abriendo progresivamente a las mentes en expansión de estos seres ascendentes."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El cuarto mundo mansión",
+      "markdown": "Cuando llegáis al cuarto mundo mansión estáis ya bien entrados en la carrera de la morontia; habéis recorrido un largo camino de progreso desde la existencia material inicial. Entonces se os da permiso para hacer visitas al mundo de transición número cuatro, donde conoceréis la sede y las escuelas de formación de los superángeles, entre ellos las Brillantes Estrellas Vespertinas. Gracias a los buenos oficios de estos superángeles del cuarto mundo de transición, los visitantes de la morontia tienen la posibilidad de acercarse mucho a los diversos órdenes de Hijos de Dios durante sus visitas periódicas a Jerusem, pues a medida que los mortales que avanzan repiten sus visitas al mundo sede, se les van abriendo gradualmente nuevos sectores de la capital del sistema y se van desplegando nuevas grandiosidades ante la mente en expansión de estos ascendentes."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "47:6.2",
       "pageReference": "536.3",
       "sortId": "2.047.006.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Cuarto Mundo de Estancia",
-      "markdown": "En el cuarto mundo de estancia el ser ascendente encuentra más perfectamente su lugar en los grupos de trabajo y en las funciones de clase de la vida morontial. Los ascendenteros aquí desarrollan una mayor apreciación a las emisiones y a otras fases de la cultura y progreso del universo local."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El cuarto mundo mansión",
+      "markdown": "En la cuarta mansonia, el ascendente individual encuentra el lugar que mejor le corresponde en el trabajo del grupo y en las funciones de la promoción de la vida en la morontia. Los ascendentes aprenden ahí a apreciar mejor las difusiones y otros aspectos de la cultura y el progreso del universo local."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "47:6.3",
       "pageReference": "536.4",
       "sortId": "2.047.006.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Cuarto Mundo de Estancia",
-      "markdown": "Es durante el período de capacitación en el mundo de estancia número cuatro cuando los mortales ascendentes conocen por primera vez las exigencias y delicias de la verdadera vida social de las criaturas morontiales. Y es en efecto una nueva experiencia para las criaturas evolucionarias participar de actividades sociales que no están basadas ni en la exaltación personal ni en la búsqueda de la autosatisfacción. Un nuevo orden social se está presentando, basado en la comprensión compasiva de apreciación mutua, el amor altruista y el servicio mutuo, y la motivación sobrecogedora de tener un destino común y supremo —la meta paradisiaca de perfección adoradora y divina. Los ascendentes se están volviendo autoconscientes del conocimiento de Dios, la revelación de Dios, la búsqueda de Dios, y el encuentro de Dios."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El cuarto mundo mansión",
+      "markdown": "Durante el periodo de formación en el mundo mansión número cuatro, los mortales ascendentes son iniciados realmente por primera vez en las exigencias y los encantos de la verdadera vida social de las criaturas de la morontia. Y es en verdad una experiencia nueva para las criaturas evolutivas participar en actividades sociales que no están basadas ni en el engrandecimiento personal ni en la conquista egoísta. Se presenta ante vosotros un nuevo orden social, un orden basado en la afinidad comprensiva del aprecio mutuo, en el amor desinteresado del servicio mutuo y en la motivación dominante de hacer realidad un destino común y supremo: la meta paradisiaca de la perfección adoradora y divina. Todos los ascendentes se están haciendo conscientes de conocer a Dios, revelar a Dios, buscar a Dios y encontrar a Dios."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "47:6.4",
       "pageReference": "536.5",
       "sortId": "2.047.006.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Cuarto Mundo de Estancia",
-      "markdown": "La cultura intelectual y social de este cuarto mundo de estancia es comparable a la vida social y mental de la edad post-Hijo Maestro en los planetas de evolución normal. El estado espiritual está mucho más avanzado que tal dispensación mortal."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El cuarto mundo mansión",
+      "markdown": "La cultura intelectual y social de este cuarto mundo mansión es comparable a la vida mental y social de la edad posterior a los Maestros Hijos en los planetas que tienen una evolución normal. Su estatus espiritual es mucho más avanzado que el de esa dispensación a los mortales."
     },
     {
       "type": "section",
@@ -973,8 +973,8 @@
       "standardReferenceId": "47:7.0",
       "pageReference": null,
       "sortId": "2.047.007.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
       "markdown": null
     },
     {
@@ -991,9 +991,9 @@
       "standardReferenceId": "47:7.1",
       "pageReference": "537.1",
       "sortId": "2.047.007.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
-      "markdown": "El transporte al quinto mundo de estancia representa un extraordinario paso hacia adelante en la vida del progresista morontial. La experiencia en este mundo es una verdadera anticipación de la vida en Jerusem. Aquí comienzas a realizar el destino elevado de los mundos evolucionarios leales, puesto que pueden progresar normalmente a esta etapa durante su desarrollo planetario natural. La cultura de este mundo de estancia corresponde en general a esa era inicial de luz y vida en los planetas de progreso evolucionario normal. Y de esto puedes desprender por qué está ordenado que los tipos de seres altamente cultos y progresistas, que a veces habitan estos mundos evolucionarios avanzados, estén eximidos de pasar a través de una o más, o aun de todas, las esferas de estancia."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
+      "markdown": "El transporte al quinto mundo mansión representa un enorme paso adelante en la vida de un progresor de la morontia. La experiencia en este mundo es un anticipo real de la vida en Jerusem. Ahí empezáis a daros cuenta del alto destino de los mundos evolutivos leales, puesto que pueden progresar normalmente hasta esta etapa durante su desarrollo planetario natural. La cultura de este mundo mansión corresponde en general a la de la era temprana de luz y vida en los planetas de desarrollo evolutivo normal. A partir de esto, podréis comprender por qué se ha dispuesto que los tipos de seres sumamente cultos y progresivos que habitan a veces esos mundos evolutivos avanzados estén exentos de pasar por una o varias de las esferas mansión, o incluso por todas."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "47:7.2",
       "pageReference": "537.2",
       "sortId": "2.047.007.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
-      "markdown": "Habiendo dominado el idioma del universo local antes de abandonar el cuarto mundo de estancia, dedicas ahora más tiempo al perfeccionamiento de la lengua de Uversa, con el fin de aprender ambos idiomas antes de llegar a Jerusem con estado de residente. Todos los mortales ascendentes desde la sede central del sistema hasta Havona son bilingües. Luego tan sólo es necesario ampliar el vocabulario superuniversal, requiriéndose una ampliación mayor para la residencia en el Paraíso."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
+      "markdown": "Antes de dejar el cuarto mundo mansión conseguisteis dominar el idioma del universo local y ahora dedicáis más tiempo a perfeccionar la lengua de Uversa, para poder dominar así ambos idiomas antes de llegar a Jerusem con estatus residencial. Todos los mortales ascendentes son bilingües desde la sede del sistema hasta Havona. A partir de ahí solo es necesario ampliar el vocabulario del superuniverso, y aún os hará falta otra ampliación para poder residir en el Paraíso."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "47:7.3",
       "pageReference": "537.3",
       "sortId": "2.047.007.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
-      "markdown": "A la llegada al mundo de estancia número cinco, el peregrino recibe permiso para visitar el mundo de transición del número correspondiente, la sede de los Hijos. Aquí el mortal ascendente se familiariza personalmente con los varios grupos de filiación divina. Ha oído acerca de estos seres extraordinarios y ya los ha encontrado en Jerusem, pero ahora realmente comienza a conocerlos."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
+      "markdown": "A su llegada al mundo mansión número cinco, se concede al peregrino permiso para visitar el mundo de transición correspondiente, la sede de los Hijos. Ahí el mortal ascendente se familiariza personalmente con los diversos grupos de filiación divina. Ha oído hablar de estos magníficos seres y ya se ha encontrado con ellos en Jerusem, pero ahora llega realmente a conocerlos."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "47:7.4",
       "pageReference": "537.4",
       "sortId": "2.047.007.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
-      "markdown": "En el quinto mundo de estancia comienzas a aprender acerca de los mundos de estudio de la constelación. Aquí conoces a los primeros instructores que comienzan a prepararte para la subsiguiente estadía en la constelación. Esta preparación continúa en los mundos de estancia seis y siete, mientras que los toques finales ocurren en el sector de los mortales ascendentes en Jerusem."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
+      "markdown": "En la quinta mansonia empieza vuestro aprendizaje sobre los mundos de estudio de la constelación. Ahí conocéis al primero de los instructores que os prepararán para vuestra estancia posterior en la constelación. Esta preparación prosigue en los mundos seis y siete, aunque los toques finales se imparten en el sector de los mortales ascendentes de Jerusem."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "47:7.5",
       "pageReference": "537.5",
       "sortId": "2.047.007.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Quinto Mundo de Estancia",
-      "markdown": "Un verdadero nacimiento de la conciencia cósmica toma lugar en el mundo de estancia número cinco; estás evolucionando un punto de vista universal. Éste es realmente un período de horizontes en expansión. La mente en expansión de los mortales ascendentes comienza a darse cuenta de que un destino estupendo y magnífico, excelso y divino, aguarda a todos los que completan la ascensión progresiva al Paraíso, que tan laboriosamente pero tan regocijada y auspiciosamente ha comenzado. Aproximadamente en este momento el mortal ascendente promedio comienza a manifestar un entusiasmo experiencial sincero por la ascensión a Havona. El estudio se está volviendo voluntario, el servicio altruista se torna natural, y la adoración, espontánea. Está naciendo un verdadero carácter morontial; una verdadera criatura morontial está evolucionando."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El quinto mundo mansión",
+      "markdown": "En mansonia número cinco se produce un nacimiento real de la consciencia cósmica. Vuestra mentalidad se va orientando al universo. Es en verdad un tiempo de expansión de horizontes. En este proceso de ampliación, las mentes de los mortales ascendentes empiezan a darse cuenta de que un destino prodigioso y magnífico, superno y divino, espera a todos los que terminan la ascensión progresiva al Paraíso que tan laboriosa, pero tan alegre y auspiciosamente, han empezado. Hacia este momento, la media de los mortales ascendentes empieza a manifestar un auténtico entusiasmo experiencial por el ascenso a Havona. El estudio se vuelve voluntario, el servicio desinteresado se hace natural y la adoración, espontánea. Está brotando un verdadero carácter de la morontia, está evolucionando una verdadera criatura de morontia."
     },
     {
       "type": "section",
@@ -1081,8 +1081,8 @@
       "standardReferenceId": "47:8.0",
       "pageReference": null,
       "sortId": "2.047.008.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
       "markdown": null
     },
     {
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "47:8.1",
       "pageReference": "537.6",
       "sortId": "2.047.008.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "Los que se detienen en esta esfera tienen permiso para visitar el mundo de transición número seis, donde aprenden más acerca de los altos espíritus del superuniverso, aunque no pueden visualizar a muchos de estos seres celestiales. Aquí también reciben sus primeras lecciones en la carrera espiritual futura que comienza tan inmediatamente después de la graduación de capacitación morontial del universo local."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "Los residentes en esta esfera están autorizados a visitar el mundo de transición número seis donde aprenden más acerca de los altos espíritus del superuniverso, aunque no son capaces de ver a muchos de esos seres celestiales. Reciben también ahí sus primeras lecciones sobre la futura carrera de espíritu que empieza inmediatamente después de graduarse en la formación en la morontia del universo local."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "47:8.2",
       "pageReference": "537.7",
       "sortId": "2.047.008.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "El asistente del Soberano del Sistema hace visitas frecuentes a este mundo, y aquí comienza la instrucción inicial en la técnica de la administración universal. Aquí se imparten las primeras lecciones que comprenden los asuntos de un entero universo."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "El asistente del Soberano del Sistema visita este mundo con frecuencia y ahí empieza la instrucción inicial en la técnica de administración del universo. Se imparten las primeras lecciones que abarcan los asuntos de un universo completo."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "47:8.3",
       "pageReference": "538.1",
       "sortId": "2.047.008.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "Ésta es una edad brillante para los mortales ascendentes y generalmente presencia la fusión perfecta de la mente humana con el Ajustador divino. En potencia, esta fusión puede haber ocurrido anteriormente, pero la identidad real y funcional muchas veces no se consigue hasta el tiempo de la estadía en el quinto mundo de estancia o aun en el sexto."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "Es una edad brillante para los mortales ascendentes y suele producirse en ella la fusión perfecta de la mente humana con el Ajustador divino. Esta fusión puede haber ocurrido antes en potencia, pero muchas veces la verdadera identidad operativa no se consigue hasta el periodo de la estancia en el quinto mundo mansión o incluso en el sexto."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "47:8.4",
       "pageReference": "538.2",
       "sortId": "2.047.008.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "La unión de la mente inmortal evolutiva con el Ajustador eterno y divino está señalada por la convocación seráfica del superángel supervisor para los sobrevivientes resucitados y del arcángel de registro para los que van al juicio el tercer día, y luego, en presencia de los asociados morontiales de dicho sobreviviente, estos mensajeros de confirmación dicen: «Éste es un hijo amado en quien tengo complacencia». Esta sencilla ceremonia marca el ingreso de un mortal ascendente a la carrera eterna de servicio al Paraíso."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "La unión del alma inmortal en evolución con el Ajustador eterno y divino queda confirmada por la convocatoria seráfica al superángel supervisor de los supervivientes resucitados y al arcángel asignado a los que van a juicio al tercer día. Entonces, en presencia de los compañeros de morontia del superviviente, estos mensajeros de confirmación dicen: «Este es un hijo amado en quien me complazco». Esta sencilla ceremonia marca la entrada de un mortal ascendente en la carrera eterna de servicio paradisiaco."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "47:8.5",
       "pageReference": "538.3",
       "sortId": "2.047.008.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "Inmediatamente en cuanto se confirma la fusión con el Ajustador, el nuevo ser morontial se presenta a sus semejantes por primera vez con su nuevo nombre y se le otorgan cuarenta días de retiro espiritual de toda actividad rutinaria para que comulgue con sí mismo y elija una de las rutas optativas para dirigirse a Havona, y seleccionar entre las técnicas diferenciales del logro del Paraíso."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "En cuanto se confirma la fusión con el Ajustador, el nuevo ser de morontia es presentado por primera vez a sus semejantes con su nuevo nombre. Luego se le conceden cuarenta días de retiro espiritual de todas las actividades de rutina para que esté en íntima comunicación consigo mismo y elija una de las rutas optativas a Havona, y para que escoja entre los métodos diferenciales de logro del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "47:8.6",
       "pageReference": "538.4",
       "sortId": "2.047.008.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "Pero estos seres brillantes aún son más o menos materiales; están lejos de ser verdaderos espíritus; son más semejantes a los supermortales, en sentido espiritual aún un poco más bajos que los ángeles. Pero en verdad se están volviendo criaturas maravillosas."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "Pero estos seres brillantes siguen siendo más o menos materiales, están lejos de ser verdaderos espíritus. Espiritualmente hablando son más bien unos supramortales todavía un poco inferiores a las ángeles, pero se están convirtiendo verdaderamente en criaturas maravillosas."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "47:8.7",
       "pageReference": "538.5",
       "sortId": "2.047.008.007",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Sexto Mundo de Estancia",
-      "markdown": "Durante la estadía en el mundo número seis, los estudiantes del mundo de estancia logran un estado que es comparable al desarrollo exaltado que caracteriza a aquellos mundos evolucionarios que han progresado normalmente más allá de la etapa inicial de luz y vida. La organización de la sociedad en este mundo de estancia es de un orden superior. La sombra de la naturaleza mortal se va empequeñeciendo a medida que se asciende por estos mundos uno por uno. Te volverás más y más adorable a medida que dejes atrás los vestigios burdos del origen animal planetario. «Ascender a través de grandes tribulaciones» hace que los mortales glorificados se vuelvan compasivos, comprensivos y tolerantes."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El sexto mundo mansión",
+      "markdown": "Durante su estancia en el mundo número seis, los estudiantes del mundo mansión alcanzan un estatus comparable al elevado desarrollo que caracteriza a los mundos evolutivos que han progresado normalmente más allá de la etapa inicial de luz y vida. La organización de la sociedad en esta mansonia es de un orden superior. La sombra de la naturaleza mortal se va empequeñeciendo a medida que se asciende por estos mundos uno tras otro. Os vais volviendo cada vez más amables a medida que dejáis atrás los toscos vestigios de vuestro origen animal planetario. «Ascender a través de grandes tribulaciones» hace a los mortales glorificados muy bondadosos y comprensivos, muy compasivos y tolerantes."
     },
     {
       "type": "section",
@@ -1225,8 +1225,8 @@
       "standardReferenceId": "47:9.0",
       "pageReference": null,
       "sortId": "2.047.009.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
       "markdown": null
     },
     {
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "47:9.1",
       "pageReference": "538.6",
       "sortId": "2.047.009.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
-      "markdown": "La experiencia en esta esfera es el logro que corona la carrera postmortal inmediata. Durante tu estadía aquí recibirás instrucción de muchos maestros, todos los cuales cooperarán en la tarea de prepararte para la residencia en Jerusem. Toda diferencia discernible entre los mortales que provienen de los mundos aislados y retardados y los sobrevivientes que provienen de esferas más avanzadas y esclarecidas se virtualmente oblitera durante la estadía en el séptimo mundo de estancia. Aquí se te purgará de todo resto de herencias desafortunadas, de un medio ambiente insalubre, y de tendencias planetarias no espirituales. Los últimos restos de la «marca de la bestia» se erradican."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
+      "markdown": "La experiencia en esta esfera es el logro que corona la carrera que sigue inmediatamente a la muerte. Durante vuestra estancia recibiréis la enseñanza de muchos maestros que cooperarán todos en la tarea de prepararos para residir en Jerusem. Cualquier diferencia perceptible entre los mortales procedentes de los mundos aislados y retrasados, y los supervivientes que vienen de esferas más avanzadas y esclarecidas queda prácticamente borrada durante la estancia en el séptimo mundo mansión. Ahí sois purgados de todos los restos de herencias desafortunadas, entornos perniciosos y tendencias planetarias no espirituales. Los últimos restos de la «marca de la bestia» quedan erradicados."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "47:9.2",
       "pageReference": "538.7",
       "sortId": "2.047.009.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
-      "markdown": "Mientras estés en el mundo de estancia número siete, se te otorga el permiso para visitar el mundo de transición número siete, el mundo del Padre Universal. Aquí comienzas una nueva adoración más espiritual del Padre invisible, una costumbre que seguirás cada vez más durante todo el camino hacia arriba de tu larga carrera ascendente. En este mundo de cultura transicional, encontrarás el templo del Padre, pero no verás al Padre."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
+      "markdown": "Los residentes en la mansonia número siete reciben permiso para visitar el mundo de transición número siete, el mundo del Padre Universal. Iniciáis ahí una adoración nueva y más espiritual del Padre invisible, y ese hábito seguirá creciendo en vosotros durante toda vuestra larga carrera ascendente. En este mundo de cultura transicional encontráis el templo del Padre, pero no veis al Padre."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "47:9.3",
       "pageReference": "538.8",
       "sortId": "2.047.009.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
-      "markdown": "Aquí comienza la formación de las clases que se gradúan para Jerusem. Habrás pasado de mundo en mundo como individuo, pero ahora te preparas para partir hacia Jerusem en grupos, aunque, dentro de ciertos límites, un ascendentero puede elegir permanecer en el séptimo mundo de estancia por cierto tiempo con el objeto de aguardar la llegada de un miembro rezagado de su grupo de trabajo terrestre o del mundo de estancia."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
+      "markdown": "Ahí empiezan a formarse las promociones que se graduarán para residir en Jerusem. Habéis pasado de mundo en mundo como individuos, pero ahora os preparáis para salir en grupos hacia Jerusem. Sin embargo, y dentro de ciertos límites, un ascendente puede elegir quedarse en el séptimo mundo mansión para esperar a un miembro rezagado de su grupo de trabajo en la tierra o en mansonia."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "47:9.4",
       "pageReference": "539.1",
       "sortId": "2.047.009.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
-      "markdown": "El personal del séptimo mundo de estancia se reúne en el mar de cristal para presenciar tu partida hacia Jerusem con estado de residente. Cientos o miles de veces puedes haber visitado Jerusem, pero siempre como huésped; nunca antes has procedido hacia la capital del sistema en compañía de un grupo de tus semejantes que se estuviesen despidiendo eternamente de la entera carrera en los mundos de estancia como mortales ascendentes. Pronto se os dará la bienvenida en el campo de recepción del mundo sede central como ciudadanos de Jerusem."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
+      "markdown": "El personal de la séptima mansonia se congrega en el mar de vidrio para presenciar vuestra salida hacia Jerusem con estatus residencial. Puede que hayáis visitado Jerusem cientos o miles de veces, pero siempre como invitados. Nunca hasta este momento os habíais dirigido hacia la capital del sistema junto con un grupo de compañeros que se despiden para siempre de toda su carrera en mansonia como mortales ascendentes. Pronto seréis bienvenidos en el campo de recepción del mundo sede como ciudadanos de Jerusem."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "47:9.5",
       "pageReference": "539.2",
       "sortId": "2.047.009.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "El Séptimo Mundo de Estancia",
-      "markdown": "Disfrutarás grandemente de tu progreso a través de los siete mundos de desmaterialización; son en verdad esferas desmortalizadoras. Eres mayormente humano en el primer mundo de estancia, tan sólo un ser mortal sin cuerpo material, una mente humana que habita una forma morontial —un cuerpo material del mundo morontial, pero no un tabernáculo mortal de carne y hueso. Verdaderamente pasáis del estado mortal a un estado inmortal al tiempo de la fusión con el Ajustador, y cuando hayáis terminado la carrera de Jerusem, seréis seres morontiales completos."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "El séptimo mundo mansión",
+      "markdown": "Disfrutaréis mucho al progresar a través de los siete mundos desmaterializadores, que son realmente esferas desmortalizadoras. En el primer mundo mansión sois principalmente humanos, un ser mortal sin su cuerpo material, una mente humana alojada en una forma de morontia, es decir, en un cuerpo material del mundo de la morontia, no en una casa mortal de carne y hueso. En el momento de la fusión con el Ajustador pasáis realmente del estado mortal al estatus inmortal, y cuando hayáis terminado vuestra carrera en Jerusem, seréis morontianos plenamente desarrollados."
     },
     {
       "type": "section",
@@ -1333,8 +1333,8 @@
       "standardReferenceId": "47:10.0",
       "pageReference": null,
       "sortId": "2.047.010.000",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
       "markdown": null
     },
     {
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "47:10.1",
       "pageReference": "539.3",
       "sortId": "2.047.010.001",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "La recepción de una nueva clase de graduados de los mundos de estancia es la señal para que todo Jerusem se reúna en un comité de bienvenida. Aún los espornagia disfrutan de la llegada de estos ascendenteros triunfadores de origen evolucionario, los que han corrido la carrera planetaria y completado la progresión en los mundos de estancia. Sólo los controladores físicos y los Supervisores del Poder Morontial están ausentes en estas ocasiones de regocijo."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "La recepción de una nueva promoción de graduados de los mundos mansión es la señal que congrega a todo Jerusem en comité de bienvenida. Incluso los spornagia disfrutan con la llegada de estos ascendentes triunfantes de origen evolutivo que han corrido la carrera planetaria y terminado su progresión en los mundos mansión. Solo los controladores físicos y los Supervisores del Poder de la Morontia están ausentes en estas ocasiones de regocijo."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "47:10.2",
       "pageReference": "539.4",
       "sortId": "2.047.010.002",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "Juan el Revelador vio una visión de la llegada de una clase de mortales en avance desde el séptimo mundo de estancia a su primer cielo, las glorias de Jerusem. Registró: «Y vi como si fuese un mar de cristal entremezclado con fuego, y vi a aquellos que habían logrado la victoria sobre la bestia que originalmente los habitaba y sobre la imagen que persistía a través de los mundos de estancia y finalmente sobre la última marca y huella, de pie en el mar de cristal, con las arpas de Dios, cantando la canción de la liberación del temor y de la muerte». (Hay una comunicación espacial perfeccionada en todos estos mundos; y recibes estas comunicaciones en cualquier parte mediante el «arpa de Dios», un dispositivo morontial que compensa la inhabilidad de ajustar directamente el mecanismo sensorial morontial inmaduro a la recepción de las comunicaciones espaciales)."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "Juan el Revelador tuvo una visión de la llegada de una promoción de mortales que avanzaban desde el séptimo mundo mansión hasta su primer cielo, hasta las glorias de Jerusem. Dejó escrito: «Y vi como un mar de vidrio mezclado con fuego; y aquellos que habían conseguido la victoria sobre la bestia que estaba originalmente en ellos y sobre la imagen que persistía a través de los mundos mansión y finalmente sobre la última marca y rastro, estaban de pie sobre el mar de vidrio, con las arpas de Dios, y cantaban la canción de la liberación del temor y de la muerte». (La comunicación perfeccionada del espacio llega a todos esos mundos, y podéis recibir esas comunicaciones en cualquier parte si lleváis el «arpa de Dios», un dispositivo de morontia que compensa la incapacidad de ajustar directamente el mecanismo sensorial inmaduro de la morontia a la recepción de las comunicaciones del espacio.)"
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "47:10.3",
       "pageReference": "539.5",
       "sortId": "2.047.010.003",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "Pablo también tuvo un visión del cuerpo de ciudadanos ascendentes de mortales en perfeccionamiento en Jerusem, pues escribió: «Pero vendréis al Monte Sion y a la ciudad del Dios vivo, la celestial Jerusalén, y a una innumerable multitud de ángeles, a la gran asamblea de Micael, y a los espíritus de los hombres justos que se están perfeccionando»."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "Pablo tuvo también una visión del cuerpo de ciudadanos mortales ascendentes en vías de perfeccionamiento en Jerusem, pues escribió: «Pero habéis llegado hasta el monte Sión y hasta la ciudad del Dios vivo, la Jerusalén celestial, y hasta una innumerable compañía de ángeles, hasta la gran asamblea de Miguel y hasta los espíritus de los hombres justos que se han hecho perfectos»."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "47:10.4",
       "pageReference": "539.6",
       "sortId": "2.047.010.004",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "Una vez que los mortales han logrado la residencia en la sede central del sistema, ya no habrá resurrecciones concretas. La forma morontial que se te otorgó a la partida de la carrera de los mundos de estancia es la que te acompañará hasta el fin de la experiencia en el universo local. Se harán modificaciones de vez en cuando, pero retendrás esa misma forma hasta que te despidas cuando surjas como espíritu de la primera etapa, en preparación para el tránsito a los mundos del superuniverso de cultura ascendente y capacitación espiritual."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "Una vez que los mortales han logrado la residencia en la sede del sistema, ya no experimentan más resurrecciones propiamente dichas. La forma de morontia que recibís al terminar la carrera de los mundos mansión es la que os acompañará hasta el final de vuestra experiencia en el universo local. Sufrirá algunos cambios, pero conservaréis esa misma forma hasta que os despidáis de ella cuando emerjáis como espíritus de primera etapa, antes del tránsito a los mundos del superuniverso de cultura ascendente y formación del espíritu."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "47:10.5",
       "pageReference": "540.1",
       "sortId": "2.047.010.005",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "Siete veces los mortales que pasan a través de la entera carrera de los mundos de estancia experimentan el sueño de ajuste y el despertar de la resurrección. Pero la última sala de la resurrección, la cámara final del despertar, fue dejada atrás en el séptimo mundo de estancia. Los cambios de forma ya no necesitarán de una pérdida de la conciencia o de una interrupción en la continuidad de la memoria personal."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "Los mortales que pasan por la carrera completa de mansonia experimentan siete veces el sueño de ajuste y el despertar de resurrección. Pero la última sala de resurrección, la cámara del despertar final, quedó atrás en el séptimo mundo mansión. En adelante, ningún cambio de forma exigirá perder la consciencia ni interrumpir la continuidad del recuerdo personal."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "47:10.6",
       "pageReference": "540.2",
       "sortId": "2.047.010.006",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "La personalidad mortal iniciada en los mundos de evolución y tabernaculada en la carne —habitada por los Monitores Misteriosos y envuelta por el Espíritu de la Verdad— no está totalmente movilizada, realizada, y unificada hasta el día en que el ciudadano de Jerusem recibe su pasaje a Edentia y es proclamado miembro auténtico del cuerpo morontial de Nebadon —un sobreviviente inmortal asociado con el Ajustador, un ascendentero al Paraíso, una personalidad de estado morontial, y un verdadero hijo de los Altísimos."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "Una personalidad mortal iniciada en los mundos evolutivos y encerrada en el tabernáculo de la carne —habitada por los Monitores de Misterio e investida del Espíritu de la Verdad— no está plenamente movilizada, realizada y unificada hasta el día en que ese ciudadano de Jerusem es autorizado a ir a Edentia y proclamado miembro verdadero del cuerpo de la morontia de Nebadon: un superviviente inmortal vinculado a su Ajustador, un ascendente al Paraíso, una personalidad con estatus de morontia y un verdadero hijo de los Altísimos."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "47:10.7",
       "pageReference": "540.3",
       "sortId": "2.047.010.007",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
-      "markdown": "La muerte mortal es una técnica de escape de la vida material en la carne; y la experiencia en los mundos de estancia de vida progresiva a través de siete esferas de capacitación correctiva y educación cultural representa la introducción de los sobrevivientes mortales a la carrera morontial, la vida de transición que interviene entre la existencia material evolucionaria y el logro espiritual más elevado de los seres ascendentes del tiempo que están destinados a lograr las puertas de la eternidad."
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
+      "markdown": "La muerte del mortal es una técnica de escape de la vida material en la carne. La experiencia de vida progresiva en mansonia a través de los siete mundos de formación correctiva y educación cultural representa la iniciación de los supervivientes mortales en la carrera en la morontia, la vida de transición que media entre la existencia material evolutiva y el logro de espíritu más alto de los ascendentes del tiempo que están destinados a alcanzar los portales de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1477,8 +1477,8 @@
       "standardReferenceId": "47:10.8",
       "pageReference": "540.4",
       "sortId": "2.047.010.008",
-      "paperTitle": "Los Siete Mundos de Estancia",
-      "sectionTitle": "La Ciudadanía de Jerusem",
+      "paperTitle": "Los siete mundos mansión",
+      "sectionTitle": "La ciudadanía de Jerusem",
       "markdown": "[Patrocinado por una Brillante Estrella Vespertina.]"
     }
   ]

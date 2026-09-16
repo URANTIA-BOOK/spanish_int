@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/087.md",
-  "source_sha256": "7e975d1a0cadf66215625f7f2dc83d93309f592cb9d9626c3e34ba5aceddb288",
+  "source_sha256": "081775f3512676d367d1e3d46070dc94c93060eff7bfb3aa33971d176827e580",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "87:0.0",
       "pageReference": null,
       "sortId": "3.087.000.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "87:0.0",
       "pageReference": null,
       "sortId": "3.087.000.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "87:0.1",
       "pageReference": "958.1",
       "sortId": "3.087.000.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
       "sectionTitle": null,
-      "markdown": "EL CULTO a los fantasmas se desarrolló como defensa contra los peligros de la mala suerte; su celebración religiosa primitiva surgió de la ansiedad relativa a la mala suerte y del temor desmesurado a los muertos. Ninguna de estas religiones primitivas tuvo mucho que ver con el reconocimiento de la Deidad ni con la reverencia sobrehumana; sus ritos eran en la mayor parte negativos, diseñados para evitar, repeler o forzar a los fantasmas. El culto a los fantasmas no era más ni menos que un seguro contra los desastres; no tenía nada que ver con invertir para ganar elevados beneficios futuros."
+      "markdown": "EL culto a los fantasmas se desarrolló para contrarrestar los riesgos de la mala suerte; sus prácticas religiosas primitivas nacieron de la inquietud por la mala suerte y el miedo desmesurado a los muertos. Ninguna de aquellas primeras religiones se interesó especialmente por reconocer la Deidad ni venerar lo sobrehumano; sus ritos básicamente negativos tenían por objeto evitar, expulsar o coaccionar a los fantasmas. El culto a los fantasmas no era ni más ni menos que un seguro contra los desastres; no planteaba ningún tipo de inversión con vistas a rendimientos superiores en el futuro."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "87:0.2",
       "pageReference": "958.2",
       "sortId": "3.087.000.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
       "sectionTitle": null,
-      "markdown": "El hombre ha sostenido una larga y amarga lucha con el culto a los fantasmas. Nada, en la historia de la humanidad inspira mayor lástima que este cuadro de la esclavitud abyecta del hombre al temor de los espíritus-fantasmas. Con el nacimiento de este mismo temor, la humanidad empezó su evolución religiosa. La imaginación humana zarpó de los límites del yo y no volverá a echar ancla hasta llegar al concepto de la verdadera Divinidad, el Dios real."
+      "markdown": "El hombre ha sostenido una larga y encarnizada lucha con el culto a los fantasmas. Nada inspira mayor lástima en la historia humana que la imagen del hombre abyectamente esclavizado por el miedo a los espíritus fantasma. Con el nacimiento de este miedo la humanidad inició la ruta ascendente de la evolución religiosa. La imaginación humana zarpó desde las costas del yo y no volverá a encontrar dónde fondear hasta que llegue al concepto de una Deidad verdadera, de un Dios real."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "87:1.0",
       "pageReference": null,
       "sortId": "3.087.001.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "87:1.1",
       "pageReference": "958.3",
       "sortId": "3.087.001.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
-      "markdown": "Se temía a la muerte porque significaba la liberación de otro fantasma de su cuerpo físico. Los antiguos hacían todo lo posible por prevenir la muerte, para evitar el problema de tener que luchar con otro fantasma más. Siempre intentaban ansiosamente inducir al fantasma a que abandonara la escena de la muerte, para embarcarse en el viaje hacia la tierra de los difuntos. El fantasma se temía más que nada durante el supuesto período de transición entre su aparición en el momento de la muerte y su posterior partida hacia la tierra de los fantasmas, un concepto vago y primitivo del seudocielo."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
+      "markdown": "Se temía a la muerte porque significaba que un fantasma más se liberaba de su cuerpo físico. Los antiguos hacían todo lo que podían por impedir la muerte, por evitar el problema de tener que lidiar con un nuevo fantasma. Intentaban por todos los medios inducir al fantasma a marcharse del escenario de la muerte, a emprender el viaje hacia la tierra de los muertos. Cuando más se temía al fantasma era durante la supuesta fase de transición entre su emergencia en el momento de la muerte y su marcha posterior hacia la tierra de los fantasmas, que era un vago concepto primitivo de pseudocielo."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "87:1.2",
       "pageReference": "958.4",
       "sortId": "3.087.001.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
-      "markdown": "Aunque el salvaje confería a los fantasmas poderes sobrenaturales, no los concebía como de inteligencia sobrenatural. Se practicaban muchas engañifas y estratagemas para engatusar y apresar a los fantasmas; el hombre civilizado aún deposita mucha fe en la esperanza de que una manifestación exterior de piedad consiga de alguna manera engatusar hasta a la Deidad omnisapiente."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
+      "markdown": "Aunque el salvaje atribuía poderes sobrenaturales a los fantasmas, no imaginaba que tuvieran inteligencia sobrenatural. Se utilizaban muchos trucos y estratagemas para intentar burlar y engañar a los fantasmas. El hombre civilizado sigue creyendo que una manifestación exterior de piedad puede engañar de alguna manera incluso a una Deidad omnisciente."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "87:1.3",
       "pageReference": "958.5",
       "sortId": "3.087.001.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
-      "markdown": "Los primitivos temían la enfermedad porque observaban que frecuentemente ésta era presagio de la muerte. Si el curandero de la tribu no conseguía curar al afligido, usualmente se trasladaba al enfermo de la cabaña familiar a otra más pequeña o se lo abandonaba a la intemperie para que muriese a solas. Se solía destruir la casa en la que había ocurrido una muerte; en todo caso, siempre se la evitaba, y este temor impidió que el hombre primitivo construyera edificios duraderos. También interfirió con el establecimiento de aldeas y ciudades permanentes."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
+      "markdown": "Los primitivos temían las enfermedades porque observaban que eran a menudo presagio de la muerte. Si el curandero tribal no conseguía curar al enfermo, solían sacarlo de la cabaña familiar y llevarlo a otra más pequeña o abandonarlo a la intemperie para que muriese solo. Normalmente se destruía la casa donde había ocurrido la muerte, y cuando no se destruía todos se apartaban de ella. Este miedo impidió que el hombre primitivo construyera viviendas sólidas y contribuyó mucho a que no se establecieran pueblos y ciudades permanentes."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "87:1.4",
       "pageReference": "958.6",
       "sortId": "3.087.001.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
-      "markdown": "Cuando moría un miembro del clan, los salvajes permanecían despiertos toda la noche conversando; temían que también morirían si se dormían cerca de un cadáver. El contagio del cadáver sustanciaba el temor a los muertos, y todos los pueblos, en un momento u otro, han empleado elaboradas ceremonias de purificación inventadas para purificar a un individuo después del contacto con los muertos. Los antiguos creían que se debía proveer luz para el cadáver; un cuerpo muerto no se dejaba nunca en la oscuridad. En el siglo veinte, aún se encienden velas en las cámaras fúnebres, y los hombres siguen velando al muerto. El así llamado hombre civilizado aún no ha podido eliminar completamente el temor a los cadáveres de su filosofía de la vida."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
+      "markdown": "Cuando moría un miembro del clan los salvajes lo velaban toda la noche y hablaban sin parar porque temían morir también si se quedaban dormidos cerca de un cadáver. El contagio del cadáver justificaba el miedo a los muertos, y todos los pueblos han practicado alguna vez complicadas ceremonias de purificación destinadas a limpiar a un individuo después del contacto con los muertos. Los antiguos creían que había que proporcionar luz a los cadáveres y nunca dejaban un cuerpo muerto a oscuras. En el siglo veinte siguen ardiendo velas en las cámaras mortuorias y los hombres siguen velando a los muertos. El llamado hombre civilizado aún no ha eliminado del todo el miedo a los cuerpos muertos de su filosofía de la vida."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "87:1.5",
       "pageReference": "959.1",
       "sortId": "3.087.001.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Temor a los Fantasmas",
-      "markdown": "Pero a pesar de este gran temor, los hombres siguieron tratando de engañar a los fantasmas. Si no se destruía la cabaña en la que había ocurrido una muerte, se sacaba el cadáver por un agujero en la pared, nunca por la puerta. Estas medidas se tomaban para confundir al fantasma, previniendo su permanencia, y para asegurarse contra su retorno. Los plañideros también volvían del entierro por un camino distinto, para evitar que los siguiera el fantasma. Se caminaba de espaldas y otra cantidad de stratagemas se practicaban para asegurarse de que el fantasma no regresara de la tumba. Frecuentemente los sexos se intercambiaban vestimentas para engañar al fantasma. El luto se inventó con el objeto de ocultar a los sobrevivientes; más adelante, para mostrar respeto por el muerto y apaciguar de esta manera a los fantasmas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El miedo a los fantasmas",
+      "markdown": "Pero a pesar de todos estos miedos, los hombres siguieron intentando engañar a los fantasmas. Cuando no se destruía la cabaña del fallecimiento se sacaba el cadáver por un agujero en la pared, nunca por la puerta. Se tomaban estas medidas para confundir al fantasma, para impedir que se demorara en la casa y asegurarse de que no volviera. Los dolientes volvían del funeral por un camino distinto, no fuera que el fantasma los siguiera. Utilizaban trucos como caminar de espaldas y otros muchos para asegurarse de que el fantasma no volviera de la tumba. A menudo los sexos intercambiaban sus ropas con intención de engañar al fantasma. La ropa de luto se ideó al principio para disfrazar a los supervivientes; más tarde se utilizó para mostrar respeto por el muerto y aplacar así a los fantasmas."
     },
     {
       "type": "section",
@@ -199,8 +199,8 @@
       "standardReferenceId": "87:2.0",
       "pageReference": null,
       "sortId": "3.087.002.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
       "markdown": null
     },
     {
@@ -217,9 +217,9 @@
       "standardReferenceId": "87:2.1",
       "pageReference": "959.2",
       "sortId": "3.087.002.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "En la religión el programa negativo de aplacamiento de los fantasmas precedió con mucho al programa positivo de coerción y súplica a los espíritus. Las primeras manifestaciones de la adoración humana fueron fenómenos de defensa, no de reverencia. El hombre moderno considera sabio asegurarse contra el incendio; del mismo modo el salvaje consideraba sabio asegurarse contra la mala suerte provocada por los fantasmas. Los esfuerzos para conseguir esta protección formaron las técnicas y los rituales del culto a los fantasmas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "En la historia de la religión el programa negativo de aplacamiento de los fantasmas precedió por mucho al programa positivo de coerción y súplica a los espíritus. Los primeros actos humanos de culto fueron fenómenos de defensa, no de veneración. Al hombre moderno le parece sensato asegurarse contra los incendios igual que al salvaje le parecía sensato asegurarse contra la mala suerte provocada por los fantasmas. El esfuerzo por conseguir esta protección originó las técnicas y rituales del culto a los fantasmas."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "87:2.2",
       "pageReference": "959.3",
       "sortId": "3.087.002.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Antiguamente se pensaba que el gran deseo de un fantasma consistía en que se le «conjurara» rápidamente para que pudiese proceder sin disturbios a la tierra de los muertos. Todo error de comisión u omisión en las acciones de los vivientes en el rito del conjuramiento del fantasma atrasaba su progreso hacia la tierra de los fantasmas. Se creía que esto incomodaba al fantasma, y un fantasma airado se consideraba fuente de calamidades, mala suerte e infelicidad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Se creyó en su día que el gran deseo de un fantasma era ser «conjurado» rápidamente para poder dirigirse sin problemas a la tierra de los muertos. Cualquier error de comisión u omisión por parte de los vivos en el ritual de conjurar al fantasma retrasaría sin duda su progreso hacia la tierra de los fantasmas. Eso disgustaría probablemente al fantasma, y se suponía que un fantasma enojado era fuente de calamidades, desgracias e infelicidad."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "87:2.3",
       "pageReference": "959.4",
       "sortId": "3.087.002.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "El servicio fúnebre se originó en el esfuerzo del hombre por inducir al alma fantasmal a partir hacia su futuro hogar, y el sermón fúnebre fue originalmente inventado para instruir al nuevo fantasma sobre el camino para llegar a él. Era costumbre pro-veer alimentos y vestimentas para el viaje del fantasma, colocándose estos artículos dentro de la tumba o cerca de ella. El salvaje creía que se requerían de tres días a un año para «conjurar al fantasma» —para que abandonara la cercanía de la tumba. Los esquimales todavía creen que el alma permanece con el cuerpo durante tres días."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "El origen de los funerales fue el esfuerzo del hombre por inducir al alma fantasma a marcharse hacia su futura morada, y la función original del sermón fúnebre era instruir al nuevo fantasma sobre la manera de llegar hasta allí. Era costumbre proporcionar ropa y alimentos para el viaje del fantasma, y estos artículos se colocaban dentro o cerca de la tumba. El salvaje creía que se tardaba entre tres días y un año en «conjurar al fantasma», es decir, alejarlo de los alrededores de la tumba. Los esquimales siguen creyendo que el alma se queda tres días con el cuerpo."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "87:2.4",
       "pageReference": "959.5",
       "sortId": "3.087.002.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Se observaba un período de silencio o el luto después de una muerte para evitar que el fantasma fuera atraído de regreso al hogar. Una forma común de luto era la autotortura: heridas autoinfligidas. Muchos maestros avanzados trataron de poner fin a esto, pero fracasaron. El ayuno y otras formas de autonegación se consideraban agradables para los fantasmas, quienes disfrutaban de la aflicción de los vivos durante el período de transición en que aún rondaban en las inmediaciones antes de su partida hacia la tierra de los muertos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Tras el fallecimiento se observaba un periodo de silencio o luto para que el fantasma no se sintiera atraído a volver. La autotortura —las heridas— fue una forma común de luto. Muchos maestros avanzados intentaron luchar contra esto pero fracasaron. Se pensaba que el ayuno y otras formas de sacrificio eran gratos a los fantasmas, que disfrutaban con la aflicción de los vivos durante el periodo de transición, cuando merodeaban por la zona antes de salir hacia la tierra de los muertos."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "87:2.5",
       "pageReference": "959.6",
       "sortId": "3.087.002.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Los largos y frecuentes períodos de inactividad por luto constituyeron uno de los grandes obstáculos al avance de la civilización. Semanas y aun meses de cada año se desperdiciaban en este luto improductivo e inútil. El hecho de que se emplearan plañideras profesionales para las ocasiones fúnebres indica que el luto era un rito, no una manifestación de dolor. Los modernos tal vez cumplan con el luto por respeto y pena, pero los antiguos lo hacían por *temor.*"
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Los largos y frecuentes periodos de inactividad por luto fueron uno de los grandes obstáculos para el avance de la civilización. Se perdían literalmente semanas e incluso meses todos los años en ese luto inútil e improductivo. El hecho de que se contrataran plañideras profesionales con motivo de los funerales indica que el luto era un ritual, no una manifestación de tristeza. Puede que los modernos lloren a los muertos por pena y respeto, pero los antiguos lo hacían por *miedo*."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "87:2.6",
       "pageReference": "959.7",
       "sortId": "3.087.002.006",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Jamás se pronunciaba el nombre del muerto. En efecto, frecuentemente se lo borraba del idioma. Estos nombres se volvieron tabú, y de esta manera los idiomas se empobrecían constantemente. Esto produjo finalmente una multiplicación de discursos simbólicos y expresiones figurativas, tales como «el nombre o el día que nunca se mencionan»."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Los nombres de los muertos no volvían a pronunciarse nunca más. De hecho, eran desterrados muchas veces del idioma. Esos nombres se convertían en tabú, y los idiomas se empobrecían constantemente por este sistema. Esto produjo a la larga una proliferación de frases simbólicas y expresiones figuradas como «el nombre o el día que nunca se menciona»."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "87:2.7",
       "pageReference": "960.1",
       "sortId": "3.087.002.007",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Los antiguos tanta ansia tenían de liberarse de los fantasmas que les ofrecían todo lo que éstos podían haber deseado en vida. Los fantasmas querían esposas y siervos; un salvaje acaudalado calculaba que por lo menos una esposa esclava sería enterrada viva con él al tiempo de su muerte. Más adelante se volvió costumbre que la viuda se suicidase sobre la tumba de su marido. Cuando moría un niño, la madre, tía o abuela frecuentemente era estrangulada para que un fantasma adulto pudiera acompañar al fantasma infantil y cuidar de él. Los que así daban su vida generalmente lo hacían voluntariamente; en efecto, si hubiesen vivido violando esta costumbre, su terror de la ira de los fantasmas habría despojado su vida de todos los pocos placeres disfrutados por los primitivos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Los antiguos ponían tanto empeño en deshacerse de un fantasma que le ofrecían todo lo que hubiera podido desear durante su vida. Los fantasmas querían esposas y criados; un salvaje adinerado esperaba que al menos una esposa esclava fuera enterrada viva con él a su muerte. Se hizo costumbre más tarde que la viuda se suicidara sobre la tumba de su marido. Cuando moría un niño se estrangulaba frecuentemente a la madre, a la tía o a la abuela, para que un fantasma adulto pudiera acompañar y cuidar al fantasma niño. Y los que entregaban así sus vidas solían hacerlo de buen grado. De hecho, si hubieran vivido violando la costumbre, su miedo a la cólera de los fantasmas les habría impedido disfrutar de los pocos placeres de la vida primitiva."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "87:2.8",
       "pageReference": "960.2",
       "sortId": "3.087.002.008",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Se acostumbraba despachar gran número de sujetos para acompañar a un cacique muerto; los esclavos eran asesinados cuando moría su amo para poder servirle en la tierra de los fantasmas. Los habitantes de Borneo aún proveen un compañero de viaje; se mata de lanza a un esclavo para que viaje con el fantasma de su amo fallecido. Se pensaba que los fantasmas de las personas asesinadas estaban encantados de tener a los fantasmas de sus asesinos como esclavos; esta idea motivó a los hombres a cazar cabezas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Cuando un jefe fallecía era costumbre ejecutar a muchos de sus súbditos para que lo acompañaran, igual que se mataba a los esclavos a la muerte de su amo para que pudieran servirle en la tierra de los fantasmas. Los habitantes de Borneo siguen proporcionando un guía acompañante: se mata a un esclavo a lanzadas para que su fantasma haga el viaje con su amo fallecido. Se creía que a los fantasmas de las personas asesinadas les encantaba tener como esclavos a los fantasmas de sus asesinos; esta idea incitó a los hombres a cazar cabezas."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "87:2.9",
       "pageReference": "960.3",
       "sortId": "3.087.002.009",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Se suponía que los fantasmas disfrutaban del olor de la comida. Antiguamente las ofrendas de alimentos en las fiestas fúnebres eran universales. El método primitivo de acción de gracias, consistía en arrojar un trozo de alimento al fuego antes de comer, con el objeto de apaciguar a los espíritus, murmurando al mismo tiempo una fórmula mágica."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Se daba por supuesto que a los fantasmas les gustaba el olor de la comida; las ofrendas de comida en las fiestas fúnebres fueron universales en su día. El método primitivo de bendecir la mesa antes de comer era arrojar al fuego un trozo de comida recitando entre dientes una fórmula mágica para aplacar a los espíritus."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "87:2.10",
       "pageReference": "960.4",
       "sortId": "3.087.002.010",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Aplacamiento de los Fantasmas",
-      "markdown": "Se suponía que los muertos utilizaban los fantasmas de las herramientas y armas que habían usado en vida. Romper un artículo significaba «matarlo», soltando de esta manera al fantasma para que éste pasara al servicio en la tierra de los fantasmas. También se sacrificaba la propiedad incendiándola o enterrándola. El desperdicio en los funerales antiguos era enorme. Las razas más recientes fabricaron modelos de papeles y sustituyeron dibujos por los objetos y personas reales en estos sacrificios fúnebres. Fue un gran avance para la civilización cuando la herencia a los parientes reemplazó el incendiar y enterrar la propiedad. Los indios iroqueses hicieron muchas reformas para limitar el desperdicio fúnebre. Esta conservación de la propiedad les permitió volverse los más poderosos de entre los hombres rojos del norte. El hombre moderno, así se cree, no teme a los fantasmas, pero las costumbres son poderosas, y mucha de la riqueza terrestre aún se consume en ritos fúnebres y ceremonias a los muertes."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El aplacamiento de los fantasmas",
+      "markdown": "Se creía que los muertos utilizaban los fantasmas de las armas y herramientas que fueron suyas en vida. Romper un objeto era «matarlo», y eso liberaba su fantasma para que pudiera ser utilizado en la tierra de los fantasmas. También se sacrificaban los bienes quemándolos o enterrándolos. El despilfarro de los funerales antiguos era enorme. Las razas posteriores fabricaron réplicas en papel y sustituyeron los objetos y las personas reales por dibujos en los sacrificios mortuorios. La civilización dio un gran paso adelante cuando en vez de quemar o enterrar los bienes se legaron en herencia a los parientes. Los indios iroqueses introdujeron muchas reformas para limitar el derroche funerario, de modo que pudieron conservar sus bienes y llegaron a ser los más poderosos entre los hombres rojos del norte. Se supone que el hombre moderno no teme a los fantasmas, pero persisten las costumbres y se sigue consumiendo mucha riqueza terrenal en ceremonias mortuorias y ritos funerarios."
     },
     {
       "type": "section",
@@ -397,8 +397,8 @@
       "standardReferenceId": "87:3.0",
       "pageReference": null,
       "sortId": "3.087.003.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
       "markdown": null
     },
     {
@@ -415,9 +415,9 @@
       "standardReferenceId": "87:3.1",
       "pageReference": "960.5",
       "sortId": "3.087.003.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
-      "markdown": "El avance del culto a los fantasmas tornó inevitable la adoración a los antepasados, puesto que se volvió el eslabón de conexión entre los fantasmas comunes y los espíritus más altos, los dioses en evolución. Los dioses primitivos eran simplemente humanos muertos glorificados."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
+      "markdown": "El creciente culto a los fantasmas hizo inevitable la veneración a los antepasados, que se convirtió en el vínculo de unión entre los fantasmas comunes y los espíritus más altos, los dioses en proceso de evolución. Los primeros dioses fueron simplemente humanos difuntos glorificados."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "87:3.2",
       "pageReference": "960.6",
       "sortId": "3.087.003.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
-      "markdown": "La adoración a los antepasados fue originalmente más un temor que una adoración, pero estas creencias definitivamente contribuyeron a la difusión ulterior del temor y adoración a los fantasmas. Los devotos de los primitivos cultos a los fantasmas y a los antepasados aún temían bostezar, pues un fantasma maligno podía aprovechar ese momento para entrar en su cuerpo."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
+      "markdown": "En origen, la veneración a los antepasados fue más un miedo que una veneración, pero estas creencias contribuyeron claramente a difundir el miedo y la veneración a los fantasmas. Los adeptos de los primeros cultos a los fantasmas antepasados temían incluso bostezar, no fuera a ser que un fantasma maligno aprovechara para introducirse en su cuerpo en ese momento."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "87:3.3",
       "pageReference": "960.7",
       "sortId": "3.087.003.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
-      "markdown": "La costumbre de adoptar niños surgió para asegurarse de que quedaría alguien para hacer ofrendas después de la muerte, en pos de la paz y el progreso del alma. Los salvajes vivían temiendo a los fantasmas de sus semejantes y pasaban su tiempo libre haciendo planes para el salvoconducto de su propio fantasma después de la muerte."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
+      "markdown": "La costumbre de adoptar niños era la forma de asegurar que después de la muerte del adoptador alguien hiciera las ofrendas necesarias para la paz y el progreso de su alma. El salvaje vivía atemorizado por los fantasmas de sus semejantes y pasaba su tiempo libre proyectando un tránsito seguro para su propio fantasma tras la muerte."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "87:3.4",
       "pageReference": "960.8",
       "sortId": "3.087.003.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
-      "markdown": "La mayoría de las tribus instituyeron un festival para todas las almas, por lo menos una vez por año. Los romanos tenían doce fiestas anuales para los fantasmas, con sus ceremonias correspondientes. La mitad de los días del año estaba dedicada a algún tipo de ceremonia asociada con estos cultos antiguos. Un emperador romano intentó reformar estas prácticas reduciendo el número de días feriados a 135 por año."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
+      "markdown": "La mayoría de las tribus instituyeron una fiesta de las ánimas al menos una vez al año. Los romanos tenían doce fiestas de fantasmas al año con su correspondiente ceremonial. La mitad de los días del año estaban dedicados a algún tipo de ceremonia relacionada con estos antiguos cultos. Un emperador romano intentó reformar estas prácticas reduciendo el número de días de fiesta a 135 al año."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "87:3.5",
       "pageReference": "961.1",
       "sortId": "3.087.003.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Adoración a los Antepasados",
-      "markdown": "El culto de los fantasmas estaba en continua evolución. Así como se llegó a pensar que los fantasmas estaban pasando de una fase incompleta a una fase más elevada de la existencia, así también progresó finalmente el culto a la adoración de los espíritus y aun de los dioses. Pero a pesar de las distintas creencias en espíritus más avanzados, todas las tribus y razas creyeron alguna vez en los fantasmas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El culto a los antepasados",
+      "markdown": "El culto a los fantasmas fue evolucionando sin cesar a medida que el hombre imaginaba que los fantasmas pasaban de una fase de existencia incompleta a otra más elevada, y progresó finalmente hasta la adoración a los espíritus e incluso a los dioses. Pero con independencia de sus diversas creencias posteriores en espíritus más avanzados, todas las tribus y razas creyeron alguna vez en los fantasmas."
     },
     {
       "type": "section",
@@ -505,8 +505,8 @@
       "standardReferenceId": "87:4.0",
       "pageReference": null,
       "sortId": "3.087.004.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
       "markdown": null
     },
     {
@@ -523,9 +523,9 @@
       "standardReferenceId": "87:4.1",
       "pageReference": "961.2",
       "sortId": "3.087.004.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "El temor a los fantasmas fue la fuente de todas las religiones mundiales; durante muchas edades muchas tribus se aferraron a su vieja creencia en un tipo de fantasmas. Enseñaban que el hombre tenía buena suerte cuando el fantasma estaba contento, mala suerte cuando éste estaba airado."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "El miedo a los fantasmas fue la fuente de todas las religiones del mundo. Muchas tribus se aferraron durante largo tiempo a la vieja creencia en una sola clase de fantasmas. Enseñaban que el hombre tenía buena suerte cuando el fantasma estaba contento y mala suerte cuando se enfadaba."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "87:4.2",
       "pageReference": "961.3",
       "sortId": "3.087.004.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "A medida que el culto del temor a los fantasmas se amplió, se produjo el reconocimiento de un tipo más elevado de espíritus, espíritus que no se identificaban claramente con ningún individuo humano. Eran fantasmas graduados o glorificados que habían progresado más allá del dominio de la tierra de los fantasmas a los reinos espirituales más elevados."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "A medida que se fue extendiendo el culto del miedo a los fantasmas, se produjo el reconocimiento de tipos más altos de espíritus, espíritus que no eran claramente identificables con ningún individuo humano. Eran fantasmas graduados o glorificados que habían progresado más allá del dominio de la tierra de los fantasmas hasta los ámbitos más altos de la tierra de los espíritus."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "87:4.3",
       "pageReference": "961.4",
       "sortId": "3.087.004.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "La noción de dos tipos de espíritus-fantasmas fue progresando lenta pero seguramente en todo el mundo. Este nuevo espiritismo dual no tuvo que difundirse de tribu en tribu; surgió independientemente en todo el mundo. Al influir la mente evolucionaria en expansión, el poder de una idea no se encuentra en su realidad ni en su razón sino más bien en la *intensidad* y universalidad de su aplicación pronta y sencilla."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "La noción de la existencia de dos tipos de fantasmas espíritus progresó de forma lenta pero segura en todo el mundo. Este nuevo espiritualismo dual no tuvo que difundirse de tribu en tribu; surgió de forma independiente en todas partes. A la hora de influir sobre la mente evolutiva en proceso de expansión, el poder de una idea no reside en su realidad ni en su razonabilidad, sino más bien en su *intensidad* y en la rapidez y facilidad de su aplicación universal."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "87:4.4",
       "pageReference": "961.5",
       "sortId": "3.087.004.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "Aun más adelante la imaginación del hombre concibió el concepto de agencias sobrenaturales buenas y malas; algunos fantasmas no evolucionaban nunca al nivel de los buenos espíritus. El monoespiritismo primitivo del temor a los fantasmas fue evolucionando gradualmente a un espiritismo dual, un nuevo concepto del control invisible de los asuntos terrestres. Finalmente la buena suerte y la mala suerte se interpretaban controladas por entes separados. Y de las dos clases, el grupo que traía mala suerte se consideraba más activo y numeroso."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "Más adelante la imaginación humana desarrolló el concepto de agentes sobrenaturales buenos y malos; algunos fantasmas no evolucionaban nunca hasta llegar al nivel de espíritus buenos. El primer espiritualismo del miedo a los fantasmas fue evolucionando gradualmente hacia un espiritualismo dual, hacia un nuevo concepto del control invisible de los asuntos terrenales. Por fin el hombre se formó la idea de que la buena y la mala suerte tenían sus controladores respectivos. Pero se pensaba que el que traía mala suerte era el más activo y numeroso de estos dos grupos."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "87:4.5",
       "pageReference": "961.6",
       "sortId": "3.087.004.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "Cuando finalmente maduró la doctrina de los espíritus buenos y malos, se tornó la más difundida y persistente de las creencias religiosas. Este dualismo representaba un gran avance religio-filosófico porque permitía que el hombre encontrara una explicación tanto para la buena suerte como para la mala suerte y al mismo tiempo originaba la creencia en seres supermortales cuya conducta era en cierto modo coherente. Se podía contar con que los espíritus serían o buenos o malos; ya no se los consideraba totalmente temperamentales como los fantasmas primitivos del monoespiritismo de las religiones más primitivas los habían concebido que eran. El hombre por fin podía concebir fuerzas supermortales de comportamiento coherente, y éste fue uno de los más importantes descubrimientos de la verdad en la trayectoria de la evolución religiosa y en la expansión de la filosofía humana."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "Cuando finalmente maduró la doctrina de los espíritus buenos y malos, se convirtió en la más difundida y persistente de todas las creencias religiosas. Este dualismo supuso un gran avance filosófico-religioso porque permitía al hombre explicarse tanto la buena como la mala suerte y creer al mismo tiempo en seres supramortales de comportamiento más o menos coherente. Se podía esperar que los espíritus fueran o buenos o malos; se dejó de pensar que fueran totalmente caprichosos como los primeros fantasmas del monoespiritualismo de las religiones más primitivas. El hombre podía por fin concebir fuerzas supramortales que se comportaban de forma coherente, y este fue uno de los descubrimientos sobre la verdad más importantes de la historia de la evolución de la religión y de la expansión de la filosofía humana."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "87:4.6",
       "pageReference": "961.7",
       "sortId": "3.087.004.006",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "Sin embargo la religión evolucionaria ha pagado un precio tremendo por el concepto del espiritismo dualista. La primitiva filosofía del hombre podía reconciliar la conherencia de los espíritus con las vicisitudes de la suerte temporal solamente mediante el postulado de dos tipos de espíritus: uno bueno y otro malo. Aunque esta creencia permitió al hombre reconciliar las variables del azar con el concepto de las fuerzas supermortales invariables, esta doctrina, desde su comienzo, ha hecho difícil para los religiosos concebir la unidad cósmica. En general los dioses de la religión evolucionaria han sido objeto de la oposición de las fuerzas de la oscuridad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "La religión evolutiva ha pagado sin embargo un precio terrible por el concepto del espiritualismo dual. La primera filosofía del hombre solo fue capaz de conciliar la acción coherente de los espíritus sobre las vicisitudes de la fortuna temporal presuponiendo dos tipos de espíritus: los buenos y los malos. Y aunque esta creencia permitió al hombre conciliar las variables del azar con un concepto de fuerzas supramortales inmutables, a partir de esta doctrina ha sido siempre difícil para las personas religiosas concebir la unidad cósmica. Por regla general los dioses de la religión evolutiva han sido opuestos a las fuerzas de las tinieblas."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "87:4.7",
       "pageReference": "962.1",
       "sortId": "3.087.004.007",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "Los Espíritus Fantasmales Buenos y Malos",
-      "markdown": "La tragedia de todo esto yace en el hecho de que, cuando estas ideas se estaban arraigando en la mente primitiva del hombre, no había en realidad espíritus malos ni desarmoniosos en el mundo entero. Dicha situación desafortunada no se desarrolló hasta después de Caligastia y tan sólo persistió hasta Pentecostés. El concepto del bien y del mal como coordenadas cósmicas está muy vivo, aún en el siglo veinte, en la filosofía humana; la mayor parte de las religiones del mundo aún llevan esta marca cultural de nacimiento de los días pasados del surgimiento de los cultos a los fantasmas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Los fantasmas espíritus buenos y malos",
+      "markdown": "La tragedia de todo esto reside en el hecho de que, cuando estas ideas estaban arraigando en la mente primitiva del hombre, no había realmente espíritus malos o discordantes en el mundo. Esa lamentable situación no se produjo hasta después de la rebelión de Caligastia y solo duró hasta Pentecostés. El concepto del bien y del mal como coordenadas cósmicas está muy vivo en la filosofía humana incluso en el siglo veinte. La mayoría de las religiones del mundo siguen llevando esta marca cultural de nacimiento que data de los remotos días en que surgieron los cultos a los fantasmas."
     },
     {
       "type": "section",
@@ -649,8 +649,8 @@
       "standardReferenceId": "87:5.0",
       "pageReference": null,
       "sortId": "3.087.005.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
       "markdown": null
     },
     {
@@ -667,9 +667,9 @@
       "standardReferenceId": "87:5.1",
       "pageReference": "962.2",
       "sortId": "3.087.005.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "El hombre primitivo consideraba que los espíritus y los fantasmas tenían derechos casi ilimitados, pero ningún deber; al mismo tiempo se creía que los espíritus contemplaban al hombre como teniendo múltiples deberes, pero ningún derecho. Se creía que los espíritus consideraban al hombre con cierto desprecio porque éste constantemente fallaba en el cumplimiento de sus deberes espirituales. Era creencia general de la humanidad que los fantasmas cobraban un tributo continuo de servicio como precio por no interferir en los asuntos humanos, y todo percance minúsculo se atribuía a las actividades de los fantasmas. Los humanos primitivos tanto temían olvidar algún honor debido a los dioses, que, después de haber hecho sacrificios a todos los espíritus conocidos, hacían otro sacrificio a los «dioses desconocidos», para así asegurarse profundamente."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Para el hombre primitivo los espíritus y los fantasmas tenían derechos casi ilimitados pero ningún deber, en cambio se creía que para los espíritus el hombre tenía muchos deberes pero ningún derecho. Se pensaba que los espíritus menospreciaban a los hombres porque incumplían constantemente sus deberes espirituales. Era creencia general de la humanidad que los fantasmas imponían un tributo permanente de servicio a cambio de no interferir en los asuntos humanos, y el más mínimo infortunio se atribuía a las actividades de los fantasmas. Los primeros humanos tenían tanto miedo a olvidarse de algún honor debido a los dioses que, cuando habían terminado sus sacrificios a todos los espíritus conocidos, hacían otra tanda a los «dioses desconocidos» solo para sentirse totalmente a salvo."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "87:5.2",
       "pageReference": "962.3",
       "sortId": "3.087.005.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "Y ahora este sencillo culto de los fantasmas es seguido por las prácticas del culto más avanzado y relativamente complejo de los espíritus-fantasmas, el servicio y adoración a los espíritus más elevados tal como habían evolucionado en la imaginación primitiva del hombre. El ceremonial religioso tenía que mantenerse al ritmo de la evolución y progreso espiritual. El culto ampliado no fue sino el arte del automantenimiento practicado en relación con la creencia en seres sobrenaturales, una autoadaptación al medio ambiente de los espíritus. Las organizaciones industriales y militares fueron adaptaciones a los medios ambientes natural y social. Así como el matrimonio surgió para satisfacer las demandas de la bisexualidad, del mismo modo la organización religiosa se desarrolló en respuesta a la creencia en fuerzas espirituales superiores y en seres espirituales. La religión representa la adaptación del hombre a sus ilusiones del misterio del azar. El temor a los espíritus y la subsiguiente adoración fueron adoptados como seguro contra la mala suerte, como pólizas de prosperidad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "El culto simple a los fantasmas dio paso posteriormente a las prácticas del culto más avanzado y relativamente complejo a los fantasmas espíritus: el servicio y la adoración a los espíritus más altos tal como evolucionaron en la imaginación primitiva del hombre. El ceremonial religioso tenía que seguir el ritmo de la evolución y el progreso en el espíritu. El culto ampliado no fue sino el arte de la autoconservación practicado en relación con la creencia en seres sobrenaturales, un autoajuste al entorno de los espíritus. Las organizaciones industriales y militares fueron ajustes al entorno natural y social. Y así como el matrimonio surgió para satisfacer las exigencias de la existencia de dos sexos, la organización religiosa se desarrolló en respuesta a la creencia en fuerzas de espíritu más altas y en seres espirituales. La religión representa la adaptación del hombre a sus figuraciones sobre los misterios del azar. El miedo a los espíritus y la adoración subsiguiente se adoptaron como un seguro contra el infortunio, como pólizas de prosperidad."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "87:5.3",
       "pageReference": "962.4",
       "sortId": "3.087.005.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "El salvaje visualiza a los espíritus buenos ocupados de sus propios asuntos, y poco exigen de los seres humanos. Son los fantasmas y espíritus malos los que deben ser apaciguados. Por consiguiente, los pueblos primitivos dedicaban más atención a sus fantasmas malévolos que a sus espíritus benévolos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "En la representación mental del salvaje los espíritus buenos se ocupan de sus propios asuntos y exigen poco a los seres humanos, en cambio hay que procurar mantener de buen humor a los fantasmas y espíritus malos. Por eso los pueblos primitivos prestaban más atención a sus fantasmas malévolos que a sus espíritus benignos."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "87:5.4",
       "pageReference": "962.5",
       "sortId": "3.087.005.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "Se consideraba que la prosperidad humana atraía particularmente la envidia de los espíritus malos, y éstos se vengaban a través de una agencia humana y por la técnica del *mal de ojo.* La fase del culto que tenía que ver con evitar a los espíritus mucho se preocupaba por las maquinaciones del mal de ojo, el cual era casi mundial. Las mujeres bonitas se les cubría con velos para protegerlas del mal de ojo; más adelante muchas mujeres que deseaban ser consideradas hermosas adoptaron esta práctica. Debido a este temor de los espíritus malignos, no se permitía casi nunca que los niños saliesen de noche, y las oraciones primitivas siempre incluían la solicitud, «sálvanos del mal de ojo»."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Se suponía que la prosperidad humana provocaba especial envidia en los espíritus malos, que se desquitaban a través de un agente humano por el procedimiento del *mal de ojo*. La parte del culto dedicada a la protección contra los espíritus se preocupaba mucho por las maquinaciones del mal de ojo. El miedo al mal de ojo se hizo prácticamente mundial. Se cubría con velos a las mujeres bonitas para protegerlas del mal de ojo, y esta práctica fue adoptada posteriormente por muchas mujeres para que las consideraran hermosas. No se solía permitir a los niños salir de casa después del anochecer por miedo a los espíritus malos, y en las oraciones primitivas se pedía siempre: «líbranos del mal de ojo»."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "87:5.5",
       "pageReference": "962.6",
       "sortId": "3.087.005.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "El Corán contiene un capítulo entero dedicado al mal de ojo y a las encantaciones mágicas, y los judíos creían plenamente en ellos. El entero culto fálico nació como defensa contra el mal de ojo. Los órganos de reproducción se consideraban el único fetiche capaz de neutralizarlo. El mal de ojo dio origen a las primeras supersticiones sobre las marcas o lunares prenatales en los niños, como resultado de impresiones de la madre, y el culto fue en cierto momento casi universal."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "El Corán contiene un capítulo entero dedicado al mal de ojo y a los encantamientos, y los judíos creían plenamente en ellos. Todo el culto fálico surgió como defensa contra el mal de ojo. Se pensaba que los órganos reproductores eran el único fetiche capaz de contrarrestarlo. El mal de ojo dio origen a las primeras supersticiones sobre las marcas prenatales de los niños, las huellas maternas, y en su día este culto fue casi universal."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "87:5.6",
       "pageReference": "963.1",
       "sortId": "3.087.005.006",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "La envidia es un rasgo humano profundo; por lo tanto el hombre primitivo la atribuyó a sus dioses primitivos. Puesto que el hombre en cierto momento había engañado a los fantasmas, pronto comenzó a engañar a los espíritus. Se dijo: «si los espíritus están celosos de nuestra belleza y prosperidad, nos desfiguraremos y no haremos alarde de nuestro éxito». Por consiguiente, la humildad primitiva no fue un envilecimiento del ego sino más bien un intento de engatusar a los espíritus envidiosos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "La envidia es un rasgo humano profundamente arraigado, por eso el hombre primitivo la atribuyó a sus primeros dioses. Del mismo modo que los hombres habían practicado el engaño con los fantasmas, no tardaron en intentar engañar a los espíritus. Se dijeron: «si los espíritus están celosos de nuestra belleza y nuestra prosperidad, nos afearemos y no haremos alarde de nuestros éxitos». La humildad primitiva no era por lo tanto una devaluación del ego sino más bien un intento de engañar y despistar a los espíritus envidiosos."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "87:5.7",
       "pageReference": "963.2",
       "sortId": "3.087.005.007",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "El método adoptado para prevenir que los espíritus se pusieran celosos de la prosperidad humana consistió en acumular vituperaciones sobre una cosa o persona afortunada o tiernamente amada. La costumbre de evitar las alabanzas de la persona o su familia se originó de esta manera, y finalmente evolucionó en la modestia civilizada, la reserva y la cortesía. Por el mismo motivo, estaba de moda la fealdad. La belleza estimulaba la envidia de los espíritus; era símbolo de orgullo humano pecaminoso. El salvaje deseaba un nombre feo. Esta característica del culto obstaculizó el avance de las artes, y por mucho tiempo mantuvo al mundo sombrío y feo."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Para impedir que los espíritus envidiaran la prosperidad humana se adoptó el sistema de vituperar a las personas afortunadas o muy queridas y desvalorizar las cosas apreciadas. Así nació la costumbre de restar importancia a los comentarios elogiosos sobre uno mismo o la propia familia, que se convirtió con el tiempo en la modestia, mesura y cortesía propias de la civilización. Por el mismo motivo se puso de moda la fealdad. La belleza desencadenaba la envidia de los espíritus; denotaba un orgullo humano pecaminoso. El salvaje buscaba tener fama de feo. Este aspecto del culto fue un gran obstáculo para el progreso del arte y promovió durante mucho tiempo un mundo feo y sombrío."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "87:5.8",
       "pageReference": "963.3",
       "sortId": "3.087.005.008",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "Durante la época del culto a los espíritus, la vida era a lo sumo un juego de azar, el resultado del control de los espíritus. El futuro de una persona no era resultado de sus esfuerzos, industria ni talento excepto en cuanto se podían utilizar estas virtudes para influir sobre los espíritus. Las ceremonias de propiciación de los espíritus constituían un gran peso, que convirtió la vida tediosa y virtualmente insoportable. De edad en edad y de generación en generación, una raza después de otra ha tratado de mejorar esta doctrina superfantasmal, pero ninguna generación se ha atrevido hasta ahora a rechazarla de lleno."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Bajo el culto a los espíritus la vida era, en el mejor de los casos, una lotería controlada por los espíritus. El futuro de la persona no era resultado de su esfuerzo, su laboriosidad o su talento, a no ser que estos se pudieran utilizar para influir sobre los espíritus. Las ceremonias propiciatorias a los espíritus constituían una pesada carga e hicieron la vida tediosa y prácticamente insoportable. De edad en edad y de generación en generación, una raza tras otra ha intentado mejorar esta doctrina de los superfantasmas, pero ninguna generación se ha atrevido a rechazarla por completo hasta el momento."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "87:5.9",
       "pageReference": "963.4",
       "sortId": "3.087.005.009",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "La intención y voluntad de los espíritus se estudiaban por medio de señales, oráculos y presagios. Estos mensajes de los espíritus se interpretaban por la adivinación, la profecía, la magia, la ordalía y la astrología. Todo el culto era un esquema inventado para aplacar, satisfacer y sobornar a los espíritus mediante estos sobornos enmascarados."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "La voluntad y las intenciones de los espíritus se estudiaban a través de presagios, oráculos y signos, y estos mensajes de los espíritus se interpretaban por medio de adivinaciones, profecías, ordalías, magia y astrología. Todo el culto era un programa destinado a aplacar, satisfacer y comprar a los espíritus mediante un soborno disfrazado."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "87:5.10",
       "pageReference": "963.5",
       "sortId": "3.087.005.010",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "Así pues surgió una nueva filosofía mundial ampliada que consistía en:"
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Y así creció y se difundió una nueva filosofía mundial consistente en:"
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "87:5.11",
       "pageReference": "963.6",
       "sortId": "3.087.005.011",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "1. *Deber —* las cosas que se deben hacer para que los espíritus sean favorables o, por lo menos, neutrales."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "1. *El deber*: las cosas que hay que hacer para mantener a los espíritus en disposición favorable o por lo menos neutra."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "87:5.12",
       "pageReference": "963.7",
       "sortId": "3.087.005.012",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "2. *Derecho —* la conducta y ceremonial correcto para ganar activamente a los espíritus a la causa del interés propio."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "2. *Lo correcto*: la conducta y las ceremonias adecuadas para lograr la colaboración activa de los espíritus a favor de los propios intereses."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "87:5.13",
       "pageReference": "963.8",
       "sortId": "3.087.005.013",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "3. *Verdad —* la manera correcta de comprender, y la actitud correcta hacia los espíritus, y por lo tanto, hacia la vida y la muerte."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "3. *La verdad*: la correcta comprensión de los espíritus con la consiguiente adopción de una actitud correcta hacia ellos, y por lo tanto, hacia la vida y la muerte."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "87:5.14",
       "pageReference": "963.9",
       "sortId": "3.087.005.014",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "El Avance del Culto a los Fantasmas",
-      "markdown": "No era tan sólo por curiosidad por la que los antiguos trataban de conocer el futuro; querían evitar la mala suerte. La adivinación fue simplemente un intento de prevenir dificultades. Durante esos tiempos, se consideraba que los sueños eran proféticos, y todo lo que estuviera fuera de lo común era considerado un símbolo. Aun hoy día las razas civilizadas están cargadas de creencias en signos, presagios y otros residuos supersticiosos del culto a los fantasmas en avance de la antigüedad. El hombre es lento, muy lento en abandonar esos métodos mediante los cuales él tan gradual y dolorosamente ascendió la escala evolucionaria de la vida."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "El progreso del culto a los fantasmas",
+      "markdown": "Cuando los antiguos buscaban conocer el futuro no era solo por curiosidad; querían esquivar la mala suerte. La adivinación era simplemente un intento de evitar dificultades. En aquellos tiempos los sueños se interpretaban como proféticos, y todo lo que se salía de lo normal se consideraba un presagio. E incluso hoy las razas civilizadas arrastran creencias en signos, símbolos y otros restos supersticiosos de la antigua evolución del culto a los fantasmas. Al hombre le cuesta muchísimo abandonar los métodos por los que ascendió gradual y penosamente por la escala evolutiva de la vida."
     },
     {
       "type": "section",
@@ -919,8 +919,8 @@
       "standardReferenceId": "87:6.0",
       "pageReference": null,
       "sortId": "3.087.006.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
       "markdown": null
     },
     {
@@ -937,9 +937,9 @@
       "standardReferenceId": "87:6.1",
       "pageReference": "963.10",
       "sortId": "3.087.006.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Cuando los hombres creían nada más que en los fantasmas, el rito religioso era más personal, menos organizado, pero el reconocimiento de los espíritus más elevados requirió el empleo de «métodos espirituales más elevados» para tratar con ellos. Este intento de mejorar, y elaborar, la técnica de la propiciación de los espíritus llevó directamente a la creación de defensas contra los espíritus. El hombre se sentía en verdad desamparado ante las fuerzas incontrolables, operativos en la vida terrestre, y su sentimiento de inferioridad le llevó a intentar encontrar una adaptación compensa toria, una técnica para equilibrar las probabilidades en la lucha unilateral del hombre contra el cosmos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Cuando los hombres creían solo en fantasmas el ritual religioso era más personal, menos organizado, pero el reconocimiento de espíritus más altos necesitó el empleo de «métodos espirituales más altos» para tratar con ellos. Este intento de mejorar y ampliar las técnicas propiciatorias hacia los espíritus condujo directamente a crear defensas contra ellos. El hombre se sentía realmente indefenso ante las fuerzas incontrolables que operaban en la vida terrenal, y este sentimiento de inferioridad lo indujo a intentar encontrar un ajuste compensatorio, algún procedimiento que equilibrara las probabilidades en la lucha desigual del hombre contra el cosmos."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "87:6.2",
       "pageReference": "964.1",
       "sortId": "3.087.006.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "En los primeros días del culto, los esfuerzos del hombre para influir sobre las acciones de los fantasmas se confinaban a la propiciación, intentos de soborno para evitar la mala suerte. A medida que progresó la evolución del culto a los fantasmas hacia el concepto de los espíritus buenos y los espíritus malignos, estas ceremonias tomaron aspectos de naturaleza más positiva, el esfuerzo de ganar la buena suerte. La religión del hombre ya no era completamente negativista, ni tampoco se conformó el hombre con el esfuerzo para conseguir la buena suerte; poco tiempo más tarde comenzó a inventar esquemas para obligar a los espíritus a que cooperaran con él. El religioso ya no está indefenso ante las demandas incesantes de los espíritus fantasmales de su propia creación; el salvaje comienza a inventar armas para obligar a los espíritus a la acción y para forzar su ayuda."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "En los primeros tiempos del culto los esfuerzos del hombre por influir en la acción de los fantasmas se limitaban a la propiciación, a los intentos de soborno para eludir la mala suerte. A medida que la evolución del culto a los fantasmas fue progresando hacia el concepto de espíritus tanto buenos como malos, estas ceremonias pasaron a ser intentos de naturaleza más positiva, esfuerzos por conseguir la buena suerte. La religión dejó de ser enteramente negativa y el hombre ya no se detuvo en su esfuerzo por lograr la buena suerte; al poco empezó a idear planes para forzar la cooperación de los espíritus. El hombre religioso dejó de sentirse indefenso ante las continuas exigencias de los fantasmas espíritus que él mismo había ideado; el salvaje empezaba a inventar armas para obligar a los espíritus a actuar y venir en su ayuda."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "87:6.3",
       "pageReference": "964.2",
       "sortId": "3.087.006.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Los primeros esfuerzos de defensa del hombre se dirigieron contra los fantasmas. A medida que pasaban las edades, los vivos comenzaron a inventar métodos para resistir a los muertos. Se desarrollaron muchas técnicas para asustar a los fantasmas y alejarlos, entre las cuales se pueden citar las siguientes:"
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Los primeros esfuerzos de defensa del hombre fueron dirigidos contra los fantasmas. Con el paso del tiempo los vivos empezaron a idear métodos para oponer resistencia a los muertos. Se desarrollaron muchas técnicas para asustar y ahuyentar a los fantasmas, entre ellas las siguientes:"
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "87:6.4",
       "pageReference": "964.3",
       "sortId": "3.087.006.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "1. Cortar la cabeza y atar el cadáver en la tumba."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "1. Cortar la cabeza y atar el cuerpo dentro de la tumba."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "87:6.5",
       "pageReference": "964.4",
       "sortId": "3.087.006.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "2. Tirar piedras a la casa de la muerte."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "2. Apedrear la casa de la defunción."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "87:6.6",
       "pageReference": "964.5",
       "sortId": "3.087.006.006",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "3. Castrar el cadaver o quebrar las piernas de él."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "3. Castrar al cadáver o romperle las piernas."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "87:6.7",
       "pageReference": "964.6",
       "sortId": "3.087.006.007",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "4. Enterrarlo bajo piedras, uno de los orígenes de la moderna piedra sepulcral."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "4. Enterrarlo bajo piedras, uno de los orígenes de la lápida sepulcral moderna."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "87:6.8",
       "pageReference": "964.7",
       "sortId": "3.087.006.008",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "5. La cremación, una invención más reciente para prevenir las maquinaciones de los fantasmas."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "5. La cremación, una medida preventiva posterior contra los desmanes de los fantasmas."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "87:6.9",
       "pageReference": "964.8",
       "sortId": "3.087.006.009",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "6. Arrojar el cadáver al mar."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "6. Arrojar el cuerpo al mar."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "87:6.10",
       "pageReference": "964.9",
       "sortId": "3.087.006.010",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "7. Dejar el cadáver expuesto para que lo comiesen las bestias salvajes."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "7. Dejar el cuerpo a merced de los animales salvajes."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "87:6.11",
       "pageReference": "964.10",
       "sortId": "3.087.006.011",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Se suponía que a los fantasmas les molestaba y asustaba el ruido; los gritos, las campanas y los tambores los alejaban de los vivos; y estos métodos antiguos aún existen en los «velorios» para los muertos. Se utilizaban mescolanzas malolientes para ahuyentar a los espíritus indeseados. Se construían horribles imágenes de los espíritus para que éstos huyeran despavoridos cuando se vieran a sí mismos. Se creía que los perros podían detectar a los fantasmas, y los denunciaban con su ladrido; que los gallos cantaban cuando había fantasmas cerca. El uso del gallo en las veletas es una perpetuación de esta superstición."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Se suponía que a los fantasmas les molestaba y asustaba el ruido, que los gritos, las campanas y los tambores los alejaban de los vivos, y esos antiguos métodos siguen de moda en los velatorios. Se utilizaban brebajes hediondos para expulsar a los espíritus molestos. Se fabricaban imágenes espantosas de los espíritus para ahuyentarlos cuando se vieran a sí mismos. Se creía que los perros podían detectar las aproximaciones de los fantasmas y aullaban para avisar, y que los gallos cantaban cuando estaban cerca. El uso del gallo como veleta ha perpetuado esa superstición."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "87:6.12",
       "pageReference": "964.11",
       "sortId": "3.087.006.012",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Se consideraba que el agua era la mejor protección contra los fantasmas. El agua bendita era superior a todas las demás, agua en la que los sacerdotes se habían lavado los pies. Se creía que tanto el fuego como el agua constituían barreras insuperables para los fantasmas. Los romanos rociaban tres veces alrededor del cadáver con agua; en el siglo veinte se esparce el cadáver con agua bendita, y aún entre los judíos existe el rito de lavarse las manos en el cementerio. El bautismo fue una característica del rito más reciente del agua. El baño primitivo era una ceremonia religiosa. Sólo en tiempos recientes se ha vuelto el baño una práctica de higiene."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Se consideraba que el agua era la mejor protección contra los fantasmas. El agua bendita, un agua en la que los sacerdotes se habían lavado los pies, era superior a todas las demás. Se creía que tanto el fuego como el agua constituían barreras infranqueables para los fantasmas. Los romanos daban tres vueltas alrededor del cadáver llevando agua; en el siglo veinte se rocía el cuerpo con agua bendita, y el lavado de manos en el cementerio sigue siendo un rito judío. El bautismo se desarrolló más tarde como parte del rito del agua. El baño primitivo era una ceremonia religiosa y solo recientemente se ha convertido en práctica higiénica."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "87:6.13",
       "pageReference": "964.12",
       "sortId": "3.087.006.013",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Pero el hombre no se contentó con la coerción a los fantasmas; mediante ritos religiosos y otras prácticas pronto intentó obligar a los espíritus a la acción. El exorcismo era el empleo de un espíritu para controlar o eliminar a otro, y estas tácticas también fueron utilizadas para asustar a los fantasmas y a los espíritus. El concepto del espiritismo dual de las fuerzas buenas y malas ofreció al hombre amplia oportunidad para intentar azuzar a una agencia contra la otra, porque, si un hombre poderoso podía dominar al más débil, con toda seguridad un espíritu fuerte podía dominar a un fantasma inferior. Las maldi ciones primitivas constituían una práctica coercitiva inventada para asustar a los espíritus menores. Más adelante esta costumbre se expandió llevando a pronunciar maldiciones contra los enemigos."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Pero el hombre no se contentó con la coerción a los fantasmas. Enseguida intentó provocar la acción de los espíritus mediante ritos religiosos y otras prácticas. El exorcismo consistía en utilizar a un espíritu para controlar o expulsar a otro, y se empleó la misma táctica para asustar a los fantasmas y a los espíritus. El concepto de espiritualismo dual con fuerzas buenas y malas proporcionaba al hombre sobradas oportunidades de intentar enfrentar a un agente contra el otro, pues si un hombre poderoso podía derrotar a uno más débil, un espíritu fuerte podría dominar sin duda a un fantasma inferior. Las maldiciones primitivas eran una práctica coercitiva destinada a intimidar a los espíritus menores. Esta costumbre se hizo extensiva posteriormente a las maldiciones contra los enemigos."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "87:6.14",
       "pageReference": "965.1",
       "sortId": "3.087.006.014",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Durante mucho tiempo se creyó que si se volvía a aplicar las costumbres antiguas, los espíritus y los semidioses se verían forzados a actuar según los deseos del hombre. El hombre moderno es culpable del mismo procedimiento. Os habláis entre vosotros en el lenguaje común de todos los días, pero cuando oráis, adoptáis el estilo más anticuado de otra generación, el así llamado estilo solemne."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Se creyó durante mucho tiempo que para obligar a los espíritus y semidioses a actuar de forma deseable era conveniente retroceder a los usos y costumbres más antiguos. El hombre moderno ha caído en el mismo error. Os dirigís unos a otros en vuestro lenguaje normal y corriente, pero cuando os ponéis a rezar recurrís al estilo más antiguo de las generaciones anteriores, el llamado estilo solemne."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "87:6.15",
       "pageReference": "965.2",
       "sortId": "3.087.006.015",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Esta doctrina también explica muchas retrogradaciones religioso-rituales de naturaleza sexual, como por ejemplo la prostitución en el templo. Estas reversiones a costumbres primitivas se consideraban salvaguardias seguras contra muchas calamidades. Y en estos pueblos de mente sencilla estas manifestaciones estaban totalmente libres de lo que el hombre moderno considera promiscuidad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Esta doctrina explica también muchas reversiones religioso-rituales de naturaleza sexual, como la prostitución en los templos. Esas reversiones a costumbres primitivas se consideraban protecciones seguras contra muchas calamidades. Para aquellos pueblos de mente sencilla todas esas actuaciones estaban totalmente libres de lo que el hombre moderno llamaría promiscuidad."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "87:6.16",
       "pageReference": "965.3",
       "sortId": "3.087.006.016",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "Luego sobrevino la práctica de los votos rituales, seguida muy poco después por las promesas religiosas y los juramentos sagrados. Muchos de estos juramentos iban acompañados de autotortura y automutilación; más adelante, de ayuno y oración. Posteriormente se consideró que la autonegación era un método coercitivo seguro; esto era especialmente cierto en cuanto a la represión del impulso sexual. Así pues el hombre primitivo desarrolló pronto una austeridad firme en sus prácticas religiosas, la creencia en la eficacia de la autotortura y de la autonegación como ritos capaces de coercer a los espíritus reacios a que reaccionen favorablemente frente a tal sufrimiento y privación."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Luego apareció la práctica de los votos rituales, seguidos de cerca por las promesas religiosas y los juramentos sagrados. La mayoría de esos juramentos iban acompañados de autotorturas y automutilaciones; más tarde, de ayunos y oraciones. Se consideró posteriormente que sacrificarse era un método coercitivo seguro; esto era especialmente cierto en materia de represión sexual. Y así, el hombre primitivo desarrolló pronto una clara austeridad en sus prácticas religiosas y se convenció de que autotorturarse y sacrificarse eran ritos eficaces para forzar a los espíritus mal dispuestos a reaccionar favorablemente ante tantos sufrimientos y privaciones."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "87:6.17",
       "pageReference": "965.4",
       "sortId": "3.087.006.017",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Coerción y el Exorcismo",
-      "markdown": "El hombre moderno ya no intenta abiertamente la coerción de los espíritus, aunque sigue manifestando una tendencia a negociar con la Deidad. Sigue jurando, toca madera, cruza los dedos y responde al estornudo con una frase convencional; antiguamente se trataba de una fórmula mágica."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "Las coerciones y los exorcismos",
+      "markdown": "Los hombres modernos ya no intentan coaccionar abiertamente a los espíritus, aunque siguen mostrando una predisposición a negociar con la Deidad. Siguen jurando, tocando madera, cruzando los dedos y pronunciando alguna frase hecha después de expectorar; en otro tiempo era una fórmula mágica."
     },
     {
       "type": "section",
@@ -1243,8 +1243,8 @@
       "standardReferenceId": "87:7.0",
       "pageReference": null,
       "sortId": "3.087.007.000",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
       "markdown": null
     },
     {
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "87:7.1",
       "pageReference": "965.5",
       "sortId": "3.087.007.001",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "La organización social de tipo cultista persistió porque proveía un simbolismo para la preservación y estimulación de los sentimientos morales y de las lealtades religiosas. El culto nació de las tradiciones «de las antiguas familias» y fue perpetuado como institución establecida; todas las familias tienen un culto de alguna clase. Todo ideal inspirador busca un simbolismo perpetuador —intenta encontrar una técnica de manifestación cultural que asegure su sobrevivencia y aumente su realización— y el culto alcanza este objetivo fomentando y gratificando la emoción."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "La organización social de tipo cultual perduró porque proporcionaba un simbolismo que preservaba y estimulaba los sentimientos morales y las lealtades religiosas. El culto nació de las tradiciones de las «viejas familias» y se perpetuó como institución establecida. Todas las familias tienen algún tipo de culto. Todo ideal inspirador necesita encontrar algún simbolismo que lo perpetúe —busca alguna manifestación cultural que asegure su supervivencia e impulse su desarrollo— y el culto logra este objetivo porque fomenta y satisface las emociones."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "87:7.2",
       "pageReference": "965.6",
       "sortId": "3.087.007.002",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "Desde los albores de la civilización todo movimiento atrayente en la cultura social o en el avance religioso ha desarrollado un rito, un ceremonial simbólico. Cuanto más inconsciente ha crecido este rito, más intensamente ha atraído a sus devotos. El culto preservaba el sentimiento y satisfacía la emoción, pero ha sido siempre el mayor obstáculo a la reconstrucción social y al progreso espiritual."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "Desde los albores de la civilización todos los movimientos atractivos de cultura social o de progreso religioso han elaborado un ritual, un ceremonial simbólico. Cuanto más inconsciente ha sido el desarrollo de ese ritual, con más fuerza ha cautivado a sus adeptos. El culto preservaba los sentimientos y satisfacía las emociones, pero ha sido siempre el mayor obstáculo para la reconstrucción social y el progreso espiritual."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "87:7.3",
       "pageReference": "965.7",
       "sortId": "3.087.007.003",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "A pesar de que el culto ha retardado constantemente el progreso social, es lamentable que tanto los creyentes modernos en las normas morales y los ideales espirituales no posean un simbolismo adecuado —un culto de apoyo mutuo— nada al que puedan *pertenecer.* Pero no se puede fabricar un culto religioso. Debe crecer. Y los cultos de dos grupos no podrán ser idénticos a menos que sus ritos se normalicen arbitrariamente por la acción de la autoridad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "A pesar de que el culto ha retrasado siempre el progreso social, es lamentable que haya hoy en día tantos creyentes en normas morales e ideales espirituales desprovistos de un simbolismo adecuado, de un culto de apoyo mutuo, de algo a lo que *pertenecer*. Pero un culto religioso no se puede fabricar sino que debe desarrollarse. Y los cultos de los diversos grupos nunca serán idénticos a no ser que una autoridad uniformice arbitrariamente sus ritos."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "87:7.4",
       "pageReference": "965.8",
       "sortId": "3.087.007.004",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "El culto cristiano primitivo fue el más eficaz, atrayente y duradero de todos los ritos que se hayan concebido o inventado jamás, pero mucho de su valor ha sido destruido en una era científica que derrocó tantos de sus principios originales subyacentes. El culto cristiano ha sido debilitado por la pérdida de muchas ideas fundamentales."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "El culto cristiano primitivo fue el más atractivo, eficaz y duradero de todos los rituales que se hayan concebido o inventado jamás, pero en la presente edad científica ha perdido gran parte de su valor por culpa de la destrucción de muchos de sus principios originales subyacentes. El culto cristiano se ha visto debilitado por la pérdida de muchas ideas fundamentales."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "87:7.5",
       "pageReference": "965.9",
       "sortId": "3.087.007.005",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "En el pasado, la verdad crecía rápidamente y se difundía libremente cuando el culto era elástico, el simbolismo, expansible. Una abundancia de verdad y un culto adaptable han favorecido la rapidez del progreso social. Un culto sin significado vicia la religión cuando intenta suplantar a la filosofía y avasallar a la razón; un culto genuino crece."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "En el pasado la verdad ha crecido rápidamente y se ha extendido con facilidad cuando el culto ha sido flexible y el simbolismo expansible. Una verdad abundante y un culto adaptable han favorecido la rapidez del progreso social. Un culto sin sentido vicia la religión cuando intenta suplantar a la filosofía y esclavizar a la razón. Un culto auténtico crece."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "87:7.6",
       "pageReference": "966.1",
       "sortId": "3.087.007.006",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "A pesar de los inconvenientes y desventajas, toda nueva revelación de la verdad ha originado un nuevo culto, y aun el nuevo pronunciamiento de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para sus nuevas ideas, ideales y lealtades en expansión. Este símbolo enaltecido debe surgir de la vida religiosa, de la experiencia espiritual. Y este simbolismo más elevado de una civilización más elevada debe ser predicado sobre el concepto de la Paternidad de Dios y estar lleno del poderoso ideal de la hermandad de los hombres."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "A pesar de todos los obstáculos e inconvenientes, cada nueva revelación de la verdad ha dado origen a un nuevo culto, e incluso la reformulación de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado. El hombre moderno debe encontrar un simbolismo adecuado para la expansión de sus nuevos ideales, ideas y lealtades. Este símbolo realzado debe surgir de la vida religiosa, de la experiencia espiritual. Y este simbolismo más alto de una civilización más alta se debe basar en el concepto de la Paternidad de Dios y estar preñado del poderoso ideal de la hermandad de los hombres."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "87:7.7",
       "pageReference": "966.2",
       "sortId": "3.087.007.007",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "Los viejos cultos eran demasiado egocéntricos; el nuevo culto debe ser el fruto del amor aplicado. El nuevo culto debe, como los antiguos, fomentar el sentimiento, satisfacer la emoción y promover la lealtad; pero debe hacer más: debe facilitar el progreso espiritual, enaltecer los significados cósmicos, aumentar los valores morales, alentar el desarrollo social y estimular un tipo elevado de vida religiosa personal. El nuevo culto debe proveer objetivos supremos de vida, tanto temporales como eternos —sociales y espirituales."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "Los antiguos cultos eran demasiado egocéntricos; el nuevo debe ser el producto del amor aplicado. El nuevo culto debe, como los antiguos, fomentar los sentimientos, satisfacer las emociones y promover la lealtad, pero debe hacer más: debe facilitar el progreso espiritual, realzar los significados cósmicos, aumentar los valores morales, alentar el desarrollo social y estimular una vida religiosa personal de tipo elevado. El nuevo culto debe brindar metas supremas de vida que sean a la vez temporales y eternas, sociales y espirituales."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "87:7.8",
       "pageReference": "966.3",
       "sortId": "3.087.007.008",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "Ningún culto puede durar ni contribuir al progreso de la civilización social y al logro espiritual individual si no se basa en la importancia biológica, sociológica y religiosa del *hogar.* Un culto sobreviviente debe simbolizar aquello que es permanente en la presencia de cambio incesante; debe glorificar aquello que unifica las corrientes de una metamorfosis social en constante cambio. Debe reconocer los significados verdaderos, exaltar las relaciones hermosas y glorificar los valores buenos de la nobleza auténtica."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "Ningún culto puede perdurar y contribuir al progreso de la civilización social y al logro espiritual individual a menos que esté basado en la relevancia biológica, sociológica y religiosa del *hogar*. Para que un culto sobreviva debe simbolizar aquello que es permanente en presencia del cambio constante; debe glorificar aquello que unifica la corriente de las metamorfosis sociales que cambian sin cesar. Debe reconocer los significados verdaderos, exaltar las relaciones hermosas y glorificar los valores buenos de la nobleza real."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "87:7.9",
       "pageReference": "966.4",
       "sortId": "3.087.007.009",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "Pero la gran dificultad de encontrar un simbolismo nuevo y satisfactorio estriba en que el hombre moderno, como grupo, se adhiere a la actitud científica, evita la superstición y aborrece la ignorancia, mientras que como individuos todos ellos ansían el misterio y veneran lo desconocido. Ningún culto puede sobrevivir a menos que comprenda un misterio poderoso y oculte un bien inalcanzable. Nuevamente, el simbolismo nuevo no debe ser significativo solamente para el grupo sino que también debe tener sentido para el individuo. Las formas de un simbolismo útil deben ser aquellas que el individuo pueda realizar por su propia iniciativa, y que pueda a la vez disfrutar en compañía de sus semejantes. Si el nuevo culto pudiera ser dinámico en vez de estático, verdaderamente contribuiría algo valioso al progreso tanto temporal como espiritual de la humanidad."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "Pero la gran dificultad a la hora de encontrar un simbolismo nuevo y satisfactorio reside en que los hombres modernos se adhieren como colectivo a la actitud científica, evitan la superstición y aborrecen la ignorancia, mientras que individualmente todos tienen ansia de misterio y veneran lo desconocido. Ningún culto puede sobrevivir a menos que contenga algún misterio poderoso y encubra alguna meta valiosa e inaccesible. Por otra parte, el nuevo simbolismo no solo debe ser significativo para el grupo sino que debe tener también sentido para el individuo. Las formas de todo simbolismo útil serán aquellas que el individuo pueda poner en práctica por su propia iniciativa y que pueda también compartir con sus semejantes. Si el nuevo culto pudiera ser dinámico en lugar de estático, podría aportar una contribución realmente valiosa al progreso tanto temporal como espiritual de la humanidad."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "87:7.10",
       "pageReference": "966.5",
       "sortId": "3.087.007.010",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
-      "markdown": "Pero un culto —un simbolismo de ritos, lemas u objetivos— no funciona si es demasiado complejo. Es necesario además que exista una demanda de devoción, una respuesta de lealtad. Toda religión eficaz desarrolla infaliblemente un simbolismo valioso, y sus devotos harían bien en prevenir la cristalización de tales ritos en ceremoniales estereotipados entorpecedores, paralizantes y sofocantes que tan sólo dificultan y retardan todo progreso social, moral y espiritual. No hay culto que pueda sobrevivir si retarda el crecimiento moral y deja de fomentar el progreso espiritual. El culto es la estructura esquelética sobre la cual crece el cuerpo vivo y dinámico de la experiencia personal y espiritual —la verdadera religión."
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
+      "markdown": "Pero un culto —un simbolismo de ritos, lemas u objetivos— no funcionará si es demasiado complejo. Además tiene que llevar consigo la exigencia de la devoción, la respuesta de la lealtad. Toda religión efectiva desarrolla infaliblemente un simbolismo valioso, y sus fieles harían bien en impedir la cristalización de ese ritual en ceremoniales estereotipados, restrictivos, deformantes y sofocantes que solo pueden perjudicar y retrasar cualquier progreso social, moral y espiritual. Ningún culto puede sobrevivir si retrasa el crecimiento moral y no logra fomentar el progreso espiritual. El culto es la estructura esquelética alrededor de la cual se desarrolla el cuerpo vivo y dinámico de la experiencia espiritual personal: la verdadera religión."
     },
     {
       "type": "paragraph",
@@ -1441,8 +1441,8 @@
       "standardReferenceId": "87:7.11",
       "pageReference": "966.6",
       "sortId": "3.087.007.011",
-      "paperTitle": "Los Cultos a los Fantasmas",
-      "sectionTitle": "La Naturaleza del Sistema de los Cultos",
+      "paperTitle": "Los cultos a los fantasmas",
+      "sectionTitle": "La naturaleza de la práctica cultual",
       "markdown": "[Presentado por una Brillante Estrella Vespertina de Nebadon.]"
     }
   ]

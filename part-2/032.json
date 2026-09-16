@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/032.md",
-  "source_sha256": "5246bbdc626ab2040118737e8024daa37c188ff67f7c0e563c8dd14f2e725c51",
+  "source_sha256": "0441d76c18f874ac86216ebf1b42e2f2e85a7a05561cb6c6d3fd136b5a92ad27",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "32:0.0",
       "pageReference": null,
       "sortId": "2.032.000.000",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "32:0.0",
       "pageReference": null,
       "sortId": "2.032.000.000",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "32:0.1",
       "pageReference": "357.1",
       "sortId": "2.032.000.001",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
-      "markdown": "UN UNIVERSO local es la obra individual de un Hijo Creador de la orden paradisiaca de los Micaeles. Reúne cien constelaciones, cada una de ellas compuesta por cien sistemas de mundos habitados. Con el tiempo, cada sistema contendrá aproximadamente mil esferas habitadas."
+      "markdown": "UN UNIVERSO local es la obra personal de un Hijo Creador del orden de los Migueles del Paraíso. Consta de cien constelaciones, cada una de las cuales abarca cien sistemas de mundos habitados. Al final cada sistema contendrá alrededor de mil esferas habitadas."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "32:0.2",
       "pageReference": "357.2",
       "sortId": "2.032.000.002",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
-      "markdown": "Estos universos del tiempo y del espacio son todos evolucionarios. El plan creador de los Micaeles del Paraíso siempre sigue su curso a través de un desenvolvimiento gradual y desarrollo progresivo de las esencias y capacidades físicas, intelectuales y espirituales de las múltiples criaturas que habitan las variadas órdenes de las esferas, comprendidas en ese universo local."
+      "markdown": "Estos universos del tiempo y el espacio son todos evolutivos. El plan creativo de los Migueles del Paraíso sigue siempre el curso de la evolución gradual y el desarrollo progresivo de las naturalezas y capacidades, físicas, intelectuales y espirituales de las múltiples criaturas que habitan los diversos órdenes de esferas que componen ese universo local."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "32:0.3",
       "pageReference": "357.3",
       "sortId": "2.032.000.003",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
-      "markdown": "Urantia pertenece a un universo local cuyo soberano es el Dios-hombre de Nebadon, Jesús de Nazaret y Micael de Salvington. Y todos los planes de Micael para este universo local, los aprobó plenamente la Trinidad del Paraíso antes de que se embarcara en la suprema aventura del espacio."
+      "markdown": "Urantia pertenece a un universo local cuyo soberano es el hombre-Dios de Nebadon, Jesús de Nazaret y Miguel de Salvington. Y antes de que Miguel emprendiera la suprema aventura del espacio, todos sus planes para este universo local fueron aprobados plenamente por la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "32:0.4",
       "pageReference": "357.4",
       "sortId": "2.032.000.004",
-      "paperTitle": "La Evolución de los Universos Locales",
+      "paperTitle": "La evolución de los universos locales",
       "sectionTitle": null,
-      "markdown": "Los Hijos de Dios pueden elegir los reinos de sus actividades creadoras, pero los Arquitectos Paradisiacos del Universo Maestro originalmente proyectan y planifican estas creaciones materiales."
+      "markdown": "Los Hijos de Dios pueden elegir los dominios de sus actividades creadoras, pero estas creaciones materiales fueron proyectadas y planificadas originariamente por los Arquitectos Paradisiacos del Universo Maestro."
     },
     {
       "type": "section",
@@ -127,8 +127,8 @@
       "standardReferenceId": "32:1.0",
       "pageReference": null,
       "sortId": "2.032.001.000",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
       "markdown": null
     },
     {
@@ -145,9 +145,9 @@
       "standardReferenceId": "32:1.1",
       "pageReference": "357.5",
       "sortId": "2.032.001.001",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
-      "markdown": "Las manipulaciones preuniversales de fuerza espacial y las energías primordiales son obra de los Organizadores de la Fuerza Decanos Paradisiacos; pero en los dominios del superuniverso, cuando la energía emergente reacciona ante la gravedad local o lineal, se retiran a favor de los directores del poder del superuniverso correspondiente."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
+      "markdown": "Las manipulaciones preuniversales de la fuerza-espacio y de las energías primordiales son obra de los Organizadores Maestros Paradisiacos de la Fuerza; pero en los dominios de los superuniversos, cuando la energía emergente se hace sensible a la gravedad local o lineal, se retiran en favor de los directores del poder del superuniverso correspondiente."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "32:1.2",
       "pageReference": "357.6",
       "sortId": "2.032.001.002",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
-      "markdown": "En la creación de un universo local estos directores del poder funcionan solos en la fase prematerial y en las fases posteriores a la fuerza. Para un Hijo Creador no existe ninguna oportunidad de comenzar la organización del universo hasta que los directores del poder hayan efectuado la movilización de las energías espaciales suficientemente como para proveer un cimiento material —soles verdaderos y esferas materiales— para el universo emergente."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
+      "markdown": "Estos directores del poder actúan solos en las fases anteriores a la materia y posteriores a la fuerza de la creación de un universo local. Un Hijo Creador no tiene posibilidad de dar comienzo a la organización del universo hasta que los directores del poder no hayan movilizado las energías-espacio lo suficiente como para proporcionar un fundamento material —soles propiamente dichos y esferas materiales— al universo emergente."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "32:1.3",
       "pageReference": "357.7",
       "sortId": "2.032.001.003",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
-      "markdown": "Todos los universos locales son aproximadamente del mismo potencial energético, aunque se diferencien muchísimo en sus dimensiones físicas y puedan variar, de vez en cuando, en el contenido de la materia visible. La carga de poder y la dote de mate-ria potencial de un universo local están determinadas por las manipulaciones de los directores del poder y sus predecesores, así como por las actividades del Hijo Creador y por el don del control inherente físico poseído por su asociada creativa."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
+      "markdown": "Todos los universos locales tienen aproximadamente el mismo potencial de energía, aunque difieren mucho en sus dimensiones físicas y algunas veces pueden variar en el contenido de materia visible. La carga de poder y la dotación de materia potencial de un universo local están determinadas por las manipulaciones de los directores del poder y sus predecesores, así como por las actividades del Hijo Creador y por la dotación de control físico inherente que posee su compañera creativa."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "32:1.4",
       "pageReference": "358.1",
       "sortId": "2.032.001.004",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
-      "markdown": "La carga de energía de un universo local es aproximadamente de un cienmilésimo de la carga de fuerza de su superuniverso. En el caso de Nebadon, vuestro universo local, la materialización de la masa es un poco menor. Hablando del aspecto físico, Nebadon posee la entera dote física de energía y materia, que se puede hallar en cualquiera de las creaciones locales de Orvonton. La única limitación física de la expansión del desarrollo del universo de Nebadon, consiste en la carga cuantitativa de energía espacial, sujeta por el control gravitacionario que ejercen los poderes y personalidades asociados del mecanismo universal combinado."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
+      "markdown": "La carga de energía de un universo local es de aproximadamente un cienmilésimo de la dotación de fuerza de su superuniverso. En el caso de Nebadon, vuestro universo local, la materialización de masa es algo menor. En términos físicos, Nebadon posee la misma dotación física de energía y materia que cualquiera de las creaciones locales de Orvonton. La única limitación física a la expansión del desarrollo del universo de Nebadon consiste en la carga cuantitativa de energía-espacio que se mantiene cautiva del control de la gravedad ejercido por la asociación de poderes y personalidades del mecanismo conjunto del universo."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "32:1.5",
       "pageReference": "358.2",
       "sortId": "2.032.001.005",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Aparición Física de los Universos",
-      "markdown": "Cuando la energía-materia ha alcanzado cierta etapa en la materialización de la masa, aparece en escena un Hijo Creador Paradisiaco, acompañado por una Hija Creativa del Espíritu Infinito. Simultáneamente con la llegada del Hijo Creador comienzan las obras para construir la esfera arquitectónica destinada a ser el mundo sede central del proyectado universo local. Durante prolongadas eras esa creación local evoluciona, los soles se estabilizan, los planetas se forman y entran en sus órbitas, mientras continúa la tarea de creación de los mundos arquitectónicos destinados a ser sedes centrales de constelaciones y capitales de sistemas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La emergencia física de los universos",
+      "markdown": "Cuando la materia-energía ha alcanzado cierto grado de materialización de masa, entra en escena un Hijo Creador del Paraíso acompañado por una Hija Creativa del Espíritu Infinito. Al tiempo que llega el Hijo Creador se inician las obras en la esfera arquitectónica que habrá de convertirse en el mundo sede del universo local proyectado. Durante largas edades esta creación local evoluciona, los soles se estabilizan, los planetas se forman y entran en sus órbitas, mientras se siguen creando los mundos arquitectónicos que servirán como sedes de las constelaciones y capitales de los sistemas."
     },
     {
       "type": "section",
@@ -235,8 +235,8 @@
       "standardReferenceId": "32:2.0",
       "pageReference": null,
       "sortId": "2.032.002.000",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
       "markdown": null
     },
     {
@@ -253,9 +253,9 @@
       "standardReferenceId": "32:2.1",
       "pageReference": "358.3",
       "sortId": "2.032.002.001",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Los Hijos Creadores van precedidos en la organización del universo por los directores del poder y otros seres originados en la Tercera Fuente y Centro. A partir de las energías del espacio, previamente organizadas de esa manera, Micael, vuestro Hijo Creador, estableció los reinos habitados del universo de Nebadon y desde entonces siempre ha estado dedicado concienzudamente al gobierno de los mismos. A partir de la energía preexistente, estos Hijos divinos materializan la materia visible, proyectan las criaturas vivientes y con la cooperación de la presencia universal del Espíritu Infinito, crean un variado séquito de personalidades espirituales."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "A los Hijos Creadores los preceden en la organización de su universo los directores del poder y otros seres con origen en la Tercera Fuente y Centro. A partir de las energías del espacio organizadas previamente de esta manera, Miguel, vuestro Hijo Creador, estableció los mundos habitados del universo de Nebadon, y desde entonces se ha dedicado con esmero a su administración. A partir de la energía preexistente, estos hijos divinos materializan la materia visible, proyectan las criaturas vivas y, con la cooperación de la presencia en el universo del Espíritu Infinito, crean una variada comitiva de personalidades de espíritu."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "32:2.2",
       "pageReference": "358.4",
       "sortId": "2.032.002.002",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Estos directores del poder y controladores de la energía, que en la tarea física preliminar de la organización del universo precedieron con mucha antelación al Hijo Creador, posteriormente sirven en magnífico enlace con este Hijo del Universo, compartiendo para siempre el control de aquellas energías que organizaron e incorporaron en los circuitos. En Salvington todavía están funcionando los mismos cien centros del poder que cooperaron con vuestro Hijo Creador en la formación original de este universo local."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Estos directores del poder y controladores de la energía que precedieron por mucho al Hijo Creador en el trabajo físico preliminar de organización del universo sirven después en magnífica unión con este Hijo del Universo y conservan para siempre el control colaborativo de las energías que organizaron y encircuitaron originariamente. En Salvington están hoy activos los mismos cien centros del poder que cooperaron con vuestro Hijo Creador en la formación original de este universo local."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "32:2.3",
       "pageReference": "358.5",
       "sortId": "2.032.002.003",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "La primera acción completa de creación física en Nebadon consistió en la organización del mundo sede central, la esfera arquitectónica de Salvington, con sus satélites. Desde el momento de las acciones iniciales de los centros del poder y los controladores físicos hasta la llegada del personal vivo a las esferas completadas de Salvington, mediaron un poco más de mil millones de años de vuestro tiempo actual planetario. Después de la construcción de Salvington, inmediatamente siguió la creación de cien mundos sede central de las proyectadas constelaciones y de diez mil esferas sede central de los proyectados sistemas locales de control y administración planetaria, conjuntamente con sus satélites arquitectónicos. Tales mundos arquitectónicos son diseñados para dar cabida tanto a las personalidades físicas y espirituales como también a la morontia mediadora, o estados de transición de la existencia."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "El primer acto de creación física que se completó en Nebadon consistió en la organización del mundo sede, la esfera arquitectónica de Salvington, con sus satélites. Desde los primeros pasos de los centros del poder y de los controladores físicos hasta la llegada del personal vivo a las esferas terminadas de Salvington, transcurrieron algo más de mil millones de años de vuestro tiempo planetario presente. Justo después de la construcción de Salvington se produjo la creación de los cien mundos sede de las constelaciones proyectadas y de las diez mil esferas sede de los sistemas locales proyectados de control y administración planetarios, junto con sus satélites arquitectónicos. Estos mundos arquitectónicos están diseñados para albergar a personalidades tanto físicas como espirituales, así como las etapas intermedias de morontia o de transición del ser."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "32:2.4",
       "pageReference": "359.1",
       "sortId": "2.032.002.004",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Salvington, la sede central de Nebadon, está situada en el centro exacto de la masa-energía del universo local. Pero vuestro universo local no es un único sistema astronómico, pues existe un sistema de gran tamaño en su centro físico."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Salvington, la sede de Nebadon, está situado en el centro exacto de masa-energía del universo local. Pero vuestro universo local no es un solo sistema astronómico, aunque existe un sistema de gran tamaño en su centro físico."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "32:2.5",
       "pageReference": "359.2",
       "sortId": "2.032.002.005",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Salvington es la sede personal de Micael de Nebadon, pero no siempre se le encuentra allí. Aunque ahora el funcionamiento armonioso de vuestro universo local no requiera la presencia permanente del Hijo Creador en la esfera capital, esto no fue así en las primeras épocas de la organización física. Un Hijo Creador no puede salir de su mundo sede central hasta el momento en que se haya estabilizado la gravedad del reino mediante una materialización de energía suficiente como para permitir que los distintos circuitos y sistemas se equilibren entre sí a través de la atracción material mutua."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Salvington es la sede personal de Miguel de Nebadon, pero no siempre se encuentra ahí. Aunque la buena marcha de vuestro universo local ya no requiere la presencia permanente del Hijo Creador en la esfera capital, esto no fue así en las primeras épocas de la organización física. Un Hijo Creador no puede salir de su mundo sede hasta el momento en que se haya estabilizado la gravedad del universo mediante una materialización de energía suficiente como para permitir que los diversos circuitos y sistemas se equilibren entre sí por atracción material mutua."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "32:2.6",
       "pageReference": "359.3",
       "sortId": "2.032.002.006",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Finalmente, se completa el plan físico de un universo, y el Hijo Creador, junto con el Espíritu Creativo, proyecta su plan de creación de la vida; después de lo cual esta representación del Espíritu Infinito comienza su función universal como personalidad creadora distinta. Cuando se concibe y ejecuta esta primera acción creadora, surge a la existencia la Brillante Estrella Matutina, la personificación de este concepto creativo inicial de identidad e ideal de divinidad. Se trata del jefe ejecutivo del universo, el asociado personal del Hijo Creador, al que se le asemeja en todos los aspectos del carácter, aunque esté notablemente limitado en los atributos de divinidad."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Al poco tiempo queda terminado el plan físico de un universo, y el Hijo Creador, en colaboración con el Espíritu Creativo, establece su plan de creación de vida, con lo cual esta representación del Espíritu Infinito empieza su función en el universo como personalidad creadora bien diferenciada. Cuando se formula y ejecuta este primer acto creativo, surge a la existencia la Radiante Estrella Matutina, la personificación de este concepto creativo inicial de identidad e ideal de divinidad. Es el jefe ejecutivo del universo, el adjunto personal del Hijo Creador, alguien como él en todos los aspectos del carácter, aunque ostensiblemente limitado en sus atributos de divinidad."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "32:2.7",
       "pageReference": "359.4",
       "sortId": "2.032.002.007",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Y con la aparición de la mano derecha y jefe ejecutivo del Hijo Creador comienza la llegada a la existencia de un vasto y maravilloso conjunto de criaturas diversas. Llegan los hijos e hijas del universo local, y poco después se provee gobierno para esa creación, desde los concilios supremos del universo hasta los padres de las constelaciones y los soberanos de los sistemas locales; la suma de esos mundos que están destinados a convertirse posteriormente en el ambiente natural de las variadas razas mortales de las criaturas volitivas; y cada uno de esos mundos será presidido por un Príncipe Planetario."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Y una vez provisto el Hijo Creador de su mano derecha y jefe ejecutivo, una inmensa y maravillosa serie de criaturas diversas es traída a la existencia. Aparecen seguidamente los hijos e hijas del universo local, y poco después se establece el gobierno de dicha creación, que se extiende desde los consejos supremos del universo hasta los padres de las constelaciones y los soberanos de los sistemas locales. Estos son los conglomerados de mundos diseñados para convertirse posteriormente en las moradas de las diversas razas mortales de criaturas con voluntad; y cada uno de ellos estará presidido por un Príncipe Planetario."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "32:2.8",
       "pageReference": "359.5",
       "sortId": "2.032.002.008",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Y luego, cuando tal universo ha sido tan completamente organizado y plenamente tripulado, el Hijo Creador entra en la propuesta del Padre para crear al hombre mortal a su imagen divina."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Y entonces, con un universo totalmente organizado y equipado de personal, el Hijo Creador lleva a cabo la propuesta del Padre de crear al hombre mortal a su imagen divina."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "32:2.9",
       "pageReference": "359.6",
       "sortId": "2.032.002.009",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "En Nebadon la organización de las residencias planetarias sigue su curso. Este universo es en realidad un grupo joven entre los reinos estelares y planetarios de Orvonton. Según el último registro había 3.840.101 planetas habitados en Nebadon; y Satania, que es el sistema local de vuestro mundo, es relativamente típico respecto a otros sistemas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "En Nebadon la organización de moradas planetarias sigue aún en curso, pues este universo es ciertamente un cúmulo joven entre los dominios estelares y planetarios de Orvonton. En el momento del último registro había 3 840 101 planetas habitados en Nebadon, y Satania, el sistema local de vuestro mundo, se asemeja bastante a los demás sistemas."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "32:2.10",
       "pageReference": "359.7",
       "sortId": "2.032.002.010",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Satania no es un sistema físico uniforme, una unidad u organización astronómica única. Sus 619 mundos habitados están ubicados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de ellos solamente uno tiene cuatro planetas habitados, mientras que hay cuarenta y seis con dos mundos habitados."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "Satania no es un sistema físico uniforme, una sola unidad u organización astronómica. Sus 619 mundos habitados están localizados en más de quinientos sistemas físicos diferentes. Solo cinco tienen más de dos mundos habitados y solo uno de estos tiene cuatro planetas poblados, mientras que hay cuarenta y seis que tienen dos mundos habitados."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "32:2.11",
       "pageReference": "359.8",
       "sortId": "2.032.002.011",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "El sistema Satania de mundos habitados está considerablemente alejado de Uversa y de ese gran grupo de soles que funciona como centro físico o astronómico del séptimo superuniverso. Desde Jerusem, la sede central de Satania, hay más de doscientos mil años luz hasta el centro físico del superuniverso de Orvonton, lejos, muy lejos en el denso diámetro de la Vía Láctea. Satania está en la periferia del universo local, y Nebadon está ahora bien afuera, hacia los límites de Orvonton. Desde el sistema más alejado de mundos habitados hasta el centro del superuniverso hay un poco menos de doscientos cincuenta mil años luz."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "El sistema de mundos habitados de Satania está muy alejado de Uversa y del gran cúmulo de soles que funciona como centro físico o astronómico del séptimo superuniverso. Desde Jerusem, la sede de Satania, hay más de doscientos mil años luz hasta el centro físico del superuniverso de Orvonton, situado lejos, muy lejos, en el denso diámetro de la Vía Láctea. Satania está en la periferia del universo local, y Nebadon está ahora bien fuera, cerca del límite de Orvonton. Desde el sistema más alejado de mundos habitados hasta el centro del superuniverso hay algo menos de doscientos cincuenta mil años luz."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "32:2.12",
       "pageReference": "360.1",
       "sortId": "2.032.002.012",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "El universo de Nebadon ahora se desplaza considerablemente hacia el sur y al este en el circuito del superuniverso de Orvonton. Los universos más cercanos son: Avalón, Henselón, Sanselón, Portalón, Wolvering, Fanoving y Alvoring."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "El universo de Nebadon describe ahora un arco lejano hacia el sur y el este del circuito del superuniverso de Orvonton. Los universos vecinos más cercanos son: Avalon, Henselon, Sanselon, Portalon, Wolvering, Fanoving y Alvoring."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "32:2.13",
       "pageReference": "360.2",
       "sortId": "2.032.002.013",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "Organizar un Universo",
-      "markdown": "Pero la evolución de un universo local es una historia larga. Los documentos que tratan sobre el superuniverso presentan el tema. Lo continúan aquellos documentos de esta sección referidos a las creaciones locales. Completan las narraciones los que siguen, tocando el tema de la historia y el destino de Urantia. Pero vosotros podéis concebir adecuadamente el destino de los mortales de una creación local como ésta, únicamente con una cuidadosa lectura de las narraciones de la vida y enseñanzas de vuestro Hijo Creador cuando vivió la vida del hombre, en semejanza de la carne mortal, en vuestro propio mundo evolucionario."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La organización de un universo",
+      "markdown": "La evolución de un universo local es un largo relato. Los documentos que tratan sobre el superuniverso lo presentan; los de esta sección, dedicada a las creaciones locales, lo continúan, y completan la narración los que vienen después sobre la historia y el destino de Urantia. Pero solo podréis comprender adecuadamente el destino de los mortales de esta creación local mediante una detenida lectura de los relatos de la vida y enseñanzas de vuestro Hijo Creador, que vivió una vez la vida del hombre a semejanza de carne mortal en vuestro propio mundo evolutivo."
     },
     {
       "type": "section",
@@ -487,8 +487,8 @@
       "standardReferenceId": "32:3.0",
       "pageReference": null,
       "sortId": "2.032.003.000",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
       "markdown": null
     },
     {
@@ -505,9 +505,9 @@
       "standardReferenceId": "32:3.1",
       "pageReference": "360.3",
       "sortId": "2.032.003.001",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "La única creación que está perfectamente establecida es Havona, el universo central, que fue hecha directamente por el pensamiento del Padre Universal y la palabra del Hijo Eterno. Havona es un universo existencial, perfecto y pletórico que rodea el hogar de las Deidades eternas, el centro de todas las cosas. Las creaciones de los siete superuniversos son finitas, evolucionarias y uniformemente progresivas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "La única creación que está perfectamente asentada es Havona, el universo central, que fue hecho directamente por el pensamiento del Padre Universal y el verbo del Hijo Eterno. Havona es un universo existencial, perfecto y repleto que rodea el hogar de las Deidades eternas, el centro de todas las cosas. Las creaciones de los siete superuniversos son finitas, evolutivas y uniformemente progresivas."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "32:3.2",
       "pageReference": "360.4",
       "sortId": "2.032.003.002",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Los sistemas físicos del tiempo y del espacio son todos evolucionarios en origen. No están aún estabilizados físicamente hasta que sean impulsados hacia los circuitos establecidos de sus superuniversos. Tampoco se establece un universo local en luz y vida hasta que sus posibilidades físicas de expansión y desarrollo hayan sido agotadas, y hasta que el estado espiritual de todos sus mundos habitados haya sido establecido y estabilizado para siempre."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Los sistemas físicos del tiempo y el espacio son todos de origen evolutivo. Ni siquiera están estabilizados en el aspecto físico hasta que son incorporados a los circuitos asentados de sus superuniversos. Un universo local tampoco se asienta en luz y vida hasta que se han agotado sus posibilidades físicas de expansión y desarrollo, y hasta que el estatus espiritual de todos sus mundos habitados se ha asentado y estabilizado para siempre."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "32:3.3",
       "pageReference": "360.5",
       "sortId": "2.032.003.003",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Con excepción del universo central, la perfección es un logro progresivo. En la creación central tenemos un modelo original de perfección, pero todos los otros reinos deben alcanzar esa perfección con los métodos establecidos para el progreso de esos particulares mundos o universos. Y una variedad casi infinita caracteriza los planes de los Hijos Creadores en lo que respecta a la organización, la evolución, la disciplinación y el establecimiento de sus respectivos universos locales."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Excepto en el universo central, la perfección es un logro progresivo. En la creación central tenemos un patrón de perfección, pero todos los demás dominios deben alcanzar esa perfección mediante los métodos establecidos para el avance de esos mundos o universos concretos. Y los planes de los Hijos Creadores para organizar, hacer evolucionar, encauzar y asentar sus respectivos universos locales se caracterizan por su variedad casi infinita."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "32:3.4",
       "pageReference": "360.6",
       "sortId": "2.032.003.004",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "A la excepción de la presencia de la Deidad del Padre, cada universo local es, en cierto sentido, una copia de la organización administrativa de la creación central, o modelo original. Aunque el Padre Universal está personalmente presente en el universo residencial, no reside en la mente de los seres originados en ese universo del modo en que literalmente habita en el alma de los mortales del tiempo y del espacio. Pareciera haber allí una sabia compensación en todo sentido en el ajuste y regulación de los asuntos espirituales de la vasta creación. En el universo central el Padre está personalmente presente como tal, pero está ausente de la mente de los hijos de esa creación perfecta. En los universos del espacio el Padre está ausente en persona, estando representado por sus Hijos Soberanos, pero está íntimamente presente en la mente de sus hijos mortales, estando espiritualmente representado por la presencia prepersonal de los Monitores Misteriosos que residen en la mente de estas criaturas volitivas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Cada universo local es, en cierto sentido, una copia de la organización administrativa de la creación central o patrón excepto en lo que respecta a la presencia de deidad del Padre. Aunque el Padre Universal está presente personalmente en el universo residencial, no mora en el interior de la mente de los seres originados en ese universo como mora literalmente en el alma de los mortales del tiempo y el espacio. Parece haber una compensación sapientísima en el ajuste y la regulación de los asuntos espirituales de la extensa creación. En el universo central, el Padre está personalmente presente como tal, pero ausente de la mente de los hijos de esa creación perfecta. En los universos del espacio, el Padre está ausente en persona al estar representado por sus hijos soberanos, y está en cambio íntimamente presente en la mente de sus hijos mortales, donde está representado espiritualmente por la presencia prepersonal de los Monitores de Misterio que residen en la mente de estas criaturas con voluntad."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "32:3.5",
       "pageReference": "360.7",
       "sortId": "2.032.003.005",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "A excepción de la presencia personal del Padre Universal, en la sede de un universo local residen todas aquellas personalidades creadoras y creativas que representan la autoridad independiente y la autonomía administrativa. En el universo local se encuentra algo de cada uno y alguno de casi cada clase de los seres inteligentes que existen en el universo central, a excepción del Padre Universal. Aunque el Padre Universal no está personalmente presente en un universo local, está personalmente representado por su Hijo Creador, primero vicegerente de Dios, y posteriormente, gobernante supremo y soberano por derecho propio."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "En la sede de un universo local residen todas las personalidades creadoras y creativas que representan la autoridad independiente y la autonomía administrativa, excepto la presencia personal del Padre Universal. En el universo local se puede encontrar algún aspecto de cada una de las clases de seres inteligentes que existen en el universo central y a algún individuo de casi todas ellas, excepto al Padre Universal. Aunque el Padre Universal no está personalmente presente en un universo local, está representado personalmente por su Hijo Creador, delegado de Dios en su día y posteriormente regidor supremo y soberano por derecho propio."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "32:3.6",
       "pageReference": "361.1",
       "sortId": "2.032.003.006",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Cuanto más descendemos en la escala de la vida, más difícil se hace ubicar, con el ojo de la fe, al Padre invisible. Las criaturas más bajas —y a veces aun las personalidades más altas— encuentran siempre difícil visualizar al Padre Universal en sus Hijos Creadores. Así pues, hasta el momento de su exaltación espiritual, cuando la perfección del desarrollo les permita ver a Dios en persona, se cansan en el camino del progreso, contemplan dudas espirituales, tropiezan con la confusión, y en consecuencia se aíslan de las metas progresivas espirituales de su tiempo y universo. De esta manera pierden la capacidad de ver al Padre al contemplar al Hijo Creador. Durante la larga lucha para alcanzar al Padre, la más segura salvaguarda para la criatura, en el período en que las condiciones inherentes hacen imposible tal logro, es aferrarse tenazmente al hecho-verdad de la presencia del Padre en sus Hijos. Literal y figurativamente, espiritual y personalmente, el Padre y los Hijos son uno solo. Es un hecho: el que ha visto a un Hijo Creador, ha visto al Padre."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Cuanto más bajamos por la escala de la vida, más difícil se hace localizar al Padre invisible con el ojo de la fe. Las criaturas más bajas —e incluso a veces las personalidades más altas— encuentran siempre difícil visualizar al Padre Universal en sus Hijos Creadores. Y así, en espera del momento de su exaltación espiritual cuando la perfección de su desarrollo les permita ver a Dios en persona, se van agotando en su progreso, albergan dudas espirituales, tropiezan con la confusión y se desligan por ello de los objetivos espirituales progresivos de su tiempo y universo. De esta manera pierden la capacidad de ver al Padre cuando contemplan al Hijo Creador. La protección más segura para la criatura en toda su larga lucha por alcanzar al Padre, durante el tiempo en que las condiciones inherentes hacen imposible ese logro, es aferrarse tenazmente al hecho-verdad de la presencia del Padre en sus Hijos. Espiritual y personalmente, en sentido literal y figurado, el Padre y los hijos son uno. El hecho está ahí: todo el que ha visto a un Hijo Creador ha visto al Padre."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "32:3.7",
       "pageReference": "361.2",
       "sortId": "2.032.003.007",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Las personalidades de un universo determinado están establecidas y son confiables, al principio, solamente de acuerdo con su grado de parentesco con la Deidad. Cuando el origen de la criatura está suficientemente lejos de las Fuentes originales y divinas ya sea que nos refiramos a los Hijos de Dios o a las criaturas del ministerio perteneciente al Espíritu Infinito aumentan las posibilidades de disonancia, confusión y a veces rebelión —o sea de pecado."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Inicialmente, las personalidades de un universo dado son estables y dignas de confianza solo según su grado de parentesco con la Deidad. A medida que el origen de la criatura se aleja de las fuentes originales y divinas, ya se trate de los Hijos de Dios o de las criaturas de ministerio pertenecientes al Espíritu Infinito, aumentan las posibilidades de discordia, de confusión y a veces de rebelión, de pecado."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "32:3.8",
       "pageReference": "361.3",
       "sortId": "2.032.003.008",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Exceptuando a los seres perfectos que tuvieron origen en la Deidad, todas las criaturas volitivas en los superuniversos son de naturaleza evolucionaria, comenzando en un estado inferior y elevándose siempre hacia lo superior, aunque en realidad, es hacia adentro. Aun las personalidades altamente espirituales continúan ascendiendo en la escala de la vida mediante traslaciones progresivas de vida en vida y de esfera a esfera. Y en el caso de aquellos que hospedan a los Monitores Misteriosos no hay, de hecho, límite alguno en cuanto a las alturas a las que pueden llegar en su ascenso espiritual y su logro universal."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "A excepción de los seres perfectos con origen en la Deidad, todas las criaturas con voluntad de los superuniversos son de naturaleza evolutiva; empiezan en un estado humilde y ascienden siempre hacia arriba, en realidad hacia dentro. Incluso personalidades sumamente espirituales siguen ascendiendo en la escala de la vida mediante traslados progresivos de vida en vida y de esfera en esfera. Y en el caso de los que albergan a los Monitores de Misterio no hay en verdad límite alguno a las alturas que pueden alcanzar en su ascenso espiritual y su logro en el universo."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "32:3.9",
       "pageReference": "361.4",
       "sortId": "2.032.003.009",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "La perfección de las criaturas del tiempo, cuando ésta queda al fin alcanzada, es completamente una adquisición, una genuina posesión de la personalidad. Aunque se agreguen generosamente los elementos de gracia, no obstante, los logros de la criatura son el resultado del esfuerzo individual, las vivencias verdaderas y la reacción de la personalidad al medio ambiente existente."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "La perfección de las criaturas del tiempo, cuando finalmente se consigue, es una adquisición total, una auténtica posesión de la personalidad. Aunque lleven generosamente incorporados los elementos de la gracia, los logros de la criatura no dejan de ser el resultado de su esfuerzo individual y sus vivencias efectivas, la reacción de la personalidad ante el entorno existente."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "32:3.10",
       "pageReference": "361.5",
       "sortId": "2.032.003.010",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "El hecho del origen evolucionario animal no implica un estigma para ninguna personalidad a los ojos del universo, puesto que ése es el método exclusivo de producir uno de los dos tipos básicos de criaturas finitas inteligentes volitivas. Cuando se alcanzan las cimas de la perfección y la eternidad, hay mucho más motivo de orgullo en el caso de aquellos que comenzaron desde abajo y alegremente ascendieron en la escala de la vida, peldaño tras peldaño y que, cuando así llegan a las alturas gloriosas, habrán obtenido una experiencia personal que encierra un conocimiento real de cada fase de la vida desde abajo hacia arriba."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "El hecho de tener un origen evolutivo animal no supone estigma alguno a ojos del universo para ninguna personalidad, dado que este es el método exclusivo de generar uno de los dos tipos básicos de criaturas finitas inteligentes con voluntad. Cuando se alcanzan las alturas de la perfección y de la eternidad, les corresponden los máximos honores a aquellos que empezaron desde abajo y ascendieron con alegría la escala de la vida peldaño a peldaño y que, cuando lleguen a las alturas de la gloria, llevarán consigo una experiencia personal que implique un conocimiento efectivo de todos los aspectos de la vida desde lo más bajo hasta lo más alto."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "32:3.11",
       "pageReference": "361.6",
       "sortId": "2.032.003.011",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "En todo esto se ve la sabiduría de los Creadores. Sería igualmente fácil para el Padre Universal hacer de todos los mortales seres perfectos, impartir perfección con su palabra divina. Pero eso los privaría de la maravillosa experiencia de la aventura y capacitación asociadas con el prolongado y gradual ascenso hacia el interior, una experiencia reservada tan sólo para aquellos que tienen la buena fortuna de comenzar en lo más bajo de la existencia viviente."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "En todo esto se manifiesta la sabiduría de los Creadores. Para el Padre Universal sería igual de fácil hacer de todos los mortales seres perfectos, impartir la perfección con su palabra divina. Pero eso les privaría de la maravillosa experiencia de aventura y formación que lleva consigo el largo y gradual ascenso hacia dentro, una experiencia que solo pueden conocer quienes hayan tenido la fortuna de empezar desde lo más bajo de la existencia viva."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "32:3.12",
       "pageReference": "362.1",
       "sortId": "2.032.003.012",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "En los universos que rodean a Havona, se ha provisto sólo un número suficiente de criaturas perfectas para satisfacer la necesidad de guías instructores modelos para aquellos que están ascendiendo en la escala evolucionaria de la vida. La naturaleza experiencial de la personalidad de tipo evolucionario es el complemento cósmico natural de la naturaleza perfecta de las criaturas del Paraíso-Havona. En realidad, tanto las criaturas perfectas como las perfeccionadas son incompletas en relación a la totalidad finita. Pero en la asociación complementaria de las criaturas existencialmente perfectas del sistema del Paraíso-Havona con los finalistas experiencialmente perfeccionados que ascienden desde los universos evolucionarios, ambos tipos hallan liberación de sus limitaciones inherentes y en consecuencia pueden conjuntamente intentar alcanzar las sublimes alturas de lo último del estado de la criatura."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Los universos que circundan Havona han sido provistos de criaturas perfectas solo en número suficiente para satisfacer las necesidades de guías maestros modelo para aquellos que están ascendiendo en la escala evolutiva de la vida. La naturaleza experiencial del tipo evolutivo de personalidad es el complemento cósmico natural de las naturalezas siempre perfectas de las criaturas del Paraíso-Havona. En realidad, tanto las criaturas perfectas como las perfeccionadas están incompletas en lo que se refiere a la totalidad finita. Pero en la relación complementaria de las criaturas existencialmente perfectas del sistema Paraíso-Havona con los finalitarios perfeccionados experiencialmente que ascienden desde los universos evolutivos, ambos tipos encuentran la liberación de sus limitaciones inherentes y pueden intentar alcanzar así conjuntamente las alturas sublimes del estatus máximo de criatura."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "32:3.13",
       "pageReference": "362.2",
       "sortId": "2.032.003.013",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Estas transacciones de las criaturas son las repercusiones en el universo de acciones y reacciones dentro de la Deidad Séptuple, en la cual la divinidad eterna de la Trinidad del Paraíso se une a la divinidad evolutiva de los Creadores Supremos de los universos espacio-temporales en la Deidad realizadora del poder del Ser Supremo, en ella y a través de ella."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Estas operaciones de las criaturas son las repercusiones en el universo de las acciones y reacciones que ocurren dentro de la Deidad Séptupla, en la que la divinidad eterna de la Trinidad del Paraíso se une a la divinidad en evolución de los Creadores Supremos de los universos del espacio-tiempo en, por y a través de la Deidad del Ser Supremo que se está actualizando en poder."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "32:3.14",
       "pageReference": "362.3",
       "sortId": "2.032.003.014",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "La criatura divinamente perfecta y la criatura evolucionariamente perfeccionada son iguales en grados de potencial de divinidad, pero difieren en el tipo. Cada una tiene que depender de la otra para obtener la supremacía de servicio. Los superuniversos evolucionarios dependen del perfecto Havona que proporcione la capacitación final de sus ciudadanos ascendentes, pero de la misma manera el universo central perfecto necesita de la existencia de los superuniversos, que siguen perfeccionarse, para proporcionar el desarrollo pleno de sus habitantes descendentes."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "La criatura divinamente perfecta y la criatura evolutiva perfeccionada son iguales en grado de potencial de divinidad, pero difieren en tipo. Cada una tiene que depender de la otra para alcanzar la supremacía de servicio. Los superuniversos evolutivos dependen de que el perfecto Havona proporcione a sus ciudadanos ascendentes la formación final, pero el perfecto universo central también necesita la existencia de los superuniversos en perfeccionamiento para asegurar el pleno desarrollo de sus habitantes descendentes."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "32:3.15",
       "pageReference": "362.4",
       "sortId": "2.032.003.015",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Idea Evolucionaria",
-      "markdown": "Las dos manifestaciones principales de la realidad finita, perfección innata y perfección evolucionada, ya se trate de personalidades o de universos, son coordinadas, dependientes e integradas. Cada una necesita que la otra logre el cumplimiento de sus funciones, su servicio y su destino."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La idea evolucionista",
+      "markdown": "Las dos manifestaciones principales de la realidad finita, la perfección innata y la perfección evolucionada, sea de personalidades o de universos, tienen el mismo rango, son dependientes y están integradas. Cada una necesita de la otra para poder completar sus funciones, su servicio y su destino."
     },
     {
       "type": "section",
@@ -775,8 +775,8 @@
       "standardReferenceId": "32:4.0",
       "pageReference": null,
       "sortId": "2.032.004.000",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
       "markdown": null
     },
     {
@@ -793,9 +793,9 @@
       "standardReferenceId": "32:4.1",
       "pageReference": "362.5",
       "sortId": "2.032.004.001",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "No abrigues la idea de que, debido a que el Padre Universal ha delegado tanto de sí mismo y de su poder a otros, es un miembro tácito o inactivo de la asociación de las Deidades. Aparte de los dominios de la personalidad y del otorgamiento de los Ajustadores, aparentemente es el menos activo entre las Deidades Paradisiacas ya que permite a los que son sus iguales en Deidad, sus Hijos, y a muchas inteligencias creadas, funcionar tan considerablemente en la realización de su propósito eterno. Es el miembro silencioso del trío creativo solamente en el sentido de que nunca hace nada de lo que pueda hacer cualquiera de sus asociados coordinados o subordinados."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "No consideréis que, por haber delegado tanto de sí mismo y de su poder en otros, el Padre Universal es un miembro silencioso o inactivo de la sociedad de la Deidad. Aparte de los dominios de la personalidad y del otorgamiento de Ajustadores, parece la menos activa de las Deidades del Paraíso puesto que permite a sus iguales en Deidad, a sus Hijos y a numerosas inteligencias creadas realizar gran parte de la puesta en obra de su propósito eterno. Es el miembro silencioso del trío creativo solo en el sentido de que nunca hace nada que pueda hacer alguno de sus asociados de igual o menor rango."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "32:4.2",
       "pageReference": "362.6",
       "sortId": "2.032.004.002",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Dios posee comprensión plena de las necesidades de cada criatura inteligente para funcionar y experimentar, y por lo tanto, en cada situación, ya se trate del destino de un universo o del bienestar de la más humilde de sus criaturas, Dios se retira de la actividad para dar lugar a la galaxia de personalidades de criaturas y Creadores quienes, inherentemente, intervienen entre él y cualquier situación dada del universo o cualquier suceso creativo. Pero a pesar de este retiro, esta exhibición de coordinación infinita, hay de parte de Dios, una participación real, literal y personal en estos eventos, por estas agencias y personalidades prescritas y a través de ellas. El Padre está trabajando en todos estos canales y a través de ellos por el bienestar de toda su vasta creación."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "Dios comprende plenamente la necesidad de actuar y experimentar que tiene toda criatura inteligente, y por eso en todas las situaciones, ya se trate del destino de un universo o del bienestar de la más humilde de sus criaturas, la actividad de Dios se retira en favor de la pléyade de personalidades de criatura y personalidades de Creador que están inherentemente interpuestas entre él mismo y cualquier situación concreta del universo o cualquier suceso creativo. Pero a pesar de este repliegue, de esta exhibición de coordinación infinita, hay por parte de Dios una participación efectiva, literal y personal en estos sucesos mediante y a través de esos agentes y personalidades establecidos. El Padre está trabajando en y a través de todos esos canales por el bienestar de toda su inmensa creación."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "32:4.3",
       "pageReference": "363.1",
       "sortId": "2.032.004.003",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Con respecto a las normas, conducta y gobierno de un universo local, el Padre Universal actúa en la persona de su Hijo Creador. El Padre Universal nunca interviene cuando se trata de las siguientes relaciones: en las interrelaciones de los Hijos de Dios, en las asociaciones de grupo de las personalidades originadas en la Tercera Fuente y Centro, o en las relaciones entre cualesquiera otras criaturas tales como los seres humanos. Siempre prevalecen la ley del Hijo Creador, los preceptos de los Padres de las Constelaciones, de los Soberanos de los Sistemas y de los Príncipes Planetarios, es decir las normas y procedimientos prescritos de tal universo. No hay divisiones de autoridad, nunca hay interferencias en las funciones del poder y el propósito divino. Las Deidades actúan en perfecta y eterna unanimidad."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "En lo que se refiere a las políticas, la conducción y la administración de un universo local, el Padre Universal actúa en la persona de su Hijo Creador. En las interrelaciones de los Hijos de Dios, en las asociaciones grupales de personalidades originadas en la Tercera Fuente y Centro o en las relaciones entre criaturas de cualquier otro tipo tales como los seres humanos —en lo que concierne a esas asociaciones — el Padre Universal no interviene nunca. La ley del Hijo Creador, el gobierno de los Padres de las Constelaciones, de los Soberanos de los Sistemas y de los Príncipes Planetarios —las políticas y los procedimientos decretados para ese universo— prevalecen siempre. No hay ninguna división de autoridad, no hay ningún cruce de actividades entre el poder y el propósito divinos. Las Deidades están en perfecta y eterna unanimidad."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "32:4.4",
       "pageReference": "363.2",
       "sortId": "2.032.004.004",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "El gobierno del Hijo Creador es supremo en todos los asuntos de asociaciones éticas y en las relaciones de cualquier división de criaturas con cualquiera otra clase de criaturas o entre dos o más individuos dentro de cualquier grupo, pero ese plan no significa que el Padre Universal no pueda a su propia manera intervenir y hacer toda cosa que satisfaga a la mente divina, con cualquier *criatura individual* en cualquier parte de la creación, en cuanto atañe al estado presente de ese individuo o sus futuras probabilidades y en relación con el infinito propósito y el plan eterno del Padre."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "El Hijo Creador rige de forma suprema en todo lo relativo a asociaciones éticas, las relaciones de cualquier agrupación de criaturas con cualquier otra clase de criaturas, o de dos o más individuos dentro de un grupo concreto. Pero este plan no significa que el Padre Universal no pueda intervenir por su parte y hacer todo lo que complazca a la mente divina con cualquier *criatura individual* de toda la creación respecto al estatus presente o las posibilidades futuras de dicho individuo y conforme al plan eterno y al propósito infinito del Padre."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "32:4.5",
       "pageReference": "363.3",
       "sortId": "2.032.004.005",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "En las criaturas mortales volitivas el Padre está realmente presente en el Ajustador residente, un fragmento de su espíritu prepersonal. El Padre también es la fuente de la personalidad de tales criaturas mortales volitivas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "En las criaturas mortales con voluntad el Padre está realmente presente en el Ajustador, un fragmento de su espíritu prepersonal que mora en el interior de la criatura. Y el Padre es también la fuente de la personalidad de dichas criaturas mortales con voluntad."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "32:4.6",
       "pageReference": "363.4",
       "sortId": "2.032.004.006",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Estos Ajustadores del Pensamiento, donados por el Padre Universal, se hallan comparativamente aislados. Habitan las mentes humanas pero no tienen conexiones perceptibles con los asuntos éticos de una creación local. No están coordinados directamente con el servicio seráfico ni con la administración de sistemas, constelaciones, o universos locales, ni siquiera con el gobierno del Hijo Creador, cuya voluntad es la ley suprema de su universo."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "Estos Ajustadores del Pensamiento, otorgamientos del Padre Universal, están relativamente aislados. Moran en el interior de las mentes humanas pero no tienen relación perceptible con los asuntos éticos de una creación local. No están coordinados directamente con el servicio seráfico ni con la administración de los sistemas, las constelaciones o el universo local, ni siquiera con el gobierno de un Hijo Creador, cuya voluntad es la ley suprema de su universo."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "32:4.7",
       "pageReference": "363.5",
       "sortId": "2.032.004.007",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Los Ajustadores residentes conforman uno de los separados, aunque unificados, modos de contacto de Dios con las criaturas de su creación casi infinita. Así pues, él, que es invisible para el hombre mortal, manifiesta su presencia, y si pudiese hacerlo, se nos revelaría de otras maneras, pero esa revelación adicional no es divinamente posible."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "Los Ajustadores que moran en el interior son uno de los modos de contacto distintos pero unificados de Dios con las criaturas de su creación casi infinita. Aquel que es invisible al hombre mortal manifiesta así su presencia y, si pudiera hacerlo, se mostraría además a nosotros de otras maneras, pero esa revelación adicional no es divinamente posible."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "32:4.8",
       "pageReference": "363.6",
       "sortId": "2.032.004.008",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Podemos ver y entender el mecanismo por el cual los Hijos disfrutan de un conocimiento íntimo y completo respecto de los universos de su jurisdicción. Pero no podemos entender completamente los métodos por los cuales Dios está familiarizado tan completa y personalmente con los detalles del universo de los universos, aunque podamos por lo menos entender la avenida por la cual el Padre Universal puede recibir información referente a los seres de su inmensa creación, y también manifestarles su presencia. A través del circuito de personalidad el Padre está informado —tiene conocimiento personal— de todos los pensamientos y actos de todos los seres en todos los sistemas de todos los universos de toda la creación. Aunque no podemos comprender plenamente esta técnica de comunión de Dios con sus hijos, podemos fortalecernos en la seguridad de que «el Señor conoce a sus hijos», y que «él toma nota de dónde hemos nacido» cada uno de nosotros."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "Podemos ver y entender el mecanismo por el que los Hijos poseen un conocimiento íntimo y completo de los universos que están bajo su jurisdicción; en cambio no podemos comprender del todo los métodos por los que Dios está tan plena y personalmente familiarizado con los detalles del universo de universos, aunque podemos al menos reconocer la vía por la que el Padre Universal puede recibir información sobre los seres de su inmensa creación y manifestarles su presencia. A través del circuito de la personalidad el Padre está al corriente —tiene conocimiento personal— de todos los pensamientos y acciones de todos los seres de todos los sistemas de todos los universos de toda la creación. Aunque no podemos captar plenamente el modo de comunión de Dios con sus hijos, podemos sentirnos fortalecidos en la seguridad de que «el Señor conoce a sus hijos» y de que «él toma nota de dónde hemos nacido» todos y cada uno de nosotros."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "32:4.9",
       "pageReference": "363.7",
       "sortId": "2.032.004.009",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Hablando espiritualmente, el Padre Universal está presente en vuestro universo y en vuestro corazón, a través de uno de los Siete Espíritus Rectores de la morada central, y específicamente, por el Ajustador divino que vive y trabaja y aguarda en las profundidades de la mente mortal."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "El Padre Universal está presente en vuestro universo y en vuestro corazón, hablando espiritualmente, mediante uno de los siete Espíritus Maestros de la morada central y, específicamente, mediante el Ajustador divino que vive y trabaja y espera en las profundidades de la mente mortal."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "32:4.10",
       "pageReference": "363.8",
       "sortId": "2.032.004.010",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "Dios no es una personalidad egocéntrica. El Padre se distribuye generosamente a su creación y a sus criaturas. Él vive y actúa no sólo en las Deidades, sino también en sus Hijos, a quienes encomienda hacer todo lo que es divinamente posible que ellos lo hagan. El Padre Universal verdaderamente se ha despojado a sí mismo de cualquiera función que pueda ser realizada por cualquier otro ser. Y esto es tan verdadero en relación al hombre mortal como al Hijo Creador que gobierna en lugar de Dios en la sede de un universo local. Así contemplamos los efectos del amor ideal e infinito del Padre Universal."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "Dios no es una personalidad egocéntrica; el Padre se distribuye copiosamente a su creación y a sus criaturas. Vive y actúa no solo en las Deidades, sino también en sus Hijos, a quienes encomienda hacer todo lo que les es divinamente posible hacer. El Padre Universal se ha despojado verdaderamente de toda función que otro pueda desempeñar. Y esto es tan cierto para el hombre mortal como para el Hijo Creador que gobierna en lugar de Dios en la sede central de un universo local. Contemplamos así la puesta en obra del amor ideal e infinito del Padre Universal."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "32:4.11",
       "pageReference": "364.1",
       "sortId": "2.032.004.011",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "En esta donación universal de sí mismo tenemos abundantes pruebas tanto de la magnitud como de la magnanimidad de la esencia divina del Padre. Si Dios ha retenido alguna cosa de sí mismo de la creación universal, entonces de ese residuo generosamente concede los Ajustadores del Pensamiento a los mortales de los reinos, los Monitores Misteriosos del tiempo que tan pacientemente moran en los candidatos mortales por la vida eterna."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "En este otorgamiento universal de sí mismo tenemos prueba abundante tanto de la magnitud como de la magnanimidad de la naturaleza divina del Padre. Si Dios ha retenido algo de sí mismo y no lo ha dado a la creación universal, de ese residuo está otorgando con profusa generosidad los Ajustadores del Pensamiento a los mortales de los mundos, los Monitores de Misterio del tiempo que tan pacientemente moran en el interior de los candidatos mortales a la vida sempiterna."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "32:4.12",
       "pageReference": "364.2",
       "sortId": "2.032.004.012",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "La Relación de Dios con un Universo Local",
-      "markdown": "El Padre Universal se ha esparcido de sí mismo, por decirlo así, para enriquecer a la entera creación en posesión de personalidad y potencial para el logro del estado espiritual. Dios nos ha dado de sí mismo para que nosotros podamos ser como él, y se ha reservado de su poder y gloria tan sólo lo necesario para el mantenimiento de aquellas cosas por cuyo amor se ha desposeído a sí mismo de todo lo demás."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "La relación de Dios con un universo local",
+      "markdown": "El Padre Universal se ha derramado, por así decirlo, para hacer a toda la creación rica en posesión de personalidad y en potencial de logro espiritual. Dios se ha dado a nosotros para que podamos ser como él y solo ha reservado para sí el poder y la gloria necesarios para el mantenimiento de aquellas cosas por cuyo amor se ha despojado a sí mismo de todo lo demás."
     },
     {
       "type": "section",
@@ -1009,8 +1009,8 @@
       "standardReferenceId": "32:5.0",
       "pageReference": null,
       "sortId": "2.032.005.000",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
       "markdown": null
     },
     {
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "32:5.1",
       "pageReference": "364.3",
       "sortId": "2.032.005.001",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "Existe un gran y glorioso propósito en la marcha de los universos a través del espacio. Todas vuestras luchas mortales no son en vano. Todos nosotros somos parte de un plan inmenso, una empresa gigantesca, y es la vastedad de esa empresa la que convierte en imposible poder ver mucho de ello en un determinado tiempo y durante una vida cualquiera. Todos formamos parte de un proyecto eterno que los Dioses están supervisando y efectuando. Majestuosamente la totalidad del mecanismo universal sigue su marcha a través del espacio al compás de la música del pensamiento infinito y el propósito eterno de la Primera Gran Fuente y Centro."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "Hay un propósito grande y glorioso en la marcha de los universos por el espacio. Todas vuestras luchas mortales no son en vano. Todos somos parte de un plan inmenso, de una empresa gigantesca, y es la propia magnitud de la empresa lo que hace imposible ver gran parte de ella en un momento determinado y durante una vida determinada. Todos somos parte de un proyecto eterno que los Dioses están supervisando y llevando a cabo. Todo el maravilloso mecanismo universal avanza majestuosamente por el espacio al compás de la música del pensamiento infinito y del propósito eterno de la Primera Gran Fuente y Centro."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "32:5.2",
       "pageReference": "364.4",
       "sortId": "2.032.005.002",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "El propósito eterno del Dios eterno es un ideal altamente espiritual. Los acontecimientos del tiempo y las luchas de la existencia material no son otra cosa que el andamio transitorio que tiende un puente hacia el otro lado, hacia la tierra prometida de la realidad espiritual y la existencia celestial. Por supuesto que, vosotros mortales halláis difícil de captar la idea de un propósito eterno; vosotros sois virtualmente incapaces de comprender el pensamiento de la eternidad, algo que no tiene ni comienzo ni fin. Todo lo que os resulta familiar tiene un final."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "El propósito eterno del Dios eterno es un alto ideal espiritual. Los acontecimientos del tiempo y las luchas de la existencia material no son más que el andamiaje transitorio que tiende un puente hacia el otro lado, hacia la tierra prometida de la realidad espiritual y la existencia superna. Por supuesto, a vosotros los mortales os resulta difícil captar la idea de un propósito eterno; sois prácticamente incapaces de comprender la idea de eternidad, de algo que ni empieza ni acaba nunca. Todo lo que os es familiar tiene un final."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "32:5.3",
       "pageReference": "364.5",
       "sortId": "2.032.005.003",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "Con respecto a una vida individual, la duración de un reino, o la cronología de cualquier serie interconectada de acontecimientos, parecería que abarcamos un tramo de tiempo aislado; todo parecería tener un comienzo y un fin. Y pareciera que una serie de tales experiencias, vidas, edades, o épocas, enlazadas en forma sucesiva, constituyeran un camino directo, un acontecimiento aislado en el tiempo que centellea momentáneamente a través de la infinita cara de la eternidad. Pero cuando observamos todo esto desde las bambalinas, surge una visión más plena y un entendimiento más completo que sugieren que tal explicación es inadecuada, desconectada, y completamente inapropiada para adecuadamente explicar y de otra manera correlacionar las transacciones temporales con los propósitos subyacentes y las reacciones básicas de la eternidad."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "Cuando hacemos referencia a una vida individual, a la duración de un mundo o a la cronología de cualquier serie relacionada de acontecimientos podría dar la impresión de que se trata de un periodo aislado de tiempo; parece que todo tiene un principio y un final. Y podría parecer que una serie de tales experiencias, vidas, edades o épocas, cuando se disponen sucesivamente, forma un camino recto, un evento temporal aislado que centellea momentáneamente al cruzar el rostro infinito de la eternidad. Pero cuando miramos todo esto desde detrás del escenario, una visión más global y un entendimiento más completo nos muestran que esta explicación es insuficiente, inconexa y totalmente incapaz de explicar correctamente las operaciones del tiempo y de correlacionarlas con los propósitos subyacentes y las reacciones básicas de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "32:5.4",
       "pageReference": "364.6",
       "sortId": "2.032.005.004",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "A mí me parece más adecuado, para el propósito de dar una explicación a la mente de los mortales, concebir la eternidad como un ciclo y el propósito eterno como un círculo interminable, un ciclo de eternidad de alguna manera sincronizado con los ciclos materiales transitorios del tiempo. En cuanto a los sectores de tiempo que están conectados con el ciclo de la eternidad y forman parte del mismo, nos vemos obligados a reconocer que tales épocas temporarias nacen, viven y mueren precisamente como nacen, viven y mueren los seres temporales. La mayoría de los seres humanos muere porque, habiendo fracasado en alcanzar el nivel espiritual de la fusión con el Ajustador, la metamorfosis de la muerte constituye el único procedimiento posible a través del cual pueden escapar de las cadenas del tiempo y de las ataduras de la creación material, pudiendo así marchar al ritmo espiritual de la procesión progresiva de la eternidad. Habiendo sobrevivido a la prueba de la vida temporal y existencia material, pasa a ser posible para vosotros continuar en contacto con la eternidad, aún ser parte de ella, orbitando para siempre con los mundos del espacio alrededor del círculo de las edades eternas."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "A mi parecer, la explicación más adecuada para la mente del mortal consiste en concebir la eternidad como un ciclo y el propósito eterno como un círculo sin fin, un ciclo de eternidad sincronizado de alguna manera con los ciclos materiales pasajeros del tiempo. En cuanto a los sectores de tiempo relacionados con el ciclo de la eternidad y que forman parte de ese ciclo, estamos obligados a reconocer que esas épocas transitorias nacen, viven y mueren exactamente igual a que los seres transitorios del tiempo nacen, viven y mueren. La mayoría de los seres humanos muere porque, al no haber conseguido alcanzar el nivel de espíritu de fusión con el Ajustador, la metamorfosis de la muerte constituye el único procedimiento posible de escapar de las cadenas del tiempo y de los vínculos de la creación material para poder así incorporarse al paso espiritual de la procesión progresiva de la eternidad. Habiendo sobrevivido a la vida de prueba en el tiempo y a la existencia material, se hace posible para vosotros seguir en contacto con la eternidad, incluso como parte de ella, girando para siempre con los mundos del espacio alrededor del círculo de las edades eternas."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "32:5.5",
       "pageReference": "365.1",
       "sortId": "2.032.005.005",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "Los sectores del tiempo son como los destellos de la personalidad en su forma temporal. Aparecen por una temporada, y luego se pierden a la vista del ser humano, sólo para reaparecer como nuevos actores y factores continuos en la vida más elevada del interminable girar alrededor del círculo eterno. No se puede concebir a la eternidad como una línea recta en vista de nuestra creencia en un universo delimitado que se desplaza en un vasto y alargado círculo alrededor de la residencia central del Padre Universal."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "Los sectores del tiempo son como los destellos de la personalidad en su forma temporal. Aparecen durante un periodo, y luego se pierden a la vista humana, para reaparecer como actores nuevos y factores de continuidad en la vida más alta del giro sin fin alrededor del círculo eterno. Mal se puede concebir la eternidad como un camino recto dada nuestra creencia en un universo delimitado que se desplaza en un inmenso círculo alargado alrededor del lugar central de residencia del Padre Universal."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "32:5.6",
       "pageReference": "365.2",
       "sortId": "2.032.005.006",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "Francamente, la eternidad es incomprensible para la mente temporal finita. Simplemente, vosotros no la podéis entender; no podéis comprenderla. Yo no la visualizo completamente, y aun si la visualizara, sería imposible para mí hacer converger mi concepto a la mente humana. No obstante, he intentado lo máximo que está a mi alcance para describir algo de nuestro punto de vista, y deciros sobre nuestra interpretación de las cosas eternas. Intento ayudaros a cristalizar vuestros pensamientos acerca de estos valores que son de esencia infinita y significado eterno."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "A decir verdad, la eternidad es incomprensible para la mente finita del tiempo. Simplemente no podéis captarla; no podéis comprenderla. Yo no la visualizo por completo, e incluso si lo hiciera, me sería imposible transmitir mi concepto a la mente humana. Sin embargo, he hecho todo lo que he podido por describir algo de nuestro punto de vista, por deciros algo de lo que entendemos de las cosas eternas. Intento ayudaros a cristalizar vuestros pensamientos acerca de estos valores que son de naturaleza infinita y significado eterno."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "32:5.7",
       "pageReference": "365.3",
       "sortId": "2.032.005.007",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "Hay en la mente de Dios un plan que involucra a cada criatura de todos sus vastos dominios, y este plan consiste en un propósito eterno de oportunidades ilimitadas, progreso sin límites, y una vida sin fin. ¡Y los tesoros infinitos de esa carrera tan inigualable son vuestros con solo luchar!"
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "Hay en la mente de Dios un plan que abarca a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades ilimitadas, progreso sin límites y vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable son vuestros solo con esforzaros!"
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "32:5.8",
       "pageReference": "365.4",
       "sortId": "2.032.005.008",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "¡El objetivo de la eternidad os aguarda! ¡La aventura del logro de la divinidad se encuentra frente a vosotros! ¡La carrera por la perfección está en marcha! Quienquiera lo desee puede correr, y la victoria certera coronará los esfuerzos de cada ser humano que participe en la carrera de la fe y la esperanza, dependiendo a cada paso de la dirección del Ajustador residente y de la guía de ese buen espíritu del Hijo del Universo, que generosamente ha sido derramado sobre toda la carne."
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "¡La meta de la eternidad os espera! ¡La aventura del logro de la divinidad se extiende ante vosotros, la carrera hacia la perfección está en marcha! Quienquiera que lo desee puede participar, y una victoria cierta coronará los esfuerzos de todos los seres humanos que corran la carrera de fe y de confianza asistidos en cada paso del camino por el Ajustador que mora en su interior y guiados por el buen espíritu del Hijo del Universo que ha sido derramado tan copiosamente sobre toda carne."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "32:5.9",
       "pageReference": "365.5",
       "sortId": "2.032.005.009",
-      "paperTitle": "La Evolución de los Universos Locales",
-      "sectionTitle": "El Propósito Eterno y Divino",
-      "markdown": "[Presentado por un Mensajero Poderoso temporalmente asignado al Concilio Supremo de Nebadon y encargado de esta misión por Gabriel de Salvington.]"
+      "paperTitle": "La evolución de los universos locales",
+      "sectionTitle": "El propósito eterno y divino",
+      "markdown": "[Presentado por un Mensajero Poderoso adscrito temporalmente al Consejo Supremo de Nebadon y designado para esta misión por Gabriel de Salvington.]"
     }
   ]
 }

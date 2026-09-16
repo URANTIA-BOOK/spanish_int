@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/126.md",
-  "source_sha256": "afa5ebc55fa124b1f5228caecbc6df9029a6cdc753108fa5fa6999a979892bd5",
+  "source_sha256": "827d791f5c1624f92196b1bbeb42e0006e0fbea4e75772defe6f6804f3c29a78",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "126:0.0",
       "pageReference": null,
       "sortId": "4.126.000.000",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "126:0.0",
       "pageReference": null,
       "sortId": "4.126.000.000",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "126:0.1",
       "pageReference": "1386.1",
       "sortId": "4.126.000.001",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
-      "markdown": "DE TODAS las experiencias de la vida terrenal de Jesús, los años catorce y quince de su vida fueron los más cruciales. Estos dos años, después de que comenzara Jesús a cobrar conciencia de su divinidad y destino, y antes de que lograra un alto grado de comunicación con su Ajustador residente fueron los más atribulados de su extraordinaria vida en Urantia. Es este período de dos años el que debería llamarse la gran prueba, la verdadera tentación. Ningún joven humano, al experimentar las confusiones y los problemas de adaptación inherentes a la adolescencia, hubo de someterse jamás a una prueba más crucial que aquella por la que pasó Jesús durante su transición de la niñez a la juventud."
+      "markdown": "DE TODOS sus años de vida en la tierra, el decimocuarto y el decimoquinto fueron los más cruciales en la experiencia de Jesús. Estos dos años, en los que empezó a ser consciente de su divinidad y de su destino sin tener aún un alto grado de comunicación con su Ajustador interior, fueron los más duros de su memorable vida en Urantia. Este periodo de dos años se debería llamar sin duda el de la gran prueba, la verdadera tentación. Ningún joven humano, a su paso por las primeras confusiones y los problemas de ajuste de la adolescencia, ha tenido jamás ante sí una prueba tan crucial como la que afrontó Jesús durante su transición de la niñez a la primera madurez."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "126:0.2",
       "pageReference": "1386.2",
       "sortId": "4.126.000.002",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
-      "markdown": "Este importante período en el desarrollo juvenil de Jesús comenzó al término de su visita a Jerusalén y a su regreso a Nazaret. Al principio María estaba feliz con la idea de haber nuevamente recobrado a su hijo, de que Jesús había vuelto al hogar como hijo obediente, como siempre lo había sido, y que de ahí en adelante sería más receptivo a los planes de ella para su vida futura. Pero no habría de solazarse por mucho tiempo en este sol de ilusión materna y de orgullo familiar no confesado; muy pronto habría de desilusionarse aun más. Cada vez más gozaba el muchacho en la compañía de su padre; cada vez acudía menos a ella con sus problemas; al mismo tiempo ambos padres cada vez más tenían dificultades en entender las frecuentes fluctuaciones de Jesús entre los asuntos de este mundo y la contemplación de su relación con los asuntos de su Padre. Francamente, no lo comprendían, aunque lo amaban tiernamente."
+      "markdown": "Este importante periodo del desarrollo juvenil de Jesús empezó a su vuelta a Nazaret tras la visita a Jerusalén. Al principio María estaba feliz pensando que había recuperado a su hijo, que Jesús había vuelto a casa para ser un hijo consciente de sus deberes —nunca había dejado de serlo— y que en lo sucesivo sería más receptivo a los planes que ella acariciaba para su vida futura. Pero estas ilusiones maternales de obtener el esperado reconocimiento del orgullo familiar se trocaron pronto en decepción: el chico buscaba cada vez más la compañía de su padre y acudía a ella cada vez menos con sus problemas. Por otra parte, sus padres comprendían cada vez menos sus frecuentes alternancias entre los asuntos de este mundo y la contemplación de su relación con los asuntos de su Padre. En realidad no lo comprendían pero lo amaban de verdad."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "126:0.3",
       "pageReference": "1386.3",
       "sortId": "4.126.000.003",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
-      "markdown": "A medida que Jesús crecía, se profundizaban en su corazón la compasión y el amor por el pueblo judío; pero con el paso de los años se fue acentuando en su mente un recto resentimiento por la presencia de los sacerdotes nombrados por razones políticas en el templo del Padre. Jesús tenía un gran respeto a los fariseos sinceros y a los escribas honestos, pero mucho despreciaba a los fariseos hipócritas y a los teólogos deshonestos, y miraba con desdén a todos los líderes religiosos que no eran sinceros. Cuando escudriñaba el liderazgo de Israel, le tentaba a veces contemplar la posibilidad de convertirse en el Mesías que esperaban los judíos, pero no cayó nunca en esa tentación."
+      "markdown": "A medida que se iba haciendo mayor, crecía el amor y la compasión de Jesús por el pueblo judío, pero con el paso de los años fue desarrollando un justificado rechazo a la presencia de sacerdotes de designación política en el templo del Padre. Jesús sentía un gran respeto por los fariseos sinceros y los escribas honrados, pero despreciaba profundamente a los fariseos hipócritas y los teólogos deshonestos. Miraba con desdén a todos los líderes religiosos que no eran sinceros. Al examinar la conducta de los dirigentes de Israel, le tentó alguna vez la idea de convertirse en el Mesías que esperaban los judíos pero no cayó nunca en esa tentación."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "126:0.4",
       "pageReference": "1386.4",
       "sortId": "4.126.000.004",
-      "paperTitle": "Los Dos Años Cruciales",
+      "paperTitle": "Los dos años cruciales",
       "sectionTitle": null,
-      "markdown": "La crónica de sus hazañas entre los sabios del templo en Jerusalén causó placer en Nazaret, especialmente entre los antiguos maestros de Jesús en la escuela de la sinagoga. Durante un tiempo las alabanzas andaban en labios de todos. La aldea entera relataba su sabiduría y su conducta ejemplar cuando niño y predecía que estaba destinado a convertirse en un gran líder de Israel; finalmente saldría de Nazaret de Galilea un maestro verdaderamente superior. Todos ellos anhelaban el momento en que Jesús cumpliera los quince años, porque entonces se le permitiría leer regularmente las escrituras en la sinagoga durante los servicios del sábado."
+      "markdown": "La historia de la hazaña de Jesús entre los sabios del templo de Jerusalén fue muy gratificante para todo Nazaret y especialmente para sus antiguos profesores de la escuela de la sinagoga. Durante una temporada estuvo elogiosamente en boca de todos. Todo el pueblo recordaba su sabiduría y su conducta ejemplar cuando niño y predecía que estaba destinado a convertirse en un gran líder de Israel. Por fin saldría de Nazaret de Galilea un maestro verdaderamente grande. Todos esperaban con ilusión que cumpliera los quince años para que estuviera autorizado a leer regularmente las escrituras el día del sabbat en la sinagoga."
     },
     {
       "type": "section",
@@ -127,8 +127,8 @@
       "standardReferenceId": "126:1.0",
       "pageReference": null,
       "sortId": "4.126.001.000",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
       "markdown": null
     },
     {
@@ -145,9 +145,9 @@
       "standardReferenceId": "126:1.1",
       "pageReference": "1387.1",
       "sortId": "4.126.001.001",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "Es éste el año calendario de su catorze cumpleaños. Había aprendido muy bien a hacer yugos y también sabía trabajar la lona y el cuero. Tambíen se estaba convirtiendo rápidamente en carpintero y ebanista experto. Ese verano frecuentemente trepaba a la cima de la colina situada al noroeste de Nazaret, para orar y meditar. Gradualmente iba cobrando más y más conciencia de la naturaleza de su autootorgamiento en la tierra."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "El año 8 del calendario civil Jesús cumplió 14 años. Para entonces se había convertido en un buen fabricante de yugos y trabajaba bien tanto la lona como el cuero. También se estaba convirtiendo rápidamente en un experto carpintero y ebanista. Ese verano subió muchas veces a la colina del noroeste de Nazaret para rezar y meditar. Poco a poco se iba haciendo cada vez más consciente de la naturaleza de su otorgamiento en la tierra."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "126:1.2",
       "pageReference": "1387.2",
       "sortId": "4.126.001.002",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "Esta colina había sido, poco más de cien años antes, el «lugar alto de Baal»; allí se encontraba la tumba de Simeón, renombrado santo varón de Israel. Desde la cima de la colina de Simeón, Jesús dominaba Nazaret y el campo circundante. Divisaba Meguido y recordaba la historia del ejército egipcio que allí ganó su primera gran victoria en Asia; y cómo, posteriormente, otro ejército como ése derrotó al rey judeo Josías. No muy lejos de allí podía divisar Taanac, allí donde Débora y Barac derrotaron a Sísara. A lo lejos se asomaban las colinas de Dotán, donde, según le habían enseñado, los hermanos de José lo vendieron como esclavo a los egipcios. Al volver la vista hacia Ebal y Gerizim, rememoraba las tradiciones de Abraham, Jacob y Abimelec. Así que recordaba y reflexionaba sobre los acontecimientos históricos y tradicionales del pueblo de su padre José."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "Poco más de cien años atrás esta colina había sido el «alto lugar de Baal» y era ahora el emplazamiento de la tumba de Simeón, un conocido hombre santo de Israel. Desde la cima de la colina de Simeón Jesús contemplaba todo Nazaret y sus alrededores. Podía divisar Meguido y recordar la historia de la primera gran victoria del ejército egipcio en Asia, y cómo más tarde otro ejército semejante derrotó a Josías, rey de Judea. No lejos de allí se veía Taanac, donde Débora y Barac derrotaron a Sísara. Podía ver en la distancia las colinas de Dotán, donde le habían enseñado que los hermanos de José lo vendieron como esclavo a los egipcios. Luego podía mirar hacia Ebal y Gerizim para rememorar las tradiciones de Abraham, Jacob y Abimelec. Y así daba vueltas en la cabeza a los acontecimientos históricos y tradicionales del pueblo de su padre José."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "126:1.3",
       "pageReference": "1387.3",
       "sortId": "4.126.001.003",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "Proseguía con sus cursos avanzados de lectura bajo la dirección de los maestros de la sinagoga; al mismo tiempo también se ocupaba de la educación en el hogar de sus hermanos y hermanas a medida que crecían."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "Por otra parte seguía asistiendo a los cursos avanzados de lectura bajo la dirección de los profesores de la sinagoga y educando en casa a sus hermanos y hermanas a medida que iban alcanzando la edad adecuada."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "126:1.4",
       "pageReference": "1387.4",
       "sortId": "4.126.001.004",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "A principios de este año, José dispuso ahorrar los ingresos que proveían de sus propiedades en Nazaret y Capernaum para pagar el prolongado curso de estudios de Jesús en Jerusalén puesto que se había planeado que Jesús vaya a Jerusalén en agosto del año siguiente, después de cumplir los quince años."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "Al principio de ese año José empezó a ahorrar las rentas de sus propiedades de Nazaret y Cafarnaúm para pagar el largo ciclo de estudios de Jesús en Jerusalén, tal como estaba previsto que fuera a estudiar a Jerusalén en cuanto cumpliera los quince años en agosto del año siguiente."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "126:1.5",
       "pageReference": "1387.5",
       "sortId": "4.126.001.005",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "Ya para comienzos de este año abrigaban José y María frecuentes dudas acerca del destino de su hijo primogénito. Por cierto, Jesús era un muchacho brillante y amable, pero él era tan difícil de comprender, tan evasivo de entender; además, nada acontecía que tuviera visos de extraordinario o de milagroso. Decenas de veces, esta madre orgullosa había esperado ansiosamente, casi sin respirar, un gesto sobrehumano, una acción milagrosa de su hijo; pero siempre esta esperanza anhelante se había visto destruída, dando paso a la desilusión más cruel. Esta situación era desalentadora, aun descorazonadora. El pueblo devoto de aquellos tiempos creía sinceramente que los profetas y los hombres de promesa manifestaban siempre su misión y establecían su autoridad divina por realizar milagros y por hacer maravillas. Pero Jesús no hacía nada de eso; por lo cual la confusión de sus padres se acrecentaba con el paso del tiempo al contemplar el futuro de este hijo."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "Desde el comienzo del año tanto José como María se vieron acosados por las dudas sobre el destino de su hijo mayor. Era un niño realmente brillante y adorable pero extremadamente difícil de comprender y sondear; y además, no había ocurrido nunca nada extraordinario ni milagroso. Su orgullosa madre había esperado muchas veces con ansiosa emoción que su hijo hiciera algo sobrehumano o milagroso, pero sus esperanzas se vieron siempre frustradas. Todo ello era desalentador e incluso descorazonador. La gente piadosa de aquellos tiempos creía realmente que los profetas y los hombres de la promesa demostraban siempre su vocación y establecían su autoridad divina mediante milagros y prodigios. Pero Jesús no hacía nada de eso, y la confusión de sus padres sobre su futuro iba en aumento."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "126:1.6",
       "pageReference": "1387.6",
       "sortId": "4.126.001.006",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "De muchas maneras se reflejaba en el hogar la situación económica más desahogada de esta familia de Nazaret, siendo una de ellas la aparición de mayor cantidad de tablillas blancas lisas que se usaban como pizarras en las que se escribía con carbón. También pudo Jesús reanudar sus clases de música, pues le encantaba tocar el arpa."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "El creciente desahogo económico de la familia de Nazaret se reflejaba en su casa de muchas maneras, especialmente en la mayor cantidad de tablas blancas lisas que se utilizaban como pizarras para escribir con carboncillo. Se permitió también a Jesús reanudar sus clases de música; era muy aficionado a tocar el arpa."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "126:1.7",
       "pageReference": "1387.7",
       "sortId": "4.126.001.007",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimocuarto Año (Año 8 d. de J.C.)",
-      "markdown": "A lo largo de este año puede decirse en verdad que Jesús «creció en el favor de los hombres y de Dios». Las perspectivas de la familia parecían buenas; el futuro, resplandeciente."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Su decimocuarto año (8 d. C.)",
+      "markdown": "Se puede decir con verdad que a lo largo de ese año Jesús «creció a los ojos de Dios y de los hombres». Las perspectivas de la familia eran buenas y el futuro, sonriente."
     },
     {
       "type": "section",
@@ -271,8 +271,8 @@
       "standardReferenceId": "126:2.0",
       "pageReference": null,
       "sortId": "4.126.002.000",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
       "markdown": null
     },
     {
@@ -289,9 +289,9 @@
       "standardReferenceId": "126:2.1",
       "pageReference": "1388.1",
       "sortId": "4.126.002.001",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Todo marchaba bien hasta aquel aciago martes 25 de septiembre; ese día un mensajero proveniente de Séforis trajo a esta casa nazarena la trágica noticia de que José, mientras trabajaba en la residencia del gobernador, había sufrido graves lesiones al desmoronarse una cabría. El mensajero de Séforis, camino a la casa de José, se detuvo en el taller, donde informó a Jesús del accidente de su padre; ambos fueron juntos a la casa para llevar la triste nueva a María. Jesús quería ir inmediatamente a ver a su padre, pero María no quiso atender razones excepto que sólo sabía que debía correr a estar junto a su marido. Decidió que iría a Séforis en compañía de Santiago, por entonces de diez años de edad, mientras que Jesús se quedaría en la casa cuidando de los niños más pequeños hasta su regreso, pues no sabía cuán grave era el estado de José. Pero José murió como consecuencia de sus lesiones antes de la llegada de María. Lo trajeron a Nazaret y al día siguiente se le enterró junto a sus padres."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Todo iba bien hasta aquel aciago martes 25 de septiembre en que un mensajero de Séforis llevó al hogar de Nazaret la trágica noticia de que José había sido gravemente herido por la caída de una grúa cuando trabajaba en la residencia del gobernador. El mensajero pasó por el taller de camino a la casa de José para informar a Jesús del accidente de su padre y fueron juntos a dar la triste noticia a María. Jesús quería ir inmediatamente con su padre, pero María solo pensaba en salir corriendo para estar al lado de su marido. Decidió que Santiago, de diez años, la acompañaría a Séforis mientras Jesús se quedaba en casa con los más pequeños hasta su vuelta, dado que no conocía la gravedad de las heridas de José. Pero José murió de sus heridas antes de que llegara María. Lo llevaron a Nazaret y al día siguiente fue enterrado junto a sus padres."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "126:2.2",
       "pageReference": "1388.2",
       "sortId": "4.126.002.002",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "En el preciso momento en que el futuro parecía sonreírles lleno de buenas perspectivas, una mano al parecer cruel había derribado al jefe de esta familia de Nazaret, desgarrando el corazón de este hogar; los planes para Jesús y para su educación futura quedaron destruidos. Este joven carpintero, que acababa de cumplir catorce años, despertó a una cruel realidad: no sólo tendría que cumplir con el mandato de su Padre celestial, o sea revelar la naturaleza divina en la tierra y en la carne, sino que en su joven naturaleza humana debería asumir también la responsabilidad de su madre viuda y de siete hermanos y hermanas y de la que aún no había nacido. Este joven nazareno se convirtió de golpe en el único sostén y consuelo de su familia tan súbitamente afligida por la desgracia. Así pues se permitió que ocurriesen en Urantia estos acontecimientos de orden natural que obligarían a este joven de destino a asumir tan pronto la responsabilidad, onerosa pero a la vez altamente educacional y disciplinaria, de convertirse en el jefe de una familia humana, padre de sus propios hermanos y hermanas, sostén y apoyo de su madre, guardián de la casa de su padre, el único hogar que había de conocer mientras estuvo en este mundo."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "En el preciso momento en que las perspectivas eran buenas y el futuro parecía sonreír a esta familia de Nazaret, una mano aparentemente cruel segaba la vida de su cabeza. Los asuntos de la casa se trastocaron y se derrumbaron todos los planes para la futura educación de Jesús. A sus catorce años recién cumplidos, el joven carpintero cayó bruscamente en la cuenta de que no solo tenía que cumplir el mandato de su Padre celestial de revelar la naturaleza divina en la tierra y en la carne, sino que su joven naturaleza humana debía cargar también con la responsabilidad de cuidar de su madre viuda y de sus siete hermanos, más otro aún por nacer. El muchacho de Nazaret se convertía ahora en el único sostén y consuelo de esta familia tan súbitamente afligida. Y así se permitió que sucedieran en Urantia unos acontecimientos de orden natural que forzaron a este joven del destino a asumir tan pronto las responsabilidades pesadas, pero altamente educativas y disciplinarias, que acompañaban al hecho de convertirse en cabeza de una familia humana, de convertirse en padre de sus propios hermanos, de sostener y proteger a su madre, de funcionar como guardián del hogar de su padre, el único hogar que tuvo en este mundo."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "126:2.3",
       "pageReference": "1388.3",
       "sortId": "4.126.002.003",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Jesús supo aceptar con buena disposición las responsabilidades caídas tan súbitamente sobre sus hombros y cumplió fielmente con estas obligaciones hasta el fin. Por lo menos se había resuelto, aunque en forma trágica, un gran problema, una dificultad prevista en su vida —ya no tendría que ir a Jerusalén para estudiar con los rabinos. Siempre fue verdad que Jesús «no se doblegó ante los pies de nadie». Estaba siempre dispuesto a aprender de quien fuese, aun del más humilde entre los niños, pero jamás derivó de fuentes humanas la autoridad para enseñar la verdad."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Jesús aceptó de buena gana las responsabilidades que tan repentinamente recayeron sobre él y las asumió lealmente hasta el final. Al menos se había resuelto, aunque trágicamente, un gran problema y una dificultad prevista en su vida, puesto que ya nadie esperaba de él que fuera a Jerusalén a estudiar bajo los rabinos. Y así fue siempre verdad que Jesús «nunca se sentó a los pies de nadie». Estaba dispuesto en todo momento a aprender incluso del más humilde de los niños, pero su autoridad para enseñar la verdad no provino nunca de fuentes humanas."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "126:2.4",
       "pageReference": "1388.4",
       "sortId": "4.126.002.004",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Aún nada sabía de la visitación de Gabriel a su madre antes de su nacimiento; lo supo por Juan el día de su bautismo, al comienzo de su ministerio público."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Sin embargo aún no sabía nada de la visita de Gabriel a su madre antes de su nacimiento, y solo se enteró por Juan el día de su bautismo, al comienzo de su ministerio público."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "126:2.5",
       "pageReference": "1388.5",
       "sortId": "4.126.002.005",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Según pasaban los años, este joven carpintero de Nazaret valoraba cada vez más las instituciones de la sociedad y las costumbres religiosas con un criterio invariable: ¿Qué es lo que hace por el alma humana? ¿Acerca Dios al hombre? ¿Acerca el hombre a Dios? Aunque el joven no había abandonado por completo el aspecto recreativo y social de la vida, cada vez más dedicaba su tiempo y energías a sólo dos fines: el cuidado de su familia y la preparación para hacer en la tierra la voluntad celestial de su Padre."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Con el paso de los años el joven carpintero de Nazaret medía cada vez más todas las instituciones de la sociedad y todos los usos de la religión por un mismo criterio: ¿Qué hace por el alma humana? ¿Lleva a Dios hacia el hombre? ¿Lleva al hombre hacia Dios? Aunque el joven no descuidaba del todo los aspectos recreativos y sociales de la vida, entregaba cada vez más su tiempo y sus energías a dos únicos objetivos: cuidar de su familia y prepararse para hacer en la tierra la voluntad celestial de su Padre."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "126:2.6",
       "pageReference": "1389.1",
       "sortId": "4.126.002.006",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "En las noches de invierno de este año, los vecinos se hicieron el hábito de aparecerse por la casa para escuchar a Jesús tocar el arpa, relatar historias (porque el mancebo era un narrador magistral) y leer las escrituras en griego."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Ese año sus vecinos adoptaron la costumbre de aparecer en casa de Jesús durante las veladas de invierno para oírle tocar el arpa, contar historias (pues el muchacho era un narrador magistral) y leer las escrituras en griego."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "126:2.7",
       "pageReference": "1389.2",
       "sortId": "4.126.002.007",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Los asuntos económicos de la familia seguían andando bastante bien pues había quedado una suma considerable de dinero en el momento de la muerte de José. Jesús no tardó en demostrar que poseía un agudo sentido de los negocios y sagacidad en los asuntos financieros. Era liberal, pero frugal; ahorrativo, pero generoso, y demostró ser un administrador prudente y eficaz de la herencia de su padre."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "La situación económica de la familia siguió bastante saneada, puesto que disponían de una buena suma de dinero en el momento de la muerte de José. Jesús no tardó en demostrar sagacidad financiera y buen criterio para los negocios. Era desprendido pero frugal, ahorrador pero generoso. Demostró ser un administrador sensato y eficiente del patrimonio de su padre."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "126:2.8",
       "pageReference": "1389.3",
       "sortId": "4.126.002.008",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Muerte de José",
-      "markdown": "Pero a pesar de todos los esfuerzos de Jesús y de los vecinos nazarenos por traer un poco de alegría a la casa, María y aun los pequeños estaban sumidos en la tristeza. José ya no estaba. José había sido un marido y un padre excepcional, y todos lo extrañaban. Su muerte parecía aun más trágica por no haber podido ellos hablarle ni recibir su última bendición."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "La muerte de José",
+      "markdown": "Pero a pesar de todos los intentos de Jesús y de los vecinos de Nazaret por llevar alegría a la casa, María, e incluso los niños, estaban sumidos en la tristeza. José se había ido. José había sido un marido y un padre excepcional y todos lo echaban de menos. Su muerte les parecía aún más trágica por no haber podido despedirse de él ni recibir su última bendición."
     },
     {
       "type": "section",
@@ -433,8 +433,8 @@
       "standardReferenceId": "126:3.0",
       "pageReference": null,
       "sortId": "4.126.003.000",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
       "markdown": null
     },
     {
@@ -451,9 +451,9 @@
       "standardReferenceId": "126:3.1",
       "pageReference": "1389.4",
       "sortId": "4.126.003.001",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "A mediados de este quinceavo año —estamos computando el tiempo según el calendario del siglo veinte, no de acuerdo con el calendario judío— Jesús había tomado firmemente en sus manos la administración de los asuntos de su familia. Antes de finalizar el año ya casi habían desaparecido los ahorros de la familia, y tuvo que enfrentarse pues con la necesidad de vender una de las casas de Nazaret que José y su vecino Jacobo poseían en sociedad."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Hacia mediados de su decimoquinto año —según el calendario del siglo veinte, no por el año judío— Jesús había tomado firmemente las riendas de la gestión de su familia. Antes de terminar el año sus ahorros estaban tan mermados que se vieron en la necesidad de vender una de las casas de Nazaret de la que José y su vecino Jacobo eran copropietarios."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "126:3.2",
       "pageReference": "1389.5",
       "sortId": "4.126.003.002",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "El miércoles 17 de abril del año 9 d. de J.C., por la noche, nació Ruth, la más pequeña de la familia; Jesús hizo todo lo que pudo por tomar el lugar de su padre, siendo el sostén y consuelo de su madre en estos momentos particularmente difíciles y colmados de tristeza. Durante casi veinte años (hasta que comenzó su ministerio público) ningún padre pudo haber amado y educado a su hija más afectuosa y fielmente de lo que Jesús cuidó a la pequeña Ruth. Fue un padre igualmente bueno para con los demás miembros de la familia."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "La tarde del miércoles 17 de abril del año 9 d. C. nació Rut, la menor de la familia, y Jesús hizo todo lo que pudo por ocupar el lugar de su padre consolando y atendiendo a su madre en esos momentos particularmente duros y tristes. Durante casi veinte años (hasta que empezó su ministerio público) ningún padre podría haber amado y educado a su hija con más cariño y fidelidad de lo que Jesús cuidó de la pequeña Rut. Y fue un padre igual de bueno para todos los demás miembros de su familia."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "126:3.3",
       "pageReference": "1389.6",
       "sortId": "4.126.003.003",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Durante este año compuso Jesús la oración que posteriormente enseñaría a sus apóstoles, y que muchos conocen como «El Padre Nuestro». En cierto modo fue ésta algo que evolucionó antes del altar familiar, pues tenían ellos muchas fórmulas de alabar y varias oraciones formales. Después de la muerte de su padre, Jesús intentó enseñar a los niños mayores que podían expresarse individualmente en sus oraciones —así como le gustaba a él hacerlo— pero no alcanzaban a entender su pensamiento e invariablemente volvían a caer en la repetición de las oraciones aprendidas de memoria. Para estimular a los mayores entre sus hermanos y hermanas a que se expresaran espontáneamente en sus rezos, Jesús trataba de mostrarles el camino con palabras y frases sugestivas; de manera tal que, sin intención alguna por su parte, resultó que todos ellos utilizaban oraciones basadas casi enteramente en lo que Jesús les había sugerido."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Ese año Jesús formuló por primera vez la oración que enseñaría más adelante a sus apóstoles y que muchos conocen como el «padrenuestro». Fue de alguna manera una evolución del culto familiar, que consistía en muchas fórmulas de alabanza y varias oraciones formales. Tras la muerte de su padre, Jesús intentó enseñar a los niños mayores a expresarse individualmente en la oración —como a él tanto le gustaba hacer— pero ellos no captaban su idea y volvían invariablemente a sus rezos memorizados. En vista de eso, para estimular a sus hermanos y hermanas mayores a rezar de forma personal, intentó mostrarles el camino con frases sugestivas, y muy pronto empezaron todos por su propia iniciativa a inspirarse en las sugerencias de Jesús para sus oraciones."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "126:3.4",
       "pageReference": "1389.7",
       "sortId": "4.126.003.004",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Finalmente, Jesús renunció a la idea de que cada uno de los miembros de su familia formule sus oraciones espontáneas, y una noche de octubre, sentando junto a la mesa baja de piedra, escribió a la luz de la pequeña lámpara en una tablilla de cedro de unos cincuenta centímetros de cada lado, con un pedazo de carbón, la oración que desde ese momento sería la que habría de pronunciar normalmente toda su familia."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Jesús terminó renunciando a la idea de que cada miembro de la familia formulara oraciones espontáneas. Una noche de octubre se sentó junto a la mesa baja de piedra a la luz de una pequeña lámpara achaparrada y escribió con un trozo de carboncillo sobre una tablilla de cedro pulido de unos cincuenta centímetros de lado la oración que se convirtió a partir de entonces en la súplica habitual de su familia."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "126:3.5",
       "pageReference": "1389.8",
       "sortId": "4.126.003.005",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Durante este año Jesús estuvo atormentado por pensamientos confusos. La responsabilidad familiar le había quitado por el momento toda intención de dedicarse de inmediato a «los asuntos de su Padre» según se le había mandado durante la visitación que ocurriera en Jerusalén. Con justicia razonaba Jesús que el cuidado de la familia de su padre terrenal tenía prioridad sobre todos los demás deberes, que mantener a su familia debía ser su primera obligación."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Ese año Jesús estuvo muy preocupado por pensamientos confusos. La responsabilidad familiar había truncado cualquier idea de emprender inmediatamente ningún plan para responder al mandato recibido en Jerusalén de «ocuparse de los asuntos de su Padre». Jesús razonaba correctamente que velar por la familia de su padre terrenal debía tener precedencia sobre todos los deberes y que mantener a su familia era su primera obligación."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "126:3.6",
       "pageReference": "1390.1",
       "sortId": "4.126.003.006",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "En el curso de este año halló Jesús en el así llamado libro de Enoc un pasaje que le sugirió la adopción futura del término «Hijo del Hombre» para designar su misión autootorgadora en Urantia. Mucho había reflexionado sobre la idea del Mesías judío y estaba firmemente convencido de que él no había de ser ese Mesías. Anhelaba ayudar al pueblo de su padre, pero no pensó nunca en conducir a los ejércitos judíos para derrocar la dominación extranjera en Palestina. Sabía que jamás ocuparía el trono de David en Jerusalén. Tampoco creía Jesús que su misión de liberador espiritual o de maestro de los valores morales se limitara únicamente al pueblo judío. Por eso su misión de vida no podía ser de ninguna manera el cumplimiento de los intensos anhelos y de las presuntas profecías mesiánicas de las escrituras hebreas; por lo menos no de la manera en que comprendían los judíos estas predicciones de los profetas. Asímismo estaba seguro de que nunca habría de aparecer como el Hijo del Hombre descrito por el profeta Daniel."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "En el transcurso de ese año Jesús encontró un pasaje en el llamado libro de Enoc que le induciría a adoptar más adelante la expresión «Hijo del Hombre» para designar su misión de otorgamiento en Urantia. Había considerado a fondo la idea del Mesías judío y estaba firmemente convencido de que él no iba a ser ese Mesías. Anhelaba ayudar al pueblo de su padre, pero nunca se planteó ponerse al frente de los ejércitos judíos para liberar a Palestina del dominio extranjero. Sabía que no se sentaría nunca en el trono de David en Jerusalén. Tampoco creía que su misión de maestro moral o libertador espiritual estuviera limitada al pueblo judío. Por lo tanto, la misión de su vida no podía consistir de ningún modo en cumplir los ardientes anhelos y las supuestas profecías mesiánicas de las escrituras hebreas, al menos no como entendían los judíos esas predicciones de los profetas. También estaba seguro de que no aparecería nunca como el Hijo del Hombre descrito por el profeta Daniel."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "126:3.7",
       "pageReference": "1390.2",
       "sortId": "4.126.003.007",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Pero cuando le llegara la hora de salir al mundo para desarrollar su misión de maestro universal, ¿cómo se llamaría a sí mismo? ¿De qué manera definiría su misión? ¿Por qué nombre lo llamarían las multitudes que acabarían por creer en sus enseñanzas?"
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Pero cuando llegara su hora de presentarse como maestro del mundo, ¿cómo se llamaría a sí mismo?, ¿cómo definiría su misión?, ¿con qué nombre lo llamarían los que creyeran en sus enseñanzas?"
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "126:3.8",
       "pageReference": "1390.3",
       "sortId": "4.126.003.008",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Mientras le daba vueltas y más vueltas a estos problemas en su mente encontró, en la biblioteca de la sinagoga de Nazaret, entre los libros apocalípticos que había estado estudiando, este manuscrito llamado «El libro de Enoc»; y aunque estaba seguro que no había sido escrito por el Enoc de antaño, le resultó muy interesante y lo leyó y releyó muchas veces. Un pasaje en particular le hizo mucha impresión, un pasaje en el cual aparecía este término de «Hijo del Hombre». El autor del llamado libro de Enoc hablaba del Hijo del Hombre, describiendo la obra que habría de hacer en la tierra y explicando que este Hijo del Hombre, antes de descender a esta tierra para salvar a la humanidad, había caminado por los atrios de la gloria celestial junto a su Padre, el Padre de todos; y que le había dado la espalda a la majestad y la gloria para descender a la tierra con el fin de proclamar la salvación a los mortales necesitados. Según Jesús leía estos pasajes (sabiendo muy bien que gran parte del misticismo oriental entremezclado con esas enseñanzas era falaz), sintió en su corazón y reconoció en su mente que, de todas las predicciones mesiánicas de las escrituras hebreas y de todas las teorías acerca del liberador judío, ninguna estaba tan cerca de la verdad como este relato escondido en las páginas del libro de Enoc, sólo parcialmente acreditado; allí mismo y en ese mismo momento decidió pues que adoptaría el nombre de «Hijo del Hombre» como título inaugural de su misión; cosa que efectivamente hizo más adelante al comenzar su ministerio público. Jesús tenía una habilidad infalible para reconocer la verdad, y nunca vacilaba en abrazar la verdad, no importa de cuál fuente pareciera emanar."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Mientras daba vueltas en la cabeza a estos problemas, encontró entre los libros apocalípticos que había estado estudiando en la biblioteca de la sinagoga de Nazaret el manuscrito llamado «libro de Enoc». Aunque estaba seguro que no había sido escrito por el Enoc de la antigüedad, le interesó mucho y lo leyó y releyó varias veces. Le impresionó especialmente un pasaje donde aparecía la expresión «Hijo del Hombre». El autor del llamado libro de Enoc hablaba de este Hijo del Hombre, describía la obra que había de hacer en la tierra y explicaba que, antes de bajar a esta tierra a traer la salvación a la humanidad, este Hijo del Hombre había recorrido las cortes de la gloria celestial con su Padre, el Padre de todos, y que había vuelto la espalda a toda esa gloria y majestad para bajar a la tierra a proclamar la salvación a los mortales desvalidos. A medida que Jesús leía estos pasajes (consciente de la falacia de casi todo el misticismo oriental que se había entremezclado con estas enseñanzas) su corazón respondía y su mente reconocía que, de todas las predicciones mesiánicas recogidas en las escrituras hebreas y de todas las teorías sobre el libertador judío, ninguna estaba tan cerca de la verdad como esta historia escondida en el libro, solo parcialmente acreditado, de Enoc. Entonces fue cuando decidió adoptar «Hijo del Hombre» como su título inaugural, y así lo hizo cuando le llegó el momento de emprender su obra pública. Jesús tenía una capacidad infalible de reconocer la verdad y no dudaba nunca en abrazarla fuera cual fuera su procedencia."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "126:3.9",
       "pageReference": "1390.4",
       "sortId": "4.126.003.009",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Por esta época ya había decidido mucho acerca de su obra futura para el mundo, pero nada dijo de estos asuntos a su madre, que seguía aferrándose a la idea de que él sería el Mesías judío."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Por esta época ya había pensado a fondo y decidido muchas cosas sobre su futuro trabajo para el mundo, pero no dijo nada de esto a su madre, que seguía aferrada a la idea de que él era el Mesías judío."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "126:3.10",
       "pageReference": "1390.5",
       "sortId": "4.126.003.010",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "La gran confusión de la época juvenil de Jesús volvió a surgir en estos momentos. Habiendo definido en cierto modo la naturaleza de su misión en la tierra, «ocuparse de los asuntos de su Padre» —revelar para toda la humanidad la naturaleza amorosa de su Padre— nuevamente se puso a discurrir las muchas declaraciones de las escrituras que se referían a la venida de un libertador nacional, un maestro o un rey judío. ¿A qué acontecimiento se referían estas profecías? ¿Acaso no era él judío? ¿Lo era o no era? ¿Era o no era él de la casa de David? Su madre afirmaba que lo era; su padre había dictaminado que no lo era. Él decidió que no. Pero, ¿habían confundido los profetas la naturaleza y misión del Mesías?"
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Entonces reapareció la gran confusión de sus primeros años. Una vez definida en cierto modo la naturaleza de su misión en la tierra, «ocuparse de los asuntos de su Padre» —mostrar la naturaleza amorosa de su Padre a toda la humanidad— empezó a reflexionar de nuevo sobre las muchas declaraciones de las escrituras referentes a la llegada de un libertador nacional, de un rey o maestro judío. ¿A qué acontecimiento se referían estas profecías? ¿Era él, o no, judío? ¿Era o no era de la casa de David? Su madre insistía en que sí, pero su padre había dictaminado que no. Él decidió que no. ¿No habrían confundido los profetas la naturaleza y la misión del Mesías?"
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "126:3.11",
       "pageReference": "1391.1",
       "sortId": "4.126.003.011",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Después de todo, ¿era acaso posible que su madre tuviera razón? En la mayoría de los casos, cuando habían surgido diferencias de opinión en el pasado, ella había tenido razón. Si es cierto que él sería un nuevo maestro y *no* el Mesías, ¿cómo haría para reconocer al Mesías judío si apareciese éste en Jerusalén durante el tiempo de su misión terrestre? Más aun ¿cuál habría de ser su relación con este Mesías judío? Después de emprender su misión en la vida, ¿cuál habría de ser su relación con su familia, con la comunidad y la religión judías, con el Imperio Romano, con los gentiles y sus religiones? Cada uno de estos problemas importantísimos pasaban por la mente de este joven galileo quien los consideraba seriamente mientras seguía trabajando en el banco de carpintero, ganándose laboriosamente la vida, y ganándola para su madre y otras ocho bocas hambrientas."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "¿Sería posible que al final su madre tuviera razón? En casi todas las diferencias de opinión que habían surgido en el pasado ella había tenido razón. Si él era un nuevo maestro y *no* el Mesías, ¿cómo podría reconocer al Mesías judío si apareciera en Jerusalén durante el tiempo de su misión en la tierra y cuál debería ser su relación con ese Mesías judío? Y cuando se hubiera embarcado en la misión de su vida, ¿cuál debería ser su relación con su familia?, ¿y con la religión y la comunidad judía?, ¿y con el Imperio romano?, ¿y con los gentiles y sus religiones? El joven galileo daba vueltas en la cabeza a todos y cada uno de estos importantísimos problemas y reflexionaba seriamente sobre ellos en el banco de carpintero mientras se ganaba laboriosamente su propia vida, la de su madre y la de otras ocho bocas hambrientas."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "126:3.12",
       "pageReference": "1391.2",
       "sortId": "4.126.003.012",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Antes del fin de este año María vio que los fondos de la familia disminuían; delegó la venta de palomas a Santiago. Compraron una segunda vaca, y con la ayuda de Miriam comenzaron a vender leche a sus vecinos de Nazaret."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Antes de terminar el año María vio disminuir los fondos de la familia y encargó la venta de palomas a Santiago. Luego compraron una segunda vaca y, con la ayuda de Miriam, empezaron a vender leche a sus vecinos de Nazaret."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "126:3.13",
       "pageReference": "1391.3",
       "sortId": "4.126.003.013",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Sus períodos de meditación profundos, sus frecuentes viajes a lo alto de la colina para orar, y las muchas ideas extrañas que Jesús proponía de vez en cuando, alarmaban considerablemente a su madre. A veces ella pensaba que el joven estaba fuera de sí, pero se tranquilizaba al recordar que él era, después de todo, un hijo de promesa y, de alguna manera, diferente de los otros jóvenes."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Los profundos periodos de meditación de Jesús, sus frecuentes subidas a la colina para rezar y las muchas ideas extrañas que solía expresar de vez en cuando alarmaban profundamente a su madre. A veces temía que el muchacho estuviera trastornado, pero se tranquilizaba pensando que al fin y al cabo era un hijo de la promesa y por ello distinto de los demás jóvenes."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "126:3.14",
       "pageReference": "1391.4",
       "sortId": "4.126.003.014",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Decimoquinto Año (Año 9 d. de J.C.)",
-      "markdown": "Pero Jesús estaba aprendiendo a no expresar todos sus pensamientos, a no presentar todas sus ideas al mundo; ni siquiera a su propia madre. A partir de este año, las revelaciones de Jesús acerca de lo que pasaba por su mente fueron reduciéndose cada vez más; es decir, que cada vez hablaba menos de asuntos incomprensibles para una persona corriente, cuya mención pudiera llevar a otros a considerarlo raro, diferente del común de la gente. En apariencia se volvió un ser común y convencional, aunque anhelaba encontrarse con alguien que pudiera entender sus problemas. Deseaba tener un amigo fiel y de confianza, pero sus problemas eran demasiado complejos para la comprensión de los seres humanos que lo rodeaban. La singularidad de su situación especial le obligó a soportar a solas el peso de sus cargas."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El año decimoquinto (9 d. C.)",
+      "markdown": "Jesús por su parte fue aprendiendo a no decir todo lo que pensaba, a no exponer todas sus ideas ante el mundo, ni siquiera ante su propia madre. A partir de ese año fue mostrando cada vez menos lo que pasaba por su cabeza, es decir, hablaba menos de cosas que la gente corriente no podía captar y que podían dar la impresión de que era raro o diferente. Adoptó una apariencia común y convencional, aunque anhelaba encontrarse con alguien que pudiera entender sus problemas. Deseaba tener un amigo fiel en quien confiar, pero sus problemas eran demasiado complejos para la comprensión de sus compañeros humanos. Su situación era tan excepcional que tenía que cargar con ella él solo."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "126:4.0",
       "pageReference": null,
       "sortId": "4.126.004.000",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "126:4.1",
       "pageReference": "1391.5",
       "sortId": "4.126.004.001",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "Al cumplir los quince años, Jesús ya podía ocupar oficialmente el púlpito de la sinagoga los sábados. Muchas veces antes, cuando faltaban oradores, le habían pedido a Jesús que leyese las escrituras, pero ahora había llegado el día en que, según la ley, podía oficiar el servicio. Por consiguiente, el primer sábado después de su decimoquinto cumpleaños el chazán dispuso que Jesús dirigiera los oficios matutinos en la sinagoga. Cuando todos los fieles en Nazaret se hubieron congregado, el joven, haciendo su selección de las escrituras, se levantó y comenzó a leer:"
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "Al cumplir los quince años Jesús ya podía ocupar oficialmente el púlpito de la sinagoga el día del sabbat. Hasta entonces le habían pedido muchas veces que leyera las escrituras cuando no había oradores, pero había llegado el día en que, según la ley, podía dirigir el acto. En vista de eso el jazán decidió que Jesús dirigiría el oficio matutino de la sinagoga el sabbat siguiente a su cumpleaños. Cuando todos los fieles de Nazaret se hubieron congregado, el joven, puesto en pie, leyó estos pasajes de las escrituras elegidos por él:"
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "126:4.2",
       "pageReference": "1391.6",
       "sortId": "4.126.004.002",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«El espíritu del Señor Dios está sobre mí, porque me ungió el Señor; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar la libertad a los cautivos, y a los presos espirituales apertura de la cárcel, a proclamar el año de la buena voluntad de Dios y el día de venganza del Dios nuestro; a consolar a todos los enlutados, a darles belleza en lugar de ceniza, óleo de gozo en lugar de luto, canto de alabanza en vez de espíritu angustiado; y serán llamados árboles de justicia, plantío del Señor, para gloria suya."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«El espíritu del Señor Dios está sobre mí, porque me ha ungido el Señor; me ha enviado a predicar buenas nuevas a los mansos, a vendar a los quebrantados de corazón, a proclamar la libertad de los cautivos y a liberar a los presos espirituales; a proclamar el año del favor de Dios y el día del juicio de nuestro Dios; a consolar a todos los que lloran y darles belleza en vez de cenizas, óleo de gozo en vez de luto, un canto de alabanza en vez de espíritu abatido, para que sean llamados árboles de justicia, el plantío del Señor, para gloria suya."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "126:4.3",
       "pageReference": "1392.1",
       "sortId": "4.126.004.003",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«Buscad lo bueno, y no lo malo, para que viváis, porque así el Señor, el Dios de los ejércitos, estará con vosotros. Aborreced el mal y amad el bien; estableced el juicio en la puerta. Quizá el Señor Dios tendrá piedad del remanente de José."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«Buscad el bien y no el mal para que podáis vivir, y así el Señor, el Dios de los ejércitos, estará con vosotros. Aborreced el mal y amad el bien; estableced el juicio en la puerta. Tal vez el Señor Dios tenga piedad del remanente de José."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "126:4.4",
       "pageReference": "1392.2",
       "sortId": "4.126.004.004",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«Lavaos y limpiaos; quitad la iniquidad de vuestras obras de delante de mis ojos; dejad de hacer lo malo y aprended a hacer el bien; buscad el juicio, restituid al agraviado. Haced justicia al huérfano, amparad a la viuda."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«Lavaos, haceos puros; quitad la maldad de vuestras obras de delante de mis ojos; dejad de hacer el mal y aprended a hacer el bien; buscad la justicia, socorred al oprimido. Defended al que no tiene padre y amparad a la viuda."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "126:4.5",
       "pageReference": "1392.3",
       "sortId": "4.126.004.005",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«¿Con qué me presentaré el Señor, a inclinarme ante el Señor de toda la tierra? ¿Me presentaré ante él con holocaustos, con becerros de un año? ¿Se agradará el Señor de millares de carneros, decenas de millares de ovejas, o con ríos de aceite? ¿Daré mi primogénito por mi rebelión, el fruto de mis entrañas por el pecado de mi alma? ¡No!, porque el Señor nos ha mostrado, oh hombres, lo que es bueno. Y qué pide el Señor de ti: solamente hacer justicia, amar misericordia, y caminar humildemente con tu Dios»."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«¿Con qué me presentaré ante el Señor para inclinarme ante el Señor de toda la tierra? ¿Me presentaré ante él con holocaustos, con becerros de un año? ¿Estará el Señor satisfecho con millares de carneros, decenas de millares de ovejas o ríos de aceite? ¿Daré a mi primogénito por mi transgresión, al fruto de mi cuerpo por el pecado de mi alma? ¡No!, pues el Señor nos ha mostrado, oh hombres, lo que es bueno. ¿Y qué requiere el Señor de vosotros sino que os portéis con justicia, que améis la misericordia y que caminéis humildemente con vuestro Dios?"
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "126:4.6",
       "pageReference": "1392.4",
       "sortId": "4.126.004.006",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«¿A quién, pues, haréis semejante a Dios que está sentado sobre el círculo de la tierra? Levantad en alto vuestros ojos y mirad quien creó todos estos mundos, quien saca y cuenta su ejército, a todos llama por sus nombres. Él hace todas estas cosas por la grandeza de su poder, y porque es poderoso ninguna faltará. Él da esfuerzo al cansado, y multiplica las fuerzas al que no tiene ningunas. No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios. Te esfuerzo y te ayudaré; sí, te sustentaré con la diestra de mi justicia, porque yo soy el Señor tu Dios. Y te sostiene de tu mano derecha, y te dice: no temas, yo te ayudo."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«¿Con quién, pues, compararéis al Dios que se sienta en el círculo de la tierra? Levantad los ojos y contemplad a quien ha creado todos estos mundos, a quien trae a la existencia a sus huestes por multitudes y las llama a todas por su nombre. Él hace todas estas cosas por la grandeza de su poderío, y porque es fuerte en su poder, ninguna fallará. Él da poder al débil y aumenta la fuerza de los que están cansados. No temáis, pues estoy con vosotros; no os consternéis, pues soy vuestro Dios. Os fortaleceré y os ayudaré; sí, os sostendré con la mano derecha de mi rectitud, pues yo soy el Señor vuestro Dios. Y tomaré vuestra mano derecha, y os diré: no temáis, pues yo os ayudaré."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "126:4.7",
       "pageReference": "1392.5",
       "sortId": "4.126.004.007",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "«Y vosotros sois mis testigos, dice el Señor, y mi siervo que yo escogí, para que me conozcáis y creáis en mí, y entendáis que yo soy el Eterno. Yo, sólo yo, soy el Señor, y fuera de mí no hay quien salve»."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "«Y tú eres mi testigo, dice el Señor, y mi siervo a quien he elegido para que todos puedan conocerme y creerme y entender que yo soy el Eterno. Yo, solo yo, soy el Señor, y fuera de mí no hay salvador.»"
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "126:4.8",
       "pageReference": "1392.6",
       "sortId": "4.126.004.008",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "Después de leer así se sentó, y la gente se fue a sus casas discurriendo las palabras que con tanto donaire les había leído. Nunca le habían visto los de su pueblo tan magníficamente solemne; nunca le habían oído leer con una voz tan apremiante y tan sincera; nunca lo habían observado tan decidido y maduro, con tanta autoridad."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "Terminada su lectura se sentó, y la gente volvió a sus casas meditando las palabras que tan bien les había leído. Sus vecinos nunca lo habían visto tan magníficamente solemne, su voz tan seria y tan sincera, su actitud tan madura y decidida, tan llena de autoridad."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "126:4.9",
       "pageReference": "1392.7",
       "sortId": "4.126.004.009",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "El Primer Sermón en la Sinagoga",
-      "markdown": "Ese mismo sábado por la tarde escaló Jesús la colina de Nazaret en compañía de Santiago. Al regresar al hogar Jesús escribió con un carbón sobre dos tablillas los Diez Mandamientos en griego. Luego Marta coloreó y adornó estas tablillas y durante mucho tiempo estuvieron colgadas en la pared sobre el pequeño banco de trabajo de Santiago."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "El primer sermón en la sinagoga",
+      "markdown": "Ese sabbat por la tarde Jesús subió a la colina de Nazaret con Santiago, y a su vuelta a casa escribió con un carboncillo los diez mandamientos en griego sobre dos tablas lisas. Luego Marta coloreó y adornó estas tablas que estuvieron colgadas durante mucho tiempo en la pared sobre el pequeño banco de trabajo de Santiago."
     },
     {
       "type": "section",
@@ -883,8 +883,8 @@
       "standardReferenceId": "126:5.0",
       "pageReference": null,
       "sortId": "4.126.005.000",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
       "markdown": null
     },
     {
@@ -901,9 +901,9 @@
       "standardReferenceId": "126:5.1",
       "pageReference": "1392.8",
       "sortId": "4.126.005.001",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Paulatinamente, Jesús y su familia retornaron a la vida simple de sus primeros años. Sus ropas e incluso sus alimentos se simplificaron. Tenían leche, mantequilla y queso en abundancia, y durante la estación apropiada disfrutaban de los frutos de su huerto; pero cada mes que pasaba los obligaba a una mayor frugalidad. Su desayuno era muy simple, pues guardaban los mejores alimentos para la cena. Sin embargo, entre estos judíos la falta de riqueza no implicaba inferioridad social."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Jesús y su familia fueron volviendo a la vida simple de sus primeros años. Su ropa e incluso su comida se hicieron más sencillas. Tenían leche, mantequilla y queso en abundancia y consumían los productos de su huerto durante la temporada, pero su vida se iba haciendo más frugal cada mes que pasaba. Su desayuno era muy básico y guardaban sus mejores alimentos para la cena. Sin embargo, la falta de riqueza no implicaba inferioridad social entre estos judíos."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "126:5.2",
       "pageReference": "1392.9",
       "sortId": "4.126.005.002",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Ya este joven había llegado a tener una comprensión casi completa de cómo vivían los hombres de su tiempo. Y cuán bien entendía él la vida del hogar, del campo y del taller de trabajo quedó claramente demostrado en sus enseñanzas posteriores, que tan pletóricamente revelan su íntimo contacto con todas las fases de la experiencia humana."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "A pesar de su juventud, Jesús había llegado a comprender casi por completo cómo vivían los hombres de su tiempo. Esta profunda comprensión de la vida en casa, en el campo y en el taller se manifestaría en sus enseñanzas posteriores, que tan claramente reflejan su estrecho contacto con todos los aspectos de la experiencia humana."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "126:5.3",
       "pageReference": "1392.10",
       "sortId": "4.126.005.003",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "El chazán de Nazaret seguía aferrado a la creencia de que Jesús había de convertirse en un gran maestro, probablemente en sucesor del famoso Gamaliel en Jerusalén."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "El jazán de Nazaret seguía aferrado a su convicción de que Jesús estaba destinado a convertirse en un gran maestro, probablemente en el sucesor del famoso Gamaliel de Jerusalén."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "126:5.4",
       "pageReference": "1393.1",
       "sortId": "4.126.005.004",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Aparentemente todos los planes de Jesús para una carrera se habían desbaratado. Tal como estaban las cosas, el futuro no parecía sonreírle. Pero no vaciló ni se desalentó, sino que vivía, día tras día, desempeñando bien su deber presente y cumpliendo fielmente con las obligaciones *inmediatas* de su situación en el mundo. La vida de Jesús es el consuelo sempiterno de todos los idealistas desilusionados."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Todos los planes de Jesús para su carrera parecían haberse truncado. Tal como estaban las cosas, el futuro no se presentaba brillante pero no desfalleció ni se desanimó. Siguió adelante haciendo bien su deber de cada día y cumpliendo fielmente las responsabilidades *inmediatas* de su situación en la vida. La vida de Jesús es el eterno consuelo de todos los idealistas decepcionados."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "126:5.5",
       "pageReference": "1393.2",
       "sortId": "4.126.005.005",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "El pago de los carpinteros jornaleros iba disminuyendo lentamente. A fines de este año Jesús podía ganar, trabajando de sol a sol, sólo el equivalente de unos veinticinco centavos de dólar diarios. El año siguiente les resultó difícil pagar los impuestos civiles, sin hablar de la contribución a la sinagoga y el impuesto de medio siclo del templo. El recaudador de impuestos intentó sacarle aun más dinero a Jesús durante este año, llegando hasta amenazar con llevarse su arpa."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "La paga de un carpintero jornalero común se iba reduciendo poco a poco. Al final de ese año Jesús solo podía ganar el equivalente de unos veinticinco céntimos al día trabajando de sol a sol. El año siguiente tuvieron dificultades para pagar los impuestos civiles, por no hablar de las contribuciones a la sinagoga y el impuesto de medio siclo para el templo. Ese año el recaudador de impuestos intentó exprimir aún más a Jesús y hasta lo amenazó con llevarse su arpa."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "126:5.6",
       "pageReference": "1393.3",
       "sortId": "4.126.005.006",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Temiendo que el ejemplar de las escrituras en griego pudiera ser descubierto y confiscado por los recaudadores de impuestos, Jesús lo obsequió a la biblioteca de la sinagoga de Nazaret en ocasión de su decimoquinto cumpleaños; fue ésta su ofrenda de madurez al Señor."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Ante el peligro de que el ejemplar de las escrituras en griego pudiera ser descubierto y confiscado por los recaudadores de impuestos, Jesús lo entregó a la biblioteca de la sinagoga de Nazaret como ofrenda de madurez al Señor el día que cumplió quince años."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "126:5.7",
       "pageReference": "1393.4",
       "sortId": "4.126.005.007",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "El peor momento de su decimoquinto año de vida lo pasó Jesús en Séforis cuando se encontraba allí para escuchar el veredicto de Herodes, ante quien había apelado para resolver una disputa sobre el pago adeudado a José en el momento de su muerte accidental. Jesús y María esperaban recibir una suma considerable de dinero, pero el tesorero de Séforis les había ofrecido una cantidad ínfima. Los hermanos de José resolvieron pues apelar ante el mismo Herodes; por eso se encontraba ahora Jesús en el palacio, de pie ante Herodes, y le escuchó decretar que nada se le debía a su padre en el momento de su muerte. Esta decisión tan injusta bastó para que Jesús no volviera a confiar nunca más en Herodes Antipas; no es sorprendente que en una ocasión se refiriera a Herodes como «ese zorro»."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Jesús se llevó el gran disgusto de sus quince años cuando fue a Séforis para escuchar el veredicto de Herodes sobre la apelación presentada ante él en el contencioso sobre la cantidad de dinero adeudado a José en el momento de su muerte accidental. Jesús y María esperaban recibir una suma considerable, mientras que el tesorero de Séforis les había ofrecido una cantidad irrisoria. Los hermanos de José habían presentado una apelación ante el propio Herodes, y ahora Jesús se encontraba en el palacio oyendo a Herodes decretar que a su padre no se le debía nada en el momento de su muerte. Esta decisión tan injusta hizo que Jesús no volviera a confiar nunca más en Herodes Antipas, y no es de extrañar que una vez se refiriera a él como «ese zorro»."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "126:5.8",
       "pageReference": "1393.5",
       "sortId": "4.126.005.008",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "El duro trabajo de Jesús en el banco de carpintero durante este año y los subsiguientes, le impidió departir con los viajeros de las caravanas. Ya un tío suyo se había hecho cargo de la tienda de provisiones de la familia, y Jesús trabajaba en el taller de la casa para poder estar cerca de su familia y así ayudar a María en cuanto a los niños. Por aquel entonces, empezó a enviar a Santiago a la parada de las caravanas donde alimentaban a los camellos para obtener noticias sobre los acontecimientos mundiales; de este modo intentaba Jesús mantenerse al día."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Su continuo trabajo en el banco de carpintero durante ese año y los siguientes privó a Jesús de la oportunidad de mezclarse con los viajeros de las caravanas. Su tío ya se había hecho cargo de la tienda familiar de suministros, y Jesús trabajaba todo el tiempo en el taller de casa para estar cerca de María y poder ayudarla con la familia. Hacia esa época empezó a mandar a Santiago al solar de los camellos para recoger información sobre los acontecimientos del mundo; intentaba mantenerse así al corriente de la actualidad."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "126:5.9",
       "pageReference": "1393.6",
       "sortId": "4.126.005.009",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Según se adentraba en la madurez, hubo de pasar por los conflictos y confusiones típicos de todo joven promedio de todas las eras humanas anteriores y subsecuentes. Y la dura disciplina inherente a la obligación de mantener a su familia fue una salvaguarda segura contra el que haya tenido tiempo para la meditación ociosa o la complacencia en tendencias místicas."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "A medida que avanzaba hacia la edad adulta, pasó por todos los conflictos y todas las confusiones que siempre han sufrido y sufrirán los jóvenes de todas las épocas anteriores y posteriores. La rigurosa experiencia de tener que mantener a su familia fue una salvaguardia segura contra el exceso de tiempo para la meditación ociosa o la complacencia en tendencias místicas."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "126:5.10",
       "pageReference": "1393.7",
       "sortId": "4.126.005.010",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Éste fue el año en que Jesús arrendó una parcela considerable de terreno justo al norte de la casa, para que la familia tuviera su huerto. Se subdividió el terreno para que cada uno de los hermanos mayores tuviera su propia parcela, y compitieron entre sí al dedicarse con entusiasmo a las faenas agrícolas. Durante la temporada de cultivo de las legumbres, Jesús, su hermano mayor, pasaba algún tiempo con ellos todos los días en el huerto. Al trabajar con sus hermanos menores en el huerto, Jesús muchas veces abrigó el deseo de vivir con su familia en el campo, en una granja, para disfrutar de la libertad de una vida sin trabas. Pero no estaban en el campo, y Jesús, siendo tan un joven profundamente práctico como un idealista, atacó vigorosa e inteligentemente su problema tal como lo encontró, haciendo todo lo que estaba a su alcance para que él y su familia se adaptaran a la realidad de su situación y tratando de satisfacer en el mayor grado posible sus aspiraciones individuales y colectivas."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Ese año Jesús alquiló una gran parcela justo al norte de su casa y la dividió como huerto familiar. Cada uno de los hermanos mayores tenía su huerto individual, y se creó una intensa competencia agrícola entre ellos. Durante la temporada de cultivo de las hortalizas, su hermano mayor pasaba todos los días un rato con ellos en el huerto. Mientras Jesús trabajaba con sus hermanos y hermanas en el huerto, soñó muchas veces con establecerse todos en una granja en el campo donde pudieran disfrutar de la libertad y la tranquilidad de una vida sin trabas. Pero el hecho real era que no vivían en el campo, y Jesús, que era tan práctico como idealista, afrontó con inteligencia y energía el problema tal como se presentaba ante él. Hizo todo lo que estuvo en su mano por adaptarse y adaptar a su familia a las realidades de su situación, al tiempo que intentaba satisfacer en la medida de lo posible sus deseos individuales y colectivos."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "126:5.11",
       "pageReference": "1393.8",
       "sortId": "4.126.005.011",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "En cierto momento abrigó Jesús la vaga esperanza de poder comprar una pequeña granja con el dinero que le debían a su padre por su trabajo en la construcción del palacio de Herodes, siempre y cuando pudieran recaudar esa suma considerable de dinero. Había pensado seriamente en establecer a su familia en el campo. Pero al negarse Herodes a pagarles el dinero que se le debía a José, tuvieron que renunciar a la ambición de tener una casa en el campo. Tal como estaban las cosas, se las ingeniaban para disfrutar de muchas de las experiencias de la vida campestre, puesto que ahora tenían tres vacas, cuatro ovejas, una cría de pollos, un asno y un perro, además de las palomas. Aun los más pequeños tenían sus obligaciones regulares dentro del plan de administración bien organizado que caracterizaba la vida doméstica de esta familia nazarena."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "En un momento dado tuvo la leve esperanza de poder reunir los recursos suficientes para poder comprar una pequeña granja, siempre y cuando cobraran la considerable suma de dinero debida a su padre por su trabajo en el palacio de Herodes. Jesús había considerado muy seriamente el plan de trasladar a su familia al campo, pero cuando Herodes se negó a pagarles nada del dinero que se debía a José, tuvieron que renunciar a su ilusión de poseer una casa en el campo. A cambio de eso se las ingeniaron para disfrutar de muchas de las experiencias de una granja, ya que tenían en ese momento tres vacas, cuatro ovejas, un montón de polluelos, un asno y un perro, además de las palomas. Hasta los más pequeños tenían sus tareas regulares en el plan de gestión bien organizado que caracterizaba la vida hogareña de esta familia de Nazaret."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "126:5.12",
       "pageReference": "1394.1",
       "sortId": "4.126.005.012",
-      "paperTitle": "Los Dos Años Cruciales",
-      "sectionTitle": "La Lucha Financiera",
-      "markdown": "Al concluir su decimoquinto año concluyó Jesús la peligrosa y difícil travesía de ese período intermedio de la vida humana, ese período de transición entre la despreocupación y complacencia de la niñez y la noción del advenimiento de la edad adulta con su carga de responsabilidades y oportunidades para la adquisición de la experiencia avanzada en el desarrollo de un carácter noble. Ya había concluído el período de crecimiento mental y físico; ahora comenzaría la verdadera carrera de este joven nazareno."
+      "paperTitle": "Los dos años cruciales",
+      "sectionTitle": "Los apuros económicos",
+      "markdown": "Al final de su decimoquinto año Jesús había terminado de atravesar el difícil y peligroso periodo de la existencia humana que media entre los años más despreocupados de la niñez y la consciencia del advenimiento de la edad adulta, con su carga de responsabilidades y sus oportunidades de progresar en el desarrollo de un carácter noble. El periodo de crecimiento de la mente y el cuerpo ya había concluido y empezaba ahora la carrera real del joven de Nazaret."
     }
   ]
 }

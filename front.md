@@ -1,4 +1,4 @@
-<hr /><p align="center">&#60;&#60;&#160; | <a href="parts.md" title="Las Partes del Libro">Las Partes del Libro</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160; | <a href="parts.md" title="Las partes del libro">Las partes del libro</a>&#160;&#62;&#62;</p><hr />
 
 <h1 align="center"><a name="FrontMatter"></a>El libro de Urantia</h1>
 <p align="center"><img src="Urantia.svg" title="{Book.MetaData.BookTitle}" width="180" height="180" /></p>
@@ -6,13 +6,9 @@
 <p align="center">&#174; Marcas registradas de la Fundación Urantia<br />
 &#174; Registered Marks of Urantia Foundation</p>
 <p align="center"><strong>Traducción al español<br />
-Spanish Translation (Latin American Edition), 2024 Release</strong></p>
-ISBN: 978-1883395-049 (eBook)<br />
-ISBN: 978-1883395-025 (tapa rústica)<br />
-ISBN: 978-1883395-216 (tapa dura)
-
-Copyright &#169; 1993 Fundación Urantia<br />
-Copyright &#169; 1993 Urantia Foundation<br />
+Spanish Translation (International Edition), 2024 Release</strong></p>
+Copyright &#169; 2021 Fundación Urantia<br />
+Copyright &#169; 2021 Urantia Foundation<br />
 Diseño del libro y la portada &#169; 2015 Fundación Urantia. Reservados todos los derechos.
 
 Urantia Foundation<br />
@@ -20,7 +16,7 @@ Urantia Foundation<br />
 Chicago, IL 60614, USA<br />
 Teléfono: +1 773 525 3319<br />
 Email: <a href="mailto:urantia@urantia.org" title="Mail to urantia@urantia.org">urantia@urantia.org</a><br />
-Sitio web: <a href="https://www.urantia.org/es" title="urantia.org" target="_blank">urantia.org</a>
+Sitio web: <a href="https://www.urantia.org/es-int" title="urantia.org" target="_blank">urantia.org</a>
 
 El símbolo de los círculos concéntricos certifica que esta edición está autorizada por la Fundación Urantia.
 
@@ -55,7 +51,6 @@ Turco – <em>Urantia’nın Kitabı</em>
 
 Para obtener más información sobre dónde se vende <em>El libro de Urantia,</em>, visite: <a href="https://www.urantia.org/es/el-libro-de-urantia/comprar" target="_blank">www.urantia.org/es/el-libro-de-urantia/comprar</a>.
 
-Descarga de una grabación gratuita de <em>El libro de Urantia</em> en: <a href="https://www.urantia.org/es/el-libro-de-urantia/escuchar" target="_blank">urantia.org/es/el-libro-de-urantia/escuchar</a>.<br />
 Cursos en línea gratuitos en: <a href="https://new.ubis.urantia.org/moodle/?lang=es" target="_blank">ubis.urantia.org</a>.<br />
 Para encontrar grupos de estudio de <em>El libro de Urantia</em>: <a href="https://www.urantiastudygroup.org/es" target="_blank">urantiastudygroup.org</a>.
 
@@ -67,7 +62,7 @@ Se ha puesto gran cuidado en esta traducción de <em>El libro de Urantia.</em> S
 
 La Fundación Urantia no ofrece ninguna interpretación oficial de las enseñanzas de <em>El libro de Urantia.</em> La interpretación del texto se deja a cada lector.
 
-Número de identificación del texto: UF-SPA-419-1993-1.9<br />
+Número de identificación del texto: UF-SPA-001-2021-1.2<br />
 Sello de versión: UF-202412132348
 
 <p align="center">«Urantia», «Urantian», y el <img src="./Urantia.svg" title="El símbolo de los círculos concéntricos" class="fmico" /> son marcas de servicio y marcas de afiliación colectiva registradas de la Fundación Urantia.</p>
