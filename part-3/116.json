@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/116.md",
-  "source_sha256": "ed030f70ea4ec3538271c96f6296f1b464ac491e870e1cbf685b3a5ab6753529",
+  "source_sha256": "b2299c84e25fc7b201edb896eb8bec422fd5562591db6e83d41cb355238096b3",
   "rows": [
     {
       "type": "paper",
@@ -57,7 +57,7 @@
       "sortId": "3.116.000.001",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": null,
-      "markdown": "SI EL HOMBRE reconociera que sus Creadores —sus supervisores inmediatos— aunque divinos son también finitos, y que el Dios del tiempo y del espacio es una Deidad evolutiva y no absoluta, las discrepancias de las desigualdades temporales cesarían de ser profundas paradojas religiosas. La fe religiosa ya no se prostituiría promoviendo la satisfacción vanidosa social de los afortunados y al mismo tiempo incitando tan sólo a la resignación estoica a las víctimas desafortunadas de las privaciones sociales."
+      "markdown": "SI EL HOMBRE reconociera que sus Creadores —sus supervisores directos— aunque divinos son también finitos y que el Dios del tiempo y el espacio no es una Deidad absoluta sino evolutiva, las incoherencias de las desigualdades temporales dejarían de ser profundas paradojas religiosas. La fe religiosa dejaría de prostituirse como promotora de la autocomplacencia social de los afortunados y de la resignación estoica de las desafortunadas víctimas de la carencia social."
     },
     {
       "type": "paragraph",
@@ -75,7 +75,7 @@
       "sortId": "3.116.000.002",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": null,
-      "markdown": "Al visualizar las esferas exquisitamente perfectas de Havona, es tanto razonable como lógico creer que fueron creadas por un Creador perfecto, infinito y absoluto. Pero esa misma razón lógica obligaría a todo ser honesto, al visualizar la confusión, las imperfecciones e injusticias de Urantia, a concluir que vuestro mundo fue hecho y gestionado por Creadores que eran subabsolutos, preinfinitos y no perfectos."
+      "markdown": "Al contemplar la perfección exquisita de las esferas de Havona, es lógico y razonable pensar que las hizo un Creador perfecto, infinito y absoluto. Pero por esta misma razón y esta misma lógica, todo ser honesto se vería obligado a concluir ante la confusión, las imperfecciones y las injusticias de Urantia que vuestro mundo ha sido hecho y gestionado por Creadores subabsolutos, preinfinitos y no perfectos."
     },
     {
       "type": "paragraph",
@@ -93,7 +93,7 @@
       "sortId": "3.116.000.003",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": null,
-      "markdown": "El crecimiento experiencial implica una asociación criatura- Creador —Dios y el hombre en asociación. El crecimiento es la marca de la deidad experiencial: Havona no creció; Havona es y siempre fue; es existencial como los Dioses eternos que están en su fuente. Pero el crecimiento caracteriza al gran universo."
+      "markdown": "El crecimiento experiencial implica una asociación del Creador con la criatura, la asociación de Dios con el hombre. El crecimiento es la marca distintiva de la Deidad experiencial, por eso Havona no creció. Havona es y siempre ha sido, es existencial como los Dioses sempiternos que son su fuente. En cambio el crecimiento caracteriza al gran universo."
     },
     {
       "type": "paragraph",
@@ -111,7 +111,7 @@
       "sortId": "3.116.000.004",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": null,
-      "markdown": "El Supremo Todopoderoso es una Deidad viva y evolutiva de poder y personalidad. Su dominio actual, el gran universo, es también un reino en crecimiento de poder y personalidad. Su destino es la perfección, pero su experiencia presente comprende los elementos del crecimiento y del estado incompleto."
+      "markdown": "El Supremo Todopoderoso es una Deidad viva y evolutiva de poder y de personalidad. Su dominio presente, el gran universo, es también un ámbito de poder y de personalidad que crece. Su destino es la perfección, pero su experiencia presente contiene elementos en fase de crecimiento e incompletos."
     },
     {
       "type": "paragraph",
@@ -129,7 +129,7 @@
       "sortId": "3.116.000.005",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": null,
-      "markdown": "El Ser Supremo funciona principalmente en el universo central como una personalidad espiritual; secundariamente en el gran universo como Dios el Todopoderoso, una personalidad de poder. La función terciaria del Supremo en el universo maestro es ahora latente: existe tan sólo como un potencial mental desconocido. Nadie sabe qué divulgará precisamente este tercer desarrollo del Ser Supremo. Algunos creen que, cuando se establezcan los universos en luz y vida, el Supremo se tornará funcional desde Uversa como el soberano todopoderoso y experiencial del gran universo expandiendo al mismo tiempo su poder como el supertodopoderoso de los universos exteriores. Otros especulan que la tercera etapa de Supremacía comprenderá el tercer nivel de la manifestación de la Deidad. Pero nadie de entre nosotros lo sabe verdaderamente."
+      "markdown": "El Ser Supremo actúa primariamente en el universo central como una personalidad de espíritu y secundariamente en el gran universo como Dios Todopoderoso, una personalidad de poder. La función terciaria del Supremo en el universo maestro está ahora latente y existe solo como un potencial de mente desconocido. Nadie sabe exactamente qué desvelará este tercer desarrollo del Ser Supremo. Algunos creen que cuando los superuniversos se asienten en luz y vida, el Supremo actuará desde Uversa como soberano todopoderoso y experiencial del gran universo, al tiempo que ampliará su poder como el supertodopoderoso de los universos exteriores. Otros especulan que la tercera etapa de la Supremacía supondrá la aparición del tercer nivel de manifestación de la Deidad. Pero en realidad ninguno de nosotros lo sabe."
     },
     {
       "type": "section",
@@ -146,7 +146,7 @@
       "pageReference": null,
       "sortId": "3.116.001.000",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
+      "sectionTitle": "La mente Suprema",
       "markdown": null
     },
     {
@@ -164,8 +164,8 @@
       "pageReference": "1268.6",
       "sortId": "3.116.001.001",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
-      "markdown": "La experiencia de toda personalidad de criatura en evolución es una fase de la experiencia del Supremo Todopoderoso. La subyugación inteligente de todos los segmentos físicos de los superuniversos es una parte del control creciente del Supremo Todopoderoso. La síntesis creadora del poder y la personalidad es una parte del impulso creador de la Mente Suprema y es la esencia misma del crecimiento evolucionario de la unidad en el Ser Supremo."
+      "sectionTitle": "La mente Suprema",
+      "markdown": "La experiencia de la personalidad de cada criatura que evoluciona es un aspecto de la experiencia del Supremo Todopoderoso. La subyugación inteligente de cada segmento físico de los superuniversos forma parte del control creciente del Supremo Todopoderoso. La síntesis creativa del poder y la personalidad forma parte del impulso creativo de la Mente Suprema y es la esencia misma del crecimiento evolutivo de la unidad en el Ser Supremo."
     },
     {
       "type": "paragraph",
@@ -182,8 +182,8 @@
       "pageReference": "1269.1",
       "sortId": "3.116.001.002",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
-      "markdown": "La unión de los atributos del poder y la personalidad de la Supremacía es la función de la Mente Suprema; y la evolución completada del Supremo Todopoderoso dará como resultado una Deidad unificada y personal —no una asociación vagamente coordinada de atributos divinos. Desde una perspectiva más amplia, no habrá Todopoderoso aparte del Supremo, no habrá Supremo aparte del Todopoderoso."
+      "sectionTitle": "La mente Suprema",
+      "markdown": "La unión de los atributos de poder y de personalidad de la Supremacía es función de la Mente Suprema. La evolución completada del Supremo Todopoderoso dará como resultado una Deidad unificada y personal, no una asociación de atributos divinos vagamente coordinados. Desde una perspectiva más amplia, no habrá ningún Todopoderoso aparte del Supremo ni ningún Supremo aparte del Todopoderoso."
     },
     {
       "type": "paragraph",
@@ -200,8 +200,8 @@
       "pageReference": "1269.2",
       "sortId": "3.116.001.003",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
-      "markdown": "A través de las edades evolucionarias el potencial de poder físico del Supremo está investido en los Siete Directores Supremos del Poder, y el potencial mental descansa en los Siete Espíritus Rectores. La Mente Infinita es la función del Espíritu Infinito; la mente cósmica, el ministerio de los Siete Espíritus Rectores; la Mente Suprema está en proceso de actualizar en la coordinación del gran universo y en la asociación funcional con la revelación y alcance de Dios el Séptuple."
+      "sectionTitle": "La mente Suprema",
+      "markdown": "A lo largo de todas las edades evolutivas el potencial de poder físico del Supremo está depositado en los siete Directores Supremos del Poder y su potencial de mente recae en los siete Espíritus Maestros. La Mente Infinita es función del Espíritu Infinito. La mente cósmica es el ministerio de los siete Espíritus Maestros. La Mente Suprema está en proceso de actualización en la coordinación del gran universo y en asociación funcional con la revelación y el logro de Dios Séptuplo."
     },
     {
       "type": "paragraph",
@@ -218,8 +218,8 @@
       "pageReference": "1269.3",
       "sortId": "3.116.001.004",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
-      "markdown": "La mente espacio-temporal, la mente cósmica, funciona diferentemente en los siete superuniversos, pero está coordinada por alguna técnica asociativa desconocida en el Ser Supremo. El supercontrol Todopoderoso del gran universo no es exclusivamente físico y espiritual. En los siete superuniversos es principalmente material y espiritual, pero también existen fenómenos del Supremo que son tanto intelectuales como espirituales."
+      "sectionTitle": "La mente Suprema",
+      "markdown": "La mente del espacio-tiempo, la mente cósmica, funciona de manera diferente en los siete superuniversos, pero está coordinada en el Ser Supremo mediante alguna técnica asociativa desconocida. El sobrecontrol del Todopoderoso sobre el gran universo no es exclusivamente físico y espiritual. En los siete superuniversos es principalmente material y espiritual, pero también hay fenómenos del Supremo que son a la vez intelectuales y espirituales."
     },
     {
       "type": "paragraph",
@@ -236,8 +236,8 @@
       "pageReference": "1269.4",
       "sortId": "3.116.001.005",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Mente Suprema",
-      "markdown": "En realidad sabemos menos de la mente de la Supremacía que de otros aspectos de esta Deidad en evolución. Es indudablemente activa en todo el gran universo, y se cree que tiene un destino potencial de función en el universo maestro que es de amplio alcance. Pero esto sí sabemos: aunque el físico pueda conseguir un crecimiento completo, y mientras el espíritu pueda alcanzar la perfección de desarrollo, la mente no cesa jamás de progresar —es la técnica experiencial del progreso sin fin. El Supremo es una Deidad experiencial y por lo tanto no alcanza jamás el fin del logro mental."
+      "sectionTitle": "La mente Suprema",
+      "markdown": "En realidad sabemos menos sobre la mente de la Supremacía que sobre cualquier otro aspecto de esta Deidad evolutiva. Es incuestionable que su mente está activa en todo el gran universo y se cree que está potencialmente destinada a ejercer funciones de gran envergadura en el universo maestro. En cualquier caso, podemos afirmar lo siguiente: mientras que lo físico podría alcanzar un crecimiento completo y el espíritu podría llegar a la perfección de su desarrollo, la mente no deja nunca de progresar. Es la técnica experiencial del progreso sin fin. El Supremo es una Deidad experiencial y por lo tanto nunca consumará el logro de la mente."
     },
     {
       "type": "section",
@@ -254,7 +254,7 @@
       "pageReference": null,
       "sortId": "3.116.002.000",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": null
     },
     {
@@ -272,8 +272,8 @@
       "pageReference": "1269.5",
       "sortId": "3.116.002.001",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "La aparición de la presencia de poder universal del Todopoderoso es concomitante con la aparición en el escenario de acción cósmica de los altos creadores y controladores de los superuniversos evolucionarios."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "La aparición de la presencia de poder del Todopoderoso en el universo es concomitante con la aparición de los altos creadores y controladores de los superuniversos evolutivos en el escenario de la acción cósmica."
     },
     {
       "type": "paragraph",
@@ -290,8 +290,8 @@
       "pageReference": "1269.6",
       "sortId": "3.116.002.002",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "Dios el Supremo deriva sus atributos espirituales y los de personalidad de la Trinidad del Paraíso, pero está actualizándose en poder en los hechos de los Hijos Creadores, los Ancianos de los Días y los Espíritus Rectores, cuyas acciones colectivas son la fuente de su poder creciente como soberano todopoderoso para los siete superuniversos y en ellos."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "Dios Supremo obtiene de la Trinidad del Paraíso sus atributos de espíritu y de personalidad, pero se está actualizando en poder en los hechos de los Hijos Creadores, de los Ancianos de los Días y de los Espíritus Maestros, cuyos actos colectivos son la fuente de su poder creciente como soberano todopoderoso de y en los siete superuniversos."
     },
     {
       "type": "paragraph",
@@ -308,8 +308,8 @@
       "pageReference": "1269.7",
       "sortId": "3.116.002.003",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "La Deidad No Cualificada del Paraíso es incomprensible para las criaturas evolutivas del tiempo y del espacio. La eternidad y la infinidad connotan un nivel de realidad de deidad que las criaturas espacio-temporales no pueden comprender. La infinidad de la deidad y la absolutez de la soberanía son inherentes a la Trinidad del Paraíso, y la Trinidad es una realidad que yace un tanto más allá de la comprensión del hombre mortal. Las criaturas espacio-temporales tienen que tener orígenes, relatividades y destinos para captar las relaciones universales y comprender los valores significativos de la divinidad. Por lo tanto la Deidad del Paraíso atenúa y de otra manera cualifica las personalizaciones extraparadisiacas de la divinidad, trayendo así a la existencia los Creadores Supremos y sus asociados, que por siempre llevan la luz de la vida cada vez más allá desde su fuente en el Paraíso hasta que encuentra su expresión más distante y bella en las vidas terrestres de los Hijos autootorgadores en los mundos evolucionarios."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "La Deidad no cualificada del Paraíso es incomprensible para las criaturas en vías de evolución del tiempo y el espacio. La eternidad y la infinitud conllevan un nivel de realidad de deidad que las criaturas del espacio-tiempo no pueden comprender. La infinitud de deidad y la absolutidad de soberanía son inherentes a la Trinidad del Paraíso, y la Trinidad es una realidad que está situada algo más allá del entendimiento del hombre mortal. Las criaturas del espacio-tiempo deben tener orígenes, relatividades y destinos para poder captar las relaciones del universo y entender los valores significados de la divinidad. Por lo tanto, la Deidad del Paraíso atenúa y limita de otros modos las personalizaciones extraparadisiacas de la divinidad y trae así a la existencia a los Creadores Supremos y sus asociados, que llevan por siempre la luz de la vida cada vez más lejos de su fuente paradisiaca hasta que encuentra su expresión más lejana y más hermosa en las vidas terrenales de los Hijos de otorgamiento de los mundos evolutivos."
     },
     {
       "type": "paragraph",
@@ -326,8 +326,8 @@
       "pageReference": "1270.1",
       "sortId": "3.116.002.004",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "Y éste es el origen de Dios el Séptuple, cuyos sucesivos niveles el hombre mortal los encuentra en el orden siguiente:"
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "Este es el origen de Dios Séptuplo y sus siete niveles sucesivos, con los que el hombre mortal se encuentra en el siguiente orden:"
     },
     {
       "type": "paragraph",
@@ -344,7 +344,7 @@
       "pageReference": "1270.2",
       "sortId": "3.116.002.005",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "1. Los Hijos Creadores (y los Espíritus Creativos)."
     },
     {
@@ -362,7 +362,7 @@
       "pageReference": "1270.3",
       "sortId": "3.116.002.006",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "2. Los Ancianos de los Días."
     },
     {
@@ -380,8 +380,8 @@
       "pageReference": "1270.4",
       "sortId": "3.116.002.007",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "3. Los Siete Espíritus Rectores."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "3. Los siete Espíritus Maestros."
     },
     {
       "type": "paragraph",
@@ -398,7 +398,7 @@
       "pageReference": "1270.5",
       "sortId": "3.116.002.008",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "4. El Ser Supremo."
     },
     {
@@ -416,7 +416,7 @@
       "pageReference": "1270.6",
       "sortId": "3.116.002.009",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "5. El Actor Conjunto."
     },
     {
@@ -434,7 +434,7 @@
       "pageReference": "1270.7",
       "sortId": "3.116.002.010",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "6. El Hijo Eterno."
     },
     {
@@ -452,7 +452,7 @@
       "pageReference": "1270.8",
       "sortId": "3.116.002.011",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
       "markdown": "7. El Padre Universal."
     },
     {
@@ -470,8 +470,8 @@
       "pageReference": "1270.9",
       "sortId": "3.116.002.012",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "Los primeros tres niveles son los Creadores Supremos; los últimos tres niveles son las Deidades del Paraíso. El Supremo interviene constantemente como personalización espiritual experiencial de la Trinidad del Paraíso y como foco experiencial del poder evolucionario todopoderoso de los hijos creadores de las Deidades del Paraíso. El Ser Supremo es la revelación máxima de la Deidad a los siete superuniversos y a la presente edad del universo."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "Los tres primeros niveles son los Creadores Supremos, los tres últimos son las Deidades del Paraíso. El Supremo se interpone siempre como personalización experiencial de espíritu de la Trinidad del Paraíso y como foco experiencial del poder evolutivo todopoderoso de los hijos creadores de las Deidades del Paraíso. El Ser Supremo es la máxima revelación de la Deidad a los siete superuniversos para la presente edad del universo."
     },
     {
       "type": "paragraph",
@@ -488,8 +488,8 @@
       "pageReference": "1270.10",
       "sortId": "3.116.002.013",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "Mediante la técnica de la lógica mortal se podía deducir que la reunificación experiencial de los actos colectivos de los primeros tres niveles de Dios el Séptuple, podrían equivaler al nivel de la Deidad del Paraíso, pero esto no es el caso. La Deidad del Paraíso es Deidad *existencial.* Los Creadores Supremos, en su divina unidad de poder y personalidad, son constitutivos y expresivos de un nuevo potencial de poder de Deidad *experiencial.* Y este potencial de poder de origen experiencial encuentra unión inevitable e inescapable con la Deidad experiencial de origen Trinitario: el Ser Supremo."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "La lógica de los mortales podría llevar a inferir que la reunificación experiencial de los actos colectivos de los tres primeros niveles de Dios Séptuplo equivale al nivel de la Deidad del Paraíso, pero no es así. La Deidad del Paraíso es una Deidad *existencial*. Los Creadores Supremos, en su unidad divina de poder y de personalidad, constituyen y expresan un nuevo potencial de poder de la Deidad *experiencial*. Y este potencial de poder de origen experiencial se encuentra unido de forma inevitable e ineludible a la Deidad experiencial originada en la Trinidad: el Ser Supremo."
     },
     {
       "type": "paragraph",
@@ -506,8 +506,8 @@
       "pageReference": "1270.11",
       "sortId": "3.116.002.014",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y Dios el Séptuple",
-      "markdown": "Dios el Supremo no es la Trinidad del Paraíso, tampoco es él ninguno o todo de esos Creadores de los superuniversos cuyas actividades funcionales efectivamente sintetizan su poder todopoderoso en evolución. Dios el Supremo, aunque tiene su origen en la Trinidad, se manifiesta a las criaturas evolucionarias como una personalidad de poder sólo a través de las funciones coordinadas de los primeros tres niveles de Dios el Séptuple. El Supremo Todopoderoso ahora se factualiza en el tiempo y en el espacio a través de las actividades de las Personalidades Creadoras Supremas, así como en la eternidad el Actor Conjunto destelló en ser por la voluntad del Padre Universal y del Hijo Eterno. Estos seres de los primeros tres niveles de Dios el Séptuple son la naturaleza misma y la fuente del poder del Supremo Todopoderoso; por lo tanto por siempre deben acompañar y sostener sus actos administrativos."
+      "sectionTitle": "El Todopoderoso y Dios Séptuplo",
+      "markdown": "Dios Supremo no es la Trinidad del Paraíso. Tampoco es ni uno ni el conjunto de los Creadores de los superuniversos cuyas actividades funcionales sintetizan efectivamente la evolución de su poder todopoderoso. Aunque Dios Supremo tiene su origen en la Trinidad, solo se manifiesta a las criaturas evolutivas como personalidad de poder a través de las funciones coordinadas de los tres primeros niveles de Dios Séptuplo. El Supremo Todopoderoso se está factualizando ahora en el tiempo y el espacio a través de las actividades de las Personalidades Creadoras Supremas, al igual que en la eternidad el Actor Conjunto llegó instantáneamente a la existencia por voluntad del Padre Universal y el Hijo Eterno. Estos seres de los tres primeros niveles de Dios Séptuplo son la propia naturaleza y fuente de poder del Supremo Todopoderoso, y por eso deben acompañar y sostener siempre sus actos administrativos."
     },
     {
       "type": "section",
@@ -543,7 +543,7 @@
       "sortId": "3.116.003.001",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "Las Deidades del Paraíso no sólo actúan directamente en sus circuitos de gravedad por todo el gran universo, sino que también funcionan a través de sus varias agencias y otras manifestaciones, tales como:"
+      "markdown": "Las Deidades del Paraíso no solo actúan directamente en sus circuitos de gravedad por todo el gran universo sino que actúan también mediante sus diversos agentes y otras manifestaciones como las siguientes:"
     },
     {
       "type": "paragraph",
@@ -561,7 +561,7 @@
       "sortId": "3.116.003.002",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "1. *Los enfoques de la mente de la Tercera Fuente y Centro.* Los dominios finitos de energía y espíritu están literalmente mantenidos juntos por las presencias mentales del Actor Conjunto. Esto es verdad del Espíritu Creativo en un universo local a través de los Espíritus Reflexivos de un superuniverso hasta los Espíritus Rectores en el gran universo. Los circuitos de la mente que emanan de estos varios focos de inteligencia representan la arena cósmica de la elección de la criatura. La mente es la realidad flexible que las criaturas y los Creadores pueden manipular de inmediato; es el eslabón vital que conecta la materia con el espíritu. El don de la mente de la Tercera Fuente y Centro unifica a la persona espiritual de Dios el Supremo con el poder experiencial del Todopoderoso evolucionario."
+      "markdown": "1. *Las focalizaciones de mente de la Tercera Fuente y Centro*. La unidad de los dominios finitos de la energía y del espíritu está literalmente garantizada por las presencias de mente del Actor Conjunto. Esto es así desde el Espíritu Creativo de un universo local hasta los Espíritus Maestros del gran universo, pasando por los Espíritus Reflectantes de un superuniverso. Los circuitos de mente que emanan de estos diversos focos de inteligencia representan el marco cósmico donde las criaturas ejercen su capacidad de elección. La mente es una realidad flexible sobre la que pueden actuar fácilmente tanto los Creadores como las criaturas, es el eslabón vital que conecta la materia con el espíritu. El otorgamiento de mente de la Tercera Fuente y Centro unifica la persona de espíritu de Dios Supremo con el poder experiencial del Todopoderoso evolutivo."
     },
     {
       "type": "paragraph",
@@ -579,7 +579,7 @@
       "sortId": "3.116.003.003",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "2. *Las revelaciones de personalidad de la Segunda Fuente y Centro.* Las presencias de mente del Actor Conjunto unifican el espíritu de la divinidad con el modelo original de la energía. Las encarnaciones autootorgadoras del Hijo Eterno y de sus Hijos Paradisiacos unifican, realmente fusionan, la naturaleza divina de un Creador con la naturaleza en evolución de una criatura. El Supremo es tanto criatura como creador; la posibilidad de que él sea así, se revela en las acciones de autootorgamiento del Hijo Eterno y de sus Hijos coordinados y subordinados. Las órdenes autootorgadoras de filiación —los Micaeles y los Avonales— efectivamente aumentan sus naturalezas divinas con naturalezas bona fide de criatura que se han hecho suyas por vivir una vida real de las criaturas en los mundos evolucionarios. Cuando la divinidad se torna como la humanidad, existe inherentemente a esta relación la posibilidad de que la humanidad se pueda tornar divina."
+      "markdown": "2. *Las revelaciones de personalidad de la Segunda Fuente y Centro*. Las presencias de mente del Actor Conjunto unifican el espíritu de la divinidad con el patrón de la energía. Las encarnaciones de otorgamiento del Hijo Eterno y de sus Hijos del Paraíso unifican, fusionan de hecho, la naturaleza divina de un Creador con la naturaleza en evolución de una criatura. El Supremo es a la vez criatura y creador, y esta doble cualidad se revela en las acciones de otorgamiento del Hijo Eterno y de sus Hijos de igual y menor rango. Los órdenes de filiación que se otorgan, los Migueles y los Avonales, amplían realmente sus naturalezas divinas con las naturalezas auténticas de criatura que han hecho suyas al vivir la vida real de las criaturas en los mundos evolutivos. Cuando la divinidad se hace como la humanidad esta relación conlleva de forma inherente la posibilidad de que la humanidad se pueda hacer divina."
     },
     {
       "type": "paragraph",
@@ -597,7 +597,7 @@
       "sortId": "3.116.003.004",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "3. *Las presencias residentes de la Primera Fuente y Centro.* La mente unifica las causaciones espirituales con las reacciones energéticas; el ministerio de autootorgamiento unifica los descensos de la divinidad con el ascenso de las criaturas; y los fragmentos residentes del Padre Universal efectivamente unifican la criatura en evolución con Dios en el Paraíso. Hay muchas tales presencias del Padre que residen en numerosas órdenes de personalidades, y en los hombres mortales estos fragmentos divinos de Dios son los Ajustadores del Pensamiento. Los Monitores Misteriosos son para los seres humanos lo que la Trinidad del Paraíso es para el Ser Supremo. Los Ajustadores son cimientos absolutos, y sobre los cimientos absolutos la elección del libre albedrío puede ocasionar la evolución de la realidad divina de una naturaleza eterna, naturaleza finalista en el caso del hombre, naturaleza de Deidad en Dios el Supremo."
+      "markdown": "3. *Las presencias moradoras de la Primera Fuente y Centro*. La mente unifica las causalidades del espíritu con las reacciones de la energía; el ministerio de otorgamiento unifica los descensos de la divinidad con los ascensos de las criaturas; y los fragmentos moradores del Padre Universal unifican efectivamente a las criaturas que evolucionan con Dios que está en el Paraíso. Hay muchos órdenes de personalidades que están habitados por presencias del Padre, y en el caso del hombre mortal estos fragmentos divinos de Dios son los Ajustadores del Pensamiento. Los Monitores de Misterio son para los seres humanos lo que la Trinidad del Paraíso para el Ser Supremo. Los Ajustadores son fundamentos absolutos, y sobre fundamentos absolutos la elección de libre albedrío puede hacer evolucionar la realidad divina de una naturaleza para la eternidad, la naturaleza finalitaria en el caso de los hombres, la naturaleza de Deidad en Dios Supremo."
     },
     {
       "type": "paragraph",
@@ -615,7 +615,7 @@
       "sortId": "3.116.003.005",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "Los autootorgamientos en forma de las criaturas por parte de las órdenes de filiación Paradisiaca permiten que estos Hijos divinos enriquezcan sus personalidades por la adquisición de la naturaleza real de las criaturas del universo, mientras que dichos autootorgamientos infaliblemente revelan a las criaturas mismas el camino al Paraíso, hacia el alcance de la divinidad. Las dotes de los Ajustadores del Padre Universal le permiten atraer hacia sí mismo a las personalidades de las criaturas de voluntad volitiva. Y en todas estas relaciones en los universos finitos el Actor Conjunto es la fuente siempre presente del ministerio de la mente por virtud del cual toman lugar estas actividades."
+      "markdown": "Gracias al otorgamiento como criaturas de los órdenes paradisiacos de filiación, estos Hijos divinos pueden enriquecer su personalidad con la auténtica naturaleza de las criaturas del universo, al tiempo que estos otorgamientos revelan infaliblemente a las propias criaturas la senda paradisiaca que conduce al logro de la divinidad. Los otorgamientos de Ajustadores del Padre Universal le permiten atraer hacia sí a las personalidades de las criaturas con voluntad. Y en todas estas relaciones que acontecen en los universos finitos, el Actor Conjunto es la fuente constante del ministerio de mente en virtud del cual se producen estas actividades."
     },
     {
       "type": "paragraph",
@@ -633,7 +633,7 @@
       "sortId": "3.116.003.006",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y la Deidad del Paraíso",
-      "markdown": "En estas y muchas otras maneras las Deidades del Paraíso participan en las evoluciones del tiempo a medida que éstas se desenvuelven en los planetas girantes del espacio, y cuando culminan en la emergencia de la personalidad Suprema como consecuencia de toda la evolución."
+      "markdown": "De esta y de otras muchas maneras participan las Deidades del Paraíso en las evoluciones del tiempo a medida que se despliegan en los planetas que giran en el espacio y a medida que culminan en la emergencia de la personalidad del Supremo, consecuencia de toda evolución."
     },
     {
       "type": "section",
@@ -669,7 +669,7 @@
       "sortId": "3.116.004.001",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "La unidad del Todo Supremo depende de la unificación progresiva de las partes finitas; la actualización del Supremo resulta de estas mismas unificaciones de los factores de supremacía y además los produce —los creadores, criaturas, inteligencias y energías de los universos."
+      "markdown": "La unidad del Todo Supremo depende de la unificación progresiva de las partes finitas. La actualización del Supremo es el resultado y la causa de estas mismas unificaciones de los factores de la supremacía: los creadores, las criaturas, las inteligencias y las energías de los universos."
     },
     {
       "type": "paragraph",
@@ -687,7 +687,7 @@
       "sortId": "3.116.004.002",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Durante aquellas épocas en las que la soberanía de la Supremacía pasa por su desarrollo en el tiempo, el poder todopoderoso del Supremo depende de las acciones de divinidad del Dios el Séptuple mientras que parece existir una relación particularmente estrecha entre el Ser Supremo y el Actor Conjunto juntamente con sus personalidades primarias, los Siete Espíritus Rectores. El Espíritu Infinito como Actor Conjunto funciona de muchas maneras que compensan la condición incompleta de la Deidad evolutiva y sostiene relaciones muy estrechas con el Supremo. Se comparte en medida esta estrechez de relación por todos los Espíritus Rectores pero especialmente por el Espíritu Rector Número Siete, quien habla en nombre del Supremo. Este Espíritu Rector conoce al Supremo —está en contacto personal con él."
+      "markdown": "Durante las edades en las que la soberanía de la Supremacía se desarrolla en el tiempo, el poder todopoderoso del Supremo depende de los actos divinos de Dios Séptuplo, y también parece que existe una relación particularmente estrecha entre el Ser Supremo y el Actor Conjunto con sus personalidades primarias, los siete Espíritus Maestros. El Espíritu Infinito actúa como Actor Conjunto de muchas maneras que compensan la incompleción de la Deidad evolutiva y mantiene relaciones muy cercanas con el Supremo. Todos los Espíritus Maestros comparten esta cercanía en mayor o menor medida, en especial el Espíritu Maestro número siete, que habla en nombre del Supremo. Este Espíritu Maestro conoce al Supremo y está en contacto personal con él."
     },
     {
       "type": "paragraph",
@@ -705,7 +705,7 @@
       "sortId": "3.116.004.003",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Al principio durante la proyección del esquema de creación del superuniverso, los Espíritus Rectores se unieron con la Trinidad ancestral en la cocreación de los cuarenta y nueve Espíritus Reflexivos, y correlativamente el Ser Supremo funcionó creativamente como el culminador de los actos conjuntos de la Trinidad del Paraíso y de los hijos creativos de la Deidad del Paraíso. Apareció Majestón, y desde entonces ha enfocado la presencia cósmica de la Mente Suprema, mientras los Espíritus Recto-res continúan siendo la fuente y centro para el vasto ministerio de la mente cósmica."
+      "markdown": "Cuando empezó a concebirse el proyecto de creación de los superuniversos, los Espíritus Maestros se unieron con la Trinidad ancestral para cocrear a los cuarenta y nueve Espíritus Reflectantes. De forma simultánea, el Ser Supremo ejerció su función creativa para culminar los actos conjuntos de la Trinidad del Paraíso y los hijos creativos de la Deidad del Paraíso. Apareció Majeston, que ha focalizado desde entonces la presencia cósmica de la Mente Suprema, mientras que los Espíritus Maestros siguen siendo los centros fuente del extenso ministerio de la mente cósmica."
     },
     {
       "type": "paragraph",
@@ -723,7 +723,7 @@
       "sortId": "3.116.004.004",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Pero los Espíritus Rectores continúan supervisando los Espíritus Reflexivos. El Séptimo Espíritu Rector (en su supervisión total de Orvonton desde el universo central) está en contacto personal con los siete Espíritus Reflexivos ubicados en Uversa (y tiene el supercontrol de los mismos). En sus controles y administraciones intersuperuniversales e intrasuperuniversales, está en contacto reflexivo con los Espíritus Reflexivos de su propio tipo ubicados en cada capital de los superuniversos."
+      "markdown": "Por otra parte los Espíritus Maestros siguen supervisando a los Espíritus Reflectantes. El séptimo Espíritu Maestro (en su supervisión general de Orvonton desde el universo central) está en contacto personal con los siete Espíritus Reflectantes ubicados en Uversa y ejerce su sobrecontrol sobre ellos. Para gestionar el control interno y la administración de su superuniverso así como las relaciones entre superuniversos, está en contacto reflectante con los Espíritus Reflectantes de su propio tipo ubicados en la capital de cada superuniverso."
     },
     {
       "type": "paragraph",
@@ -741,7 +741,7 @@
       "sortId": "3.116.004.005",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Estos Espíritus Rectores no son solamente los que apoyan y aumentan la soberanía de la Supremacía, sino que a su vez son afectados por los propósitos creadores del Supremo. Ordinariamente, las creaciones colectivas de los Espíritus Rectores son de orden cuasimaterial (directores del poder, etc.), mientras que sus creaciones individuales son de orden espiritual (supernafines, etc.). Pero cuando los Espíritus Rectores produjeron *colectivamente* a los Siete Espíritus de los Circuitos en respuesta a la voluntad y propósito del Ser Supremo, es de notar que los vástagos de este acto creador son espirituales, no materiales ni cuasimateriales."
+      "markdown": "Estos Espíritus Maestros no solo apoyan y aumentan la soberanía de la Supremacía sino que se ven afectados a su vez por los propósitos creativos del Supremo. Por regla general las creaciones colectivas de los Espíritus Maestros son de orden cuasimaterial (directores del poder, etc.) mientras que sus creaciones individuales son de orden espiritual (supernafines, etc.). Y sin embargo cabe señalar que cuando los Espíritus Maestros generaron *colectivamente* a los siete Espíritus de Circuito en respuesta a la voluntad y el propósito del Ser Supremo, los frutos de este acto creativo fueron espirituales, no materiales ni cuasimateriales."
     },
     {
       "type": "paragraph",
@@ -759,7 +759,7 @@
       "sortId": "3.116.004.006",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Así como ocurre con los Espíritus Rectores de los superuniversos, del mismo modo ocurre con los gobernantes triunos de estas supercreaciones: los Ancianos de los Días. Estas personificaciones de la justicia y juicio de la Trinidad en el tiempo y en el espacio son los fulcros para la movilización del poder todopoderoso del Supremo, sirviendo como los siete puntos de foco para la evolución de la soberanía trinitaria en los dominios del tiempo y del espacio. Desde su posición de ventaja a mitad de camino entre el Paraíso y los mundos en evolución, estos soberanos de origen Trinitario ven ambos lados, conocen ambos lados y coordinan ambos lados."
+      "markdown": "Y lo mismo que ocurre con los Espíritus Maestros de los superuniversos ocurre con los regidores trinos de estas supercreaciones: los Ancianos de los Días. Estas personificaciones del juicio y la justicia de la Trinidad en el tiempo y el espacio son los fulcros situados sobre el terreno para movilizar el poder todopoderoso del Supremo, y sirven de puntos focales séptuplos para la evolución de la soberanía trinitaria en los dominios del tiempo y el espacio. Desde su posición ventajosa a medio camino entre el Paraíso y los mundos en evolución, estos soberanos nacidos de la Trinidad ven, conocen y coordinan ambos caminos."
     },
     {
       "type": "paragraph",
@@ -777,7 +777,7 @@
       "sortId": "3.116.004.007",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Pero los universos locales son los verdaderos laboratorios en los que se realizan los experimentos de la mente, las aventuras galácticas, los despliegues de la divinidad y las progresiones de la personalidad que, cuando se suman dentro del marco cósmico, constituyen los reales cimientos sobre los que el Supremo logra su evolución de deidad en la experiencia y por la misma."
+      "markdown": "Pero los universos locales son los laboratorios reales donde se realizan los experimentos de la mente, las aventuras galácticas, los despliegues de la divinidad y los progresos de la personalidad que, cuando se les suma dentro del marco cósmico, constituyen los cimientos sobre los cuales, en y por la experiencia, el Supremo consuma su evolución de deidad."
     },
     {
       "type": "paragraph",
@@ -795,7 +795,7 @@
       "sortId": "3.116.004.008",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "En los universos locales aun los Creadores evolucionan: la presencia del Actor Conjunto evoluciona desde un foco de poder vivo hasta un estado de personalidad divina de un Espíritu Materno del Universo; el Hijo Creador evoluciona desde la naturaleza de divinidad existencial del Paraíso a la naturaleza experiencial de soberanía suprema. Los universos locales son los puntos de origen de la verdadera evolución, los terrenos de germinación de personalidades imperfectas bona fide dotadas de elección de libre albedrío de volverse cocreadores de sí mismos tal como han de ser en el futuro."
+      "markdown": "En los universos locales incluso los Creadores evolucionan. La presencia del Actor Conjunto evoluciona desde ser un foco vivo de poder hasta alcanzar el estatus de la personalidad divina de un Espíritu Madre del Universo. El Hijo Creador evoluciona desde la naturaleza de divinidad paradisiaca existencial hasta la naturaleza experiencial de soberanía suprema. Los universos locales son los puntos de partida de la evolución verdadera, los semilleros de personalidades imperfectas de buena fe dotadas de libre albedrío para elegir convertirse en cocreadoras de sí mismas tal como serán en el futuro."
     },
     {
       "type": "paragraph",
@@ -813,7 +813,7 @@
       "sortId": "3.116.004.009",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Los Hijos Magisteriales en sus autootorgamientos en los mundos evolucionarios finalmente adquieren naturalezas expresivas de la divinidad Paradisiaca en unificación experiencial con los valores espirituales más elevados de la naturaleza humana material. Y a través de estos autootorgamientos y de otros, los Creadores Micael del mismo modo adquieren la naturaleza y el punto de vista cósmico de sus verdaderos hijos del universo local. Estos Hijos Creadores Mayores aproximan el cumplimiento de la experiencia subsuprema; y cuando su soberanía del universo local se amplía para comprender a sus asociados, los Espíritus Creativos, se puede decir que aproximan los límites de la supremacía dentro de los potenciales presentes del gran universo evolucionario."
+      "markdown": "En sus otorgamientos a los mundos evolutivos los Hijos Magistrados acaban adquiriendo naturalezas que representan la divinidad paradisiaca unificada experiencialmente con los valores espirituales más altos de la naturaleza material humana. A través de estos y otros otorgamientos, los Creadores Migueles adquieren también la naturaleza y el punto de vista cósmico de sus propios hijos del universo local. Estos Hijos Creadores Maestros están cerca de consumar la experiencia subsuprema, y cuando su soberanía sobre el universo local se amplía hasta abarcar a los Espíritus Creativos asociados, se puede afirmar que se acercan al límite máximo de supremacía dentro de los potenciales presentes del gran universo evolutivo."
     },
     {
       "type": "paragraph",
@@ -831,7 +831,7 @@
       "sortId": "3.116.004.010",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Cuando los Hijos autootorgadores le revelan nuevos caminos al hombre de encontrar a Dios, no están creando estos caminos de alcance de la divinidad; más bien están iluminando las carreteras perdurables de progresión que conducen, a través de la presencia del Supremo, a la persona del Padre Paradisiaco."
+      "markdown": "Cuando los Hijos de otorgamiento revelan a los hombres nuevos caminos para encontrar a Dios, ellos no crean estos senderos hacia el logro de la divinidad sino que iluminan las autopistas eternas de la progresión que conduce hasta la persona del Padre del Paraíso a través de la presencia del Supremo."
     },
     {
       "type": "paragraph",
@@ -849,7 +849,7 @@
       "sortId": "3.116.004.011",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "El universo local es el punto de partida para aquellas personalidades que están más lejos de Dios y que, por lo tanto, pueden experimentar el más alto grado de ascenso espiritual en el universo, pueden lograr el máximo de participación experiencial en la cocreación de sí mismos. Estos mismos universos locales del mismo modo proveen la mayor profundidad posible de experiencia para las personalidades descendentes, que por este medio logran algo que es para ellos tan significativo como lo es la ascensión al Paraíso para una criatura en evolución."
+      "markdown": "El universo local es el punto de partida para las personalidades que están más alejadas de Dios y que pueden experimentar por lo tanto el mayor grado de ascenso espiritual en el universo y conseguir la máxima participación experiencial en la cocreación de sí mismas. Estos mismos universos locales proporcionan también el mayor grado de penetración experiencial posible a las personalidades descendentes, que consiguen así algo que para ellas es tan importante como el ascenso al Paraíso para una criatura en vías de evolución."
     },
     {
       "type": "paragraph",
@@ -867,7 +867,7 @@
       "sortId": "3.116.004.012",
       "paperTitle": "El Supremo Todopoderoso",
       "sectionTitle": "El Todopoderoso y los Creadores Supremos",
-      "markdown": "Parece que el hombre mortal es necesario para la función plena del Dios el Séptuple, puesto que este agrupamiento de divinidad culmina en el Supremo, quien se va actualizando. Existen muchas órdenes de personalidades universales que son igualmente necesarias para la evolución del poder todopoderoso del Supremo, pero este relato se presenta para edificación de los seres humanos, por lo tanto se limita en gran parte a aquellos factores que operan en la evolución de Dios el Séptuple y que están relacionados con el hombre mortal."
+      "markdown": "El hombre mortal parece ser necesario para la función plena de Dios Séptuplo en la medida en que esta agrupación de divinidad culmina en el Supremo que se actualiza. Hay muchos otros órdenes de personalidades del universo igualmente necesarias para la evolución del poder todopoderoso del Supremo, pero nuestra descripción está dirigida a la edificación de los seres humanos y centrada por lo tanto en los factores relacionados con el hombre mortal que intervienen en la evolución de Dios Séptuplo."
     },
     {
       "type": "section",
@@ -884,7 +884,7 @@
       "pageReference": null,
       "sortId": "3.116.005.000",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
       "markdown": null
     },
     {
@@ -902,8 +902,8 @@
       "pageReference": "1273.5",
       "sortId": "3.116.005.001",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "Se os ha instruido sobre la relación de Dios el Séptuple con el Ser Supremo, y ahora deberíais poder reconocer que el Séptuple abarca a los controladores así como también a los creadores del gran universo. Estos controladores séptuples del gran universo comprenden lo siguiente:"
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "Ya habéis sido informados sobre las relaciones de Dios Séptuplo con el Ser Supremo, y ahora debéis saber que el Séptuplo abarca tanto a los controladores como a los creadores del gran universo. Los controladores séptuplos del gran universo son los siguientes:"
     },
     {
       "type": "paragraph",
@@ -920,8 +920,8 @@
       "pageReference": "1273.6",
       "sortId": "3.116.005.002",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "1. Los Controladores Físicos Decanos."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "1. Los Controladores Físicos Maestros."
     },
     {
       "type": "paragraph",
@@ -938,8 +938,8 @@
       "pageReference": "1273.7",
       "sortId": "3.116.005.003",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "2. Los Centros Supremos de Poder."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "2. Los Centros Supremos del Poder."
     },
     {
       "type": "paragraph",
@@ -956,7 +956,7 @@
       "pageReference": "1273.8",
       "sortId": "3.116.005.004",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
       "markdown": "3. Los Directores Supremos del Poder."
     },
     {
@@ -974,7 +974,7 @@
       "pageReference": "1273.9",
       "sortId": "3.116.005.005",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
       "markdown": "4. El Supremo Todopoderoso."
     },
     {
@@ -992,8 +992,8 @@
       "pageReference": "1273.10",
       "sortId": "3.116.005.006",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "5. El Dios de Acción —el Espíritu Infinito."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "5. El Dios de Acción, el Espíritu Infinito."
     },
     {
       "type": "paragraph",
@@ -1010,7 +1010,7 @@
       "pageReference": "1273.11",
       "sortId": "3.116.005.007",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
       "markdown": "6. La Isla del Paraíso."
     },
     {
@@ -1028,8 +1028,8 @@
       "pageReference": "1273.12",
       "sortId": "3.116.005.008",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "7. La Fuente del Paraíso —el Padre Universal."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "7. La fuente del Paraíso, el Padre Universal."
     },
     {
       "type": "paragraph",
@@ -1046,8 +1046,8 @@
       "pageReference": "1273.13",
       "sortId": "3.116.005.009",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "Estos siete grupos son funcionalmente inseparables de Dios el Séptuple y constituyen el nivel de control físico de esta asociación de Deidad."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "Estos siete grupos son inseparables funcionalmente de Dios Séptuplo y constituyen el nivel del control físico de esta asociación de Deidad."
     },
     {
       "type": "paragraph",
@@ -1064,8 +1064,8 @@
       "pageReference": "1273.14",
       "sortId": "3.116.005.010",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "La bifurcación de energía y espíritu (que surge de la presencia conjunta del Hijo Eterno y de la Isla del Paraíso) fue simbolizada en un sentido superuniversal cuando los Siete Espíritus Rectores se ocuparon en forma unida de su primera acción de creación colectiva. Este episodio presenció la aparición de los Siete Directores Supremos del Poder. Correlativamente con esto, los circuitos espirituales de los Espíritus Recto-res se diferenciaron contrastivamente de las actividades físicas de la supervisión de los directores del poder, e inmediatamente la mente cósmica apareció como nuevo factor coordinador de la materia y del espíritu."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "La bifurcación de la energía y el espíritu (que provienen de la presencia conjunta del Hijo Eterno y la Isla del Paraíso) quedó simbolizada para los superuniversos cuando los siete Espíritus Maestros emprendieron juntos su primer acto de creación colectiva. Este episodio trajo consigo la aparición de los siete Directores Supremos del Poder. Al mismo tiempo los circuitos espirituales de los Espíritus Maestros se diferenciaron por contraste de las actividades físicas de supervisión de los directores del poder, y apareció en el acto la mente cósmica como nuevo factor coordinador de la materia y el espíritu."
     },
     {
       "type": "paragraph",
@@ -1082,8 +1082,8 @@
       "pageReference": "1274.1",
       "sortId": "3.116.005.011",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "El Supremo Todopoderoso está evolucionando como el supercontrolador del poder físico del gran universo. En la era universal presente este potencial de poder físico parece estar centrado en los Siete Directores Supremos del Poder, que operan a través de ubicaciones fijas de los centros de poder y mediante las presencias móviles de los controladores físicos."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "El Supremo Todopoderoso está evolucionando como sobrecontrolador del poder físico del gran universo. En la presente edad del universo este potencial de poder físico parece estar centrado en los siete Directores Supremos del Poder que operan a través de los emplazamientos fijos de los centros del poder y mediante las presencias móviles de los controladores físicos."
     },
     {
       "type": "paragraph",
@@ -1100,8 +1100,8 @@
       "pageReference": "1274.2",
       "sortId": "3.116.005.012",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "Los universos temporales no son perfectos; la perfección es su destino. La lucha por la perfección pertenece no sólo a los niveles intelectual y espiritual sino también al nivel físico de la energía y la masa. El establecimiento de los siete superuniversos en luz y vida presupone su logro de estabilidad física. Y se conjetura que el logro final del equilibrio material significará la evolución completada del control físico del Todopoderoso."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "Los universos del tiempo no son perfectos; ese es su destino. La lucha por la perfección no corresponde solo a los niveles intelectuales y espirituales sino también al nivel físico de la energía y de la masa. El asentamiento de los siete superuniversos en luz y vida presupone que habrán logrado la estabilidad física. Y se conjetura que cuando se logre finalmente el equilibrio material se habrá consumado la evolución del control físico del Todopoderoso."
     },
     {
       "type": "paragraph",
@@ -1118,8 +1118,8 @@
       "pageReference": "1274.3",
       "sortId": "3.116.005.013",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "En los primeros días de la construcción del universo aun los Creadores Paradisiacos se ocupan principalmente de el equilibrio material. El esquema de un universo local toma forma no sólo como resultado de las actividades de los centros de poder, sino también debido a la presencia en el espacio del Espíritu Creativo. A lo largo de estas primeras épocas de construcción del universo local, el Hijo Creador exhibe un atributo poco comprendido de control material, y no sale de su planeta capital hasta que no se haya establecido un equilibrio total en el universo local."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "En los primeros tiempos de la construcción de un universo incluso los Creadores del Paraíso se ocupan principalmente del equilibrio material. El patrón de un universo local no solo va tomando forma como resultado de las actividades de los centros del poder sino también gracias a la presencia del Espíritu Creativo en el espacio. Durante esas primeras épocas de la construcción de un universo local, el Hijo Creador exhibe un atributo de control material poco conocido y no abandona su planeta capital hasta no haber dejado establecido el equilibrio general del universo local."
     },
     {
       "type": "paragraph",
@@ -1136,8 +1136,8 @@
       "pageReference": "1274.4",
       "sortId": "3.116.005.014",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "En último análisis, toda la energía responde a la mente, y los controladores físicos son los hijos del Dios mente, que es el activador del modelo original del Paraíso. La inteligencia de los directores del poder está incansablemente dedicada a la tarea de obtener el control material. Su lucha por la dominación física sobre las relaciones de la energía y los movimientos de la masa no cesa jamás hasta que alcancen la victoria finita sobre las energías y las masas que constituyen los dominios perpetuos de sus actividades."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "En último término toda energía responde a la mente, y los controladores físicos son hijos del Dios de la mente que es el activador del patrón del Paraíso. Los directores del poder dedican su inteligencia a la tarea incansable de lograr el control material. Su lucha por dominar físicamente las relaciones de la energía y los movimientos de la masa no cesa hasta que consiguen la victoria finita sobre las energías y las masas que constituyen sus dominios perpetuos de actividad."
     },
     {
       "type": "paragraph",
@@ -1154,8 +1154,8 @@
       "pageReference": "1274.5",
       "sortId": "3.116.005.015",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "Las luchas espirituales del tiempo y del espacio tienen que ver con la evolución de la dominación del espíritu sobre la materia por mediación de la mente (personal); la evolución física (no personal) de los universos tiene que ver con la armonización de la energía cósmica con los conceptos de equilibrio de la mente sujeta al supercontrol del espíritu. La evolución total de todo el gran universo es un asunto de unificación de la personalidad de la mente controladora de la energía con el intelecto coordinado con el espíritu, y se revelará en la plena aparición del poder todopoderoso del Supremo."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "Las luchas en el espíritu que ocurren en el tiempo y el espacio están relacionadas con la evolución del dominio del espíritu sobre la materia por mediación de la mente (personal). La evolución física (no personal) de los universos busca armonizar la energía cósmica con los conceptos de equilibrio de la mente bajo el sobrecontrol del espíritu. La evolución total de todo el gran universo consiste en la unificación —en la personalidad— de la mente controladora de la energía con el intelecto coordinado con el espíritu, y se revelará en la aparición plena del poder todopoderoso del Supremo."
     },
     {
       "type": "paragraph",
@@ -1172,8 +1172,8 @@
       "pageReference": "1274.6",
       "sortId": "3.116.005.016",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "La dificultad para llegar a un estado de equilibrio dinámico es inherente al hecho del cosmos en crecimiento. La aparición de nueva energía y nueva masa amenaza continuamente los circuitos establecidos de la creación física. Un universo en crecimiento es un universo no equilibrado; por lo tanto, ninguna parte del todo cósmico puede hallar una verdadera estabilidad hasta que la plenitud del tiempo no presencie la consumación material de los siete superuniversos."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "La dificultad para llegar a un estado de equilibrio dinámico es inherente al crecimiento del cosmos. Los circuitos establecidos de la creación física se ven continuamente amenazados por la aparición de nuevas masas y energías. Un universo que crece es un universo no asentado, por eso ninguna parte del todo cósmico podrá alcanzar una estabilidad real hasta que llegue el momento de la consumación material de los siete superuniversos."
     },
     {
       "type": "paragraph",
@@ -1190,8 +1190,8 @@
       "pageReference": "1274.7",
       "sortId": "3.116.005.017",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Todopoderoso y los Controladores Séptuples",
-      "markdown": "En los universos establecidos en luz y vida no hay acontecimientos físicos inesperados de importancia. Se ha logrado un control relativamente completo sobre la creación material; sin embargo siguen a existir los problemas de la relación de los universos establecidos con los universos en evolución, que desafían la pericia de los Directores del Poder Universal. Pero estos problemas desaparecerán gradualmente con la disminución de nueva actividad creadora a medida que el gran universo se acerca a la culminación de la expresión evolucionaria."
+      "sectionTitle": "El Todopoderoso y los controladores séptuplos",
+      "markdown": "En los universos asentados en luz y vida no se produce ningún acontecimiento físico importante de forma inesperada. Se ha conseguido un control relativamente completo sobre la creación material, pero los problemas de las relaciones entre los universos asentados y los universos en evolución siguen poniendo a prueba la capacidad de los Directores del Poder del Universo. Estos problemas irán desapareciendo gradualmente cuando disminuyan las actividades creativas nuevas a medida que el gran universo se vaya acercando a la culminación de su expresión evolutiva."
     },
     {
       "type": "section",
@@ -1208,7 +1208,7 @@
       "pageReference": null,
       "sortId": "3.116.006.000",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
+      "sectionTitle": "La dominación del espíritu",
       "markdown": null
     },
     {
@@ -1226,8 +1226,8 @@
       "pageReference": "1275.1",
       "sortId": "3.116.006.001",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "En los superuniversos evolucionarios la energía-materia es dominante, excepto en la personalidad, donde el espíritu, a través de la mediación de la mente, lucha por el dominio. La meta de los universos evolucionarios es la subyugación de la energía-materia por parte de la mente, la coordinación de la mente con el espíritu y todo ello en virtud de la presencia creadora y unificadora de la personalidad. Así pues, en relación con la personalidad los sistemas físicos se vuelven subordinados; los sistemas mentales, coordinados; y los sistemas espirituales, directivos."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "En los superuniversos evolutivos domina la materia-energía salvo en la personalidad, donde el espíritu lucha por imponerse a través de la mente. La meta de los universos evolutivos es someter la materia-energía a la mente, coordinar la mente con el espíritu, y todo ello en virtud de la presencia creativa y unificadora de la personalidad. Así pues, en relación con la personalidad, los sistemas físicos se subordinan, los sistemas de mente se coordinan y los sistemas de espíritu dirigen."
     },
     {
       "type": "paragraph",
@@ -1244,8 +1244,8 @@
       "pageReference": "1275.2",
       "sortId": "3.116.006.002",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "Esta unión de poder y personalidad se expresa en los niveles de Deidad, en el Supremo y como él. Pero la evolución real para la dominación del espíritu es un crecimiento que se basa en las acciones de libre albedrío de los Creadores y de las criaturas del gran universo."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "Esta unión de poder y personalidad se expresa en los niveles de deidad en y como el Supremo. Pero la evolución propiamente dicha de la dominación del espíritu es un crecimiento que está basado en los actos de libre albedrío de los Creadores y las criaturas del gran universo."
     },
     {
       "type": "paragraph",
@@ -1262,8 +1262,8 @@
       "pageReference": "1275.3",
       "sortId": "3.116.006.003",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "En los niveles absolutos la energía y el espíritu son uno solo. Pero en el momento en que uno parte de tales niveles absolutos, aparece la diferencia y a medida que la energía y el espíritu se desplazan hacia el espacio desde el Paraíso, el desplazamiento entre ellos se ensancha hasta que en los universos locales se vuelven muy divergentes. Ya no son idénticos, ni siquiera semejantes, y la mente debe intervenir para interrelacionarlos."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "En los niveles absolutos la energía y el espíritu son uno, pero en cuanto nos apartamos de estos niveles absolutos aparecen las diferencias. A medida que la energía y el espíritu se desplazan desde el Paraíso hacia el espacio se va ensanchando el abismo que los separa hasta que llegan a ser totalmente divergentes en los universos locales. Ya no son idénticos, tampoco son parecidos, y la mente tiene que intermediar para relacionarlos entre sí."
     },
     {
       "type": "paragraph",
@@ -1280,8 +1280,8 @@
       "pageReference": "1275.4",
       "sortId": "3.116.006.004",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "El hecho de que la energía pueda ser direccionalizada por la acción de las personalidades controladoras revela la sensibilidad de la energía a la acción de la mente. El hecho de que la masa pueda ser estabilizada mediante la acción de estas mismas entidades controladoras indica la sensibilidad de la masa a la presencia productora de orden de la mente. Y el hecho de que el espíritu mismo en la personalidad volitiva pueda buscar a través de la mente el dominio de la energía y de la materia revela la unidad potencial de toda creación finita."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "Que la dirección de la energía pueda ser determinada por la acción de las personalidades controladoras demuestra la receptividad de la energía a la acción de la mente. Que la masa pueda ser estabilizada por la acción de estas mismas entidades controladoras indica la receptividad de la masa a la presencia ordenadora de la mente. Y que en una personalidad volitiva el espíritu mismo pueda esforzarse por dominar la materia-energía a través de la mente desvela la unidad potencial de toda la creación finita."
     },
     {
       "type": "paragraph",
@@ -1298,8 +1298,8 @@
       "pageReference": "1275.5",
       "sortId": "3.116.006.005",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "Existe una interdependencia de todas las fuerzas y personalidades a lo largo y a lo ancho del universo de los universos. Los Hijos Creadores y los Espíritus Creativos dependen de la función creadora de los centros de poder y de los controladores físicos en la organización de los universos; los Directores Supremos del Poder son incompletos sin el supercontrol de los Espíritus Rectores. En el ser humano, el mecanismo de la vida física es sensible en parte a los dictámenes de la mente (personal). Esta misma mente puede a su vez ser dominada por la guía de espíritu con propósito, y el resultado de tal desarrollo evolucionario es la producción de un nuevo hijo del Supremo, una nueva unificación personal de los varios tipos de realidad cósmica."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "Existe una interdependencia de todas las fuerzas y todas las personalidades en todo el universo de universos. Los Hijos Creadores y los Espíritus Creativos dependen de la función cooperativa de los centros del poder y los controladores físicos para la organización de los universos. Los Directores Supremos del Poder están incompletos sin el sobrecontrol de los Espíritus Maestros. En un ser humano el mecanismo de la vida física responde en parte a los dictados de la mente (personal). Esta misma mente puede estar dominada a su vez por las directrices de un espíritu con propósito, y el resultado de este desarrollo evolutivo es la aparición de un nuevo hijo del Supremo, una nueva unificación personal de los distintos tipos de realidad cósmica."
     },
     {
       "type": "paragraph",
@@ -1316,8 +1316,8 @@
       "pageReference": "1275.6",
       "sortId": "3.116.006.006",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "Así como ocurre con las partes, también ocurre con el todo; la persona espiritual de la Supremacía requiere el poder evolucionario del Todopoderoso para lograr el cumplimiento de la Deidad y alcanzar el destino de la asociación Trinitaria. El esfuerzo lo hacen las personalidades del tiempo y del espacio, pero la culminación y consumación de este esfuerzo es acción del Supremo Todopoderoso. Mientras el crecimiento del todo es de este modo el resultado total del crecimiento colectivo de las partes, igualmente se deduce que la evolución de las partes es el reflejo segmentado del crecimiento premeditado del todo."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "Y lo mismo que se aplica a las partes se aplica al todo: la persona de espíritu de la Supremacía necesita el poder evolutivo del Todopoderoso para poder consumar su Deidad y lograr su destino de asociación con la Trinidad. El esfuerzo lo realizan las personalidades del tiempo y el espacio, pero es el Supremo Todopoderoso quien culmina y consuma este esfuerzo. Y así como el crecimiento del todo es la suma del crecimiento colectivo de las partes, se sigue igualmente que la evolución de las partes es un reflejo segmentado del crecimiento intencional del todo."
     },
     {
       "type": "paragraph",
@@ -1334,8 +1334,8 @@
       "pageReference": "1275.7",
       "sortId": "3.116.006.007",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "En el Paraíso, monota y el espíritu son uno solo —indistinguibles excepto por su nombre. En Havona, materia y espíritu, aunque distinguiblemente distintos, son al mismo tiempo innatamente armoniosos. En los siete superuniversos, sin embargo, existe gran divergencia; existe una gran laguna entre la energía cósmica y el espíritu divino; por lo tanto hay una mayor potencialidad experiencial para la acción de la mente en la armonización y finalmente la unificación del modelo físico con los propósitos espirituales. En los universos en evolución temporal del espacio hay mayor atenuación de la divinidad, problemas más difíciles que deben ser solucionados y una oportunidad mayor de adquirir experiencia en su solución. Esta entera situación superuniversal origina una arena más grande de existencia evolucionaria en la cual la posibilidad de experiencia cósmica se pone a disposición por igual tanto de la criatura como del Creador —aun de la Deidad Suprema."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "En el Paraíso la monota y el espíritu son como uno, son indistinguibles excepto por el nombre. En Havona la materia y el espíritu se distinguen claramente pero poseen al mismo tiempo una armonía innata. En cambio en los siete superuniversos hay una gran divergencia, un amplio abismo entre la energía cósmica y el espíritu divino y, por lo tanto, un mayor potencial experiencial para la acción de la mente dedicada a armonizar y unificar a la larga los patrones físicos con los propósitos espirituales. En los universos del espacio que evolucionan en el tiempo la divinidad está más atenuada, hay más problemas difíciles por resolver y más oportunidades de adquirir experiencia al solucionarlos. El conjunto de esta situación de los superuniversos crea un marco mayor de existencia evolutiva que ofrece posibilidades de experiencia cósmica tanto a la criatura como al Creador, e incluso a la Deidad Suprema."
     },
     {
       "type": "paragraph",
@@ -1352,8 +1352,8 @@
       "pageReference": "1276.1",
       "sortId": "3.116.006.008",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "La Dominación del Espíritu",
-      "markdown": "La dominación del espíritu, que es existencial en los niveles absolutos, se torna una experiencia evolucionaria en los niveles finitos y en los siete superuniversos. Todos comparten esta experiencia por igual, desde el hombre mortal hasta el Ser Supremo. Todos luchan, luchan personalmente, por este logro; todos participan, participan personalmente, en el destino."
+      "sectionTitle": "La dominación del espíritu",
+      "markdown": "La dominación del espíritu, que es existencial en los niveles absolutos, se convierte en una experiencia evolutiva en los niveles finitos y en los siete superuniversos. Y esta experiencia la comparten todos por igual, desde el hombre mortal hasta el Ser Supremo. Todos se esfuerzan, se esfuerzan personalmente por alcanzar el objetivo. Todos participan, participan personalmente en el destino."
     },
     {
       "type": "section",
@@ -1370,7 +1370,7 @@
       "pageReference": null,
       "sortId": "3.116.007.000",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
+      "sectionTitle": "El organismo vivo del gran universo",
       "markdown": null
     },
     {
@@ -1388,8 +1388,8 @@
       "pageReference": "1276.2",
       "sortId": "3.116.007.001",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "El gran universo no es solamente una creación material de grandeza física, sublimidad espiritual y magnitud intelectual, sino que también es un magnífico y sensible organismo viviente. Existe vida real que late a través del mecanismo de la vasta creación del cosmos vibrante. La realidad física de los universos es simbólica de la realidad perceptible del Supremo Todopoderoso; y este organismo material y vivo es penetrado por los circuitos de la inteligencia, así como el cuerpo humano está atravesado por una red de caminos neurales de sensaciones. Las corrientes de energía que activan eficazmente la creación material permean este universo físico así como el cuerpo humano está alimentado y energizado por la distribución circulatoria de los productos de la alimentación asimilables como energía. El vasto universo no está vacío de esos centros de coordinación de magnífico supercontrol los cuales se pueden compararse con el delicado sistema de control químico del mecanismo humano. Pero si tan sólo supierais algo sobre el aspecto físico de un centro de poder, podríamos, por analogía, deciros mucho más sobre el universo físico."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "El gran universo no es solo una creación material de grandiosidad física, sublimidad espiritual y envergadura intelectual, es también un organismo vivo magnífico y receptivo. Hay vida real que late en todo el mecanismo de la vasta creación del cosmos vibrante. La realidad física de los universos simboliza la realidad perceptible del Supremo Todopoderoso. Este organismo vivo y material está penetrado por circuitos de información igual que el cuerpo humano está atravesado por una red de caminos neuronales sensitivos. Este universo físico está permeado por senderos de energía que activan eficazmente la creación material igual que el cuerpo humano está nutrido y energizado por la distribución circulatoria de los productos energéticos asimilables de la nutrición. El vasto universo posee también centros coordinadores de sobrecontrol magnífico comparables al delicado sistema de control químico del mecanismo humano. Si tan solo supierais algo sobre la constitución física de un centro del poder, podríamos contaros por analogía muchas más cosas sobre el universo físico."
     },
     {
       "type": "paragraph",
@@ -1406,8 +1406,8 @@
       "pageReference": "1276.3",
       "sortId": "3.116.007.002",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "Así como los mortales buscan el mantenimiento de la vida en la energía solar, del mismo modo el gran universo depende de las energías infalibles que emanan del Paraíso bajo para mantener las actividades materiales y los movimientos cósmicos del espacio."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "Igual que los mortales cuentan con la energía solar para mantener la vida, el gran universo depende de las energías inagotables que emanan del Paraíso bajo para sustentar las actividades materiales y los movimientos cósmicos del espacio."
     },
     {
       "type": "paragraph",
@@ -1424,8 +1424,8 @@
       "pageReference": "1276.4",
       "sortId": "3.116.007.003",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "La mente ha sido otorgada a los mortales para que ellos puedan volverse autoconscientes de la identidad y de la personalidad; y la mente —aun una Mente Suprema— ha sido donada a la totalidad de lo finito para que el espíritu de esta personalidad naciente del cosmos trate constantemente de dominar la energía-materia."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "Se ha dado a los mortales una mente con la que pueden hacerse conscientes de su identidad y de su personalidad. Se ha otorgado mente a la totalidad de lo finito, una Mente Suprema mediante la cual el espíritu de esta personalidad emergente del cosmos se esfuerza siempre por dominar la materia-energía."
     },
     {
       "type": "paragraph",
@@ -1442,8 +1442,8 @@
       "pageReference": "1276.5",
       "sortId": "3.116.007.004",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "El hombre mortal responde a la guía espiritual, así como el gran universo responde a la atracción extensa de gravedad espiritual del Hijo Eterno, la cohesión supermaterial universal de los valores espirituales eternos de todas las creaciones del cosmos finito del tiempo y del espacio."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "El hombre mortal es receptivo a la guía del espíritu de la misma forma que el gran universo responde a la atracción de la extensa gravedad de espíritu del Hijo Eterno, la cohesión supramaterial universal de los valores espirituales eternos de todas las creaciones del cosmos finito del tiempo y el espacio."
     },
     {
       "type": "paragraph",
@@ -1460,8 +1460,8 @@
       "pageReference": "1276.6",
       "sortId": "3.116.007.005",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "Los seres humanos son capaces de lograr una autoidentificación eterna con la realidad universal total e indestructible —fusión con el Ajustador del Pensamiento residente. De la misma manera, el Supremo depende eternamente de la estabilidad absoluta de la Deidad Original, la Trinidad del Paraíso."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "Los seres humanos son capaces de identificarse para siempre con la realidad total e indestructible del universo, de fusionarse con el Ajustador del Pensamiento que mora en su interior. De la misma manera, el Supremo depende para siempre de la estabilidad absoluta de la Deidad Original, la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1478,8 +1478,8 @@
       "pageReference": "1276.7",
       "sortId": "3.116.007.006",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "El impulso del hombre por la perfección del Paraíso, su lucha por llegar a Dios, crea una genuina tensión de divinidad en el cosmos vivo, que puede tan sólo ser solucionada por la evolución de un alma inmortal; esto es lo que sucede con la experiencia de una criatura mortal individual. Pero cuando todas las criaturas y todos los Creadores en el gran universo del mismo modo se esfuerzan por llegar a Dios y a la perfección divina, se acumula una profunda tensión cósmica que tan sólo puede encontrar resolución en la síntesis divina del poder todopoderoso con la persona espiritual del Dios evolutivo de todas las criaturas: el Ser Supremo."
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "El vivo deseo del hombre de perfección paradisiaca, su lucha por alcanzar a Dios, crea una auténtica tensión divina en el cosmos vivo que solo se puede resolver haciendo evolucionar un alma inmortal. Esto es lo que sucede en la experiencia de una criatura mortal individual. Pero cuando todas las criaturas y todos los Creadores del gran universo luchan al unísono por alcanzar a Dios y por la perfección divina, se acumula una profunda tensión cósmica que solo se puede resolver en la síntesis sublime del poder todopoderoso con la persona de espíritu del Dios en vías de evolución de todas las criaturas, el Ser Supremo."
     },
     {
       "type": "paragraph",
@@ -1496,8 +1496,8 @@
       "pageReference": "1277.1",
       "sortId": "3.116.007.007",
       "paperTitle": "El Supremo Todopoderoso",
-      "sectionTitle": "El Organismo Viviente del Gran Universo",
-      "markdown": "[Patrocinado por un Mensajero Poderoso temporalmente residente en Urantia]"
+      "sectionTitle": "El organismo vivo del gran universo",
+      "markdown": "[Patrocinado por un Mensajero Poderoso que reside temporalmente en Urantia.]"
     }
   ]
 }
