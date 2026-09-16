@@ -1,32 +1,32 @@
 <h1 align="center"><a name="Parts"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="front.md" title="Página de la editorial">Página de la editorial</a> | <a href="titles.md" title="Los Títulos de los Documentos">Los Títulos de los Documentos</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="front.md" title="Página de la editorial">Página de la editorial</a> | <a href="titles.md" title="Los títulos de los documentos">Los títulos de los documentos</a>&#160;&#62;&#62;</p><hr />
 
-## Las Partes del Libro
+## Las partes del libro
 
-### [PARTE I](part-1/index.md "El Universo Central y los Superuniversos")
+### [Parte I](part-1/index.md "El universo central y los superuniversos")
 
-### El Universo Central y los Superuniversos
+### El universo central y los superuniversos
 
-Auspiciada por un Cuerpo de Personalidades Superuniversales de Uversa que actúan por la autoridad de los Ancianos de los Días de Orvonton.
+Patrocinado por un cuerpo de personalidades superuniversales de Uversa que actúa por autorización de los Ancianos de los Días de Orvonton.
 
-### [PARTE II](part-2/index.md "El Universo Local")
+### [Parte II](part-2/index.md "El universo local")
 
-### El Universo Local
+### El universo local
 
-Auspiciada por un Cuerpo de Personalidades del Universo Local de Nebadon que actúan por autoridad de Gabriel de Salvington.
+Patrocinado por un cuerpo de personalidades del universo local de Nebadon que actúa por autorización de Gabriel de Salvington.
 
-### [PARTE III](part-3/index.md "La Historia de Urantia")
+### [Parte III](part-3/index.md "Historia de Urantia")
 
-### La Historia de Urantia
+### Historia de Urantia
 
-Estos documentos fueron auspiciados por un Cuerpo de Personalidades del Universo Local que actúan por autoridad de Gabriel de Salvington.
+Estos documentos fueron patrocinados por un cuerpo de personalidades del universo local que actúa por autorización de Gabriel de Salvington.
 
-### [PARTE IV](part-4/index.md "La Vida y las Enseñanzas de Jesus")
+### [Parte IV](part-4/index.md "Vida y enseñanzas de Jesús")
 
-### La Vida y las Enseñanzas de Jesus
+### Vida y enseñanzas de Jesús
 
-Esta colección de documentos fue auspiciada por una comisión de doce seres intermedios de Urantia que actúan bajo la supervisión de un director Melquisedek de revelación.
-La base de esta narrativa provino de un ser intermedio secundario a quien cierta vez fue encomendada la vigilancia y custodia superhumana de el Apóstol Andrés.
+Este grupo de documentos fue patrocinado por una comisión de doce seres intermedios de Urantia bajo la supervisión de un Melquisedec director de revelación.
+La base de esta narración fue provista por un ser intermedio secundario asignado a la custodia sobrehumana del apóstol Andrés.
 
 
