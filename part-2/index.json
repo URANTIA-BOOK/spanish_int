@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/index.md",
-  "source_sha256": "346c4562a363cb569b1a8f72003ffa44677396b9b666629c8f1f9225fa687da4",
+  "source_sha256": "aaa3c1c6453bd43efe850abd45e4a06f4fc953384fb2d0bf15805e2e63c63b48",
   "rows": [
     {
       "type": "part",
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "El Universo Local",
-      "partSponsorship": "Auspiciada por un Cuerpo de Personalidades del Universo Local de Nebadon que actúan por autoridad de Gabriel de Salvington."
+      "partTitle": "El universo local",
+      "partSponsorship": "Patrocinado por un cuerpo de personalidades del universo local de Nebadon que actúa por autorización de Gabriel de Salvington."
     }
   ]
 }
