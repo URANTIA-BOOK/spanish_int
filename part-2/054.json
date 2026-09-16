@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-2/054.md",
-  "source_sha256": "409907e022d86961224383dbcefb95c7c91b7b72242023438663148f2a1243f6",
+  "source_sha256": "a467b8c79196b2752a9ed6a5fc40ae085a2d48a17a4354b1ad497f5cdbdf0f79",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "54:0.0",
       "pageReference": null,
       "sortId": "2.054.000.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "54:0.0",
       "pageReference": null,
       "sortId": "2.054.000.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "54:0.1",
       "pageReference": "613.1",
       "sortId": "2.054.000.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
       "sectionTitle": null,
-      "markdown": "EL HOMBRE evolucionario encuentra difícil comprender plenamente el significado y entender los sentidos del mal, el error, el pecado y la iniquidad. El hombre es lento en la percepción de que la perfección y la imperfección contrastantes producen el potencial del mal; que la verdad y la falsedad contrapuestas crean el error desconcertante; que la dote divina de la elección del libre albedrío resulta en los reinos divergentes del pecado y de la rectitud; que la búsqueda persistente de la divinidad conduce al reino de Dios en contraste con su continuo rechazo, que conduce a los dominios de la iniquidad."
+      "markdown": "AL HOMBRE evolutivo le resulta difícil comprender plenamente la relevancia del mal, el error, el pecado y la iniquidad y captar sus significados. Al hombre le cuesta percibir que el contraste entre la perfección y la imperfección produce el mal potencial; que el conflicto entre la verdad y la falsedad crea error y confusión; que el don divino de la elección mediante el libre albedrío origina las esferas divergentes del pecado y de la rectitud; que la búsqueda perseverante de la divinidad conduce al reino de Dios, mientras que su continuo rechazo conduce a los dominios de la iniquidad."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "54:0.2",
       "pageReference": "613.2",
       "sortId": "2.054.000.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
       "sectionTitle": null,
-      "markdown": "Los Dioses no crean el mal ni permiten el pecado y la rebelión. El potencial del mal es temporo-existente en un universo que comprende niveles diferenciales de sentidos y valores de perfección. El pecado es potencial en todos los reinos en los que los seres imperfectos tienen la dote de saber elegir entre el bien y el mal. La presencia conflictiva misma de la verdad y la no verdad, el hecho y la falsedad, constituye la potencialidad del error. La elección deliberada del mal constituye el pecado; el rechazo volitivo de la verdad es error; la búsqueda persistente del pecado y del error es iniquidad."
+      "markdown": "Los Dioses ni crean el mal ni permiten el pecado y la rebelión. En un universo que abarca niveles diferenciales de significados y de valores de perfección, el mal potencial existe en el tiempo. El pecado está en potencia en todos los mundos donde haya seres imperfectos dotados de capacidad de elegir entre el bien y el mal. La mera presencia contrapuesta de la verdad y la no verdad, del hecho y la falsedad, constituye el potencial de error. La elección deliberada del mal constituye el pecado; el rechazo intencionado de la verdad es el error; la búsqueda persistente del pecado y del error es la iniquidad."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "54:1.0",
       "pageReference": null,
       "sortId": "2.054.001.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "54:1.1",
       "pageReference": "613.3",
       "sortId": "2.054.001.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "De todos los problemas confusos que surgieron de la rebelión de Lucifer, ninguno ha ocasionado más dificultad que el fracaso de los mortales evolucionarios inmaduros para distinguir entre la verdadera libertad y la falsa libertad."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "De todos los problemas desconcertantes surgidos de la rebelión de Lucifer, ninguno ha ocasionado más dificultades que la incapacidad de los mortales evolutivos inmaduros de distinguir entre la verdadera y la falsa libertad."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "54:1.2",
       "pageReference": "613.4",
       "sortId": "2.054.001.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "La libertad verdadera es la búsqueda de las edades y la recompensa del progreso evolucionario. La libertad falsa es la decepción sutil del error del tiempo y del mal del espacio. La libertad duradera se basa en la realidad de la justicia —inteligencia, madurez, fraternidad y equidad."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "La verdadera libertad se alcanza a través de las edades y es la recompensa del progreso evolutivo. La falsa libertad es el sutil engaño del error del tiempo y del mal del espacio. La libertad duradera se basa en la realidad de la justicia: en la inteligencia, la madurez, la fraternidad y la equidad."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "54:1.3",
       "pageReference": "613.5",
       "sortId": "2.054.001.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "La libertad es una técnica autodestructora de la existencia cósmica cuando su motivación no es inteligente, es incondicionada, e incontrolada. La verdadera libertad está progresivamente relacionada con la realidad y es por siempre respetuosa de la equidad social, la justicia cósmica, la fraternidad universal, y las obligaciones divinas."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "La libertad es una técnica autodestructiva de la existencia cósmica cuando su motivación es poco inteligente, incondicionada e incontrolada. La verdadera libertad se relaciona progresivamente con la realidad y es siempre respetuosa con la equidad social, la imparcialidad cósmica, la fraternidad del universo y las obligaciones divinas."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "54:1.4",
       "pageReference": "613.6",
       "sortId": "2.054.001.004",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "La libertad es suicidio cuando se divorcia de la justicia material, la rectitud intelectual, la paciencia social, el deber moral, y los valores espirituales. La libertad no existe fuera de la realidad cósmica, y toda realidad de la personalidad es proporcional a sus relaciones con la divinidad."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "La libertad es suicida cuando está divorciada de la justicia material, de la imparcialidad intelectual, de la paciencia social, del deber moral y de los valores espirituales. La libertad no existe fuera de la realidad cósmica, y toda realidad de la personalidad es proporcional a sus relaciones con la divinidad."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "54:1.5",
       "pageReference": "613.7",
       "sortId": "2.054.001.005",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "La autovoluntad sin frenos y la autoexpresión no regulada se igualan al egoísmo sin mitigación, la ausencia máxima de santidad. La libertad sin una conquista asociada y creciente del yo es una invención de la imaginación mortal egoísta. La libertad automotivada es una ilusión conceptual, una cruel decepción. El libertinaje que se enmascara en el manto de la libertad es el precursor de la esclavitud abyecta."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "La obstinación sin freno y la expresión desordenada del yo equivalen al egoísmo absoluto, a la suma impiedad. La libertad no acompañada de una victoria creciente sobre el propio yo es una fantasía de la imaginación egoísta del mortal. La libertad automotivada es una ilusión conceptual, un cruel engaño. El libertinaje disfrazado con los ropajes de la libertad es precursor de una abyecta esclavitud."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "54:1.6",
       "pageReference": "614.1",
       "sortId": "2.054.001.006",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "La verdadera libertad es socia del genuino autorespeto; la falsa libertad es cónyuge de la autoadmiración. La verdadera libertad es el fruto del autocontrol; la falsa libertad, la suposición de la autoafirmación. El autocontrol lleva al servicio altruista; la autoadmiración tiende a la explotación de los demás para el engrandecimiento egoísta del individuo errado que está dispuesto a sacrificar el logro recto para tener poderío injusto sobre sus semejantes."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "La verdadera libertad va unida a la auténtica autoestima; la falsa libertad es compañera de la autoadmiración. La verdadera libertad es fruto del autocontrol; la falsa libertad implica autoafirmación. El autocontrol conduce al servicio altruista; la autoadmiración tiende a la explotación de los demás por parte del individuo errado que busca su propio engrandecimiento y está dispuesto a sacrificar el logro recto para ejercer un poder injusto sobre sus semejantes."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "54:1.7",
       "pageReference": "614.2",
       "sortId": "2.054.001.007",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "Aun la sabiduría es divina y certera tan sólo cuando es cósmica en su alcance y espiritual en su motivación."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "Incluso la sabiduría solo es divina y segura cuando es cósmica en su alcance y espiritual en su motivación."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "54:1.8",
       "pageReference": "614.3",
       "sortId": "2.054.001.008",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "No hay error más grande que ese tipo de autodecepción que conduce a los seres inteligentes a anhelar el ejercicio del poderío por sobre otros seres con el propósito de privar a estas personas de sus libertades naturales. La regla de oro de la justicia humana se subleva contra todos estos fraudes, injusticias, egoísmos y falta de rectitud. Tan sólo la libertad verdadera y genuina es compatible con el reino del amor y con el ministerio de la misericordia."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "No hay error más grande que esa especie de autoengaño que conduce a seres inteligentes a ansiar ejercer el poder sobre otros seres con el propósito de privarlos de sus libertades naturales. La regla de oro de la equidad humana clama contra todos esos fraudes, injusticias, egoísmos y faltas de rectitud. Solo la verdadera y auténtica libertad es compatible con el reino del amor y el ministerio de la misericordia."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "54:1.9",
       "pageReference": "614.4",
       "sortId": "2.054.001.009",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "¡Cómo se atreve la criatura volitiva a entrometerse en los derechos de sus semejantes en nombre de la libertad personal cuando los Gobernantes Supremos del universo se colocan respetuosamente al margen de esas prerrogativas de voluntad y potenciales de personalidad! No tiene ningún ser, en el ejercicio de su supuesta libertad personal, el derecho de privar a otro ser de los privilegios de la existencia otorgados por los Creadores y debidamente respetados por todos sus leales asociados, subordinados y súbditos."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "¿¡Cómo se atreve la criatura obstinada a vulnerar los derechos de sus semejantes en nombre de la libertad personal, cuando los Regidores Supremos del universo se apartan con misericordioso respeto ante estas prerrogativas de la voluntad y estos potenciales de la personalidad!? Ningún ser, en el ejercicio de su supuesta libertad personal, tiene derecho a privar a otro ser de los privilegios de la existencia conferidos por los Creadores y debidamente respetados por todos sus asociados, subordinados y súbditos leales."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "54:1.10",
       "pageReference": "614.5",
       "sortId": "2.054.001.010",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Verdadera Libertad y la Falsa Libertad",
-      "markdown": "El hombre evolucionario tal vez tenga que luchar para sus libertades materiales contra tiranos y opresores en un mundo de pecado e iniquidad o, durante los tiempos primitivos, de una esfera primitiva en evolución, pero eso no ocurre en los mundos morontiales ni en las esferas de espíritu. La guerra es la herencia del hombre evolucionario primitivo, pero en los mundos de civilización normal en avance el combate físico como técnica de ajustar los malentendidos raciales ha caído desde hace mucho tiempo en descrédito."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La verdadera y la falsa libertad",
+      "markdown": "Puede que el hombre evolutivo tenga que luchar por sus libertades materiales contra tiranos y opresores en un mundo de pecado e iniquidad, o durante los primeros tiempos de una esfera primitiva en evolución, pero no así en los mundos de la morontia ni en las esferas del espíritu. La guerra es la herencia del primer hombre evolutivo, pero en los mundos donde la civilización progresa normalmente, el combate físico como procedimiento de resolución de malentendidos raciales hace mucho que cayó en descrédito."
     },
     {
       "type": "section",
@@ -289,8 +289,8 @@
       "standardReferenceId": "54:2.0",
       "pageReference": null,
       "sortId": "2.054.002.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
       "markdown": null
     },
     {
@@ -307,9 +307,9 @@
       "standardReferenceId": "54:2.1",
       "pageReference": "614.6",
       "sortId": "2.054.002.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
-      "markdown": "Con el Hijo y en el Espíritu proyectó Dios la eterna Havona, y desde entonces se estableció el modelo eterno de la participación igual en la creación —el compartir. Este modelo de compartir es el diseño original para cada uno de los Hijos e Hijas de Dios que salen al espacio para involucrarse en el intento de duplicar en el tiempo el universo central de perfección eterna."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
+      "markdown": "Con el Hijo y en el Espíritu, Dios proyectó el eterno Havona, y desde entonces ha imperado el patrón eterno de participación igualitaria en la creación: el compartir. Este patrón de compartir es el diseño maestro para cada uno de los Hijos y de las Hijas de Dios que sale al espacio para dedicarse al intento de duplicar en el tiempo el universo central de perfección eterna."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "54:2.2",
       "pageReference": "614.7",
       "sortId": "2.054.002.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
-      "markdown": "Toda criatura y todo universo en evolución que aspira a hacer la voluntad del Padre está destinado a volverse el socio de los Creadores espacio-temporales en esta magnífica aventura de logro experiencial de la perfección. Si esto no fuese verdad, el Padre no habría dotado a estas criaturas del libre albedrío creativo, y tampoco moraría en ellas, entrando verdaderamente en sociedad con ellas mediante su propio espíritu."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
+      "markdown": "Todas las criaturas de todos los universos en evolución que aspiran a hacer la voluntad del Padre están destinadas a convertirse en compañeras de los Creadores del espacio-tiempo en esta magnífica aventura de logro experiencial de la perfección. Si esto no fuese verdad, el Padre no habría dotado a esas criaturas de libre albedrío creativo, ni tampoco moraría en su interior hasta el punto de establecer con ellas un compañerismo por medio de su propio espíritu."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "54:2.3",
       "pageReference": "614.8",
       "sortId": "2.054.002.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
-      "markdown": "La locura de Lucifer fue tratar de hacer lo que no se puede hacer: saltarse el tiempo en un universo experiencial. El crimen de Lucifer fue el intento de privar a todas las personalidades en Satania de los derechos creativos, el acortamiento no reconocido de la participación personal de la criatura —participación de libre albedrío— en la larga lucha evolucionaria para lograr el estado de luz y vida tanto individual como colectivamente. Al hacer esto, este Soberano de antaño de vuestro sistema colocó el propósito temporal de su propia voluntad directamente en oposición al eterno propósito de la voluntad de Dios tal como se lo revela en el otorgamiento del libre albedrío para todas las criaturas personales. La rebelión de Lucifer amenazó así la usurpación máxima posible de la facultad del libre albedrío propia de los ascendenteros y los servidores del sistema de Satania —la amenaza de privar por siempre a cada uno de estos seres de la experiencia emocionante de contribuir algo personal y único al monumento de lenta construcción a la sabiduría experiencial que algún día existirá como sistema perfeccionado de Satania. Así pues el manifiesto de Lucifer, enmascarado en los mantos de la libertad, se presenta a la luz clara de la razón como una amenaza monumental, en consumación del hurto de la libertad personal, y hecho en una escala que tan sólo dos veces se ha visto en toda la historia de Nebadon."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
+      "markdown": "La locura de Lucifer fue intentar realizar lo irrealizable, cortocircuitar el tiempo en un universo experiencial. El crimen de Lucifer fue intentar privar de sus derechos creativos a todas las personalidades de Satania, abreviar de forma no reconocida la participación personal de la criatura —la participación de libre albedrío— en la larga lucha evolutiva por lograr el estatus de luz y vida tanto individual como colectivamente. Al actuar así, este antiguo Soberano de vuestro sistema contrapuso directamente el propósito temporal de su propia voluntad al propósito eterno de la voluntad de Dios que se revela en el otorgamiento del libre albedrío a todas las criaturas personales. La rebelión de Lucifer amenazó así con vulnerar al máximo el libre albedrío de los ascendentes y servidores del sistema de Satania: la amenaza de privar para siempre a cada uno de estos seres de la experiencia apasionante de contribuir con algo personal y único al monumento a la sabiduría experiencial que se erige lentamente y que existirá algún día como el sistema perfeccionado de Satania. Así, el manifiesto de Lucifer, disfrazado bajo los ropajes de la libertad, se presenta a la luz clara de la razón como una monumental amenaza de consumar el robo de la libertad personal, y de hacerlo a una escala que solo se ha planteado dos veces en toda la historia de Nebadon."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "54:2.4",
       "pageReference": "615.1",
       "sortId": "2.054.002.004",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
-      "markdown": "En breve, lo que Dios había dado a los hombres y a los ángeles Lucifer quería quitarles, o sea, el privilegio divino de participar en la creación de sus propios destinos y del destino de este sistema local de mundos habitados."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
+      "markdown": "En resumen, lo que Dios había dado a hombres y ángeles, Lucifer se lo hubiera quitado: el privilegio divino de participar en la creación de sus propios destinos y del destino de este sistema local de mundos habitados."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "54:2.5",
       "pageReference": "615.2",
       "sortId": "2.054.002.005",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Hurto de la Libertad",
-      "markdown": "Ningún ser en todo el universo tiene la libertad justa de privar a otro ser de la verdadera libertad, el derecho de amar y ser amado, el privilegio de adorar a Dios y de servir a sus semejantes."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El robo de la libertad",
+      "markdown": "Ningún ser en todo el universo tiene la libertad legítima de privar a otro ser de la verdadera libertad, del derecho a amar y ser amado, del privilegio de adorar a Dios y de servir a sus semejantes."
     },
     {
       "type": "section",
@@ -397,8 +397,8 @@
       "standardReferenceId": "54:3.0",
       "pageReference": null,
       "sortId": "2.054.003.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Justicia",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora de la justicia",
       "markdown": null
     },
     {
@@ -415,9 +415,9 @@
       "standardReferenceId": "54:3.1",
       "pageReference": "615.3",
       "sortId": "2.054.003.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Justicia",
-      "markdown": "Las criaturas volitivas morales de los mundos evolucionarios siempre se han preocupado por la pregunta irreflexiva de por qué los Creadores omnisapientes permiten el mal y el pecado. No comprenden que ambos son inevitables si la criatura ha de ser verdaderamente libre. El libre albedrío del hombre en evolución o del ángel exquisito no es un mero concepto filosófico, un ideal simbólico. La habilidad del hombre para elegir el bien y el mal es una realidad del universo. Esta libertad de elegir por sí mismo es una dote de los Gobernantes Supremos, y ellos no permitirán que ningún ser o grupo de seres prive a una sola personalidad en el vasto universo de esta libertad de otorgamiento divino —ni siquiera para satisfacer a estos seres desviados e ignorantes en el disfrutar de esta mal llamada libertad personal."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora de la justicia",
+      "markdown": "A las criaturas morales con voluntad de los mundos evolutivos les inquieta siempre la pregunta irreflexiva de por qué los omniscientes Creadores permiten el mal y el pecado. No logran comprender que ambos son inevitables si la criatura ha de ser verdaderamente libre. El libre albedrío del hombre en vías de evolución o de las ángeles excelsas no es un mero concepto filosófico, un ideal simbólico. La capacidad del hombre de elegir el bien o el mal es una realidad del universo. Esta libertad de elegir por uno mismo es una dotación de los Regidores Supremos, y estos no permitirán que ningún ser o grupo de seres prive a una sola personalidad del amplio universo de esta libertad divinamente otorgada, ni siquiera para satisfacer a tales seres errados e ignorantes en el disfrute de esta mal llamada libertad personal."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "54:3.2",
       "pageReference": "615.4",
       "sortId": "2.054.003.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Justicia",
-      "markdown": "Aunque la identificación consciente e incondicionada con el mal (pecado) es el equivalente de la no existencia (aniquilación), siempre debe intervenir entre el momento de dicha identificación personal con el pecado y la ejecución de la pena —el resultado automático de dicho abrazo volitivo del mal— un período de tiempo de suficiente longitud como para permitir que la adjudicación del estado universal de dicho individuo se compruebe enteramente satisfactoria para todas las personalidades universales relacionadas, y que sea tan justa y recta como para ganar la aprobación del pecador mismo."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora de la justicia",
+      "markdown": "Aunque la identificación consciente y de todo corazón con el mal (el pecado) es equivalente a la no existencia (la aniquilación), debe mediar siempre entre el momento de esa identificación personal con el pecado y la ejecución de la pena —resultado automático de ese abrazo deliberado al mal— un periodo de tiempo lo suficientemente largo como para permitir un enjuiciamiento del estatus de dicho individuo en el universo que resulte enteramente satisfactorio para todas las personalidades del universo involucradas, y que sea tan imparcial y justo como para obtener la aprobación del propio pecador."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "54:3.3",
       "pageReference": "615.5",
       "sortId": "2.054.003.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Justicia",
-      "markdown": "Pero si este rebelde del universo contra la realidad de la verdad y la bondad se niega a aprobar el veredicto y si el culpable conoce en su corazón la justicia de su condena pero rehusa confesarla, entonces la ejecución de la sentencia debe ser demorada de acuerdo con la discreción de los Ancianos de los Días. Y los Ancianos de los Días se niegan a aniquilar a un ser hasta que se hayan extinguido todos los valores morales y todas las realidades espirituales tanto en el pecador como en todos los soportadores relacionados y los posibles simpatizantes."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora de la justicia",
+      "markdown": "Pero si este rebelde del universo, opuesto a la realidad de la verdad y de la bondad, rehúsa aprobar el veredicto, y si el culpable conoce en su corazón la justicia de su condena pero se niega a confesarlo, la ejecución de la sentencia debe retrasarse de acuerdo con el criterio de los Ancianos de los Días. Y los Ancianos de los Días se oponen a aniquilar a ningún ser hasta que todos los valores morales y todas las realidades espirituales se hayan extinguido, tanto en el malhechor como en todos sus partidarios y posibles simpatizantes."
     },
     {
       "type": "section",
@@ -469,8 +469,8 @@
       "standardReferenceId": "54:4.0",
       "pageReference": null,
       "sortId": "2.054.004.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
       "markdown": null
     },
     {
@@ -487,9 +487,9 @@
       "standardReferenceId": "54:4.1",
       "pageReference": "615.6",
       "sortId": "2.054.004.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Otro problema un tanto difícil de explicar en la constelación de Norlatiadek pertenece a las razones que permitieron que Lucifer, Satanás y los príncipes caídos hicieran el mal por tanto tiempo antes de que se les arrestara, internara y juzgara."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "Otro problema algo difícil de explicar en la constelación de Norlatiadek es el referente a las razones por las que se permite a Lucifer, Satanás y los príncipes caídos causar daño durante tanto tiempo antes de ser apresados, internados y juzgados."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "54:4.2",
       "pageReference": "616.1",
       "sortId": "2.054.004.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Los padres, aquellos que han engendrado y criado a hijos, son capaces de comprender mejor por qué Micael, un padre Creador, pueda ser lento en la condena y destrucción de sus propios Hijos. La historia del hijo pródigo que narrara Jesús ilustra muy bien de qué manera un padre amante puede esperar por mucho tiempo hasta que el hijo descarriado se arrepienta."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "Los padres, aquellos que han tenido y criado hijos, entenderán mejor por qué a Miguel, un padre-Creador, le podría costar condenar y destruir a sus propios Hijos. La historia del hijo pródigo que narrara Jesús ilustra bien cómo un padre amoroso puede esperar durante mucho tiempo el arrepentimiento de un hijo errado."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "54:4.3",
       "pageReference": "616.2",
       "sortId": "2.054.004.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "El hecho mismo de que una criatura que hace el mal pueda verdaderamente elegir hacer el error —cometer pecado— establece el hecho del libre albedrío y justifica plenamente la demora de cualquier longitud en la ejecución de la justicia siempre y cuando la misericordia extendida pueda conducir al arrepentimiento y la rehabilitación."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "El hecho mismo de que una criatura que hace el mal pueda elegir realmente actuar así —pecar— establece el hecho del libre albedrío y justifica plenamente cualquier aplazamiento en la ejecución de la justicia, siempre que la misericordia prorrogada pudiera conducir al arrepentimiento y la rehabilitación."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "54:4.4",
       "pageReference": "616.3",
       "sortId": "2.054.004.004",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Lucifer ya poseía la mayor parte de las libertades que buscó; otras las recibiría en el futuro. Perdió todos estos dones preciosos por dar paso a la impaciencia y some-terse al deseo de poseer lo que uno anhela ahora y poseerlo en desafío de toda obligación de respeto de los derechos y libertades de todos los demás seres que componen el universo de los universos. Las obligaciones éticas son innatas, divinas y universales."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "La mayor parte de las libertades que buscaba Lucifer, ya las tenía; otras las iba a recibir en el futuro. Todas esas preciosas dotaciones se perdieron por caer en la impaciencia y por ceder al deseo de poseer en el acto lo que se ansía, y de poseerlo haciendo caso omiso de toda obligación de respetar los derechos y libertades de todos los demás seres que componen el universo de universos. Las obligaciones éticas son innatas, divinas y universales."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "54:4.5",
       "pageReference": "616.4",
       "sortId": "2.054.004.005",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Existen muchas razones que conocemos por las cuales los Gobernantes Supremos no destruyeron ni internaron inmediatamente a los líderes de la rebelión de Lucifer. Indudablemente existen otras y posiblemente mejores razones que nosotros desconocemos. Las características de misericordia de esta demora en la ejecución de la justicia fueron extendidas personalmente por Micael de Nebadon. De no haber sido por el afecto de este padre Creador por sus Hijos desviados, habría actuado la justicia suprema del superuniverso. Si un episodio semejante al de la rebelión de Lucifer hubiese ocurrido en Nebadon mientras Micael estaba encarnado en Urantia, los instigadores de dicho mal podrían haber sido aniquilados instantánea y absolutamente."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "Conocemos muchas razones por las que los Regidores Supremos no destruyeron o internaron inmediatamente a los líderes de la rebelión de Lucifer, pero existen sin duda otras razones, posiblemente mejores, que desconocemos. Fue Miguel de Nebadon quien ofreció personalmente los rasgos de misericordia de este aplazamiento en la ejecución de la justicia. Si no fuera por el afecto de este padre-Creador hacia sus Hijos errados, la justicia suprema del superuniverso habría actuado. Si un episodio como el de la rebelión de Lucifer hubiera ocurrido en Nebadon mientras Miguel estaba encarnado en Urantia, los instigadores de ese mal podrían haber sido instantánea y absolutamente aniquilados."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "54:4.6",
       "pageReference": "616.5",
       "sortId": "2.054.004.006",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "La justicia suprema puede actuar instantáneamente cuando no está frenada por la misericordia divina. Pero el ministerio de la misericordia a los hijos del tiempo y el espacio siempre provee esta demora temporal, este intervalo de salvación entre la labranza y la cosecha. Si la semilla es buena, este intervalo provee la prueba y el fortalecimiento del carácter; si la semilla es mala, esta demora misericordiosa provee tiempo para el arrepentimiento y la rectificación. Esta demora temporal en el juicio y la ejecución de los que hacen el mal es inherente en el ministerio de misericordia de los siete superuniversos. Este refrenamiento de la justicia por la misericordia prueba que Dios es amor, y que este Dios de amor domina los universos y controla con misericordia el destino y juicio de todas sus criaturas."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "La justicia suprema puede actuar instantáneamente cuando no está refrenada por la misericordia divina. Pero el ministerio de misericordia hacia los hijos del tiempo y el espacio asegura siempre esa demora, ese intervalo salvador entre la siembra y la cosecha. Si la semilla es buena, este intervalo pone a prueba el carácter y lo fortalece; si la semilla es mala, este aplazamiento misericordioso concede tiempo para el arrepentimiento y la rectificación. Esta dilación temporal en el juicio y ejecución de los malhechores es inherente al ministerio de misericordia de los siete superuniversos. Esta contención de la justicia por la misericordia prueba que Dios es amor, y que ese Dios de amor domina los universos y controla con misericordia el destino y el juicio de todas sus criaturas."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "54:4.7",
       "pageReference": "616.6",
       "sortId": "2.054.004.007",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Las demoras de misericordia en el tiempo son por mandato del libre albedrío de los Creadores. Puede derivarse el bien en el universo mediante esta técnica paciente en el tratamiento de los rebeldes pecaminosos. Aunque es totalmente verdad que aquel que contempla y hace el mal no puede derivar bien del mal, es igualmente verdad que todas las cosas (incluyendo el mal, potencial o manifiesto) cooperan para el bien de todos los seres que conocen a Dios, aman hacer su voluntad, y están ascendiendo hacia el Paraíso de acuerdo con su plan eterno y propósito divino."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "Las dilaciones por misericordia en el tiempo son por mandato del libre albedrío de los Creadores. De este trato paciente hacia los rebeldes pecadores puede derivarse un bien para el universo. Aunque es del todo cierto que no puede venir el bien del mal para aquel que contempla y hace el mal, es igualmente cierto que todas las cosas (incluyendo el mal, potencial y manifiesto) trabajan juntas para el bien de todos los seres que conocen a Dios, aman hacer su voluntad y están ascendiendo hacia el Paraíso conforme a su plan eterno y su propósito divino."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "54:4.8",
       "pageReference": "616.7",
       "sortId": "2.054.004.008",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Demora Temporal de la Misericordia",
-      "markdown": "Pero estas demoras misericordiosas no son interminables. A pesar de la larga demora (tal como se mide el tiempo en Urantia) en la sentencia de la rebelión de Lucifer, podemos registrar que, durante el período de efectuar esta revelación, se celebró la primera audiencia en el caso pendiente de Gabriel *vs.* Lucifer en Uversa, y poco tiempo después fue emitido el mandato de los Ancianos de los Días ordenando que Satanás fuera confinado al mundo prisión con Lucifer. Esto pone fin a la habilidad de Satanás de realizar visitas ulteriores a cualquiera de los mundos caídos de Satania. La justicia en un universo dominado por la misericordia puede ser lenta, pero es certera."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La demora por misericordia",
+      "markdown": "Pero estas dilaciones por misericordia no son interminables. A pesar del gran retraso (según el tiempo de Urantia) en juzgar la rebelión de Lucifer, podemos hacer constar que al tiempo de elaborarse esta revelación se celebró en Uversa la primera vista del caso pendiente de Gabriel *contra* Lucifer. Poco después se promulgó el mandato de los Ancianos de los Días que ordenaba el confinamiento de Satanás en el mundo prisión con Lucifer y ponía fin definitivamente a su capacidad de volver a ninguno de los mundos caídos de Satania. La justicia en un universo dominado por la misericordia puede ser lenta, pero es segura."
     },
     {
       "type": "section",
@@ -631,8 +631,8 @@
       "standardReferenceId": "54:5.0",
       "pageReference": null,
       "sortId": "2.054.005.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
       "markdown": null
     },
     {
@@ -649,9 +649,9 @@
       "standardReferenceId": "54:5.1",
       "pageReference": "617.1",
       "sortId": "2.054.005.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "De las muchas razones que yo conozco de por qué antes no se internaron ni juzgaron a Lucifer y sus confederados, se me permite mencionar las siguientes:"
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "De las muchas razones que conozco por las que Lucifer y sus cómplices no fueron internados o enjuiciados antes, estoy autorizado a enumerar las siguientes:"
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "54:5.2",
       "pageReference": "617.2",
       "sortId": "2.054.005.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "1. La misericordia requiere que cada malhechor tenga suficiente tiempo para formular una actitud deliberada y plenamente elegida respecto de sus pensamientos malignos y de sus acciones pecaminosas."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "1. La misericordia requiere que todo malhechor tenga tiempo suficiente para formular una actitud deliberada y plenamente elegida respecto a sus pensamientos de maldad y a sus actos pecaminosos."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "54:5.3",
       "pageReference": "617.3",
       "sortId": "2.054.005.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "2. El amor de un Padre domina la justicia suprema; por lo tanto la justicia nunca destruirá lo que la misericordia pueda salvar. El tiempo para aceptar la salvación es concedido a todo malhechor."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "2. La justicia suprema está dominada por un amor de Padre, por lo tanto la justicia nunca destruirá lo que la misericordia pueda salvar. Se concede a todo malhechor tiempo para aceptar la salvación."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "54:5.4",
       "pageReference": "617.4",
       "sortId": "2.054.005.004",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "3. Ningún padre afectuoso se apresura jamás en castigar a un miembro de su familia que comete un error. La paciencia no puede funcionar independientemente del tiempo."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "3. Ningún padre afectuoso se precipita jamás a infligir un castigo a un miembro errado de su familia. La paciencia no puede funcionar independientemente del tiempo."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "54:5.5",
       "pageReference": "617.5",
       "sortId": "2.054.005.005",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "4. Aunque el error es siempre dañino para una familia, la sabiduría y el amor advierten a los niños rectos que tengan paciencia con un hermano que yerra durante el tiempo de demora otorgado por el padre afectuoso para que el pecador pueda ver el error de su acción y abrazar la salvación."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "4. Aunque obrar mal siempre es perjudicial para una familia, la prudencia y el amor exhortan a los hijos rectos a tener paciencia con un hermano errado durante el tiempo concedido por el padre afectuoso para que el pecador pueda ver el error de su conducta y abrazar la salvación."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "54:5.6",
       "pageReference": "617.6",
       "sortId": "2.054.005.006",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "5. Aparte de la actitud de Micael hacia Lucifer, a pesar de ser él el Padre Creador de Lucifer, no le incumbía al Hijo Creador ejercer una jurisdicción sumaria sobre el apóstata Soberano del Sistema, porque no había por aquel entonces completado su carrera de autootorgamiento, mediante la cual llegó a la soberanía incondicional de Nebadon."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "5. Fuera la que fuera la actitud de Miguel hacia Lucifer, y a pesar de ser el padre Creador de Lucifer, no era competencia del Hijo Creador ejercer una jurisdicción sumaria sobre el Soberano de Sistema apóstata porque aún no había completado su carrera de otorgamientos y logrado con ello la soberanía incondicional de Nebadon."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "54:5.7",
       "pageReference": "617.7",
       "sortId": "2.054.005.007",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "6. Los Ancianos de los Días podían haber aniquilado inmediatamente a estos rebeldes, pero raramente ejecutan a los malhechores sin una audiencia plenaria. En este caso se negaron a invalidar las decisiones de Micael."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "6. Los Ancianos de los Días podían haber aniquilado inmediatamente a estos rebeldes, pero raramente ejecutan a los malhechores sin una audiencia completa. En esta ocasión no quisieron desautorizar las decisiones de Miguel."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "54:5.8",
       "pageReference": "617.8",
       "sortId": "2.054.005.008",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "7. Es evidente que Emanuel aconsejó a Micael que se mantuviera al margen de los rebeldes y permitiera que la rebelión siguiese su curso natural de autoobliteración. Y la sabiduría del Unión de los Días es el reflejo temporal de la sabiduría unida de la Trinidad del Paraíso."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "7. Es evidente que Emmanuel aconsejó a Miguel que se mantuviera al margen de los rebeldes y permitiera que la rebelión siguiera su curso natural de autodestrucción. Y la sabiduría del Unión de los Días es el reflejo en el tiempo de la sabiduría unitaria de la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "54:5.9",
       "pageReference": "617.9",
       "sortId": "2.054.005.009",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "8. El Fiel de los Días en Edentia aconsejó a los Padres de la Constelación permitir que los rebeldes siguieran un curso libre hasta el fin para que toda simpatía por estos malhechores fuera extirpada de los corazones de todos los ciudadanos, presentes y futuros, de Norlatiadek —toda criatura mortal, morontial o espiritual."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "8. El Fiel de los Días de Edentia recomendó a los Padres de la Constelación que permitieran a los rebeldes seguir libremente su curso con el fin de que cualquier afinidad hacia estos malhechores se desarraigara cuanto antes del corazón de todo ciudadano presente y futuro de Norlatiadek, de toda criatura mortal, de morontia o de espíritu."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "54:5.10",
       "pageReference": "617.10",
       "sortId": "2.054.005.010",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "9. En Jerusem el representante personal del Ejecutivo Supremo de Orvonton aconsejó a Gabriel fomentar toda oportunidad para que cada criatura viviente madurara su decisión deliberada respecto de estos asuntos que correspondían a la Declaración Luciferina de Libertad. Ya que se habían planteado los temas de la rebelión, el consejero de urgencia Paradisiaco para Gabriel declaró que, si no se ofrecía una tal oportunidad, plena y libre, a todas las criaturas de Norlatiadek, entonces la cuarentena proclamada por el Paraíso contra todas estas criaturas posiblemente inciertas y semisinceras debería ser extendida, en nombre de autoprotección, contra toda la constelación. Para mantener abiertas las puertas de la ascensión al Paraíso a los seres de Norlatiadek, era necesario proveer el desarrollo pleno de la revolución y asegurar la determinación completa de la actitud por parte de todos los seres que tuvieran de alguna manera algo que ver con esto."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "9. En Jerusem el representante personal del Ejecutivo Supremo de Orvonton aconsejó a Gabriel que diera a toda criatura viva la oportunidad plena de madurar una decisión meditada sobre los asuntos implicados en la Declaración de Libertad de Lucifer. Una vez planteadas las cuestiones de la rebelión, el asesor paradisiaco de emergencia de Gabriel manifestó que si no se diera esa oportunidad plena y libre a todas las criaturas de Norlatiadek, la cuarentena paradisiaca contra todas estas criaturas, posiblemente tibias o acosadas por las dudas, se extendería como autoprotección a toda la constelación. Para mantener abiertas a los seres de Norlatiadek las puertas de ascenso al Paraíso, era necesario garantizar el desarrollo pleno de la rebelión y asegurar que todos los seres relacionados de algún modo con ella decidieran claramente su postura."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "54:5.11",
       "pageReference": "617.11",
       "sortId": "2.054.005.011",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "10. La Ministra Divina de Salvington emitió como su tercera proclamación independiente un mandato ordenando que no se debían tomar medidas para solucionar a medias, suprimir cobardemente, o de cualquier otra manera ocultar el rostro horrible de los rebeldes y de la rebelión. Se ordenó a las huestes angélicas que trabajaran hacia una divulgación total y una oportunidad ilimitada de expresión del pecado, afirmándose que ésta sería la técnica más rápida para lograr la curación perfecta y final de la peste del mal y del pecado."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "10. La Ministra Divina de Salvington emitió en su tercera proclamación independiente un mandato con instrucciones de no hacer nada por curar a medias, disimular cobardemente u ocultar de cualquier otra forma el horrible rostro de los rebeldes y de la rebelión. Se instruyó a las huestes angélicas a desvelar la expresión del pecado de forma plena e ilimitada, por ser este el procedimiento más rápido de conseguir la curación perfecta y final de la plaga del mal y del pecado."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "54:5.12",
       "pageReference": "618.1",
       "sortId": "2.054.005.012",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "11. En Jerusem se organizó un concilio de urgencia de ex-mortales que consistía en Mensajeros Poderosos, mortales glorificados que habían tenido experiencia personal en situaciones semejantes, juntamente con sus colegas. Aconsejaron a Gabriel que por lo menos tres veces el número de seres se perderían si se aplicaban métodos arbitrarios o sumarios de supresión. El entero cuerpo de consejeros de Uversa acordó aconsejar a Gabriel que dejase que la rebelión siguiera su curso pleno y natural, aunque se requiriesen un millón de años para poner fin a las consecuencias."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "11. Se organizó en Jerusem un consejo de emergencia de exmortales compuesto por Mensajeros Poderosos, mortales glorificados que habían tenido experiencia personal en situaciones similares, junto con sus colegas. Informaron a Gabriel de que se descarriaría al menos un número tres veces mayor de seres si se intentaran métodos arbitrarios o sumarios de represión. Todo el cuerpo de consejeros de Uversa coincidió en aconsejar a Gabriel que permitiera que la rebelión siguiera su curso pleno y natural, aunque se necesitara un millón de años para acabar con las consecuencias."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "54:5.13",
       "pageReference": "618.2",
       "sortId": "2.054.005.013",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "12. El tiempo, aun en un universo temporal, es relativo: si un mortal de Urantia de una vida de longitud promedio cometiese un crimen que precipitara un pandemonio mundial, y si se le arrestara, se le llevara ante los tribunales, se le juzgara y se le ejecutara a los dos o tres días de cometer el crimen, ¿os parecería a vosotros mucho tiempo? Y sin embargo eso se acercaría más, comparativamente, a la duración de la vida de Lucifer, aun si su juicio, ya iniciado, no se completara en cien mil años urantianos. El valor relativo del período de tiempo desde el punto de vista de Uversa, en donde la causa está pendiente, podría ilustrarse diciendo que el crimen de Lucifer fue llevado a tribunales dentro de dos segundos y medio de haberlo cometido. Desde el punto de vista del Paraíso, el juicio es simultáneo al acto."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "12. El tiempo, incluso en un universo del tiempo, es relativo: si un mortal de Urantia con una vida de duración media cometiese un crimen que desencadenara un pandemonio mundial y fuera apresado, juzgado y ejecutado a los dos o tres días de cometer el crimen, ¿os parecería mucho tiempo? Y sin embargo, esa sería la comparación más parecida a la duración de la vida de Lucifer, incluso si su juicio ya iniciado no se completara en cien mil años de Urantia. Desde el punto de vista de Uversa, donde el litigio está pendiente, se podría ilustrar el lapso relativo de tiempo diciendo que el crimen de Lucifer fue llevado a juicio a los dos segundos y medio de haberse cometido. Desde el punto de vista del Paraíso, el enjuiciamiento es simultáneo a la actuación."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "54:5.14",
       "pageReference": "618.3",
       "sortId": "2.054.005.014",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "La Sabiduría de la Demora",
-      "markdown": "Existe un igual número de razones para no interrumpir arbitrariamente la rebelión de Lucifer que serían parcialmente comprensibles para vosotros, pero que no se me permite narrar. Puedo informaros que en Uversa enseñamos cuarenta y ocho razones para permitir que el mal corra su pleno curso y su propia bancarrota moral y extinción espiritual. No dudo de que exista por lo menos igual número de razones adicionales que yo no conozca."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "La sabiduría de la dilación",
+      "markdown": "Existe un número igual de razones para no detener arbitrariamente la rebelión de Lucifer que serían parcialmente comprensibles para vosotros, pero que no se me permite exponer. Puedo informaros de que en Uversa enseñamos cuarenta y ocho razones para permitir que el mal siga el curso pleno de su propia ruina moral y extinción espiritual. No dudo de que haya otras tantas razones adicionales que desconozco."
     },
     {
       "type": "section",
@@ -901,8 +901,8 @@
       "standardReferenceId": "54:6.0",
       "pageReference": null,
       "sortId": "2.054.006.000",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
       "markdown": null
     },
     {
@@ -919,9 +919,9 @@
       "standardReferenceId": "54:6.1",
       "pageReference": "618.4",
       "sortId": "2.054.006.001",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Sean cuales fueren las dificultades que los mortales evolucionarios puedan encontrar en sus esfuerzos por comprender la rebelión de Lucifer, debería resultar claro para todo pensador caviloso que la técnica de tratar a los rebeldes es una vindicación del amor divino. La misericordia amante extendida a los rebeldes parece haber precipitado a muchos seres inocentes en tribulaciones y vicisitudes, pero todas estas personalidades apenadas pueden confiar certeramente en Jueces omnisapientes que adjudicarán sus destinos en la misericordia así como también en la justicia."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Con independencia de las dificultades que puedan tener los mortales evolutivos en sus intentos de comprender la rebelión de Lucifer, debería quedar claro para todos los pensadores reflexivos que modo de tratar a los rebeldes es una justificación del amor divino. La misericordia amorosa ofrecida a los rebeldes parece efectivamente haber expuesto a muchos seres inocentes a padecimientos y tribulaciones, pero todas estas personalidades afligidas pueden tener la seguridad de que Jueces omniscientes enjuiciarán sus destinos tanto con misericordia como con justicia."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "54:6.2",
       "pageReference": "618.5",
       "sortId": "2.054.006.002",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "En todos sus tratos con los seres inteligentes, tanto el Hijo Creador como su Padre en el Paraíso están dominados por el amor. Es imposible comprender muchas fases de la actitud de los gobernantes universales hacia rebeldes y rebeliones, pecado y pecadores, a menos que recordemos que Dios como Padre toma precedencia sobre todas las demás fases de la manifestación de la Deidad en todos los tratos de la divinidad con la humanidad. También debe recordarse que los Hijos Creadores Paradisiacos están todos motivados por la misericordia."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "En todos sus tratos con los seres inteligentes, tanto el Hijo Creador como su Padre del Paraíso están dominados por el amor. Es imposible comprender muchos aspectos de la actitud de los regidores del universo hacia los rebeldes y la rebelión —hacia el pecado y los pecadores— a menos que recordemos que Dios como Padre tiene precedencia sobre todas los demás aspectos de manifestación de la Deidad en todos los tratos de la divinidad con la humanidad. Recordemos también que todos los Hijos Creadores del Paraíso están motivados por la misericordia."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "54:6.3",
       "pageReference": "618.6",
       "sortId": "2.054.006.003",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Si un padre afectuoso de una familia grande elige mostrar misericordia a uno de sus hijos culpable de graves maldades, es muy posible que la extensión de la misericordia a este hijo que se porta mal pueda dar como resultado dificultades temporales para todos los demás hijos de buena conducta. Estas contingencias son inevitables; este riesgo es inseparable de la situación real de tener un padre amante y de integrar un grupo familiar. Cada integrante de una familia se beneficia por la conducta recta de todos los demás miembros; del mismo modo, cada integrante ha de sufrir las consecuencias temporales inmediatas de la mala conducta de cualquier otro de los miembros. Las familias, como los grupos, como las naciones, como las razas, como los mundos, los sistemas, las constelaciones y los universos, son relaciones de asociación que poseen individualidad; y por lo tanto cada integrante de cada grupo grande o pequeño, cosecha los beneficios y sufre las consecuencias de la rectitud y de la maldad de cualquier otro de los miembros del grupo correspondiente."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Si el padre afectuoso de una gran familia elige mostrar misericordia hacia uno de sus hijos culpable de una falta grave, bien pudiera ocurrir que el trato misericordioso al hijo que se comporta mal cause penalidades temporales al resto de los hijos que se comportan bien. Esas eventualidades son inevitables; ese riesgo es inseparable del hecho de tener un padre amoroso y ser miembro de un grupo familiar. Todos los miembros de una familia se benefician de la conducta recta de los demás miembros, igual que todos los miembros deben sufrir las consecuencias inmediatas en el tiempo de la mala conducta de cualquier miembro. Las familias, los grupos, las naciones, las razas, los mundos, los sistemas, las constelaciones y los universos son relaciones de asociación que poseen individualidad, y por lo tanto, todos los miembros de cualquiera de esos grupos, grandes o pequeños, cosechan los beneficios y sufren las consecuencias del bien y el mal obrar de todos los demás miembros del grupo en cuestión."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "54:6.4",
       "pageReference": "619.1",
       "sortId": "2.054.006.004",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Pero debemos aclarar una cosa: si se te obliga a sufrir las consecuencias dañinas del pecado de un integrante de tu familia, un conciudadano o un semejante mortal, aun de la rebelión en el sistema o en otra parte —sea lo que fuere lo que te veas obligado a soportar debido a la maldad de tus asociados, semejantes o superiores— puedes estar seguro de la certidumbre eterna de que dichas tribulaciones son aflicciones transitorias. Ninguna de estas consecuencias relacionadas de la mala conducta en el grupo puede poner jamás en peligro tu futuro eterno ni privarte en lo más mínimo de tu derecho divino a la ascensión al Paraíso y al logro de Dios."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Pero una cosa debe quedar clara: si os hacen sufrir las consecuencias maléficas del pecado de algún miembro de vuestra familia, de algún conciudadano o compañero mortal, incluso de alguna rebelión en el sistema o en otra parte —sea cual fuere el sufrimiento que os cause la maldad de vuestros colaboradores, compañeros o superiores—, podéis confiar en la seguridad eterna de que tales tribulaciones son aflicciones pasajeras. Ninguna de esas consecuencias fraternas del mal comportamiento dentro del grupo puede poner jamás en peligro vuestras perspectivas eternas ni privaros en lo más mínimo de vuestro derecho divino de ascender al Paraíso y lograr a Dios."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "54:6.5",
       "pageReference": "619.2",
       "sortId": "2.054.006.005",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Y existe una compensación para estas tribulaciones, demoras y desencantos que invariablemente acompañan al pecado de la rebelión. De las muchas repercusiones valiosas de la rebelión de Lucifer que podrían mencionarse, tan sólo llamaré la atención sobre las carreras enaltecidas de aquellos mortales ascendentes, los ciudadanos de Jerusem, que, por resistir a los sofismas del pecado, se colocaron en línea para volverse futuros Mensajeros Poderosos, semejantes a mi propia orden. Todo ser que pudo resistir ese episodio malvado inmediatamente avanzó su estado administrativo y elevó su valor espiritual."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Y hay compensación para estos padecimientos, dilaciones y decepciones que acompañan invariablemente al pecado de rebelión. Entre las muchas repercusiones valiosas de la rebelión de Lucifer que se podrían mencionar, solo destacaré el avance en las carreras de aquellos mortales ascendentes, ciudadanos de Jerusem, que al resistirse a las sofisterías del pecado se pusieron en situación de convertirse en futuros Mensajeros Poderosos, en compañeros de mi propio orden. Todo ser que superó la prueba de ese episodio funesto progresó inmediatamente en su estatus administrativo y acrecentó su valía espiritual."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "54:6.6",
       "pageReference": "619.3",
       "sortId": "2.054.006.006",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Al principio, el sublevamiento de Lucifer pareció una calamidad sin mitigaciones para el sistema y para el universo. Gradualmente comenzaron a acumularse los beneficios. Con el paso de veinticinco mil años de tiempo del sistema (veinte mil años de tiempo de Urantia), los Melquisedek comenzaron a enseñar que la bondad resultante de la locura de Lucifer había comenzado a igualar el mal incurrido. La suma del mal se había vuelto en esa época casi estacionaria, continuando a aumentar sólo en ciertos mundos aislados, mientras que las repercusiones beneficiosas continuaban multiplicándose y extendiéndose a través del universo y del superuniverso, aun hasta Havona. Los Melquisedek enseñan ahora que lo bueno que resultó de la rebelión de Satania es más de mil veces la suma de todo lo malo."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Aunque al principio el levantamiento de Lucifer pareció ser una calamidad absoluta para el sistema y para el universo, sus beneficios empezaron a acumularse gradualmente. Con el paso de veinticinco mil años del tiempo del sistema (veinte mil años del tiempo de Urantia), los Melquisedec empezaron a enseñar que todo el bien resultante de la locura de Lucifer había llegado a igualar el mal sufrido. En aquel momento, la suma del mal se había vuelto casi estacionaria y continuaba creciendo solo en ciertos mundos aislados, mientras que las repercusiones beneficiosas seguían multiplicándose y extendiéndose por el universo y el superuniverso, incluso hasta Havona. Los Melquisedec enseñan ahora que el bien resultante de la rebelión de Satania es más de mil veces superior a la suma de todo el mal."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "54:6.7",
       "pageReference": "619.4",
       "sortId": "2.054.006.007",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Pero una cosecha tan extraordinaria y beneficiosa a partir de la maldad tan sólo se podía producir por la actitud sabia, divina y misericordiosa de todos los superiores de Lucifer, desde los Padres de la Constelación en Edentia hasta el Padre Universal en el Paraíso. El paso del tiempo ha elevado el bien consecuencial que se puede derivar de la locura de Lucifer; y puesto que el mal que ha de castigarse se había desarrollado plenamente dentro de un período comparativamente corto, es aparente que los gobernantes omnisapientes y de gran visión del universo ciertamente prolongarían el período de tiempo para cosechar resultados cada vez más beneficiosos. Fuera de muchas razones adicionales que explican la demora en el arresto y adjudicación de los rebeldes de Satania, este beneficio por sí solo habría sido suficiente para explicar por qué estos pecadores no fueron internados antes, y por qué no han sido juzgados y destruidos."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Pero una cosecha tan extraordinaria y beneficiosa obtenida a partir de la maldad solo podía ser consecuencia de la actitud sabia, divina y misericordiosa de todos los superiores de Lucifer, desde los Padres de la Constelación de Edentia hasta el Padre Universal del Paraíso. El paso del tiempo ha aumentado el bien que ha de resultar de la locura de Lucifer. Y puesto que el mal que sancionar se había desarrollado plenamente en un periodo relativamente corto, era de prever que los regidores del universo, omniscientes y con visión de futuro, prolongarían sin duda el tiempo en el que cosechar resultados cada vez más beneficiosos. Con independencia de las muchas razones adicionales para retrasar el apresamiento y enjuiciamiento de los rebeldes de Satania, este único beneficio hubiera bastado para explicar por qué estos pecadores no fueron internados antes, y por qué no han sido juzgados y destruidos."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "54:6.8",
       "pageReference": "619.5",
       "sortId": "2.054.006.008",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Las mentes de los mortales de poca visión, atadas al tiempo, no deben lanzarse a criticar las demoras temporales de los administradores de gran visión y gran sabiduría de los asuntos del universo."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "La mente de los mortales, corta de miras y atada al tiempo, no debería precipitarse en criticar las dilaciones temporales de los administradores de los asuntos del universo, omniscientes y con visión de futuro."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "54:6.9",
       "pageReference": "620.1",
       "sortId": "2.054.006.009",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "Un error del pensamiento humano respecto de estos problemas consiste en la idea de que todos los mortales evolucionarios en un planeta en evolución elegirían entrar a la carrera al Paraíso si el pecado no hubiese maldecido su mundo. La capacidad de rehusar la supervivencia no data de los tiempos de la rebelión de Lucifer. El hombre mortal ha poseído siempre la dote de la elección del libre albedrío en cuanto a la carrera al Paraíso."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "Uno de los errores del pensamiento humano con respecto a estos problemas consiste en creer que todos los mortales evolutivos de un planeta en evolución habrían elegido entrar en la carrera al Paraíso si el pecado no hubiera maldecido su mundo. La capacidad de rechazar la supervivencia no data de los tiempos de la rebelión de Lucifer. El hombre mortal ha poseído siempre el don de la libre elección respecto a la carrera al Paraíso."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "54:6.10",
       "pageReference": "620.2",
       "sortId": "2.054.006.010",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "A medida que ascendéis en la experiencia de la supervivencia, ampliaréis vuestros conceptos en lo que concierne el universo y extenderéis vuestro horizonte de significados y valores; y de este modo seréis capaces de comprender mejor por qué seres como Lucifer y Satanás tienen permiso para continuar en rebelión. También comprenderéis mejor de qué manera el bien último (si no inmediato) se puede derivar del mal limitado en el tiempo. Después que logréis el Paraíso, estaréis realmente más esclarecidos y cómodos, cuando escuchéis a los filósofos superáficos discutir y explicar estos problemas profundos del ajuste universal. Pero aun entonces, dudo que estaréis plenamente satisfechos en vuestra propia mente. Por lo menos yo no lo estuve, aun cuando alcancé así la cúspide de la filosofía universal. No llegué a la comprensión plena de estas complejidades hasta después de haber sido asignado a los deberes administrativos en el superuniverso, en el cual adquirí mediante la experiencia real la capacidad conceptual adecuada para la comprensión de muchos problemas polifacéticos de la equidad cósmica y la filosofía espiritual. A medida que ascendáis hacia el Paraíso, aprenderéis cada vez más que muchas características problemáticas de la administración universal tan sólo pueden ser comprendidas posteriormente a la adquisición de una mayor capacidad experiencial y al logro de un discernimiento espiritual más elevado. La sabiduría cósmica es esencial para comprender las situaciones cósmicas."
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "A medida que ascendáis en la experiencia de la supervivencia, ampliaréis vuestros conceptos del universo y extenderéis vuestro horizonte de significados y de valores; con ello podréis entender mejor por qué a seres como Lucifer y Satanás se les permite continuar con la rebelión. Comprenderéis también mejor cómo puede provenir un bien último (si no inmediato) de un mal limitado en el tiempo. Una vez hayáis alcanzado el Paraíso, os sentiréis realmente iluminados y confortados cuando escuchéis a las filósofas superáficas comentar y explicar estos profundos problemas de ajuste del universo. Pero incluso entonces, dudo que estéis plenamente satisfechos en vuestro fuero interno. Al menos yo no lo estuve, ni siquiera cuando logré alcanzar así la cima de la filosofía del universo. No conseguí comprender plenamente estas complejidades hasta después de haber sido asignado a los deberes administrativos del superuniverso, donde he adquirido mediante experiencia directa la capacidad conceptual adecuada para comprender estos polifacéticos problemas con equidad cósmica y filosofía espiritual. A medida que ascendáis hacia el Paraíso, iréis aprendiendo gradualmente que muchas características problemáticas de la administración del universo solo se pueden comprender tras adquirir una mayor capacidad experiencial y conseguir una mejor visión interior espiritual. La sabiduría cósmica es esencial para entender las situaciones cósmicas."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "54:6.11",
       "pageReference": "620.3",
       "sortId": "2.054.006.011",
-      "paperTitle": "Los Problemas de la Rebelión de Lucifer",
-      "sectionTitle": "El Triunfo del Amor",
-      "markdown": "[Presentado por un Mensajero Poderoso de supervivencia experiencial en la primera rebelión de un sistema en los universos del tiempo; vinculado actualmente al gobierno del superuniverso de Orvonton y actuando en esta tarea por solicitud de Gabriel de Salvington.]"
+      "paperTitle": "Los problemas de la rebelión de Lucifer",
+      "sectionTitle": "El triunfo del amor",
+      "markdown": "[Presentado por un Mensajero Poderoso, superviviente experiencial de la primera rebelión de un sistema en los universos del tiempo, adscrito ahora al gobierno del superuniverso de Orvonton y que actúa en este asunto a petición de Gabriel de Salvington.]"
     }
   ]
 }
