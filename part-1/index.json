@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-1/index.md",
-  "source_sha256": "a7ec75ce0e157659f4bdd39d897bb0c7fbe3e49fe169f7502097f9c2b99247e2",
+  "source_sha256": "89a2bece29431c7bddd75f6a97a46ca6b0364519d8133ba2cc1d5d35aa3b75cc",
   "rows": [
     {
       "type": "part",
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "El Universo Central y los Superuniversos",
-      "partSponsorship": "Auspiciada por un Cuerpo de Personalidades Superuniversales de Uversa que actúan por la autoridad de los Ancianos de los Días de Orvonton."
+      "partTitle": "El universo central y los superuniversos",
+      "partSponsorship": "Patrocinado por un cuerpo de personalidades superuniversales de Uversa que actúa por autorización de los Ancianos de los Días de Orvonton."
     }
   ]
 }
