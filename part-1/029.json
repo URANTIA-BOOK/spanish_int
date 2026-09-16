@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-1/029.md",
-  "source_sha256": "582606ad309d6065feb1725d128c2571a0cd6079440c621c647faae9b7e04fe7",
+  "source_sha256": "83a0447b05844ab736515a29b6fc8bc2a91a2b1090c7105c4bb731d511b4d52a",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "29:0.0",
       "pageReference": null,
       "sortId": "1.029.000.000",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "29:0.0",
       "pageReference": null,
       "sortId": "1.029.000.000",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "29:0.1",
       "pageReference": "319.1",
       "sortId": "1.029.000.001",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "DE TODAS las personalidades del universo que se ocupan de la reglamentación de los asuntos interplanetarios e interuniversales, los directores del poder y sus asociados son los menos comprendidos en Urantia. Aunque vuestras razas han sabido por largo tiempo de la existencia de los ángeles y de órdenes similares de seres celestiales, muy poca información se ha impartido jamás sobre los controladores y reguladores del dominio físico. Aun ahora, tan sólo se me permite divulgar plenamente la información acerca del último de los siguientes tres grupos de seres vivientes que tienen que ver con el control de la fuerza y la reglamentación de la energía en el universo maestro:"
+      "markdown": "DE TODAS las personalidades del universo involucradas en la regulación de los asuntos interplanetarios e interuniversales, los directores del poder y sus asociados son los menos comprendidos en Urantia. Vuestras razas conocen desde hace mucho la existencia de ángeles y otros órdenes similares de seres celestiales, pero se ha impartido siempre poca información sobre los controladores y reguladores del dominio físico. Incluso ahora solo estoy autorizado a dar a conocer plenamente el último de los tres grupos siguientes de seres vivos relacionados con el control de la fuerza y la regulación de la energía en el universo maestro:"
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "29:0.2",
       "pageReference": "319.2",
       "sortId": "1.029.000.002",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "1. Organizadores de la Fuerza Decanos Primarios Eventuados."
+      "markdown": "1. Organizadores Maestros Devenidos Primarios de la Fuerza."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "29:0.3",
       "pageReference": "319.3",
       "sortId": "1.029.000.003",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "2. Organizadores de la Fuerza Decanos Asociados Trascendentales."
+      "markdown": "2. Organizadores Maestros Trascendentales Asociados de la Fuerza."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "29:0.4",
       "pageReference": "319.4",
       "sortId": "1.029.000.004",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "3. Directores del Poder Universal."
+      "markdown": "3. Directores del Poder del Universo."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "29:0.5",
       "pageReference": "319.5",
       "sortId": "1.029.000.005",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "A pesar de que considero imposible describir la individualidad de los varios grupos de directores, centros y controladores del poder universal, espero poder explicar algo acerca del dominio de sus actividades. Se trata de un grupo singular de seres vivientes que tienen que ver con la reglamentación inteligente de la energía en todo el gran universo. Incluyendo a los directores supremos, comprenden las siguientes divisiones principales:"
+      "markdown": "Aunque considero imposible describir la individualidad de los diversos grupos de directores, centros y controladores del poder del universo, espero poder explicar algo sobre el ámbito de sus actividades. Son un grupo único de seres vivos relacionados con la regulación inteligente de la energía en todo el gran universo. Incluyendo a los directores supremos, comprenden las siguientes divisiones principales:"
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "29:0.6",
       "pageReference": "319.6",
       "sortId": "1.029.000.006",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "1. Los Siete Directores Supremos del Poder."
+      "markdown": "1. Los siete Directores Supremos del Poder."
     },
     {
       "type": "paragraph",
@@ -163,7 +163,7 @@
       "standardReferenceId": "29:0.7",
       "pageReference": "319.7",
       "sortId": "1.029.000.007",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
       "markdown": "2. Los Centros Supremos del Poder."
     },
@@ -181,9 +181,9 @@
       "standardReferenceId": "29:0.8",
       "pageReference": "319.8",
       "sortId": "1.029.000.008",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "3. Los Controladores Físicos Decanos."
+      "markdown": "3. Los Controladores Físicos Maestros."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "29:0.9",
       "pageReference": "319.9",
       "sortId": "1.029.000.009",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "4. Los Supervisores del Poder Morontial."
+      "markdown": "4. Los Supervisores del Poder de la Morontia."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "29:0.10",
       "pageReference": "319.10",
       "sortId": "1.029.000.010",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "Los Directores y Centros Supremos del Poder han existido desde los tiempos cercanos a la eternidad, y por lo que nosotros sabemos, no se han creado más seres de estas órdenes. A los Siete Directores Supremos los personalizaron los Siete Espíritus Rectores, y luego colaboraron con sus progenitores en la producción de más de diez mil millones de asociados. Antes de los tiempos de los directores del poder, los circuitos de energía del espacio fuera del universo central, estaban bajo la supervisión inteligente de los Organizadores de la Fuerza Decanos del Paraíso."
+      "markdown": "Los Directores y los Centros Supremos del Poder han existido desde tiempos cercanos a la eternidad y, que nosotros sepamos, no se han creado más seres de estos órdenes. Los siete Directores Supremos fueron personalizados por los siete Espíritus Maestros y luego colaboraron con sus progenitores en la generación de más de diez mil millones de asociados. Antes de los días de los directores del poder, los circuitos de energía del espacio exteriores al universo central estaban bajo la supervisión inteligente de los Organizadores Maestros de la Fuerza del Paraíso."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "29:0.11",
       "pageReference": "319.11",
       "sortId": "1.029.000.011",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": null,
-      "markdown": "Como tenéis conocimiento sobre las criaturas materiales, por lo menos contáis con un concepto contrastante para concebir los seres espirituales; pero es muy difícil para la mente mortal visualizar a los directores del poder. En el esquema de la progresión ascendente a los niveles más elevados de la existencia, vosotros no tenéis nada que ver directamente ni con los directores supremos ni con los centros del poder. En algunas raras ocasiones tendréis tratos con los controladores físicos, y al llegar a los mundos de estancia trabajaréis libremente con los supervisores del poder morontial. Estos Supervisores del Poder Morontial funcionan tan exclusivamente en el régimen morontial de las creaciones locales que se considera más aconsejable narrar sus actividades en la sección que trata del universo local."
+      "markdown": "Vuestro conocimiento de las criaturas materiales os da al menos una noción por contraste de los seres espirituales, pero es muy difícil que la mente mortal imagine a los directores del poder. En el programa de progresión ascendente hacia niveles más altos de la existencia no tenéis ninguna relación directa ni con los directores supremos ni con los centros del poder. Trataréis con los controladores físicos en contadas ocasiones y cuando lleguéis a los mundos mansión trabajaréis abundantemente con los supervisores del poder de la morontia. Estos Supervisores del Poder de la Morontia actúan tan exclusivamente en el régimen de la morontia de las creaciones locales que nos parece preferible describir sus actividades en la sección que trata del universo local."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "29:1.0",
       "pageReference": null,
       "sortId": "1.029.001.000",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Siete Directores Supremos del Poder",
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los siete Directores Supremos del Poder",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "29:1.1",
       "pageReference": "320.1",
       "sortId": "1.029.001.001",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Siete Directores Supremos del Poder",
-      "markdown": "Los Siete Directores Supremos del Poder son reguladores de la energía física del gran universo. Su creación por parte de los Siete Espíritus Rectores es el primer caso registrado de una derivación de progenie semimaterial a partir de antepasados de auténtico espíritu. Cuando los Siete Espíritus Rectores crean individualmente, producen personalidades altamente espirituales de la orden angélica; cuando crean colectivamente, a veces producen estos tipos elevados de seres semimateriales. Pero aun estos seres cuasifísicos son invisibles para la visión de corto alcance de los mortales de Urantia."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los siete Directores Supremos del Poder",
+      "markdown": "Los siete Directores Supremos del Poder son los reguladores de la energía física del gran universo. Su creación por los siete Espíritus Maestros es el primer caso registrado de progenie semimaterial procedente de una ascendencia puramente de espíritu. Cuando los siete Espíritus Maestros crean individualmente, engendran personalidades altamente espirituales del orden angélico; cuando crean colectivamente, a veces dan origen a estos altos tipos de seres semimateriales. Pero incluso estos seres cuasi físicos serían invisibles para la visión limitada de los mortales de Urantia."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "29:1.2",
       "pageReference": "320.2",
       "sortId": "1.029.001.002",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Siete Directores Supremos del Poder",
-      "markdown": "Los Directores Supremos del Poder son siete en su número, e idénticos en apariencia y función. No se puede distinguir uno de los otros excepto por el Espíritu Rector con el cual cada uno de ellos está en asociación inmediata, y cuando le sirve en completa obediencia funcional. Cada uno de los Espíritus Rectores está de este modo en unión eterna con uno de sus vástagos colectivos. El mismo director siempre está en asociación con el mismo espíritu, y su relación de trabajo resulta en una asociación singular de energías físicas y espirituales, de un ser semifísico y una personalidad espiritual."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los siete Directores Supremos del Poder",
+      "markdown": "Los Directores Supremos del Poder son siete y son idénticos en aspecto y función. Nadie puede distinguirlos entre sí salvo el Espíritu Maestro al que cada uno de ellos está directamente vinculado con plena subordinación funcional. Cada uno de los Espíritus Maestros está así en unión eterna con uno de sus vástagos colectivos. El mismo director está siempre vinculado al mismo Espíritu, y esta colaboración da lugar a una asociación única de energías físicas y espirituales entre un ser semifísico y una personalidad de espíritu."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "29:1.3",
       "pageReference": "320.3",
       "sortId": "1.029.001.003",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Siete Directores Supremos del Poder",
-      "markdown": "Los Siete Directores Supremos del Poder están estacionados en el Paraíso periférico, en el cual sus presencias giratorias lentas indican las andanzas de los centros de enfoque de la fuerza de los Espíritus Rectores. Estos directores del poder funcionan individualmente en la regulación del poder y de la energía de los superuniversos, pero en forma colectiva, en la administración de la creación central. Operan desde el Paraíso, pero se mantienen como centros efectivos de poder en todas las divisiones del gran universo."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los siete Directores Supremos del Poder",
+      "markdown": "Los siete Directores Supremos del Poder están emplazados en el Paraíso periférico, donde sus presencias en lento circular indican el paradero de las sedes focales de fuerza de los Espíritus Maestros. Estos directores del poder actúan individualmente en la regulación de la energía-poder de los superuniversos, pero colectivamente en la administración de la creación central. Operan desde el Paraíso, pero se mantienen como centros efectivos del poder en todas las divisiones del gran universo."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "29:1.4",
       "pageReference": "320.4",
       "sortId": "1.029.001.004",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Siete Directores Supremos del Poder",
-      "markdown": "Estos seres poderosos son los antepasados físicos de las vastas huestes de los centros del poder y, a través de ellos, de los controladores físicos esparcidos en todos los siete universos. Dichos organismos subordinados de control físico son básicamente uniformes, idénticos excepto por el matiz diferencial de cada cuerpo superuniversal. Para cambiar servicio superuniversal, bastaría con que regresaran al Paraíso para volver a matizarse. La creación física es fundamentalmente uniforme en su administración."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los siete Directores Supremos del Poder",
+      "markdown": "Estos poderosos seres son los ancestros físicos de la inmensa multitud de centros del poder y, a través de ellos, de los controladores físicos dispersos por los siete superuniversos. Estos organismos subordinados de control físico son básicamente uniformes, idénticos excepto por la tonalidad diferencial que tiene el cuerpo de cada superuniverso. Para cambiar de superuniverso de servicio, solo tendrían que regresar al Paraíso para mudar de tonalidad. La creación física es fundamentalmente uniforme en su administración."
     },
     {
       "type": "section",
@@ -343,7 +343,7 @@
       "standardReferenceId": "29:2.0",
       "pageReference": null,
       "sortId": "1.029.002.000",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
       "markdown": null
     },
@@ -361,9 +361,9 @@
       "standardReferenceId": "29:2.1",
       "pageReference": "320.5",
       "sortId": "1.029.002.001",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "Los Siete Directores Supremos del Poder no pueden reproducirse individualmente, pero colectivamente, y en asociación con los Siete Espíritus Rectores, si pueden reproducir —crear— a otros seres semejantes a ellos, y lo hacen. Tal es el origen de los Centros Supremos del Poder del gran universo, que funcionan en los siguientes siete grupos:"
+      "markdown": "Los siete Directores Supremos del Poder no pueden reproducirse individualmente, pero colectivamente y en colaboración con los siete Espíritus Maestros, pueden reproducir —crear— otros seres semejantes a ellos y así lo hacen. Este es el origen de los Centros Supremos del Poder del gran universo que actúan en los siete grupos siguientes:"
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "29:2.2",
       "pageReference": "320.6",
       "sortId": "1.029.002.002",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "1. Los Supervisores Supremos del Centro."
+      "markdown": "1. Supervisores Supremos de Centros."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "29:2.3",
       "pageReference": "320.7",
       "sortId": "1.029.002.003",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "2. Los Centros de Havona."
+      "markdown": "2. Centros de Havona."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "29:2.4",
       "pageReference": "320.8",
       "sortId": "1.029.002.004",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "3. Los Centros de los Superuniversos."
+      "markdown": "3. Centros de los superuniversos."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "29:2.5",
       "pageReference": "320.9",
       "sortId": "1.029.002.005",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "4. Los Centros de los Universos Locales."
+      "markdown": "4. Centros de los universos locales."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "29:2.6",
       "pageReference": "320.10",
       "sortId": "1.029.002.006",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "5. Los Centros de las Constelaciones."
+      "markdown": "5. Centros de las constelaciones."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "29:2.7",
       "pageReference": "320.11",
       "sortId": "1.029.002.007",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "6. Los Centros de los Sistemas."
+      "markdown": "6. Centros de los sistemas."
     },
     {
       "type": "paragraph",
@@ -487,7 +487,7 @@
       "standardReferenceId": "29:2.8",
       "pageReference": "320.12",
       "sortId": "1.029.002.008",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
       "markdown": "7. Centros no clasificados."
     },
@@ -505,9 +505,9 @@
       "standardReferenceId": "29:2.9",
       "pageReference": "321.1",
       "sortId": "1.029.002.009",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "Estos centros del poder, juntamente con los Directores Supremos del Poder, son seres de alta libertad y acción volitiva. Todos están dotados de personalidad de la Tercera Fuente y presentan una capacidad volitiva incuestionable de orden elevado. Estos centros de dirección del sistema del poder del universo poseen una exquisita dote de inteligencia; son el intelecto del sistema de poder del gran universo y el secreto de la técnica del control mental de toda la gran red de las vastas funciones de los Controladores Físicos Decanos y de los Supervisores del Poder Morontial."
+      "markdown": "Estos centros del poder, junto con los Directores Supremos del Poder, son seres con una gran libertad de voluntad y acción. Todos están dotados de personalidad de la Tercera Fuente y muestran una incuestionable capacidad volitiva de alto orden. Estos centros directivos del sistema del poder del universo poseen una dotación de inteligencia exquisita. Son el intelecto del sistema del poder del gran universo y el secreto de la técnica del control por la mente de toda la inmensa red de extensas funciones de los Controladores Físicos Maestros y de los Supervisores del Poder de la Morontia."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "29:2.10",
       "pageReference": "321.2",
       "sortId": "1.029.002.010",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "1. *Supervisores Supremos del Centro.* Estos Siete coordinados y asociados de los Directores Supremos del Poder son los reguladores de los circuitos maestros de energía del gran universo. Cada supervisor del centro está ubicado en uno de los mundos especiales de los Siete Ejecutivos Supremos, y trabajan en asociación estrecha con estos coordinadores de los asuntos universales generales."
+      "markdown": "1. *Supervisores Supremos de Centros*. Estos siete colaboradores de igual rango de los Directores Supremos del Poder son los reguladores de los circuitos maestros de energía del gran universo. Cada supervisor de centros tiene su sede en uno de los mundos especiales de los siete Ejecutivos Supremos y trabaja en estrecha vinculación con estos coordinadores de los asuntos generales del universo."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "29:2.11",
       "pageReference": "321.3",
       "sortId": "1.029.002.011",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "2. Los Directores Supremos del Poder y los Supervisores Supremos del Centro funcionan tanto como individuos y conjuntamente respecto de todos los fenómenos cósmicos por debajo de los niveles de la «energía gravitacionaria». Cuando actúan en enlace, estos catorce seres son para el poder universal lo que los Siete Ejecutivos Supremos son para los asuntos generales del universo, y lo que los Siete Espíritus Rectores son para la mente cósmica."
+      "markdown": "Los Directores Supremos del Poder y los Supervisores Supremos de Centros actúan tanto de manera individual como conjunta en lo que concierne a todos los fenómenos cósmicos que están por debajo de los niveles de la «energía de gravedad». Cuando actúan de consuno, estos catorce seres son para el poder del universo lo que los siete Ejecutivos Supremos son para los asuntos generales del universo y los siete Espíritus Maestros para la mente cósmica."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "29:2.12",
       "pageReference": "321.4",
       "sortId": "1.029.002.012",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "3. *Centros de Havona.* Antes de la creación de los universos espacio-temporales, no se requerían centros del poder en Havona, pero desde aquellos tiempos muy distantes, han actuado un millón de ellos en la creación central, cada centro encargado de la supervisión de mil mundos de Havona. Aquí, en el universo divino, hay perfección de control de la energía, una condición que no existe en las demás partes. La perfección de la regulación de la energía es el objetivo último de todos los centros del poder y de los controladores físicos del espacio."
+      "markdown": "2. *Centros de Havona*. Antes de la creación de los universos del tiempo y el espacio no era necesario que hubiera centros del poder en Havona, pero a partir de aquellos tiempos remotos han estado actuando un millón de centros en la creación central, cada uno con la supervisión de mil mundos de Havona a su cargo. En el universo divino hay un control perfecto de la energía, una condición que no existe en ningún otro lugar. La perfección en la regulación de la energía es la meta última de todos los centros del poder y de los controladores físicos del espacio."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "29:2.13",
       "pageReference": "321.5",
       "sortId": "1.029.002.013",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "4. *Centros de los Superuniversos.* Hay mil centros del poder de la tercera orden que ocupan una área enorme en la esfera capital de cada uno de los siete superuniversos. Tres corrientes de energía primaria con diez segregaciones cada una ingresan a estos centros del poder, pero siete circuitos de poder especializados y bien dirigidos, aunque imperfectamente controlados, salen de sus sedes de acción unida. Esta es la organización electrónica del poder universal."
+      "markdown": "3. *Centros de los superuniversos*. Mil centros del poder del tercer orden ocupan un área enorme en la esfera capital de cada uno de los siete superuniversos. Tres corrientes de energía primaria con diez segregaciones cada una entran en estos centros del poder, mientras que siete circuitos del poder especializados y bien dirigidos aunque imperfectamente controlados salen de su sede de acción unida. Esta es la organización electrónica del poder del universo."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "29:2.14",
       "pageReference": "321.6",
       "sortId": "1.029.002.014",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "Toda energía está en el circuito que pertenece al ciclo del Paraíso, pero los Directores del Poder Universal *dirigen* las fuerza-energías y las energías del Paraíso bajo, tal como se las encuentran modificadas en las funciones espaciales del universo central y de los superuniversos, convirtiendo y dirigiendo estas energías hacia canales de aplicación útil y constructiva. Existe una diferencia entre la energía de Havona y las energías de los superuniversos. La carga de poder de un superuniverso consiste en tres fases de energía de diez segregaciones cada una. Esta triple carga de energía se desparrama por el espacio del gran universo; es como un vasto océano de energía en movimiento, que rodea y baña lo total de cada una de las siete supercreaciones."
+      "markdown": "Toda la energía está en el circuito del ciclo paradisiaco, pero los Directores del Poder del Universo *dirigen* las energía-fuerzas del Paraíso bajo tal como las encuentran modificadas en las funciones espaciales del universo central y de los superuniversos. Convierten esas energías y las dirigen hacia canales de aplicación útil y constructiva. Hay una diferencia entre la energía de Havona y las energías de los superuniversos. La carga de poder de un superuniverso consta de tres fases de energía con diez segregaciones cada una. Esta triple carga de energía se extiende por todo el espacio del gran universo; es como un vasto océano de energía en movimiento que inunda y baña la totalidad de cada una de las siete supercreaciones."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "29:2.15",
       "pageReference": "321.7",
       "sortId": "1.029.002.015",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "La organización electrónica del poder universal funciona en siete fases y revela una respuesta variable a la gravedad local o lineal. Este circuito séptuple procede de los centros superuniversales de poder y penetra cada supercreación. Estas corrientes especializadas del tiempo y del espacio son movimientos definidos y localizados de ener gía, iniciados y dirigidos para propósitos específicos, en forma semejante a como la Corriente del Golfo actúa como fenómeno circunscrito en el medio del Océano Atlántico."
+      "markdown": "La organización electrónica del poder del universo funciona en siete fases y revela una respuesta variable a la gravedad local o lineal. Este circuito séptuplo procede de los centros del poder de los superuniversos y permea cada supercreación. Estas corrientes especializadas del tiempo y el espacio son movimientos de energía precisos y localizados, iniciados y dirigidos hacia propósitos específicos, de forma muy parecida al funcionamiento de la corriente del Golfo como fenómeno circunscrito en medio del océano Atlántico."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "29:2.16",
       "pageReference": "321.8",
       "sortId": "1.029.002.016",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "5. *Centros de los Universos Locales.* En la sede central de cada universo local existen cien centros del poder de la cuarta orden. Funcionan para bajar y de otra manera modificar los siete circuitos del poder que emanan de la sede central del superuniverso, tornándolos así aplicables a los servicios de las constelaciones y los sistemas. Las catástrofes locales astronómicas del espacio son de preocupación pasajera para estos centros de fuerza; se ocupan del envío ordenado de energía eficaz a las constelaciones y sistemas subsidiarios. Son de gran ayuda para los Hijos Creadores durante los tiempos posteriores a la organización del universo y la movilización de la energía. Estos centros son capaces de proveer canales intensificados de energía, útiles para la comunicación interplanetaria entre importantes puntos habitados. Tal *canal* o *línea* de energía, a veces también llamado sendero de energía, es un circuito directo de energía de un centro del poder a otro centro del poder o de un controlador físico a otro controlador. Es un caudal individualizado de poder y contrasta con los movimientos libres en el espacio de la energía no diferenciada."
+      "markdown": "4. *Centros de los universos locales*. Cien centros del poder del orden cuarto están emplazados en la sede de cada universo local. Su función consiste en reducir o modificar de otro modo los siete circuitos del poder que emanan de la sede del superuniverso para adecuarlos a los servicios de las constelaciones y los sistemas. Las catástrofes astronómicas locales del espacio solo tienen interés pasajero para estos centros del poder dedicados fundamentalmente al envío ordenado de energía efectiva a las constelaciones y sistemas subsidiarios. Son de gran ayuda para los Hijos Creadores durante los últimos tiempos de organización del universo y de movilización de la energía. Estos centros son capaces de proporcionar carriles reforzados de energía útiles para la comunicación interplanetaria entre puntos habitados importantes. Ese *carril* o *línea* de energía, llamado también a veces camino de energía, es un circuito directo de energía que va de un centro del poder a otro centro del poder o de un controlador físico a otro. Es una corriente individualizada del poder que contrasta con los movimientos libres en el espacio de la energía no diferenciada."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "29:2.17",
       "pageReference": "322.1",
       "sortId": "1.029.002.017",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "6. *Centros de las Constelaciones.* Diez de estos centros vivientes del poder están estacionados en cada constelación, funcionando como proyectores de la energía a los cien sistemas tributarios locales. De estos seres salen las líneas de poder para la comunicación y transporte y para la energización de aquellas criaturas vivientes que dependen de ciertas formas de energía física para el mantenimiento de su vida. Pero ni los centros de poder ni los controladores físicos subordinados se ocupan de esta manera de vida como organización funcional."
+      "markdown": "5. *Centros de las constelaciones*. Diez de estos centros vivos del poder están emplazados en cada una de las constelaciones, donde actúan como proyectores de energía hacia los cien sistemas locales tributarios. De estos seres salen las líneas de poder para la comunicación y el transporte, y para el suministro de energía a aquellas criaturas vivas que dependen de determinadas formas de energía física para el mantenimiento de la vida. Pero ni los centros del poder ni sus controladores físicos subordinados se ocupan de ninguna otra manera de la vida como organización funcional."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "29:2.18",
       "pageReference": "322.2",
       "sortId": "1.029.002.018",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "7. *Centros de los Sistemas.* Un centro Supremo del Poder está asignado permanentemente a cada sistema local. Estos centros de los sistemas envían los circuitos de poder a los mundos habitados del tiempo y del espacio. Coordinan las actividades de los controladores físicos subordinados y de otra manera funcionan para asegurar la distribución satisfactoria del poder en el sistema local. El relé del circuito entre los planetas depende de la coordinación perfecta de ciertas energías materiales y de la regulación eficiente del poder físico."
+      "markdown": "6. *Centros de los sistemas*. Un Centro Supremo del Poder está asignado permanentemente a cada sistema local. Estos centros de los sistemas envían los circuitos del poder a los mundos habitados del tiempo y el espacio. Además de coordinar las actividades de los controladores físicos subordinados aseguran la distribución satisfactoria del poder en el sistema local. El repetidor del circuito que hay entre los planetas depende de la perfecta coordinación de ciertas energías materiales y de la regulación eficiente del poder físico."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "29:2.19",
       "pageReference": "322.3",
       "sortId": "1.029.002.019",
-      "paperTitle": "Los Directores del Poder Universal",
+      "paperTitle": "Los Directores del Poder del Universo",
       "sectionTitle": "Los Centros Supremos del Poder",
-      "markdown": "8. *Centros no clasificados.* Estos son los centros que funcionan en situaciones locales específicas pero no en los planetas habitados. Cada mundo está bajo la responsabilidad de los Controladores Físicos Decanos y reciben las líneas de poder en circuito, enviadas por el centro del poder de su sistema. Sólo aquellas esferas de las relaciones más extraordinarias de energía tienen centros de poder de la orden séptima, que actúan como ruedas de equilibrio universal o gobernantes de la energía. En cada fase de actividad, estos centros del poder son plenamente equivalentes a aquellos que funcionan en las unidades más elevadas de control, pero ni un cuerpo espacial en un millón contiene tal organización de poder viviente."
+      "markdown": "7. *Centros no clasificados*. Son los centros que actúan en situaciones locales especiales, pero no en los planetas habitados. Los mundos individuales están a cargo de los Controladores Físicos Maestros y reciben las líneas encircuitadas del poder enviadas por el centro del poder de su sistema. Solo aquellas esferas cuyas relaciones de energía son sumamente extraordinarias tienen centros del poder del orden séptimo que actúan como volantes de compensación del universo o reguladores de la energía. En todas sus fases de actividad, estos centros del poder son enteramente iguales a los que actúan en las unidades más altas de control, pero los cuerpos del espacio que albergan este tipo de organización viva del poder no llegan a uno entre un millón."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "29:3.0",
       "pageReference": null,
       "sortId": "1.029.003.000",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "29:3.1",
       "pageReference": "322.4",
       "sortId": "1.029.003.001",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los Centros Supremos del Poder distribuidos en todos los superuniversos, con sus asociados y subordinados, llegan a más de diez mil millones. Y están todos en sincronización perfecta y coordinación completa con sus progenitores en el Paraíso, los Siete Directores Supremos del Poder. El control del poder del gran universo se confía de este modo al cuidado y dirección de los Siete Espíritus Rectores, los creadores de los Siete Directores Supremos del Poder."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los Centros Supremos del Poder distribuidos por todos los superuniversos, con sus asociados y subordinados, ascienden a más de diez mil millones. Y todos están en perfecta sincronía y conexión total con sus progenitores paradisiacos, los siete Directores Supremos del Poder. El control del poder del gran universo se ha confiado así al cuidado y la dirección de los siete Espíritus Maestros, los creadores de los siete Directores Supremos del Poder."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "29:3.2",
       "pageReference": "322.5",
       "sortId": "1.029.003.002",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los Directores Supremos del Poder y todos sus asociados, asistentes y subordinados están por siempre exentos de arresto o interferencia por parte de todos los tribunales de todo el espacio; tampoco están sujetos a la dirección administrativa del gobierno superuniversal de los Ancianos de los Días, ni de la administración del universo local de los Hijos Creadores."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los Directores Supremos del Poder y todos sus asociados, asistentes y subordinados están eximidos para siempre de detención o interferencia por parte de todos los tribunales de todo el espacio. Tampoco están sujetos a la dirección administrativa del gobierno de los Ancianos de los Días en los superuniversos ni a la administración de los Hijos Creadores en los universos locales."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "29:3.3",
       "pageReference": "323.1",
       "sortId": "1.029.003.003",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Estos centros y directores del poder llegan a la existencia por acción de los hijos del Espíritu Infinito. No pertenecen a la administración de los Hijos de Dios, aunque se afilian con los Hijos Creadores durante las épocas posteriores de la organización material de un universo. Pero los centros del poder están en cierto modo estrechamente asociados con el supercontrol cósmico del Ser Supremo."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Estos centros y directores del poder son traídos a la existencia por los hijos del Espíritu Infinito. No guardan relación con la administración de los Hijos de Dios, aunque se asocian a los Hijos Creadores durante las épocas tardías de la organización material de un universo. Pero los centros del poder están de alguna manera estrechamente vinculados al sobrecontrol cósmico del Ser Supremo."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "29:3.4",
       "pageReference": "323.2",
       "sortId": "1.029.003.004",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los centros del poder y los controladores físicos no se capacitan; son, todos ellos, creados en perfección y son inherentemente perfectos en la acción. Tampoco pasan de una función a otra; sirven siempre según su asignación original. No hay evolución en sus filas y así son las siete divisiones de ambas órdenes."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los centros del poder y los controladores físicos no pasan por ninguna formación. Todos ellos son creados perfectos y su acción es inherentemente perfecta. Tampoco pasan de una función a otra, y sirven siempre en su asignación original. No existe evolución entre sus miembros, y esto es cierto para las siete divisiones de ambos órdenes."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "29:3.5",
       "pageReference": "323.3",
       "sortId": "1.029.003.005",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Puesto que no tienen un pasado ascendente que recordar, los centros del poder y los controladores físicos no juegan; son totalmente serios en todas sus acciones. Están siempre en función; no hay disposiciones en el esquema universal para la interrupción de las líneas físicas de energía. No pueden abandonar jamás, ni siquiera por una fracción de segundo, la supervisión directa de los circuitos de la energía del tiempo y del espacio."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Al no tener un pasado ascendente que rememorar, los centros del poder y los controladores físicos no juegan nunca; son totalmente serios y eficientes en todas sus acciones. Siempre están de servicio; no hay ninguna previsión en el plan universal de interrumpir las líneas físicas de energía. Estos seres no pueden abandonar nunca, ni siquiera por una fracción de segundo, la supervisión directa de los circuitos de energía del tiempo y el espacio."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "29:3.6",
       "pageReference": "323.4",
       "sortId": "1.029.003.006",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los directores, centros y controladores del poder no tienen nada que ver con toda la creación, excepto con el poder, la energía material o semifísica; no la originan, pero sí la modifican, manipulan y direccionalizan. Tampoco tienen nada que ver con la gravedad física, excepto para resistir su poder de atracción. Su relación con la grave-dad es completamente negativa."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los directores, centros y controladores del poder no tienen que ver con nada en toda la creación, excepto con el poder, la energía material o semifísica. No la originan, pero sí la modifican, manipulan y fijan su dirección. Tampoco tienen absolutamente nada que ver con la gravedad física, excepto para resistir a su poder de atracción. Su relación con la gravedad es totalmente negativa."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "29:3.7",
       "pageReference": "323.5",
       "sortId": "1.029.003.007",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los centros del poder utilizan vastos mecanismos y coordinaciones del orden material en asociación con los mecanismos vivientes de las varias concentraciones segregadas de energía. Cada centro individual del poder está constituido de exactamente un millón de unidades de control funcional, y estas unidades modificadoras de la energía no son estacionarias como lo son los órganos vitales del cuerpo físico del hombre; estos «órganos vitales» de la regulación del poder son móviles y verdaderamente caleidoscópicos en sus posibilidades asociativas."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los centros del poder utilizan inmensos mecanismos y coordinaciones de orden material en conexión con los mecanismos vivos de las varias concentraciones segregadas de energía. Cada centro individual del poder está constituido por exactamente un millón de unidades de control funcional, y estas unidades modificadoras de la energía no son estacionarias como lo son los órganos vitales del cuerpo físico del hombre; estos «órganos vitales» de regulación del poder son móviles y verdaderamente caleidoscópicos en sus posibilidades de asociación."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "29:3.8",
       "pageReference": "323.6",
       "sortId": "1.029.003.008",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Está totalmente más allá de mi capacidad explicar la manera en que estos seres vivientes llevan a cabo la manipulación y regulación de los circuitos maestros de la energía universal. Emprender la tarea de informaros ulteriormente sobre el tamaño y función de estos gigantescos centros del poder casi perfectamente eficaces, tan sólo aumentaría vuestra confusión y consternación. Son tanto vivientes como «personales», pero están más allá de vuestra comprensión."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Soy totalmente incapaz de explicaros la manera en que estos seres vivos abarcan la manipulación y la regulación de los circuitos maestros de la energía del universo. Si intentara informaros más sobre el tamaño y la función de estos gigantescos centros del poder casi perfectamente eficaces solo conseguiría confundiros aún más y desanimaros. Son al mismo tiempo vivos y «personales», pero están más allá de vuestra comprensión."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "29:3.9",
       "pageReference": "323.7",
       "sortId": "1.029.003.009",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Fuera de Havona, los Centros Supremos del Poder funcionan tan sólo en esferas especialmente construidas (arquitectónicas) o en otros cuerpos espaciales debidamente constituidos. Los mundos arquitectónicos se construyen de manera tal que los centros vivientes de poder puedan actuar como interruptores selectivos para direccionalizar, modificar y concentrar las energías del espacio al vertirlas sobre estas esferas. No podrían funcionar en un sol o un planeta evolucionario común. Ciertos grupos también se ocupan de las necesidades de calefacción y otras necesidades materiales en estos mundos sede central especiales. Y aunque está más allá del alcance del conocimiento urantiano, puedo declarar que estas órdenes de personalidades vivientes de poder tienen mucho que ver con la distribución de la luz que brilla sin calor. No producen este fenómeno, pero se ocupan de su diseminación y direccionalización."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Fuera de Havona los Centros Supremos del Poder actúan solo en esferas especialmente construidas (arquitectónicas) o en cuerpos espaciales constituidos de otra manera adecuada. Los mundos arquitectónicos se construyen de modo que los centros vivos del poder puedan actuar como conmutadores selectivos para fijar la dirección, modificar y concentrar las energías del espacio a medida que estas se vierten sobre esas esferas. No podrían actuar así en un sol ni en un planeta evolutivo normal. Ciertos grupos se ocupan también de la calefacción y otras necesidades materiales de estos mundos sede especiales. Y aunque esté más allá del alcance del conocimiento urantiano, puedo indicar que estos órdenes de personalidades vivas del poder tienen mucho que ver con la distribución de la luz que brilla sin calor. No producen este fenómeno, pero se dedican a diseminarlo y a fijar su dirección."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "29:3.10",
       "pageReference": "323.8",
       "sortId": "1.029.003.010",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los centros de la fuerza y sus controladores subordinados son asignados a la operación de todas las energías físicas del espacio organizado. Trabajan con tres corrientes básicas de diez energías cada una. Ésa es la carga de energía del espacio organizado; y el espacio organizado es su dominio. Los Directores del Poder Universal no tienen nada que ver con aquellas tremendas acciones de fuerza que ahora ocurren fuera de los límites de los siete superuniversos."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los centros del poder y sus controladores subordinados están asignados al funcionamiento de todas las energías físicas del espacio organizado. Trabajan con las tres corrientes básicas de diez energías cada una. Esa es la carga de energía del espacio organizado; y el espacio organizado es su ámbito. Los Directores del Poder del Universo no tienen absolutamente nada que ver con las enormes acciones de fuerza que se están produciendo ahora fuera de los límites presentes de los siete superuniversos."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "29:3.11",
       "pageReference": "324.1",
       "sortId": "1.029.003.011",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Los centros y controladores del poder y ejercen un control perfecto sobre tan sólo siete de las diez formas de energía contenidas en cada corriente básica universal; aquellas formas que están parcial o totalmente exentas de su control deben representar los reinos imprevisibles de la manifestación de la energía dominados por el Absoluto No Cualificado. Si ejercen una influencia sobre las fuerzas primordiales de este Absoluto, no conocemos tales funciones, aunque existe leve evidencia que justificaría la opinión de que algunos de los controladores físicos, de vez en cuando, reaccionan automáticamente a ciertos impulsos del Absoluto Universal."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Los centros y los controladores del poder solo ejercen un control perfecto sobre siete de las diez formas de energía contenidas en cada corriente básica del universo. Las formas que escapan parcial o totalmente a su control representan probablemente los ámbitos impredecibles de las manifestaciones de energía dominadas por el Absoluto No Cualificado. Si ejercen alguna influencia sobre las fuerzas primordiales de este Absoluto, no tenemos conocimiento de esas funciones, aunque hay alguna pequeña prueba que justificaría la opinión de que algunos controladores físicos reaccionan a veces automáticamente a ciertos impulsos del Absoluto Universal."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "29:3.12",
       "pageReference": "324.2",
       "sortId": "1.029.003.012",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "El Ámbito de los Centros del Poder",
-      "markdown": "Estos mecanismos vivientes del poder no se relacionan conscientemente con el supercontrol de la energía en el universo maestro ejercido por el Absoluto No Cualificado, pero suponemos que su entero esquema casi perfecto de dirección del poder está subordinado de alguna manera desconocida a esta presencia de supergravedad. En cualquier situación de energía local, los centros y controladores ejercen casi la supremacía, pero están siempre conscientes de la presencia de superenergía y de la actuación no reconocible del Absoluto No Cualificado."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "El ámbito de los centros del poder",
+      "markdown": "Estos mecanismos vivos del poder no se relacionan conscientemente con el sobrecontrol de la energía ejercido por el Absoluto No Cualificado en el universo maestro, pero suponemos que todo su programa casi perfecto de fijación de la dirección del poder está subordinado de alguna manera desconocida a esa presencia de supergravedad. En cualquier situación local de la energía, los centros y los controladores ejercen una supremacía casi total, pero son siempre conscientes de la presencia de la superenergía y de la actuación no reconocible del Absoluto No Cualificado."
     },
     {
       "type": "section",
@@ -937,8 +937,8 @@
       "standardReferenceId": "29:4.0",
       "pageReference": null,
       "sortId": "1.029.004.000",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
       "markdown": null
     },
     {
@@ -955,9 +955,9 @@
       "standardReferenceId": "29:4.1",
       "pageReference": "324.3",
       "sortId": "1.029.004.001",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Estos seres son los subordinados móviles de los Centros Supremos del Poder. Los controladores físicos están dotados de capacidades de metamorfosis de la individualidad, de naturaleza tal que pueden ocuparse de una notable variedad de autotransportes, siendo capaces de atravesar el espacio local a velocidades que se asemejan a la velocidad de los Mensajeros Solitarios. Pero como todos los demás atravesadores del espacio, requieren la asistencia tanto de sus semejantes como de ciertos otros tipos de seres para sobreponerse a la acción de la gravedad y a la resistencia de la inercia al partir de una esfera material."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Estos seres son los subordinados móviles de los Centros Supremos del Poder. Los controladores físicos están dotados de tal capacidad de metamorfosis de su individualidad que pueden autotransportarse en una notable variedad de formas diferentes y son capaces de atravesar el espacio local a velocidades cercanas a las de los Mensajeros Solitarios. Pero igual que todos los demás atravesadores del espacio, necesitan asistencia tanto de sus semejantes como de ciertos seres de otros tipos para vencer la acción de la gravedad y la resistencia de la inercia cuando parten de una esfera material."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "29:4.2",
       "pageReference": "324.4",
       "sortId": "1.029.004.002",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los Controladores Físicos Decanos sirven en todo el gran universo. Están gobernados directamente desde el Paraíso por los Siete Directores Supremos del Poder en cuanto se refiere a las sedes centrales de los superuniversos; desde aquí, ellos están dirigidos y distribuidos por el Concilio del Equilibrio, los altos comisionados del poder despachados por los Siete Espíritus Rectores desde las filas del personal de los Organizadores de la Fuerza Decanos Asociados. Estos altos comisionados están autorizados a interpretar las lecturas y registros de los frandalanques decanos, esos instrumentos vivientes que indican la presión de la fuerza y la carga de la energía de un superuniverso entero."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los Controladores Físicos Maestros sirven en todo el gran universo. Están gobernados directamente desde el Paraíso por los siete Directores Supremos del Poder hasta las sedes de los superuniversos. A partir de ahí están dirigidos y distribuidos por el Consejo del Equilibrio, los altos comisionados del poder seleccionados entre el personal de los Organizadores Maestros Asociados de la Fuerza y enviados por los siete Espíritus Maestros. Estos altos comisionados están facultados para interpretar las lecturas y los registros de los frandalanks maestros, esos instrumentos vivos que indican la presión del poder y la carga de energía de todo un superuniverso."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "29:4.3",
       "pageReference": "324.5",
       "sortId": "1.029.004.003",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Aunque la presencia de las Deidades del Paraíso rodea al gran universo y sobrecoge el círculo de la eternidad, la influencia de cualquiera de los Siete Espíritus Rectores se limita a un solo superuniverso. Existe una segregación clara de la energía y una separación de los circuitos de poder entre cada una de las siete supercreaciones; de allí que deban existir, como existen, métodos individualizados de control."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Mientras que la presencia de las Deidades del Paraíso circunda el gran universo y se extiende alrededor del círculo de la eternidad, la influencia de cada uno de los siete Espíritus Maestros se limita a un solo superuniverso. Existe una segregación clara de la energía y una separación de los circuitos del poder entre cada una de las siete supercreaciones; de ahí que deban prevalecer y prevalezcan métodos individualizados de control."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "29:4.4",
       "pageReference": "324.6",
       "sortId": "1.029.004.004",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los Controladores Físicos Decanos son los vástagos directos de los Centros Supremos del Poder, y sus filas incluyen los siguientes:"
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los Controladores Físicos Maestros son los vástagos directos de los Centros Supremos del Poder, y entre ellos se cuentan los tipos siguientes:"
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "29:4.5",
       "pageReference": "324.7",
       "sortId": "1.029.004.005",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "1. Los Directores Asociados del Poder."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "1. Directores asociados del poder."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "29:4.6",
       "pageReference": "324.8",
       "sortId": "1.029.004.006",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "2. Los Controladores Mecánicos."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "2. Controladores mecánicos."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "29:4.7",
       "pageReference": "324.9",
       "sortId": "1.029.004.007",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "3. Los Transformadores de la Energía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "3. Transformadores de energía."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "29:4.8",
       "pageReference": "325.1",
       "sortId": "1.029.004.008",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "4. Los Transmisores de la Energía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "4. Transmisores de energía."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "29:4.9",
       "pageReference": "325.2",
       "sortId": "1.029.004.009",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "5. Los Asociadores Primarios."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "5. Asociadores primarios."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "29:4.10",
       "pageReference": "325.3",
       "sortId": "1.029.004.010",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "6. Disociadores Secundarios."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "6. Disociadores secundarios."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "29:4.11",
       "pageReference": "325.4",
       "sortId": "1.029.004.011",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "7. Los Frandalanques y los Cronoldeques."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "7. Frandalanks y chronoldeks."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "29:4.12",
       "pageReference": "325.5",
       "sortId": "1.029.004.012",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "No todas estas órdenes son personas en el sentido de poseer capacidad individual de selección. En especial, los últimos cuatro parecerían totalmente automáticos y mecánicos en respuesta a los impulsos de sus superiores y en reacción a las condiciones existentes de la energía. Pero aunque dicha respuesta parezca totalmente mecánica, no lo es; pueden parecer autómatas, pero todos ellos revelan una función diferencial de la inteligencia."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "No todos los miembros de estos órdenes son personas en el sentido de poseer poderes individuales de elección. En particular, los cuatro últimos parecen ser totalmente automáticos y mecánicos en su respuesta a los impulsos de sus superiores y en sus reacciones a las condiciones de la energía existentes. Pero aunque dicha respuesta parezca totalmente mecánica, no lo es; pueden parecer autómatas, pero todos ellos manifiestan la función diferencial de la inteligencia."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "29:4.13",
       "pageReference": "325.6",
       "sortId": "1.029.004.013",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "La personalidad no es necesariamente un concomitante de la mente. La mente puede pensar aun cuando se la prive de toda capacidad de elección, así como ocurre en numerosos de los tipos más bajos de animales y en algunos de estos controladores físicos subordinados. Muchos de estos reguladores más automáticos del poder físico no son personas en ningún sentido de la palabra. No están dotados de voluntad ni de independencia de decisión, siendo totalmente subordinados a la perfección mecánica de diseño de las tareas a ellos asignadas. Sin embargo, todos ellos son seres altamente inteligentes."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "La personalidad no es necesariamente concomitante con la mente. La mente puede pensar incluso cuando está privada de todo poder de elegir, como ocurre en muchos de los tipos más bajos de animales y en algunos de estos controladores físicos de menor rango. Muchos de estos reguladores más automáticos del poder físico no son personas en ningún sentido del término. No están dotados de voluntad ni de independencia de decisión, y están completamente supeditados a la perfección mecánica de su diseño para las tareas que les han adjudicado. Sin embargo, todos ellos son seres muy inteligentes."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "29:4.14",
       "pageReference": "325.7",
       "sortId": "1.029.004.014",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los controladores físicos se ocupan principalmente del ajuste de las energías básicas no descubiertas en Urantia. Estas energías desconocidas son muy esenciales para el sistema de transporte interplanetario y para ciertas técnicas de comunicación. Cuando colocamos líneas de energía para el propósito de llevar equivalentes del sonido o ampliar la visión, estas formas no descubiertas de la energía son utilizadas por los controladores físicos vivientes y sus asociados. Las criaturas intermedias también utilizan estas mismas energías en varias ocasiones, en su tarea de rutina."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los controladores físicos se ocupan principalmente del ajuste de energías básicas no descubiertas en Urantia. Estas energías desconocidas son muy esenciales para el sistema interplanetario de transporte y para ciertas técnicas de comunicación. Cuando tendemos líneas de energía con el propósito de transmitir equivalentes del sonido o de extender la visión, los controladores físicos vivos y sus asociados utilizan estas formas no descubiertas de energía. Estas mismas energías son utilizadas también en algunas ocasiones por las criaturas intermedias en su trabajo de rutina."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "29:4.15",
       "pageReference": "325.8",
       "sortId": "1.029.004.015",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "1. *Directores Asociados del Poder.* Estos seres maravillosamente eficientes tienen a su cargo la asignación y despacho de todas las órdenes de Controladores Físicos Decanos de acuerdo con las necesidades constantemente cambiantes del estado energético que cambia permanentemente en los reinos. Las vastas reservas de los controladores físicos se mantienen en los mundos sede central de los sectores menores, y desde estos puntos de concentración se los envía periódicamente por medio de los directores asociados del poder a las sedes de los universos, constelaciones, sistemas y a los planetas específicos. Cuando así están asignados, los controladores físicos están provisionalmente sujetos a las órdenes de los ejecutivos divinos de las comisiones conciliadoras, pero por otra parte están sujetos exclusivamente a sus directores asociados y de los Centros Supremos del Poder."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "1. *Directores asociados del poder*. A estos seres maravillosamente eficientes se les ha encomendado la asignación y el envío de todos los órdenes de Controladores Físicos Maestros según las necesidades siempre variables del estatus de la energía en cambio permanente de los universos. Las amplias reservas de controladores físicos se mantienen en los mundos sede de los sectores menores, y desde estos puntos de concentración los directores asociados del poder los envían periódicamente a las sedes de los universos, constelaciones y sistemas, y a los planetas individuales. En estas asignaciones los controladores físicos están sometidos provisionalmente a las órdenes de los ejecutores divinos de las comisiones conciliadoras, pero en todo lo demás son responsables únicamente ante sus directores asociados y ante los Centros Supremos del Poder."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "29:4.16",
       "pageReference": "325.9",
       "sortId": "1.029.004.016",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Se asignan tres millones de directores asociados del poder a cada uno de los sectores menores de Orvonton, sumando así un total de tres mil millones de la cuota superuniversal de estos sorprendentemente versátiles seres. Mantienen sus propias reservas en estos mismos mundos de los sectores menores, en los cuales también sirven como instructores para todos los que estudian las ciencias de las técnicas del control y de la transmutación inteligente de la energía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Tres millones de directores asociados del poder están asignados a cada uno de los sectores menores de Orvonton, de modo que el cupo del superuniverso asciende a un total de tres mil millones de estos seres asombrosamente polifacéticos. Sus propias reservas se mantienen en esos mismos mundos de los sectores menores, donde sirven también como instructores de todos los que estudian las ciencias de las técnicas de control y transmutación inteligente de la energía."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "29:4.17",
       "pageReference": "325.10",
       "sortId": "1.029.004.017",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Estos directores alternan períodos de servicio ejecutivo en los sectores menores con períodos equivalentes de servicio de inspección en los reinos del espacio. Por lo menos un inspector actuante está siempre presente en cada uno de los sistemas locales, con su sede central en su esfera capital. Mantienen la totalidad del vasto agregado de energía viviente en armoniosa sincronía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Estos directores alternan periodos de servicio ejecutivo en los sectores menores con periodos iguales de servicio de inspección en los dominios del espacio. Al menos un inspector en funciones está siempre presente en cada sistema local, con sede en la esfera capital de dicho sistema. Los inspectores mantienen todo el inmenso agregado de energía viva en armoniosa sincronía."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "29:4.18",
       "pageReference": "325.11",
       "sortId": "1.029.004.018",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "2. *Controladores Mecánicos.* Éstos son los asistentes extraordinariamente versátiles y móviles de los directores asociados del poder. Billones y billones de ellos están comisionados en Ensa, vuestro sector menor. Estos seres se llaman controladores mecánicos porque están tan completamente dominados por sus superiores, y están subordinados totalmente a la voluntad de los directores asociados del poder. Sin embargo, son, por sí mismos, muy inteligentes, y su trabajo, aunque mecánico y de tipo rutinario, se realiza con habilidad."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "2. *Controladores mecánicos*. Estos seres extraordinariamente móviles y polifacéticos son los asistentes de los directores asociados del poder. Hay billones y billones de ellos comisionados en Ensa, vuestro sector menor. Se llaman controladores mecánicos porque están totalmente dominados por sus superiores, enteramente supeditados a la voluntad de los directores asociados del poder. Sin embargo son muy inteligentes de por sí, y aunque su trabajo sea de naturaleza práctica y mecánica, lo ejecutan con destreza."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "29:4.19",
       "pageReference": "326.1",
       "sortId": "1.029.004.019",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "De todos los Controladores Físicos Decanos asignados a los mundos habitados, los controladores mecánicos son los más poderosos. Cada controlador, teniendo la dote viviente de la antigravedad en exceso a todos los demás seres, posee una resistencia a la gravedad igualada tan sólo por esferas enormes que giran a velocidades extraordinarias. Diez de estos controladores están estacionados ahora en Urantia, y una de sus actividades planetarias más importantes consiste en facilitar la partida de los transportes seráficos. En esta función, los diez controladores mecánicos actúan al unísono, mientras que una batería de mil transmisores de energía provee el impulso inicial para la partida seráfica."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "De todos los Controladores Físicos Maestros asignados a los mundos habitados, los controladores mecánicos son, de lejos, los más poderosos. Poseen una dotación viva de antigravedad superior a la de todos los demás seres, y cada controlador tiene una resistencia a la gravedad solo igualada por la de enormes esferas girando a velocidades formidables. Diez de estos controladores están emplazados ahora en Urantia, y una de sus actividades planetarias más importantes es facilitar la salida de los transportes seráficos. Para esta función, los diez controladores mecánicos actúan al unísono, mientras que una batería de mil transmisores de energía proporciona el impulso inicial para la salida seráfica."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "29:4.20",
       "pageReference": "326.2",
       "sortId": "1.029.004.020",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los controladores mecánicos son competentes para direccionalizar el flujo de energía y para facilitar su concentración en los circuitos o corrientes especializados. Estos poderosos seres tienen mucho que ver con la segregación, direccionalización, e intensificación de las energías físicas y con la igualización de las presiones de los circuitos interplanetarios. Son expertos en la manipulación de veintiuna de las treinta energías físicas del espacio, constituyendo la carga de poder de un superuniverso. También son capaces de contribuir considerablemente en el manejo y control de seis de las nueve formas más sutiles de la energía física. Los directores asociados del poder, al colocar a estos controladores en relación técnica apropiada entre sí y con algunos de los centros del poder, consiguen llevar a cabo cambios increíbles en el ajuste del poder y el control de la energía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los controladores mecánicos están capacitados para fijar la dirección del flujo de energía y facilitar su concentración en las corrientes o circuitos especializados. Estos poderosos seres tienen mucho que ver con la segregación, fijación de la dirección e intensificación de las energías físicas y con la igualación de las presiones de los circuitos interplanetarios. Son expertos en la manipulación de veintiuna de las treinta energías físicas del espacio que constituyen la carga de poder de un superuniverso. Son también capaces de llevar a cabo gran parte de la gestión y el control de seis de las nueve formas más sutiles de energía física. Al situar a estos controladores en la relación técnica apropiada entre sí y con algunos centros del poder, los directores asociados del poder pueden realizar cambios increíbles en el ajuste del poder y el control de la energía."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "29:4.21",
       "pageReference": "326.3",
       "sortId": "1.029.004.021",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los Controladores Físicos Principales frecuentemente funcionan en baterías de cientos, miles y aún millones, y variando sus posiciones y formaciones son capaces de controlar la energía en una forma colectiva así como también en forma individual. A medida que varían los requisitos, pueden aumentar y acelerar el volumen de energía y movimiento o detener, condensar y retardar las corrientes de energía. Influyen en las transformaciones de la energía y el poder, en cierto modo como los así llamados agentes catalíticos aumentan las reacciones químicas. Funcionan por habilidad inherente y en cooperación con los Centros Supremos del Poder."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los Controladores Físicos Maestros actúan frecuentemente en baterías de cientos, miles e incluso millones, y a base de variar sus posiciones y formaciones, son capaces de controlar la energía tanto de forma colectiva como individual. Según van cambiando los requisitos pueden aumentar y acelerar el volumen y el movimiento de la energía o bien detener, condensar y retrasar las corrientes de energía. Influyen en las transformaciones de la energía y del poder un poco como los llamados agentes catalizadores intensifican las reacciones químicas. Actúan por aptitud inherente y en cooperación con los Centros Supremos del Poder."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "29:4.22",
       "pageReference": "326.4",
       "sortId": "1.029.004.022",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "3. *Transformadores de la Energía.* El número de estos seres en un superuniverso es increíble. En Satania solamente hay casi un millón, y la cuota usual es de cien por cada mundo habitado."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "3. *Transformadores de energía*. El número de estos seres que hay en un superuniverso es increíble. Hay casi un millón solo en Satania, y el cupo habitual es de cien por cada mundo habitado."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "29:4.23",
       "pageReference": "326.5",
       "sortId": "1.029.004.023",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los transformadores de la energía son la creación conjunta de los Siete Directores Supremos del Poder y los Siete Supervisores Centrales. Están entre las órdenes más personales de controladores físicos, y excepto en los casos en que se encuentra presente en un mundo habitado un director asociado del poder, los transformadores están siempre a cargo. Son los inspectores planetarios de todos los transportes seráficos que se ausentan. Todas las clases de vida celestial pueden utilizar las órdenes menos personales de los controladores físicos sólo por enlace con las órdenes más personales de los directores asociados y de los transformadores de la energía."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los transformadores de energía son creación conjunta de los siete Directores Supremos del Poder y los siete Supervisores de Centros. Están entre los órdenes más personales de controladores físicos, y salvo en los casos en que un director asociado del poder se encuentre presente en un mundo habitado, los transformadores son los que están al mando. Son los inspectores planetarios de todos los transportes seráficos de salida. Ninguna clase de vida celestial puede hacer uso de los órdenes menos personales de los controladores físicos si no es mediante enlace con los órdenes más personales de los directores asociados y de los transformadores de energía."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "29:4.24",
       "pageReference": "326.6",
       "sortId": "1.029.004.024",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Estos transformadores son poderosos y eficaces interruptores vivientes, siendo capaces de colocarse a favor o en contra de una disposición o direccionalización del poder. También son hábiles en sus esfuerzos en aislar a los planetas contra las poderosas corrientes de energía que pasan entre gigantescos vecinos planetarios y estelares. Sus atributos de transmutación de la energía los hacen sumamente útiles para la tarea importante de mantener el equilibrio general de la energía, o equilibrio del poder. A veces parecen consumir o almacenar la energía; en otros momentos, parecen exudar o liberar la energía. Los transformadores son capaces de aumentar o disminuir el potencial de «la batería» de las energías vivientes y muertas en sus reinos respectivos. Pero tratan tan sólo con las energías físicas y semimateriales, no funcionan directamente en el ámbito de vida, ni tampoco cambian las formas de los seres vivientes."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Estos transformadores son conmutadores vivos poderosos y eficaces, capaces de situarse a favor o en contra de una disposición o dirección dada del poder. Son también expertos en aislar a los planetas de las potentes corrientes de energía que pasan entre gigantescos vecinos planetarios y estelares. Sus atributos de transmutación de la energía los hacen sumamente útiles en la importante tarea de mantener la proporción universal de energía, o equilibrio del poder. En ciertos momentos, parecen consumir o almacenar energía; en otros, dan la impresión de exudar o liberar energía. Los transformadores son capaces de aumentar o disminuir el potencial de «acumulador» de las energías vivas y muertas de sus respectivos dominios. Pero solo manejan energías físicas y semimateriales, no actúan directamente en el dominio de la vida, ni tampoco cambian las formas de los seres vivos."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "29:4.25",
       "pageReference": "327.1",
       "sortId": "1.029.004.025",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "En ciertos aspectos, los transformadores de la energía son las más notables y misteriosas de todas las criaturas vivientes semimateriales. De alguna manera desconocida, están diferenciados físicamente, y mediante la variación de sus relaciones de enlace son capaces de ejercer una influencia profunda sobre la energía que pasa a través de sus presencias asociadas. El estado de los reinos físicos parece sufrir una transformación bajo su manipulación perita. *Pueden cambiar la forma física de las energías del espacio, y lo hacen.* Con la ayuda de sus compañeros controladores, son efectivamente capaces de cambiar la forma y potencial de veintisiete de las treinta energías físicas de la carga de poder superuniversal. El hecho de que tres de estas energías están más allá de su control prueba que no son instrumentalidades del Absoluto No Cualificado."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "En algunos aspectos, los transformadores de energía son las más notables y misteriosas de todas las criaturas vivas semimateriales. De alguna manera desconocida, físicamente diferenciados, y con solo variar sus relaciones de enlace, pueden ejercer una profunda influencia sobre la energía que pasa a través de sus presencias asociadas. El estatus de los dominios físicos parece sufrir una transformación bajo su experta manipulación. *Pueden cambiar y cambian la forma física de las energías del espacio*. Con ayuda de sus compañeros controladores, son capaces de cambiar efectivamente la forma y el potencial de veintisiete de las treinta energías físicas de la carga de poder de los superuniversos. El hecho de que tres de estas energías estén fuera de su control prueba que no son mediadores del Absoluto No Cualificado."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "29:4.26",
       "pageReference": "327.2",
       "sortId": "1.029.004.026",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los restantes cuatro grupos de Controladores Físicos Decanos son difícilmente personas dentro de la definición aceptable de esa palabra. Estos transmisores, asociadores, disociadores y frandalanques son totalmente automáticos en sus reacciones; sin embargo, son, en todo sentido, inteligentes. Nos encontramos grandemente limitados en nuestro conocimiento de estas entidades maravillosas, porque no podemos comunicarnos con ellas. Parecen comprender el lenguaje del reino, pero no pueden comunicarse con nosotros. Parecen ser plenamente capaces de recibir nuestras comunicaciones, pero no tienen poder para responder."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los cuatro grupos restantes de Controladores Físicos Maestros no son personas bajo ninguna definición aceptable del término. Estos transmisores, asociadores, disociadores y frandalanks son completamente automáticos en sus reacciones; sin embargo, son inteligentes en todos los sentidos. Estamos enormemente limitados en nuestro conocimiento de estas entidades maravillosas porque no podemos comunicarnos con ellas. Parecen entender el lenguaje del mundo, pero no pueden comunicarse con nosotros. Dan la impresión de ser perfectamente capaces de recibir nuestras comunicaciones, pero totalmente incapaces de responder."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "29:4.27",
       "pageReference": "327.3",
       "sortId": "1.029.004.027",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "4. *Transmisores de la Energía.* Estos seres funcionan principalmente, aunque no totalmente, en una capacidad interplanetaria. Son enviadores maravillosos de la energía tal como se la manifiesta en los mundos individuales."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "4. *Transmisores de energía*. Estos seres actúan principal, aunque no enteramente, en funciones interplanetarias. Son maravillosos expedidores de la energía tal como se manifiesta en los mundos individuales."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "29:4.28",
       "pageReference": "327.4",
       "sortId": "1.029.004.028",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Cuando se envía energía a un nuevo circuito, los transmisores se despliegan en una línea a lo largo del camino deseado de la energía, y en virtud de sus atributos singulares de atracción de la energía, pueden efectivamente inducir un aumento del flujo de energía hacia la dirección deseada. Esto lo hacen tan literalmente como ciertos circuitos metálicos direccionalizan el flujo de ciertas formas de energía eléctrica; y son los superconductores vivientes para más de la mitad de las treinta formas de energía física."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Cuando hay que desviar energía hacia un nuevo circuito, los transmisores se despliegan en línea a lo largo del camino de energía deseado y, en virtud de sus atributos únicos de atracción de la energía, pueden inducir efectivamente un incremento del flujo de energía en la dirección deseada. Hacen esto de modo tan literal como ciertos circuitos metálicos fijan la dirección del flujo de ciertas formas de energía eléctrica, y son los superconductores vivos para más de la mitad de las treinta formas de energía física."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "29:4.29",
       "pageReference": "327.5",
       "sortId": "1.029.004.029",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los transmisores forman enlaces hábiles que son eficaces para rehabilitar las corrientes debilitadas de energía especializada que pasan de un planeta a otro y de una estación a otra en un planeta específico. Ellos pueden detectar corrientes demasiado débiles para que las reconozca cualquier otro tipo de ser vivo, y pueden aumentar estas energías para que el mensaje acompañante se torne perfectamente inteligible. Sus servicios son invaluables para los receptores de las transmisiones."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los transmisores poseen la habilidad de formar enlaces efectivos para rehabilitar las corrientes debilitadas de energía especializada que pasan de un planeta a otro y de una estación a otra en un planeta individual. Pueden detectar corrientes demasiado débiles para ser reconocidas por cualquier otro tipo de ser vivo y pueden reforzar esas energías de forma que el mensaje que las acompaña se vuelva perfectamente inteligible. Sus servicios son inestimables para los receptores de difusiones."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "29:4.30",
       "pageReference": "327.6",
       "sortId": "1.029.004.030",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los transmisores de la energía pueden funcionar respecto de todas las formas de la percepción comunicable; pueden hacer que una escena distante se torne «visible» así como un sonido distante se torne «audible». Proveen las líneas de comunicación de urgencia en los sistemas locales y en los planetas específicos. Prácticamente todas las criaturas deben usar estos servicios para fines de communicación fuera de los circuitos regularmente establecidos."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los transmisores de energía pueden actuar respecto a todas las formas de percepción comunicable. Pueden hacer «visible» una escena distante y «audible» un sonido distante. Proporcionan las líneas de comunicación de emergencia de los sistemas locales y de los planetas individuales. Prácticamente todas las criaturas tienen que utilizar estos servicios para comunicarse por fuera de los circuitos regularmente establecidos."
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "29:4.31",
       "pageReference": "327.7",
       "sortId": "1.029.004.031",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Estos seres, juntamente con los transformadores de la energía, son indispensables para el mantenimiento de la existencia mortal en los mundos que tienen una atmósfera empobrecida, y son parte integral de la técnica de vida en los planetas de las razas no respiradores."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Estos seres, junto con los transformadores de energía, son indispensables para mantener la existencia mortal en los mundos cuya atmósfera está empobrecida, y son parte integrante de la técnica de vida en los planetas no respiradores."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "29:4.32",
       "pageReference": "328.1",
       "sortId": "1.029.004.032",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "5. *Asociadores Primarios.* Estas entidades interesantes e invaluables son extraordinarios conservadores y custodios de la energía; algo así como una planta almacena luz solar, del mismo modo estos organismos vivientes almacenan la energía durante los tiempos en que sus manifestaciones son abundantes. Trabajan en una escala gigantesca, convirtiendo las energías del espacio en un estado físico desconocido en Urantia. También son capaces de llevar estas transformaciones al punto de producir algunas de las unidades primitivas de la existencia material. Estos seres actúan simplemente por su presencia. No se agotan ni se disminuyen de ninguna manera por esta función; actúan como agentes catalíticos vivientes."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "5. *Asociadores primarios*. Estas interesantes e inestimables entidades son conservadores y custodios magistrales de la energía. De forma parecida a como almacena una planta la luz solar, estos organismos vivos almacenan energía en los periodos en que se manifiesta de forma excedentaria. Trabajan a una escala gigantesca y convierten las energías del espacio en un estado físico desconocido en Urantia. Son también capaces de llevar adelante estas transformaciones hasta el punto de producir algunas de las unidades primitivas de la existencia material. Estos seres actúan simplemente con su presencia. No se agotan ni desgastan de ninguna manera en el ejercicio de su función; actúan como agentes catalizadores vivos."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "29:4.33",
       "pageReference": "328.2",
       "sortId": "1.029.004.033",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Durante las temporadas en que las manifestaciones son menores, tienen la capacidad de liberar estas energías acumuladas. Pero vuestro conocimiento de la energía y de la materia no es suficientemente avanzado como para posibilitar una explicación de la técnica de esta fase de su trabajo. Siempre laboran en cumplimiento de la ley universal, manipulando y manejando átomos, electrones y ultimatones de una manera muy semejante a la cual vosotros maniobráis los caracteres de la imprenta para hacer que los mismos símbolos alfabéticos relaten cuentos vastamente distintos."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "En los periodos de manifestación deficitaria, están facultados para liberar esas energías acumuladas. Pero vuestro conocimiento de la energía y de la materia no es lo bastante avanzado como para poder explicaros la técnica de este aspecto de su trabajo. Trabajan siempre incansablemente y de conformidad con la ley universal, manejando y manipulando átomos, electrones y ultimatones de forma parecida a como vosotros maniobráis los caracteres de imprenta ajustables para hacer que los mismos símbolos alfabéticos cuenten historias totalmente diferentes."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "29:4.34",
       "pageReference": "328.3",
       "sortId": "1.029.004.034",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los asociadores son el primer grupo vivo que aparece en una esfera material en organización y pueden funcionar a temperaturas físicas que vosotros consideraríais completamente incompatibles con la existencia de seres vivientes. Representan una orden de vida que está sencillamente más allá de la gama de la imaginación humana. Juntamente con sus colaboradores, los disociadores, son los más serviles de todas las criaturas inteligentes."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los asociadores son el primer grupo con vida que aparece en una esfera material en organización, y pueden actuar a temperaturas físicas que vosotros consideraríais totalmente incompatibles con la existencia de seres vivos. Representan un orden de vida que está simplemente más allá del alcance de la imaginación humana. Los disociadores, junto con sus colaboradores, son las más serviles de todas las criaturas inteligentes."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "29:4.35",
       "pageReference": "328.4",
       "sortId": "1.029.004.035",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "6. *Disociadores Secundarios.* Comparados con los asociadores primarios, estos seres enormemente dotados de antigravedad son los trabajadores contrarios. No existe nunca peligro alguno de que las formas especiales o modificadas de la energía física en los mundos locales o en los sistemas locales se agoten, porque estas organizaciones vivientes están dotadas del singular poder de evolucionar provisiones ilimitadas de energía. Se ocupan principalmente de la evolución de una forma de energía que es casi desconocida en Urantia, a partir de una forma de materia que se reconoce aún menos. Son en verdad los alquimistas del espacio y los hacedores de maravillas del tiempo. Pero de todas las maravillas que hacen, nunca traicionan los mandatos de la Supremacía Cósmica."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "6. *Disociadores secundarios*. Comparados con los asociadores primarios, estos seres enormemente dotados de antigravedad son los trabajadores inversos. No puede haber ningún peligro de que se agoten las formas especiales o modificadas de la energía física en los mundos locales ni en los sistemas locales, porque estas organizaciones vivas están dotadas con el poder único de hacer evolucionar cantidades ilimitadas de energía. Se ocupan principalmente de la evolución de una forma de energía apenas conocida en Urantia a partir de una forma de materia que es aún menos reconocida. Son en verdad los alquimistas del espacio y los hacedores de prodigios del tiempo. Pero en todos los prodigios que hacen, nunca transgreden los mandatos de la Supremacía Cósmica."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "29:4.36",
       "pageReference": "328.5",
       "sortId": "1.029.004.036",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "7. *Los Frandalanques.* Estos seres son la creación conjunta de las tres órdenes de seres que controlan la energía: los organizadores primarios y secundarios de la fuerza y los directores del poder. Los frandalanques son los más numerosos de todos los Controladores Físicos Decanos; solamente el número que funciona en Satania está más allá de vuestra comprensión numérica. Están estacionados en todos los mundos habitados y siempre están agregados a las órdenes más elevadas de los controladores físicos. Funcionan en forma intercambiable en el universo central, y en los superuniversos y en los dominios del espacio exterior."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "7. *Los frandalanks*. Estos seres son creación conjunta de los tres órdenes de seres de control de la energía: los organizadores primarios y secundarios de la fuerza y los directores del poder. Los frandalanks son los más numerosos de todos los Controladores Físicos Maestros; el número de los que actúan solo en Satania sobrepasa vuestro concepto numérico. Están emplazados en todos los mundos habitados y siempre adscritos a los órdenes más altos de los controladores físicos. Actúan de forma intercambiable en el universo central y los superuniversos y en los dominios del espacio exterior."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "29:4.37",
       "pageReference": "328.6",
       "sortId": "1.029.004.037",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Los frandalanques son creados en treinta divisiones, una para cada forma de fuerza universal básica, y funcionan exclusivamente como indicadores vivientes y automáticos de presencia, presión y velocidad. Estos barómetros vivientes se ocupan exclusivamente del registro automático e infalible del estado de todas las formas de la fuerza-energía. Son, para el universo físico, lo que el vasto mecanismo de reflexividad es para el universo de la mente. Los frandalanques que registran el tiempo además de la presencia cuantitativa y cualitativa de la energía, se llaman *cronoldeques.*"
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Los frandalanks son creados en treinta divisiones, una para cada forma de fuerza básica del universo, y actúan exclusivamente como indicadores vivos y automáticos de presencia, presión y velocidad. Estos barómetros vivos se dedican exclusivamente a registrar de modo automático y sin errores el estatus de todas las formas de energía-fuerza. Son para el universo físico lo que el vasto mecanismo de reflectividad es para el universo de la mente. Los frandalanks que registran el tiempo además de la presencia cuantitativa y cualitativa de la energía se llaman *chronoldeks*."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "29:4.38",
       "pageReference": "328.7",
       "sortId": "1.029.004.038",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Controladores Físicos Decanos",
-      "markdown": "Reconozco que los frandalanques son inteligentes, pero no los puedo clasificar sino como máquinas vivientes. Prácticamente la única forma en que os puedo ayudar a comprender estos mecanismos vivientes consiste en compararlos con vuestros dispositivos mecánicos que actúan con una precisión y exactitud casi inteligentes. Por lo tanto, si deseáis concebir a estos seres, usad vuestra imaginación para reconocer que en el gran universo contamos en realidad con mecanismos inteligentes y *vivientes* (entidades) que pueden realizar tareas más complicadas que comprenden computaciones más extraordinarias, con delicadeza de precisión aún mayor y con una precisión de ultimidad."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Controladores Físicos Maestros",
+      "markdown": "Reconozco que los frandalanks son inteligentes, pero no puedo clasificarlos más que como máquinas vivas. Para ayudaros a comprender a estos mecanismos vivos solo puedo compararlos con vuestros propios artilugios mecánicos que funcionan con precisión y exactitud casi semejantes a la inteligencia. Así pues, si queréis concebir a estos seres, haced uso de vuestra imaginación hasta el extremo de reconocer que en el gran universo tenemos de hecho mecanismos (entidades) inteligentes y *vivos* que pueden realizar tareas más intrincadas, basadas en cómputos más maravillosos, con exactitud aún más exquisita, e incluso llegar a la ultimidad de la precisión."
     },
     {
       "type": "section",
@@ -1639,8 +1639,8 @@
       "standardReferenceId": "29:5.0",
       "pageReference": null,
       "sortId": "1.029.005.000",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
       "markdown": null
     },
     {
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "29:5.1",
       "pageReference": "329.1",
       "sortId": "1.029.005.001",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "Los organizadores de la fuerza residen en el Paraíso, pero funcionan en todo el universo maestro, más particularmente en los dominios del espacio no organizado. Estos seres extraordinarios no son ni creadores ni criaturas, y comprenden dos grandes divisiones de servicio:"
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "Los organizadores de la fuerza residen en el Paraíso pero actúan en todo el universo maestro y más especialmente en los dominios del espacio no organizado. Estos seres extraordinarios no son ni creadores ni criaturas y constituyen dos grandes divisiones de servicio:"
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "29:5.2",
       "pageReference": "329.2",
       "sortId": "1.029.005.002",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "1. Los Organizadores de la Fuerza Decanos Eventuados Primarios."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "1. Organizadores Maestros Devenidos Primarios de la Fuerza."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "29:5.3",
       "pageReference": "329.3",
       "sortId": "1.029.005.003",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "2. Los Organizadores de la Fuerza Decanos Asociados Trascendentales."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "2. Organizadores Maestros Trascendentales Asociados de la Fuerza."
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "29:5.4",
       "pageReference": "329.4",
       "sortId": "1.029.005.004",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "Estas dos poderosas órdenes de manipuladores de la fuerza primordial trabajan exclusivamente bajo la supervisión de los Arquitectos del Universo Maestro, y en este momento no funcionan ampliamente dentro de los límites del gran universo."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "Estos dos poderosos órdenes de manipuladores de la fuerza primordial trabajan exclusivamente bajo la supervisión de los Arquitectos del Universo Maestro, y en el momento presente no actúan mucho dentro de los límites del gran universo."
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "29:5.5",
       "pageReference": "329.5",
       "sortId": "1.029.005.005",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "Los Organizadores de la Fuerza Decanos Primarios son los manipuladores de las fuerzas espaciales primordiales o básicas del Absoluto No Cualificado; son creadores de nebulosas. Son los instigadores vivientes de los ciclones de energía del espacio y los organizadores primitivos y direccionalizadores de estas manifestaciones gigantescas. Estos organizadores de la potencia transmutan la energía *primordial* (pre-energía que no responde a la gravedad directa del Paraíso) en energía primaria o *energía poderosa,* energía que se transmuta de la atracción exclusiva del Absoluto No Cualificado a la atracción de la gravedad de la Isla del Paraíso. De allí en adelante los suceden los organizadores asociados de la fuerza, que continúan el proceso de transmutación de la energía de la etapa primaria, a través de la etapa secundaria o de *gravedad-energía.*"
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "Los Organizadores Maestros Primarios de la Fuerza son los manipuladores de las fuerzas-espacio primordiales o básicas del Absoluto No Cualificado; son creadores de nebulosas. Son los activadores vivos de los ciclones de energía del espacio y los primeros que organizan y establecen la dirección de esas gigantescas manifestaciones. Estos organizadores de la fuerza transmutan la *fuerza primordial* (preenergía que no responde a la gravedad directa del Paraíso) en energía primaria o *energía poderosa*, energía que se transmuta al pasar del control exclusivo del Absoluto No Cualificado al control de gravedad de la Isla del Paraíso. Les suceden inmediatamente los organizadores asociados de la fuerza, que continúan el proceso de transmutación de energía desde la etapa primaria a la etapa secundaria o de *energía-gravedad*."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "29:5.6",
       "pageReference": "329.6",
       "sortId": "1.029.005.006",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "Cuando se completan los planes de la creación de un universo local, señalado por la llegada de un Hijo Creador, los Organizadores de la Fuerza Decanos Asociados dejan el camino para las órdenes de los directores del poder que actúan en el superuniverso de jurisdicción astronómica. Pero en ausencia de dichos planes, los organizadores asociados de la fuerza continúan indefinidamente a cargo de estas creaciones materiales, así como ahora operan en el espacio exterior."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "Una vez terminados los planes de creación de un universo local, este cumplimiento queda señalado por la llegada de un Hijo Creador, y los Organizadores Maestros Asociados  de la Fuerza dejan paso a los órdenes de los directores del poder que actúan en el superuniverso de su jurisdicción astronómica. Pero en ausencia de dichos planes, los organizadores asociados de la fuerza siguen indefinidamente a cargo de esas creaciones materiales tal como operan ahora en el espacio exterior."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "29:5.7",
       "pageReference": "329.7",
       "sortId": "1.029.005.007",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "Los Organizadores Decanos de la Fuerza resisten temperaturas y funcionan bajo condiciones físicas que serían intolerables aún para los versátiles centros del poder y controladores físicos de Orvonton. Los únicos otros tipos de seres revelados capaces de funcionar en estos ámbitos del espacio exterior son los Mensajeros Solitarios y los Espíritus Trinitarios Inspirados."
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "Los Organizadores Maestros de la Fuerza pueden ejercer su actividad a temperaturas y bajo condiciones físicas que serían intolerables incluso para los polifacéticos centros del poder y controladores físicos de Orvonton. Los otros únicos tipos de seres revelados capaces de actuar en esos dominios del espacio exterior son los Mensajeros Solitarios y los Espíritus Inspirados de la Trinidad."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "29:5.8",
       "pageReference": "329.8",
       "sortId": "1.029.005.008",
-      "paperTitle": "Los Directores del Poder Universal",
-      "sectionTitle": "Los Organizadores Decanos de la Fuerza",
-      "markdown": "[Patrocinado por un Censor Universal que actúa por autoridad de los Ancianos de los Días en Uversa.]"
+      "paperTitle": "Los Directores del Poder del Universo",
+      "sectionTitle": "Los Organizadores Maestros de la Fuerza",
+      "markdown": "[Patrocinado por un Censor Universal que actúa por la autoridad de los Ancianos de los Días de Uversa.]"
     }
   ]
 }
