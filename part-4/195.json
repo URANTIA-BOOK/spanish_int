@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/195.md",
-  "source_sha256": "a5beab03c1d9386d78179e3ccc883e90eedd4208bf5e1d5dcc208edd52d44c92",
+  "source_sha256": "77ce64141da9ce3ac1fc2c444b8470b3a00aac3e9b1b39d66b28b08840ecf12a",
   "rows": [
     {
       "type": "paper",
@@ -57,7 +57,7 @@
       "sortId": "4.195.000.001",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "LOS resultados de la predicación de Pedro el día de Pentecostés fueron tales que decidieron la política futura y determinaron los planes, de la mayoría de los apóstoles en sus esfuerzos por proclamar el evangelio del reino. Pedro fue el verdadero fundador de la iglesia cristiana; Pablo llevó el mensaje cristiano a los gentiles, y los creyentes griegos lo llevaron a todo el imperio romano."
+      "markdown": "LOS resultados de la predicación de Pedro el día de Pentecostés fueron tales que decidieron las políticas futuras y determinaron los planes de la mayoría de los apóstoles en sus esfuerzos por proclamar el evangelio del reino. Pedro fue el verdadero fundador de la Iglesia cristiana. Pablo llevó el mensaje cristiano a los gentiles, y los creyentes griegos lo llevaron a todo el Imperio romano."
     },
     {
       "type": "paragraph",
@@ -75,7 +75,7 @@
       "sortId": "4.195.000.002",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Aunque los hebreos, encadenados por la tradición e dominados por los sacerdotes, se negaron como pueblo a aceptar el evangelio de Jesús sobre la paternidad de Dios y la hermandad del hombre, así como también la proclamación de Pedro y Pablo sobre la resurrección y ascensión de Cristo (subsiguiente cristianismo), el resto del imperio romano se encontró receptivo a las enseñanzas cristianas en evolución. La civilización occidental era, en esta época, intelectual, estaba cansada de guerras y profundamente escéptica de todas las religiones y filosofías sobre el universo existentes. Los pueblos del mundo occidental, los beneficiarios de la cultura griega, tenían una tradición venerada de un magnífico pasado. Podían contemplar la heredad de los grandes logros en filosofía, arte, literatura y progreso político. Pero con todos estos logros, no tenían una religión que satisficiera el alma. Sus anhelos espirituales permanecían insatisfechos."
+      "markdown": "Aunque los hebreos atados a la tradición y tiranizados por los sacerdotes se negaron a aceptar, como pueblo, tanto el evangelio de Jesús sobre la paternidad de Dios y la hermandad de los hombres como la proclamación de Pedro y de Pablo de la resurrección y la ascensión de Cristo (el cristianismo posterior), el resto del Imperio romano resultó ser receptivo a estas enseñanzas cristianas en vías de evolución. La civilización occidental de la época era intelectual, estaba harta de guerras y veía con profundo escepticismo todas las religiones y todas las filosofías universales existentes. Los pueblos del mundo occidental, beneficiarios de la cultura griega, veneraban la tradición de un magnífico pasado. Podían contemplar la herencia de sus grandes realizaciones en filosofía, arte, literatura y progreso político, pero a pesar de todos esos logros no tenían una religión que colmara sus almas. Sus anhelos espirituales seguían insatisfechos."
     },
     {
       "type": "paragraph",
@@ -93,7 +93,7 @@
       "sortId": "4.195.000.003",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Sobre este foro de la sociedad humana fueron arrojadas de pronto las enseñanzas de Jesús, comprendidas en el mensaje cristiano. Un nuevo orden de vida se presentó así a los corazones hambrientos de estos pueblos occidentales. Esta situación significó un conflicto inmediato entre las viejas prácticas religiosas y la nueva versión cristianizada del mensaje de Jesús al mundo. Tal conflicto debe resolverse o en una victoria absoluta de lo nuevo o de lo antiguo, o en cierto grado de *transigencia.* La historia enseña que esta lucha terminó en una transigencia. El cristianismo presumió abarcar demasiado, para ser asimilado por un pueblo en una o dos generaciones. No era un sencillo llamado espiritual, tal como Jesús había presentado a las almas de los hombres; muy pronto adoptó una actitud decidida sobre ritos religiosos, educación, magia, medicina, arte, literatura, ley, gobierno, moral, reglamentación sexual, poligamia y, en forma limitada, incluso sobre la esclavitud. El cristianismo no vino solamente como una nueva religión —cosa que estaba esperando todo el imperio romano y el Oriente— sino como un *nuevo orden de sociedad humana.* Y siendo tal pretensión como era el cristianismo precipitó rápidamente el conflicto sociomoral de los siglos. Los ideales de Jesús, tal como fueron reinterpretados por la filosofía griega y socializados en el cristianismo, desafiaron audazmente las tradiciones de la raza humana, contenidas en la ética, moral y religiones de la civilización occidental."
+      "markdown": "Este era el escenario de la sociedad humana donde aparecieron de pronto las enseñanzas de Jesús contenidas en el mensaje cristiano. Se presentó así un nuevo orden de vida ante los corazones hambrientos de aquellos pueblos occidentales. Esta situación supuso un conflicto inmediato entre las antiguas prácticas religiosas y la nueva versión cristianizada del mensaje de Jesús al mundo. Un conflicto así solo podía resolverse con una victoria decisiva de lo antiguo o de lo nuevo, o bien con cierto grado de *transigencia*. La historia muestra que la lucha terminó en transigencia. El cristianismo se atrevió a abarcar demasiadas cosas como para que cualquier pueblo pudiera asimilarlas en una o dos generaciones. No era un simple llamamiento espiritual como el que había presentado Jesús a las almas de los hombres, sino que adoptó muy pronto posiciones claras sobre los rituales religiosos, la educación, la magia, la medicina, el arte, la literatura, la ley, el gobierno, la moralidad, la reglamentación sexual, la poligamia y, en grado limitado, incluso sobre la esclavitud. El cristianismo no llegó simplemente como una nueva religión —algo que todo el Imperio romano y todo el Oriente estaban esperando— sino como *un nuevo orden de sociedad humana*, y esta pretensión precipitó rápidamente el choque sociomoral de los siglos. Los ideales de Jesús, reinterpretados por la filosofía griega y socializados en el cristianismo, plantearon un audaz desafío a las tradiciones de la raza humana plasmadas en la ética, la moral y las religiones de la civilización occidental."
     },
     {
       "type": "paragraph",
@@ -111,7 +111,7 @@
       "sortId": "4.195.000.004",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Al principio, el cristianismo ganó conversos solamente en las capas sociales y económicas más bajas. Pero para el comienzo del segundo siglo lo más elevado de la cultura grecorromana tendió cada vez más hacia este nuevo orden de la creencia cristiana, este nuevo concepto del propósito de la vida y de la meta de la existencia."
+      "markdown": "Al principio el cristianismo solo ganó conversos en los estratos sociales y económicos más bajos, pero hacia el comienzo del siglo segundo la élite de la cultura grecorromana se fue orientando cada vez más hacia este nuevo orden de creencia cristiana, hacia este nuevo concepto del propósito del vivir y de la meta de la existencia."
     },
     {
       "type": "paragraph",
@@ -129,7 +129,7 @@
       "sortId": "4.195.000.005",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "¿Cómo pudo este nuevo mensaje de origen judío, que casi había fracasado en la tierra de su nacimiento, captar tan rápida y eficazmente las mejores mentes del imperio romano? El triunfo del cristianismo sobre las religiones filosóficas y los cultos de misterio se debió a:"
+      "markdown": "¿Cómo pudo este nuevo mensaje de origen judío, casi fracasado en su tierra natal, captar con tanta eficacia y rapidez a las mejores mentes del Imperio romano? El triunfo del cristianismo sobre las religiones filosóficas y los cultos de misterio se debió a los factores siguientes:"
     },
     {
       "type": "paragraph",
@@ -147,7 +147,7 @@
       "sortId": "4.195.000.006",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "1. La organización. Pablo fue un gran organizador y sus sucesores siguieron el mismo paso que él asentó."
+      "markdown": "1. La organización. Pablo fue un gran organizador y sus sucesores se mantuvieron a su altura."
     },
     {
       "type": "paragraph",
@@ -165,7 +165,7 @@
       "sortId": "4.195.000.007",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "2. El cristianismo estaba profundamente helenizado. Comprendía lo mejor de la filosofía griega, así como también la crema de la teología hebrea."
+      "markdown": "2. El cristianismo estaba totalmente helenizado. Contenía lo mejor de la filosofía griega y lo más selecto de la teología hebrea."
     },
     {
       "type": "paragraph",
@@ -183,7 +183,7 @@
       "sortId": "4.195.000.008",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "3. Pero, mejor aún, contenía un nuevo y gran *ideal,* el eco de la vida autootorgadora de Jesús y el reflejo de su mensaje de salvación para toda la humanidad."
+      "markdown": "3. Pero por encima de todo, contenía un *ideal* nuevo y grande: el eco de la vida de otorgamiento de Jesús y el reflejo de su mensaje de salvación para toda la humanidad."
     },
     {
       "type": "paragraph",
@@ -201,7 +201,7 @@
       "sortId": "4.195.000.009",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "4. Los líderes cristianos estaban dispuestos a hacer tales concesiones al mitraísmo que la mejor parte de sus seguidores fue granjeado para el culto de Antioquía."
+      "markdown": "4. Los líderes cristianos estaban dispuestos a hacer tales concesiones al mitraísmo que la mejor parte de los seguidores de Mitra fue conquistada para el culto de Antioquía."
     },
     {
       "type": "paragraph",
@@ -219,7 +219,7 @@
       "sortId": "4.195.000.010",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "5. Asimismo la siguiente generación de líderes cristianos y las generaciones subsiguientes hicieron concesiones con el paganismo hasta tal punto que se granjearon aun al emperador romano Constantino para la nueva religión."
+      "markdown": "5. Así mismo, las generaciones posteriores de líderes cristianos siguieron haciendo tales concesiones al paganismo que incluso el emperador romano Constantino fue ganado para la nueva religión."
     },
     {
       "type": "paragraph",
@@ -237,7 +237,7 @@
       "sortId": "4.195.000.011",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Pero los cristianos hicieron un astuto convenio con los paganos, ya que adoptaron la pompa ritualista de éstos, forzándolos a la vez a que aceptaran la versión helenizada del cristianismo paulino. Hicieron un convenio mejor con los paganos que el que hicieron con el culto mitraico, pero en esa primer transigencia ellos resultaron aun más que conquistadores, porque consiguieron eliminar burdas inmoralidades y otras prácticas criticables del misterio persa."
+      "markdown": "Pero los cristianos hicieron un trato astuto con los paganos, ya que adoptaron su pompa ritual mientras los obligaban a aceptar la versión helenizada del cristianismo paulino. Negociaron mejor con los paganos que con el culto mitraico, pero incluso en aquellas concesiones iniciales salieron ganando con creces porque consiguieron eliminar las burdas inmoralidades y otras muchas prácticas reprensibles de los misterios persas."
     },
     {
       "type": "paragraph",
@@ -255,7 +255,7 @@
       "sortId": "4.195.000.012",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Sabia o insensatamente, estos primeros líderes del cristianismo comprometieron deliberadamente los *ideales* de Jesús en un esfuerzo por salvar y fomentar muchas de sus *ideas;* y tuvieron un éxito enorme. ¡Pero no os equivoquéis! Estos ideales del Maestro que fueron sacrificados en aquellas transigencias aún están latentes en su evangelio, y con el tiempo afirmarán su pleno poder ante el mundo."
+      "markdown": "Sabiamente o no, los primeros líderes del cristianismo hicieron concesiones deliberadas sobre los *ideales* de Jesús en un esfuerzo por salvar y fomentar muchas de sus *ideas*. Y tuvieron mucho éxito. ¡Pero no os equivoquéis! Esos ideales del Maestro, objeto de concesiones, siguen latentes en su evangelio, y con el tiempo afirmarán su pleno poder en el mundo."
     },
     {
       "type": "paragraph",
@@ -273,7 +273,7 @@
       "sortId": "4.195.000.013",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Por esta paganización del cristianismo, el viejo orden ganó muchas victorias menores de naturaleza ritualista, pero los cristianos ganaron ascendencia en cuanto:"
+      "markdown": "Gracias a esta paganización del cristianismo el antiguo orden ganó muchas victorias menores de naturaleza ritualista, pero los cristianos obtuvieron la supremacía por cuanto:"
     },
     {
       "type": "paragraph",
@@ -291,7 +291,7 @@
       "sortId": "4.195.000.014",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "1. Brotó una nota nueva y considerablemente más elevada de moral humana."
+      "markdown": "1. Se hizo sonar una nota nueva y mucho más alta en la moralidad humana."
     },
     {
       "type": "paragraph",
@@ -309,7 +309,7 @@
       "sortId": "4.195.000.015",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "2. Se impartió al mundo un concepto de Dios nuevo y considerablemente amplificado."
+      "markdown": "2. Se dio al mundo un concepto nuevo y mucho más amplio de Dios."
     },
     {
       "type": "paragraph",
@@ -327,7 +327,7 @@
       "sortId": "4.195.000.016",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "3. La esperanza de la inmortalidad se volvió parte de las aseveraciones de una religión reconocida."
+      "markdown": "3. La esperanza de la inmortalidad entró a formar parte de las garantías de una religión reconocida."
     },
     {
       "type": "paragraph",
@@ -345,7 +345,7 @@
       "sortId": "4.195.000.017",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "4. Jesús de Nazaret fue entregado al alma hambrienta del hombre."
+      "markdown": "4. Jesús de Nazaret fue presentado al alma hambrienta del hombre."
     },
     {
       "type": "paragraph",
@@ -363,7 +363,7 @@
       "sortId": "4.195.000.018",
       "paperTitle": "Después de Pentecostés",
       "sectionTitle": null,
-      "markdown": "Muchas de estas grandes verdades enseñadas por Jesús casi se perdieron en estas primeras transigencias, pero aún yacen adormecidas en esta religión de cristianismo paganizado, que a su vez fue la versión paulina de la vida y enseñanzas del Hijo del Hombre. El cristianismo, aun antes de haber sido paganizado, fue primero profundamente helenizado. El cristianismo debe mucho, muchísimo a los griegos. Fue un griego de Egipto quien con tanta valentía se puso de pie en Nicea y desafió a esta asamblea con tal intrepidez que ésta no se atrevió a enturbiar el concepto de la naturaleza de Jesús en tal forma que habría podido poner en peligro la verdad real de su autootorgamiento, la cual podría así haber desaparecido del mundo. El nombre de este griego era Atanasio, y si no hubiese sido por la elocuencia y la lógica de este creyente, habrían triunfado las persuasiones de Ario."
+      "markdown": "Muchas de las grandes verdades que enseñó Jesús llegaron casi a perderse en estas concesiones iniciales, pero siguen aún adormecidas en esa religión de cristianismo paganizado que era a su vez la versión paulina de la vida y las enseñanzas del Hijo del Hombre. Y antes incluso de ser paganizado, el cristianismo fue primero helenizado a fondo. El cristianismo debe mucho, muchísimo, a los griegos. Fue un griego de Egipto el que tuvo la audacia de levantarse en Nicea y desafiar con tanto valor a la asamblea que no se atrevieron a oscurecer el concepto de la naturaleza de Jesús hasta el punto de correr el riesgo de que se perdiera para el mundo la verdad real de su otorgamiento. Este griego se llamaba Atanasio, y si no hubiera sido por la elocuencia y la lógica de este creyente habrían triunfado las persuasivas convicciones de Arrio."
     },
     {
       "type": "section",
@@ -380,7 +380,7 @@
       "pageReference": null,
       "sortId": "4.195.001.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
+      "sectionTitle": "La influencia de los griegos",
       "markdown": null
     },
     {
@@ -398,8 +398,8 @@
       "pageReference": "2071.1",
       "sortId": "4.195.001.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "La helenización del cristianismo comenzó intensamente en ese día memorable en el que el apóstol Pablo se puso de pie ante el concilio del Areópago en Atenas y habló a los atenienses sobre el «Dios Desconocido». Ahí, a la sombra de la Acrópolis, este ciudadano romano proclamó a los griegos su versión de la nueva religión que se había originado en la tierra judía de Galilea. Y había cierta extraña similitud entre la filosofía griega y muchas de las enseñanzas de Jesús. Tenían una meta común: ambas buscaban el *surgimiento del individuo.* Los griegos, en lo referente a un surgimiento social y político; Jesús, en lo referente a un surgimiento moral y espiritual. Los griegos enseñaban ese liberalismo intelectual que conducía hacia una libertad política; Jesús enseñaba ese liberalismo espiritual que conducía hacia una libertad religiosa. Estas dos ideas juntas constituyeron un nuevo y poderoso código para la libertad humana; presagiaron la libertad social, política y espiritual del hombre."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "La helenización del cristianismo empezó realmente el día memorable en que el apóstol Pablo se presentó ante el consejo del Areópago de Atenas y habló a los atenienses sobre el «Dios Desconocido». Allí, a la sombra de la Acrópolis, este ciudadano romano proclamó a aquellos griegos su versión de la nueva religión que había tenido su origen en la tierra judía de Galilea. Había una extraña similitud entre la filosofía griega y muchas de las enseñanzas de Jesús. Tenían una meta común: ambas buscaban *la emergencia del individuo*; los griegos su emergencia social y política, Jesús su emergencia moral y espiritual. Los griegos enseñaban el liberalismo intelectual que conducía a la libertad política, Jesús enseñaba el liberalismo espiritual que conducía a la libertad religiosa. La unión de estas dos ideas constituyó un nuevo y poderoso estatuto de la libertad humana y presagiaba la libertad social, política y espiritual del hombre."
     },
     {
       "type": "paragraph",
@@ -416,8 +416,8 @@
       "pageReference": "2071.2",
       "sortId": "4.195.001.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "El cristianismo nació y triunfó sobre todas las otras religiones, debido principalmente a dos factores:"
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "El cristianismo nació y triunfó sobre todas las religiones rivales debido principalmente a dos factores:"
     },
     {
       "type": "paragraph",
@@ -434,8 +434,8 @@
       "pageReference": "2071.3",
       "sortId": "4.195.001.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "1. La mente griega estaba dispuesta a tomar prestadas ideas nuevas y buenas, incluso de los judíos."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "1. La mente griega estaba dispuesta a adoptar nuevas y buenas ideas incluso de los judíos."
     },
     {
       "type": "paragraph",
@@ -452,8 +452,8 @@
       "pageReference": "2071.4",
       "sortId": "4.195.001.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "2. Pablo y sus sucesores estaban dispuestos a negociar, y sabían hacerlo con astucia y sagacidad; eran hábiles traficantes teológicos."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "2. Pablo y sus sucesores estaban dispuestos a hacer concesiones y sabían hacerlo con astucia y sagacidad; eran finos negociadores en materia teológica."
     },
     {
       "type": "paragraph",
@@ -470,8 +470,8 @@
       "pageReference": "2071.5",
       "sortId": "4.195.001.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "Cuando Pablo se puso de pie en Atenas y predicó «Cristo, y el crucificado», los griegos estaban espiritualmente hambrientos; se hacían preguntas, estaban interesados y realmente buscaban la verdad espiritual. No olvidéis jamás que, al principio, los romanos lucharon contra el cristianismo, mientras que los griegos lo abrazaron, y fueron éstos quienes literalmente forzaron a los romanos, posteriormente, a la aceptación de esta nueva religión, con las modificaciones entonces adoptadas, como parte de la cultura griega."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "Cuando Pablo se levantó en Atenas para predicar «a Cristo, y Cristo crucificado», los griegos estaban espiritualmente hambrientos; se preguntaban por la verdad espiritual, les interesaba y la buscaban realmente. No olvidéis nunca que al principio los romanos combatieron el cristianismo mientras que los griegos lo abrazaron, y que fueron los griegos los que más tarde forzaron literalmente a los romanos a aceptar como parte de la cultura griega esta nueva religión, ya modificada para entonces."
     },
     {
       "type": "paragraph",
@@ -488,8 +488,8 @@
       "pageReference": "2071.6",
       "sortId": "4.195.001.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "Los griegos veneraban la belleza, los judíos, la santidad; pero ambos pueblos amaban la verdad. Durante siglos los griegos habían pensado seriamente y debatido con sinceridad sobre todos los problemas humanos —sociales, económicos, políticos y filosóficos— con excepción de la religión. Pocos entre los griegos se habían ocupado de la religión con profundidad; ni siquiera tomaban muy en serio su propia religión. Durante siglos, los judíos ignoraron estos otros campos del pensamiento, concentrándose en la religión. Tomaban su religión muy seriamente, demasiado en serio. Iluminado por el contenido del mensaje de Jesús, el producto conjunto de siglos del pensamiento de estos dos pueblos se convirtió en ese momento en el poder impulsor de un nuevo orden de la sociedad humana y, hasta cierto punto, de un nuevo orden de creencias y prácticas religiosas de la humanidad."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "Los griegos veneraban la belleza y los judíos la santidad, pero ambos amaban la verdad. Durante siglos los griegos habían pensado mucho y discutido muy seriamente sobre todos los problemas humanos —sociales, económicos, políticos y filosóficos— menos sobre religión. Pocos griegos habían prestado mucha atención a la religión; ni siquiera se tomaban muy en serio su propia religión. Durante siglos los judíos habían descuidado todos estos campos del pensamiento mientras entregaban sus mentes a la religión. Se tomaban su religión muy en serio, demasiado en serio. El producto unido de los siglos de pensamiento de estos dos pueblos, al iluminarse con el contenido del mensaje de Jesús, se convirtió en ese momento en la fuerza motriz de un nuevo orden de sociedad humana y hasta cierto punto de un nuevo orden de creencias y prácticas religiosas humanas."
     },
     {
       "type": "paragraph",
@@ -506,8 +506,8 @@
       "pageReference": "2071.7",
       "sortId": "4.195.001.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "La influencia de la cultura griega ya había penetrado en las tierras del Mediterráneo occidental cuando Alejandro diseminó la civilización helenista por el mundo del cercano Oriente. Los griegos fueron bien con su religión y su política mientras estuvieron organizados en pequeñas ciudades-estado; pero cuando el rey macedonio se atrevió a extender Grecia hasta convertirla en un imperio que iba del Adriático al Indus, comenzaron los problemas. El arte y la filosofía de Grecia estaban a la altura de la expansión imperial, pero no así su administración política ni su religión. Una vez que las ciudades-estado de Grecia se expandieron hasta volverse un imperio, sus dioses un tanto parroquiales resultaron ligeramente raros. Los griegos estaban realmente buscando *un Dios,* un Dios más importante y mejor, cuando recibieron la versión cristianizada de la religión judía más antigua."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "Cuando Alejandro propagó la civilización helenística por el Cercano Oriente, la influencia de la cultura griega había penetrado ya en los países del Mediterráneo occidental. A los griegos les fue muy bien con su religión y su política mientras vivieron en pequeñas ciudades-Estado, pero cuando el rey de Macedonia se atrevió a expandir Grecia para convertirla en un imperio que abarcaba del Adriático al Indo empezaron los problemas. El arte y la filosofía de Grecia estaban a la altura de la expansión imperial pero no así su administración política ni su religión. Después de que las ciudades-Estado de Grecia se expandieran hasta hacerse un imperio, sus dioses más bien provincianos resultaron un poco raros. Los griegos estaban buscando realmente *un solo Dios*, un Dios más grande y mejor, cuando les llegó la versión cristianizada de la más antigua religión judía."
     },
     {
       "type": "paragraph",
@@ -524,8 +524,8 @@
       "pageReference": "2072.1",
       "sortId": "4.195.001.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "El imperio helenista, como tal, no podía durar. Su influencia cultural continuó, pero perduró sólo después de adquirir del oeste el genio político romano para la administración de un imperio, y de obtener del este una religión cuyo único Dios poseía dignidad imperial."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "El Imperio helenístico no podía perdurar como tal. Su influjo cultural continuó, pero solo perduró después de tomar de Occidente el genio político romano para la administración de un Imperio y después de obtener de Oriente una religión cuyo Dios único poseía dignidad imperial."
     },
     {
       "type": "paragraph",
@@ -542,8 +542,8 @@
       "pageReference": "2072.2",
       "sortId": "4.195.001.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "En el primer siglo después de Cristo, la cultura helenista ya había alcanzado sus más altos niveles; su retrogresión ya había comenzado; el conocimiento avanzaba, pero el genio estaba declinando. Fue en este mismo momento en que las ideas e ideales de Jesús, que estaban parcialmente contenidos en el cristianismo, se integraron al salvamento de la cultura y el conocimiento griegos."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "En el siglo primero después de Cristo la cultura helenística había alcanzado ya sus cotas más altas y empezaba a retroceder; el conocimiento avanzaba pero el genio declinaba. Fue en ese preciso momento cuando las ideas y los ideales de Jesús, que estaban parcialmente contenidos en el cristianismo, contribuyeron a salvar el saber y la cultura griega."
     },
     {
       "type": "paragraph",
@@ -560,8 +560,8 @@
       "pageReference": "2072.3",
       "sortId": "4.195.001.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "Alejandro había atacado al oriente con el don cultural de la civilización griega; Pablo asaltaba al occidente con la versión cristiana del evangelio de Jesús. Y donde quiera que prevalecía la cultura griega en occidente, allí echó raíces el cristianismo helenizado."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "Alejandro había invadido Oriente con el regalo cultural de la civilización griega. Pablo asaltó Occidente con la versión cristiana del evangelio de Jesús. Y el cristianismo helenizado echó raíces en todas las regiones de Occidente donde prevaleció la cultura griega."
     },
     {
       "type": "paragraph",
@@ -578,8 +578,8 @@
       "pageReference": "2072.4",
       "sortId": "4.195.001.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia de los Griegos",
-      "markdown": "La versión oriental del mensaje de Jesús, aunque permaneció más fiel a sus enseñanzas, continuó siguiendo la actitud poco transigente de Abner. No progresó jamás como lo hizo la versión helenizada sino que finalmente se malogró dentro del movimiento islámico."
+      "sectionTitle": "La influencia de los griegos",
+      "markdown": "La versión oriental del mensaje de Jesús, aunque permaneció más fiel a sus enseñanzas, mantuvo la actitud intransigente de Abner. Nunca progresó como la versión helenizada y acabó por perderse en el movimiento islámico."
     },
     {
       "type": "section",
@@ -596,7 +596,7 @@
       "pageReference": null,
       "sortId": "4.195.002.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
+      "sectionTitle": "La influencia romana",
       "markdown": null
     },
     {
@@ -614,8 +614,8 @@
       "pageReference": "2072.5",
       "sortId": "4.195.002.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Los romanos se adueñaron físicamente de la cultura griega, reemplazando el gobierno por repartición con un gobierno representativo. Y este cambio pronto favoreció al cristianismo, ya que Roma introdujo en todo el mundo occidental una nueva tolerancia de idiomas y pueblos extranjeros y aun de religiones ajenas."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Los romanos adoptaron en bloque la cultura griega y establecieron un sistema de gobierno representativo en lugar del gobierno por sorteo. Este cambio favoreció pronto al cristianismo, ya que Roma introdujo en todo el mundo occidental una nueva tolerancia hacia los idiomas y pueblos extranjeros e incluso hacia las religiones foráneas."
     },
     {
       "type": "paragraph",
@@ -632,8 +632,8 @@
       "pageReference": "2072.6",
       "sortId": "4.195.002.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Muchas de las primeras persecuciones de los cristianos en Roma se debieron solamente a su uso desafortunado de la palabra «reino» en sus predicaciones. Los romanos toleraban todas las religiones, pero eran muy sensibles a todo lo que se asemejara a rivalidad política. Así pues, cuando amainaron estas primeras persecuciones, causadas principalmente por un malentendido, el campo de la propaganda religiosa estuvo plenamente abierto. Los romanos se interesaban por la administración política; el arte y la religión les importaban poco, pero eran inusitadamente tolerantes hacia los dos."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Muchas de las primeras persecuciones contra los cristianos en Roma se debieron únicamente a la desafortunada utilización del término «reino» en sus predicaciones. Los romanos eran tolerantes con todas y cada una de las religiones, pero muy recelosos ante cualquier atisbo de rivalidad política. Y así, cuando esas primeras persecuciones —nacidas en gran medida de malentendidos— se extinguieron, se abrió de par en par el campo para la propaganda religiosa. A los romanos les interesaba la administración política y se preocupaban poco por el arte o la religión, pero eran excepcionalmente tolerantes con ambos."
     },
     {
       "type": "paragraph",
@@ -650,8 +650,8 @@
       "pageReference": "2072.7",
       "sortId": "4.195.002.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "La ley oriental era rígida y arbitraria; la ley griega era fluida y artística; la ley romana tenía dignidad y fomentaba respeto. La educación romana producía una lealtad inusitada y sólida. Los primeros romanos eran individuos políticamente dedicados y sublimemente consagrados. Eran honestos, trabajadores, y leales a sus ideales, pero no tenían una religión que valiera la pena. No es de extrañar que sus maestros griegos pudieran persuadirlos a que aceptaran el cristianismo de Pablo."
+      "sectionTitle": "La influencia romana",
+      "markdown": "La ley oriental era severa y arbitraria; la ley griega, flexible y artística; la ley romana, digna y respetable. La educación romana generaba una imperturbable lealtad sin precedentes. Los primeros romanos eran individuos de gran dedicación política y plenamente consagrados. Eran honrados, entusiastas y entregados a sus ideales, pero sin una religión digna de ese nombre. No es de extrañar que se dejaran convencer por sus maestros griegos de aceptar el cristianismo de Pablo."
     },
     {
       "type": "paragraph",
@@ -668,8 +668,8 @@
       "pageReference": "2072.8",
       "sortId": "4.195.002.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Y estos romanos eran un gran pueblo. Podían gobernar el Occidente, porque sabían gobernarse a sí mismos. Tal incomparable honestidad, devoción y firme autocontrol constituía el terreno ideal para recibir y hacer crecer la semilla del cristianismo."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Aquellos romanos eran un gran pueblo. Podían gobernar Occidente porque sabían gobernarse a sí mismos. Su incomparable honradez, entrega y firme autocontrol constituyeron el terreno ideal donde sembrar y hacer crecer el cristianismo."
     },
     {
       "type": "paragraph",
@@ -686,8 +686,8 @@
       "pageReference": "2072.9",
       "sortId": "4.195.002.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Fue fácil para estos grecorromanos volverse tan espiritualmente dedicados a una iglesia institucional como lo eran políticamente al estado. Los romanos tan sólo lucharon contra la iglesia cuando tuvieron miedo de que ésta compitiera con el estado. Roma, que tenía escasa filosofía nacional y cultura original, tomó la cultura griega como propia y audazmente adoptó a Cristo para su filosofía moral. El cristianismo se volvió la cultura moral de Roma, pero no en realidad su religión, en el sentido de una experiencia individual de crecimiento espiritual entre los que abrazaron esta nueva religión en forma tan masiva. Por cierto, es verdad que hubo muchos individuos capaces de franquear la superficialidad de esta religión estatal encontrando así, para alimento de su alma, los valores auténticos de los significados ocultos contenidos en las verdades latentes del cristianismo helenizado y paganizado."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Fue fácil para estos grecorromanos entregados políticamente al Estado consagrarse espiritualmente a una Iglesia institucional con la misma dedicación. Los romanos solo combatieron contra la Iglesia cuando temieron que pudiera competir contra el Estado. Roma, que tenía poca filosofía nacional o cultura nativa, hizo suya la cultura griega y adoptó resueltamente a Cristo como su filosofía moral. El cristianismo se convirtió en la cultura moral de Roma, pero la nueva religión no fue precisamente una experiencia individual de crecimiento espiritual para los que la abrazaron de forma tan masiva. Es verdad que muchas personas penetraron bajo la superficie de toda esta religión estatal y encontraron, para alimento de su alma, los valores reales de los significados ocultos contenidos en las verdades latentes del cristianismo helenizado y paganizado."
     },
     {
       "type": "paragraph",
@@ -704,8 +704,8 @@
       "pageReference": "2073.1",
       "sortId": "4.195.002.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Los estoicos, con su fuerte llamado a «la naturaleza y la conciencia», habían preparado a Roma aun mejor para recibir a Cristo, por lo menos en un sentido intelectual. El romano era abogado por naturaleza y adiestramiento; veneraba incluso las leyes de la naturaleza. Ahora, en el cristianismo, discernía en las leyes de la naturaleza las leyes de Dios. Un pueblo que pudo producir a Cicerón y a Virgilio, estaba maduro para el cristianismo helenizado de Pablo."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Los estoicos y su esforzado llamamiento «a la naturaleza y la conciencia» habían sido la mejor preparación para que Roma entera recibiera a Cristo, al menos en sentido intelectual. El romano era jurista por naturaleza y por formación; veneraba hasta las leyes de la naturaleza, y ahora con el cristianismo percibía las leyes de Dios en las leyes de la naturaleza. Un pueblo capaz de dar a un Cicerón y un Virgilio estaba maduro para el cristianismo helenizado de Pablo."
     },
     {
       "type": "paragraph",
@@ -722,8 +722,8 @@
       "pageReference": "2073.2",
       "sortId": "4.195.002.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Así pues, estos griegos romanizados obligaron tanto a los judíos como a los cristianos a que filosofizaran su religión, coordinaran sus ideas y sistematizaran sus ideales, a fin de adaptar las prácticas religiosas a la corriente de vida existente. Todo este movimiento lo ayudó enormemente la traducción de las escrituras hebreas al griego y, más tarde, por la aparición en griego, del Nuevo Testamento."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Y así, estos griegos romanizados forzaron tanto a los judíos como a los cristianos a hacer filosófica su religión, a coordinar sus ideas y sistematizar sus ideales, a adaptar las prácticas religiosas al curso existente de la vida. Y todo esto se vio muy favorecido por la traducción al griego de las escrituras hebreas y por la redacción posterior del Nuevo Testamento en lengua griega."
     },
     {
       "type": "paragraph",
@@ -740,8 +740,8 @@
       "pageReference": "2073.3",
       "sortId": "4.195.002.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Los griegos, contrariamente a los judíos y muchos otros pueblos, habían por largo tiempo creído provisionalmente en la inmortalidad, en alguna clase de sobrevivencia después de la muerte, y puesto que este concepto era el corazón mismo de las enseñanzas de Jesús, el cristianismo indudablemte ejerció un fuerte atractivo sobre ellos."
+      "sectionTitle": "La influencia romana",
+      "markdown": "A diferencia de los judíos y de otros muchos pueblos, los griegos llevaban mucho tiempo creyendo provisionalmente en la inmortalidad, en alguna clase de supervivencia después de la muerte. Y dado que este era el núcleo mismo de la enseñanza de Jesús, era seguro que el cristianismo ejercería un poderoso atractivo sobre ellos."
     },
     {
       "type": "paragraph",
@@ -758,8 +758,8 @@
       "pageReference": "2073.4",
       "sortId": "4.195.002.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Influencia Romana",
-      "markdown": "Una sucesión de victorias de la cultura griega y de la política romana había consolidado las tierras mediterráneas en un solo imperio, con un solo idioma y una sola cultura, y había preparado el mundo occidental para un solo Dios. El judaísmo proveyó este Dios, pero el judaísmo no era aceptable como religión para estos griegos romanizados. Filón ayudó a algunos mitigar sus objeciones, pero el cristianismo les reveló un concepto aun mejor de un solo Dios, y este fue prontamente aceptado."
+      "sectionTitle": "La influencia romana",
+      "markdown": "Una sucesión de victorias de la cultura griega y de la política romana había consolidado a los países mediterráneos como un solo imperio, con un solo idioma y una sola cultura, y había preparado al mundo occidental para un solo Dios. El judaísmo proporcionaba este Dios, pero el judaísmo no era aceptable como religión para aquellos griegos romanizados. Filón ayudó a mitigar las objeciones de algunos, pero el cristianismo les reveló un concepto aún mejor de un Dios único y lo aceptaron inmediatamente."
     },
     {
       "type": "section",
@@ -776,7 +776,7 @@
       "pageReference": null,
       "sortId": "4.195.003.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
+      "sectionTitle": "Bajo el Imperio romano",
       "markdown": null
     },
     {
@@ -794,8 +794,8 @@
       "pageReference": "2073.5",
       "sortId": "4.195.003.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "Después de la consolidación del gobierno político romano y tras la diseminación del cristianismo, los cristianos se encontraron con un Dios único, un gran concepto religioso, pero sin imperio. Los grecorromanos a su vez se encontraron con un gran imperio, pero sin tener un Dios adecuado como concepto religioso para el culto imperial y la unificación espiritual. Los cristianos aceptaron el imperio; el imperio adoptó el cristianismo. Los romanos aportaron unidad de gobierno político; los griegos, unidad de cultura y conocimiento; el cristianismo, unidad de pensamiento y prácticas religiosas."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Tras la consolidación de la autoridad política romana y la diseminación del cristianismo, los cristianos se encontraron con un Dios único, un gran concepto religioso, pero sin imperio. Los grecorromanos se encontraron con un gran imperio, pero sin un Dios que sirviera como concepto religioso adecuado para el culto de un imperio y para su unificación espiritual. Los cristianos aceptaron el imperio y el imperio adoptó el cristianismo. Los romanos proporcionaron una unidad de gobierno político, los griegos una unidad de cultura y conocimientos y el cristianismo una unidad de pensamiento y práctica religiosa."
     },
     {
       "type": "paragraph",
@@ -812,8 +812,8 @@
       "pageReference": "2073.6",
       "sortId": "4.195.003.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "Roma se sobrepuso a la tradición nacionalista a través del universalismo imperial y fue posible por primera vez en la historia que diversas razas y naciones, por lo menos nominalmente, aceptaran una sola religión."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Roma superó la tradición del nacionalismo mediante un universalismo imperial y por primera vez en la historia hizo posible que diferentes razas y naciones aceptaran, al menos nominalmente, una sola religión."
     },
     {
       "type": "paragraph",
@@ -830,8 +830,8 @@
       "pageReference": "2073.7",
       "sortId": "4.195.003.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "El cristianismo fue favorecido en Roma en la época de grandes debates entre las vigorosas enseñanzas de los estoicos y las promesas de salvación de los cultos de misterio. El cristianismo llegó como una brisa de refrescante consuelo y una fuerza liberadora para un pueblo espiritualmente hambriento en cuyo idioma no existía el vocablo por «altruísmo»."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Cuando el cristianismo se ganó el favor de Roma existía una gran contienda entre las vigorosas enseñanzas de los estoicos y las promesas de salvación de los cultos de misterio. El cristianismo llegó con su consuelo reconfortante y su poder liberador a un pueblo espiritualmente hambriento en cuyo idioma no cabía la palabra «altruismo»."
     },
     {
       "type": "paragraph",
@@ -848,8 +848,8 @@
       "pageReference": "2073.8",
       "sortId": "4.195.003.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "Lo que dio mayor poder al cristianismo fue la forma en que sus creyentes vivieron una vida de servicio y aun la forma en que murieron por su fe durante los primeros tiempos de las drásticas persecuciones."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Lo que dio su mayor poder al cristianismo fue la manera en que sus creyentes vivieron una vida de servicio, e incluso la manera en que murieron por su fe durante las drásticas persecuciones de los primeros tiempos."
     },
     {
       "type": "paragraph",
@@ -866,8 +866,8 @@
       "pageReference": "2073.9",
       "sortId": "4.195.003.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "La enseñanza sobre el amor de Cristo por los niños puso fin prontamente a la práctica común de poner a muerte a los niños no deseados, particularmente a las niñas."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "La enseñanza del amor de Cristo por los niños acabó pronto con la práctica generalizada de dejar morir a los bebés no deseados, en particular a las niñas."
     },
     {
       "type": "paragraph",
@@ -884,8 +884,8 @@
       "pageReference": "2074.1",
       "sortId": "4.195.003.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "La primera manera de adoración cristiana fue tomada en gran parte de la sinagoga judía, con modificaciones provenientes del rito mitraico; más adelante, se le sumó la pompa pagana. La base de esta primitiva iglesia cristiana fue constituida por griegos cristianizados prosélitos del judaísmo."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "El primer modelo de culto cristiano fue tomado en gran parte de la sinagoga judía y modificado por el ritual mitraico. Más adelante se le añadió mucha pompa pagana. La columna vertebral de la Iglesia cristiana primitiva estaba formada por griegos cristianizados prosélitos del judaísmo."
     },
     {
       "type": "paragraph",
@@ -902,8 +902,8 @@
       "pageReference": "2074.2",
       "sortId": "4.195.003.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "El segundo siglo después de Cristo, fue el mejor período en toda la historia mundial para que progresara una buena religión en el mundo occidental. Durante el primer siglo el cristianismo se preparó, luchando y transigiendo para arraigarse y difundirse rápidamente. El cristianismo adoptó al emperador; más tarde, éste adoptó el cristianismo. Ésta fue una gran época para la difusión de una nueva religión. Había libertad religiosa; se habían generalizado los viajes, y existía el libre pensamiento."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "El siglo segundo después de Cristo fue el periodo más favorable de la historia mundial para que progresara una buena religión en el mundo occidental. Durante el siglo primero el cristianismo se había preparado mediante luchas y concesiones para echar raíces y difundirse rápidamente. El cristianismo adoptó al emperador y después el emperador adoptó al cristianismo. Fue una gran época para la difusión de una nueva religión. Había libertad religiosa, los viajes se habían generalizado y no había trabas para el pensamiento."
     },
     {
       "type": "paragraph",
@@ -920,8 +920,8 @@
       "pageReference": "2074.3",
       "sortId": "4.195.003.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "El ímpetu espiritual de aceptar nominalmente el cristianismo helenizado llegó a Roma demasiado tarde para prevenir la declinación moral ya bien empezada, o para compensar la degeneración racial ya bien establecida y empeorando. Esta nueva religión era una necesidad cultural para la Roma imperial, pero desafortunadamente no llegó a ser un medio de salvación espiritual en un sentido más amplio."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "El ímpetu espiritual derivado de aceptar nominalmente el cristianismo helenizado llegó a Roma demasiado tarde para evitar su bien avanzada decadencia moral o para compensar su asentado y creciente deterioro racial. Esta nueva religión era una necesidad cultural para la Roma imperial, y es una verdadera lástima que no llegara a ser un medio de salvación espiritual en un sentido más amplio."
     },
     {
       "type": "paragraph",
@@ -938,8 +938,8 @@
       "pageReference": "2074.4",
       "sortId": "4.195.003.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "Ni siquiera una buena religión podía salvar a un gran imperio de los resultados inevitables de la falta de participación individual en los asuntos del gobierno, del excesivo paternalismo, del exceso de impuestos y los graves abusos en su recolección, de una balanza comercial no equilibrada con el Levante drenando el oro, de la locura por la diversión, de la estandardización romana, de la degradación de la mujer, de la esclavitud y la decadencia racial, de las pestes, y de una iglesia estatal que se volvió institucionalizada hasta llegar casi a la esterilidad espiritual."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Ni siquiera una buena religión podía salvar a un gran imperio de los resultados inevitables de la falta de participación individual en los asuntos del gobierno, del paternalismo excesivo, de la sobrecarga impositiva y los graves abusos en su recaudación, del desequilibrio comercial con el Levante que iba agotando el oro, de la locura por las diversiones, de la estandarización romana, de la degradación de la mujer, de la esclavitud y la decadencia racial, de las plagas físicas y de una Iglesia estatal que se había institucionalizado casi hasta el punto de la esterilidad espiritual."
     },
     {
       "type": "paragraph",
@@ -956,8 +956,8 @@
       "pageReference": "2074.5",
       "sortId": "4.195.003.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "Sin embargo las condiciones en Alejandría no eran tan malas. Las primeras escuelas continuaron manteniendo sin compromisos muchas de las enseñanzas de Jesús. Pantaenos enseñó a Clemente, procediendo luego en pos de Natanael, proclamando a Cristo en la India. Aunque algunos de los ideales de Jesús fueron sacrificados en la construcción del cristianismo, es justo registrar que, a fines del siglo segundo, prácticamente todas las grandes mentes del mundo grecorromano se habían vuelto cristianas. El triunfo estaba a punto de llegar a su culminación."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Sin embargo las condiciones no eran tan malas en Alejandría. Las primeras escuelas siguieron conservando libres de concesiones muchas de las enseñanzas de Jesús. Pantaenos enseñó a Clemente y luego siguió a Natanael para proclamar a Cristo en la India. Si bien algunos de los ideales de Jesús fueron sacrificados durante la construcción del cristianismo, es de justicia hacer constar que a finales del siglo segundo prácticamente todas las grandes mentes del mundo grecorromano se habían vuelto cristianas. El triunfo se acercaba a su culminación."
     },
     {
       "type": "paragraph",
@@ -974,8 +974,8 @@
       "pageReference": "2074.6",
       "sortId": "4.195.003.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "Bajo el Imperio Romano",
-      "markdown": "El imperio romano duró lo suficiente como para asegurar la sobrevivencia del cristianismo, aun después del colapso de la organización política. Pero frecuentemente hemos hecho conjeturas sobre qué hubiera sucedido en Roma y en el mundo si se hubiese aceptado el evangelio del reino en lugar del cristianismo griego."
+      "sectionTitle": "Bajo el Imperio romano",
+      "markdown": "Y este Imperio romano duró lo suficiente como para asegurar la supervivencia del cristianismo incluso después del colapso del Imperio. Pero nos hemos preguntado muchas veces qué habría sucedido en Roma y en el mundo si se hubiera aceptado el evangelio del reino en lugar del cristianismo griego."
     },
     {
       "type": "section",
@@ -992,7 +992,7 @@
       "pageReference": null,
       "sortId": "4.195.004.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
+      "sectionTitle": "La edad oscura de Europa",
       "markdown": null
     },
     {
@@ -1010,8 +1010,8 @@
       "pageReference": "2074.7",
       "sortId": "4.195.004.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
-      "markdown": "La iglesia, siendo adjunta a la sociedad y aliada de la política, estaba destinada a compartir la decadencia intelectual y espiritual de la así llamada «edad de las tinieblas» en Europa. Durante este período, la religión se volvió más y más monastizada, ascetizada y legalizada. En un sentido espiritual, el cristianismo estaba hibernando. A lo largo de este período existió, al lado de esta religión durmiente y secularizada, una corriente continua de misticismo, una fantástica experiencia espiritual que lindaba con la irrealidad y era filosóficamente semejante al panteísmo."
+      "sectionTitle": "La edad oscura de Europa",
+      "markdown": "La Iglesia, al ser adjunta a la sociedad y aliada de la política, estaba condenada a compartir el declive intelectual y espiritual de la llamada «edad oscura» de Europa. Durante este periodo la religión se fue haciendo cada vez más monástica, ascética y legalista. El cristianismo estaba hibernando en sentido espiritual. A lo largo de este periodo coexistió con esta religión adormecida y secularizada una corriente continua de misticismo, una fantástica experiencia espiritual que rayaba en la irrealidad y era filosóficamente análoga al panteísmo."
     },
     {
       "type": "paragraph",
@@ -1028,8 +1028,8 @@
       "pageReference": "2074.8",
       "sortId": "4.195.004.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
-      "markdown": "Durante estos siglos oscuros y desesperantes, la religión se volvió virtualmente de segunda mano. El individuo se perdió casi completamente dentro de la autoridad, tradición y dictadura sobrecogedoras de la iglesia. Una nueva amenaza espiritual surgió con la creación de una pléyade de «santos» que se suponía tenían una influencia especial en las cortes divinas y que, por consiguiente, si el suplicante se les dirigía en forma eficaz, podían interceder ante los Dioses en nombre del hombre."
+      "sectionTitle": "La edad oscura de Europa",
+      "markdown": "Durante estos siglos oscuros y desesperanzados la religión volvió a ser prácticamente de segunda mano. El individuo se encontraba casi perdido ante la autoridad, la tradición y el dictado de una Iglesia que lo eclipsaba todo. Surgió una nueva amenaza espiritual con la creación de una constelación de «santos» que se suponía tenían una influencia especial en las cortes divinas y podían por lo tanto interceder ante los Dioses en favor del hombre que supiera recurrir a ellos de forma eficaz."
     },
     {
       "type": "paragraph",
@@ -1046,8 +1046,8 @@
       "pageReference": "2075.1",
       "sortId": "4.195.004.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
-      "markdown": "Pero el cristianismo estaba suficientemente socializado y paganizado como para que, aunque estuvo impotente a impedir el advenimiento de la edad de las tinieblas, se encontrara mejor preparado para sobrevivir este largo período de tiniebla moral y estancamiento espiritual. Logró perdurar a través de la larga noche de la civilización occidental y aún estaba funcionando como influencia moral en el mundo cuando hizo su aparición el renacimiento. La rehabilitación del cristianismo, tras el paso de la época del oscurantismo, resultó en la aparición de numerosas sectas de enseñanzas cristianas, cuyas creencias fueron adaptadas para ciertos tipos intelectuales, emocionales y espirituales de la personalidad humana. Y muchos de estos grupos cristianos especiales, o familias religiosas, aún perduran en el momento en que hacemos esta presentación."
+      "sectionTitle": "La edad oscura de Europa",
+      "markdown": "Aunque el cristianismo no podía detener la edad oscura que se avecinaba, estaba ya lo bastante socializado y paganizado como para sobrevivir a este largo periodo de oscuridad moral y estancamiento espiritual. Perduró durante la larga noche de la civilización occidental y seguía ejerciendo influencia moral en el mundo en los albores del Renacimiento. Después de atravesar la edad oscura, la rehabilitación del cristianismo dio como resultado la aparición de numerosas sectas de enseñanzas cristianas, creencias adaptadas a tipos especiales —intelectuales, emocionales y espirituales— de personalidad humana. Muchos de estos grupos cristianos especiales, o familias religiosas, siguen existiendo en el momento de hacer esta exposición."
     },
     {
       "type": "paragraph",
@@ -1064,8 +1064,8 @@
       "pageReference": "2075.2",
       "sortId": "4.195.004.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
-      "markdown": "El cristianismo evidencia la historia de haberse originado de la transformación no intencionada de la religión de Jesús a una religión sobre Jesús. Además, su historia demuestra que experimentó helenización, paganización, secularización, institucionalización, deterioro intelectual, decadencia espiritual, hibernación moral, amenaza de extinción y un rejuvenecimiento posterior, fragmentación y rehabilitación relativa más reciente. Tales antecedentes indican una vitalidad inherente y la posesión de vastos recursos de recuperación. Y este mismo cristianismo está ahora presente en el mundo civilizado de los pueblos occidentales y se enfrenta con una lucha por su existencia que es aun más ominosa que esas crisis memorables que caracterizaron sus pasadas batallas por lograr el dominio."
+      "sectionTitle": "La edad oscura de Europa",
+      "markdown": "El cristianismo muestra en su historia que se originó a partir de la transformación no intencionada de la religión de Jesús en una religión sobre Jesús. La historia describe además que experimentó la helenización, la paganización, la secularización, la institucionalización, el deterioro intelectual, la decadencia espiritual, la hibernación moral, la amenaza de extinción, el posterior rejuvenecimiento, la fragmentación y más recientemente una rehabilitación relativa. Una trayectoria así denota una vitalidad inherente y enormes recursos de recuperación. Este mismo cristianismo está presente hoy día en el mundo civilizado de los pueblos occidentales y afronta una lucha por la existencia aún más inquietante que las memorables crisis que caracterizaron sus pasadas batallas por lograr el dominio."
     },
     {
       "type": "paragraph",
@@ -1082,8 +1082,8 @@
       "pageReference": "2075.3",
       "sortId": "4.195.004.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Edad de las Tinieblas en Europa",
-      "markdown": "La religión se enfrenta ahora con el desafío de una nueva era de mentes científicas y tendencias materialistas. En esta gigantesca lucha entre lo secular y lo espiritual, la religión de Jesús finalmente triunfará."
+      "sectionTitle": "La edad oscura de Europa",
+      "markdown": "La religión se enfrenta ahora al desafío de una nueva edad de mentes científicas y tendencias materialistas. En este gigantesco conflicto entre lo secular y lo espiritual acabará triunfando la religión de Jesús."
     },
     {
       "type": "section",
@@ -1100,7 +1100,7 @@
       "pageReference": null,
       "sortId": "4.195.005.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
+      "sectionTitle": "El problema moderno",
       "markdown": null
     },
     {
@@ -1118,8 +1118,8 @@
       "pageReference": "2075.4",
       "sortId": "4.195.005.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "El siglo veinte ha traído nuevos problemas para que resuelvan el cristianismo y todas las otras religiones. Cuanto más elevada se torna una civilización, más es necesario el deber de «buscar primero las realidades del cielo» en todos los esfuerzos del hombre por estabilizar la sociedad y facilitar la solución de sus problemas materiales."
+      "sectionTitle": "El problema moderno",
+      "markdown": "El siglo veinte ha traído al cristianismo y a todas las demás religiones nuevos problemas que resolver. Cuanto más alto escala una civilización, más necesario se hace el deber de «buscar primero las realidades del cielo» en todos los esfuerzos del hombre por estabilizar la sociedad y facilitar la solución de sus problemas materiales."
     },
     {
       "type": "paragraph",
@@ -1136,8 +1136,8 @@
       "pageReference": "2075.5",
       "sortId": "4.195.005.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "La verdad se vuelve muchas veces confusa y aun engañosa cuando se la fragmenta, segrega, aísla y analiza demasiado. La verdad viva enseña el camino recto al buscador de la verdad sólo cuando es abrazada en su totalidad y como una realidad espiritual viva, no como un hecho de la ciencia material ni como una inspiración del arte interpuesto."
+      "sectionTitle": "El problema moderno",
+      "markdown": "La verdad se vuelve a menudo confusa y hasta engañosa cuando se desmembra, se segrega, se aísla y se analiza demasiado. La verdad viva solo enseña bien al buscador de la verdad cuando es abrazada en su totalidad y como una realidad espiritual viva, no como un hecho de la ciencia material o una inspiración de un arte interpuesto."
     },
     {
       "type": "paragraph",
@@ -1154,8 +1154,8 @@
       "pageReference": "2075.6",
       "sortId": "4.195.005.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "La religión es la revelación al hombre de su destino divino y eterno. La religión es una experiencia puramente personal y espiritual y debe por siempre ser distinta de las demás formas elevadas del pensamiento del hombre, tales como:"
+      "sectionTitle": "El problema moderno",
+      "markdown": "La religión es la revelación al hombre de su destino divino y eterno. La religión es una experiencia puramente personal y espiritual, y debe distinguirse siempre de otras formas elevadas del pensamiento humano como:"
     },
     {
       "type": "paragraph",
@@ -1172,7 +1172,7 @@
       "pageReference": "2075.7",
       "sortId": "4.195.005.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
+      "sectionTitle": "El problema moderno",
       "markdown": "1. La actitud lógica del hombre hacia las cosas de la realidad material."
     },
     {
@@ -1190,8 +1190,8 @@
       "pageReference": "2075.8",
       "sortId": "4.195.005.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "2. La apreciación estética del hombre de la belleza en contraste con la fealdad."
+      "sectionTitle": "El problema moderno",
+      "markdown": "2. La apreciación estética de la belleza que hace el hombre en contraste con la fealdad."
     },
     {
       "type": "paragraph",
@@ -1208,8 +1208,8 @@
       "pageReference": "2075.9",
       "sortId": "4.195.005.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "3. El reconocimiento ético del hombre de las obligaciones sociales y del deber político."
+      "sectionTitle": "El problema moderno",
+      "markdown": "3. El reconocimiento ético por parte del hombre de sus obligaciones sociales y su deber político."
     },
     {
       "type": "paragraph",
@@ -1226,8 +1226,8 @@
       "pageReference": "2075.10",
       "sortId": "4.195.005.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "4. Incluso el sentido de la moral humana de cada hombre no es, en sí y por sí mismo, religioso."
+      "sectionTitle": "El problema moderno",
+      "markdown": "4. Ni siquiera el sentido que tiene el hombre de la moralidad humana es religioso en y por sí mismo."
     },
     {
       "type": "paragraph",
@@ -1244,8 +1244,8 @@
       "pageReference": "2075.11",
       "sortId": "4.195.005.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "La religión funciona para encontrar en el universo aquellos valores que estimulan la fe, la confianza y la certeza; la religión culmina en la adoración. La religión descubre para el alma aquellos valores supremos que contrastan con los valores relativos descubiertos por la mente. Tal visión sobrehumana tan sólo se puede obtener mediante una genuina experiencia religiosa."
+      "sectionTitle": "El problema moderno",
+      "markdown": "La religión está destinada a encontrar los valores del universo que inspiran fe, confianza y seguridad; la religión culmina en adoración. La religión descubre para el alma los valores supremos que contrastan con los valores relativos descubiertos por la mente. Esa visión interior sobrehumana solo se puede conseguir a través de la auténtica experiencia religiosa."
     },
     {
       "type": "paragraph",
@@ -1262,8 +1262,8 @@
       "pageReference": "2075.12",
       "sortId": "4.195.005.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "Un sistema social duradero sin una moral predicada sobre las realidades espirituales no puede perdurar puesto que equivaldría pensar en el sistema solar sin gravedad."
+      "sectionTitle": "El problema moderno",
+      "markdown": "Un sistema social duradero sin una moral basada en realidades espirituales es tan imposible de mantener como el sistema solar sin gravedad."
     },
     {
       "type": "paragraph",
@@ -1280,8 +1280,8 @@
       "pageReference": "2076.1",
       "sortId": "4.195.005.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "No tratéis de satisfacer la curiosidad ni de gratificar los anhelos latentes de aventura que surgen del alma en una corta vida en la carne. ¡Sed pacientes! No caigáis en la tentación de zambulliros en una aventura barata y sórdida, sin ley. Controlad vuestras energías y frenad vuestras pasiones; tranquilízaos mientras aguardáis el despliegue majestuoso de una carrera sin fin de aventura progresiva y descubrimiento emocionante."
+      "sectionTitle": "El problema moderno",
+      "markdown": "No intentéis satisfacer la curiosidad durante una corta vida en la carne ni saciar todos los anhelos latentes de aventura que surgen dentro del alma. ¡Tened paciencia! No caigáis en la tentación de lanzaros desordenadamente a sórdidas aventuras baratas. Aprovechad vuestras energías y refrenad vuestras pasiones; mantened la calma mientras esperáis el despliegue majestuoso de una carrera sin fin de aventuras progresivas y descubrimientos apasionantes."
     },
     {
       "type": "paragraph",
@@ -1298,8 +1298,8 @@
       "pageReference": "2076.2",
       "sortId": "4.195.005.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "En la confusión sobre los orígenes del hombre, no perdáis de vista su destino eterno. No olvidéis que Jesús amó aun a los pequeños, y que por siempre aclaró el gran valor de la personalidad humana."
+      "sectionTitle": "El problema moderno",
+      "markdown": "En la confusión sobre el origen del hombre no perdáis de vista su destino eterno. No olvidéis que Jesús amaba incluso a los niños pequeños y que dejó claro para siempre el gran valor de la personalidad humana."
     },
     {
       "type": "paragraph",
@@ -1316,8 +1316,8 @@
       "pageReference": "2076.3",
       "sortId": "4.195.005.012",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "Al observar al mundo, recordad que las manchas negras del mal que veis se muestran contra un fondo blanco de bondad final. No veréis simples manchas blancas de bondad que se destacan contra un fondo negro de maldad."
+      "sectionTitle": "El problema moderno",
+      "markdown": "Al observar el mundo recordad que las manchas negras de maldad que veis destacan sobre un fondo blanco de bondad última. No veis unas pocas manchas blancas de bondad que destacan tristemente sobre un fondo negro de maldad."
     },
     {
       "type": "paragraph",
@@ -1334,8 +1334,8 @@
       "pageReference": "2076.4",
       "sortId": "4.195.005.013",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "Si hay tanta buena verdad para publicar y proclamar, ¿por qué deben los hombres ocuparse tanto del mal en el mundo, sólo porque parece ser un hecho? La belleza de los valores espirituales de la verdad es más placentera e inspiradora que este fenómeno del mal."
+      "sectionTitle": "El problema moderno",
+      "markdown": "Cuando hay tantas verdades buenas que publicar y proclamar, ¿por qué prestan los hombres tanta atención al mal del mundo solo porque parece ser un hecho? Las bellezas de los valores espirituales de la verdad son más placenteras y edificantes que el fenómeno del mal."
     },
     {
       "type": "paragraph",
@@ -1352,8 +1352,8 @@
       "pageReference": "2076.5",
       "sortId": "4.195.005.014",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema Moderno",
-      "markdown": "En la religión, Jesús abogó por el método de la experiencia, y lo aplicó, así como la ciencia moderna utiliza la técnica de la experimentación. Encontramos a Dios mediante la guía de la visión espiritual, pero nos acercamos a esta visión del alma mediante el amor por la belleza, la búsqueda de la verdad, la lealtad al deber, y la adoración de la bondad divina. Pero de todos estos valores, el amor es la guía auténtica de la verdadera visión espiritual."
+      "sectionTitle": "El problema moderno",
+      "markdown": "Jesús siguió y recomendó el método de la experiencia en materia de religión, igual que la ciencia moderna utiliza la técnica experimental. Encontramos a Dios a través de las directrices de la visión espiritual interior, pero abordamos esta visión interior del alma a través del amor a lo bello, de la búsqueda de la verdad, de la lealtad al deber y de la adoración de la bondad divina. Pero de todos estos valores, el amor es el verdadero guía que lleva a la visión interior real."
     },
     {
       "type": "section",
@@ -1370,7 +1370,7 @@
       "pageReference": null,
       "sortId": "4.195.006.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
+      "sectionTitle": "El materialismo",
       "markdown": null
     },
     {
@@ -1388,8 +1388,8 @@
       "pageReference": "2076.6",
       "sortId": "4.195.006.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "Los científicos han precipitado a la humanidad, sin intención, en un pánico materialista; han desencadenado sin quererlo un pánico bancario en el banco moral de las edades, pero este banco de experiencia humana tiene vastos recursos espirituales; puede aguantar las demandas que se le hagan. Sólo los hombres irreflexivos llegan al pánico sobre los recursos espirituales de la raza humana. Cuando se acabe el pánico materialista y secular, la religión de Jesús no estará en la bancarrota. El banco espiritual del reino del cielo pagará con fe, esperanza y certeza moral a todos los que pidan sus bienes «en Su nombre»."
+      "sectionTitle": "El materialismo",
+      "markdown": "Los científicos han precipitado involuntariamente a la humanidad hacia un pánico materialista, han desencadenado una irreflexiva retirada masiva de fondos del banco moral de las edades, pero este banco de la experiencia humana tiene inmensos recursos espirituales y puede soportar las demandas que se le hagan. Solo los hombres irreflexivos se dejan llevar por el pánico respecto a los activos espirituales de la raza humana. Cuando el pánico secular-materialista haya pasado, la religión de Jesús no se encontrará en bancarrota. El banco espiritual del reino de los cielos pagará con fe, esperanza y seguridad moral a todos los que vayan a él a retirar fondos «en Su nombre»."
     },
     {
       "type": "paragraph",
@@ -1406,8 +1406,8 @@
       "pageReference": "2076.7",
       "sortId": "4.195.006.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "Sea cual fuere el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que en las eras por venir, las enseñanzas del Maestro triunfarán plenamente. En realidad, la verdadera religión no puede entrar en controversia con la ciencia; de ninguna manera le conciernen las cosas materiales. La religión sencillamente es indiferente, aunque simpatizante, a la ciencia; en cambio, se preocupa supremamente por el *científico.*"
+      "sectionTitle": "El materialismo",
+      "markdown": "Sea cual sea el conflicto aparente entre el materialismo y las enseñanzas de Jesús, podéis estar seguros de que las enseñanzas del Maestro triunfarán plenamente en las edades por venir. En realidad, la verdadera religión no puede entrar en controversia con la ciencia porque no se ocupa en modo alguno de las cosas materiales. La religión es sencillamente indiferente a la ciencia aunque la ve con buenos ojos; en cambio se interesa de forma suprema por el *científico*."
     },
     {
       "type": "paragraph",
@@ -1424,8 +1424,8 @@
       "pageReference": "2076.8",
       "sortId": "4.195.006.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "La búsqueda del mero conocimiento, sin la interpretación concomitante de la sabiduría y la visión espiritual de la experiencia religiosa, finalmente lleva al pesimismo y a la desesperanza humana. Un conocimiento limitado es verdaderamente desconcertante."
+      "sectionTitle": "El materialismo",
+      "markdown": "La búsqueda del mero conocimiento sin la interpretación concomitante de la sabiduría y sin la visión interior espiritual de la experiencia religiosa termina conduciendo al pesimismo y la desesperación humana. Un conocimiento limitado es verdaderamente desconcertante."
     },
     {
       "type": "paragraph",
@@ -1442,8 +1442,8 @@
       "pageReference": "2076.9",
       "sortId": "4.195.006.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "En el momento de la escritura de este documento, ya ha pasado lo peor de la era materialista; ya se asoma una era de mejor comprensión. Las mentes más elevadas del mundo científico ya no son totalmente materialistas en su filosofía, pero la gente común y corriente aún se inclina en esa dirección como resultado de enseñanzas anteriores. Pero esta era de realismo físico es tan sólo un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna no ha tocado a la verdadera religión —las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Todo lo que la ciencia ha hecho es destruir las ilusiones infantiles de las interpretaciones erróneas de la vida."
+      "sectionTitle": "El materialismo",
+      "markdown": "En el momento de redactar este escrito ya ha pasado lo peor de la edad materialista y empieza a alborear el día de una comprensión mejor. La filosofía de las mejores mentes del mundo científico ya no es materialista por completo, aunque las masas siguen inclinándose en esa dirección como consecuencia de enseñanzas anteriores. Pero esta edad de realismo físico solo es un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna ha dejado intacta la verdadera religión, es decir, las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Lo único que ha hecho la ciencia ha sido destruir las ilusiones infantiles de las falsas interpretaciones de la vida."
     },
     {
       "type": "paragraph",
@@ -1460,8 +1460,8 @@
       "pageReference": "2077.1",
       "sortId": "4.195.006.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "La ciencia es una experiencia cuantitativa, la religión una experiencia cualitativa, en lo que se refiere a la vida del hombre en la tierra. La ciencia se ocupa de los fenómenos; la religión, de los orígenes, valores y metas. Asignar *causas* como explicación de los fenómenos físicos equivale a confesar ignorancia de los factores últimos y por fin tan sólo conduce al científico directamente de vuelta a la primera gran causa: el Padre Universal del Paraíso."
+      "sectionTitle": "El materialismo",
+      "markdown": "En lo que respecta a la vida del hombre en la tierra, la ciencia es una experiencia cuantitativa y la religión una experiencia cualitativa. La ciencia trata de los fenómenos, la religión de los orígenes, los valores y las metas. Asignar *causas* como explicación de los fenómenos físicos es reconocer que se desconocen los factores últimos, y al final solo puede conducir directamente al científico a la gran causa primera: el Padre Universal del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1478,8 +1478,8 @@
       "pageReference": "2077.2",
       "sortId": "4.195.006.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El cambio violento de una era de milagros a una era de máquinas ha demostrado ser perturbador para el hombre. La ingeniosidad y dexteridad de las falsas filosofías mecanicistas traicionan sus mismos argumentos mecanicistas. La agilidad fatalista de la mente materialista por siempre refuta su afirmación de que el universo es un fenómeno energético ciego y sin sentido."
+      "sectionTitle": "El materialismo",
+      "markdown": "El paso violento de una edad de milagros a una edad de máquinas ha demostrado ser muy perturbador para el hombre. La destreza y la ingeniosidad de las falsas filosofías del mecanicismo desdicen sus propios argumentos mecanicistas. La agilidad fatalista de la mente de un materialista desmiente para siempre sus afirmaciones de que el universo es un fenómeno energético ciego y carente de propósito."
     },
     {
       "type": "paragraph",
@@ -1496,8 +1496,8 @@
       "pageReference": "2077.3",
       "sortId": "4.195.006.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El naturalismo mecanicista de algunos hombres supuestamente instruidos y el secularismo sin raciocinio del hombre de la calle se ocupan exclusivamente de *cosas;* están vacíos de verdaderos valores, sanciones y satisfacciones de naturaleza espiritual, así como también están vacíos de fe, esperanza y certezas eternas. Uno de los grandes problemas de la vida moderna es que el hombre piensa que está demasiado ocupado para encontrar tiempo para la meditación espiritual y la devoción religiosa."
+      "sectionTitle": "El materialismo",
+      "markdown": "Tanto el naturalismo mecanicista de algunos hombres supuestamente cultos como el secularismo irreflexivo del hombre de la calle se ocupan exclusivamente de *cosas*. Están desprovistos de todo valor, sanción y satisfacción real de naturaleza espiritual y carecen asimismo de fe, esperanza y garantías eternas. Uno de los grandes problemas de la vida moderna es que el hombre piensa que está demasiado ocupado como para encontrar tiempo para la meditación espiritual y la devoción religiosa."
     },
     {
       "type": "paragraph",
@@ -1514,8 +1514,8 @@
       "pageReference": "2077.4",
       "sortId": "4.195.006.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El materialismo reduce al hombre a un estado de autómata, sin alma, y lo trans-forma en un simple símbolo aritmético que halla un sitio desamparado en la fórmula matemática de un universo mecanicista sin romanticismo. Pero, ¿de dónde proviene este vasto universo matemático, si no existe un Maestro Matemático? La ciencia puede explayarse sobre la conservación de la materia, pero la religión valida la conservación del alma de los hombres —se interesa por su experiencia de las realidades espirituales y los valores eternos."
+      "sectionTitle": "El materialismo",
+      "markdown": "El materialismo reduce al hombre a un autómata sin alma y lo convierte en un simple símbolo aritmético que ocupa un lugar desamparado en la fórmula matemática de un universo prosaico y mecanicista. Pero ¿de dónde viene todo este vasto universo de las matemáticas sin un Maestro Matemático? La ciencia puede explayarse sobre la conservación de la materia, pero la religión valida la conservación de las almas de los hombres, se ocupa de su experiencia con las realidades espirituales y los valores eternos."
     },
     {
       "type": "paragraph",
@@ -1532,8 +1532,8 @@
       "pageReference": "2077.5",
       "sortId": "4.195.006.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El sociólogo materialista de hoy estudia la comunidad, hace informe sobre ésa y deja a la gente tal como la encontró. Mil novecientos años atrás, ciertos galileos ignorantes observaron a Jesús dar su vida como contribución espiritual a la experiencia interior del hombre, y salieron luego y transformaron al imperio romano entero."
+      "sectionTitle": "El materialismo",
+      "markdown": "El sociólogo materialista de hoy observa una comunidad, hace un informe sobre ella y deja a la gente tal como la encontró. Hace mil novecientos años unos galileos indoctos observaron a Jesús dar su vida como contribución espiritual a la experiencia interior del hombre y luego salieron y cambiaron todo el Imperio romano de arriba abajo."
     },
     {
       "type": "paragraph",
@@ -1550,8 +1550,8 @@
       "pageReference": "2077.6",
       "sortId": "4.195.006.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "Pero los líderes religiosos cometen un grave error cuando intentan llamar al hombre moderno a la lucha espiritual con las trompetas de la Edad Media. Es necesario que la religión elabore nuevos lemas actualizados. Ni la democracia ni otras panaceas políticas pueden tomar el lugar del progreso espiritual. Las religiones falsas pueden representar una evasión de la realidad, pero Jesús en su evangelio llevó al hombre mortal a la puerta misma de la realidad eterna del progreso espiritual."
+      "sectionTitle": "El materialismo",
+      "markdown": "Pero los líderes religiosos cometen un grave error cuando intentan llamar al hombre moderno a la lucha espiritual al son de las trompetas de la Edad Media. La religión debe acuñar nuevos lemas actualizados. Ni la democracia ni ninguna otra panacea política ocuparán el lugar del progreso espiritual. Las falsas religiones pueden representar una evasión de la realidad, en cambio Jesús en su evangelio llevó al hombre mortal hasta la entrada misma de una realidad eterna de progresión espiritual."
     },
     {
       "type": "paragraph",
@@ -1568,8 +1568,8 @@
       "pageReference": "2077.7",
       "sortId": "4.195.006.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "Decir que la mente «surgió» de la materia no explica nada. Si el universo fuera tan sólo un mecanismo y la mente, parte integrante de la materia, no tendríamos jamás dos interpretaciones distintas de ningún fenómeno observado. Los conceptos de verdad, belleza y bondad no son inherentes ni a la física ni a la química. Una máquina no puede *saber,* mucho menos saber la verdad, tener hambre de rectitud, y apreciar la bondad."
+      "sectionTitle": "El materialismo",
+      "markdown": "Decir que la mente «emergió» de la materia no explica nada. Si el universo fuera un mero mecanismo y la mente no existiera aparte de la materia, no tendríamos nunca dos interpretaciones diferentes de cualquier fenómeno observado. Los conceptos de verdad, belleza y bondad no son inherentes ni a la física ni a la química. Una máquina no puede *conocer*, y mucho menos conocer la verdad, tener hambre de rectitud y apreciar la bondad."
     },
     {
       "type": "paragraph",
@@ -1586,8 +1586,8 @@
       "pageReference": "2077.8",
       "sortId": "4.195.006.012",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "La ciencia puede ser física, pero la mente del científico que discierne la verdad es, a la vez, supermaterial. La materia no conoce la verdad, tampoco puede amar la misericordia ni regocijarse en las realidades espirituales. Las convicciones morales basadas en el esclarecimiento espiritual y arraigadas en la experiencia humana son tan reales y certeras como las deducciones matemáticas basadas en las observaciones físicas, pero se encuentran en otro nivel más elevado."
+      "sectionTitle": "El materialismo",
+      "markdown": "La ciencia puede ser física, pero la mente del científico que percibe la verdad es al mismo tiempo supramaterial. La materia no conoce la verdad ni puede amar la misericordia o deleitarse con las realidades espirituales. Las convicciones morales basadas en el esclarecimiento espiritual y arraigadas en la experiencia humana son tan ciertas y reales como las deducciones matemáticas basadas en observaciones físicas, pero se encuentran en un nivel diferente y más alto."
     },
     {
       "type": "paragraph",
@@ -1604,8 +1604,8 @@
       "pageReference": "2077.9",
       "sortId": "4.195.006.013",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "Si los hombres fueran tan sólo máquinas, reaccionarían más o menos uniformemente al universo material. No existirían ni la individualidad, y aún menos la personalidad."
+      "sectionTitle": "El materialismo",
+      "markdown": "Si los hombres fueran solo máquinas reaccionarían de manera más o menos uniforme a un universo material. No existiría la individualidad y mucho menos la personalidad."
     },
     {
       "type": "paragraph",
@@ -1622,8 +1622,8 @@
       "pageReference": "2077.10",
       "sortId": "4.195.006.014",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El hecho del mecanismo absoluto del Paraíso en el centro del universo de los universos, en presencia de la volición incondicionada de la Segunda Fuente y Centro, hace por siempre certero el hecho de que el determinismo no constituye la ley exclusiva del cosmos. El materialismo está allí, pero no es exclusivo; el mecanismo está allí, pero no es incondicionado; el determinismo está allí, pero no está solo."
+      "sectionTitle": "El materialismo",
+      "markdown": "El hecho del mecanismo absoluto del Paraíso, que está en el centro del universo de universos y en presencia de la volición no cualificada de la Segunda Fuente y Centro, asegura para siempre que los determinantes no son la ley exclusiva del cosmos. El materialismo está ahí pero no es exclusivo, el mecanicismo está ahí pero no es ilimitado, el determinismo está ahí pero no está solo."
     },
     {
       "type": "paragraph",
@@ -1640,8 +1640,8 @@
       "pageReference": "2078.1",
       "sortId": "4.195.006.015",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "El universo finito de la materia con el tiempo se tornaría uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad aun en los mundos materiales."
+      "sectionTitle": "El materialismo",
+      "markdown": "El universo finito de la materia terminaría siendo uniforme y determinista si no fuera por la presencia combinada de la mente y el espíritu. La influencia de la mente cósmica inyecta constantemente espontaneidad también en los mundos materiales."
     },
     {
       "type": "paragraph",
@@ -1658,8 +1658,8 @@
       "pageReference": "2078.2",
       "sortId": "4.195.006.016",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "La libertad, la iniciativa, en cualquier reino de la existencia, es directamente proporcional al grado de influencia espiritual y control de la mente cósmica; o sea, en la experiencia humana, el grado de actualidad de hacer «la voluntad del Padre». Así pues, una vez que comencéis a encontrar a Dios, ésa será la prueba conclusiva de que Dios ya os ha encontrado a vosotros."
+      "sectionTitle": "El materialismo",
+      "markdown": "En cualquier aspecto de la existencia, la libertad o la iniciativa son directamente proporcionales al grado de influencia espiritual y de control de la mente cósmica, es decir, en la experiencia humana, al grado de actualidad de hacer «la voluntad del Padre». Y así, que hayáis salido a buscar a Dios es la prueba concluyente de que Dios ya os ha encontrado a vosotros."
     },
     {
       "type": "paragraph",
@@ -1676,8 +1676,8 @@
       "pageReference": "2078.3",
       "sortId": "4.195.006.017",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Materialismo",
-      "markdown": "La búsqueda sincera de la bondad, la belleza y la verdad, conduce a Dios. Y todo descubrimiento científico demuestra a la vez la existencia de la libertad y de la uniformidad en el universo. El descubridor tuvo la libertad de hacer el descubrimiento. La cosa descubierta es real y aparentemente uniforme, de lo contrario no hubiera podido ser conocida como una *cosa.*"
+      "sectionTitle": "El materialismo",
+      "markdown": "La búsqueda sincera de la bondad, la belleza y la verdad conduce a Dios. Y todo descubrimiento científico demuestra la existencia tanto de la libertad como de la uniformidad en el universo. El descubridor era libre de hacer su descubrimiento. La cosa descubierta es real y aparentemente uniforme, de no ser así no hubiera podido ser conocida como *cosa*."
     },
     {
       "type": "section",
@@ -1694,7 +1694,7 @@
       "pageReference": null,
       "sortId": "4.195.007.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
+      "sectionTitle": "La vulnerabilidad del materialismo",
       "markdown": null
     },
     {
@@ -1712,8 +1712,8 @@
       "pageReference": "2078.4",
       "sortId": "4.195.007.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "¡Qué actitud tan necia la del hombre de actitud materialista cuando permite que teorías tan vulnerables como las del universo mecanicista, le priven de los vastos recursos espirituales de una experiencia personal de la verdadera religión! Los hechos no están jamás en desacuerdo con la fe espiritual real; las teorías sí pueden estarlo. Sería mejor que la ciencia se dedicase a la destrucción de la superstición, en vez de intentar destruir la fe religiosa: la creencia humana en las realidades espirituales y los valores divinos."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Qué insensatez la del hombre de mentalidad materialista cuando permite que unas teorías tan vulnerables como las de un universo mecanicista le priven de los inmensos recursos espirituales de la experiencia personal de la verdadera religión. Los hechos nunca están reñidos con la fe espiritual real, aunque las teorías puedan estarlo. La ciencia haría mejor en dedicarse a destruir supersticiones en vez de intentar derrocar la fe religiosa: la creencia humana en realidades espirituales y valores divinos."
     },
     {
       "type": "paragraph",
@@ -1730,8 +1730,8 @@
       "pageReference": "2078.5",
       "sortId": "4.195.007.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "La ciencia debería hacer para el hombre, materialmente, lo que la religión hace por él espiritualmente: extender el horizonte de la vida y ampliar su personalidad. La verdadera ciencia no puede mantenerse en desacuerdo con la verdadera religión. El «método científico» es simplemente una vara intelectual con el cual se miden las aventuras materiales y los logros físicos. Pero, como es material y totalmente intelectual, es completamente inútil en la evaluación de las realidades espirituales y de las experiencias religiosas."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "La ciencia debería hacer materialmente por el hombre lo que la religión hace espiritualmente por él: ampliar el horizonte de la vida y engrandecer su personalidad. No puede haber ninguna disputa duradera entre la verdadera ciencia y la verdadera religión. El «método científico» no es más que una vara intelectual con la que medir las aventuras materiales y las consecuciones físicas. Pero al ser material y completamente intelectual resulta totalmente inútil para evaluar las realidades espirituales y las experiencias religiosas."
     },
     {
       "type": "paragraph",
@@ -1748,8 +1748,8 @@
       "pageReference": "2078.6",
       "sortId": "4.195.007.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "La contradicción del mecanicista moderno es: si éste fuera simplemente un universo material y el hombre tan sólo una máquina, dicho hombre sería totalmente incapaz de reconocerse como máquina, y asimismo, tal hombre-máquina estaría totalmente inconsciente del hecho de la existencia de dicho universo material. El desmayo y la desesperación materialista de una ciencia mecanicista no han llegado a reconocer el hecho de la mente del científico, morada por el espíritu, cuya visión supermaterial misma formula estos *conceptos* erróneos y autocontradictorios de un universo materialista."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "La incongruencia del mecanicista moderno es que si este universo fuera solo material y el hombre solo una máquina, sería totalmente incapaz de reconocerse como máquina, y además este hombre-máquina sería totalmente inconsciente de que existe ese universo material. En su consternación y desesperanza materialista, la ciencia mecanicista no ha sabido reconocer que la mente del científico está habitada por el espíritu, y que es precisamente la visión interior supramaterial de ese espíritu la que formula esos *conceptos* erróneos y contradictorios en sí mismos de un universo materialista."
     },
     {
       "type": "paragraph",
@@ -1766,8 +1766,8 @@
       "pageReference": "2078.7",
       "sortId": "4.195.007.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Los valores Paradisiacos de eternidad e infinidad, de verdad, belleza y bondad, se ocultan en los hechos de los fenómenos de los universos del tiempo y del espacio. Pero se requiere el ojo de la fe en el mortal nacido del espíritu para detectar y discernir estos valores espirituales."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Los valores paradisiacos de eternidad e infinitud, de verdad, belleza y bondad, están ocultos dentro de los hechos de los fenómenos de los universos del tiempo y el espacio. Pero se necesita el ojo de la fe de un mortal nacido del espíritu para detectar y percibir esos valores espirituales."
     },
     {
       "type": "paragraph",
@@ -1784,8 +1784,8 @@
       "pageReference": "2078.8",
       "sortId": "4.195.007.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Las realidades y valores del progreso espiritual no son una «proyección psicológica» —un simple ensueño glorificado de la mente material. Estas cosas son los pronósticos espirituales del Ajustador residente, el espíritu de Dios que vive en la mente del hombre. No permitáis que vuestra vaga percepción de los descubrimientos inciertos de la «relatividad» afecten vuestra concepción de la eternidad e infinidad de Dios. Y en todas vuestras solicitudes relativas a la necesidad de *autoexpresión,* no cometáis el error de ignorar la necesidad de la *expresión del Ajustador,* la manifestación de vuestro yo real y mejor."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Las realidades y los valores del progreso espiritual no son una «proyección psicológica», una simple ensoñación glorificada de la mente material. Esas cosas son los pronósticos espirituales del Ajustador interior, del espíritu de Dios que vive en la mente del hombre. No permitáis que vuestros escarceos con los vagos hallazgos de la «relatividad» alteren vuestros conceptos de la eternidad y la infinitud de Dios. Y en todas vuestras peticiones sobre la necesidad de *expresaros* no cometáis el error de dejar de asegurar la *expresión del Ajustador*, la manifestación de vuestro yo real y mejor."
     },
     {
       "type": "paragraph",
@@ -1802,8 +1802,8 @@
       "pageReference": "2079.1",
       "sortId": "4.195.007.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Si fuera éste tan sólo un universo material, el hombre material jamás sería capaz de llegar al concepto del carácter mecanicista de tal existencia exclusivamente material. Este *concepto mecanicista* mismo del universo es, en sí mismo, un fenómeno no material de la mente, y toda mente es de origen no material, no importa cuan profundamente aparece estar condicionada materialmente y controlada mecanísticamente."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Si este universo fuera solo material el hombre material nunca sería capaz de llegar al concepto del carácter mecanicista de una existencia tan exclusivamente material. Ese mismo *concepto mecanicista* del universo es en sí mismo un fenómeno no material de la mente, y toda mente es de origen no material, por mucho que pueda parecer que está materialmente condicionada y mecánicamente controlada."
     },
     {
       "type": "paragraph",
@@ -1820,8 +1820,8 @@
       "pageReference": "2079.2",
       "sortId": "4.195.007.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El mecanismo mental del hombre mortal, parcialmente evolucionado, no está dotado de gran lógica ni sabiduría. La vanidad del hombre sobrecoge a menudo su razón y elude su lógica."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "El mecanismo mental parcialmente evolucionado del hombre mortal no está especialmente dotado de coherencia y sabiduría. La vanidad del hombre prima muchas veces sobre su razón y escapa a su lógica."
     },
     {
       "type": "paragraph",
@@ -1838,8 +1838,8 @@
       "pageReference": "2079.3",
       "sortId": "4.195.007.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El pesimismo del materialista más pesimista es, en sí mismo, prueba suficiente de que el universo del pesimista no es totalmente material. Tanto el optimismo como el pesimismo son reacciones conceptuales en una mente consciente de los *valores* así como de los *hechos.* Si el universo fuera realmente lo que el materialista lo considera ser, el hombre, como máquina humana, estaría vacío de todo reconocimiento consciente de ese mismo *hecho.* Sin la conciencia del concepto de los *valores,* dentro de la mente nacida del espíritu, el hecho del materialismo del universo y los fenómenos mecanicistas de la operación del universo no podrían, en lo más mínimo, ser reconocidos por el hombre. Una máquina no puede tener conciencia, ni de la naturaleza ni del valor de otra máquina."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "El propio pesimismo del materialista más pesimista es en sí y por sí mismo prueba suficiente de que el universo del pesimista no es enteramente material. El optimismo y el pesimismo son reacciones conceptuales de una mente consciente tanto de los *valores* como de los *hechos*. Si el universo fuera verdaderamente lo que el materialista considera que es, el hombre como máquina humana sería incapaz de reconocer conscientemente ese mismo *hecho*. Sin la consciencia del concepto de los *valores* dentro de la mente nacida del espíritu, el hombre no reconocería de ninguna manera ni el hecho del materialismo en el universo ni los fenómenos mecanicistas en el funcionamiento del universo. Una máquina no puede ser consciente de la naturaleza ni del valor de otra máquina."
     },
     {
       "type": "paragraph",
@@ -1856,8 +1856,8 @@
       "pageReference": "2079.4",
       "sortId": "4.195.007.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Una filosofía mecanicista de la vida y del universo no puede ser científica, porque la ciencia tan sólo reconoce y trata la materia y los hechos. La filosofía es, inevitablemente, supercientífica. El hombre es un hecho material de la naturaleza, pero su *vida* es un fenómeno que trasciende los niveles materiales de la naturaleza, porque exhibe los atributos de control de la mente y las cualidades creadoras del espíritu."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Una filosofía mecanicista de la vida y del universo no puede ser científica porque la ciencia solo reconoce y tiene por objeto las cosas materiales y los hechos. La filosofía es inevitablemente supracientífica. El hombre es un hecho material de la naturaleza, pero su *vida* es un fenómeno que trasciende los niveles materiales de la naturaleza porque muestra los atributos controladores de la mente y las cualidades creativas del espíritu."
     },
     {
       "type": "paragraph",
@@ -1874,8 +1874,8 @@
       "pageReference": "2079.5",
       "sortId": "4.195.007.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El esfuerzo sincero del hombre por volverse un mecanicista representa el fenómeno trágico del fútil esfuerzo de ese hombre por cometer un suicidio intelectual y moral. Pero no consigue hacerlo."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "El esfuerzo sincero del hombre por hacerse mecanicista representa el trágico fenómeno del esfuerzo inútil de ese hombre por suicidarse intelectual y moralmente. Pero no puede hacerlo."
     },
     {
       "type": "paragraph",
@@ -1892,8 +1892,8 @@
       "pageReference": "2079.6",
       "sortId": "4.195.007.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Si el universo fuera tan sólo material y el hombre una máquina, no habría ciencia para instigar al científico a que postule esta mecanización del universo. Las máquinas no pueden medir, clasificar ni evaluarse a sí mismas. Semejante acción científica tan sólo puede ser ejecutada por una entidad de estado supermáquina."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Si el universo fuera solo material y el hombre solo una máquina, no habría ciencia que incitara al científico a postular esta mecanización del universo. Las máquinas no se pueden medir, clasificar ni evaluar a sí mismas. Ese trabajo científico solo podría realizarlo alguna entidad con estatus de supramáquina."
     },
     {
       "type": "paragraph",
@@ -1910,8 +1910,8 @@
       "pageReference": "2079.7",
       "sortId": "4.195.007.012",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Si la realidad del universo fuese tan sólo una vasta máquina, entonces el hombre tendría que estar fuera del universo y separado de él para poder reconocer semejante *hecho* y tener conciencia de la *visión* que se oculta en tal *evaluación.*"
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Si la realidad del universo fuese solo una inmensa máquina, el hombre necesitaría estar fuera y separado del universo para poder reconocer ese *hecho* y hacerse consciente de la *comprensión* de esa *evaluación*."
     },
     {
       "type": "paragraph",
@@ -1928,8 +1928,8 @@
       "pageReference": "2079.8",
       "sortId": "4.195.007.013",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Si el hombre fuese tan sólo una máquina, ¿mediante qué técnica llega este hombre a *creer* o declarar que *sabe* que él es tan sólo una máquina? La experiencia de la evaluación autoconsciente del yo no es nunca el atributo de una mera máquina. Un mecanicista autoconsciente y dedicado es la mejor respuesta posible al mecanicismo. Si el materialismo fuera un hecho, no podría haber mecanicistas autoconscientes. También es verdad que hace falta ser una persona moral para poder realizar acciones inmorales."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Si el hombre no es más que una máquina, ¿qué técnica emplea para llegar a *creer* o a pretender *saber* que no es más que una máquina? La experiencia de evaluar conscientemente el propio yo no es nunca atributo de una simple máquina. Un mecanicista declarado y autoconsciente es la mejor respuesta posible al mecanicismo. Si el materialismo fuera realidad no podría haber ningún mecanicista consciente de sí mismo. Y también es verdad que para poder cometer actos inmorales hay que ser antes una persona moral."
     },
     {
       "type": "paragraph",
@@ -1946,8 +1946,8 @@
       "pageReference": "2079.9",
       "sortId": "4.195.007.014",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El concepto mismo del materialismo implica una conciencia supermaterial de la mente que presume afirmar tales dogmas. Un mecanismo puede deteriorarse, pero jamás puede progresar. Las máquinas no piensan, no crean, no sueñan, no aspiran, no idealizan, no tienen hambre de verdad, ni sed de rectitud. No motivan su vida con la pasión de servir a otras máquinas ni de elegir como fin de una progresión eterna la tarea sublime de encontrar a Dios y de tratar de ser como él. Las máquinas no son nunca intelectuales, emocionales, estéticas, éticas, morales ni espirituales."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "La propia afirmación del materialismo implica que la mente que se atreve a reivindicar esos dogmas tiene una consciencia supramaterial. Un mecanismo se puede deteriorar pero nunca puede progresar. Las máquinas no piensan, ni crean, ni sueñan, ni aspiran a nada, ni idealizan ni tienen hambre de verdad o sed de rectitud. No motivan sus vidas con la pasión de servir a otras máquinas y elegir como meta de su progreso eterno la sublime tarea de encontrar a Dios y esforzarse en ser como él. Las máquinas no son nunca intelectuales, emocionales, estéticas, éticas, morales ni espirituales."
     },
     {
       "type": "paragraph",
@@ -1964,8 +1964,8 @@
       "pageReference": "2079.10",
       "sortId": "4.195.007.015",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El arte prueba que el hombre no es mecanicista, pero no prueba que es espiritualmente inmortal. El arte es morontia mortal, el campo intermedio entre el hombre material, y el hombre espiritual. La poesía es el esfuerzo de huir de las realidades materiales a los valores espirituales."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "El arte prueba que el hombre no está mecánicamente determinado, pero no prueba que sea espiritualmente inmortal. El arte es la morontia del mortal, el terreno intermedio entre el hombre material y el hombre espiritual. La poesía es un esfuerzo por escapar de las realidades materiales hacia los valores espirituales."
     },
     {
       "type": "paragraph",
@@ -1982,8 +1982,8 @@
       "pageReference": "2080.1",
       "sortId": "4.195.007.016",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "En una civilización elevada, el arte humaniza a la ciencia, siendo espiritualizada a su vez por la verdadera religión: la visión de los valores eternos y espirituales. El arte representa una evaluación espacio-temporal de la realidad. La religión es el abrazo divino de los valores cósmicos y connota una progresión eterna en la ascensión y expansión espirituales. El arte temporal es peligroso sólo cuando se enceguece ante las normas espirituales de los modelos originales divinos que la eternidad refleja como sombras temporales de la realidad. El verdadero arte es la manipulación efectiva de las cosas materiales de la vida; la religión *es* la transformación ennoblecedora de los hechos materiales de la vida, y no cesa jamás en su evaluación espiritual del arte."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "En una civilización elevada el arte humaniza a la ciencia y es espiritualizado a su vez por la verdadera religión, es decir, por la visión interior de los valores espirituales y eternos. El arte representa la evaluación humana de la realidad en el espacio-tiempo. La religión *es* el abrazo divino de los valores cósmicos y connota la progresión eterna en la ascensión y expansión espiritual. El arte del tiempo solo es peligroso cuando se vuelve ciego a los valores espirituales de los patrones divinos que la eternidad refleja como sombras de la realidad en el tiempo. El verdadero arte manipula eficazmente las cosas materiales de la vida; la religión transforma y ennoblece los hechos materiales de la vida y no cesa nunca en su evaluación espiritual del arte."
     },
     {
       "type": "paragraph",
@@ -2000,8 +2000,8 @@
       "pageReference": "2080.2",
       "sortId": "4.195.007.017",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "¡Qué necio es presumir que un autómata pueda concebir la filosofía del automatismo, y qué ridículo que presuma formar tal concepto relativo a otros autómatas semejantes!"
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "¡Qué insensato es suponer que un autómata podría concebir una filosofía de automatismo, y qué ridículo que se atreva a formar ese concepto de otros semejantes autómatas!"
     },
     {
       "type": "paragraph",
@@ -2018,8 +2018,8 @@
       "pageReference": "2080.3",
       "sortId": "4.195.007.018",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Toda interpretación científica del universo material es inútil a menos que provea al *científico* de su debido reconocimiento. Ninguna apreciación del arte es genuina a menos que acuerde reconocimiento al *artista.* Ninguna evaluación de la moral es válida, a menos que incluya al *moralista.* Ningún reconocimiento de la filosofía es edificante si ignora al *filósofo,* y la religión no puede existir sin la experiencia real del *religioso* que, en esta misma experiencia y por la misma, trata de encontrar a Dios y de conocerlo. Asimismo, el universo de los universos no tiene significado aparte del YO SOY, el infinito Dios que lo hizo e incesantemente lo dirige."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Cualquier interpretación científica del universo material carece de valor a menos que proporcione el reconocimiento debido al *científico*. Ninguna apreciación del arte es auténtica a menos que conceda reconocimiento al *artista*. Ninguna evaluación de la moralidad merece la pena a menos que incluya al *moralista*. Ningún reconocimiento de la filosofía es edificante si ignora al *filósofo*, y la religión no puede existir sin la experiencia real de la *persona religiosa* que busca encontrar y conocer a Dios en y por esa misma experiencia. Del mismo modo, el universo de universos carece de relevancia aparte del YO SOY, el Dios infinito que lo ha hecho y lo dirige sin cesar."
     },
     {
       "type": "paragraph",
@@ -2036,8 +2036,8 @@
       "pageReference": "2080.4",
       "sortId": "4.195.007.019",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "Los mecanicistas —los humanistas— tienden a seguir las corrientes materiales. Los idealistas y los espiritistas se *atreven* a usar su remo con inteligencia y vigor, para modificar el aparente curso puramente material de las corrientes de la energía."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Los mecanicistas —los humanistas— tienden a ir a la deriva de las corrientes materiales. Los idealistas y los espiritualistas *se atreven* a utilizar sus remos con inteligencia y vigor para modificar el curso, en apariencia puramente material, de las corrientes de energía."
     },
     {
       "type": "paragraph",
@@ -2054,8 +2054,8 @@
       "pageReference": "2080.5",
       "sortId": "4.195.007.020",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "La ciencia vive por las matemáticas de la mente; la música expresa el ritmo de las emociones. La religión es el ritmo espiritual del alma, en armonía espacio-temporal con las medidas de melodía más elevadas y eternas de la Infinidad. La experiencia religiosa es, en la vida humana, algo que es verdaderamente supermatemático."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "La ciencia vive gracias a las matemáticas de la mente. La música expresa el tempo de las emociones. La religión es el ritmo espiritual del alma que está en armonía en el espacio-tiempo con las medidas melódicas superiores y eternas de la Infinitud. La experiencia religiosa es algo verdaderamente supramatemático en la vida humana."
     },
     {
       "type": "paragraph",
@@ -2072,8 +2072,8 @@
       "pageReference": "2080.6",
       "sortId": "4.195.007.021",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "En el lenguaje, el alfabeto representa el mecanismo del materialismo, mientras que las palabras que expresan el significado de mil pensamientos, grandes ideas, y nobles ideales —amor y odio, cobardía y valor— representan la actuación de la mente dentro del alcance definido tanto por la ley material como por la espiritual, dirigida por la afirmación de la voluntad de la personalidad, y limitada por la dote situacional inherente."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "En el lenguaje el alfabeto representa el mecanismo del materialismo, mientras que las palabras que expresan el significado de mil pensamientos, de grandes ideas y de nobles ideales —de amor y odio, de valor y cobardía— representan las actuaciones de la mente dentro del alcance definido por la ley tanto material como espiritual, actuaciones dirigidas por la afirmación de la voluntad de la personalidad y limitadas por la dotación situacional inherente."
     },
     {
       "type": "paragraph",
@@ -2090,8 +2090,8 @@
       "pageReference": "2080.7",
       "sortId": "4.195.007.022",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El universo no es como las leyes, los mecanismos y las uniformidades que descubre un científico, y que llega a considerar ciencia, sino más bien como el *científico* curioso, pensante, seleccionador, creador, combinante y discriminante que así observa los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas de la faz material de la creación. Tampoco es el universo como el arte del artista, sino más bien como el *artista,* que lucha, sueña, aspira y avanza buscando trascender el mundo de las cosas materiales en un esfuerzo por alcanzar una meta espiritual."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "El universo no es como las leyes, los mecanismos y las uniformidades que descubre el científico y que llega a considerar como ciencia, sino más bien como el *científico* curioso que piensa, elige, crea, combina y discrimina, y que observa así los fenómenos del universo y clasifica los hechos matemáticos inherentes a las fases mecanicistas del lado material de la creación. Tampoco es el universo como el arte del artista, sino más bien como el propio *artista* que se afana, sueña, aspira y avanza, y que intenta trascender el mundo de las cosas materiales en un esfuerzo por alcanzar una meta espiritual."
     },
     {
       "type": "paragraph",
@@ -2108,8 +2108,8 @@
       "pageReference": "2080.8",
       "sortId": "4.195.007.023",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "La Vulnerabilidad del Materialismo",
-      "markdown": "El científico, y no la ciencia, percibe la realidad de un universo de energía y mate-ria en evolución y avance. El artista, y no el arte, demuestra la existencia de un mundo morontial transitorio que interviene entre la existencia material y la libertad espiritual. El religioso, y no la religión, prueba la existencia de las realidades del espíritu y de los valores divinos que se han de encontrar en el progreso de la eternidad."
+      "sectionTitle": "La vulnerabilidad del materialismo",
+      "markdown": "Es el científico, y no la ciencia, quien percibe la realidad de un universo de energía y materia que progresa y evoluciona. Es el artista, y no el arte, quien demuestra la existencia del mundo transitorio de la morontia que media entre la existencia material y la libertad espiritual. Es la persona religiosa, y no la religión, quien prueba la existencia de las realidades del espíritu y los valores divinos que se han de encontrar durante el progreso de la eternidad."
     },
     {
       "type": "section",
@@ -2126,7 +2126,7 @@
       "pageReference": null,
       "sortId": "4.195.008.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
+      "sectionTitle": "El totalitarismo secular",
       "markdown": null
     },
     {
@@ -2144,8 +2144,8 @@
       "pageReference": "2081.1",
       "sortId": "4.195.008.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "Pero aun cuando el materialismo y el mecanicismo hayan sido más o menos derrotados, la influencia devastadora del secularismo del siglo veinte seguirá frustrando la experiencia espiritual de millones de almas desprevenidas."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "Pero incluso después de que el materialismo y el mecanicismo hayan sido más o menos derrotados, la influencia devastadora del secularismo del siglo veinte seguirá malogrando la experiencia espiritual de millones de almas confiadas."
     },
     {
       "type": "paragraph",
@@ -2162,8 +2162,8 @@
       "pageReference": "2081.2",
       "sortId": "4.195.008.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "El secularismo moderno ha sido fomentado por dos influencias mundiales. El padre del secularismo fue la actitud de la así llamada ciencia —ciencia atea— de miras estrechas y sin Dios, del siglo diecinueve y del siglo veinte. La madre del secularismo moderno fue la totalitaria iglesia cristiana medieval. El secularismo tuvo su comienzo como protesta contra la dominación casi completa de la civilización occidental por la iglesia cristiana institucionalizada."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "El secularismo moderno ha sido fomentado por dos influencias mundiales. El padre del secularismo fue el planteamiento estrecho de miras y sin dios de la llamada ciencia de los siglos diecinueve y veinte, la ciencia atea. La madre del secularismo moderno fue la Iglesia cristiana totalitaria medieval. El secularismo se inició como protesta creciente contra la dominación casi completa de la civilización occidental por parte de la Iglesia cristiana institucionalizada."
     },
     {
       "type": "paragraph",
@@ -2180,8 +2180,8 @@
       "pageReference": "2081.3",
       "sortId": "4.195.008.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "En el momento de esta revelación, el clima intelectual y filosófico que prevalece tanto en la vida europea como en la americana es decididamente secular —humanístico. Por trescientos años, el pensamiento occidental se ha ido secularizando progresivamente. La religión se ha vuelto más y más una influencia nominal, en su mayor parte un ejercicio ritualista. La mayoría de los cristianos profesos de la civilización occidental son, en realidad, secularistas inconscientes."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "En el momento de esta revelación el clima intelectual y filosófico que prevalece tanto en la vida europea como en la americana es decididamente secular y humanista. El pensamiento occidental se ha ido secularizando progresivamente durante trescientos años. La religión se está convirtiendo cada vez más en una influencia nominal, un ejercicio ritualista. La mayoría de los que se declaran cristianos en la civilización occidental son secularistas sin saberlo."
     },
     {
       "type": "paragraph",
@@ -2198,8 +2198,8 @@
       "pageReference": "2081.4",
       "sortId": "4.195.008.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "Se requirió un gran poder, una influencia poderosa, para liberar el pensar y el vivir de los pueblos occidentales de la garra destructora de una totalitaria dominación eclesiástica. El secularismo rompió las cadenas del control de la iglesia, y ahora, a su vez, amenaza con establecer un nuevo dominio ateo en el corazón y la mente del hombre moderno. El estado político tiránico y dictatorial es la herencia directa del materialismo científico y del secularismo filosófico. El secularismo no bien libera al hombre de la dominación de la iglesia institucionalizada cuando lo vende al vínculo esclavizante del estado totalitario. El secularismo libra al hombre de la esclavitud eclesiástica tan sólo para traicionarlo entregándolo a la tiranía de la esclavitud política y económica."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "Se necesitó una gran fuerza, una poderosa influencia, para liberar la vida y el pensamiento de los pueblos occidentales de la garra atrofiante de una dominación eclesiástica totalitaria. El secularismo rompió las ataduras del control de la Iglesia y amenaza ahora a su vez con establecer un nuevo tipo de dominio sin dios en el corazón y la mente del hombre moderno. El Estado político tiránico y dictatorial es vástago directo del materialismo científico y el secularismo filosófico. En cuanto el secularismo libera al hombre de la dominación de la Iglesia institucionalizada, lo vende a la esclavitud servil del Estado totalitario. El secularismo libera al hombre de la esclavitud eclesiástica solo para traicionarlo entregándolo a la tiranía de la esclavitud política y económica."
     },
     {
       "type": "paragraph",
@@ -2216,8 +2216,8 @@
       "pageReference": "2081.5",
       "sortId": "4.195.008.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "El materialismo niega a Dios, el secularismo simplemente lo ignora; por lo menos ésa era la actitud previa. Más recientemente, el secularismo ha tomado una actitud más militante, teniendo la presunción de tomar el lugar de la religión cuya esclavitud totalitaria anteriormente combatía. El secularismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios. Pero, ¡tened cuidado! Esta filosofía sin Dios de la sociedad humana tan sólo conducirá a la inquietud, la animosidad, la infelicidad, la guerra y a un desastre mundial."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "El materialismo niega a Dios, el secularismo se limita a ignorarlo, o al menos esa fue su primera actitud. Últimamente el secularismo está adoptando una postura más militante y pretende ocupar el lugar de la religión cuya esclavitud totalitaria combatió en su día. El secularismo del siglo veinte tiende a afirmar que el hombre no necesita a Dios. ¡Pero cuidado; esta filosofía sin dios de la sociedad humana solo generará inquietud, hostilidad, infelicidad, guerras y un desastre mundial!"
     },
     {
       "type": "paragraph",
@@ -2234,8 +2234,8 @@
       "pageReference": "2081.6",
       "sortId": "4.195.008.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "El secularismo jamás traerá paz a la humanidad. Nada puede tomar el lugar de Dios en la sociedad humana. ¡Pero prestad atención! No os apresuréis a abandonar las ganancias beneficiosas de la rebelión secular a partir del totalitarismo eclesiástico. La civilización occidental disfruta hoy de muchas libertades y satisfacciones como resultado de la rebeldía secular. El gran error del secularismo fue éste: al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa, y después de obtener la liberación de dicha tiranía eclesiástica, los secularistas prosiguieron, rebelándose contra Dios mismo, a veces tácitamente, otras veces abiertamente."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "El secularismo no podrá traer nunca la paz a la humanidad. Nada puede ocupar el lugar de Dios en la sociedad humana. ¡Pero tomad nota!: no tengáis prisa en renunciar a las beneficiosas ganancias de la sublevación secular contra el totalitarismo eclesiástico. La civilización occidental disfruta hoy de muchas libertades y satisfacciones como consecuencia de la revuelta secular. El gran error del secularismo fue que al sublevarse contra el control casi total de la vida por parte de la autoridad religiosa y tras lograr la liberación de esa tiranía eclesiástica, los secularistas dieron un paso más e instituyeron una sublevación contra el propio Dios unas veces de forma abierta y otras tácita."
     },
     {
       "type": "paragraph",
@@ -2252,8 +2252,8 @@
       "pageReference": "2081.7",
       "sortId": "4.195.008.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "Debéis a la rebelión secularista la extraordinaria creatividad del industrialismo americano y el progreso material sin precedentes de la civilización occidental. Puesto que la sublevación secularista fue demasiado lejos y perdió de vista a Dios y a la religión *verdadera,* también produjo una cosecha no intencionada de guerras mundiales e inquietud internacional."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "A la sublevación secular le debéis la asombrosa creatividad del industrialismo americano y el progreso material sin precedentes de la civilización occidental. Y debido a que la sublevación secular ha ido demasiado lejos y ha perdido de vista a Dios y a la *verdadera* religión, ha producido también una inesperada cosecha de guerras mundiales e inestabilidad internacional."
     },
     {
       "type": "paragraph",
@@ -2270,8 +2270,8 @@
       "pageReference": "2081.8",
       "sortId": "4.195.008.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "No es necesario sacrificar la fe en Dios para disfrutar de las bendiciones de la rebelión secularista moderna: tolerancia, servicio social, gobiernos democráticos, y libertades civiles. Tampoco fue necesario que los secularistas antagonizaran a la religión verdadera para promover la ciencia y avanzar la educación."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "No es necesario sacrificar la fe en Dios para disfrutar de las bendiciones de la sublevación secularista moderna, que son tolerancia, servicio social, gobierno democrático y libertades civiles. No era necesario que los secularistas se enfrentaran a la verdadera religión para promover la ciencia y hacer avanzar la educación."
     },
     {
       "type": "paragraph",
@@ -2288,8 +2288,8 @@
       "pageReference": "2082.1",
       "sortId": "4.195.008.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "Pero el secularismo no es la única causa de todos estos avances recientes en la expansión del nivel de vida. Detrás de las ganancias del siglo veinte están, no solamente la ciencia y el secularismo, sino también los efectos espirituales no reconocidos y no conocidos de la vida y las enseñanzas de Jesús de Nazaret."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "Pero el secularismo no es la única causa de estas mejoras recientes en el modo de vivir. Detrás de los beneficios del siglo veinte no están solo la ciencia y el secularismo sino también el trabajo espiritual no valorado ni reconocido de la vida y las enseñanzas de Jesús de Nazaret."
     },
     {
       "type": "paragraph",
@@ -2306,8 +2306,8 @@
       "pageReference": "2082.2",
       "sortId": "4.195.008.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "Sin Dios, sin religión, el secularismo científico no puede coordinar nunca sus fuerzas, armonizar sus intereses, razas, y nacionalismos divergentes y rivales. Esta sociedad humana secularista, a pesar de sus logros materialistas sin paralelo, se está desintegrando paulatinamente. La fuerza principal de cohesión que se resiste a esta desintegración del antagonismo es el nacionalismo. Y el nacionalismo es a la vez la principal barrera a la paz mundial."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "Sin Dios, sin religión, el secularismo científico nunca podrá coordinar sus fuerzas ni armonizar las divergencias y rivalidades de sus intereses, razas y nacionalismos. A pesar de sus logros materiales sin parangón, esta sociedad humana secularista se está desintegrando lentamente. La principal fuerza cohesiva que opone resistencia a los antagonismos desintegradores es el nacionalismo, y el nacionalismo es el principal obstáculo para la paz mundial."
     },
     {
       "type": "paragraph",
@@ -2324,8 +2324,8 @@
       "pageReference": "2082.3",
       "sortId": "4.195.008.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "La debilidad inherente del secularismo consiste en que desecha la ética y la religión a favor de la política y del poder. No se puede establecer la hermandad de los hombres si se ignora o niega la paternidad de Dios."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "La debilidad inherente al secularismo está en que desecha la ética y la religión en favor de la política y el poder. Es simplemente imposible establecer la hermandad de los hombres si se ignora o se niega la paternidad de Dios."
     },
     {
       "type": "paragraph",
@@ -2342,8 +2342,8 @@
       "pageReference": "2082.4",
       "sortId": "4.195.008.012",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "El optimismo secular social y político es una ilusión. Sin Dios, ni la libertad y la emancipación, ni la propiedad y la riqueza conducirán a la paz."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "El optimismo secular social y político es una ilusión. Sin Dios, ni la independencia y la libertad, ni las posesiones y las riquezas conducirán a la paz."
     },
     {
       "type": "paragraph",
@@ -2360,8 +2360,8 @@
       "pageReference": "2082.5",
       "sortId": "4.195.008.013",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Totalitarismo Secular",
-      "markdown": "La secularización completa de la ciencia, la educación, la industria y la sociedad puede conducir tan sólo al desastre. Durante el primer tercio del siglo veinte los urantianos mataron a más seres humanos que los que fueron matados durante la entera dispensación cristiana hasta ese momento. Y éste es tan sólo el comienzo de la amarga cosecha del materialismo y el secularismo; destrucciones aún más terribles están por ocurrir."
+      "sectionTitle": "El totalitarismo secular",
+      "markdown": "La secularización completa de la ciencia, la educación, la industria y la sociedad solo puede conducir al desastre. Durante el primer tercio del siglo veinte los urantianos han matado a más seres humanos que durante toda la dispensación cristiana transcurrida hasta ese momento. Y esto es solo el principio de la funesta cosecha del materialismo y el secularismo; destrucciones aún más terribles están por venir."
     },
     {
       "type": "section",
@@ -2378,7 +2378,7 @@
       "pageReference": null,
       "sortId": "4.195.009.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
+      "sectionTitle": "El problema del cristianismo",
       "markdown": null
     },
     {
@@ -2396,8 +2396,8 @@
       "pageReference": "2082.6",
       "sortId": "4.195.009.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "No descuides el valor de vuestra heredad espiritual, el río de verdad que fluye por los siglos, aun hasta los tiempos estériles de una era materialista y secular. En todos vuestros esfuerzos valiosos por liberaros de los credos supersticiosos de las eras pasadas, aseguraos de conservar la verdad eterna. Pero, ¡sed pacientes! Cuando haya pasado la actual rebelión contra la superstición, las verdades del evangelio de Jesús persistirán gloriosamente para iluminar un camino nuevo y mejor."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "No paséis por alto el valor de vuestra herencia espiritual, el río de verdad que fluye a través de los siglos y llega incluso a los tiempos estériles de una edad secular y materialista. Aferraos firmemente a la verdad eterna en todos vuestros loables esfuerzos por deshaceros de los credos supersticiosos de edades pasadas. ¡Pero tened paciencia! Cuando la sublevación presente contra la superstición haya terminado, las verdades del evangelio de Jesús pervivirán gloriosamente para iluminar un camino nuevo y mejor."
     },
     {
       "type": "paragraph",
@@ -2414,8 +2414,8 @@
       "pageReference": "2082.7",
       "sortId": "4.195.009.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas no transigidas de Jesús; languidece por falta de una nueva visión de la vida del Maestro en la tierra. Una nueva y más plena revelación de la religión de Jesús está destinada a conquistar el imperio del secularismo materialista y a derrotar la influencia mundial del naturalismo mecanicista. En este momento, Urantia se tambalea en el borde mismo de una de las épocas más sorprendentes y cautivantes de reajuste social, aceleración moral y esclarecimiento espiritual."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "Pero el cristianismo paganizado y socializado necesita un nuevo contacto con las enseñanzas sin concesiones de Jesús; languidece por falta de una visión nueva de la vida del Maestro en la tierra. Hay una revelación nueva y más plena de la religión de Jesús que está destinada a conquistar el imperio del secularismo materialista y derrocar el dominio mundial del naturalismo mecanicista. Urantia se estremece ahora al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, reavivamiento moral e iluminación espiritual."
     },
     {
       "type": "paragraph",
@@ -2432,8 +2432,8 @@
       "pageReference": "2082.8",
       "sortId": "4.195.009.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "Las enseñanzas de Jesús, aunque grandemente modificadas, sobrevivieron a los cultos de misterio en el tiempo de su nacimiento, a la ignorancia y la superstición de la edad de las tinieblas, y aún ahora están triunfando poco a poco sobre el materialismo, el mecanicismo y el secularismo del siglo veinte. Y estas eras de grandes pruebas y peligro de derrotas siempre son eras de grandes revelaciones."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "Las enseñanzas de Jesús, aunque muy modificadas, sobrevivieron a los cultos de misterio de su época, a la ignorancia y las supersticiones de la edad oscura, y ahora mismo están triunfando lentamente sobre el materialismo, el mecanicismo y el secularismo del siglo veinte. Los tiempos como este de grandes pruebas y amenazas de derrota son siempre tiempos de gran revelación."
     },
     {
       "type": "paragraph",
@@ -2450,8 +2450,8 @@
       "pageReference": "2082.9",
       "sortId": "4.195.009.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a depender solamente de Jesús y de sus enseñanzas incomparables. Si el cristianismo persiste en desatender su misión espiritual, mientras sigue ocupándose de los problemas sociales y materiales, el renacimiento espiritual deberá esperar el advenimiento de estos nuevos maestros de la religión de Jesús, que se dedicarán exclusivamente a la regeneración espiritual de los hombres. Entonces, estas almas nacidas del espíritu proveerán rápidamente el liderazgo y la inspiración que se requieren para una reorganización social, moral, económica y política del mundo."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "La religión necesita nuevos líderes, hombres y mujeres espirituales que se atrevan a confiar solamente en Jesús y en sus enseñanzas incomparables. Si el cristianismo continúa descuidando su misión espiritual y sigue ocupándose de problemas sociales y materiales, el renacimiento espiritual deberá esperar a la llegada de nuevos maestros de la religión de Jesús que se entregarán exclusivamente a la regeneración espiritual de los hombres. Y entonces esas almas nacidas del espíritu proporcionarán rápidamente el liderazgo y la inspiración que se necesitan para la reorganización social, moral, económica y política del mundo."
     },
     {
       "type": "paragraph",
@@ -2468,8 +2468,8 @@
       "pageReference": "2083.1",
       "sortId": "4.195.009.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "La era moderna se negará a aceptar una religión que no esté de acuerdo con los hechos y que no se armonice con los conceptos más elevados de verdad, belleza y bondad. Está llegando la hora del redescubrimiento de los verdaderos y originales cimientos del distorsionado y comprometido cristianismo de hoy: la verdadera vida y enseñanzas de Jesús."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "La era moderna no aceptará una religión en conflicto con los hechos y que no esté en armonía con sus conceptos más altos de verdad, belleza y bondad. Ha llegado la hora de volver a descubrir los verdaderos fundamentos originales del cristianismo transigente y deformado de hoy en día: la vida y las enseñanzas reales de Jesús."
     },
     {
       "type": "paragraph",
@@ -2486,8 +2486,8 @@
       "pageReference": "2083.2",
       "sortId": "4.195.009.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "El hombre primitivo vivió una vida de esclavitud supersticiosa al terror religioso. Los hombres modernos civilizados temen caer bajo el dominio de poderosas convicciones religiosas. El hombre pensante siempre temió caer *cautivo* de una religión. Cuando una religión poderosa y emocionante amenaza dominarlo, invariablemente trata de racionalizar, tradicionalizar e institucionalizar a dicha religión, con la esperanza de llegar a controlarla. Por medio de este procedimiento, aun una religión revelada se vuelve hecha y dominada por el hombre. Los hombres y mujeres modernos e inteligentes evaden la religión de Jesús, porque temen lo que les hará *a* ellos —y *con* ellos. Todos estos temores son bien fundados. La religión de Jesús en efecto domina y transforma a sus creyentes, exigiendo que los hombres dediquen la vida a buscar el conocimiento de la voluntad del Padre en el cielo y que las energías del vivir se consagren al servicio altruista de la hermandad del hombre."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "El hombre primitivo vivía una vida de esclavitud supersticiosa al miedo religioso. Al hombre civilizado moderno le aterra la idea de caer bajo el dominio de fuertes convicciones religiosas. El hombre reflexivo ha temido siempre estar *atrapado* por una religión. Cuando una religión poderosa y conmovedora amenaza con dominarlo, intenta invariablemente racionalizarla, institucionalizarla y convertirla en tradición con la esperanza de controlarla de ese modo. Por este procedimiento, incluso una religión revelada se convierte en una religión hecha y dominada por el hombre. Los hombres y mujeres modernos e inteligentes rehúyen la religión de Jesús porque temen lo que les hará *a* ellos y lo que hará *con* ellos. Y todos esos miedos están bien fundados. La religión de Jesús domina y transforma en verdad a sus creyentes ya que les exige que dediquen su vida a intentar conocer la voluntad del Padre del cielo y les pide que consagren las energías del vivir al servicio desinteresado de la hermandad de los hombres."
     },
     {
       "type": "paragraph",
@@ -2504,8 +2504,8 @@
       "pageReference": "2083.3",
       "sortId": "4.195.009.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "Los hombres y mujeres egoístas francamente no quieren pagar este precio, ni siquiera para conseguir el tesoro espiritual más grande que se haya ofrecido jamás al hombre mortal. Sólo cuando el hombre se haya desilusionado suficientemente de las congojas y desencantos que acompañan a la búsqueda necia y engañosa del egoísmo, y haya posteriormente descubierto la esterilidad de la religión formalizada, estará dispuesto a volverse de todo corazón hacia el evangelio del reino, la religión de Jesús el Nazareno."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "Los hombres y mujeres egoístas simplemente no quieren pagar ese precio, ni siquiera a cambio del mayor tesoro espiritual que se haya ofrecido jamás al hombre mortal. Cuando el hombre se sienta suficientemente desilusionado por las tristes decepciones que conlleva la búsqueda insensata y engañosa del egoísmo y haya descubierto la esterilidad de la religión formalizada, solo entonces estará dispuesto a volverse de todo corazón hacia el evangelio del reino, la religión de Jesús de Nazaret."
     },
     {
       "type": "paragraph",
@@ -2522,8 +2522,8 @@
       "pageReference": "2083.4",
       "sortId": "4.195.009.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "El mundo necesita más religión de primera mano. Incluso el cristianismo —la mejor de las religiones del siglo veinte— es no sólo una religión *sobre* Jesús, sino que también es, notablemente, una religión que los hombres experimentan de segunda mano. Ellos toman su religión tal como se la entregan sus maestros religiosos aceptados. ¡Qué despertar experimentaría el mundo si tan sólo pudiera ver a Jesús así como él realmente vivió en la tierra, y conocer, de primera mano, sus enseñanzas dadoras de vida! Las palabras que describen las cosas bellas no pueden emocionar tanto como el espectáculo de esas cosas bellas, tampoco pueden las palabras de fe inspirar la alma de los hombres tanto como la experiencia de conocer la presencia de Dios. Pero la fe esperanzada mantendrá por siempre abierta la puerta de la esperanza en el alma del hombre, para el ingreso en las realidades espirituales eternas de los valores divinos de los mundos del más allá."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "El mundo necesita más religión de primera mano. Incluso el cristianismo —la mejor religión del siglo veinte— no es solo una religión *sobre* Jesús, sino que es en gran medida una religión que los hombres experimentan de segunda mano. Reciben su religión tal como se la transmiten sus maestros religiosos reconocidos. ¡Qué despertar experimentaría el mundo solo con que pudiera ver a Jesús tal como vivió realmente en la tierra y conocer de primera mano sus enseñanzas dadoras de vida! Las palabras que describen cosas bellas no pueden emocionar tanto como la visión de esas cosas, ni tampoco pueden las palabras de un credo inspirar a las almas de los hombres como la experiencia de conocer la presencia de Dios. Pero la fe expectante mantendrá siempre abierta la puerta de la esperanza en el alma del hombre para que entren las realidades espirituales eternas de los valores divinos de los mundos del más allá."
     },
     {
       "type": "paragraph",
@@ -2540,8 +2540,8 @@
       "pageReference": "2083.5",
       "sortId": "4.195.009.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "El cristianismo se atrevió a disminuir sus ideales ante el desafío de la avidez humana, la locura de la guerra y el deseo de poderío; pero la religión de Jesús permanece en el lugar del llamado espiritual inmaculado y trascendente que evoca a lo mejor que hay en el hombre, para que éste se eleve por encima de todas estas herencias de evolución animal y, por la gracia, alcance las alturas morales del verdadero destino humano."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "El cristianismo se ha atrevido a rebajar sus ideales ante el desafío de la codicia humana, la locura de la guerra y el ansia de poder, pero la religión de Jesús se mantiene como llamamiento espiritual inmaculado y trascendente que apela a lo mejor que hay en el hombre para que se eleve por encima de todos estos legados de la evolución animal y alcance por la gracia las alturas morales del verdadero destino humano."
     },
     {
       "type": "paragraph",
@@ -2558,8 +2558,8 @@
       "pageReference": "2083.6",
       "sortId": "4.195.009.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "El cristianismo está amenazado con una muerte lenta a manos del formalismo, la organización excesiva, el intelectualismo y otras tendencias no espirituales. La iglesia cristiana moderna no es esa hermandad de creyentes dinámicos que Jesús comisionó para que continuamente realizaran la transformación espiritual de las generaciones sucesivas de la humanidad."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "El cristianismo está amenazado de muerte lenta por el formalismo, el exceso de organización, el intelectualismo y otras tendencias no espirituales. La Iglesia cristiana moderna no es la hermandad de creyentes activos a la que Jesús encargó llevar a cabo en todo momento la transformación espiritual de las generaciones sucesivas de la humanidad."
     },
     {
       "type": "paragraph",
@@ -2576,8 +2576,8 @@
       "pageReference": "2083.7",
       "sortId": "4.195.009.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Problema del Cristianismo",
-      "markdown": "El así llamado cristianismo se ha vuelto un movimiento social y cultural así como también una creencia y práctica religiosa. La corriente del cristianismo moderno drena muchos antiguos pantanos paganos y muchas ciénagas bárbaras; muchos antiguos arroyos culturales vierten sus aguas en su río cultural de hoy, así como también los manantiales de las altas mesetas galileas que supuestamente son su fuente exclusiva."
+      "sectionTitle": "El problema del cristianismo",
+      "markdown": "El llamado cristianismo se ha convertido en un movimiento social y cultural además de ser una creencia y una práctica religiosa. El arroyo del cristianismo moderno desagua muchas antiguas ciénagas paganas y muchos pantanales bárbaros. Muchas antiguas cuencas culturales desaguan hoy en día por este arroyo cultural, igual que desaguan las altas mesetas galileas que se consideran su fuente exclusiva."
     },
     {
       "type": "section",
@@ -2594,7 +2594,7 @@
       "pageReference": null,
       "sortId": "4.195.010.000",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
+      "sectionTitle": "El futuro",
       "markdown": null
     },
     {
@@ -2612,8 +2612,8 @@
       "pageReference": "2084.1",
       "sortId": "4.195.010.001",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El cristianismo rindió indudablemente un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús vivir nuevamente en la tierra, en la experiencia de los mortales nacidos del espíritu que efectivamente revelen el Maestro a todos los hombres. Es fútil hablar de un renacimiento del cristianismo primitivo; debéis seguir hacia adelante desde donde os encontráis. La cultura moderna debe volverse espiritualmente bautizada con una nueva revelación de la vida de Jesús e iluminada con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús así se eleve, él atraerá a todos los hombres hacia él. Los discípulos de Jesús deberían ser más que conquistadores, aun fuentes colmadas de inspiración y de un vivir elevado para todos los hombres. La religión es tan sólo un humanismo exaltado, hasta que se la haga divina mediante el descubrimiento de la realidad de la presencia de Dios en la experiencia personal."
+      "sectionTitle": "El futuro",
+      "markdown": "El cristianismo ha hecho indudablemente un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la tierra en la experiencia de los mortales nacidos del espíritu que revelan efectivamente al Maestro a todos los hombres. Es inútil hablar de un renacimiento del cristianismo primitivo, debéis avanzar desde el punto en el que os encontráis. La cultura moderna debe ser bautizada espiritualmente con una nueva revelación de la vida de Jesús e iluminada con una nueva comprensión de su evangelio de salvación eterna. Y cuando Jesús sea elevado de este modo atraerá a todos los hombres hacia él. Los discípulos de Jesús, más que conquistadores, deberían ser fuentes desbordantes de inspiración y vida mejorada para todos los hombres. La religión no es más que un humanismo enaltecido hasta que se hace divina gracias al descubrimiento de la realidad de la presencia de Dios en la experiencia personal."
     },
     {
       "type": "paragraph",
@@ -2630,8 +2630,8 @@
       "pageReference": "2084.2",
       "sortId": "4.195.010.002",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "La belleza y la sublimidad, la humanidad y la divinidad, la sencillez y la singularidad de la vida de Jesús en la tierra presentan un cuadro tan impresionante y atractivo de la salvación del hombre y de la revelación de Dios, que los teólogos y filósofos de todos los tiempos deberían reprimir el atrevimiento de formular credos o crear sistemas teológicos de esclavitud espiritual a partir de tal autootorgamiento trascendental de Dios en la forma del hombre. Con Jesús el universo produjo un hombre mortal en quien el espíritu del amor triunfó sobre las desventajas materiales del tiempo y trascendió el hecho del origen físico."
+      "sectionTitle": "El futuro",
+      "markdown": "La belleza y la sublimidad de la vida de Jesús en la tierra, su humanidad y su divinidad, su sencillez y su carácter único presentan un cuadro tan impactante y atractivo de salvación del hombre y revelación de Dios que debería disuadir eficazmente a los teólogos y filósofos de todos los tiempos de atreverse a formular credos o crear sistemas teológicos de esclavitud espiritual partiendo de un otorgamiento tan trascendental de Dios en forma de hombre. En Jesús el universo produjo un hombre mortal en quien triunfó el espíritu del amor sobre los impedimentos materiales del tiempo y superó el hecho de su origen físico."
     },
     {
       "type": "paragraph",
@@ -2648,8 +2648,8 @@
       "pageReference": "2084.3",
       "sortId": "4.195.010.003",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Recordad siempre —Dios y los hombres se necesitan mutuamente. Son mutuamente necesarios para el alcance pleno y final de la experiencia de la personalidad eterna en el destino divino de la finalidad universal."
+      "sectionTitle": "El futuro",
+      "markdown": "Tened siempre presente que Dios y hombre se necesitan el uno al otro. Son mutuamente necesarios para alcanzar de forma plena y final la experiencia de la personalidad eterna en el destino divino de la finalización del universo."
     },
     {
       "type": "paragraph",
@@ -2666,8 +2666,8 @@
       "pageReference": "2084.4",
       "sortId": "4.195.010.004",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "«El reino de Dios está dentro de vosotros» fue probablemente la declaración más magnífica que Jesús hiciera jamás, después de la afirmación de que su Padre es un espíritu vivo y amante."
+      "sectionTitle": "El futuro",
+      "markdown": "«El reino de Dios está dentro de vosotros» fue probablemente la proclamación más grande que Jesús hiciera nunca, después de la declaración de que su Padre es un espíritu vivo y amoroso."
     },
     {
       "type": "paragraph",
@@ -2684,8 +2684,8 @@
       "pageReference": "2084.5",
       "sortId": "4.195.010.005",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Al ganar almas para el Maestro, no es la primera milla de compulsión, deber o convención la que transformará al hombre y a este mundo, sino más bien la *segunda* milla de servicio libre y devoción amante de la libertad, que corresponde a los jesuísticos que salen para captar a su hermano en amor y guiarlo espiritualmente hacia el fin más alto y divino de la existencia mortal. El cristianismo aun ahora recorre voluntariosamente la *primera* milla, pero la humanidad languidece y tropieza en las tinieblas morales porque hay tan pocos corredores genuinos para la segunda milla — tan pocos seguidores profesos de Jesús que realmente viven y aman así como él enseñó a sus discípulos a vivir, amar y servir."
+      "sectionTitle": "El futuro",
+      "markdown": "En el proceso de ganar almas para el Maestro, no es el primer kilómetro recorrido por compulsión, obligación o convención el que transformará al hombre y su mundo, sino más bien el *segundo* kilómetro de servicio libre y devoción amante de la libertad que muestra al jesusiano tomando de la mano a su hermano con amor y guiándolo espiritualmente hacia la meta más alta y divina de la existencia mortal. En el momento presente el cristianismo recorre de buen grado el *primer* kilómetro, pero la humanidad languidece y va tropezando en la oscuridad moral porque hay muy pocos discípulos auténticos en el segundo kilómetro, muy pocos de los que se declaran seguidores de Jesús que vivan y amen realmente como él enseñó a sus discípulos a vivir, amar y servir."
     },
     {
       "type": "paragraph",
@@ -2702,8 +2702,8 @@
       "pageReference": "2084.6",
       "sortId": "4.195.010.006",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El llamado a la aventura de construir una sociedad humana nueva y transformada por medio del renacimiento espiritual de la hermandad jesuística del reino debería causar emoción a todos los que creen en él como nunca han estado emocionados los hombres, desde los días en que caminaban por la tierra como sus compañeros en la carne."
+      "sectionTitle": "El futuro",
+      "markdown": "La llamada a la aventura de construir una sociedad humana nueva y transformada mediante el renacimiento espiritual de la hermandad del reino de Jesús debería electrizar a todos los que creen en él como nada ha conmovido a los hombres desde los días en que caminaron por la tierra como compañeros suyos en la carne."
     },
     {
       "type": "paragraph",
@@ -2720,8 +2720,8 @@
       "pageReference": "2084.7",
       "sortId": "4.195.010.007",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Ningún sistema social ni régimen político que niegue la realidad de Dios puede contribuir en forma constructiva y duradera al avance de la civilización humana. Pero el cristianismo, así como está subdividido y secularizado en el día de hoy, representa el mayor obstáculo para su propio avance ulterior; especialmente, esto es verdad en el oriente."
+      "sectionTitle": "El futuro",
+      "markdown": "Ningún sistema social ni régimen político que niegue la realidad de Dios puede contribuir de forma constructiva y duradera al progreso de la civilización humana. Pero el cristianismo, tal como está subdividido y secularizado hoy en día, representa el mayor de todos los obstáculos para que siga progresando, y esto es especialmente cierto en Oriente."
     },
     {
       "type": "paragraph",
@@ -2738,8 +2738,8 @@
       "pageReference": "2084.8",
       "sortId": "4.195.010.008",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El eclesiasticismo es por siempre incompatible con la fe viva, con el espíritu en crecimiento, y con la experiencia directa de los socios de Jesús en la fe, dentro de la hermandad del hombre en la asociación espiritual del reino del cielo. El laudable deseo de preservar las tradiciones del logro pasado conduce a menudo a que se defiendan sistemas de adoracion obsoletos. El deseo bien intencionado de fomentar antiguos sistemas de pensamiento, impide eficazmente el patrocinio para crear medios y métodos nuevos y adecuados, para satisfacer los anhelos espirituales de las mentes en expansión y en avance del hombre moderno. Asimismo, las iglesias cristianas del siglo veinte son enormes obstáculos, pero totalmente inconscientes, al avance inmediato del verdadero evangelio —las enseñanzas de Jesús de Nazaret."
+      "sectionTitle": "El futuro",
+      "markdown": "El apego excesivo a las prácticas eclesiásticas es ahora y será siempre incompatible con la fe viva, con el espíritu creciente y con la experiencia de primera mano de los camaradas de Jesús por la fe dentro de la hermandad del hombre en la asociación espiritual del reino de los cielos. El deseo loable de preservar las tradiciones de logros pasados conduce a menudo a defender sistemas de adoración ya superados. El deseo bienintencionado de fomentar antiguos sistemas de pensamiento impide eficazmente patrocinar medios y métodos nuevos y adecuados diseñados para satisfacer los anhelos espirituales de las mentes en expansión y avance de los hombres modernos. Sin ser conscientes de ello, las Iglesias cristianas del siglo veinte se alzan como grandes obstáculos para el avance inmediato del verdadero evangelio: las enseñanzas de Jesús de Nazaret."
     },
     {
       "type": "paragraph",
@@ -2756,8 +2756,8 @@
       "pageReference": "2085.1",
       "sortId": "4.195.010.009",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Muchas personas sinceras que ofrecerían con regocijo su lealtad al Cristo del evangelio, encuentran difícil apoyar con entusiasmo una iglesia que exhibe tan poco del espíritu de su vida y enseñanzas, y que erróneamente se considera fundada por él. Jesús no fundó la así llamada iglesia cristiana, pero ha *fomentado* en toda forma acorde con su naturaleza, dicha iglesia como el mejor exponente existente de su obra de vida en la tierra."
+      "sectionTitle": "El futuro",
+      "markdown": "Muchas personas sinceras estarían deseosas de ofrecer su lealtad al Cristo del evangelio, pero encuentran muy difícil apoyar con entusiasmo a una Iglesia que muestra tan poco del espíritu de su vida y enseñanzas, y de la que se afirma equivocadamente que fue fundada por él. Jesús no fundó la llamada Iglesia cristiana aunque sí la ha *fomentado*, en todo lo compatible con su naturaleza, como el mejor exponente de la obra de su vida en la tierra."
     },
     {
       "type": "paragraph",
@@ -2774,8 +2774,8 @@
       "pageReference": "2085.2",
       "sortId": "4.195.010.010",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Si la iglesia cristiana se atreviese a abrazar el programa del Maestro, miles de jóvenes aparentemente indiferentes correrían a ingresar en dicha empresa espiritual, y no titubearían en recorrer todo el camino de esta gran aventura."
+      "sectionTitle": "El futuro",
+      "markdown": "Bastaría con que la Iglesia cristiana se atreviera a adherirse al programa del Maestro para que miles de jóvenes aparentemente indiferentes corrieran a alistarse en esa empresa espiritual y no dudaran en recorrer esa gran aventura hasta el final."
     },
     {
       "type": "paragraph",
@@ -2792,8 +2792,8 @@
       "pageReference": "2085.3",
       "sortId": "4.195.010.011",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El cristianismo se enfrenta con el peligro mismo expresado en uno de sus lemas: «Una casa dividida contra sí misma no perdurará». El mundo nocristiano no capitulará ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera iglesia —la hermandad jesuística— es invisible, espiritual, y está caracterizada por la *unidad,* no necesariamente por la *uniformidad.* La uniformidad es la característica del mundo físico de naturaleza mecanicista. La unidad espiritual es el fruto de la unión de la fe con el Jesús vivo. Ahora, la iglesia visible debería negarse a seguir dificultando el progreso de la hermandad invisible y espiritual del reino de Dios. Y esta hermandad está destinada a tornarse en un *organismo vivo,* en contraste con una organización social institucionalizada. Bien podría utilizar estas organizaciones sociales, pero no puede ser suplantada por ellas."
+      "sectionTitle": "El futuro",
+      "markdown": "El cristianismo está seriamente amenazado por la condena contenida en uno de sus propios lemas: «Una casa dividida contra sí misma no puede permanecer». El mundo no cristiano no aceptará capitular ante una cristiandad dividida en sectas. El Jesús vivo es la única esperanza de una posible unificación del cristianismo. La verdadera Iglesia —la hermandad de Jesús— es invisible, espiritual y está caracterizada por la *unidad*, no necesariamente por la *uniformidad*. La uniformidad es la marca distintiva del mundo físico de naturaleza mecanicista. La unidad espiritual es el fruto de la unión por la fe con el Jesús vivo. La Iglesia visible debería negarse a seguir obstaculizando el progreso de la hermandad espiritual invisible del reino de Dios. Y esta hermandad está destinada a convertirse en un *organismo vivo*, en contraste con una organización social institucionalizada. Puede muy bien utilizar estas organizaciones sociales, pero no debe ser suplantada por ellas."
     },
     {
       "type": "paragraph",
@@ -2810,8 +2810,8 @@
       "pageReference": "2085.4",
       "sortId": "4.195.010.012",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Pero el cristianismo, aun en el siglo veinte, no debe despreciarse. Es el producto del genio moral combinado de los hombres conocedores de Dios de muchas razas durante muchas épocas, y ha sido verdaderamente uno de los más grandes poderes en pos del bien en la tierra, y por lo tanto ningún hombre debe considerarlo con desprecio, a pesar de sus defectos inherentes y adquiridos. El cristianismo sigue tratando de llegar a la mente de los hombres reflexivos con fuertes emociones morales."
+      "sectionTitle": "El futuro",
+      "markdown": "Sin embargo no hay que desestimar al cristianismo, incluso al del siglo veinte. Es el producto del genio moral conjunto de hombres conocedores de Dios de muchas razas a lo largo de muchas épocas, y ha sido verdaderamente uno de los mayores poderes benéficos de la tierra. Por eso nadie debería tomarlo a la ligera a pesar de sus defectos inherentes y adquiridos. El cristianismo sigue consiguiendo mover la mente de los hombres reflexivos con poderosas emociones morales."
     },
     {
       "type": "paragraph",
@@ -2828,8 +2828,8 @@
       "pageReference": "2085.5",
       "sortId": "4.195.010.013",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Pero el comprometimiento de la iglesia en el comercio y en la política no tiene excusa; estas alianzas profanas son una traición flagrante al Maestro. Y los verdaderos amantes de la verdad mucho tardarán en olvidar que esta poderosa iglesia institucionalizada frecuentemente se atrevió a sofocar una fe recién nacida, persiguiendo a los que llevaban la verdad si por azar aparecían envueltos en atavíos no ortodoxos."
+      "sectionTitle": "El futuro",
+      "markdown": "Pero no hay excusa para la implicación de la Iglesia en el comercio y la política; estas alianzas profanas son una traición flagrante al Maestro. Y los auténticos amantes de la verdad tardarán mucho en olvidar que esta poderosa Iglesia institucionalizada se ha atrevido con frecuencia a sofocar una fe recién nacida y a perseguir a portadores de la verdad por el mero hecho de presentarse bajo vestimentas no ortodoxas."
     },
     {
       "type": "paragraph",
@@ -2846,8 +2846,8 @@
       "pageReference": "2085.6",
       "sortId": "4.195.010.014",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "También es muy cierto que esta iglesia no habría sobrevivido a menos que hubiese habido hombres en el mundo que preferían este estilo de culto. Muchas almas espiritualmente indolentes anhelan una religión antigua y autoritaria de rituales y tradiciones consagradas. La evolución humana y el progreso espiritual no son suficientes para permitir a todos los hombres a prescindir de la autoridad religiosa. Y la hermandad invisible del reino bien podría incluir a estos grupos familiares de distintas clases sociales y temperamentales si tan sólo éstas desean volverse hijos de Dios verdaderamente conducidos por el espíritu. Pero en esta hermandad de Jesús no hay lugar para rivalidades sectarias, resentimientos de grupo ni afirmaciones de superioridad moral e infalibilidad espiritual."
+      "sectionTitle": "El futuro",
+      "markdown": "Es muy cierto que una Iglesia así no habría sobrevivido si no hubiera habido en el mundo hombres que prefirieran ese estilo de culto. Muchas almas espiritualmente indolentes ansían una religión antigua y autoritaria de rituales y tradiciones consagradas. La evolución humana y el progreso espiritual no bastan para hacer que todos los hombres puedan prescindir de una autoridad religiosa. Y la hermandad invisible del reino puede incluir muy bien a esos grupos familiares de tipos sociales y temperamentales diversos con tal de que estén dispuestos a convertirse en hijos de Dios guiados verdaderamente por el espíritu. En cambio no hay lugar en esta hermandad de Jesús para rivalidades sectarias, resentimientos de grupo ni afirmaciones de superioridad moral e infalibilidad espiritual."
     },
     {
       "type": "paragraph",
@@ -2864,8 +2864,8 @@
       "pageReference": "2086.1",
       "sortId": "4.195.010.015",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Estas varias agrupaciones de cristianos pueden servir para acomodar los numerosos tipos diferentes de creyentes potenciales entre los varios pueblos de la civilización occidental, pero esta división de la cristianidad presenta una grave debilidad cuando intenta llevar el evangelio de Jesús a los pueblos orientales. Estas razas aún no comprenden que existe una *religión de Jesús* separada, y en cierto modo apartada, del cristianismo, el cual se ha vuelto cada vez más una *religión sobre Jesús.*"
+      "sectionTitle": "El futuro",
+      "markdown": "Las diversas agrupaciones de cristianos pueden servir para dar cabida a los numerosos tipos distintos de creyentes potenciales de los diversos pueblos de la civilización occidental, pero esta división de la cristiandad presenta una grave debilidad cuando intenta llevar el evangelio de Jesús a los pueblos orientales. Estas razas no entienden aún que hay una *religión de Jesús* separada y en cierto modo distanciada de un cristianismo que se ha convertido cada vez más en una *religión sobre Jesús*."
     },
     {
       "type": "paragraph",
@@ -2882,8 +2882,8 @@
       "pageReference": "2086.2",
       "sortId": "4.195.010.016",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "La gran esperanza de Urantia yace en la posibilidad de una nueva revelación de Jesús, con una presentación nueva y ampliada de su mensaje salvador, que uniría espiritualmente en servicio amante a las numerosas familias de sus seguidores profesos actuales."
+      "sectionTitle": "El futuro",
+      "markdown": "La gran esperanza de Urantia reside en la posibilidad de una nueva revelación de Jesús con una presentación nueva y ampliada de su mensaje salvador que uniría espiritualmente en servicio por amor a las numerosas familias de los que se declaran sus seguidores hoy en día."
     },
     {
       "type": "paragraph",
@@ -2900,8 +2900,8 @@
       "pageReference": "2086.3",
       "sortId": "4.195.010.017",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Aun la educación secular podría ayudar en este gran renacimiento espiritual si prestara más atención a la labor de enseñar a los jóvenes cómo se realiza la planificación de la vida y el progreso del carácter. El objeto de toda la educación debería ser fomentar y avanzar el propósito supremo de la vida, el desarrollo de una personalidad majestuosa y bien balanceada. Es muy necesario enseñar disciplina moral, en lugar de tanta autogratificación. Sobre tales cimientos, la religión podría contribuir su incentivo espiritual a la expansión y enriquecimiento de la vida mortal, aun a la certeza y engrandecimiento de la vida eterna."
+      "sectionTitle": "El futuro",
+      "markdown": "Incluso la educación secular podría ayudar a este gran renacimiento espiritual si prestara más atención a la tarea de enseñar a los jóvenes a planificar la vida y desarrollar el carácter. El propósito de toda educación debería ser fomentar y favorecer el propósito supremo de la vida, el desarrollo de una personalidad majestuosa y equilibrada. Es muy necesario enseñar disciplina moral en lugar de tanta satisfacción egoísta. Sobre esta base la religión puede aportar su estímulo espiritual para ampliar y enriquecer la vida mortal e incluso asegurar y realzar la vida eterna."
     },
     {
       "type": "paragraph",
@@ -2918,8 +2918,8 @@
       "pageReference": "2086.4",
       "sortId": "4.195.010.018",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El cristianismo es una religión improvisada, y por lo tanto debe operar a baja velocidad. Las actuaciones espirituales aceleradas deberán aguardar la nueva revelación y la aceptación más generalizada de la verdadera religión de Jesús. Pero el cristianismo es una religión poderosa teniendo en cuenta de que los discípulos comunes de un carpintero crucificado empezaron la carrera de acontecimientos que en trescientos años inundaron y conquistaron al mundo romano con estas enseñanzas; triunfando luego sobre los bárbaros que derrotaron a Roma. Este mismo cristianismo conquistó —absorbió y exaltó— toda la corriente de la teología hebrea y de la filosofía griega. Luego, tras caer esta religión cristiana en estado de coma por más de mil años como resultado de una dosis excesiva de misterios y paganismo, resucitó y virtualmente reconquistó a todo el mundo occidental. El cristianismo contiene lo suficiente de las enseñanzas de Jesús como para inmortalizarlo."
+      "sectionTitle": "El futuro",
+      "markdown": "El cristianismo es una religión improvisada, y por eso debe operar a baja velocidad. Las actuaciones espirituales a gran velocidad tendrán que esperar a la nueva revelación y a una aceptación más generalizada de la verdadera religión de Jesús. Pero el cristianismo es una religión poderosa, como se demostró cuando unos hombres corrientes, discípulos de un carpintero crucificado, pusieron en marcha las enseñanzas que conquistaron el mundo romano en trescientos años y luego continuaron hasta triunfar sobre los bárbaros que derrocaron a Roma. Este mismo cristianismo conquistó —absorbió y exaltó— toda la corriente de la teología hebrea y la filosofía griega. Y luego, después de entrar en coma durante más de mil años por sobredosis de misterios y paganismo, esta religión cristiana se resucitó a sí misma y reconquistó prácticamente todo el mundo occidental. El cristianismo contiene suficientes enseñanzas de Jesús como para hacerse inmortal."
     },
     {
       "type": "paragraph",
@@ -2936,8 +2936,8 @@
       "pageReference": "2086.5",
       "sortId": "4.195.010.019",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "Si el cristianismo pudiera tan sólo captar más de las enseñanzas de Jesús, podría hacer mucho más para ayudar al hombre moderno a solucionar sus problemas nuevos y cada vez más complejos."
+      "sectionTitle": "El futuro",
+      "markdown": "Si tan solo pudiera captar una mayor cantidad de las enseñanzas de Jesús, el cristianismo podría hacer mucho más para ayudar al hombre moderno a resolver sus nuevos problemas cada vez más complejos."
     },
     {
       "type": "paragraph",
@@ -2954,8 +2954,8 @@
       "pageReference": "2086.6",
       "sortId": "4.195.010.020",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "El cristianismo sufre de un gran obstáculo, porque se ha identificado en la mente de todo el mundo como parte del sistema social, la vida industrial, y las normas morales de la civilización occidental; así pues, el cristianismo parecería patrocinar, sin intención, una sociedad que se tambalea bajo el yugo de tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin límites, un conocimiento sin carácter, un poder sin conciencia, y una industria sin moralidad."
+      "sectionTitle": "El futuro",
+      "markdown": "El cristianismo sufre la gran desventaja de haber sido identificado en las mentes de todo el mundo como parte del sistema social, de la vida industrial y de los criterios morales de la civilización occidental. Y así, el cristianismo aparece sin quererlo como patrocinador de una sociedad que se tambalea bajo la culpabilidad de tolerar una ciencia sin idealismo, una política sin principios, una riqueza sin trabajo, un placer sin restricciones, un conocimiento sin carácter, un poder sin conciencia y una industria sin moralidad."
     },
     {
       "type": "paragraph",
@@ -2972,8 +2972,8 @@
       "pageReference": "2086.7",
       "sortId": "4.195.010.021",
       "paperTitle": "Después de Pentecostés",
-      "sectionTitle": "El Futuro",
-      "markdown": "La esperanza del cristianismo moderno consiste en que deje de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental, inclinándose humildemente ante esa cruz, que tan valientemente ensalza, para aprender allí nuevamente de Jesús de Nazaret, las verdades más grandes que el hombre mortal puede escuchar jamás: el evangelio vivo de la paternidad de Dios y de la hermandad del hombre."
+      "sectionTitle": "El futuro",
+      "markdown": "La esperanza del cristianismo moderno está en dejar de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental e inclinarse humildemente ante la cruz que tan valientemente ensalza para aprender allí otra vez de Jesús de Nazaret las mayores verdades que el hombre mortal puede escuchar jamás: el evangelio vivo de la paternidad de Dios y la hermandad de los hombres."
     }
   ]
 }
