@@ -1,169 +1,169 @@
-<h1 align="center"><a name="Part4"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Part4"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../part-3/119.md" title="The Bestowals of Christ Michael">Paper 119</a> | <a href="../parts.md" title="The Parts of the Book">Parts</a> | <a href="../contents.md" title="Contents of the Book">Content</a> | <a href="120.md" title="The Bestowal of Michael on Urantia">Paper 120</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../part-3/119.md" title="Los Autootorgamientos de Cristo Micael">Documento 119</a> | <a href="../parts.md" title="Las Partes del Libro">Partes</a> | <a href="../contents.md" title="Contenido del Libro">Contenido</a> | <a href="120.md" title="El Autootorgamiento de Micael en Urantia">Documento 120</a>&#160;&#62;&#62;</p><hr />
 
-## PART IV
+## PARTE IV
 
-## The Life and Teachings of Jesus
+## La Vida y las Enseñanzas de Jesus
 
-This group of papers was sponsored by a commission of twelve Urantia midwayers acting under the supervision of a Melchizedek revelatory director. 
-The basis of this narrative was supplied by a secondary midwayer who was onetime assigned to the superhuman watchcare of the Apostle Andrew.
+Esta colección de documentos fue auspiciada por una comisión de doce seres intermedios de Urantia que actúan bajo la supervisión de un director Melquisedek de revelación.
+La base de esta narrativa provino de un ser intermedio secundario a quien cierta vez fue encomendada la vigilancia y custodia superhumana de el Apóstol Andrés.
 
 <hr />
 
-[Paper 120 - The Bestowal of Michael on Urantia](120.md "The Bestowal of Michael on Urantia")
+[Documento 120 - El Autootorgamiento de Micael en Urantia](120.md "El Autootorgamiento de Micael en Urantia")
 
-[Paper 121 - The Times of Michael’s Bestowal](121.md "The Times of Michael’s Bestowal")
+[Documento 121 - Los Tiempos del Autootorgamiento de Micael](121.md "Los Tiempos del Autootorgamiento de Micael")
 
-[Paper 122 - Birth and Infancy of Jesus](122.md "Birth and Infancy of Jesus")
+[Documento 122 - El Nacimiento y la Infancia de Jesús](122.md "El Nacimiento y la Infancia de Jesús")
 
-[Paper 123 - The Early Childhood of Jesus](123.md "The Early Childhood of Jesus")
+[Documento 123 - La Infancia de Jesús](123.md "La Infancia de Jesús")
 
-[Paper 124 - The Later Childhood of Jesus](124.md "The Later Childhood of Jesus")
+[Documento 124 - La Niñez Posterior de Jesús](124.md "La Niñez Posterior de Jesús")
 
-[Paper 125 - Jesus at Jerusalem](125.md "Jesus at Jerusalem")
+[Documento 125 - Jesús en Jerusalén](125.md "Jesús en Jerusalén")
 
-[Paper 126 - The Two Crucial Years](126.md "The Two Crucial Years")
+[Documento 126 - Los Dos Años Cruciales](126.md "Los Dos Años Cruciales")
 
-[Paper 127 - The Adolescent Years](127.md "The Adolescent Years")
+[Documento 127 - Los Años de la Adolescencia](127.md "Los Años de la Adolescencia")
 
-[Paper 128 - Jesus’ Early Manhood](128.md "Jesus’ Early Manhood")
+[Documento 128 - Los Primeros Años de la Vida Adulta de Jesús](128.md "Los Primeros Años de la Vida Adulta de Jesús")
 
-[Paper 129 - The Later Adult Life of Jesus](129.md "The Later Adult Life of Jesus")
+[Documento 129 - La Vida Adulta de Jesús](129.md "La Vida Adulta de Jesús")
 
-[Paper 130 - On the Way to Rome](130.md "On the Way to Rome")
+[Documento 130 - En el Camino a Roma](130.md "En el Camino a Roma")
 
-[Paper 131 - The World’s Religions](131.md "The World’s Religions")
+[Documento 131 - Las Religiones del Mundo](131.md "Las Religiones del Mundo")
 
-[Paper 132 - The Sojourn at Rome](132.md "The Sojourn at Rome")
+[Documento 132 - La Estadía en Roma](132.md "La Estadía en Roma")
 
-[Paper 133 - The Return from Rome](133.md "The Return from Rome")
+[Documento 133 - El Regreso de Roma](133.md "El Regreso de Roma")
 
-[Paper 134 - The Transition Years](134.md "The Transition Years")
+[Documento 134 - Los Años de Transición](134.md "Los Años de Transición")
 
-[Paper 135 - John the Baptist](135.md "John the Baptist")
+[Documento 135 - Juan el Bautista](135.md "Juan el Bautista")
 
-[Paper 136 - Baptism and the Forty Days](136.md "Baptism and the Forty Days")
+[Documento 136 - El Bautismo y los Cuarenta Días](136.md "El Bautismo y los Cuarenta Días")
 
-[Paper 137 - Tarrying Time in Galilee](137.md "Tarrying Time in Galilee")
+[Documento 137 - El Tiempo de Espera en Galilea](137.md "El Tiempo de Espera en Galilea")
 
-[Paper 138 - Training the Kingdom’s Messengers](138.md "Training the Kingdom’s Messengers")
+[Documento 138 - La Capacitación de los Mensajeros del Reino](138.md "La Capacitación de los Mensajeros del Reino")
 
-[Paper 139 - The Twelve Apostles](139.md "The Twelve Apostles")
+[Documento 139 - Los Doce Apóstoles](139.md "Los Doce Apóstoles")
 
-[Paper 140 - The Ordination of the Twelve](140.md "The Ordination of the Twelve")
+[Documento 140 - La Ordenación de los Doce](140.md "La Ordenación de los Doce")
 
-[Paper 141 - Beginning the Public Work](141.md "Beginning the Public Work")
+[Documento 141 - El Comienzo de la Obra Pública](141.md "El Comienzo de la Obra Pública")
 
-[Paper 142 - The Passover at Jerusalem](142.md "The Passover at Jerusalem")
+[Documento 142 - La Pascua en Jerusalén](142.md "La Pascua en Jerusalén")
 
-[Paper 143 - Going Through Samaria](143.md "Going Through Samaria")
+[Documento 143 - De Paso por Samaria](143.md "De Paso por Samaria")
 
-[Paper 144 - At Gilboa and in the Decapolis](144.md "At Gilboa and in the Decapolis")
+[Documento 144 - En Gilboa y en la Decápolis](144.md "En Gilboa y en la Decápolis")
 
-[Paper 145 - Four Eventful Days at Capernaum](145.md "Four Eventful Days at Capernaum")
+[Documento 145 - Cuatro Días Memorables en Capernaum](145.md "Cuatro Días Memorables en Capernaum")
 
-[Paper 146 - First Preaching Tour of Galilee](146.md "First Preaching Tour of Galilee")
+[Documento 146 - La Primera Gira de Predicación en Galilea](146.md "La Primera Gira de Predicación en Galilea")
 
-[Paper 147 - The Interlude Visit to Jerusalem](147.md "The Interlude Visit to Jerusalem")
+[Documento 147 - El Interludio en Jerusalén](147.md "El Interludio en Jerusalén")
 
-[Paper 148 - Training Evangelists at Bethsaida](148.md "Training Evangelists at Bethsaida")
+[Documento 148 - La Capacitación de los Evangelistas en Betsaida](148.md "La Capacitación de los Evangelistas en Betsaida")
 
-[Paper 149 - The Second Preaching Tour](149.md "The Second Preaching Tour")
+[Documento 149 - La Segunda Gira de Predicación](149.md "La Segunda Gira de Predicación")
 
-[Paper 150 - The Third Preaching Tour](150.md "The Third Preaching Tour")
+[Documento 150 - La Tercera Gira de Predicación](150.md "La Tercera Gira de Predicación")
 
-[Paper 151 - Tarrying and Teaching by the Seaside](151.md "Tarrying and Teaching by the Seaside")
+[Documento 151 - La Estadía y la Enseñanza Junto al Mar](151.md "La Estadía y la Enseñanza Junto al Mar")
 
-[Paper 152 - Events Leading up to the Capernaum Crisis](152.md "Events Leading up to the Capernaum Crisis")
+[Documento 152 - Los Acontecimientos que Condujerona la Crisis de Capernaum](152.md "Los Acontecimientos que Condujerona la Crisis de Capernaum")
 
-[Paper 153 - The Crisis at Capernaum](153.md "The Crisis at Capernaum")
+[Documento 153 - La Crisis en Capernaum](153.md "La Crisis en Capernaum")
 
-[Paper 154 - Last Days at Capernaum](154.md "Last Days at Capernaum")
+[Documento 154 - Los Últimos Días en Capernaum](154.md "Los Últimos Días en Capernaum")
 
-[Paper 155 - Fleeing Through Northern Galilee](155.md "Fleeing Through Northern Galilee")
+[Documento 155 - La Huida por la Galilea del Norte](155.md "La Huida por la Galilea del Norte")
 
-[Paper 156 - The Sojourn at Tyre and Sidon](156.md "The Sojourn at Tyre and Sidon")
+[Documento 156 - La Estadía en Tiro y Sidón](156.md "La Estadía en Tiro y Sidón")
 
-[Paper 157 - At Caesarea-Philippi](157.md "At Caesarea-Philippi")
+[Documento 157 - En Cesarea de Filipo](157.md "En Cesarea de Filipo")
 
-[Paper 158 - The Mount of Transfiguration](158.md "The Mount of Transfiguration")
+[Documento 158 - El Monte de la Transfiguración](158.md "El Monte de la Transfiguración")
 
-[Paper 159 - The Decapolis Tour](159.md "The Decapolis Tour")
+[Documento 159 - La Gira por la Decápolis](159.md "La Gira por la Decápolis")
 
-[Paper 160 - Rodan of Alexandria](160.md "Rodan of Alexandria")
+[Documento 160 - Rodán de Alejandría](160.md "Rodán de Alejandría")
 
-[Paper 161 - Further Discussions with Rodan](161.md "Further Discussions with Rodan")
+[Documento 161 - Las Conversaciones Ulteriores con Rodán](161.md "Las Conversaciones Ulteriores con Rodán")
 
-[Paper 162 - At the Feast of Tabernacles](162.md "At the Feast of Tabernacles")
+[Documento 162 - En la Fiesta de los Tabernáculos](162.md "En la Fiesta de los Tabernáculos")
 
-[Paper 163 - Ordination of the Seventy at Magadan](163.md "Ordination of the Seventy at Magadan")
+[Documento 163 - La Ordenación de los Setenta en Magadán](163.md "La Ordenación de los Setenta en Magadán")
 
-[Paper 164 - At the Feast of Dedication](164.md "At the Feast of Dedication")
+[Documento 164 - En la Fiesta de la Consagración del Templo](164.md "En la Fiesta de la Consagración del Templo")
 
-[Paper 165 - The Perean Mission Begins](165.md "The Perean Mission Begins")
+[Documento 165 - Comienza la Misión de Perea](165.md "Comienza la Misión de Perea")
 
-[Paper 166 - Last Visit to Northern Perea](166.md "Last Visit to Northern Perea")
+[Documento 166 - La Última Visita al Norte de Perea](166.md "La Última Visita al Norte de Perea")
 
-[Paper 167 - The Visit to Philadelphia](167.md "The Visit to Philadelphia")
+[Documento 167 - La Visita a Filadelfia](167.md "La Visita a Filadelfia")
 
-[Paper 168 - The Resurrection of Lazarus](168.md "The Resurrection of Lazarus")
+[Documento 168 - La Resurrección de Lázaro](168.md "La Resurrección de Lázaro")
 
-[Paper 169 - Last Teaching at Pella](169.md "Last Teaching at Pella")
+[Documento 169 - La Última Enseñanza en Pella](169.md "La Última Enseñanza en Pella")
 
-[Paper 170 - The Kingdom of Heaven](170.md "The Kingdom of Heaven")
+[Documento 170 - El Reino del Cielo](170.md "El Reino del Cielo")
 
-[Paper 171 - On the Way to Jerusalem](171.md "On the Way to Jerusalem")
+[Documento 171 - Camino a Jerusalén](171.md "Camino a Jerusalén")
 
-[Paper 172 - Going into Jerusalem](172.md "Going into Jerusalem")
+[Documento 172 - La Entrada a Jerusalén](172.md "La Entrada a Jerusalén")
 
-[Paper 173 - Monday in Jerusalem](173.md "Monday in Jerusalem")
+[Documento 173 - El Lunes en Jerusalén](173.md "El Lunes en Jerusalén")
 
-[Paper 174 - Tuesday Morning in the Temple](174.md "Tuesday Morning in the Temple")
+[Documento 174 - Martes por la Mañana en el Templo](174.md "Martes por la Mañana en el Templo")
 
-[Paper 175 - The Last Temple Discourse](175.md "The Last Temple Discourse")
+[Documento 175 - El Último Discurso en el Templo](175.md "El Último Discurso en el Templo")
 
-[Paper 176 - Tuesday Evening on Mount Olivet](176.md "Tuesday Evening on Mount Olivet")
+[Documento 176 - El Anochecer del Martes en el Monte de los Olivos](176.md "El Anochecer del Martes en el Monte de los Olivos")
 
-[Paper 177 - Wednesday, the Rest Day](177.md "Wednesday, the Rest Day")
+[Documento 177 - El Miércoles, Día de Descanso](177.md "El Miércoles, Día de Descanso")
 
-[Paper 178 - Last Day at the Camp](178.md "Last Day at the Camp")
+[Documento 178 - El Último Día en el Campamento](178.md "El Último Día en el Campamento")
 
-[Paper 179 - The Last Supper](179.md "The Last Supper")
+[Documento 179 - La Última Cena](179.md "La Última Cena")
 
-[Paper 180 - The Farewell Discourse](180.md "The Farewell Discourse")
+[Documento 180 - El Discurso de Despedida](180.md "El Discurso de Despedida")
 
-[Paper 181 - Final Admonitions and Warnings](181.md "Final Admonitions and Warnings")
+[Documento 181 - Las Advertencias y Admoniciones Finales](181.md "Las Advertencias y Admoniciones Finales")
 
-[Paper 182 - In Gethsemane](182.md "In Gethsemane")
+[Documento 182 - En Getsemaní](182.md "En Getsemaní")
 
-[Paper 183 - The Betrayal and Arrest of Jesus](183.md "The Betrayal and Arrest of Jesus")
+[Documento 183 - La Traición y el Arresto de Jesús](183.md "La Traición y el Arresto de Jesús")
 
-[Paper 184 - Before the Sanhedrin Court](184.md "Before the Sanhedrin Court")
+[Documento 184 - Ante el Tribunal del Sanedrín](184.md "Ante el Tribunal del Sanedrín")
 
-[Paper 185 - The Trial Before Pilate](185.md "The Trial Before Pilate")
+[Documento 185 - El Juicio Ante Pilato](185.md "El Juicio Ante Pilato")
 
-[Paper 186 - Just Before the Crucifixion](186.md "Just Before the Crucifixion")
+[Documento 186 - Poco Antes de la Crucifixión](186.md "Poco Antes de la Crucifixión")
 
-[Paper 187 - The Crucifixion](187.md "The Crucifixion")
+[Documento 187 - La Crucifixión](187.md "La Crucifixión")
 
-[Paper 188 - The Time of the Tomb](188.md "The Time of the Tomb")
+[Documento 188 - El Período en la Tumba](188.md "El Período en la Tumba")
 
-[Paper 189 - The Resurrection](189.md "The Resurrection")
+[Documento 189 - La Resurrección](189.md "La Resurrección")
 
-[Paper 190 - Morontia Appearances of Jesus](190.md "Morontia Appearances of Jesus")
+[Documento 190 - Las Apariciones Morontiales de Jesús](190.md "Las Apariciones Morontiales de Jesús")
 
-[Paper 191 - Appearances to the Apostles and Other Leaders](191.md "Appearances to the Apostles and Other Leaders")
+[Documento 191 - Las Apariciones a los Apóstoles y a Otros Líderes](191.md "Las Apariciones a los Apóstoles y a Otros Líderes")
 
-[Paper 192 - Appearances in Galilee](192.md "Appearances in Galilee")
+[Documento 192 - Las Apariciones en Galilea](192.md "Las Apariciones en Galilea")
 
-[Paper 193 - Final Appearances and Ascension](193.md "Final Appearances and Ascension")
+[Documento 193 - Las Apariciones Finales y la Ascensión](193.md "Las Apariciones Finales y la Ascensión")
 
-[Paper 194 - Bestowal of the Spirit of Truth](194.md "Bestowal of the Spirit of Truth")
+[Documento 194 - El Advenimiento del Espíritu de la Verdad](194.md "El Advenimiento del Espíritu de la Verdad")
 
-[Paper 195 - After Pentecost](195.md "After Pentecost")
+[Documento 195 - Después de Pentecostés](195.md "Después de Pentecostés")
 
-[Paper 196 - The Faith of Jesus](196.md "The Faith of Jesus")
+[Documento 196 - La Fe de Jesús](196.md "La Fe de Jesús")
 
 <hr />
 
