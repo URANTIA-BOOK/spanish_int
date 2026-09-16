@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/100.md",
-  "source_sha256": "8e4810c3d00326076c35e684ba21285f7e065e8737e2bd98b350cea349fd7d2f",
+  "source_sha256": "dbb7bd3a32267ac76e9b2b428cdf0cd5559fb4e9345401bb7213ab26f3cd4bb9",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "100:0.0",
       "pageReference": null,
       "sortId": "3.100.000.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
+      "paperTitle": "La religión en la experiencia humana",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "100:0.0",
       "pageReference": null,
       "sortId": "3.100.000.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
+      "paperTitle": "La religión en la experiencia humana",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "100:0.1",
       "pageReference": "1094.1",
       "sortId": "3.100.000.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
+      "paperTitle": "La religión en la experiencia humana",
       "sectionTitle": null,
-      "markdown": "LA EXPERIENCIA de una vida religiosa dinámica transforma al individuo mediocre en una personalidad de poder idealista. La religión sirve al progreso de todos porque fomenta el progreso de cada individuo, y el progreso de cada uno es aumentado por el logro de todos."
+      "markdown": "LA experiencia del vivir religioso dinámico transforma al individuo mediocre en una personalidad con poder idealista. La religión atiende al progreso de todos porque fomenta el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "100:0.2",
       "pageReference": "1094.2",
       "sortId": "3.100.000.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
+      "paperTitle": "La religión en la experiencia humana",
       "sectionTitle": null,
-      "markdown": "El crecimiento espiritual está mutuamente estimulado por la asociación íntima con otros religionistas. El amor provee el terreno para el crecimiento religioso — un aliciente objetivo en lugar de la gratificación subjetiva— que sin embargo otorga la satisfacción subjetiva suprema. Y la religión ennoblece la rutina común de la vida diaria."
+      "markdown": "El crecimiento espiritual se ve estimulado de forma mutua por la asociación íntima con otras personas religiosas. El amor proporciona el terreno del crecimiento religioso —un aliciente objetivo en vez de una gratificación subjetiva— y sin embargo produce la satisfacción subjetiva suprema. La religión ennoblece la carga rutinaria de la vida cotidiana."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "100:1.0",
       "pageReference": null,
       "sortId": "3.100.001.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "100:1.1",
       "pageReference": "1094.3",
       "sortId": "3.100.001.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "Aunque la religión produzca el crecimiento de los significados y la elevación de los valores, siempre resulta el mal cuando se elevan las evaluaciones personales a niveles de los absolutos. Un niño evalúa la experiencia de acuerdo con el contenido de placer; la madurez es proporcional a la sustitución del placer personal por significados más elevados, aun lealtades a los conceptos más elevados de las situaciones diversificadas de la vida y de las relaciones cósmicas."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "La religión hace crecer los significados y realza los valores, pero cuando se atribuye un carácter absoluto a evaluaciones puramente personales se genera siempre un mal. Un niño evalúa la experiencia según el placer que contiene; una persona es madura en la medida en que sustituye el placer personal por significados superiores o incluso por lealtades a los más altos conceptos de situaciones vitales diversificadas y relaciones cósmicas."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "100:1.2",
       "pageReference": "1094.4",
       "sortId": "3.100.001.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "Algunas personas están demasiado ocupadas para crecer y por consiguiente corren el grave peligro de la fijación espiritual. Se debe disponer para el crecimiento de los significados en distintas edades, en culturas sucesivas y en las etapas que van pasando de la civilización en avance. Los principales inhibidores del crecimiento son el prejuicio y la ignorancia."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "Algunas personas están demasiado ocupadas para crecer, y corren por ello grave peligro de caer en una fijación espiritual. Se deben tomar disposiciones que favorezcan el crecimiento de los significados a diferentes edades, en culturas sucesivas y en las etapas pasajeras del progreso de la civilización. Los principales inhibidores del crecimiento son el prejuicio y la ignorancia."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "100:1.3",
       "pageReference": "1094.5",
       "sortId": "3.100.001.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "Dad a cada niño creciente la oportunidad de cultivar su propia experiencia religiosa; no debéis forzarlo a una experiencia adulta ya hecha. Recordad, el progreso año por año a través de un régimen de enseñanza establecido no significa necesariamente progreso espiritual y menos aún crecimiento espiritual. La ampliación del vocabulario no significa el desarrollo del carácter. El crecimiento no está auténticamente indicado por los meros productos sino más bien por el progreso. El crecimiento educativo verdadero está indicado por la elevación de los ideales, la mayor apreciación de los valores, los nuevos significados de los valores y una lealtad aumentada a los valores supremos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "Dad a cada niño que crece la oportunidad de desarrollar su propia experiencia religiosa; no le impongáis la experiencia ya hecha de un adulto. Recordad que progresar año a año a través de un régimen educativo establecido no implica necesariamente progreso intelectual y mucho menos crecimiento espiritual. Ampliar el vocabulario no significa desarrollar el carácter. El verdadero indicador del crecimiento no son simplemente los frutos sino más bien el progreso. Los indicadores reales del crecimiento educativo son la elevación de los ideales, la mayor apreciación de los valores, los nuevos significados de los valores y un aumento de la lealtad a los valores supremos."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "100:1.4",
       "pageReference": "1094.6",
       "sortId": "3.100.001.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "Los niños reciben una impresión permanente tan sólo por las lealtades de sus asociados adultos; el precepto, o aun el ejemplo, no está duraderamente influyente. Las personas leales son personas en crecimiento, y el crecimiento es una realidad que impresiona e inspira. Vive lealmente hoy —crece— y mañana será otro día. La forma más rápida para que un renacuajo se torne rana, consiste en vivir lealmente cada momento como renacuajo."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "A los niños solo les impresionan de forma permanente las lealtades de sus compañeros adultos; ni los preceptos, ni siquiera los ejemplos, les influyen de forma duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vive lealmente hoy —crece— y mañana será otro día. Para un renacuajo la forma más rápida de llegar a ser rana es vivir lealmente cada momento como renacuajo."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "100:1.5",
       "pageReference": "1094.7",
       "sortId": "3.100.001.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "El terreno esencial para el crecimiento religioso presupone una vida progresiva de autorrealización, la coordinación de las propensidades naturales, el ejercicio de la curiosidad y el goce en las aventuras razonables, la experimentación de sentimientos de satisfacción, el funcionamiento del estímulo del temor para la atención y la presencia de ánimo, el aliciente de la curiosidad, y una conciencia normal de la propia pequeñez, la humildad. El crecimiento también está predicado en el descubrimiento del yo acompañado por la autocrítica —la conciencia, porque la conciencia es en realidad la crítica del yo mediante sus propios hábitos de valor, ideales personales."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "El terreno esencial para el crecimiento religioso presupone una vida progresiva de autorrealización, la coordinación de las propensiones naturales, el ejercicio de la curiosidad y el disfrute de aventuras razonables, los sentimientos de satisfacción, el miedo como estímulo de la atención y la conciencia, el atractivo de lo maravilloso y una consciencia normal de la propia pequeñez, la humildad. El crecimiento también está basado en el descubrimiento del yo acompañado de autocrítica —de conciencia— porque la conciencia es en realidad la crítica de uno mismo según la propia escala de valores, los ideales personales."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "100:1.6",
       "pageReference": "1095.1",
       "sortId": "3.100.001.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "La experiencia religiosa está marcadamente influida por la salud física, el temperamento heredado y el medio ambiente social. Pero estas condiciones temporales no inhiben el progreso espiritual interior de un alma dedicada a hacer la voluntad del Padre en los cielos. En todos los mortales normales hay ciertos impulsos innatos hacia el crecimiento y la autorrealización que funcionan si no se les inhibe específicamente. La técnica segura de fomentar esta dote constitutiva del potencial del crecimiento espiritual consiste en mantener una actitud de devoción sincera a los valores supremos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "La salud física, el temperamento heredado y el entorno social influyen considerablemente sobre la experiencia religiosa, pero estas condiciones temporales no inhiben el progreso espiritual interior de un alma dedicada a hacer la voluntad del Padre del cielo. Todos los mortales normales poseen una tendencia innata al crecimiento y la autorrealización, y estos impulsos actúan siempre que no sean expresamente inhibidos. El modo seguro de fomentar esta dotación constitutiva de potencial de crecimiento espiritual es mantener una actitud de entrega sincera a los valores supremos."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "100:1.7",
       "pageReference": "1095.2",
       "sortId": "3.100.001.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "La religión no se puede regalar, recibir, prestar, aprender ni perder. Es una experiencia personal que crece proporcionalmente a la búsqueda creciente de los valores finales. El crecimiento cósmico, por lo tanto, consiste en la acumulación de los significados y la elevación, cada vez más amplia, de los valores. Pero la nobleza misma es siempre un crecimiento inconsciente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "La religión no se puede otorgar, recibir, prestar, aprender ni perder. Es una experiencia personal que crece en proporción a la búsqueda creciente de valores finales. El crecimiento cósmico acompaña así a la acumulación de significados y a la elevación y expansión permanente de los valores. Pero la nobleza en sí misma es siempre un desarrollo inconsciente."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "100:1.8",
       "pageReference": "1095.3",
       "sortId": "3.100.001.008",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "Los hábitos religiosos de pensamiento y actuación contribuyen a la economía del crecimiento espiritual. Se pueden desarrollar predisposiciones religiosas para reaccionar favorablemente a los estímulos espirituales, un tipo de reflejo condicionado espiritual. Los hábitos que favorecen el crecimiento religioso comprenden la sensibilidad cultivada hacia los valores divinos, el reconocimiento de la vida religiosa en otros, la meditación reflexionante sobre los significados cósmicos, la solución adoradora de problemas, el compartir la vida espiritual con los semejantes, el evitar el egoísmo, negarse a presumir la misericordia divina, viviendo como en la presencia de Dios. Los factores del crecimiento religioso, pueden ser intencionales, pero el crecimiento mismo es invariablemente inconsciente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "Los hábitos religiosos de pensar y actuar contribuyen a la organización del crecimiento espiritual. Se pueden desarrollar predisposiciones religiosas a reaccionar favorablemente a los estímulos espirituales como una especie de reflejo condicionado espiritual. Los hábitos que favorecen el crecimiento religioso consisten en: cultivar la sensibilidad a los valores divinos, reconocer la vida religiosa en los demás, meditar reflexivamente sobre los significados cósmicos, solucionar problemas mediante la adoración, compartir la vida espiritual con los semejantes, evitar el egoísmo, negarse a presuponer la misericordia divina, vivir como si se estuviera en presencia de Dios. Los factores del crecimiento religioso pueden ser deliberados, pero el crecimiento en sí es siempre inconsciente."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "100:1.9",
       "pageReference": "1095.4",
       "sortId": "3.100.001.009",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Religioso",
-      "markdown": "La naturaleza inconsciente del crecimiento religioso no significa que éste sea una actividad que funciona en los dominios supuestamente subconscientes en el intelecto humano; más bien significa las actividades creadoras en los niveles superconscientes en la mente mortal. La experiencia de la realización de la realidad del crecimiento religioso inconsciente es una prueba positiva de la existencia funcional de la superconciencia."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento religioso",
+      "markdown": "La naturaleza inconsciente del crecimiento religioso no significa que esta actividad ocurra en el ámbito supuestamente subconsciente del intelecto humano; denota más bien la existencia de actividades creativas en los niveles superconscientes de la mente mortal. El hecho de percatarse de la realidad del crecimiento religioso inconsciente es la única prueba concluyente de la existencia funcional de la superconsciencia."
     },
     {
       "type": "section",
@@ -271,8 +271,8 @@
       "standardReferenceId": "100:2.0",
       "pageReference": null,
       "sortId": "3.100.002.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
       "markdown": null
     },
     {
@@ -289,9 +289,9 @@
       "standardReferenceId": "100:2.1",
       "pageReference": "1095.5",
       "sortId": "3.100.002.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "El desarrollo espiritual depende, en primer lugar, del mantenimiento de una conexión viva espiritual con las verdaderas fuerzas espirituales, y en segundo término, de la producción continua del fruto espiritual: el prodigar a los semejantes lo que se ha recibido de los benefactores espirituales. El progreso espiritual está predicado en el reconocimiento intelectual de la pobreza espiritual combinado con la autoconciencia del hambre de perfección, el deseo de conocer a Dios y de ser como él, el propósito sincero de hacer la voluntad del Padre en los cielos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "El desarrollo espiritual depende, en primer lugar, del mantenimiento de una conexión espiritual viva con las verdaderas fuerzas espirituales y, en segundo término, de la producción continua de fruto espiritual consistente en prodigar a nuestros semejantes el ministerio recibido de nuestros benefactores espirituales. El progreso espiritual está fundamentado en el reconocimiento intelectual de la pobreza espiritual unido a la autoconsciencia del hambre de perfección, el deseo de conocer a Dios y ser como él, el propósito entusiasta de hacer la voluntad del Padre del cielo."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "100:2.2",
       "pageReference": "1095.6",
       "sortId": "3.100.002.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "El crecimiento espiritual es en primer lugar, el despertar a las necesidades, luego el discernimiento de los significados y finalmente el descubrimiento de los valores. La prueba de verdadero desarrollo espiritual consiste en la exhibición de una personalidad humana motivada por el amor, activada por el ministerio altruista y dominada por la adoración sincera de los ideales de perfección de la divinidad. Y toda esta experiencia constituye la realidad de la religión, en contraste con las meras creencias teológicas."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "El crecimiento espiritual es, primero, un despertar a las necesidades, después, una percepción de los significados y más tarde un descubrimiento de los valores. La prueba del verdadero desarrollo espiritual consiste en la manifestación de una personalidad humana motivada por el amor, activada por el ministerio desinteresado y dominada por la adoración entusiasta a los ideales de perfección de la divinidad. Toda esta experiencia constituye la realidad de la religión en contraste con las meras creencias teológicas."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "100:2.3",
       "pageReference": "1095.7",
       "sortId": "3.100.002.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "La religión puede progresar a ese nivel de experiencia en el que se vuelva una técnica esclarecida y sabia de reacción espiritual al universo. Tal religión glorificada puede funcionar en tres niveles de la personalidad humana: el intelectual, el morontial y el espiritual; sobre la mente, en el alma en evolución y con el espíritu residente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "La religión puede progresar hasta el nivel de experiencia en el que se convierte en un procedimiento sabio y esclarecido de reacción espiritual ante el universo. Esa religión glorificada puede operar en tres niveles de la personalidad humana: el intelectual, el morontial y el espiritual: sobre la mente, en el alma que evoluciona y con el espíritu que mora en su interior."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "100:2.4",
       "pageReference": "1096.1",
       "sortId": "3.100.002.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "La espiritualidad se vuelve de inmediato el indicador de la propia cercanía a Dios y la medida de nuestra propia utilidad para con los semejantes. La espiritualidad eleva la habilidad de descubrir la belleza en las cosas, de reconocer la verdad en los significados y la bondad en los valores. El desarrollo espiritual está determinado por la capacidad para eso y es directamente proporcional a la eliminación de las características egoístas del amor."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "La espiritualidad se convierte directamente en el indicador de nuestra cercanía a Dios y en la medida de nuestra utilidad para nuestros semejantes. La espiritualidad realza la aptitud para descubrir la belleza de las cosas, reconocer la verdad de los significados y descubrir la bondad de los valores. El desarrollo espiritual está determinado por la capacidad de cada uno y es directamente proporcional a la eliminación de los elementos egoístas del amor."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "100:2.5",
       "pageReference": "1096.2",
       "sortId": "3.100.002.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "El verdadero estado espiritual es la medida en que se aproxima uno a la Deidad, la sintonización con el Ajustador. El logro de la finalidad de la espiritualidad es equivalente al logro del máximo de la realidad, el máximo de la semejanza con Dios. La vida eterna es la búsqueda interminable de los valores infinitos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "El estatus espiritual propiamente dicho es la medida en que se ha alcanzado la Deidad y sintonizado con el Ajustador. Conseguir una espiritualidad de carácter final equivale a alcanzar el máximo de realidad, el máximo de semejanza a Dios. La vida eterna es la búsqueda sin fin de los valores infinitos."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "100:2.6",
       "pageReference": "1096.3",
       "sortId": "3.100.002.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale luchar son divinas, espirituales y eternas. El hombre mortal tiene derecho a gozar de los placeres físicos y a satisfacer los afectos humanos; se beneficia por la lealtad a las asociaciones humanas y a las instituciones temporales; pero éstos no constituyen los cimientos eternos sobre los que se construye la personalidad inmortal que debe trascender el espacio, conquistar el tiempo y alcanzar el destino eterno de la perfección divina y el servicio finalista."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "El objetivo de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que merece la pena esforzarse son divinas, espirituales y eternas. El hombre mortal tiene derecho al disfrute de los placeres físicos y a la satisfacción de los afectos humanos; se beneficia de la lealtad a las asociaciones humanas y a las instituciones temporales; pero esos no son los fundamentos eternos sobre los que construir la personalidad inmortal que debe trascender el espacio, vencer al tiempo y conseguir el destino eterno de perfección divina y servicio finalitario."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "100:2.7",
       "pageReference": "1096.4",
       "sortId": "3.100.002.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "Jesús ilustró la profunda seguridad del mortal conocedor de Dios cuando dijo: «Para un creyente del reino quien conoce a Dios, ¿que importa si todas las cosas terrenales se arruinan?» Las seguridades temporales son vulnerables, pero las certezas espirituales son impregnables. Cuando las mareas de la adversidad humana, el egoísmo, la crueldad, el odio, la maldad y los celos golpean el alma mortal, podéis reposar en la seguridad de que existe un bastión interior, la citadela del espíritu, que es absolutamente inatacable; por lo menos es verdad de cada ser humano que ha encomendado el mantenimiento de su alma al espíritu residente del Dios eterno."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "Jesús describió la profunda seguridad del mortal conocedor de Dios cuando dijo: «Para aquel que cree en el reino y conoce a Dios, ¿qué importa si todas las cosas terrenales se derrumban?». Las seguridades temporales son vulnerables, pero las garantías espirituales son inquebrantables. Cuando las mareas de la adversidad humana, del egoísmo, la crueldad, el odio, la maldad y la envidia golpean el alma mortal, podéis tener la seguridad de que hay un bastión interior, la ciudadela del espíritu, que es absolutamente inexpugnable; esto es cierto al menos para todo ser humano que ha entregado el cuidado de su alma al espíritu del Dios eterno que mora en su interior."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "100:2.8",
       "pageReference": "1096.5",
       "sortId": "3.100.002.008",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "El Crecimiento Espiritual",
-      "markdown": "Después de tal logro espiritual, se haya éste obtenido mediante crecimiento gradual o a través de una crisis específica, ocurre una nueva orientación de la personalidad, así como también el desarrollo de una nueva norma de valores. Estos individuos nacidos del espíritu reciben tal motivación nueva en la vida, que son capaces de presenciar con calma, la vista del arruinamiento de sus ambiciones más caras, del asolamiento de sus esperanzas más profundas; saben categóricamente que tales catástrofes no son sino cataclismos redirectores que estropean las creaciones temporales de uno, previo al inicio de las realidades más nobles y perdurables de un nivel nuevo y más sublime de logro universal."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "El crecimiento espiritual",
+      "markdown": "Una vez alcanzado ese logro espiritual mediante un crecimiento gradual o como consecuencia de una crisis específica, se produce una reorientación de la personalidad y se desarrolla una nueva escala de valores. Estos individuos nacidos del espíritu han renovado hasta tal punto su motivación en la vida que son capaces de mantenerse tranquilamente al margen mientras ven perecer sus ambiciones más queridas y derrumbarse sus mayores esperanzas. Saben con certeza que esas catástrofes no son más que cataclismos de cambio que destrozan nuestras creaciones temporales como preludio de la construcción de realidades más nobles y duraderas de un nivel nuevo y más sublime de logro en el universo."
     },
     {
       "type": "section",
@@ -433,8 +433,8 @@
       "standardReferenceId": "100:3.0",
       "pageReference": null,
       "sortId": "3.100.003.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
       "markdown": null
     },
     {
@@ -451,9 +451,9 @@
       "standardReferenceId": "100:3.1",
       "pageReference": "1096.6",
       "sortId": "3.100.003.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "La religión no es una técnica para llegar a una paz mental estática y dichosa; es un impulso hacia la organización del alma para el servicio dinámico. Es enlistar la totalidad del yo para el servicio leal del Dios amante y para servir al hombre. La religión paga cualquier precio esencial para el logro del fin supremo, el premio eterno. Hay una consagración tan completa en la lealtad religiosa que es soberbiamente sublime. Y estas lealtades son socialmente eficaces y espiritualmente progresivas."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "La religión no es un método para alcanzar un estado dichoso y estático de paz mental sino un impulso dirigido a organizar el alma para el servicio activo. Es el alistamiento de la totalidad del yo en el servicio leal de amar a Dios y servir al hombre. La religión paga el precio que sea necesario para alcanzar la meta suprema, el premio eterno. Hay en la lealtad religiosa una consagración tan completa que es magnífica y sublime. Y estas lealtades son socialmente eficaces y espiritualmente progresivas."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "100:3.2",
       "pageReference": "1096.7",
       "sortId": "3.100.003.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "Para el religionista, la palabra ‘Dios’, se vuelve un símbolo que significa el acercamiento a la realidad suprema y el reconocimiento del valor divino. Lo que place o disgusta a la humanidad no determina el bien o el mal; los valores morales no surgen de la satisfacción de los deseos ni de la frustración emocional."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "Para la persona religiosa la palabra Dios se convierte en un símbolo que significa el acercamiento a la realidad suprema y el reconocimiento del valor divino. Lo que gusta o disgusta al humano no determina el bien o el mal; los valores morales no surgen de la satisfacción de los deseos ni de la frustración de las emociones."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "100:3.3",
       "pageReference": "1096.8",
       "sortId": "3.100.003.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "En la contemplación de los valores debes distinguir entre lo que *es* valor y lo que *tiene* valor. Debes reconocer la relación entre las actividades placenteras y su integración significativa y realización enaltecida en niveles progresivamente cada vez más altos de experiencia humana."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "Al contemplar los valores debéis distinguir entre lo que *es* valor y lo que *tiene* valor. Debéis reconocer la relación entre actividades placenteras y su integración significativa y realización mejorada en niveles cada vez más altos de experiencia humana."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "100:3.4",
       "pageReference": "1097.1",
       "sortId": "3.100.003.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "El significado es algo que la experiencia agrega al valor; es la conciencia apreciativa de los valores. Un placer aislado y puramente egoísta, puede connotar una devaluación virtual de los significados, un goce sin sentido que linda con el mal relativo. Los valores son experienciales cuando las realidades son significativas y se asocian mentalmente, cuando tales relaciones son reconocidas y apreciadas por la mente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "El significado es algo que la experiencia añade al valor; es la consciencia apreciativa de los valores. Un placer aislado y puramente egoísta puede connotar una devaluación virtual de los significados, un goce sin sentido que raya en el mal relativo. Los valores son experienciales cuando las realidades tienen sentido y están asociadas mentalmente, cuando esas relaciones son reconocidas y apreciadas por la mente."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "100:3.5",
       "pageReference": "1097.2",
       "sortId": "3.100.003.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "Los valores no pueden ser jamás estáticos; la realidad significa cambio, crecimiento. El cambio sin crecimiento, expansión de significado y exaltación de valor, no tiene valor —es potencialmente mal. Cuanto más grande sea la calidad de adaptación cósmica, más significado tendrá toda experiencia. Los valores no son ilusiones conceptuales; son reales, pero siempre dependen del hecho de las interrelaciones. Los valores son siempre tanto actuales como potenciales —no lo que fue, sino lo que es y lo que será."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "Los valores nunca pueden ser estáticos; la realidad significa cambio, crecimiento. El cambio sin crecimiento, sin expansión del significado y sin exaltación del valor carece de valor, es un mal potencial. Cuanto mayor sea la calidad de la adaptación cósmica mayor será el significado de cualquier experiencia. Los valores no son ilusiones conceptuales; son reales, pero dependen siempre de la existencia de relaciones. Los valores son siempre actuales y potenciales a la vez: no son lo que fue, sino lo que es y lo que será."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "100:3.6",
       "pageReference": "1097.3",
       "sortId": "3.100.003.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "La asociación de los actuales y los potenciales equivale al crecimiento, la realización experiencial de los valores. Pero el crecimiento no es mero progreso. El progreso es siempre significativo, pero es relativamente sin valor en ausencia del crecimiento. El valor supremo de la vida humana consiste en el crecimiento de los valores, el progreso en los significados y la realización de la interrelación cósmica de estas dos experiencias. Y tal experiencia es equivalente a la conciencia de Dios. Un mortal con esta experiencia, aunque no sea sobrenatural, se está volviendo realmente sobrehumano; un alma inmortal está evolucionando."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "La asociación de actuales y potenciales equivale a crecimiento, a la realización experiencial de los valores. Pero el crecimiento no es mero progreso. El progreso tiene siempre significado, pero sin crecimiento no tiene relativamente ningún valor. El valor supremo de la vida humana consiste en el crecimiento de los valores, el progreso de los significados y la realización de la interrelación cósmica de estas dos experiencias. Una experiencia así equivale a la consciencia de Dios. Un mortal así no es sobrenatural pero se va convirtiendo realmente en sobrehumano. Está evolucionando un alma inmortal."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "100:3.7",
       "pageReference": "1097.4",
       "sortId": "3.100.003.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Conceptos de Valor Supremo",
-      "markdown": "El hombre no puede desencadenar el crecimiento, pero sí puede proveer las condiciones favorables. El crecimiento es siempre inconsciente, sea éste físico, intelectual o espiritual. El amor así crece; no puede ser creado, manufacturado ni comprado; debe crecer. La evolución es una técnica cósmica de crecimiento. El crecimiento social no puede asegurarse mediante la legislación, y el crecimiento moral no se obtiene por una administración mejorada. El hombre puede fabricar una máquina, pero su verdadero valor debe derivarse de la cultura humana y de la apreciación personal. La única contribución del hombre al crecimiento es la movilización de los poderes totales de su personalidad —la fe viviente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los conceptos de valor supremo",
+      "markdown": "El hombre no puede provocar el crecimiento, pero puede crear condiciones favorables para que ocurra. El crecimiento, ya sea físico, intelectual o espiritual, es siempre inconsciente. Y así crece el amor: no se puede crear, fabricar ni comprar, tiene que crecer. La evolución es una técnica cósmica de crecimiento. No se puede conseguir un crecimiento social a base de leyes ni un crecimiento moral mejorando la administración. El hombre puede fabricar máquinas, pero el valor real de la máquina proviene necesariamente de la cultura humana y de la apreciación personal. La única contribución del hombre al crecimiento es la movilización de todos los poderes de su personalidad, la fe viva."
     },
     {
       "type": "section",
@@ -577,8 +577,8 @@
       "standardReferenceId": "100:4.0",
       "pageReference": null,
       "sortId": "3.100.004.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
       "markdown": null
     },
     {
@@ -595,9 +595,9 @@
       "standardReferenceId": "100:4.1",
       "pageReference": "1097.5",
       "sortId": "3.100.004.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "La vida religiosa es una vida dedicada, y la vida dedicada es una vida creadora, original y espontánea. De los conflictos que inician la selección de hábitos de reacción nuevos y mejores en lugar de los esquemas más viejos e inferiores de reacción, surgen nuevas visiones religiosas. Los nuevos significados tan sólo surgen de entre conflicto; y el conflicto persiste tan sólo mientras perdura la actitud de negarse a adoptar los valores más elevados connotados en los significados superiores."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "El vivir religioso es un vivir consagrado, y el vivir consagrado es un vivir creativo, es original y espontáneo. De los conflictos que inician la elección de hábitos de reacción nuevos y mejores en lugar de los patrones de reacción anteriores e inferiores surgen nuevas visiones interiores religiosas. Los nuevos significados emergen solo en medio del conflicto, y el conflicto persiste solo frente al rechazo a adoptar los valores más altos connotados en los significados superiores."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "100:4.2",
       "pageReference": "1097.6",
       "sortId": "3.100.004.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "Las perplejidades religiosas son inevitables; no puede haber crecimiento ninguno sin conflicto psíquico y agitación espiritual. La organización de una norma filosófica de vida supone una conmoción considerable en los dominios filosóficos de la mente. No se ejercitan lealtades a favor de lo grande, lo bueno, lo verdadero y lo noble en ausencia de la lucha. El esfuerzo se dirige a aclarar la visión espiritual y a aumentar la compenetración cósmica. Y el intelecto humano protesta cuando se le quitan energías no espirituales de existencia temporal. La mente indolente animal se rebela ante el esfuerzo necesario para luchar con la solución de problemas a nivel cósmico."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "Las perplejidades religiosas son inevitables; no puede haber crecimiento sin conflicto psíquico y sin agitación espiritual. El establecimiento de una norma filosófica de vida conlleva una conmoción considerable en los campos filosóficos de la mente. La lealtad hacia lo grande, lo bueno, lo verdadero y lo noble no se impone sin lucha. El esfuerzo comporta una clarificación de la visión espiritual y un aumento de la visión interior cósmica, pero el intelecto humano protesta cuando se ve privado del sustento de las energías no espirituales de la existencia temporal. La perezosa mente animal se rebela ante el esfuerzo que exige la lucha por resolver los problemas cósmicos."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "100:4.3",
       "pageReference": "1097.7",
       "sortId": "3.100.004.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "Pero el gran problema de la vida religiosa consiste en la tarea de unificar los poderes del alma de la personalidad mediante el dominio del AMOR. La salud, la eficacia mental y la felicidad surgen de la unificación de los sistemas físicos, de los sistemas espirituales. El hombre mucho entiende de salud y de cordura, pero de la felicidad realmente ha comprendido muy poco. La felicidad más elevada está indisolublemente vinculada con el progreso espiritual. El crecimiento espiritual produce un deleite duradero, una paz que trasciende toda comprensión."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "Pero el gran reto del vivir religioso consiste en unificar los poderes del alma propios de cada personalidad bajo el dominio del AMOR. La salud, la eficacia mental y la felicidad surgen de la unificación de los sistemas físicos, los sistemas de mente y los sistemas de espíritu. El hombre entiende mucho de salud y de cordura pero sabe muy poco de felicidad. La felicidad más grande está vinculada de forma indisoluble al progreso espiritual. El crecimiento espiritual produce una alegría duradera, una paz que rebasa todo entendimiento."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "100:4.4",
       "pageReference": "1098.1",
       "sortId": "3.100.004.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "En la vida física, los sentidos se percatan de la existencia de las cosas; la mente descubre la realidad de los significados; pero la experiencia espiritual revela al individuo los verdaderos valores de la vida. Estos altos niveles de vida humana se logran en el amor supremo de Dios y en el amor altruista del hombre. Si amas a tus semejantes, debes haber descubierto sus valores. Jesús amaba tanto a los hombres, porque les adjudicaba un valor tan alto. Puedes mejor descubrir los valores de tus asociados descubriendo sus motivaciones. Si alguien te irrita, te produce sentimientos de resentimiento, debes buscar con simpatía el discernimiento de su punto de vista, sus razones de una conducta tan censurable. Una vez que entiendas a tu prójimo, te volverás tolerante, y esta tolerancia crecerá en amistad y madurará en el amor."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "En la vida física los sentidos muestran la existencia de las cosas y la mente descubre la realidad de los significados, pero es la experiencia espiritual la que revela al individuo los valores verdaderos de la vida. Esos altos niveles del vivir humano se alcanzan en el amor supremo a Dios y en el amor desinteresado al hombre. Si amáis a vuestros semejantes es porque habéis descubierto sus valores. Jesús amaba tanto a los hombres porque veía en ellos un gran valor. Para descubrir los valores de vuestros compañeros buscad su motivación. Si alguien os irrita, os causa resentimiento, intentad comprender su punto de vista, los motivos de su conducta censurable. En cuanto comprendáis a vuestro prójimo os volveréis tolerantes, y esta tolerancia se transformará en amistad y madurará hasta convertirse en amor."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "100:4.5",
       "pageReference": "1098.2",
       "sortId": "3.100.004.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "Forma con los ojos de la mente el retrato de uno de vuestros antepasados primitivos de los tiempos de las cavernas —un hombre bajo, deforme, corpulento, sucio, hosco, de pie, con las piernas abiertas, blandiendo un garrote, emanando odio y animosidad, a medida que fija la vista delante de él con expresión feroz. Este cuadro no pinta la dignidad divina del hombre. Pero ampliemos el cuadro. Frente a este humano animado se agazapa un tigre de dientes sable. Detrás de él, una mujer y dos niños. Inmediatamente reconocerás que este cuadro simboliza los comienzos de mucho de lo que es noble y bueno en la raza humana; pero el hombre es el mismo en ambas situaciones. Sólo que en la segunda, tienes un horizonte más amplio. Allí disciernes la motivación de este mortal evolutivo. Su actitud se vuelve loable, porque lo comprendes. Si puedes tan sólo imaginar los motivos de tus asociados, cuanto mejor podrás comprenderlos. Si tan sólo puedes conocer a tus semejantes, finalmente te enamorarás de ellos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "Con los ojos de la imaginación retratad en vuestra mente a uno de vuestros antepasados primitivos de los tiempos de las cavernas: la mole achaparrada y mugrienta de un hombre erguido con las piernas separadas que ruge garrote en alto con mirada feroz, respirando odio y agresividad. Una imagen así está muy lejos de la dignidad divina del hombre. Pero ampliemos la imagen. Frente a este humano animado se agazapa un tigre de dientes de sable, y detrás del hombre hay una mujer y dos niños. Reconocéis inmediatamente que una imagen así corresponde a los comienzos de mucho de lo que es noble y excelente en la raza humana, pero el hombre es el mismo en ambas escenas. La diferencia está en que la segunda proporciona un horizonte más amplio que os permite captar la motivación de ese mortal en vías de evolución. Su actitud se vuelve digna de elogio porque comprendéis su situación. Cuánto mejor comprenderíais a vuestros compañeros si pudierais profundizar en sus motivaciones. Solo con que pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "100:4.6",
       "pageReference": "1098.3",
       "sortId": "3.100.004.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Los Problemas del Crecimiento",
-      "markdown": "No puedes realmente amar a tus semejantes por un simple acto de tu voluntad. El amor tan sólo nace de la comprensión completa de las motivaciones y sentimientos de tus semejantes. No es tan importante amar a todos los hombres hoy como lo es que cada día aprendes a amar aún a uno más entre los seres humanos. Si cada día o cada semana consigues comprender a uno más de entre tus semejantes, y si éste es el límite de tu habilidad, estás entonces ciertamente socializando y verdaderamente espiritualizando tu personalidad. El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero tan sólo el amor genuino y altruista es verdaderamente contagioso. Si cada mortal pudiese volverse tan sólo el objeto de un afecto dinámico, este virus benigno del amor llenaría muy pronto la corriente sentimental de emoción de la humanidad hasta tal punto que toda civilización estaría comprendida por el amor y ésa sería la realización de la hermandad del hombre."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los problemas del crecimiento",
+      "markdown": "No podéis amar de verdad a vuestros semejantes por un mero acto de voluntad. El amor nace solo de una comprensión profunda de los motivos y sentimientos del prójimo. Amar hoy a todos los hombres no es tan importante como aprender a amar a un ser humano más cada día. Si cada día o cada semana conseguís comprender a uno más de vuestros semejantes, y si ese es el límite de vuestra capacidad, conseguiréis una personalidad cada vez más socializada y verdaderamente espiritual. El amor es contagioso, y cuando la entrega humana es inteligente y sabia, el amor es más pegadizo que el odio. Pero solo el amor auténtico y desinteresado es verdaderamente contagioso. Si cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor impregnaría pronto la corriente sentimental de emociones de la humanidad hasta el punto de que toda la civilización estaría envuelta en amor y se haría realidad la hermandad del hombre."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "100:5.0",
       "pageReference": null,
       "sortId": "3.100.005.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "100:5.1",
       "pageReference": "1098.4",
       "sortId": "3.100.005.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "El mundo está lleno de almas perdidas, no perdidas en el sentido teológico sino perdidas en el significado direccional, almas que vagan confusas entre los ismos y cultos de una era filosófica frustrada. Demasiado pocos han aprendido cómo reemplazar la autoridad religiosa con una filosofía de vida. (Los símbolos de la religión socializada no han de ser despreciados como canales para el crecimiento, aunque el lecho del río no es el río mismo, por él corren sus aguas.)"
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "El mundo está lleno de almas perdidas, no perdidas en el sentido teológico, sino que han perdido la dirección y vagan confusas entre los «ismos» y los cultos de una era filosófica frustrada. Muy pocas han aprendido a sustituir la autoridad religiosa por una filosofía de vida. (Los símbolos de la religión socializada no deben ser minusvalorados como canales de crecimiento, sin perder nunca de vista que el lecho del río no es el río.)"
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "100:5.2",
       "pageReference": "1098.5",
       "sortId": "3.100.005.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "El progreso del crecimiento religioso conduce desde el estancamiento, a través del conflicto, a la coordinación; desde la inseguridad, a la fe firme; desde la confusión de la conciencia cósmica, a la unificación de la personalidad; desde el objetivo temporal, al eterno; desde la esclavitud del temor, a la libertad de la filiación divina."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "La progresión del crecimiento religioso conduce, a través de situaciones de conflicto, del estancamiento a la coordinación, de la inseguridad a la fe firme, de la confusión de la consciencia cósmica a la unificación de la personalidad, del objetivo temporal al eterno, de la esclavitud del miedo a la libertad de la filiación divina."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "100:5.3",
       "pageReference": "1099.1",
       "sortId": "3.100.005.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Debe aclararse que las profesiones de lealtad a los ideales supremos —el conocimiento psíquico, emocional y espiritual de la conciencia de Dios— pueden crecer natural y gradualmente, o bien, a veces se les puede experientar en ciertas circunstancias, como en una crisis. El apóstol Pablo experimentó precisamente tal conversión repentina y espectacular, ese día pletórico en el camino a Damasco. Gautama Siddharta tuvo una experiencia similar la noche en la que permaneció sentado a solas y trató de penetrar el misterio de la verdad final. Muchos otros han tenido experiencias similares, y muchos creyentes sinceros han progresado en el espíritu sin conversión súbita."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "Cabe precisar que las profesiones de lealtad a los ideales supremos —la percepción psíquica, emocional y espiritual de la consciencia de Dios— pueden crecer gradualmente de forma natural o bien sobrevenir como una crisis en algunos casos. El apóstol Pablo experimentó una de estas conversiones espectaculares y repentinas un día memorable camino de Damasco. Gautama Siddharta tuvo una experiencia parecida la noche en que se sentó a solas e intentó penetrar el misterio de la verdad final. Muchos otros han tenido experiencias de este tipo, y muchos creyentes verdaderos han progresado en el espíritu sin ninguna conversión súbita."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "100:5.4",
       "pageReference": "1099.2",
       "sortId": "3.100.005.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "La mayoría de los fenómenos espectaculares asociados con las así llamadas conversiones religiosas, son enteramente psicológicos en su naturaleza, pero de vez en cuando ocurren experiencias que son también espirituales en origen. Cuando la movilización mental es absolutamente total en cualquier nivel de alcance psíquico hacia el logro espiritual, cuando existe perfección de motivación humana en las lealtades a la idea divina, entonces muy frecuentemente ocurre un abrazo repentino del espíritu residente que se sincroniza con el propósito concentrado y consagrado de la mente superconsciente del mortal creyente. Y son tales experiencias de fenómenos intelectuales y espirituales unificados los que constituyen la conversión que consiste en factores más allá de la involucración puramente psicológica."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "La mayoría de los fenómenos espectaculares asociados a las llamadas conversiones religiosas son de naturaleza enteramente psicológica, aunque a veces se producen experiencias que son también de origen espiritual. Cuando la movilización mental es absolutamente total en cualquier nivel de la extensión psíquica hacia arriba en pos del logro del espíritu, cuando la motivación humana de lealtad a la idea divina es perfecta, muchas veces el espíritu que mora en el interior desciende para asir el propósito concentrado y consagrado de la mente superconsciente del mortal creyente y sincronizarse con él. Estas experiencias de unificación de fenómenos intelectuales y espirituales dan lugar a conversiones en las que intervienen factores que trascienden las implicaciones puramente psicológicas."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "100:5.5",
       "pageReference": "1099.3",
       "sortId": "3.100.005.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Pero la emoción por sí sola es una conversión falsa; hace falta tanto la fe como el sentimiento. En cuanto tal movilización de lealtad humana permanezca incompleta, hasta ese punto la experiencia de la conversión será una realidad mezclada de lo intelectual, lo emocional y lo espiritual."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "Pero la emoción por sí sola es una conversión falsa; hay que tener fe además de sentimiento. En la medida en que la movilización psíquica sea parcial y la motivación de la lealtad humana sea incompleta, la experiencia de la conversión será, en esa misma medida, una realidad mixta intelectual, emocional y espiritual."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "100:5.6",
       "pageReference": "1099.4",
       "sortId": "3.100.005.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Si uno está dispuesto a reconocer una mente subconsciente teórica como hipótesis práctica de trabajo en una vida intelectual por otra parte unificada, entonces, para ser constantes, habrá que postular un medio similar y correspondiente de actividad intelectual ascendente como nivel superconsciente, la zona de contacto inmediato con la entidad de espíritu residente, el Ajustador del Pensamiento. El gran peligro en todas estas especulaciones psíquicas consiste en que las visiones y otras experiencias así llamadas místicas, juntamente con sueños extraordinarios, pueden ser considerados comunicaciones divinas a la mente humana. En épocas pasadas, los seres divinos se han revelado a ciertas personas que conocen a Dios, no debido a sus trances místicos o visiones morbosas, sino a pesar de todos estos fenómenos."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "Si estamos dispuestos a admitir, como hipótesis práctica de trabajo, la existencia de una mente subconsciente teórica en la vida intelectual por lo demás unificada, deberíamos postular por coherencia la existencia de un campo similar y correspondiente de actividad intelectual en ascenso como nivel superconsciente, la zona de contacto directo con la entidad de espíritu que mora en el interior, el Ajustador del Pensamiento. El gran peligro de todas estas especulaciones psíquicas es que las visiones y otras experiencias llamadas místicas, junto con los sueños extraordinarios, se puedan interpretar como comunicaciones divinas a la mente humana. En el pasado seres divinos se han revelado a ciertas personas conocedoras de Dios, pero no por sus trances místicos o sus visiones morbosas sino a pesar de todos estos fenómenos."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "100:5.7",
       "pageReference": "1099.5",
       "sortId": "3.100.005.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "El contraste con la búsqueda de la conversión, el acercamiento mejor a las zonas morontiales de posible contacto con el Ajustador del Pensamiento debe buscarse mediante una vida de fe viviente y de adoración sincera, y de oración franca y altruista. Demasiado de lo que surge de los recuerdos de los niveles inconscientes de la mente humana se ha interpretado erróneamente como revelación divina y guía espiritual."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "En contraste con la búsqueda de la conversión, una mejor forma de acercarse a las zonas de morontia de posible contacto con el Ajustador del Pensamiento es a través de la fe viva y la adoración sincera, la oración desinteresada y de todo corazón. Demasiado de lo que surge de los recuerdos de los niveles inconscientes de la mente humana se ha confundido con revelación divina y guía espiritual."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "100:5.8",
       "pageReference": "1099.6",
       "sortId": "3.100.005.008",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Existe gran peligro asociado con la práctica habitual de los ensueños religiosos; el misticismo puede volverse una técnica para evitar la realidad, aunque a veces haya sido un medio para la comunión espiritual genuina. Cortas temporadas de retiro de las escenas activas de la vida, pueden no ser gravemente peligrosas, pero el aislamiento prolongado de la personalidad no es deseable. No debe cultivarse nunca, bajo ninguna circunstancia, el estado semejante al trance de una conciencia visionaria como experiencia religiosa."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "Es muy peligroso practicar la ensoñación religiosa de forma habitual; el misticismo se puede convertir en un sistema de eludir la realidad, aunque también es cierto que ha sido a veces un medio de auténtica comunión espiritual. Puede que retirarse del ajetreo de la vida durante temporadas cortas no entrañe ningún peligro serio, pero el aislamiento prolongado de la personalidad no es nada recomendable. Los estados de consciencia visionaria próximos al trance no se deben cultivar en ningún caso como experiencia religiosa."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "100:5.9",
       "pageReference": "1099.7",
       "sortId": "3.100.005.009",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Las características del estado místico son, la difusión de la conciencia con vívidas islas de atención focal que operan sobre un intelecto comparativamente pasivo. Todo esto lleva la conciencia hacia el subconsciente en vez de llevarla en dirección de la zona de contacto espiritual, el superconsciente. Muchos místicos han llevado su disociación mental hasta un nivel de manifestaciones mentales anormales."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "El estado místico se caracteriza por una consciencia difusa con islotes de intensa atención focalizada que actúan sobre un intelecto relativamente pasivo. Todo esto hace que la consciencia gravite hacia el subconsciente en lugar de dirigirse hacia la zona de contacto espiritual, el superconsciente. Muchos místicos han llevado su disociación mental hasta el nivel de las manifestaciones mentales anormales."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "100:5.10",
       "pageReference": "1100.1",
       "sortId": "3.100.005.010",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "La actitud más sana de la meditación espiritual se ha de encontrar en la adoración reflexiva y en la oración de acción de gracias. La comunión directa con el Ajustador del Pensamiento, tal como ocurrió en los últimos años de la vida de Jesús en la carne, no debe ser confundida con estas experiencias así llamadas místicas. Los factores que contribuyen a la iniciación de la comunión mística son indicativos del peligro de tales estados psíquicos. El estado místico está favorecido por cosas tales como la fatiga física, el ayuno, la disociación psíquica, profundas experiencias estéticas, impulsos sexuales vívidos, temor, ansiedad, rabia y baile desenfrenado. Mucho del material que surge como resultado de esta preparación preliminar tiene su origen en la mente subconsciente."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "La actitud más saludable de meditación espiritual consiste en la adoración reflexiva y la oración de acción de gracias. La comunión directa con nuestro Ajustador del Pensamiento, como ocurrió durante los últimos años de la vida de Jesús en la carne, no debe confundirse con las llamadas experiencias místicas. Los factores que contribuyen a suscitar la comunión mística son muy reveladores del peligro que entrañan los estados psíquicos de este tipo. Entre las cosas que favorecen el estado místico están el cansancio físico, el ayuno, la disociación psíquica, las experiencias estéticas profundas, los impulsos sexuales intensos, el miedo, la ansiedad, la rabia y el baile frenético. Muchos de los elementos que surgen como resultado de esta preparación preliminar se originan en la mente subconsciente."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "100:5.11",
       "pageReference": "1100.2",
       "sortId": "3.100.005.011",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Conversión y el Misticismo",
-      "markdown": "Aunque las condiciones pudieran ser favorables para los fenómenos místicos, es necesario comprender claramente que Jesús de Nazaret no recurrió nunca a estos métodos para comunicarse con el Padre en el Paraíso. Jesús no tenía delirios subconscientes ni ilusiones superconscientes."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La conversión y el misticismo",
+      "markdown": "Por muy favorables que fueran las condiciones para los fenómenos místicos, hay que dejar muy claro que Jesús de Nazaret no recurrió nunca a esos métodos de comunión con el Padre del Paraíso. Jesús no tenía alucinaciones subconscientes ni espejismos superconscientes."
     },
     {
       "type": "section",
@@ -919,8 +919,8 @@
       "standardReferenceId": "100:6.0",
       "pageReference": null,
       "sortId": "3.100.006.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
       "markdown": null
     },
     {
@@ -937,9 +937,9 @@
       "standardReferenceId": "100:6.1",
       "pageReference": "1100.3",
       "sortId": "3.100.006.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Las religiones evolucionarias y las religiones revelatorias pueden diferir considerablemente en sus métodos, pero en su motivo hay una gran similitud. La religión no es una función específica de la vida; más bien es una forma de vida. La verdadera religión es una devoción incondicional a una realidad que el religionista considera de valor supremo para él y para toda la humanidad. Las características sobresalientes de todas las religiones son: lealtad incondicional y devoción sincera a los valores supremos. Esta devoción religiosa a los valores supremos se demuestra en la relación de la madre supuestamente no religiosa hacia su hijo y en la lealtad ferviente de los no religiosos a una causa abrazada."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "Las religiones evolutivas y las religiones revelativas pueden emplear métodos muy diferentes, pero sus motivaciones son muy semejantes. La religión no es una función específica de la vida, es más bien un modo de vivir. La religión verdadera es una entrega de todo corazón a una realidad que la persona religiosa considera de valor supremo tanto para ella como para toda la humanidad. Todas las religiones se caracterizan básicamente por una lealtad incondicional y una entrega de todo corazón a valores supremos. Esta entrega religiosa a valores supremos se manifiesta en la relación de una madre que se dice irreligiosa con su hijo o en la lealtad ferviente que muestran ciertas personas no religiosas cuando abrazan una causa."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "100:6.2",
       "pageReference": "1100.4",
       "sortId": "3.100.006.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "El valor supremo aceptado por el religionista puede ser bajo o aun falso, pero es sin embargo religioso. Una religión es genuina en cuanto el valor que se considera supremo es verdaderamente una realidad cósmica de genuino valor espiritual."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "El valor supremo aceptado por la persona religiosa puede ser indigno de tal nombre o incluso falso, pero no por ello deja de ser religioso. Una religión es auténtica en la medida exacta en que el valor que se tiene por supremo es en verdad una realidad cósmica de auténtico valor espiritual."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "100:6.3",
       "pageReference": "1100.5",
       "sortId": "3.100.006.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Las marcas de la respuesta humana al impulso religioso comprenden las cualidades de la nobleza y la grandeza. El religioso sincero tiene conciencia de una ciudadanía en el universo y es consciente de ponerse en contacto con las fuentes de poder sobrehumano. El religionista está impulsado y energizado por la seguridad de pertenecer a una hermandad superior y ennoblecida de hijos de Dios. La conciencia del valor de su propio yo va aumentada por el estímulo de la búsqueda de los objetivos universales más elevados —las metas supremas."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "La respuesta humana al impulso religioso está caracterizada por las cualidades de nobleza y grandeza. La persona religiosa sincera es consciente de su ciudadanía del universo y se da cuenta de que se pone en contacto con fuentes de poder sobrehumano. Se emociona y se llena de vigor con la seguridad de pertenecer a una fraternidad superior y ennoblecida de hijos de Dios. Se hace más consciente de su propia valía bajo el estímulo de su aspiración a los más altos objetivos universales, las metas supremas."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "100:6.4",
       "pageReference": "1100.6",
       "sortId": "3.100.006.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "El yo ha cedido al fascinante impulso de una motivación que todo lo abarca, que impone una mayor autodisciplina, disminuye el conflicto emocional y hace que la vida mortal valga realmente la pena vivir. El reconocimiento morboso de las limitaciones humanas se transforma en la conciencia natural de las limitaciones mortales, asociadas con la determinación moral y la aspiración espiritual de lograr los fines universales y superuniversales más elevados. Y esta intensa lucha por el logro de los ideales supermortales está siempre caracterizada por una mayor paciencia, fuerza y tolerancia."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "El yo se ha rendido al empuje fascinante de una motivación que lo abarca todo, que impone una autodisciplina mayor, que reduce los conflictos emocionales y que hace que valga realmente la pena vivir la vida mortal. El reconocimiento morboso de las limitaciones humanas se transforma en una consciencia natural de las deficiencias mortales asociada a la determinación moral y la aspiración espiritual de lograr las metas más altas de los universos y los superuniversos. Este intenso esfuerzo por lograr los ideales supramortales se caracteriza siempre por una paciencia, una entereza, una fortaleza y una tolerancia cada vez mayores."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "100:6.5",
       "pageReference": "1100.7",
       "sortId": "3.100.006.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Pero la verdadera religión es amor vivo, una vida de servicio. La separación del religionista de mucho de lo que es puramente temporal y trivial no conduce nunca al aislamiento social y no debería destruir jamás el sentido del humor. La religión genuina no quita nada de la existencia humana, sino que agrega nuevos significados a la vida entera; genera nuevos tipos de entusiasmo, fervor y valentía. Aun es posible que engendre el espíritu del cruzado, que es más que peligroso si no está controlado por la visión espiritual y la devoción leal a las obligaciones sociales comunes de las lealtades humanas."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "Pero la verdadera religión es un amor vivo, una vida de servicio. El desapego de la persona religiosa hacia muchas cosas puramente temporales y triviales no conduce nunca al aislamiento social y no debería destruir el sentido del humor. La religión auténtica no quita nada a la existencia humana y en cambio aporta nuevos significados al conjunto de la vida; genera nuevos tipos de entusiasmo, de celo y de valentía. Puede incluso engendrar el espíritu del cruzado, que es más que peligroso si no está controlado por una visión interior espiritual y una entrega leal a las obligaciones sociales ordinarias de las lealtades humanas."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "100:6.6",
       "pageReference": "1101.1",
       "sortId": "3.100.006.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Una de las características más sorprendentes de la vida religiosa, es esa paz dinámica y sublime, esa paz que trasciende toda comprensión humana, esa calma cósmica que simboliza la ausencia de toda duda y confusión. Tales niveles de estabilidad espiritual son inmunes a la decepción. Estos religionistas son como el apóstol Pablo, quien dijo: «Estoy seguro de que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo, ni ninguna otra cosa nos podrá separar del amor de Dios»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "Una de las características más notables del vivir religioso es una paz activa y sublime, la paz que trasciende toda comprensión humana, una serenidad cósmica que manifiesta la ausencia de toda duda y toda agitación. Esos niveles de estabilidad espiritual son inmunes a las decepciones. Esas personas religiosas son como el apóstol Pablo cuando dijo: «Estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni los poderes, ni lo presente, ni lo por venir, ni lo alto, ni lo profundo ni ninguna otra cosa nos podrá apartar del amor de Dios»."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "100:6.7",
       "pageReference": "1101.2",
       "sortId": "3.100.006.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Existe un sentimiento de seguridad, asociado con la realización de la gloria triunfante, que reside en la conciencia del religioso que ha captado la realidad del Supremo, y que persigue el objetivo del Último."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "Un sentimiento de seguridad asociado al reconocimiento de la gloria triunfante reside en la consciencia de la persona religiosa que ha captado la realidad del Supremo y persigue la meta del Último."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "100:6.8",
       "pageReference": "1101.3",
       "sortId": "3.100.006.008",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "Aun la religión evolucionaria es enteramente así en lealtad y grandeza, porque es una experiencia genuina. Pero la religión revelatoria es *excelente* como también genuina. Las nuevas lealtades de la visión espiritual ampliada crean nuevos niveles de amor y devoción, de servicio y hermandad; y toda esta visión social enaltecida produce una conciencia, cada vez más amplia, de la paternidad de Dios y de la fraternidad del hombre."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "La religión evolutiva presenta también estos aspectos de lealtad y grandeza porque es una experiencia auténtica. Pero la religión revelativa es *excelente* además de auténtica. Las nuevas lealtades de la visión espiritual ampliada crean nuevos niveles de amor y entrega, de servicio y fraternidad, y esta perspectiva social mejorada amplía la consciencia de la Paternidad de Dios y de la hermandad del hombre."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "100:6.9",
       "pageReference": "1101.4",
       "sortId": "3.100.006.009",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "Las Marcas del Vivir Religioso",
-      "markdown": "La diferencia característica entre la religión evolucionada y la religión revelada consiste en una nueva calidad de sabiduría divina que se agrega a la sabiduría humana puramente experiencial. Pero es la experiencia con las religiones humanas la que desarrolla la capacidad para la recepción subsiguiente de los dones en aumento de la sabiduría divina y de la compenetración cósmica."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "Los indicadores del vivir religioso",
+      "markdown": "La diferencia característica entre la religión evolucionada y la revelada es una nueva cualidad de sabiduría divina que se añade a la sabiduría humana puramente experiencial. Pero es la experiencia adquirida en y con las religiones humanas la que desarrolla la capacidad de recibir posteriormente las dotes aumentadas de sabiduría divina y visión interior cósmica."
     },
     {
       "type": "section",
@@ -1099,8 +1099,8 @@
       "standardReferenceId": "100:7.0",
       "pageReference": null,
       "sortId": "3.100.007.000",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
       "markdown": null
     },
     {
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "100:7.1",
       "pageReference": "1101.5",
       "sortId": "3.100.007.001",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Aunque el mortal común de Urantia no puede esperar alcanzar la alta perfección de carácter que adquiriera Jesús de Nazaret durante su estadía mortal, es totalmente posible para cada creyente mortal desarrollar una personalidad fuerte y unificada de acuerdo con la manera perfeccionada de la personalidad de Jesús. La característica singular de la personalidad del Maestro era, no tanto su perfección, como su simetría, su exquisita y equilibrada unificación. La presentación más eficaz de Jesús consiste en seguir el ejemplo del que dijo, al señalar hacia el Maestro de pie ante sus acusadores: «¡Mirad al hombre!»"
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Aunque el mortal medio de Urantia no puede esperar alcanzar la perfección de carácter que adquirió Jesús de Nazaret durante su estancia en la carne, es enteramente posible que cada creyente mortal desarrolle una personalidad fuerte y unificada siguiendo el modelo perfecto de la personalidad de Jesús. La característica excepcional de la personalidad del Maestro no era tanto su perfección como su simetría, su excelente y equilibrada unificación. No hay mejor manera de presentar a Jesús que repetir las palabras de aquel que señaló al Maestro delante de sus acusadores: «¡He aquí al hombre!»."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "100:7.2",
       "pageReference": "1101.6",
       "sortId": "3.100.007.002",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "La ternura infalible de Jesús tocó el corazón de los hombres, pero su constante fuerza de carácter sorprendió a sus seguidores. Era verdaderamente sincero; en él no había nada de un hipocrítico. Estaba libre de toda afectación; era siempre tan refrescantemente genuino. Nunca se rebajó a pretensiones, ni recurrió a las imposturas. Vivió la verdad, incluso al enseñarla. Él fue la verdad. Se vio restringido en su proclamación de la verdad salvadora por su generación, aunque dicha sinceridad a veces le causó dolor. Era incondicionalmente leal a toda verdad."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "La amabilidad indefectible de Jesús llegaba al corazón de los hombres, pero su fuerza inquebrantable de carácter impresionaba a sus seguidores. Era sincero de verdad, no había nada hipócrita en él. Estaba libre de afectación y cautivaba por su naturalidad. Nunca se rebajó a fingir ni consintió en falsear. Vivía la verdad tal como la enseñaba. Él era la verdad. Estaba obligado a proclamar la verdad salvadora a su generación, aunque a veces esa sinceridad causara dolor. Su lealtad a toda verdad era incondicional."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "100:7.3",
       "pageReference": "1101.7",
       "sortId": "3.100.007.003",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Pero el Maestro era tan razonable, tan disponible. Demostró su sentido práctico en todo su ministerio, y todos su planes estaban caracterizados por un sentido común santificado. Estaba libre de toda tendencia extravagante, errática y excéntrica. No fue nunca caprichoso ni histérico. En todas sus enseñanzas y en cada cosa que hizo siempre había una discriminación exquisita asociada con un extraordinario sentido de lo apropiado."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "El Maestro fue siempre perfectamente razonable, muy accesible y extremadamente práctico en todo su ministerio; sus planes eran un exponente de sentido común santificado. Estuvo libre de toda tendencia extravagante, errática o excéntrica. No fue nunca caprichoso, antojadizo ni descontrolado. En todo lo que enseñaba y en todo lo que hacía había siempre un discernimiento exquisito unido a un extraordinario sentido de la corrección."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "100:7.4",
       "pageReference": "1102.1",
       "sortId": "3.100.007.004",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "El Hijo del Hombre siempre fue una personalidad aplomada. Aun sus enemigos no dejaron jamás de respetarlo plenamente; aun temían su presencia. Jesús no tenía temores. Estaba sobrecargado de entusiasmo divino, pero no se volvió jamás fanático. Era emocionalmente activo, pero nunca frívolo. Era imaginativo pero siempre práctico. Se enfrentaba francamente con las realidades de la vida, pero no fue jamás torpe ni prosaico. Era valiente, pero jamás precipitado; prudente, pero nunca cobarde. Era comprensivo pero no sentimental; singular pero no excéntrico. Era piadoso pero no mojigato. Y tenía tanto aplomo porque estaba tan perfectamente unificado."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "El Hijo del Hombre tuvo siempre una personalidad bien equilibrada. Incluso sus enemigos le tenían un cauteloso respeto; temían incluso su presencia. Jesús no tenía miedo. Estaba sobrecargado de entusiasmo divino, pero nunca se volvió fanático. Era activo emocionalmente, pero nunca veleidoso. Era imaginativo pero siempre práctico. Se enfrentaba francamente a las realidades de la vida, pero no fue nunca prosaico ni aburrido. Era valiente pero nunca temerario; prudente pero nunca cobarde. Era compasivo pero no sentimental; excepcional pero no excéntrico. Era piadoso pero no santurrón. Y estaba tan bien equilibrado porque estaba perfectamente unificado."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "100:7.5",
       "pageReference": "1102.2",
       "sortId": "3.100.007.005",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "La originalidad de Jesús era espontánea. No estaba vinculado por la tradición ni obstaculizado por la esclavitud de las convenciones estrechas. Hablaba con confianza indudable y enseñaba con autoridad absoluta. Pero su extraordinaria originalidad no lo llevó a descartar las perlas de verdad en las enseñanzas de sus predecesores y contemporáneos. Y la más original de sus enseñanzas fue el énfasis en el amor y la misericordia en lugar del temor y el sacrificio."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "La originalidad de Jesús no estaba reprimida. No estaba atado por la tradición ni limitado por la sumisión a convencionalismos estrechos. Hablaba con indiscutible confianza y enseñaba con autoridad absoluta. Pero su magnífica originalidad no le hizo pasar por alto las perlas de verdad contenidas en las enseñanzas de sus predecesores y sus contemporáneos. Lo más original de su enseñanza fue realzar el amor y la misericordia por encima del miedo y el sacrificio."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "100:7.6",
       "pageReference": "1102.3",
       "sortId": "3.100.007.006",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Jesús tenía una visión muy amplia. Él amonestaba a sus seguidores a que predicaran el evangelio a todos los pueblos. Estaba libre de toda estrechez de mente. Su corazón comprensivo abrazaba a la humanidad entera, aun a un universo. Siempre su invitación era: «Quienquiera que lo desee, que venga»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Jesús era muy amplio de miras. Exhortó a sus seguidores a predicar el evangelio a todos los pueblos. No había nada estrecho en él. Su corazón compasivo abarcaba a toda la humanidad, incluso a todo un universo. Su invitación era siempre: «Quien quiera venir, que venga»."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "100:7.7",
       "pageReference": "1102.4",
       "sortId": "3.100.007.007",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "De Jesús se dijo con verdad: «Confiaba en Dios». Como hombre entre los hombres confiaba en la forma más sublime en el Padre en los cielos. Él confiaba en su Padre como un niñito confía en su padre terrenal. Su fe era perfecta, pero jamás presuntuosa. Aunque la naturaleza pareciera cruel o indiferente al bienestar del hombre en la tierra, Jesús nunca titubeó en su fe. Era inmune al desencanto e impermeable a la persecución. El fracaso aparente no le afectaba."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "De Jesús se dijo con verdad que: «confió en Dios». Como hombre entre los hombres confiaba en el Padre del cielo de la forma más sublime. Confiaba en su Padre como un niño pequeño confía en su padre terrenal. Su fe era perfecta pero nunca presuntuosa. Por muy cruel que la naturaleza pudiera parecer o muy indiferente que pudiera ser al bienestar del hombre en la tierra, la fe de Jesús nunca vaciló. Era inmune a las decepciones e imperturbable ante las persecuciones. El fracaso aparente no le afectaba."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "100:7.8",
       "pageReference": "1102.5",
       "sortId": "3.100.007.008",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Él amó a los hombres como hermanos, reconociendo al mismo tiempo cómo diferían en dones innatos y calidades adquiridas. «Anduvo haciendo bienes»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Amaba a los hombres como hermanos al tiempo que reconocía lo diferentes que eran en dotes innatas y cualidades adquiridas. «Anduvo haciendo el bien.»"
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "100:7.9",
       "pageReference": "1102.6",
       "sortId": "3.100.007.009",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Jesús era una persona particularmente alegre, pero no era un optimista ciego e irrazonable. Su constante palabra de exhortación fue: «Tened ánimo». Podía mantener esta actitud tranquila debido a su inquebrantable confianza en Dios y a su fe firme en el hombre. Siempre fue conmovedoramente considerado de todos los hombres, porque los amaba y creía en ellos. Pero siempre se mantuvo fiel a sus convicciones y magníficamente firme en su devoción de hacer la voluntad de su Padre."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Jesús era una persona excepcionalmente alegre, pero no era un optimista ciego e irreflexivo. Su exhortación constante era: «confiad». Esta convicción provenía de su confianza a toda prueba en Dios y su fe inquebrantable en el hombre. Su consideración hacia todos los hombres era conmovedora porque los amaba y creía en ellos. En cualquier caso, fue siempre fiel a sus convicciones y magníficamente firme en su dedicación a hacer la voluntad de su Padre."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "100:7.10",
       "pageReference": "1102.7",
       "sortId": "3.100.007.010",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "El Maestro siempre fue generoso. Jamás se cansó de decir: «Más bienaventurado es dar que recibir». Él dijo: «De gracia recibisteis, dad de gracia». Y sin embargo, a pesar de su generosidad sin límites, nunca fue despilfarrador ni extravagante. Enseñó que debéis creer para recibir la salvación. «Porque el que pide, recibe»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "El Maestro fue siempre generoso. No se cansaba nunca de repetir: «Más bienaventurado es dar que recibir». Y también: «De gracia recibisteis, dad de gracia». Pero a pesar de esta generosidad sin límites, no fue nunca derrochador ni desmedido. Enseñó que hay que creer para recibir la salvación. «Porque todo el que pide recibe.»"
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "100:7.11",
       "pageReference": "1102.8",
       "sortId": "3.100.007.011",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Era sincero, pero siempre gentil. Dijo él: «Si así no fuera, yo os lo hubiera dicho». Era franco, pero siempre cordial. Hablaba libremente de su amor por el pecador y de su odio por el pecado. Pero a través de esta sinceridad sorprendente, fue infaliblemente *justo.*"
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Era directo pero siempre amable. Dijo: «Si no fuera así, os lo hubiera dicho». Era franco pero siempre cordial. Expresó categóricamente su amor al pecador y su odio al pecado, y era infaliblemente *equitativo* en su extraordinaria franqueza."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "100:7.12",
       "pageReference": "1102.9",
       "sortId": "3.100.007.012",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Jesús siempre fue alegre, a pesar de que a veces bebió profundamente de la copa del dolor humano. Se enfrentó sin temores con las realidades de la existencia, y sin embargo estaba pletórico de entusiasmo por el evangelio del reino. Pero controlaba su entusiasmo; éste nunca lo controló a él. Estaba dedicado sin reservas a «los asuntos del Padre». Este entusiasmo divino condujo a sus hermanos menos espirituales a pensar que estaba fuera de sí mismo, pero el universo que le contemplaba lo juzgó un modelo de salud mental y el modelo original de la devoción mortal suprema a las altas normas de la vida espiritual. Y su entusiasmo controlado era contagioso; sus asociados se veían obligados a compartir su optimismo divino."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "La actitud de Jesús era siempre animosa, a pesar de que algunas veces apuró la copa del dolor humano hasta el final. Afrontaba sin miedo las realidades de la existencia y estaba lleno de entusiasmo por el evangelio del reino. Pero controlaba su entusiasmo, nunca se dejó controlar por él. Estuvo dedicado sin reservas a «los asuntos del Padre». Este entusiasmo divino llevó a sus hermanos mundanos a pensar que había perdido el juicio, pero a los ojos del universo fue valorado como modelo de cordura y patrón de la entrega suprema de un mortal a los altos principios del vivir espiritual. Además su entusiasmo controlado era contagioso y empujaba a sus compañeros a compartir su optimismo divino."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "100:7.13",
       "pageReference": "1103.1",
       "sortId": "3.100.007.013",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Este hombre de Galilea no fue hombre de sufrimientos; fue un alma de alegría. Siempre decía: «Regocijaos y sed sumamente alegres». Pero cuando el deber lo exigió, estuvo listo para andar valientemente a través del «valle de la sombra de la muerte». Era jubiloso pero humilde al mismo tiempo."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Este galileo no fue hombre de penas sino un alma de alegrías. Repetía sin cesar: «Regocijaos y alegraos». Pero cuando el deber lo exigió, aceptó atravesar valientemente el «valle de sombra de muerte». Era alegre y humilde a la vez."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "100:7.14",
       "pageReference": "1103.2",
       "sortId": "3.100.007.014",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Su valentía era tan sólo igual a su paciencia. Cuando se le urgía a actuar prematuramente, él tan sólo respondía: «Mi hora no ha llegado aún». No tenía jamás prisa; su donaire era sublime. Pero frecuentemente se indignaba por el mal, era intolerante del pecado. Frecuentemente tuvo el fuerte impulso de resistir a aquello que consideraba contra el bienestar de sus hijos en la tierra. Pero su indignación contra el pecado no se transformó nunca en ira contra el pecador."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Su valor solo era igualado por su paciencia. Cuando le insistían en que actuara prematuramente, se limitaba a contestar: «Todavía no ha llegado mi hora». Nunca tenía prisa; su serenidad era sublime. Pero se indignaba a menudo con el mal y no toleraba el pecado. Muchas veces sintió el poderoso impulso de oponerse a lo que iba en contra del bienestar de sus hijos de la tierra. Pero su indignación contra el pecado nunca se convirtió en ira contra el pecador."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "100:7.15",
       "pageReference": "1103.3",
       "sortId": "3.100.007.015",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Su valor era magnífico, pero nunca fue temerario. Su palabra clave era: «No temáis». Su valentía era elevada y su coraje frecuentemente heroico. Pero su coraje estaba vinculado con la discreción y controlado por la razón. Era un coraje nacido de la fe, no la temeridad de la presunción ciega. Era verdaderamente valiente pero nunca fue audaz."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Su valor era magnífico pero nunca fue insensato. Su consigna era: «No temáis». Su valentía era noble y su coraje a menudo heroico, pero su valor estaba unido a la discreción y controlado por la razón. Era un valor nacido de la fe, no un atrevimiento ciego. Era verdaderamente valiente pero nunca temerario."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "100:7.16",
       "pageReference": "1103.4",
       "sortId": "3.100.007.016",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "El Maestro era un modelo de reverencia. La oración, aun en su juventud, comenzaba «Padre nuestro que estás en los cielos, santificado sea tu nombre». Aun respetaba la adoración defectuosa de sus semejantes. Pero esto no le impidió atacar las tradiciones religiosas o asaltar los errores de las creencias humanas. Reverenciaba la verdadera santidad, y sin embargo podía apelar con justicia a sus semejantes diciendo: «¿Quién de vosotros me redarguye de pecado?»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "El Maestro fue un modelo de veneración. Desde joven empezaba a orar diciendo: «Padre nuestro que estás en los cielos, santificado sea tu nombre». Fue siempre respetuoso con la adoración imperfecta de sus semejantes, pero eso no le impidió impugnar las tradiciones religiosas ni combatir los errores de las creencias humanas. Veneraba la verdadera santidad, y sin embargo podía apelar con razón a sus semejantes diciendo: «¿Quién de vosotros me declarará culpable de pecado?»."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "100:7.17",
       "pageReference": "1103.5",
       "sortId": "3.100.007.017",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Jesús fue grande porque era bueno; sin embargo, fraternizó con los niñitos. Era dulce y sin pretensiones en su vida personal, sin embargo era el hombre perfeccionado de un universo. Sus asociados le llamaron Maestro, sin que él lo pidiera."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Jesús era grande porque era bueno, y sin embargo fraternizaba con los niños pequeños. Era amable y modesto en su vida personal, y sin embargo era el hombre perfeccionado de un universo. Sus compañeros le dieron espontáneamente el nombre de Maestro."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "100:7.18",
       "pageReference": "1103.6",
       "sortId": "3.100.007.018",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "Jesús fue la personalidad humana perfectamente unificada. Y hoy, como en Galilea, sigue unificando la experiencia mortal y coordinando las empresas humanas. Unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevar, transformar y transfigurar. Es literalmente verdad: «Si un hombre tiene dentro de sí a Jesús Cristo, es él una criatura nueva; las cosas viejas pasaron; he aquí todas son hechas nuevas»."
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "Jesús fue la unificación perfecta de la personalidad humana. Y hoy, como en Galilea, sigue unificando la experiencia de los mortales y coordinando los empeños humanos. Él unifica la vida, ennoblece el carácter y simplifica la experiencia. Entra en la mente humana para elevarla, transformarla y transfigurarla. Es literalmente cierto que «si un hombre tiene a Cristo Jesús dentro de sí, es una criatura nueva; las cosas viejas pasaron, he aquí que todas son hechas nuevas»."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "100:7.19",
       "pageReference": "1103.7",
       "sortId": "3.100.007.019",
-      "paperTitle": "La Religión en la Experiencia Humana",
-      "sectionTitle": "La Cumbre del Vivir Religioso",
-      "markdown": "[Presentado por un Melquisedek de Nebadon.]"
+      "paperTitle": "La religión en la experiencia humana",
+      "sectionTitle": "La cima del vivir religioso",
+      "markdown": "[Presentado por un Melquisedec de Nebadon.]"
     }
   ]
 }

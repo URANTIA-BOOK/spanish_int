@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/093.md",
-  "source_sha256": "8b9e49d2d01904501e8c34f608b47de0b4e09a23b3eb83a3ca2ec0643a42ab10",
+  "source_sha256": "cee0b4cce5c88c0fbb115cefcd852aab82b5edd0a85c05e4e104c208f28e5a7d",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "93:0.0",
       "pageReference": null,
       "sortId": "3.093.000.000",
-      "paperTitle": "Maquiventa Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "93:0.0",
       "pageReference": null,
       "sortId": "3.093.000.000",
-      "paperTitle": "Maquiventa Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "93:0.1",
       "pageReference": "1014.1",
       "sortId": "3.093.000.001",
-      "paperTitle": "Maquiventa Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
       "sectionTitle": null,
-      "markdown": "LOS Melquisedek son muy conocidos como Hijos de urgencia, porque son capaces de una sorprendente gama de actividades en los mundos de un universo local. Cuando surge un problema extraordinario o cuando se ha de intentar algo poco común, muy frecuentemente es un Melquisedek quien acepta el encargo. La habilidad de los hijos Melquisedek para funcionar en urgencias y en niveles ampliamente divergentes del universo, aun en el nivel físico de la manifestación de la personalidad, es peculiar de esta orden. Sólo los Portadores de Vida comparten hasta cierto punto esta gama metamórfica de funciones de la personalidad."
+      "markdown": "LOS Melquisedec son muy conocidos como Hijos de emergencia, pues se dedican a una variedad impresionante de actividades en los mundos de un universo local. Cuando surge algún problema extraordinario o cuando hay que intentar algo fuera de lo corriente, suele ser un Melquisedec quien se encarga de la misión. La aptitud de los Hijos Melquisedec para actuar en emergencias y en niveles muy divergentes del universo, incluso en el nivel físico de manifestación de la personalidad, es propia de su orden. Solo los Portadores de Vida comparten en cierta medida esa metamórfica variedad de funciones de la personalidad."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "93:0.2",
       "pageReference": "1014.2",
       "sortId": "3.093.000.002",
-      "paperTitle": "Maquiventa Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
       "sectionTitle": null,
-      "markdown": "La orden Melquisedek de la filiación del universo ha sido altamente activa en Urantia. Un cuerpo de doce sirvió en cooperación con los Portadores de Vida. Otro cuerpo posterior de doce miembros llegó a ser los síndicos de vuestro mundo poco después de la secesión de Caligastia y continuó en su autoridad hasta los tiempos de Adán y Eva. Estos doce Melquisedek volvieron a Urantia después de la falta de Adán y Eva, y continuaron de allí en adelante como síndicos planetarios hasta el día en que Jesús de Nazaret como Hijo del Hombre, fue nombrado Príncipe Planetario de Urantia."
+      "markdown": "El orden Melquisedec de filiación del universo ha desempeñado un papel muy importante en Urantia. Un cuerpo de doce miembros colaboró con los Portadores de Vida. Posteriormente otro grupo de doce asumió la función de síndicos de vuestro mundo poco después de la secesión de Caligastia y siguió al mando hasta los tiempos de Adán y Eva. Tras la falta de Adán y Eva, estos doce Melquisedec volvieron a Urantia donde permanecieron como síndicos planetarios hasta el día en que Jesús de Nazaret, como Hijo del Hombre, se convirtió en el Príncipe Planetario nominal de Urantia."
     },
     {
       "type": "section",
@@ -91,8 +91,8 @@
       "standardReferenceId": "93:1.0",
       "pageReference": null,
       "sortId": "3.093.001.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Encarnación de Maquiventa",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La encarnación de Maquiventa",
       "markdown": null
     },
     {
@@ -109,9 +109,9 @@
       "standardReferenceId": "93:1.1",
       "pageReference": "1014.3",
       "sortId": "3.093.001.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Encarnación de Maquiventa",
-      "markdown": "La verdad revelada estaba amenazada de extinción durante los milenios que siguieron al aborto de la misión adánica en Urantia. Las razas humanas, aunque progresaban intelectualmente, estaban lentamente perdiendo terreno en el campo espiritual. Alrededor del año 3000 a. de J. C. el concepto de Dios se había vuelto muy nebuloso en la mente de los hombres."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La encarnación de Maquiventa",
+      "markdown": "La verdad revelada estuvo amenazada de extinción durante los milenios que siguieron al malogro de la misión adánica en Urantia. Aunque progresaban intelectualmente, las razas humanas iban perdiendo terreno poco a poco en el campo espiritual. Alrededor del año 3000 a. C. el concepto de Dios se había vuelto muy difuso en la mente de los hombres."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "93:1.2",
       "pageReference": "1014.4",
       "sortId": "3.093.001.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Encarnación de Maquiventa",
-      "markdown": "Los doce síndicos Melquisedek sabían del próximo autootorgamiento de Micael en el planeta, pero no sabían cuán pronto ocurriría. Por consiguiente, se reunieron en consejo solemne y solicitaron de los Altísimos de Edentia que se otorgara una disposición para mantener la luz de la verdad en Urantia. Esta súplica fue contestada mediante el mandato que declaraba «la conducta de los asuntos del número 606 de Satania está totalmente en manos de sus custodios Melquisedek». Los síndicos apelaron entonces al Padre Melquisedek, pero tan sólo recibieron un mensaje en el sentido de que debían continuar defendiendo la verdad en la manera de su propia elección «hasta la llegada de un Hijo autootorgador» quien «rescataría los títulos planetarios del despojamiento y de la inseguridad»."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La encarnación de Maquiventa",
+      "markdown": "Los doce síndicos Melquisedec sabían que el otorgamiento de Miguel en su planeta era inminente, pero no sabían cuándo ocurriría. Entonces se reunieron en consejo solemne y solicitaron a los Altísimos de Edentia que se tomaran medidas para mantener la luz de la verdad en Urantia. Su petición fue desestimada con esta respuesta: «la gestión de los asuntos del 606 de Satania es plena competencia de los custodios Melquisedec». Los síndicos apelaron entonces a la ayuda del Padre Melquisedec, pero solo recibieron instrucciones de seguir sosteniendo la verdad según su propio criterio «hasta la llegada de un Hijo de otorgamiento» que «rescataría los títulos planetarios de toda restricción e incertidumbre»."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "93:1.3",
       "pageReference": "1014.5",
       "sortId": "3.093.001.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Encarnación de Maquiventa",
-      "markdown": "Como consecuencia de haber sido abandonados tan completamente a sus propios recursos, Maquiventa Melquisedek, uno de los doce síndicos planetarios, se ofreció como voluntario para hacer lo que tan sólo se había hecho seis veces anteriormente en toda la historia de Nebadon: personalizarse en la tierra como hombre temporal del reino, otorgarse como Hijo de urgencia en el ministerio mundial. Las autoridades de Salvington expedieron el permiso para esta aventura y la encarnación misma de Maquiventa Melquisedek se consumó cerca de lo que sería eventualmente la ciudad de Salem, en Palestina. La entera transacción de la materialización de este Hijo Melquisedek fue completada por los síndicos planetarios con la cooperación de los Portadores de Vida, algunos de los Controladores Físicos Decanos y otras personalidades celestiales residentes en Urantia."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La encarnación de Maquiventa",
+      "markdown": "Al verse los síndicos planetarios tan abandonados a sus propios recursos, Maquiventa Melquisedec, uno de los doce, se ofreció voluntario para hacer lo que solo se había hecho seis veces en toda la historia de Nebadon: personalizarse en la tierra como hombre temporal del mundo y otorgarse como Hijo de emergencia para ministrar al mundo. Las autoridades de Salvington autorizaron esta aventura, y la encarnación de Maquiventa Melquisedec se hizo efectiva en Palestina cerca del emplazamiento de la futura ciudad de Salem. Los síndicos planetarios llevaron a cabo todo el proceso de materialización de este Hijo Melquisedec con la cooperación de los Portadores de Vida, de ciertos Controladores Físicos Maestros y de otras personalidades celestiales residentes en Urantia."
     },
     {
       "type": "section",
@@ -163,8 +163,8 @@
       "standardReferenceId": "93:2.0",
       "pageReference": null,
       "sortId": "3.093.002.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
       "markdown": null
     },
     {
@@ -181,9 +181,9 @@
       "standardReferenceId": "93:2.1",
       "pageReference": "1015.1",
       "sortId": "3.093.002.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "1.973 años antes del nacimiento de Jesús, Maquiventa se otorgó a las razas humanas de Urantia. Su advenimiento no fue espectacular; su materialización no fue presenciada por ojos humanos. Él fue visto por primera vez por el hombre mortal en ese día pletórico en que entró a la tienda de Amdón, un pastor caldeo de origen sumerio. Y la proclamación de su misión estuvo comprendida en la simple declaración que le hiciera a este pastor: «Soy Melquisedek, sacerdote de El Elyón, el Altísimo, el único Dios»."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Maquiventa fue otorgado a las razas humanas de Urantia 1973 años antes del nacimiento de Jesús. Su llegada no tuvo nada de espectacular; su materialización no fue presenciada por ojos humanos. Los mortales pudieron verlo por primera vez el día memorable en que entró en la tienda de Amdon, un ganadero caldeo de extracción sumeria, y en la simple declaración que hizo a este pastor quedó proclamada su misión: «Soy Melquisedec, sacerdote de El Elyón, el Altísimo, el único y solo Dios»."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "93:2.2",
       "pageReference": "1015.2",
       "sortId": "3.093.002.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "Cuando el pastor se recobró de su sorpresa, y después de doblegar a este extraño con muchas preguntas, invitó a Melquisedek a cenar con él, y fue ésta la primera vez en su larga carrera universal que Maquiventa compartía el alimento material, el alimento que habría de sostenerle a lo largo de sus noventa y cuatro años de vida como ser material."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Cuando el pastor se hubo repuesto de su asombro y después de acribillar a preguntas al desconocido, le invitó a cenar con él. Era la primera vez en su larga carrera en el universo que Maquiventa consumía comida material, el alimento que habría de sustentarlo durante los noventa y cuatro años de su vida como ser material."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "93:2.3",
       "pageReference": "1015.3",
       "sortId": "3.093.002.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "Esa noche, mientras hablaban bajo las estrellas, Melquisedek comenzó su revelación de la verdad de la realidad de Dios al volverse hacia Amdón, y decirle, con un amplio gesto del brazo: «El Elyón, el Altísimo, es el creador divino de las estrellas del firmamento y aun de esta misma tierra sobre la cual vivimos, y él también es el Dios supremo del cielo»."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Aquella noche, en su larga conversación bajo las estrellas, Melquisedec empezó a cumplir su misión de revelar la verdad de la realidad de Dios cuando se volvió hacia Amdon con un amplio movimiento del brazo y le dijo: «El Elyón, el Altísimo, es el creador divino de las estrellas del firmamento e incluso de este mismo planeta donde vivimos, y es también el Dios supremo del cielo»."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "93:2.4",
       "pageReference": "1015.4",
       "sortId": "3.093.002.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "En pocos años Melquisedek había reunido a su alrededor a un grupo de estudiantes, discípulos y creyentes que formaron el núcleo de la futura comunidad de Salem. Pronto se le conoció en toda Palestina como el sacerdote de El Elyón, el Altísimo, y como el sabio de Salem. En algunas de las tribus circunvecinas, se le denominaba el jeque, o rey, de Salem. Salem era el sitio que después de la desaparición de Melquisedek se volvió la ciudad de Jebús, posteriormente llamada Jerusalén."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "En pocos años Melquisedec había reunido a su alrededor a un grupo de alumnos, discípulos y creyentes que formaron el núcleo de la comunidad posterior de Salem. Fue conocido pronto en toda Palestina como el sacerdote de El Elyón, el Altísimo, y como el sabio de Salem. Algunas tribus de los alrededores solían referirse a él como el jeque o rey de Salem. Tras la desaparición de Melquisedec, Salem se convirtió en la ciudad de Jebús, que más tarde se llamó Jerusalén."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "93:2.5",
       "pageReference": "1015.5",
       "sortId": "3.093.002.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "En su aspecto personal, Melquisedek se asemejaba a los pueblos por entonces mezclados, nodita y sumerio, teniendo una altura de casi un metro con ochenta y poseyendo un aspecto imponente. Hablaba caldeo y media docena de otros idiomas. Vestía en forma muy semejante a la de los sacerdotes canaanitas, excepto que en su pecho llevaba un emblema de tres círculos concéntricos, el símbolo sataniano de la Trinidad del Paraíso. En el curso de su ministerio, esta insignia de tres círculos concéntricos se llegó a considerar tan sagrada que sus seguidores nunca se atrevieron a utilizarla, y fue olvidada muy pronto con el paso de unas pocas generaciones."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "La apariencia física de Melquisedec correspondía a la de los pueblos nodita y sumerio ya mezclados por entonces; medía casi un metro ochenta y tenía una presencia imponente. Hablaba caldeo y otra media docena de idiomas. Iba vestido a la manera de los sacerdotes cananeos, pero se distinguía por llevar en el pecho un emblema de tres círculos concéntricos, el símbolo que representaba en Satania a la Trinidad del Paraíso. Durante su ministerio esta insignia de tres círculos concéntricos llegó a ser tan sagrada para sus seguidores que nunca se atrevieron a utilizarla, y pronto cayó en el olvido después de algunas generaciones."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "93:2.6",
       "pageReference": "1015.6",
       "sortId": "3.093.002.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "Aunque Maquiventa vivió en la forma en que lo hacían los hombres del reino, no se casó nunca ni podría haber dejado vástagos sobre la tierra. Su cuerpo físico, aunque se parecía al del varón humano, era en realidad del orden de aquellos cuerpos especialmente construídos utilizados por los cien miembros materializados del séquito del Príncipe Caligastia, excepto que no llevaba el plasma de vida de raza humana alguna. Tampoco estaba disponible en Urantia el árbol de la vida. Si Maquiventa hubiese permanecido sobre la tierra por un largo período de tiempo, su mecanismo físico se habría deteriorado gradualmente; tal como ocurrieron las cosas, terminó su misión de autootorgamiento en noventa y cuatro años, mucho antes de que su cuerpo material comenzara a desintegrarse."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Aunque Maquiventa vivió a la manera de los hombres del mundo, nunca se casó ni podría haber dejado descendencia en el planeta. Su cuerpo físico parecía de varón humano, pero en realidad pertenecía al tipo de cuerpos especialmente fabricados que habían utilizado los cien miembros materializados del equipo del Príncipe Caligastia, con la diferencia de no ser portador de plasma vital de ninguna raza humana. Maquiventa tampoco podía disponer en Urantia del árbol de la vida. Si hubiera permanecido mucho tiempo en el planeta, su mecanismo físico se habría deteriorado gradualmente, pero lo cierto fue que terminó su misión de otorgamiento en noventa y cuatro años, mucho antes de que empezara a desintegrarse su cuerpo material."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "93:2.7",
       "pageReference": "1016.1",
       "sortId": "3.093.002.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "Este Melquisedek encarnado recibió a un Ajustador del Pensamiento quien residió en su personalidad superhumana como monitor del tiempo y mentor de la carne, acumulando de este modo experiencia e introducción práctica a los problemas de Urantia y a la técnica de residir en un Hijo encarnado, cosa que permitió que este espíritu del Padre funcionara tan valientemente en la mente humana del Hijo de Dios, Micael, cuando más adelante, apareció en la tierra en semejanza de la carne mortal. Éste fue el único Ajustador del Pensamiento que funcionara en dos mentes en Urantia, pero ambas mentes eran divinas a la vez que humanas."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Este Melquisedec encarnado recibió un Ajustador del Pensamiento que moró en el interior de su personalidad sobrehumana como monitor del tiempo y mentor de la carne. Este espíritu del Padre adquirió así experiencia práctica de los problemas de Urantia y de la técnica de morar en el interior de un Hijo encarnado, y gracias a esta experiencia pudo actuar posteriormente con tanto valor en la mente humana de Miguel, el Hijo de Dios, cuando apareció en la tierra a semejanza de carne mortal. Este es el único Ajustador del Pensamiento que ha actuado en dos mentes en Urantia, pero ambas mentes eran divinas y humanas a la vez."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "93:2.8",
       "pageReference": "1016.2",
       "sortId": "3.093.002.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Sabio de Salem",
-      "markdown": "Durante la encarnación Maquiventa se mantuvo en pleno contacto con sus once semejantes del cuerpo de custodios planetarios, pero no podía comunicarse con otras órdenes de personalidades celestiales. Aparte de los síndicos Melquisedek, no tuvo más contacto con las inteligencias superhumanas que un ser humano."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El sabio de Salem",
+      "markdown": "Durante su encarnación Maquiventa se mantuvo en pleno contacto con sus once compañeros del cuerpo de custodios planetarios, pero no se pudo comunicar con otros órdenes de personalidades celestiales. Aparte de los síndicos Melquisedec, no tuvo más contacto con inteligencias sobrehumanas que un ser humano cualquiera."
     },
     {
       "type": "section",
@@ -325,8 +325,8 @@
       "standardReferenceId": "93:3.0",
       "pageReference": null,
       "sortId": "3.093.003.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
       "markdown": null
     },
     {
@@ -343,9 +343,9 @@
       "standardReferenceId": "93:3.1",
       "pageReference": "1016.3",
       "sortId": "3.093.003.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Con el pasar de una década, Melquisedek organizó sus escuelas en Salem, según el antiguo sistema que había sido desarrollado por los primitivos sacerdotes setitas en el segundo Edén. Aun la idea de un sistema de diezmo, que fue introducido por su con-verso posterior, Abraham, también se derivaba de las tradiciones residuales de los métodos de los antiguos setitas."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "En el transcurso de una década Melquisedec organizó sus escuelas en Salem según el antiguo modelo desarrollado por los primeros sacerdotes setitas del segundo Edén. Incluso el sistema del diezmo, introducido por Abraham cuando se convirtió posteriormente, provenía también de las tradiciones supervivientes de los métodos de los antiguos setitas."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "93:3.2",
       "pageReference": "1016.4",
       "sortId": "3.093.003.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Melquisedek enseñó el concepto de un solo Dios, una Deidad universal, pero permitió que el pueblo asociara sus enseñanzas con el Padre de la Constelación de Norlatiadek, a quien denominaba El Elyón —el Altísimo. Melquisedek permaneció prácticamente silencioso en cuanto a la situación de Lucifer y el estado general en Jerusem. Lanaforge, el Soberano del Sistema, poco tuvo que ver con Urantia hasta después de la terminación del autootorgamiento de Micael. Para la mayoría de los estudiantes de Salem, Edentia era el cielo y el Altísimo era Dios."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Melquisedec enseñó el concepto de un solo Dios, de una Deidad universal, pero permitía que la gente asociara esta enseñanza con el Padre de la Constelación de Norlatiadek, a quien llamó El Elyón, el Altísimo. Melquisedec no dijo prácticamente nada sobre el estatus de Lucifer y el estado de los asuntos de Jerusem. Lanaforge, el Soberano del Sistema, tuvo poco que ver con Urantia hasta después de consumado el otorgamiento de Miguel. Para la mayoría de los estudiantes de Salem Edentia era el cielo y el Altísimo era Dios."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "93:3.3",
       "pageReference": "1016.5",
       "sortId": "3.093.003.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "El símbolo de los tres círculos concéntricos, que Melquisedek adoptó como insignia de su autootorgamiento, fue interpretado por una mayoría de la gente como símbolo de los tres reinos de los hombres, los ángeles y Dios. Se les permitió que perseveraran en esa creencia; muy pocos de sus seguidores supieron jamás que esos tres círculos eran el emblema de la infinidad, la eternidad y la universalidad de la Trinidad del Paraíso de mantenimiento y dirección divinos; aun Abraham prefirió considerar que este símbolo represente a los tres Altísimos de Edentia, puesto que se le había instruido que los tres Altísimos funcionaban como uno. Melquisedek hasta cierto punto enseñó el concepto de la Trinidad, simbolizado en su insignia, lo que generalmente relacionaba con los tres gobernantes Vorondadek de la constelación de Norlatiadek."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "El símbolo de los tres círculos concéntricos que Melquisedec adoptó como insignia de su otorgamiento fue interpretado por la mayoría de la gente como una representación de los tres reinos: el de los hombres, el de los ángeles y el de Dios. Melquisedec les permitió conservar esa creencia. Muy pocos de sus seguidores supieron nunca que esos tres círculos eran el emblema de la infinitud, la eternidad y la universalidad de la Trinidad del Paraíso en su divina función mantenedora y directora; incluso Abraham consideraba que este símbolo representaba más bien a los tres Altísimos de Edentia, puesto que le habían enseñado que los tres Altísimos actuaban como uno solo. En la medida en que Melquisedec enseñaba el concepto de la Trinidad simbolizado en su insignia, solía asociarlo a los tres regidores Vorondadek de la constelación de Norlatiadek."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "93:3.4",
       "pageReference": "1016.6",
       "sortId": "3.093.003.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Para la masa de sus seguidores, se limitó a enseñar el hecho del gobierno de los Altísimos de Edentia, los Dioses de Urantia. Pero Melquisedek enseñó la verdad avanzada a algunos, verdad que comprendía la conducta y organización del universo local, mientras que a su brillante discípulo Nordán el Ceneo y su grupo de discípulos sinceros les enseñó las verdades del superuniverso y aun de Havona."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Para la gran masa de sus seguidores Melquisedec limitó sus enseñanzas al gobierno de los Altísimos de Edentia, los Dioses de Urantia, aunque a algunos les enseñó verdades avanzadas sobre la gestión y organización del universo local. Solo a su brillante discípulo Nordan el quenita y a su dedicado grupo de estudiantes les enseñó las verdades del superuniverso e incluso de Havona."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "93:3.5",
       "pageReference": "1016.7",
       "sortId": "3.093.003.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Los familiares de Katro, con quien Melquisedek vivió más de treinta años, conocían muchas de estas verdades más elevadas y las perpetuaron por largo tiempo en su familia, hasta los días de su ilustre descendiente Moisés, quien de este modo tuvo a su disposición la imponente tradición de los días de Melquisedek proveniente de esta rama de su familia, correspondiente a su padre, a la vez que, a través de otras fuentes, por parte del linaje de su madre."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Los miembros de la familia de Katro, con quien Melquisedec vivió durante más de treinta años, conocieron muchas de estas verdades superiores y las perpetuaron largo tiempo en su familia, incluso hasta los días de su ilustre descendiente Moisés. Por su rama paterna Moisés heredó esta potente tradición de los tiempos de Melquisedec, que también le fue transmitida por otras fuentes de su rama materna."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "93:3.6",
       "pageReference": "1016.8",
       "sortId": "3.093.003.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Melquisedek enseñó a sus seguidores todo lo que ellos tenían capacidad para recibir y asimilar. Aun muchas ideas religiosas modernas sobre el cielo y la tierra, el hombre, Dios y los ángeles no están muy distantes de estas enseñanzas de Melquisedek. Pero este gran maestro subordinó todo abajo de la doctrina del Dios único, una Deidad universal, un Creador celestial, un Padre divino. Hizo hincapié sobre esta enseñanza con el propósito de atraer la adoración del hombre y de preparar el camino para la aparición subsiguiente de Micael como Hijo de este mismo Padre Universal."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Melquisedec enseñó a sus seguidores todo lo que eran capaces de recibir y asimilar. Incluso muchas ideas religiosas modernas sobre el cielo y la tierra, el hombre, Dios y las ángeles no están muy lejos de las enseñanzas de Melquisedec. Pero aquel gran maestro lo subordinó todo a la doctrina de un solo Dios, una Deidad del universo, un Creador celestial, un Padre divino. Hizo hincapié en esta enseñanza para promover la adoración humana y preparar el camino para la futura venida de Miguel como Hijo de ese mismo Padre Universal."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "93:3.7",
       "pageReference": "1017.1",
       "sortId": "3.093.003.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Melquisedek enseñó que en algún momento futuro otro Hijo de Dios vendría en la carne así como él lo había hecho, pero que nacería de una mujer; y por eso numerosos maestros futuros sostendrían que Jesús era un sacerdote, o un ministro, «para siempre de la orden de Melquisedek»."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Melquisedec enseñó que en algún momento futuro otro Hijo de Dios vendría en la carne como él había venido, pero que nacería de una mujer. Por eso muchos maestros posteriores declararon que Jesús fue sacerdote o ministro «para siempre según el orden de Melquisedec»."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "93:3.8",
       "pageReference": "1017.2",
       "sortId": "3.093.003.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Las Enseñanzas de Melquisedek",
-      "markdown": "Así pues Melquisedek preparó el camino e inició la etapa monoteísta en la tendencia mundial para el autootorgamiento de un verdadero Hijo Paradisiaco del Dios único, a quien él tan vívidamente describió como el Padre de todos, y a quien él representó a Abraham como el Dios que acepta al hombre en términos sencillos de fe personal. Y Micael, cuando apareció en la tierra, confirmó todo lo que Melquisedek había enseñado sobre el Padre del Paraíso."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Las enseñanzas de Melquisedec",
+      "markdown": "Así preparó Melquisedec el camino y estableció un escenario mundial de tendencia monoteísta para el otorgamiento de un auténtico Hijo paradisíaco del Dios único, ese Dios a quien describió tan elocuentemente como el Padre de todos, y a quien presentó a Abraham como el Dios que aceptaría al hombre bajo la simple condición de su fe personal. Cuando Miguel apareció en la tierra confirmó todo lo que había enseñado Melquisedec sobre el Padre del Paraíso."
     },
     {
       "type": "section",
@@ -487,8 +487,8 @@
       "standardReferenceId": "93:4.0",
       "pageReference": null,
       "sortId": "3.093.004.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
       "markdown": null
     },
     {
@@ -505,9 +505,9 @@
       "standardReferenceId": "93:4.1",
       "pageReference": "1017.3",
       "sortId": "3.093.004.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "Las ceremonias de adoración en Salem eran muy sencillas. Toda persona que firmaba o marcaba las nóminas en las tablas de arcilla de la iglesia de Melquisedek memorizaba la siguiente creencia y se suscribía a ella:"
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "Las ceremonias del culto de Salem eran muy sencillas. Toda persona que se inscribía con su firma o marca en las tablillas de arcilla de la Iglesia de Melquisedec aprendía de memoria y suscribía el credo siguiente:"
     },
     {
       "type": "paragraph",
@@ -523,8 +523,8 @@
       "standardReferenceId": "93:4.2",
       "pageReference": "1017.4",
       "sortId": "3.093.004.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
       "markdown": "1. Creo en El Elyón, el Dios Altísimo, el único Padre Universal y Creador de todas las cosas."
     },
     {
@@ -541,9 +541,9 @@
       "standardReferenceId": "93:4.3",
       "pageReference": "1017.5",
       "sortId": "3.093.004.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "2. Acepto el pacto de Melquisedek con el Altísimo, según el cual se me otorga el favor de Dios por mi fe, y no por sacrificios ni por holocaustos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "2. Acepto la alianza con el Altísimo promulgada por Melquisedec, que me otorga el favor de Dios por mi fe y no por sacrificios ni holocaustos."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "93:4.4",
       "pageReference": "1017.6",
       "sortId": "3.093.004.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "3. Prometo obedecer los siete mandamientos de Melquisedek y difundir la buena nueva de este pacto con el Altísimo a todos los hombres."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "3. Prometo cumplir los siete mandamientos de Melquisedec y anunciar a todos los hombres la buena nueva de esta alianza con el Altísimo."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "93:4.5",
       "pageReference": "1017.7",
       "sortId": "3.093.004.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "Constituyó ése el entero credo de la colonia de Salem. Pero aun tan corta y simple declaración de fe, era excesiva y demasiado avanzada para los hombres de esos días. Simplemente no podían aferrarse a la idea de obtener el favor divino por nada —por la fe solamente. La creencia de que el hombre había nacido para ser redimido por los dioses estaba demasiado arraigada en ellos. Demasiado tiempo y con demasiada sinceridad habían sacrificado ellos y obsequiado a los sacerdotes, como para ser capaces de comprender la buena nueva de que la salvación, el favor divino, fuese un don gratis para todos los que quisieran creer en el pacto de Melquisedek. Abraham sí creyó pero sin entusiasmo, y aun eso «le fue contado por justicia»."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "En esto consistía todo el credo de la colonia de Salem, pero incluso esta declaración de fe tan breve y sencilla era excesiva y demasiado avanzada para los hombres de aquella época. Eran totalmente incapaces de captar la idea de que el favor divino se obtiene a cambio de nada: por la fe. Tenían demasiado arraigada la creencia de que el hombre había nacido en deuda con los dioses. Llevaban tanto tiempo sacrificándose y haciendo regalos a los sacerdotes y con tanta convicción que no podían asimilar la buena nueva de que la salvación, el favor divino, era un regalo gratuito para todos los que quisieran creer en la alianza promulgada por Melquisedec. Abraham creyó aunque con poca convicción, e incluso eso «se le tomó en cuenta como justicia»."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "93:4.6",
       "pageReference": "1017.8",
       "sortId": "3.093.004.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "Los siete mandamientos promulgados por Melquisedek se modelaban según la suprema ley antigua de Dalamatia y se asemejaban mucho a los siete mandamientos enseñados en el primer Edén y el segundo. Estos mandamientos de la religión salemita eran:"
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "Los siete mandamientos que promulgó Melquisedec seguían el modelo de la suprema ley de los antiguos dalamatianos y se parecían mucho a los siete mandamientos enseñados en el primer y el segundo Edén. Estos eran los mandamientos de la religión de Salem:"
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "93:4.7",
       "pageReference": "1017.9",
       "sortId": "3.093.004.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "1. No servirás a ningún Dios sino al Creador Altísimo del cielo y de la tierra."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "1. No servirás a ningún Dios más que al Creador Altísimo del cielo y de la tierra."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "93:4.8",
       "pageReference": "1017.10",
       "sortId": "3.093.004.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "2. No dudarás de que la fe es el único requisito para la salvación eterna."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "2. No pondrás en duda que la fe es el único requisito para la salvación eterna."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "93:4.9",
       "pageReference": "1017.11",
       "sortId": "3.093.004.009",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "3. No darás falso testimonio."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "3. No levantarás falso testimonio."
     },
     {
       "type": "paragraph",
@@ -667,8 +667,8 @@
       "standardReferenceId": "93:4.10",
       "pageReference": "1017.12",
       "sortId": "3.093.004.010",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
       "markdown": "4. No matarás."
     },
     {
@@ -685,8 +685,8 @@
       "standardReferenceId": "93:4.11",
       "pageReference": "1017.13",
       "sortId": "3.093.004.011",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
       "markdown": "5. No robarás."
     },
     {
@@ -703,8 +703,8 @@
       "standardReferenceId": "93:4.12",
       "pageReference": "1018.1",
       "sortId": "3.093.004.012",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
       "markdown": "6. No cometerás adulterio."
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "93:4.13",
       "pageReference": "1018.2",
       "sortId": "3.093.004.013",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "7. No mostrarás falta de respeto a tus padres y a ancianos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "7. No faltarás al respeto a tus padres ni a tus mayores."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "93:4.14",
       "pageReference": "1018.3",
       "sortId": "3.093.004.014",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "Aunque no se permitían sacrificios dentro de la colonia, Melquisedek sabía cuán difícil es arrancar repentinamente costumbres largamente establecidas y por consiguiente ofreció sabiamente a este pueblo el sustituto de un sacramento de pan y vino en vez del antiguo sacrificio de carne y sangre. Existe el registro: «Melquisedek, rey de Salem, sacó pan y vino». Pero aún esta innovación cauta no consiguió implantarse del todo. Las varias tribus mantenían centros auxiliares en las afueras de Salem en los que ofrecían sacrificios y holocaustos, ofrendas quemadas. Aun Abraham cayó en esta práctica bárbara después de su victoria sobre Quedorlaomer; simplemente no se sentía completamente tranquilo hasta no haber hecho un sacrificio convencional. Así pues Melquisedek no consiguió nunca erradicar completamente esta tendencia al sacrificio en las prácticas religiosas de sus seguidores, ni siquiera de Abraham."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "Aunque los sacrificios no estaban permitidos dentro de la colonia, Melquisedec sabía muy bien lo difícil que es desarraigar de golpe costumbres largamente establecidas, por eso propuso sabiamente a esas gentes sustituir los antiguos sacrificios de carne y sangre por un sacramento de pan y vino. Está escrito que «Melquisedec, rey de Salem, trajo pan y vino». Pero esta prudente innovación no obtuvo todo el efecto deseado: las diversas tribus tenían centros auxiliares a las afueras de Salem donde todas ofrecían sacrificios y holocaustos. El propio Abraham recurrió a esta bárbara costumbre tras su victoria sobre Quedorlaomer simplemente porque sabía que no se sentiría plenamente tranquilo si no ofrecía un sacrificio convencional. Así que Melquisedec no consiguió erradicar del todo la tendencia a los sacrificios de las prácticas religiosas de sus seguidores, ni siquiera de Abraham."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "93:4.15",
       "pageReference": "1018.4",
       "sortId": "3.093.004.015",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "Como Jesús, Melquisedek se dedicó estrictamente al cumplimiento de la misión de su autootorgamiento. No intentó reformar las costumbres establecidas, cambiar los hábitos del mundo, ni promulgar siquiera prácticas sanitarias avanzadas ni verdades científicas. Vino para llevar a cabo dos tareas: Mantener viva en la tierra la verdad del Dios único y preparar el camino para el autootorgamiento en forma mortal subsiguiente de un Hijo Paradisiaco de ese Padre Universal."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "Melquisedec, como Jesús, se dedicó estrictamente a cumplir su misión de otorgamiento. No intentó reformar los usos y costumbres ni cambiar los hábitos del mundo, ni siquiera promover prácticas sanitarias o verdades científicas avanzadas. Vino para llevar a cabo dos tareas: mantener viva en el planeta la verdad del Dios único y preparar el camino para el otorgamiento posterior como mortal de un Hijo paradisiaco de ese Padre Universal."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "93:4.16",
       "pageReference": "1018.5",
       "sortId": "3.093.004.016",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Religión de Salem",
-      "markdown": "La verdad revelada la enseñó Melquisedek en Salem en forma elemental por noventa y cuatro años, y durante este período Abraham asistió a la escuela de Salem en tres ocasiones distintas. Finalmente se convirtió a las enseñanzas de Salem, tornándose uno de los más brillantes discípulos de Melquisedek y de sus principales sostenedores."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La religión de Salem",
+      "markdown": "Melquisedec enseñó durante noventa y cuatro años verdad revelada elemental en Salem. Abraham asistió a la escuela de Salem en tres ocasiones hasta que se convirtió por fin a sus enseñanzas. Llegó a ser uno de los alumnos más brillantes de Melquisedec y uno de sus principales partidarios."
     },
     {
       "type": "section",
@@ -793,8 +793,8 @@
       "standardReferenceId": "93:5.0",
       "pageReference": null,
       "sortId": "3.093.005.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
       "markdown": null
     },
     {
@@ -811,9 +811,9 @@
       "standardReferenceId": "93:5.1",
       "pageReference": "1018.6",
       "sortId": "3.093.005.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Aunque sea erróneo hablar del «pueblo elegido», no es equivocación referirse a Abraham como ser elegido. Melquisedek sí dio a Abraham el encargo de mantener viva la verdad del Dios único diferenciado de la creencia común en deidades plurales."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Aunque puede ser un error hablar de «pueblo elegido», no es equivocado referirse a Abraham como persona elegida. Melquisedec confió a Abraham la responsabilidad de mantener viva la verdad del Dios único en contraste con la creencia predominante en deidades plurales."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "93:5.2",
       "pageReference": "1018.7",
       "sortId": "3.093.005.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "La elección de Palestina como sitio de las actividades de Maquiventa se debió en parte al deseo de establecer contacto con una familia humana que personificara potenciales de liderazgo. Al tiempo de la encarnación de Melquisedek había muchas familias sobre la tierra tan preparadas para recibir las doctrinas de Salem como la de Abraham. Existían familias igualmente dotadas entre los hombres rojos, los hombres amarillos y los descendientes de los anditas al oeste y al norte. Pero, nuevamente, ninguna de estas ubicaciones estaba tan favorablemente situada para la subsiguiente aparición sobre la tierra de Micael como la costa oriental del Mar Mediterráneo. La misión de Melquisedek en Palestina y la subsiguiente aparición de Micael entre el pueblo hebreo fueron determinados en gran medida por la geografía, por el hecho de que Palestina tenía una ubicación central respecto al comercio, las vías de comunicación y la civilización del mundo de aquel entonces."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Una de las razones que motivaron la elección de Palestina como sede de las actividades de Maquiventa fue el propósito de establecer contacto con una familia humana que mostrara potencial de liderazgo. En el momento de la encarnación de Melquisedec había muchas familias en el planeta tan bien preparadas como la de Abraham para recibir la doctrina de Salem. Había familias igualmente dotadas entre los hombres rojos, los hombres amarillos y los descendientes de los anditas del oeste y del norte. Sin embargo ninguna de ellas estaba ubicada en un lugar tan favorable para la aparición posterior de Miguel en la tierra como la costa este del mar Mediterráneo. La misión de Melquisedec en Palestina y la aparición posterior de Miguel entre el pueblo hebreo estuvieron determinadas en gran medida por la geografía, por la situación céntrica de Palestina respecto al comercio, las comunicaciones y las civilizaciones existentes entonces en el mundo."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "93:5.3",
       "pageReference": "1018.8",
       "sortId": "3.093.005.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Por algún tiempo los síndicos Melquisedek habían estado observando a los antepasados de Abraham, y anticipaban confiadamente la aparición en cierta generación de vástagos que se caracterizarían por su inteligencia, iniciativa, sagacidad y sinceridad. Los hijos de Taré, el padre de Abraham, cumplieron en todas sus facetas con estas esperanzas. Fue esta posibilidad de contacto con los versátiles hijos de Taré la que tuvo considerable influencia sobre la aparición de Maquiventa en Salem, en vez de Egipto, la China, la India o las tribus nórdicas."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Los síndicos Melquisedec llevaban ya tiempo observando a los antepasados de Abraham y anticipaban que alguna generación produciría descendientes caracterizados por su inteligencia, iniciativa, sagacidad y sinceridad. Los hijos de Taré, el padre de Abraham, respondían a sus expectativas en todos los sentidos. Esta posibilidad de contacto con los polifacéticos hijos de Taré determinó considerablemente la aparición de Maquiventa en Salem y no en Egipto, China, la India o entre las tribus del norte."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "93:5.4",
       "pageReference": "1019.1",
       "sortId": "3.093.005.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Taré y su entera familia creían a medias en la religión de Salem, que se había predicado en Caldea; supieron de Melquisedek a través de los sermones de Ovid, maestro fenicio que proclamó la doctrina de Salem en Ur. Salieron de Ur con la idea de ir directamente a Salem, pero Nacor, el hermano de Abraham, no habiendo conocido a Melquisedek, no estaba del todo convencido y los persuadió de que se detuvieran en Harán. Mucho tiempo pasó, después de llegar a Palestina, antes de que estuvieran dispuestos a destruir *todos* los dioses del hogar que habían traído consigo; abandonaron lentamente los muchos dioses de Mesopotamia, a favor del Dios único de Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Taré y toda su familia estaban ya medio convertidos a la religión de Salem, que había sido predicada en Caldea por Ovidio, un maestro fenicio que proclamó las doctrinas de Salem en Ur; por esa predicación conocieron también la existencia de Melquisedec. Salieron de Ur con intención de llegar directamente a Salem, pero Nacor, el hermano de Abraham, insistió en que se quedaran en Harán porque no había visto a Melquisedec y no estaba muy convencido. Mucho tiempo después de su llegada a Palestina se decidieron por fin a destruir *todos* los dioses domésticos que habían traído consigo. Tardaron mucho en renunciar a los numerosos dioses de Mesopotamia y sustituirlos por el Dios único de Salem."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "93:5.5",
       "pageReference": "1019.2",
       "sortId": "3.093.005.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Pocas semanas después de la muerte de Taré, el padre de Abraham, Melquisedek envió a uno de sus discípulos, Jarán el Heteo, para que invitara tanto a Abraham como a Nacor: «Venid a Salem, escucharéis allí nuestras enseñanzas de la verdad del Creador eterno, y en vuestros vástagos esclarecidos, el mundo será bendecido». Pero Nacor no había aceptado totalmente el evangelio de Melquisedek; decidió quedarse donde estaba y construyó una fuerte ciudad-estado que llevó su nombre; pero Lot, el sobrino de Abraham, decidió acompañar a su tío a Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "A las pocas semanas de morir Taré, el padre de Abraham, Melquisedec envió a uno de sus estudiantes, Jarán el Hitita, con esta invitación tanto para Abraham como para Nacor: «Venid a Salem donde escucharéis nuestras enseñanzas sobre la verdad del Creador eterno, y todo el mundo será bendecido en la progenie iluminada de los dos hermanos». Pero Nacor no había aceptado del todo el evangelio de Melquisedec, así que no fue y construyó una poderosa ciudad-Estado que llevó su nombre. En cambio Lot, el sobrino de Abraham, decidió ir a Salem con su tío."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "93:5.6",
       "pageReference": "1019.3",
       "sortId": "3.093.005.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Después de llegar a Salem, Abraham y Lot seleccionaron una fortaleza en las colinas cerca de la ciudad, para poder defenderse de los muchos ataques sorpresivos de los invasores del norte. En esta época los heteos, asirios, filisteos y otros grupos se incursionaban constantemente en las tribus de Palestina central y meridional. Desde su fortaleza en las colinas, Abraham y Lot hicieron peregrinajes frecuentes a Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Al llegar a Salem Abraham y Lot eligieron una fortaleza en las colinas cercanas a la ciudad, donde pudieran defenderse de los muchos ataques sorpresa de los saqueadores del norte. En aquel tiempo, los hititas, asirios, filisteos y otros grupos asaltaban constantemente a las tribus del centro y sur de Palestina. Desde su plaza fuerte de las colinas Abraham y Lot peregrinaban a Salem con frecuencia."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "93:5.7",
       "pageReference": "1019.4",
       "sortId": "3.093.005.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "No mucho tiempo después de haberse establecido cerca de Salem, Abraham y Lot viajaron al valle del Nilo para adquirir alimentos, puesto que había una sequía en Palestina. Durante su breve estadía en Egipto, Abraham halló a un pariente distante en el trono egipcio, y sirvió como comandante en dos expediciones militares de gran éxito para este rey. Durante la última parte de su estadía en el valle del Nilo, él y su esposa, Sara, vivieron en la corte, y al salir de Egipto, él recibió parte de los despojos de sus campañas militares."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Poco después de haberse instalado cerca de Salem, Abraham y Lot viajaron al valle del Nilo en busca de víveres, pues había entonces sequía en Palestina. Durante su breve estancia en Egipto Abraham encontró a un pariente lejano en el trono egipcio y encabezó dos expediciones militares victoriosas para este rey. Durante la última parte de su estancia en el Nilo, él y su esposa Sara vivieron en la corte, y cuando se marcharon de Egipto recibió una parte del botín de sus campañas militares."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "93:5.8",
       "pageReference": "1019.5",
       "sortId": "3.093.005.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Abraham hubo de apelar a una gran firmeza para dejar atrás los honores de la corte egipcia y volver a la tarea más espiritual patrocinada por Maquiventa. Pero Melquisedek era reverenciado aun en Egipto, y cuando se le planteó la situación en su totalidad al faraón, éste instó encarecidamente a Abraham que fuese a cumplir con sus votos para con la causa de Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Abraham hizo gala de gran determinación cuando renunció a los honores de la corte egipcia para volver al trabajo más espiritual patrocinado por Maquiventa. Pero Melquisedec era venerado hasta en Egipto, y cuando el faraón tuvo conocimiento de toda la situación, él mismo instó encarecidamente a Abraham a que fuera a cumplir sus compromisos con la causa de Salem."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "93:5.9",
       "pageReference": "1019.6",
       "sortId": "3.093.005.009",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Abraham tenía ambiciones monárquicas, y camino de vuelta de Egipto planteó a Lot su plan dirigido a sojuzgar todo Canaán y su pueblo al gobierno de Salem. Lot se interesaba más por los negocios; por lo tanto, después de un desacuerdo que surgió posteriormente, se fue a Sodoma para ocuparse del comercio y de la ganadería. A Lot no le apetecía ni la vida militar ni la vida de pastor."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Abraham tenía ambiciones regias, y en el camino de vuelta de Egipto expuso a Lot su plan de dominar todo Canaán y poner a sus gentes bajo el gobierno de Salem. A Lot le interesaban más los negocios, y después de una discusión posterior se marchó a Sodoma para dedicarse al comercio y la ganadería. No le gustaba ni la vida militar ni la vida de pastor."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "93:5.10",
       "pageReference": "1019.7",
       "sortId": "3.093.005.010",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Al retornar con su familia a Salem, Abraham comenzó a madurar sus proyectos militares. Muy pronto se le reconoció como gobernante civil del territorio de Salem y tuvo bajo su liderazgo una confederación de siete tribus adyacentes. En efecto, con gran dificultad pudo Melquisedek frenar a Abraham, ardiente de fervor por salir a conquistar las tribus circunvecinas con la espada para que éstas pudiesen llegar más prontamente al conocimiento de las verdades salemitas."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Cuando volvió a Salem con su familia, Abraham empezó a madurar sus proyectos militares. Pronto fue reconocido como regidor civil del territorio de Salem y confederó a siete tribus cercanas bajo su liderazgo. De hecho, Melquisedec se vio obligado a contener a duras penas a Abraham, que ardía de entusiasmo por reunir las tribus vecinas a golpe de espada para poder transmitirles cuanto antes las verdades de Salem."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "93:5.11",
       "pageReference": "1019.8",
       "sortId": "3.093.005.011",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Melquisedek mantenía relaciones pacíficas con todas las tribus circunvecinas; no era militarista y nunca fue atacado por ningún ejército de los que iban y venían. Estaba enteramente de acuerdo en que Abraham planteara una política de defensa para Salem, semejante a la que eventualmente se puso en vigor, pero no quería aprobar los esquemas ambiciosos de su discípulo para la conquista; por esto hubo una ruptura amistosa de relaciones, y Abraham se trasladó a Hebrón para establecer su capital militar."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Melquisedec mantenía relaciones pacíficas con todas las tribus de los alrededores; no era militarista y nunca fue atacado por ninguno de los ejércitos que iban y venían por la zona. Estaba totalmente a favor de que Abraham implementara una política defensiva para Salem como la que se puso en práctica más adelante, pero no veía con buenos ojos los ambiciosos planes de conquista de su discípulo. Esto terminó provocando una ruptura amistosa entre ellos y Abraham se marchó a Hebrón para establecer su capital militar."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "93:5.12",
       "pageReference": "1020.1",
       "sortId": "3.093.005.012",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Abraham, en vista de su estrecha relación con el ilustre Melquisedek, poseía gran ventaja sobre los reyezuelos circunvecinos; todos ellos reverenciaban a Melquisedek y temían indebidamente a Abraham. Abraham conocía este temor y tan sólo esperaba la ocasión oportuna para atacar a sus vecinos, y esta excusa se le presentó cuando algunos de estos gobernantes tuvieron la presunción de incursionarse en la propiedad de su sobrino Lot, que residía en Sodoma. Al oír de este acontecimiento, Abraham, a la cabeza de sus siete tribus confederadas, se abalanzó sobre el enemigo. Su guardia de cuerpo personal de 318 dirigía el ejército, que contaba con más de 4.000 soldados al momento del ataque."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Por su estrecha relación con el ilustre Melquisedec, Abraham poseía una gran ventaja sobre los reyezuelos de los alrededores; todos ellos veneraban a Melquisedec y temían exageradamente a Abraham. Abraham sabía que le tenían miedo y solo esperaba la ocasión oportuna para atacar a sus vecinos. El pretexto surgió cuando algunos de esos dirigentes se atrevieron a asaltar la propiedad de su sobrino Lot, que vivía en Sodoma. En cuanto Abraham se enteró se abalanzó sobre el enemigo en cabeza de sus siete tribus confederadas. Los 318 miembros de su escolta personal formaban los mandos del ejército de más de 4000 soldados que atacó en esa ocasión."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "93:5.13",
       "pageReference": "1020.2",
       "sortId": "3.093.005.013",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Cuando Melquisedek supo de la declaración de guerra de Abraham, salió para disuadirle, pero tan sólo le alcanzó cuando su ex-discípulo volvía victorioso de la batalla. Abraham insistió que el Dios de Salem le había otorgado la victoria sobre sus enemigos y persistió en entregar un décimo del botín al tesoro de Salem. El noventa por ciento restante se lo llevó a su capital en Hebrón."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Cuando Melquisedec se enteró de la declaración de guerra de Abraham salió a disuadirlo, pero solo pudo alcanzarlo cuando su antiguo discípulo volvía victorioso de la batalla. Abraham insistió en que el Dios de Salem le había dado la victoria sobre sus enemigos y se empeñó en donar la décima parte de su botín al tesoro de Salem. El otro noventa por ciento lo trasladó a su capital en Hebrón."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "93:5.14",
       "pageReference": "1020.3",
       "sortId": "3.093.005.014",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Selección de Abraham",
-      "markdown": "Después de esta batalla de Sidim, Abraham se volvió el líder de una segunda confederación de once tribus y no sólo pagaba diezmos a Melquisedek sino que se ocupó de que todos los demás en esas tierras hicieran lo mismo. Sus relaciones diplomáticas con el rey de Sodoma, juntamente con el temor que todos le tenían, dieron como resultado el hecho de que el rey de Sodoma y otros se uniesen a la confederación militar de Hebrón; Abraham estaba estableciendo un poderoso estado en Palestina."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La elección de Abraham",
+      "markdown": "Después de esta batalla de Sidim Abraham se convirtió en el líder de una segunda confederación de once tribus y no solo pagaba diezmos a Melquisedec sino que velaba por que todos los de la zona hicieran lo mismo. Sus relaciones diplomáticas con el rey de Sodoma, junto con el miedo que todos le tenían, dieron como resultado que el rey de Sodoma y otros se unieran a la confederación militar de Hebrón. Abraham iba muy bien encaminado a establecer un poderoso Estado en Palestina."
     },
     {
       "type": "section",
@@ -1063,8 +1063,8 @@
       "standardReferenceId": "93:6.0",
       "pageReference": null,
       "sortId": "3.093.006.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
       "markdown": null
     },
     {
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "93:6.1",
       "pageReference": "1020.4",
       "sortId": "3.093.006.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Abraham visualizaba la conquista de todo Canaán. Su determinación tan sólo estaba debilitada por el hecho de que Melquisedek no quería sancionar la empresa. Pero Abraham había prácticamente decidido embarcarse en la conquista cuando comenzó a preocuparse por el hecho de que no tenía un hijo que le sucediese como gobernante de su futuro reino. Dispuso otra entrevista con Melquisedek; y fue en el curso de esta entrevista de la que el sacerdote de Salem, el Hijo visible de Dios, persuadió a Abraham a que abandonara el plan de conquista material y del gobierno temporal en favor del concepto espiritual del reino de los cielos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "Abraham proyectaba conquistar todo Canaán; su determinación solo flaqueaba por el hecho de que Melquisedec no quería sancionar la iniciativa. A pesar de eso estaba casi decidido a acometer la empresa cuando empezó a preocuparle la idea de no tener un hijo para sucederlo en el gobierno de su futuro reino. Entonces concertó otra entrevista con Melquisedec, y en esa conversación fue cuando el sacerdote de Salem, el Hijo visible de Dios, persuadió a Abraham de abandonar sus planes de conquista material y gobierno temporal en favor del concepto espiritual del reino de los cielos."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "93:6.2",
       "pageReference": "1020.5",
       "sortId": "3.093.006.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Melquisedek explicó a Abraham la futilidad de pelear con la confederación amorita pero aclaró también que estos clanes atrasados estaban con seguridad cometiendo suicidio mediante sus tontas prácticas, de modo que en pocas generaciones tanto se debilitarían que los descendientes de Abraham, entre tanto grandemente aumentados, fácilmente podrían derrotarlos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "Melquisedec explicó a Abraham la futilidad de luchar contra la confederación amorita, pero también le dejó muy claro que esos clanes atrasados se estaban suicidando con sus prácticas insensatas y en pocas generaciones estarían tan debilitados que serían dominados sin problema por los descendientes de Abraham, que se habrían multiplicado considerablemente para entonces."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "93:6.3",
       "pageReference": "1020.6",
       "sortId": "3.093.006.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Melquisedek hizo un pacto formal con Abraham en Salem. Díjole a Abraham: «Mira ahora los cielos, y cuenta las estrellas, si las puedes contar; así numerosa será tu simiente». Abraham creyó lo que Melquisedek decía, «y eso le fue contado por justicia». Y entonces Melquisedek contó a Abraham la historia de la ocupación futura de Canaán por sus descendientes después de su estadía en Egipto."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "Melquisedec hizo una alianza formal con Abraham en Salem. Le dijo: «Levanta ahora los ojos al cielo y cuenta las estrellas si puedes; tan numerosa será tu simiente». Y Abraham creyó a Melquisedec, «y esto se le tomó en cuenta como justicia». Entonces Melquisedec contó a Abraham la historia de la futura ocupación de Canaán por sus descendientes tras su estancia en Egipto."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "93:6.4",
       "pageReference": "1020.7",
       "sortId": "3.093.006.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Este pacto de Melquisedek con Abraham representa el gran acuerdo en Urantia entre la divinidad y la humanidad mediante el cual Dios acuerda hacer *todo,* el hombre tan sólo acuerda *creer* en las promesas de Dios y seguir sus instrucciones. Hasta ese momento se había creído que la salvación tan sólo se podía obtener por obras — sacrificios y ofrendas; ahora, Melquisedek nuevamente trajo a Urantia la buena nueva de que la salvación, el favor de Dios, se obtiene por la *fe.* Pero este evangelio de la simple fe en Dios era demasiado avanzado; los hombres de las tribus semíticas posteriormente prefirieron volver a los sacrificios más antiguos y al sistema de expiación de los pecados mediante el derramamiento de sangre."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "Esta alianza de Melquisedec con Abraham representa el gran acuerdo urantiano entre la divinidad y la humanidad en virtud del cual Dios acepta hacerlo *todo*; el hombre solo acepta *creer* en las promesas de Dios y seguir sus instrucciones. Hasta entonces se había creído que solo se podía conseguir la salvación mediante obras: sacrificios y ofrendas; en ese momento Melquisedec volvía a traer a Urantia la buena nueva de que la salvación, el favor de Dios, se obtiene mediante la *fe*. Pero este evangelio de la simple fe en Dios era demasiado avanzado. Con el tiempo las tribus semíticas prefirieron volver a los antiguos sacrificios y a la expiación de los pecados por derramamiento de sangre."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "93:6.5",
       "pageReference": "1021.1",
       "sortId": "3.093.006.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "No mucho después del establecimiento de este pacto, nació Isaac, el hijo de Abraham, de acuerdo con la promesa de Melquisedek. Después del nacimiento de Isaac, Abraham adoptó una actitud solemne hacia su pacto con Melquisedek, yendo a Salem para suscribirlo por escrito. Fue en esta ceremonia pública y formal de aceptación del pacto cuando cambió su nombre de Abram a Abraham."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "No mucho después del establecimiento de esta alianza nació Isaac, el hijo de Abraham, conforme a la promesa de Melquisedec. Tras el nacimiento de Isaac, Abraham adoptó una actitud muy solemne respecto a su alianza con Melquisedec y fue a Salem para consignarla por escrito. Fue en esta aceptación pública y formal de la alianza cuando cambió su nombre de Abram a Abraham."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "93:6.6",
       "pageReference": "1021.2",
       "sortId": "3.093.006.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "La mayor parte de los creyentes de Salem habían practicado la circuncisión, aunque Melquisedek nunca habia hecho ésta obligatoria. Abraham por otra parte se había opuesto siempre a la circuncisión, de modo que en esta ocasión decidió solemnizar el evento aceptando formalmente este rito como muestra de la ratificación del pacto de Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "La mayoría de los creyentes de Salem habían practicado la circuncisión, aunque Melquisedec no la había hecho nunca obligatoria. Pues bien, Abraham, que tanto se había opuesto siempre a la circuncisión, decidió en esta ocasión solemnizar el acontecimiento aceptando formalmente este rito como prueba de la ratificación de la alianza de Salem."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "93:6.7",
       "pageReference": "1021.3",
       "sortId": "3.093.006.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Fue esta rendición pública y real de sus ambiciones personales a favor de los planes más grandes de Melquisedek después de que los tres seres celestiales se le aparecieron en las llanuras de Mamré. Ésta fue una aparición de hecho, a pesar de su asociación con las narrativas posteriormente inventadas relacionadas con la destrucción natural de Sodoma y Gomorra. Y estas leyendas de los acontecimientos de aquellos días indican cuán retrasadas estaban la moral y la ética aun en esa época comparativamente tan reciente."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "A continuación de esta renuncia real y pública a sus ambiciones personales en favor de los planes más amplios de Melquisedec se le aparecieron los tres seres celestiales en las llanuras de Mambré. Esta aparición fue un hecho real, aunque se asociara luego con narraciones inventadas posteriormente en torno a la destrucción natural de Sodoma y Gomorra. Esas leyendas sobre los sucesos de aquellos días muestran lo atrasadas que estaban la moral y la ética incluso en tiempos tan recientes."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "93:6.8",
       "pageReference": "1021.4",
       "sortId": "3.093.006.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Pacto de Melquisedek con Abraham",
-      "markdown": "Con la consumación del pacto solemne, la reconciliación entre Abraham y Melquisedek estuvo completa. Abraham volvió a tomar el liderazgo civil y militar de la colonia de Salem, que en su cúspide contaba con más de cien mil contribuyentes regulares al diezmo en las nóminas de la fraternidad de Melquisedek. Abraham mejoró grandemente el templo de Salem y proveyó nuevas tiendas para toda la escuela. No sólo amplió el sistema de diezmo sino que también instituyó muchos métodos mejorados de conducir los negocios de la escuela, además de contribuir grandemente a la mejor gerencia del departamento de propaganda misionera. También hizo mucho por mejorar los rebaños y reorganizar la industria lechera de Salem. Abraham era un comerciante astuto y eficiente, un hombre rico para esas épocas; no era particularmente piadoso, pero sí totalmente sincero y creía en Maquiventa Melquisedek."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "La alianza de Melquisedec con Abraham",
+      "markdown": "Con la consumación de la alianza solemne la reconciliación entre Abraham y Melquisedec fue completa. Abraham retomó la dirección civil y militar de la colonia de Salem, que contaba en su apogeo con más de cien mil contribuyentes regulares al diezmo en las listas de la hermandad de Melquisedec. Abraham mejoró considerablemente el templo de Salem y proporcionó nuevas tiendas para toda la escuela. No solo amplió el sistema del diezmo, sino que perfeccionó los métodos de gestión de la escuela, además de contribuir de forma importante al mejor manejo de la sección de propaganda misionera. Hizo también mucho por introducir mejoras en la ganadería y reorganizar los proyectos lecheros de Salem. Abraham era un hombre de negocios sagaz y eficiente, un hombre rico para su tiempo; no era demasiado piadoso, pero sí totalmente sincero, y creía en Maquiventa Melquisedec."
     },
     {
       "type": "section",
@@ -1225,8 +1225,8 @@
       "standardReferenceId": "93:7.0",
       "pageReference": null,
       "sortId": "3.093.007.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Los Misioneros Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Los misioneros de Melquisedec",
       "markdown": null
     },
     {
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "93:7.1",
       "pageReference": "1021.5",
       "sortId": "3.093.007.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Los Misioneros Melquisedek",
-      "markdown": "Melquisedek siguió instruyendo por varios años a sus estudiantes y adiestrando a los misioneros salemitas, quienes penetraron a todas las tribus circunvecinas, particularmente en Egipto, Mesopotamia y Asia Menor. A medida que pasaban las décadas, estos maestros se alejaban cada vez más de Salem, llevando consigo el evangelio de Maquiventa de la creencia y la fe en Dios."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Los misioneros de Melquisedec",
+      "markdown": "Melquisedec siguió unos años más instruyendo a sus estudiantes y formando a los misioneros de Salem, que penetraron en todas las tribus de los alrededores, especialmente en Egipto, Mesopotamia y Asia Menor. Con el paso de las décadas estos maestros se alejaron cada vez más de Salem llevando con ellos el evangelio de creencia y fe en Dios de Maquiventa."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "93:7.2",
       "pageReference": "1021.6",
       "sortId": "3.093.007.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Los Misioneros Melquisedek",
-      "markdown": "Los descendientes de Adansón, agrupados en las orillas del lago de Van, escucharon ávidamente a los maestros heteos del culto salemita. Desde este antiguo centro andita, se enviaron maestros a las regiones más remotas tanto de Europa como de Asia. Los misioneros de Salem penetraron en toda Europa, hasta las Islas Británicas. Un grupo fue por el camino de Faroes hasta los andonitas en Islandia, mientras que otro atravesó China y llegó a los japoneses de las islas orientales. La vida y experiencias de los hombres y mujeres que se aventuraron desde Salem, Mesopotamia y el lago Van para esclarecer a las tribus del hemisferio oriental constituyen un capítulo heroico en los anales de la raza humana."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Los misioneros de Melquisedec",
+      "markdown": "Los descendientes de Adamson, agrupados a las orillas del lago Van, escuchaban con interés a los maestros hititas del culto de Salem. Desde este antiguo centro andita salieron maestros hacia las regiones remotas de Europa y Asia. Los misioneros de Salem penetraron en toda Europa, incluso en las islas británicas. Un grupo llegó hasta los andonitas de Islandia pasando por las islas Feroe, mientras que otro atravesó China y llegó hasta los japoneses de las islas del este. La vida y las experiencias de los hombres y mujeres que se aventuraron a salir de Salem, de Mesopotamia y del lago Van para ilustrar a las tribus del hemisferio oriental constituyen un capítulo heroico en los anales de la raza humana."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "93:7.3",
       "pageReference": "1022.1",
       "sortId": "3.093.007.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Los Misioneros Melquisedek",
-      "markdown": "Pero la tarea era tan grande y las tribus tan retrógradas que los resultados fueron vagos e indefinidos. De una generación a otra el evangelio salemita fue acogido aquí y allí, pero excepto en Palestina, la idea de un solo Dios nunca consiguió la lealtad continuada de una entera tribu o raza. Mucho antes del advenimiento de Jesús, las enseñanzas de los primitivos misioneros de Salem en general se habían sumergido en las más antiguas supersticiones y creencias universales. El evangelio original de Melquisedek había sido absorbido casi totalmente en las creencias de la Gran Madre, el Sol y otros cultos antiguos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Los misioneros de Melquisedec",
+      "markdown": "La labor era tan ingente y las tribus estaban tan atrasadas que los resultados fueron vagos e imprecisos. El evangelio de Salem fue acogido aquí y allá de una generación a otra, pero salvo en Palestina, la idea de un solo Dios nunca pudo granjearse la lealtad constante de toda una tribu o una raza. Mucho antes de la llegada de Jesús las enseñanzas de los primeros misioneros de Salem habían quedado inmersas de forma generalizada en las supersticiones y creencias más antiguas y universales. El evangelio original de Melquisedec había sido casi enteramente absorbido por las creencias en la Gran Madre, en el Sol y por otros cultos antiguos."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "93:7.4",
       "pageReference": "1022.2",
       "sortId": "3.093.007.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Los Misioneros Melquisedek",
-      "markdown": "Vosotros que disfrutáis hoy en día de las ventajas del arte de la imprenta poco comprendéis cuán difícil era perpetuar la verdad durante esos tiempos primitivos; cuán fácil es perder de vista una nueva doctrina de una generación a la otra. Siempre existía la tendencia a que la nueva doctrina quedase absorbida en el cuerpo más antiguo de las enseñanzas religiosas y prácticas mágicas. Una nueva revelación siempre está contaminada por las creencias evolucionarias más antiguas."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Los misioneros de Melquisedec",
+      "markdown": "Vosotros que disfrutáis hoy en día de las ventajas del arte de la imprenta, mal podéis comprender lo difícil que era perpetuar la verdad en aquellos tiempos antiguos y lo fácil que era perder de vista una nueva doctrina de una generación a la siguiente. La nueva doctrina tendía siempre a ser absorbida por el cuerpo más antiguo de enseñanzas religiosas y prácticas mágicas. Toda revelación nueva se contamina siempre con las creencias evolutivas más antiguas."
     },
     {
       "type": "section",
@@ -1315,8 +1315,8 @@
       "standardReferenceId": "93:8.0",
       "pageReference": null,
       "sortId": "3.093.008.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Partida de Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Melquisedec se marcha",
       "markdown": null
     },
     {
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "93:8.1",
       "pageReference": "1022.3",
       "sortId": "3.093.008.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "La Partida de Melquisedek",
-      "markdown": "Poco después de la destrucción de Sodoma y Gomorra, Maquiventa decidió poner punto final a su autootorgamiento de urgencia en Urantia. La decisión de Melquisedek de terminar su estadía en la carne fue influida por numerosas condiciones, principal entre ellas la tendencia en aumento entre las tribus circunvecinas, y aun entre sus asociados inmediatos, de considerarle un semidios, de contemplarle como un ser supernatural, lo cual en efecto lo era; pero estaban empezando a reverenciarlo indebidamente y con un temor altamente supersticioso. Además de estas razones, Melquisedek deseaba abandonar la escena de sus actividades terrestres suficientemente antes de la muerte de Abraham como para asegurar de que la verdad del Dios único se estableciese poderosamente en la mente de sus seguidores. Por consiguiente, Maquiventa se retiró cierta noche a su tienda en Salem, habiendo deseado las buenas noches a sus compañeros humanos, y cuando éstos fueron a llamarle por la mañana, no estaba, puesto que sus semejantes se lo habían llevado."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Melquisedec se marcha",
+      "markdown": "Poco después de la destrucción de Sodoma y Gomorra Maquiventa decidió terminar su otorgamiento de emergencia en Urantia. Influyeron en su decisión de poner fin a su estancia en la carne muchas circunstancias, y sobre todo la tendencia creciente de las tribus vecinas e incluso de sus colaboradores directos a considerarlo un semidiós, a contemplarlo como un ser sobrenatural. Es cierto que lo era, pero estaban empezando a venerarlo en exceso y con un miedo muy supersticioso. Además de estas razones, Melquisedec quería abandonar el escenario de sus actividades terrenales con suficiente antelación a la muerte de Abraham como para asegurar que la verdad del Dios único quedara bien arraigada en la mente de sus seguidores. Por todo esto, Maquiventa se retiró una noche a su tienda en Salem después de dar las buenas noches a sus compañeros humanos, y cuando fueron a llamarlo por la mañana ya no estaba. Se lo habían llevado sus semejantes."
     },
     {
       "type": "section",
@@ -1351,8 +1351,8 @@
       "standardReferenceId": "93:9.0",
       "pageReference": null,
       "sortId": "3.093.009.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
       "markdown": null
     },
     {
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "93:9.1",
       "pageReference": "1022.4",
       "sortId": "3.093.009.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Fue una gran prueba para Abraham cuando Melquisedek desapareció tan repentinamente. Aunque éste había avisado a sus seguidores que alguna vez se iría tal como había llegado, no se reconciliaban éstos con la pérdida de su maravilloso líder. La gran organización montada en Salem casi desapareció, aunque las tradiciones de estos días fueron los cimientos sobre los que construyó más adelante Moisés cuando convocó a los esclavos hebreos fuera de Egipto."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "La desaparición tan repentina de Melquisedec fue una dura prueba para Abraham. Aunque Maquiventa había avisado con toda claridad a sus seguidores de que un día se marcharía como había llegado, no se resignaron a perder a su maravilloso líder. La gran organización que se había construido en Salem casi desapareció, pero sus tradiciones fueron la base de la actuación de Moisés cuando sacó de Egipto a los esclavos hebreos."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "93:9.2",
       "pageReference": "1022.5",
       "sortId": "3.093.009.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "La pérdida de Melquisedek produjo en el corazón de Abraham una tristeza de la que nunca se repuso completamente. Había abandonado a Hebrón cuando descartó la ambición de construir un reino material; y ahora, con la pérdida de su asociado en la construcción del reino espiritual, partió de Salem, dirigiéndose al sur para vivir cerca de sus intereses en Gerar."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Abraham nunca llegó a superar del todo la tristeza por la pérdida de Melquisedec. Había abandonado Hebrón cuando renunció a su ambición de construir un reino material y ahora, tras perder a su aliado en la construcción del reino espiritual, dejó Salem y se dirigió al sur para vivir cerca de sus intereses en Gerar."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "93:9.3",
       "pageReference": "1022.6",
       "sortId": "3.093.009.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Abraham se tornó temeroso y timorato inmediatamente después de la desaparición de Melquisedek. A su llegada en Gerar se mantuvo incógnito, de modo que Abimelec se posesionó de su esposa. (Poco después de su matrimonio con Sara, Abraham cierta noche había acertado a oír una conspiración para asesinarlo y quitarle así a su brillante esposa. Este temor se volvió terror en este líder por otra parte valiente y atrevido; toda su vida temió que alguien lo matara en secreto para llevarse a Sara. Esto explica por qué, en tres ocasiones separadas, este hombre valeroso mostró verdadera cobardía)."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "En cuanto Melquisedec desapareció Abraham se volvió medroso y apocado. A su llegada a Gerar ocultó su identidad, de modo que Abimelec se apropió de su esposa. (Poco después de su matrimonio con Sara Abraham sorprendió una noche una conspiración para asesinarlo y quedarse con su brillante esposa. Este líder, por lo demás valiente y atrevido, temió toda su vida que alguien lo matara en secreto para llevarse a Sara, y ese miedo se convirtió en terror. Esto explica por qué, en tres ocasiones diferentes, este hombre valiente se comportó como un auténtico cobarde.)"
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "93:9.4",
       "pageReference": "1023.1",
       "sortId": "3.093.009.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Pero Abraham no se vio detenido mucho tiempo en su misión como sucesor de Melquisedek. Pronto convirtió a muchos entre los filistinos y el pueblo de Abimelec, firmó tratados con ellos y a su vez, se contaminó de muchas de sus supersticiones, particularmente de su práctica de sacrificar a los hijos primogénitos. Así Abraham se volvió nuevamente un líder en Palestina. Era reverenciado por todos los grupos y honrado por todos los reyes. Era el gran líder espiritual de todas las tribus circunvecinas, y su influencia continuó por algún tiempo después de su muerte. Durante los últimos años de su vida retornó otra vez a Hebrón, la escena de sus actividades primeras y el lugar en el que había trabajado en asociación con Melquisedek. La última acción de Abraham consistió en enviar a sus siervos de confianza a la ciudad de su hermano, Nacor, situada en la frontera con la Mesopotamia, para buscar a una mujer de su pueblo como esposa para su hijo Isaac. Por mucho tiempo había sido costumbre del pueblo de Abraham casarse con los primos. Abraham murió confiando en esa fe en Dios que había aprendido de Melquisedek en las desaparecidas escuelas de Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Pero Abraham no tardó mucho en asumir su misión como sucesor de Melquisedec. Pronto consiguió conversos entre los filisteos y entre el pueblo de Abimelec, hizo un tratado con ellos y se contaminó a su vez con muchas de sus supersticiones, en particular con la costumbre de sacrificar a los hijos primogénitos. Y así Abraham volvió a ejercer un importante liderazgo en Palestina. Era venerado por todos los grupos y honrado por todos los reyes. Fue el líder espiritual de todas las tribus vecinas y su influencia perduró algún tiempo después de su muerte. En los años finales de su vida volvió una vez más a Hebrón, el escenario de sus actividades anteriores y el lugar donde había colaborado con Melquisedec. La última iniciativa de Abraham fue enviar a servidores de confianza a la ciudad de su hermano Nacor, situada en la frontera con Mesopotamia, con el encargo de conseguir una mujer de su propio pueblo como esposa para su hijo Isaac. Casarse entre primos era una costumbre muy arraigada en el pueblo de Abraham. Y Abraham murió con la confianza puesta en la fe en Dios que había aprendido de Melquisedec en las desaparecidas escuelas de Salem."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "93:9.5",
       "pageReference": "1023.2",
       "sortId": "3.093.009.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Para la generación siguiente fue difícil comprender la historia de Melquisedek; a los quinientos años, muchos consideraban este relato un mito. Isaac mantuvo bastante bien las enseñanzas de su padre y alimentó el evangelio de la colonia de Salem, pero fue más difícil para Jacob captar el significado de estas tradiciones. José era un creyente firme en Melquisedek y, especialmente por esto, era considerado por sus hermanos un soñador. Los honores otorgados a José en Egipto se debieron principalmente a la memoria de su tatarabuelo Abraham. Se le ofreció a José el mando militar de los ejércitos egipcios, pero como era un creyente tan firme en las tradiciones de Melquisedek y en las enseñanzas posteriores de Abraham e Isaac, decidió servir como administrador civil, creyendo que contribuiría así mejor al avance del reino de los cielos."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "La generación siguiente tuvo dificultades para comprender la historia de Melquisedec, y en menos de quinientos años todo el episodio era un mito para muchos. Isaac se mantuvo bastante firme en las enseñanzas de su padre y alentó el evangelio de la colonia de Salem, pero a Jacob le costó más captar la importancia de estas tradiciones. José creía firmemente en Melquisedec y principalmente por eso era considerado por sus hermanos como un soñador. Los honores dispensados a José en Egipto se debieron en gran parte a la memoria de su bisabuelo Abraham. Le ofrecieron incluso el mando militar de los ejércitos egipcios, pero José, como firme creyente en las tradiciones de Melquisedec y en las enseñanzas posteriores de Abraham e Isaac, eligió la administración civil por considerar que así podría contribuir mejor al avance del reino de los cielos."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "93:9.6",
       "pageReference": "1023.3",
       "sortId": "3.093.009.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Lo que enseñó Melquisedek era completo y pletórico, pero los registros de estos días parecían imposibles y fantásticos a los sacerdotes hebreos posteriores, aunque muchos tuvieron cierta comprensión de estas transacciones, por lo menos hasta los tiempos de la revisión masiva de los registros del Antiguo Testamento en Babilonia."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "La enseñanza de Melquisedec fue plena y completa, pero los anales de ese periodo parecieron imposibles y fantásticos a los sacerdotes hebreos posteriores a pesar de que muchos entendían en parte esos acontecimientos, al menos hasta la época en que los escritos del Antiguo Testamento fueron revisados en bloque en Babilonia."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "93:9.7",
       "pageReference": "1023.4",
       "sortId": "3.093.009.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Lo que describen los registros del Antiguo Testamento como conversaciones entre Abraham y Dios fueron en realidad entrevistas entre Abraham y Melquisedek. Los escribas más recientes consideraron el término Melquisedek sinónimo de Dios. Las crónicas de tantos contactos de Abraham y Sara con «el ángel del Señor» se refieren a sus numerosas conversaciones con Melquisedek."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Lo que los escritos del Antiguo Testamento describen como conversaciones entre Abraham y Dios fueron en realidad entrevistas entre Abraham y Melquisedec. Escribas posteriores consideraron el término Melquisedec sinónimo de Dios. Los relatos de tantos contactos de Abraham y Sara con «el ángel del Señor» se refieren a sus numerosas charlas con Melquisedec."
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "93:9.8",
       "pageReference": "1023.5",
       "sortId": "3.093.009.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Las crónicas hebreas de Isaac, Jacob y José son mucho más confiables que las crónicas sobre Abraham, aunque también contienen muchas divergencias de los hechos, modificaciones hechas intencionalmente y también sin intención al tiempo de la compilación de estas narrativas por parte de los sacerdotes hebreos durante la cautividad en Babilonia. Cetura no era una esposa de Abraham; como Agar, era tan sólo una concubina. Todas las posesiones de Abraham fueron heredadas por Isaac, el hijo de Sara, la esposa legal. Abraham no era tan viejo como indican las crónicas, y su esposa era mucho más joven. Estas edades fueron alteradas deliberadamente para explicar el nacimiento supuestamente milagroso de Isaac."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Las narraciones hebreas sobre Isaac, Jacob y José son mucho más fidedignas que las que tratan de Abraham, aunque contienen también muchas desviaciones de los hechos, alteraciones introducidas unas veces con intención y otras sin ella por los sacerdotes hebreos que recopilaron estos escritos durante la cautividad de Babilonia. Queturá no fue esposa de Abraham ni tampoco Agar, sino simples concubinas. Todas las propiedades de Abraham fueron a Isaac el hijo de Sara, la esposa oficial. Abraham no era tan viejo como afirman los escritos, y su esposa era mucho más joven. Sus edades se cambiaron deliberadamente para dar credibilidad al nacimiento posterior presuntamente milagroso de Isaac."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "93:9.9",
       "pageReference": "1023.6",
       "sortId": "3.093.009.009",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "El ego nacional de los judíos fue terriblemente contenido por el cautiverio en Babilonia. En su reacción contra la inferioridad nacional se fueron al otro extremo del egoísmo nacional y racial, distorsionando y pervirtiendo sus tradiciones con el objeto de exaltarse a sí mismos por sobre todas las razas como el pueblo elegido de Dios; así pues corrigieron cuidadosamente todas sus crónicas con el objeto de elevar a Abraham y a sus otros líderes nacionales muy por encima de todas las demás personas, sin exceptuar siquiera a Melquisedek. Los escribas hebreos por consiguiente destruyeron todo registro de estos tiempos monumentales que pudieron encontrar, preservando tan sólo la crónica del encuentro de Abraham y Melquisedek después de la batalla de Sidim, encuentro que según ellos reflejaba un gran honor para Abraham."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "La cautividad de Babilonia deprimió tremendamente el ego nacional de los judíos. En su reacción contra la inferioridad nacional bascularon hasta el extremo opuesto del egotismo nacional y racial, y en ese proceso tergiversaron y pervirtieron sus tradiciones con vistas a exaltarse sobre todas las razas como el pueblo elegido de Dios. Por consiguiente adaptaron cuidadosamente todos sus escritos con el propósito de elevar a Abraham y a sus otros líderes nacionales muy por encima de todas las demás personas, sin exceptuar al propio Melquisedec. Los escribas hebreos destruyeron todos los escritos que encontraron sobre aquel periodo tan importante y solo conservaron el relato del encuentro de Abraham con Melquisedec tras la batalla de Sidim, que les parecía muy honroso para Abraham."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "93:9.10",
       "pageReference": "1024.1",
       "sortId": "3.093.009.010",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "De esta manera, al perder de vista a Melquisedek, también perdieron de vista las enseñanzas de este Hijo de urgencia en lo que concierne a la misión espiritual del Hijo autootorgador prometido; perdieron de vista tan completa y plenamente la naturaleza de esta misión que muy pocos de su progenie fueron capaces o quisieron reconocer y recibir a Micael cuando éste apareció en la tierra y en la carne tal como Maquiventa había predicho."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Y así, al perder de vista a Melquisedec perdieron también de vista las enseñanzas de este Hijo de emergencia sobre la misión espiritual del Hijo de otorgamiento prometido. Perdieron tan totalmente de vista la naturaleza de esta misión que muy pocos de sus descendientes pudieron o quisieron reconocer y recibir a Miguel cuando apareció en la tierra y en la carne tal como había predicho Maquiventa."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "93:9.11",
       "pageReference": "1024.2",
       "sortId": "3.093.009.011",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "Después de la Partida de Melquisedek",
-      "markdown": "Pero uno de los escritores del libro de los Hebreos comprendió la misión de Melquisedek, porque está escrito: «Este Melquisedek, sacerdote del Altísimo, era un rey de paz; sin padre, sin madre, sin genealogía, que ni tiene principio de días ni de fin de vida, sino hecho semejante al Hijo de Dios, permanece sacerdote para siempre». Este escritor definió a Melquisedek en la misma clase posteriormente representada por el autootorgamiento de Micael, afirmando que Jesús era un «ministro para siempre de la orden de Melquisedek». Aunque esta comparación no fue muy afortunada, era literalmente verdad que Cristo recibió el título provisional a Urantia «por orden de los doce síndicos Melquisedek» de servicio al tiempo de su autootorgamiento en el mundo."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "Tras la marcha de Melquisedec",
+      "markdown": "Pero uno de los escritores del libro de los Hebreos entendió la misión de Melquisedec, pues está escrito: «Este Melquisedec, sacerdote del Altísimo, fue también rey de paz; sin padre, sin madre, sin linaje, que no tuvo ni principio de días ni fin de vida sino que fue hecho semejante a un Hijo de Dios, permanece sacerdote a perpetuidad». Este escritor señaló a Melquisedec como modelo del posterior otorgamiento de Miguel y afirmó que Jesús fue «ministro para siempre según el orden de Melquisedec». Aunque esta comparación no es del todo afortunada, era literalmente cierto que Cristo recibió su titularidad provisional de Urantia «siguiendo las órdenes de los doce síndicos Melquisedec» que estaban de servicio en el momento de su otorgamiento al mundo."
     },
     {
       "type": "section",
@@ -1567,8 +1567,8 @@
       "standardReferenceId": "93:10.0",
       "pageReference": null,
       "sortId": "3.093.010.000",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
       "markdown": null
     },
     {
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "93:10.1",
       "pageReference": "1024.3",
       "sortId": "3.093.010.001",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Durante los años de la encarnación de Maquiventa los síndicos Melquisedek de Urantia eran once. Cuando Maquiventa consideró que su misión de Hijo de urgencia había terminado, señaló el hecho a sus once asociados, y éstos inmediatamente aprontaron la técnica por la cual sería liberado de la carne y devuelto sano y salvo a su estado original de Melquisedek. Al tercer día después de su desaparición de Salem, apareció entre sus once semejantes de asignación en Urantia y retomó su carrera interrumpida como uno de los síndicos planetarios del planeta 606 de Satania."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Durante los años de la encarnación de Maquiventa los síndicos Melquisedec de Urantia fueron once. Cuando Maquiventa consideró terminada su misión como Hijo de emergencia se lo comunicó a sus once compañeros, que pusieron a punto inmediatamente el procedimiento de liberarlo de la carne y restituirlo sano y salvo a su estatus original de Melquisedec. Al tercer día de su desaparición de Salem apareció entre sus once compañeros de destino en Urantia y reanudó su interrumpida carrera como uno de los síndicos planetarios del 606 de Satania."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "93:10.2",
       "pageReference": "1024.4",
       "sortId": "3.093.010.002",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Maquiventa terminó su autootorgamiento como criatura de carne y hueso tan repentinamente y sin ceremonias como la había comenzado. Ni su aparición ni su partida fueron acompañadas por anuncios o demostraciones fuera de lo común; su aparición en Urantia no estuvo marcada ni por un llamado a la resurrección ni por una terminación de la dispensación planetaria; la suya fue una encarnación de urgencia. Pero Maquiventa no puso fin a su tarea en la carne de los seres humanos hasta no haber sido debidamente liberado por el Padre Melquisedek y haber sido informado de que su autootorgamiento de urgencia había recibido la aprobación del ejecutivo en jefe de Nebadon, Gabriel de Salvington."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Maquiventa terminó su otorgamiento como criatura de carne y hueso tan discreta y repentinamente como lo había empezado. Ni su aparición ni su marcha dieron lugar a anuncios o demostraciones fuera de lo común; ni un llamamiento nominal a la resurrección ni un final de dispensación planetaria marcaron su aparición en Urantia; el suyo fue un otorgamiento de emergencia. Pero Maquiventa no puso fin a su estancia en la carne de los seres humanos hasta haber sido debidamente autorizado por el Padre Melquisedec e informado de que su otorgamiento de emergencia había sido aprobado por el jefe ejecutivo de Nebadon, Gabriel de Salvington."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "93:10.3",
       "pageReference": "1024.5",
       "sortId": "3.093.010.003",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Maquiventa Melquisedek continuó siguiendo con gran interés los asuntos de los descendientes de aquellos hombres que habían creído en sus enseñanzas cuando estaba en la carne. Pero la progenie de Abraham a través de Isaac, vinculada por matrimonios con los ceneos, fue el único linaje que continuó largamente alimentando un concepto claro de las enseñanzas de Salem."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Maquiventa Melquisedec siguió interesándose mucho por los descendientes de los hombres que habían creído en sus enseñanzas cuando estuvo en la carne. Pero los únicos que conservaron durante muchos años un concepto claro de las enseñanzas de Salem fueron los descendientes de Abraham a través de Isaac de la estirpe procedente de matrimonios mixtos con los quenitas."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "93:10.4",
       "pageReference": "1024.6",
       "sortId": "3.093.010.004",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Este mismo Melquisedek siguió colaborando a lo largo de los diecinueve siglos sucesivos con los muchos profetas y videntes, tratando de este modo de mantener vivas las verdades de Salem hasta la plenitud del tiempo para la aparición de Micael en la tierra."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Este mismo Melquisedec siguió colaborando durante los diecinueve siglos siguientes con muchos profetas y videntes, y se esforzó así en mantener vivas las verdades de Salem hasta el momento de la aparición de Miguel en la tierra."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "93:10.5",
       "pageReference": "1025.1",
       "sortId": "3.093.010.005",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Maquiventa siguió siendo un síndico planetario hasta los tiempos del triunfo de Micael en Urantia. Posteriormente, se le asignó al servicio de Urantia en Jerusem como uno de los veinticuatro directores, habiendo sido promovido recientemente a la posición de embajador personal en Jerusem del Hijo Creador, con el título de Vicerregente del Príncipe Planetario de Urantia. Creemos que, hasta tanto Urantia siga siendo un planeta habitado, Maquiventa Melquisedek no será devuelto plenamente a los deberes de su orden de filiación, sino que permanecerá, hablando en términos temporales, por siempre ministro planetario representante de Cristo Micael."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Maquiventa continuó como síndico planetario hasta los tiempos del triunfo de Miguel en Urantia. Después fue destinado al servicio de Urantia en Jerusem como uno de los veinticuatro directores, y acaba de ser elevado a la posición de embajador personal del Hijo Creador en Jerusem con el título de Príncipe Planetario Lugarteniente de Urantia. Creemos que mientras Urantia siga siendo un planeta habitado, Maquiventa Melquisedec no retomará plenamente los deberes de su orden de filiación sino que, hablando en términos temporales, seguirá ejerciendo para siempre su ministerio planetario como representante de Cristo Miguel."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "93:10.6",
       "pageReference": "1025.2",
       "sortId": "3.093.010.006",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Como fue suyo un autootorgamiento de urgencia en Urantia, no se desprende de los registros cuál será el futuro de Maquiventa. Es posible que el cuerpo de los Melquisedek de Nebadon haya sufrido la pérdida permanente de uno de sus miembros. Decretos recientes emanados de los Altísimos de Edentia, y más adelante confirmados por los Ancianos de los Días de Uversa, sugieren que este Melquisedek autootorgador está destinado a tomar el lugar de Caligastia, el Príncipe Planetario caído. Si estas conjeturas a este respecto son correctas, es totalmente posible que Maquiventa Melquisedek aparezca nuevamente en persona en Urantia y de alguna manera modificada vuelva a tomar el papel de Príncipe Planetario derrocado, o bien que aparezca en la tierra para actuar como Vicerregente del Príncipe Planetario representando a Cristo Micael, que actualmente tiene el título de Príncipe Planetario de Urantia. Aunque no está claro para nosotros cuál será el destino de Maquiventa, sin embargo, los acontecimientos que tan recientemente han ocurrido sugieren convincentemente que las conjeturas arriba mencionadas no están probablemente lejos de la verdad."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Como el otorgamiento de Maquiventa en Urantia fue de emergencia, no se desprende de los anales cuál podrá ser su futuro. Cabe la posibilidad de que el cuerpo de los Melquisedec de Nebadon haya perdido para siempre a uno de sus miembros. Resoluciones recientes emanadas de los Altísimos de Edentia y confirmadas posteriormente por los Ancianos de los Días de Uversa apuntan con fuerza a que este Melquisedec de otorgamiento estaría destinado a ocupar el lugar de Caligastia, el Príncipe Planetario caído. Si nuestras conjeturas son correctas, es perfectamente posible que Maquiventa Melquisedec aparezca otra vez en persona en Urantia y retome de manera modificada el papel del Príncipe Planetario destronado o bien que vuelva al planeta como lugarteniente del Príncipe Planetario en representación de Cristo Miguel, que ostenta ahora el título de Príncipe Planetario de Urantia. Aunque no tenemos claro cuál será el destino de Maquiventa, ciertos acontecimientos muy recientes corroboran que nuestras conjeturas no distan mucho de la verdad."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "93:10.7",
       "pageReference": "1025.3",
       "sortId": "3.093.010.007",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Bien comprendemos cómo, mediante su triunfo en Urantia, Micael se volvió el sucesor tanto de Caligastia como de Adán; cómo llegó a ser Príncipe planetario de la Paz y el segundo Adán. Ahora contemplamos el otorgamiento del título de Vicerregente del Príncipe Planetario de Urantia a este Melquisedek. ¿Será también nombrado Vicerregente del Hijo Material de Urantia? O bien, ¿existe la posibilidad de un acontecimiento inesperado y sin precedentes: el retorno en algún momento al planeta de Adán y Eva o de algunos de su progenie como representantes de Micael con los títulos de vicerregentes del segundo Adán de Urantia?"
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Como bien sabemos, Miguel se convirtió en el sucesor tanto de Caligastia como de Adán por su triunfo en Urantia; se convirtió en el Príncipe planetario de la Paz y en el segundo Adán. Y ahora acabamos de ver a este Melquisedec convertido en Príncipe Planetario Lugarteniente de Urantia. ¿Será también nombrado Hijo Material Lugarteniente de Urantia? ¿O podría producirse algún día un acontecimiento inesperado y sin precedentes: el retorno al planeta de Adán y Eva o algunos de sus descendientes como representantes de Miguel con el título de lugartenientes del segundo Adán de Urantia?"
     },
     {
       "type": "paragraph",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "93:10.8",
       "pageReference": "1025.4",
       "sortId": "3.093.010.008",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Todas estas especulaciones asociadas con la certidumbre de las apariciones futuras tanto de los Hijos Magisteriales como de los Hijos Instructores Trinitarios, en conjunción con la promesa explícita del Hijo Creador de retornar alguna vez, convierten a Urantia en un planeta de incertidumbre futura y en una de las esferas más interesantes y curiosas en todo el universo de Nebadon. Es perfectamente posible que, en alguna edad futura cuando Urantia se esté acercando a la era de la luz y la vida, una vez que los asuntos de la rebelión de Lucifer y de la secesión de Caligastia hayan finalmente sido adjudicados, podamos presenciar la presencia en Urantia, simultáneamente, de Maquiventa, Adán, Eva y Cristo Micael, así como también de un Hijo Magisterial o aun de los Hijos Instructores Trinitarios."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Todas estas especulaciones unidas a la certeza de futuras apariciones tanto de Hijos Magistrados como de Maestros Hijos de la Trinidad, junto con la promesa explícita del Hijo Creador de volver algún día, hacen de Urantia un planeta de futuro incierto y lo convierten en una de las esferas más interesantes y fascinantes de todo el universo de Nebadon. Es muy posible que en alguna edad futura, cuando Urantia se esté acercando a la era de luz y vida, y una vez juzgados los asuntos de la rebelión de Lucifer y la secesión de Caligastia, lleguemos a contemplar en Urantia la presencia simultánea de Maquiventa, Adán, Eva y Cristo Miguel, además de un Hijo Magistrado o incluso Maestros Hijos de la Trinidad."
     },
     {
       "type": "paragraph",
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "93:10.9",
       "pageReference": "1025.5",
       "sortId": "3.093.010.009",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Por mucho tiempo nuestra orden ha mantenido la opinión de que la presencia de Maquiventa en el cuerpo jerusémico de los directores de Urantia, los veinticuatro consejeros, es prueba suficiente para justificar la creencia de que está destinado a seguir a los mortales de Urantia a través del esquema universal de progresión y de ascensión hasta el Cuerpo Paradisiaco de la Finalidad. Sabemos que Adán y Eva están destinados a acompañar a sus semejantes terrestres en la aventura al Paraíso cuando Urantia se haya establecido en luz y vida."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Nuestro orden opina desde hace mucho que la presencia de Maquiventa en el cuerpo de Jerusem de los directores de Urantia, los veinticuatro consejeros, es prueba suficiente para justificar la creencia de que está destinado a seguir a los mortales de Urantia durante todo el plan del universo de progreso y ascensión hasta el Cuerpo de la Finalización del Paraíso. Sabemos que Adán y Eva tienen ese mismo destino de acompañar a sus compañeros terrestres en la aventura al Paraíso cuando Urantia se haya asentado en luz y vida."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "93:10.10",
       "pageReference": "1025.6",
       "sortId": "3.093.010.010",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Menos de mil años atrás, este mismo Maquiventa Melquisedek, que había sido el sabio de Salem, estuvo presente en forma invisible en Urantia, por un período de cien años, actuando como gobernador general residente del planeta; y si el presente sistema de dirigir los asuntos planetarios continúa, deberá regresar con el mismo encargo en poco más de mil años."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Hace menos de mil años este mismo Maquiventa Melquisedec, el que fuera el sabio de Salem, estuvo presente de forma invisible en Urantia durante un periodo de cien años en calidad de gobernador general residente del planeta. Si no cambia el sistema de dirección de los asuntos planetarios, le corresponde volver con el mismo cargo dentro de poco más de mil años."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "93:10.11",
       "pageReference": "1026.1",
       "sortId": "3.093.010.011",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "Ésta es la historia de Maquiventa Melquisedek, uno de los seres más singulares que haya estado relacionado jamás con la historia de Urantia y una personalidad que puede estar destinada a desempeñar un papel importante en la experiencia futura de vuestro mundo irregular y fuera de lo común."
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "Esta es la historia de Maquiventa Melquisedec, uno de los personajes más extraordinarios jamás relacionados con la historia de Urantia y una personalidad que puede estar destinada a desempeñar un papel importante en la experiencia futura de vuestro mundo insólito e irregular."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "93:10.12",
       "pageReference": "1026.2",
       "sortId": "3.093.010.012",
-      "paperTitle": "Maquiventa Melquisedek",
-      "sectionTitle": "El Presente Estado de Maquiventa Melquisedek",
-      "markdown": "[Presentado por un Melquisedek de Nebadon.]"
+      "paperTitle": "Maquiventa Melquisedec",
+      "sectionTitle": "El estatus presente de Maquiventa Melquisedec",
+      "markdown": "[Presentado por un Melquisedec de Nebadon.]"
     }
   ]
 }

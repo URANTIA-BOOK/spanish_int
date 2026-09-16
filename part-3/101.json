@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/101.md",
-  "source_sha256": "8dd3143cb76341ca76945cbb39f200be86c46a7803ca9f6f55605acd378c4e52",
+  "source_sha256": "350ce53a6b56ac81a6ce373c355068085bed231e32396c5028bfcbc34f11d547",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "101:0.0",
       "pageReference": null,
       "sortId": "3.101.000.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "101:0.0",
       "pageReference": null,
       "sortId": "3.101.000.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "101:0.1",
       "pageReference": "1104.1",
       "sortId": "3.101.000.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
       "sectionTitle": null,
-      "markdown": "LA RELIGIÓN, como experiencia humana, progresa de la esclavitud del temor primitivo del salvaje evolutivo hasta la libertad de fe sublime y admirable de aquellos mortales civilizados que son magníficamente conscientes de la filiación con el Dios eterno."
+      "markdown": "LA RELIGIÓN como experiencia humana se extiende desde el miedo primitivo que esclavizaba al salvaje en vías de evolución hasta la libertad sublime y admirable de la fe de los mortales civilizados que son magníficamente conscientes de su filiación con el Dios eterno."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "101:0.2",
       "pageReference": "1104.2",
       "sortId": "3.101.000.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
       "sectionTitle": null,
-      "markdown": "La religión es el antepasado de la ética y moral avanzadas de la evolución social progresiva. Pero la religión como tal no es meramente un movimiento moral, aunque las manifestaciones exteriores y sociales de la religión estén poderosamente influidas por el impulso ético y moral de la sociedad humana. La religión es siempre la inspiración de la naturaleza del hombre en evolución, pero no es el secreto de esa evolución."
+      "markdown": "La religión es la antecesora de la ética y la moral avanzada propia de la evolución social progresiva. La religión como tal no es un mero movimiento moral, aunque sus manifestaciones externas y sociales estén poderosamente influidas por el impulso ético y moral de la sociedad humana. La religión es siempre la inspiradora de la naturaleza del hombre que evoluciona, pero no es el secreto de esa evolución."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "101:0.3",
       "pageReference": "1104.3",
       "sortId": "3.101.000.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
       "sectionTitle": null,
-      "markdown": "La religión —la fe y convicción de la personalidad— puede siempre triunfar sobre la lógica superficialmente contradictoria de la desesperación, nacida en la mente material no creyente. Existe realmente una verdadera y genuina voz interior, esa «luz verdadera que alumbra a todo hombre que entra en el mundo». Y esta guía espíritu es distinta del impulso ético de la conciencia humana. La sensación de seguridad religiosa es más que un sentimiento emotivo. La seguridad de la religión trasciende la razón de la mente, aun la lógica de la filosofía. La religión *es* fe, confianza y seguridad."
+      "markdown": "La religión, la fe y convicción de la personalidad, puede triunfar siempre sobre la lógica superficialmente contradictoria de la desesperación que nace en la mente material no creyente. Existe realmente una voz interior verdadera y genuina, esa «luz verdadera que alumbra a todo hombre que viene al mundo». Y esta guía del espíritu es distinta de los impulsos éticos de la conciencia humana. La sensación de seguridad religiosa es más que un sentimiento emocional. La seguridad de la religión trasciende la razón de la mente, incluso la lógica de la filosofía. La religión *es* fe, confianza y certeza."
     },
     {
       "type": "section",
@@ -109,8 +109,8 @@
       "standardReferenceId": "101:1.0",
       "pageReference": null,
       "sortId": "3.101.001.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
       "markdown": null
     },
     {
@@ -127,9 +127,9 @@
       "standardReferenceId": "101:1.1",
       "pageReference": "1104.4",
       "sortId": "3.101.001.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "La verdadera religión no es un sistema de creencia filosófica que se pueda razonar y sustanciar mediante pruebas naturales, tampoco es una experiencia fantástica y mística de sentimientos indescriptibles de éxtasis que tan sólo puedan disfrutar los devotos románticos del misticismo. La religión no es el producto de la razón, pero vista desde adentro, es totalmente razonable. La religión no se deriva de la lógica de la filosofía humana, pero como experiencia mortal es totalmente lógica. La religión es la experiencia de la divinidad en la conciencia del ser moral de origen evolucionario; representa la verdadera experiencia con las realidades eternas en el tiempo, la realización de las satisfacciones espirituales aún en la carne."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "La verdadera religión no es un sistema de creencias filosóficas que se pueden razonar y corroborar mediante pruebas naturales. Tampoco es una experiencia fantástica y mística de sentimientos de éxtasis indescriptibles que solo pueden disfrutar los adeptos románticos al misticismo. La religión no es producto de la razón, pero vista desde dentro es enteramente razonable. La religión no proviene de la lógica de la filosofía humana, pero como experiencia del mortal es enteramente lógica. La religión es la experimentación de la divinidad en la consciencia de un ser moral de origen evolutivo; consiste en experimentar de verdad realidades eternas en el tiempo, en hacer realidad satisfacciones espirituales mientras se vive aún en la carne."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "101:1.2",
       "pageReference": "1104.5",
       "sortId": "3.101.001.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "El Ajustador del Pensamiento no tiene mecanismos especiales para obtener la autoexpresión; no hay ninguna facultad religiosa mística para la recepción o la expresión de las emociones religiosas. Estas experiencias se vuelven disponibles mediante el mecanismo natural de la mente mortal. Y en esto yace la explicación de las dificultades del Ajustador para ponerse en comunicación directa con la mente material de su morada permanente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "El Ajustador del Pensamiento no posee ningún mecanismo especial para expresarse. No existe ninguna facultad religiosa mística para recibir o expresar emociones religiosas. Estas experiencias se manifiestan a través del mecanismo naturalmente ordenado de la mente del mortal, y esta es una de las explicaciones de las dificultades del Ajustador para ponerse en comunicación directa con la mente material en la que habita de forma permanente."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "101:1.3",
       "pageReference": "1104.6",
       "sortId": "3.101.001.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "El espíritu divino hace contacto con el hombre mortal, no mediante sentimientos o emociones, sino en el dominio del pensamiento más elevado y más espiritualizado. Son vuestros *pensamientos* los que os conducen hacia Dios. Se puede percibir la naturaleza divina tan sólo con los ojos de la mente. Pero la mente que verdaderamente discierne a Dios, escucha al Ajustador residente, es la mente limpia. «Sin santidad ningún hombre podrá ver a Dios». Toda comunión interna y espiritual de este tipo se denomina discernimiento espiritual. Estas experiencias religiosas son el resultado de la impresión producida sobre la mente del hombre por la actuación combinada del Ajustador y del Espíritu de la Verdad a medida que éstos funcionan sobre y por intermedio de las ideas, ideales, visiones y luchas espirituales de los hijos evolutivos de Dios."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "El espíritu divino entra en contacto con el hombre mortal no mediante sentimientos ni emociones sino en el ámbito del pensamiento más alto y más espiritualizado. Son vuestros *pensamientos*, no vuestros sentimientos, los que os conducen hacia Dios. La naturaleza divina solo se puede percibir con los ojos de la mente. Pero la mente que percibe realmente a Dios, que escucha al Ajustador que mora en su interior, es la mente pura. «Sin santidad, ningún hombre verá al Señor.» Toda comunión interior y espiritual de este tipo se denomina visión interior espiritual. Esas experiencias religiosas son el resultado de la impresión que producen en la mente del hombre las operaciones conjuntas del Ajustador y el Espíritu de la Verdad cuando actúan entre y sobre las ideas, los ideales, las visiones clarificadoras y los esfuerzos espirituales de los hijos de Dios en vías de evolución."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "101:1.4",
       "pageReference": "1105.1",
       "sortId": "3.101.001.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "La religión vive y prospera, entonces no por la vista y el sentimiento, sino más bien por la fe y el discernimiento interior. Consiste, no en el descubrimiento de nuevos hechos o en el hallazgo de una experiencia única, sino más bien en el descubrimiento de *significados* nuevos y espirituales de los hechos ya bien conocidos por la humanidad. La experiencia religiosa más elevada no depende de actos previos de creencia, tradición y autoridad; tampoco es la religión el vástago de sentimientos sublimes y emociones puramente místicas. Más bien es una experiencia profundamente honda y real de comunión espiritual con las influencias espirituales residentes en la mente humana, y en cuanto dicha experiencia se pueda definir en términos de psicología, es simplemente la experiencia de experimentar la realidad de creer en Dios como la realidad de tal experiencia puramente personal."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "La religión vive y prospera, pues, no por la vista y el sentimiento sino por la fe y la visión interior. Consiste, no en el descubrimiento de nuevos hechos o en el hallazgo de una experiencia única sino en el descubrimiento de *significados* nuevos y espirituales en hechos ya bien conocidos por la humanidad. La experiencia religiosa más alta no depende de actos previos de creencia, tradición y autoridad; la religión tampoco es hija de sentimientos sublimes y emociones puramente místicas. Es más bien una experiencia de hecho y profundamente honda de comunión espiritual con las influencias de espíritu que residen dentro de la mente humana. En la medida en que dicha experiencia puede definirse en términos de psicología, consiste simplemente en experimentar que la realidad de creer en Dios es la realidad de esa experiencia tan puramente personal."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "101:1.5",
       "pageReference": "1105.2",
       "sortId": "3.101.001.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "Aunque la religión no sea el producto de las especulaciones racionalistas de una cosmología material, es, sin embargo, la creación de un discernimiento interior totalmente racional que se origina en la experiencia mental del hombre. La religión no nace de las meditaciones místicas ni de las contemplaciones aisladas, aunque sea por siempre más o menos misteriosa y siempre indefinible e inexplicable en términos de razón intelectual pura y de lógica filosófica. Los gérmenes de la verdadera religión se originan en el dominio de la conciencia moral del hombre, y son revelados en el crecimiento del discernimiento interior espiritual del hombre, esa facultad de la personalidad humana que crece como consecuencia de la presencia del Ajustador del Pensamiento revelador de Dios en la mente mortal hambrienta de Dios."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "La religión no es producto de las especulaciones racionalistas de una cosmología material, y sin embargo es resultado de una visión interior enteramente racional que se origina en la experiencia de la mente del hombre. La religión no nace ni de meditaciones místicas ni de contemplaciones solitarias, aunque nunca deje de ser más o menos misteriosa y siempre indefinible e inexplicable en términos de razón puramente intelectual y de lógica filosófica. Los gérmenes de la verdadera religión se originan en el ámbito de la consciencia moral del hombre y se revelan en el crecimiento de la percepción espiritual del hombre, esa facultad de la personalidad humana que se acrecienta como consecuencia de la presencia del Ajustador del Pensamiento, el revelador de Dios, en la mente mortal hambrienta de Dios."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "101:1.6",
       "pageReference": "1105.3",
       "sortId": "3.101.001.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "La fe une el discernimiento moral con las discriminaciones conscientes de los valores y el sentido de deber evolucionario preexistente, completa el linaje de la verdadera religión. La experiencia de la religión eventualmente da como resultado la conciencia certera de Dios y la seguridad indudable de la sobrevivencia de la personalidad creyente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "La fe une la visión interior moral con el discernimiento a fondo de los valores que, junto con el sentido evolutivo preexistente del deber, constituyen la ascendencia de la verdadera religión. La experiencia de la religión termina llevando a una consciencia cierta de Dios y una seguridad indudable de la supervivencia de la personalidad creyente."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "101:1.7",
       "pageReference": "1105.4",
       "sortId": "3.101.001.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Verdadera Religión",
-      "markdown": "Así pues se puede ver que los deseos religiosos y los impulsos espirituales no son de naturaleza tal como para conducir a los hombres meramente a *querer* creer en Dios, sino más bien que son de una naturaleza y poder tal que los hombres quedan profundamente marcados por la convicción de que *deben* creer en Dios. El sentido de deber evolucionario y las obligaciones consiguientes a la iluminación de la revelación producen una impresión tan profunda sobre la naturaleza moral del hombre que éste finalmente llega a esa situación de la mente y actitud del alma en la que concluye que *no tiene derecho a no creer en Dios.* La sabiduría más elevada y superfilosófica de un individuo así esclarecido y disciplinado instruye en último término que dudar de Dios o desconfiar de su bondad equivaldría a traicionar la cosa más *real* y más *profunda* dentro de la mente y del alma humana —el Ajustador divino."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La verdadera religión",
+      "markdown": "Vemos así que los anhelos religiosos y los impulsos espirituales no conducen simplemente al hombre a *querer* creer en Dios, sino que son de tal naturaleza y poder que graban profundamente en los hombres la convicción de que *deben* creer en Dios. El sentido del deber evolutivo y las obligaciones derivadas de la iluminación de la revelación producen una impresión tan profunda en la naturaleza moral del hombre que termina alcanzando una situación mental y una actitud del alma donde llega a la conclusión de que *no tiene derecho a no creer en Dios*. La sabiduría superfilosófica superior de esas personas esclarecidas y disciplinadas les enseña en último término que dudar de Dios o desconfiar de su bondad sería una infidelidad a *lo* *más real* y lo más profundo que hay dentro de la mente y el alma humana: el Ajustador divino."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "101:2.0",
       "pageReference": null,
       "sortId": "3.101.002.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "101:2.1",
       "pageReference": "1105.5",
       "sortId": "3.101.002.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La realidad de la religión consiste totalmente en la experiencia religiosa de los seres humanos racionales y promedios. Y éste es el único sentido en el cual la religión se puede considerar científica o aun psicológica. La prueba de que la revelación es revelación es este mismo hecho de la experiencia humana: el hecho de que la revelación sintetiza las ciencias aparentemente divergentes de la naturaleza y la teología de la religión en una filosofía uniforme y lógica del universo, una explicación coordinada y continua tanto de la ciencia como de la religión, creando así una armonía de mente y satisfacción de espíritu que responde en la experiencia humana a aquellas interrogaciones de la mente mortal que desea saber *cómo* cumple el Infinito su voluntad y sus planes en la materia, con las mentes y sobre el espíritu."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "Todo el hecho de la religión consiste en la experiencia religiosa del ser humano racional medio, y solo en este sentido puede ser considerada la religión como científica o incluso psicológica. La prueba de que la revelación es revelación está en este hecho mismo de la experiencia humana: el hecho de que la revelación sintetiza la aparente divergencia entre las ciencias de la naturaleza y la teología de la religión en una filosofía del universo coherente y lógica, en una explicación coordinada e ininterrumpida tanto de la ciencia como de la religión. De este modo crea una armonía mental y una satisfacción espiritual que responden en la experiencia humana a los cuestionamientos de la mente mortal que ansía conocer *cómo* desarrolla el Infinito su voluntad y sus planes en la materia, con las mentes y sobre el espíritu."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "101:2.2",
       "pageReference": "1106.1",
       "sortId": "3.101.002.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La razón es el método de la ciencia; la fe es el método de la religión; la lógica es la técnica intentada de la filosofía. La revelación compensa la ausencia del punto de vista morontial, proveyendo una técnica para llegar a la unidad en la comprensión de la realidad y de las relaciones de la materia y el espíritu por la mediación de la mente. La verdadera revelación no vuelve jamás artificial a la ciencia, irrazonable a la religión ni ilógica a la filosofía."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La razón es el método de la ciencia; la fe es el método de la religión; la lógica es la técnica que intenta la filosofía. La revelación compensa la ausencia del punto de vista de la morontia al proporcionar un procedimiento para unificar la comprensión de la realidad y las relaciones entre la materia y el espíritu por mediación de la mente. La verdadera revelación nunca hace innatural a la ciencia, irrazonable a la religión ni ilógica a la filosofía."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "101:2.3",
       "pageReference": "1106.2",
       "sortId": "3.101.002.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La razón, mediante el estudio de la ciencia, puede conducir, a través de la naturaleza, de vuelta a una Primera Causa, pero se necesita la fe religiosa para transformar la Primera Causa de la ciencia en un Dios de salvación; y la revelación se necesita ulteriormente para validar tal fe, tal discernimiento interior espiritual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "Mediante el estudio de la ciencia, la razón puede conducir a una Causa Primera a través de la naturaleza, pero es necesaria la fe religiosa para transformar la Causa Primera de la ciencia en un Dios de salvación; y para validar esa fe, esa visión interior espiritual, se necesita además la revelación."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "101:2.4",
       "pageReference": "1106.3",
       "sortId": "3.101.002.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "Existen dos razones básicas para creer en un Dios que fomenta la supervivencia humana:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "Hay dos razones básicas para creer en un Dios que promueve la supervivencia humana:"
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "101:2.5",
       "pageReference": "1106.4",
       "sortId": "3.101.002.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "1. La experiencia humana, la seguridad personal, la esperanza y confianza que de algún modo son registradas e iniciadas por el Ajustador del Pensamiento residente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "1. La experiencia humana, la seguridad personal, la esperanza y la confianza que se manifiestan de algún modo y son suscitadas por el Ajustador interior del Pensamiento."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "101:2.6",
       "pageReference": "1106.5",
       "sortId": "3.101.002.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "2. La revelación de la verdad, sea por ministerio personal directo del Espíritu de la Verdad, por el autootorgamiento mundial de Hijos divinos, o a través de las revelaciones de la palabra escrita."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "2. La revelación de la verdad, ya sea por el ministerio personal directo del Espíritu de la Verdad, por el otorgamiento de los Hijos divinos en los mundos o a través de las revelaciones de la palabra escrita."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "101:2.7",
       "pageReference": "1106.6",
       "sortId": "3.101.002.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La ciencia acaba su búsqueda por la razón en la hipótesis de una Primera Causa. La religión no se detiene en su trayectoria de fe hasta no estar segura de un Dios de salvación. El estudio discriminatorio de la ciencia sugiere lógicamente la realidad y existencia de un Absoluto. La religión cree sin reservas en la existencia y realidad de un Dios que fomenta la supervivencia de la personalidad. Lo que la metafísica completamente fracasa en hacer, lo que aun la filosofía parcialmente fracasa en hacer, lo hace la revelación; es decir, que afirma que esta Primera Causa de la ciencia y el Dios de salvación de la religión son *una y la misma Deidad.*"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La investigación racional de la ciencia se termina en la hipótesis de una Causa Primera. La religión no se detiene en su trayectoria de fe hasta estar segura de la existencia de un Dios de salvación. Los estudios científicos perspicaces sugieren de forma lógica la existencia y la realidad de un Absoluto. La religión cree sin reservas en la existencia y realidad de un Dios que promueve la supervivencia de la personalidad. Lo que la metafísica no consigue en modo alguno y lo que incluso la filosofía solo consigue parcialmente lo hace la revelación, es decir, afirmar que la Causa Primera de la ciencia y el Dios de salvación de la religión son *una sola y misma Deidad*."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "101:2.8",
       "pageReference": "1106.7",
       "sortId": "3.101.002.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La razón es la prueba de la ciencia; la fe, la prueba de la religión; la lógica, la prueba de la filosofía, pero la revelación se valida sólo por la *experiencia* humana. La ciencia produce conocimiento; la religión produce felicidad; la filosofía produce unidad; la revelación confirma la armonía experimental de este alcance trino a la realidad universal."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La razón es la prueba de la ciencia, la fe la prueba de la religión, la lógica la prueba de la filosofía, pero solo la *experiencia* humana valida la revelación. La ciencia produce conocimiento; la religión produce felicidad; la filosofía produce unidad; la revelación confirma la armonía experiencial de este planteamiento trino de la realidad universal."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "101:2.9",
       "pageReference": "1106.8",
       "sortId": "3.101.002.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La contemplación de la naturaleza puede tan sólo revelar a un Dios de la naturaleza, un Dios de movimiento. La naturaleza exhibe tan sólo la materia, el movimiento y la animación —la vida. La materia más la energía, bajo ciertas condiciones, se manifiesta en formas vivas, pero aunque la vida natural sea de esta manera relativamente continua como fenómeno, es totalmente transitoria en cuanto a las individualidades. La naturaleza no proporciona base para la creencia lógica en la supervivencia de la personalidad humana. El hombre religioso que encuentra a Dios en la naturaleza ya ha encontrado primero a este mismo Dios personal en su propia alma."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La contemplación de la naturaleza solo puede revelar a un Dios de la naturaleza, un Dios de movimiento. La naturaleza solo muestra materia, movimiento y animación: vida. Bajo ciertas condiciones la materia sumada a la energía se manifiesta en formas vivas, y aunque la vida natural es relativamente continua como fenómeno, es totalmente pasajera para los individuos. La naturaleza no proporciona ninguna base para la creencia lógica en la supervivencia de la personalidad humana. El hombre religioso que encuentra a Dios en la naturaleza ya había encontrado primero a ese mismo Dios personal en su propia alma."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "101:2.10",
       "pageReference": "1106.9",
       "sortId": "3.101.002.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La fe revela a Dios en el alma. La revelación, el sustituto del discernimiento interior morontial en un mundo evolucionario, permite al hombre ver en la naturaleza al mismo Dios que la fe exhibe en su alma. Así pues la revelación consigue formar un puente entre lo material y lo espiritual, aun entre la criatura y el Creador, entre el hombre y Dios."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La fe revela a Dios en el alma. La revelación, el sustituto de la visión interior de morontia en los mundos evolutivos, permite al hombre ver en la naturaleza al mismo Dios que la fe le muestra en su alma. La revelación consigue así salvar el abismo existente entre lo material y lo espiritual, incluso entre la criatura y el Creador, entre el hombre y Dios."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "101:2.11",
       "pageReference": "1107.1",
       "sortId": "3.101.002.011",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La contemplación de la naturaleza señala lógicamente que existe una guía inteligente, aun una supervisión viviente, pero no revela en ninguna forma satisfactoria a un Dios personal. Por otra parte, la naturaleza no demuestra nada que impida considerar al universo como obra del Dios de la religión. No se puede hallar a Dios a través de la naturaleza por sí sola, pero una vez que el hombre le haya encontrado de otra manera, el estudio de la naturaleza se vuelve completamente acorde con una interpretación más elevada y más espiritual del universo."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La contemplación de la naturaleza apunta lógicamente hacia la existencia de una dirección inteligente, incluso de una supervisión viva, pero no revela de ninguna manera satisfactoria a un Dios personal. Por otra parte, no hay nada en la naturaleza que impida considerar el universo como obra personal del Dios de la religión. No se puede encontrar a Dios a través de la sola naturaleza, pero una vez que el hombre lo ha encontrado por otras vías, el estudio de la naturaleza se muestra perfectamente compatible con una interpretación más alta y espiritual del universo."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "101:2.12",
       "pageReference": "1107.2",
       "sortId": "3.101.002.012",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La revelación como fenómeno de época es periódica; como experiencia personal humana es continua. La divinidad funciona en la personalidad mortal como el don Ajustador del Padre, como el Espíritu de la Verdad del Hijo y como el Espíritu Santo del Espíritu del Universo; mientras que estas tres dotaciones supermortales se unifican en la evolución experiencial humana, como el ministerio del Supremo."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La revelación como fenómeno de época es periódica; como experiencia personal humana es continua. La divinidad actúa en la personalidad del mortal bajo la forma del Ajustador donado por el Padre, bajo la forma del Espíritu de la Verdad del Hijo y bajo la forma del Espíritu Santo del Espíritu del Universo. Estas tres dotaciones supramortales se unifican en la evolución experiencial humana bajo la forma del ministerio del Supremo."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "101:2.13",
       "pageReference": "1107.3",
       "sortId": "3.101.002.013",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La verdadera religión es discernimiento interior de la realidad, el vástago de fe de la conciencia moral, y no un simple consentimiento intelectual en un cuerpo de doctrinas dogmáticas. La verdadera religión consiste en la experiencia de «que el Espíritu mismo da testimonio con nuestro espíritu, de que somos hijos de Dios». La religión consiste, no en proposiciones teológicas sino en discernimiento espiritual interior y sublimidad de la confianza del alma."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La verdadera religión es una visión interior de la realidad nacida por la fe de la consciencia moral, y no un mero asentimiento intelectual a un conjunto cualquiera de doctrinas dogmáticas. La religión verdadera consiste en la experiencia de que «el Espíritu mismo da testimonio juntamente con nuestro espíritu de que somos hijos de Dios». La religión no consiste en proposiciones teológicas sino en la visión interior espiritual y la confianza sublime del alma."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "101:2.14",
       "pageReference": "1107.4",
       "sortId": "3.101.002.014",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "Tu naturaleza más profunda —el Ajustador divino— crea dentro de ti un hambre y sed de rectitud, un certero deseo de perfección divina. La religión es el acto de fe del reconocimiento de este impulso interior al alcance divino; así se obtiene esa confianza y seguridad del alma de la cual te vuelves consciente como camino hacia la salvación, la técnica de la supervivencia de la personalidad y todos aquellos valores que has llegado a considerar verdaderos y buenos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "Vuestra naturaleza más profunda —el Ajustador divino— crea dentro de vosotros hambre y sed de rectitud, un anhelo de perfección divina. La religión es el acto de fe de reconocer esta ansia interior por lograr la divinidad. Así nacen la confianza y la seguridad del alma que reconocéis como camino de salvación, el proceso de supervivencia de la personalidad y de todos los valores que habéis llegado a considerar buenos y verdaderos."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "101:2.15",
       "pageReference": "1107.5",
       "sortId": "3.101.002.015",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La comprensión de la religión no ha sido nunca ni será jamás dependiente de gran saber o de lógica ingeniosa. Es discernimiento interior espiritual, y ésa es precisamente la razón por la cual algunos de los más grandes maestros religiosos del mundo, aun los profetas, a veces han poseído tan poco de la sabiduría del mundo. La fe religiosa está al alcance tanto de los cultos como de los incultos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "Entender la religión no ha dependido nunca, ni dependerá, de un gran saber o una lógica impecable. Es visión interior espiritual, y esa es precisamente la razón por la que algunos de los mayores maestros religiosos del mundo, incluso de los profetas, han poseído a veces tan poca sabiduría del mundo. La fe religiosa está al alcance tanto de los doctos como de los indoctos por igual."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "101:2.16",
       "pageReference": "1107.6",
       "sortId": "3.101.002.016",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La religión debe ser por siempre su propio crítico y juez; no puede ser observada, ni mucho menos comprendida, desde afuera. La única seguridad que tienes de un Dios personal consiste en tu propio discernimiento en cuanto a tu creencia en las cosas espirituales y experiencia con ellas. Para todos aquellos de tus semejantes que hayan tenido una experiencia similar, no es necesario ningún argumento sobre la personalidad o la realidad de Dios, mientras que para todos los demás hombres que no están seguros de Dios de esta manera, no hay argumento posible que pueda ser jamás realmente convincente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La religión será siempre su propio crítico y su propio juez; nunca puede ser observada, y mucho menos comprendida, desde fuera. La única certeza que podéis tener acerca de un Dios personal consiste en la visión interior propia en cuanto a vuestra creencia en, y experiencia con, las cosas espirituales. Aquellos de vuestros semejantes que hayan tenido una experiencia similar no necesitarán ningún argumento sobre la personalidad ni la realidad de Dios, mientras que para todos los demás hombres que no tengan esa certeza de Dios ningún argumento será nunca verdaderamente convincente."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "101:2.17",
       "pageReference": "1107.7",
       "sortId": "3.101.002.017",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "El Hecho de la Religión",
-      "markdown": "La psicología puede en efecto intentar estudiar los fenómenos de las reacciones religiosas al medio ambiente social, pero no puede esperar jamás penetrar los motivos y mecanismos reales e interiores de la religión. Tan sólo la teología, la provincia de la fe y la técnica de la revelación, puede proporcionar un recuento inteligente de la naturaleza y contenido de la experiencia religiosa."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "El hecho de la religión",
+      "markdown": "La psicología puede sin duda intentar estudiar los fenómenos de las reacciones religiosas al entorno social, pero nunca puede esperar penetrar en los verdaderos móviles y funcionamientos internos de la religión. Solo la teología, que es el campo de la fe y la técnica de la revelación, puede ofrecer algún tipo de explicación inteligente sobre la naturaleza y el contenido de la experiencia religiosa."
     },
     {
       "type": "section",
@@ -577,8 +577,8 @@
       "standardReferenceId": "101:3.0",
       "pageReference": null,
       "sortId": "3.101.003.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
       "markdown": null
     },
     {
@@ -595,9 +595,9 @@
       "standardReferenceId": "101:3.1",
       "pageReference": "1107.8",
       "sortId": "3.101.003.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "La religión es tan vital que persiste en ausencia de la erudición. Vive a pesar de su contaminación con cosmologías erróneas y filosofías falsas; sobrevive aun a la confusión de la metafísica. A través de todas las vicisitudes históricas de la religión y en ellas siempre persiste aquello que es indispensable para el progreso y la supervivencia humanos: la conciencia ética y moral."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "La religión es tan vital que perdura en ausencia del saber. Vive a pesar de contaminarse con cosmologías erróneas y filosofías falsas. Sobrevive incluso a la confusión de la metafísica. A través de todas las vicisitudes históricas de la religión persiste siempre lo que es indispensable para el progreso y la supervivencia de la humanidad: la conciencia ética y la consciencia moral."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "101:3.2",
       "pageReference": "1108.1",
       "sortId": "3.101.003.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "La fe-visión o intuición espiritual, es la dote de la mente cósmica en asociación con el Ajustador del Pensamiento, que constituye el don del Padre para el hombre. La razón espiritual, la inteligencia del alma, es la dote del Espíritu Santo, el don del Espíritu Creativo al hombre. La filosofía espiritual, la sabiduría de las realidades espirituales, es la dote del Espíritu de la Verdad, el don combinado de los Hijos autootorgadores a los hijos de los hombres. Y la coordinación e interasociación de estas dotes espirituales constituyen al hombre en una personalidad espiritual con un destino potencial."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "La visión interior de fe, o intuición espiritual, es la dotación de la mente cósmica en asociación con el Ajustador del Pensamiento, que es el don del Padre al hombre. La razón espiritual, la inteligencia del alma, es dotación del Espíritu Santo, el don del Espíritu Creativo al hombre. La filosofía espiritual, la sabiduría de las realidades del espíritu, es dotación del Espíritu de la Verdad, el don conjunto de los Hijos de otorgamiento a los hijos de los hombres. La coordinación e interasociación de estas dotaciones de espíritu confieren al hombre un destino potencial como personalidad de espíritu."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "101:3.3",
       "pageReference": "1108.2",
       "sortId": "3.101.003.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "Es lo que el Ajustador posee de esta misma personalidad espiritual en su forma primitiva y embrionaria lo que sobrevive a la muerte natural de la carne. Esta entidad compuesta de origen espiritual en asociación con la experiencia humana está habilitada, mediante el camino vivo previsto por los Hijos divinos, a sobrevivir (bajo la custodia del Ajustador) a la disolución del yo material de la mente y la materia cuando dicha asociación transitoria de lo material y lo espiritual se divorcia debido a la cesación del movimiento vital."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "Esta misma personalidad de espíritu, en forma primitiva y embrionaria, es la que sobrevive como posesión del Ajustador a la muerte natural en la carne. Esta entidad compuesta, originada en el espíritu en asociación con la experiencia humana, está capacitada para sobrevivir (bajo la custodia del Ajustador) a la disolución del yo material de mente y materia. Dicha supervivencia se produce a través del camino vivo proporcionado por los Hijos divinos cuando la asociación pasajera de lo material y lo espiritual se deshace al cesar el movimiento vital."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "101:3.4",
       "pageReference": "1108.3",
       "sortId": "3.101.003.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "A través de la fe religiosa, el alma del hombre se revela a sí misma y demuestra la divinidad potencial de su naturaleza emergente por la forma característica en que induce a la personalidad mortal a reaccionar ante ciertas situaciones intelectuales y sociales difíciles y de prueba. La genuina fe espiritual (conciencia moral auténtica) se revela en que:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "El alma del hombre se revela por la fe religiosa y demuestra la divinidad potencial de su naturaleza emergente por la manera característica en que induce a la personalidad del mortal a reaccionar ante ciertas situaciones duras en lo intelectual y difíciles en lo social. La auténtica fe espiritual (la verdadera consciencia moral) se revela en que:"
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "101:3.5",
       "pageReference": "1108.4",
       "sortId": "3.101.003.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "1. Ocasiona el progreso de la ética y de la moral a pesar de las tendencias animalísticas inherentes y adversas."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "1. Hace que la ética y la moral progresen a pesar de las tendencias animales inherentes y adversas."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "101:3.6",
       "pageReference": "1108.5",
       "sortId": "3.101.003.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "2. Produce una confianza sublime en la bondad de Dios aun frente a un amargo desencanto y una derrota total."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "2. Produce una confianza sublime en la bondad de Dios incluso ante decepciones amargas y fracasos aplastantes."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "101:3.7",
       "pageReference": "1108.6",
       "sortId": "3.101.003.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "3. Genera profundo valor y confianza a pesar de la adversidad natural y la calamidad física."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "3. Genera profundo valor y confianza a pesar de las adversidades naturales y las calamidades físicas."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "101:3.8",
       "pageReference": "1108.7",
       "sortId": "3.101.003.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "4. Exhibe un aplomo inexplicable y una tranquilidad constante a pesar de la presencia de enfermedades desconcertantes y aun de sufrimiento físico agudo."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "4. Muestra una serenidad inexplicable y una fortaleza tranquila frente a enfermedades desconcertantes e incluso sufrimiento físico agudo."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "101:3.9",
       "pageReference": "1108.8",
       "sortId": "3.101.003.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "5. Mantiene un aplomo misterioso y un equilibrio de la personalidad frente al maltrato y las injusticias más flagrantes."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "5. Mantiene a la personalidad en un misterioso estado de equilibrio y serenidad frente al maltrato y las injusticias más flagrantes."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "101:3.10",
       "pageReference": "1108.9",
       "sortId": "3.101.003.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "6. Mantiene una confianza divina en la victoria final a pesar de las crueldades de un hado aparentemente ciego y de la aparente indiferencia total al bienestar humano de las fuerzas naturales."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "6. Mantiene una confianza divina en la victoria final a pesar de las crueldades de un destino aparentemente ciego y de la aparente indiferencia de las fuerzas naturales hacia el bienestar humano."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "101:3.11",
       "pageReference": "1108.10",
       "sortId": "3.101.003.011",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "7. Persiste en la creencia indestructible en Dios a pesar de todas las demostraciones contrarias de la lógica y resiste con éxito todos los demás sofismas intelectuales."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "7. Persevera en la creencia inquebrantable en Dios a pesar de todas las demostraciones contrarias de la lógica y supera los ataques de todas las demás sofisterías intelectuales."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "101:3.12",
       "pageReference": "1108.11",
       "sortId": "3.101.003.012",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "8. Continúa exhibiendo una fe infalible en la supervivencia del alma a pesar de las enseñanzas engañosas de la ciencia falsa y de los delirios persuasivos de una filosofía defectuosa."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "8. Muestra una fe indefectible en la supervivencia del alma, sin atender a los engaños de la falsa ciencia ni a los delirios persuasivos de filosofías endebles."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "101:3.13",
       "pageReference": "1108.12",
       "sortId": "3.101.003.013",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "9. Vive y triunfa a pesar del peso demoledor de las civilizaciones complejas y parciales de los tiempos modernos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "9. Vive y triunfa sin dejarse afectar por la carga aplastante de las civilizaciones complejas y parciales de los tiempos modernos."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "101:3.14",
       "pageReference": "1108.13",
       "sortId": "3.101.003.014",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "10. Contribuye a la supervivencia continuada del altruismo a pesar del egoísmo humano, de los antagonismos sociales, las avideces industriales y los desajustes políticos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "10. Contribuye a la supervivencia permanente del altruismo a pesar del egoísmo humano, los antagonismos sociales, la codicia industrial y los desajustes políticos."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "101:3.15",
       "pageReference": "1108.14",
       "sortId": "3.101.003.015",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "11. Se adhiere en forma inquebrantable a la creencia sublime en la unidad universal y en la guía divina a pesar de la presencia desconcertante del mal y del pecado."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "11. Se adhiere firmemente a una creencia sublime en la unidad del universo y su conducción divina sin dejarse afectar por la presencia desconcertante del mal y del pecado."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "101:3.16",
       "pageReference": "1108.15",
       "sortId": "3.101.003.016",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "12. Continúa adorando a Dios a pesar de todo y de cada cosa. Se atreve a declarar «aunque me matare, seguiré sirviéndole»."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "12. Pase lo que pase, sigue adorando a Dios. Se atreve a declarar: «Aunque me matare, a él serviré»."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "101:3.17",
       "pageReference": "1108.16",
       "sortId": "3.101.003.017",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "Sabemos pues mediante tres fenómenos, que el hombre tiene un espíritu o espíritus divinos residentes en él: en primer término, por experiencia personal —la fe religiosa; en segundo término, por la revelación —personal y racial; y en tercer término, por la exhibición sorprendente de reacciones tan extraordinarias y poco naturales a su medio ambiente material como las que se ilustran en la enumeración arriba mencionada de doce actuaciones de aspecto espiritual en la presencia de tesituras reales y difíciles de la existencia humana real. Y aún hay más."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "Sabemos pues, por tres fenómenos, que el hombre tiene un espíritu o espíritus divinos que moran dentro de él: en primer lugar por experiencia personal, por la fe religiosa; en segundo lugar por la revelación personal y racial; y en tercer lugar por el admirable despliegue de reacciones extraordinarias y poco naturales a su entorno material como las que acabamos de enumerar en doce actitudes de tipo espiritual ante situaciones concretas y difíciles de la existencia humana real. Y aún hay otras."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "101:3.18",
       "pageReference": "1109.1",
       "sortId": "3.101.003.018",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Características de la Religión",
-      "markdown": "Y es precisamente tal actuación vital y vigorosa de la fe en el dominio de la religión la que da al hombre mortal derecho a afirmar la posesión personal y la realidad espiritual de esa dote coronadora de la naturaleza humana: la experiencia religiosa."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las características de la religión",
+      "markdown": "Son precisamente esas manifestaciones vitales y vigorosas de la fe en el ámbito de la religión las que dan al hombre mortal el derecho a afirmar la posesión personal y la realidad espiritual de esa dotación suprema de la naturaleza humana que es la experiencia religiosa."
     },
     {
       "type": "section",
@@ -919,8 +919,8 @@
       "standardReferenceId": "101:4.0",
       "pageReference": null,
       "sortId": "3.101.004.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
       "markdown": null
     },
     {
@@ -937,9 +937,9 @@
       "standardReferenceId": "101:4.1",
       "pageReference": "1109.2",
       "sortId": "3.101.004.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "Puesto que vuestro mundo es en general ignorante de los orígenes, aun de los orígenes físicos, de vez en cuando nos ha parecido sabio proveer instrucción en cosmología. Y siempre esto ha producido problemas para el futuro. Las leyes de la revelación nos frenan considerablemente, debido a la prohibición de impartir conocimiento no ganado o prematuro. Toda cosmología presentada como parte de la religión revelada está destinada a ser superada en un período muy corto. Por lo tanto, los estudiantes futuros de tal revelación están tentados a descartar todo elemento de verdad religiosa genuina que pueda contener, debido a que descubren errores frente a las cosmologías asociadas que allí se presentan."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "En vista de la ignorancia generalizada de vuestro mundo sobre los orígenes, incluso sobre los orígenes físicos, nos parece conveniente aportar de vez en cuando conocimientos de cosmología, aunque esto ha supuesto siempre problemas para el futuro. Nos vemos muy limitados por las normas de la revelación que nos prohíben impartir conocimiento no ganado o prematuro. Toda cosmología presentada como parte de una religión revelada está destinada a quedarse atrás en muy poco tiempo, por eso los futuros estudiantes de esa revelación se sienten tentados de desechar todos los elementos de auténtica verdad religiosa que pueda contener cuando creen descubrir errores en las cosmologías que se presentan como asociadas a ella."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "101:4.2",
       "pageReference": "1109.3",
       "sortId": "3.101.004.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "La humanidad debe comprender que nosotros, quienes participamos en la revelación de la verdad, estamos limitados muy rigurosamente por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos de mil años. Los reveladores deben actuar de acuerdo con las instrucciones que forman parte del mandato de revelación. No vemos forma alguna de superar dicha dificultad, ni ahora ni en un tiempo futuro. Bien sabemos que, mientras los hechos históricos y las verdades religiosas de esta serie de presentaciones reveladoras permanecerán en los registros de las eras venideras, dentro de pocos años muchas de nuestras declaraciones sobre las ciencias físicas necesitarán una revisión como consecuencia de desarrollos científicos adicionales y de nuevos descubrimientos. Estos nuevos desarrollos los anticipamos desde ya, pero se nos prohíbe incluir tales hechos aún no descubiertos por la humanidad en nuestros registros revelatorios. Aclaremos que las revelaciones no son necesariamente inspiradas. La cosmología de estas revelaciones *no es inspirada.* Está limitada por el permiso que tenemos para la coordinación y selección del conocimiento actual. Aunque el discernimiento divino o espiritual sea un don, la *sabiduría humana debe evolucionar.*"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "La humanidad debería comprender que los que participamos en la revelación de la verdad estamos rigurosamente limitados por las instrucciones de nuestros superiores. No tenemos libertad para anticipar los descubrimientos científicos de mil años. Los reveladores tenemos que acatar las instrucciones que forman parte del mandato de revelación. No vemos ninguna manera de salvar esta dificultad ni ahora ni en ningún momento futuro. Sabemos muy bien que los hechos históricos y las verdades religiosas de esta serie de exposiciones de revelación se conservarán en los anales de las edades venideras, pero dentro de pocos años muchas de nuestras afirmaciones relativas a las ciencias físicas tendrán que ser revisadas en consonancia con los avances del desarrollo científico y los nuevos descubrimientos. Esos desarrollos futuros los prevemos incluso desde ahora, pero tenemos prohibido incluir hechos aún no descubiertos por los humanos en los documentos de revelación. Que quede claro que las revelaciones no están necesariamente inspiradas. La cosmología de estas revelaciones *no es inspirada*. Está limitada por el permiso que tenemos de coordinar y clasificar el conocimiento presente. Si bien la visión interior divina o espiritual es una dádiva, *la sabiduría humana tiene que evolucionar*."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "101:4.3",
       "pageReference": "1109.4",
       "sortId": "3.101.004.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "La verdad es siempre una revelación: autorrevelación cuando surge como resultado del trabajo del Ajustador residente; revelación de época cuando se presenta mediante la función de alguna otra agencia, grupo o personalidad celestial."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "La verdad es siempre una revelación. Es una autorrevelación cuando emerge como resultado del trabajo del Ajustador que mora en el interior, y es una revelación que marca época cuando es presentada por mediación de otros agentes, grupos o personalidades celestiales."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "101:4.4",
       "pageReference": "1109.5",
       "sortId": "3.101.004.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "En último análisis, la religión debe juzgarse por sus frutos, de acuerdo con la manera y el grado en el que exhibe su propia excelencia inherente y divina."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "En última instancia la religión ha de ser juzgada por sus frutos según la manera y el grado en que manifiesta su propia excelencia inherente y divina."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "101:4.5",
       "pageReference": "1109.6",
       "sortId": "3.101.004.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "La verdad puede ser tan sólo relativamente inspirada, aunque la revelación es invariablemente un fenómeno espiritual. Aunque las declaraciones referentes a la cosmología no son jamás inspiradas, esas revelaciones son de inmenso valor en cuanto por lo menos aclaran transitoriamente el conocimiento mediante:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "Aunque la revelación es invariablemente un fenómeno espiritual, la verdad puede estar inspirada solo de forma relativa. Las declaraciones referentes a la cosmología nunca están inspiradas, pero estas revelaciones son de inmenso valor ya que contribuyen, al menos transitoriamente, a aclarar los conocimientos como sigue:"
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "101:4.6",
       "pageReference": "1109.7",
       "sortId": "3.101.004.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "1. La reducción de la confusión por la eliminación experta del error."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "1. Reducen la confusión al eliminar autorizadamente los errores."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "101:4.7",
       "pageReference": "1109.8",
       "sortId": "3.101.004.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "2. La coordinación de hechos y observaciones conocidos o a punto de ser conocidos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "2. Coordinan hechos y observaciones ya conocidos o a punto de serlo."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "101:4.8",
       "pageReference": "1110.1",
       "sortId": "3.101.004.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "3. La restitución de fragmentos importantes de conocimiento perdido relativo a transacciones de época en el pasado distante."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "3. Restituyen porciones importantes de conocimiento perdido sobre eventos que marcaron época en el pasado remoto."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "101:4.9",
       "pageReference": "1110.2",
       "sortId": "3.101.004.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "4. El abastecimiento de información que llene lagunas vitales en el conocimiento por otra parte ya ganado."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "4. Aportan información que subsana lagunas fundamentales existentes en conocimientos adquiridos por otros medios."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "101:4.10",
       "pageReference": "1110.3",
       "sortId": "3.101.004.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Las Limitaciones de la Revelación",
-      "markdown": "5. La presentación de datos cósmicos en una forma tal que ilumine las enseñanzas espirituales contenidas en la revelación acompañante."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Las limitaciones de la revelación",
+      "markdown": "5. Presentan datos cósmicos de forma que iluminen las enseñanzas espirituales contenidas en la revelación que los acompaña."
     },
     {
       "type": "section",
@@ -1117,8 +1117,8 @@
       "standardReferenceId": "101:5.0",
       "pageReference": null,
       "sortId": "3.101.005.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
       "markdown": null
     },
     {
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "101:5.1",
       "pageReference": "1110.4",
       "sortId": "3.101.005.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "La revelación es una técnica mediante la cual se le ahorran eras y eras de tiempo en el trabajo necesario de selección y para separar los errores de la evolución de las verdades de adquisición espiritual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "La revelación es una técnica que permite ahorrar siglos y siglos de tiempo en el trabajo necesario de seleccionar y cribar los errores de la evolución para separarlos de las verdades que se adquieren por el espíritu."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "101:5.2",
       "pageReference": "1110.5",
       "sortId": "3.101.005.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "La ciencia trata de los *hechos;* la religión se preocupa tan sólo de los *valores.* Mediante la filosofía esclarecida la mente intenta unir los significados tanto de hechos como de valores, llegando así a un concepto completo de *realidad.* Recordad que la ciencia es el dominio del conocimiento, la filosofía el reino de la sabiduría, y la religión la esfera de la experiencia de la fe. Pero la religión, sin embargo, presenta dos fases de manifestación:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "La ciencia se dedica a los *hechos*; la religión solo se interesa por los *valores*. A través de una filosofía esclarecida, la mente se esfuerza por unir los significados de los hechos y los valores para llegar así a un concepto de la *realidad* completa. Recordad que la ciencia es el ámbito del conocimiento, la filosofía el campo de la sabiduría y la religión la esfera de la experiencia de la fe. No obstante, la religión presenta dos fases de manifestación:"
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "101:5.3",
       "pageReference": "1110.6",
       "sortId": "3.101.005.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "1. La religión evolucionaria. La experiencia de la adoración primitiva, la religión que se deriva de la mente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "1. La religión evolutiva: la experiencia de adoración primitiva, la religión derivada de la mente."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "101:5.4",
       "pageReference": "1110.7",
       "sortId": "3.101.005.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "2. La religión revelada. La actitud universal que se deriva del espíritu; la seguridad de —y la creencia en— la conservación de las realidades eternas, la supervivencia de la personalidad y el logro final de la Deidad cósmica cuyo propósito ha hecho todo esto posible. Es parte del plan universal que tarde o temprano la religión evolucionaria está destinada a recibir la ampliación espiritual de la revelación."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "2. La religión revelada: la actitud ante el universo derivada del espíritu; la seguridad y la creencia de que se conservarán las realidades eternas, de que la personalidad sobrevive y de que al final se alcanza la Deidad cósmica cuyo designio ha hecho todo esto posible. Tarde o temprano la religión evolutiva está destinada a recibir la ampliación espiritual de la revelación, y eso forma parte del plan del universo."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "101:5.5",
       "pageReference": "1110.8",
       "sortId": "3.101.005.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "Tanto la ciencia como la religión comienzan suponiendo ciertas bases generalmente aceptadas para hacer deducciones lógicas. Así también ha de comenzar la filosofía su carrera basándose en la suposición de la realidad de tres cosas:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "Tanto la ciencia como la religión parten del supuesto de ciertas bases generalmente aceptadas para hacer deducciones lógicas. Así mismo, la filosofía ha de empezar su recorrido suponiendo la realidad de tres cosas:"
     },
     {
       "type": "paragraph",
@@ -1225,8 +1225,8 @@
       "standardReferenceId": "101:5.6",
       "pageReference": "1110.9",
       "sortId": "3.101.005.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
       "markdown": "1. El cuerpo material."
     },
     {
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "101:5.7",
       "pageReference": "1110.10",
       "sortId": "3.101.005.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "2. La fase supermaterial del ser humano, el alma o aun el espíritu residente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "2. La parte supramaterial del ser humano, el alma o incluso el espíritu que mora en su interior."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "101:5.8",
       "pageReference": "1110.11",
       "sortId": "3.101.005.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "3. La mente humana, el mecanismo para la intercomunicación e interasociación entre el espíritu y la materia, entre lo material y lo espiritual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "3. La mente humana, el mecanismo de asociación y comunicación entre el espíritu y la materia, entre lo material y lo espiritual."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "101:5.9",
       "pageReference": "1110.12",
       "sortId": "3.101.005.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "Los científicos reúnen hechos, los filósofos coordinan ideas, mientras los profetas exaltan ideales. El sentimiento y la emoción son concomitantes invariables de la religión, pero no son la religión. La religión puede ser el sentimiento de la experiencia; pero no podemos decir que sea la experiencia del sentimiento. Ni la lógica (racionalización) ni la emoción (sentimiento) son esencialmente parte de la experiencia religiosa, aunque ambas puedan estar asociadas en forma variada con el ejercicio de la fe en el adelanto del discernimiento espiritual de la realidad, todo de acuerdo con el estado y la tendencia temperamental de la mente individual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "Los científicos reúnen hechos y los filósofos coordinan ideas, mientras que los profetas exaltan ideales. El sentimiento y la emoción acompañan invariablemente a la religión pero no son religión. La religión puede ser el sentimiento de la experiencia pero no es la experiencia del sentimiento. Ni la lógica (la racionalización) ni la emoción (el sentimiento) son parte esencial de la experiencia religiosa, aunque ambas pueden estar diversamente asociadas al ejercicio de la fe para favorecer una mejor visión interior espiritual de la realidad, todo ello en consonancia con la situación y la tendencia temperamental de cada mente individual."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "101:5.10",
       "pageReference": "1110.13",
       "sortId": "3.101.005.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "La religión evolucionaria es la manifestación exterior de la dote del ayudante de la mente del universo local, encargado de crear y fomentar la tendencia a la adoración en el hombre evolutivo. Estas religiones primitivas se ocupan directamente de la ética y la moral, el sentido del *deber* humano. Estas religiones se basan en la seguridad de la conciencia y dan como resultado la estabilización de civilizaciones relativamente éticas."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "La religión evolutiva es fruto de la dotación del adjutor de mente del universo local encargado de crear y fomentar la característica de la adoración en el hombre en vías de evolución. Estas religiones primitivas se interesan directamente por la ética y la moral, por el sentido del *deber* humano. Estas religiones se basan en la seguridad de la conciencia y dan lugar a civilizaciones estabilizadas y relativamente éticas."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "101:5.11",
       "pageReference": "1111.1",
       "sortId": "3.101.005.011",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "Las religiones reveladas personalmente están patrocinadas por los espíritus de dotación que representan a las tres personas de la Trinidad del Paraíso y se ocupan especialmente de la expansión de la *verdad.* La religión evolucionaria lleva al individuo la idea del deber personal; la religión revelada acentúa cada vez más el amor, la regla de oro."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "Las religiones reveladas personalmente tienen como patrocinadores a los espíritus de otorgamiento que representan a las tres personas de la Trinidad del Paraíso y están especialmente dedicados a la expansión de la *verdad*. La religión evolutiva refuerza en el individuo la idea del deber personal; la religión revelada pone un énfasis creciente en el amor, la regla de oro."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "101:5.12",
       "pageReference": "1111.2",
       "sortId": "3.101.005.012",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "La religión evolucionada se apoya enteramente en la fe. La revelación tiene la seguridad adicional de su presentación ampliada de las verdades de la divinidad y de la realidad y el testimonio aun más valioso de la experiencia real que se acumula como consecuencia de la unión y práctica de trabajo de la fe evolucionaria con la verdad revelatoria. Tal unión trabajadora de fe humana y verdad divina constituye la posesión de un carácter que está bien encaminado hacia la adquisición real de una personalidad morontial."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "La religión evolucionada descansa por completo en la fe. La revelación ofrece la seguridad adicional de presentar una ampliación de las verdades sobre la divinidad y la realidad, y el testimonio aún más valioso de la experiencia real que se acumula como consecuencia de la unión práctica y activa de la fe de evolución con la verdad de revelación. Esta unión activa de fe humana y verdad divina constituye la posesión de un carácter bien encaminado hacia la adquisición efectiva de una personalidad morontial."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "101:5.13",
       "pageReference": "1111.3",
       "sortId": "3.101.005.013",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "La religión evolucionaria provee tan sólo la seguridad de la fe y la confirmación de la conciencia; la religión revelatoria provee la seguridad de la fe más la verdad de una experiencia viva en las realidades de la revelación. El tercer paso en la religión, o la tercera fase de la experiencia de la religión, tiene que ver con el estado morontial, la comprensión más firme de mota. En la progresión morontial las verdades de la religión revelada se van ampliando cada vez más; más y más conocerás la verdad de los valores supremos, de las bondades divinas, de las interrelaciones universales, las realidades eternas y los destinos últimos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "La religión evolutiva proporciona solo la seguridad de la fe y la confirmación de la conciencia; la religión revelativa proporciona la seguridad de la fe más la verdad de una experiencia viva en las realidades de la revelación. El tercer paso de la religión, o tercera fase de la experiencia de la religión, corresponde al estado de la morontia, a la comprensión más firme de la mota. En la progresión en la morontia las verdades de la religión revelada se amplían de forma creciente; iréis conociendo cada vez mejor la verdad de los valores supremos, de las bondades divinas, de las relaciones universales, de las realidades eternas y de los destinos últimos."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "101:5.14",
       "pageReference": "1111.4",
       "sortId": "3.101.005.014",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión Ampliada por la Revelación",
-      "markdown": "Cada vez más a lo largo de la progresión morontial la seguridad de la verdad va reemplazando la seguridad de la fe. Cuando finalmente seas llamado a las filas del verdadero mundo espiritual, las seguridades del discernimiento espiritual puro operarán en lugar de la fe y de la verdad o, más bien, juntamente con estas técnicas previas de seguridad de la personalidad, y superpuestas a ellas."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión ampliada por la revelación",
+      "markdown": "A lo largo de toda la progresión en la morontia, la certeza de la verdad va sustituyendo de forma creciente a la certeza de la fe. Cuando seáis incorporados finalmente al mundo del espíritu propiamente dicho, las certezas de la pura visión interior del espíritu obrarán en lugar de la fe y de la verdad, o más bien en combinación y superpuestas a estos métodos anteriores de certeza de la personalidad."
     },
     {
       "type": "section",
@@ -1387,8 +1387,8 @@
       "standardReferenceId": "101:6.0",
       "pageReference": null,
       "sortId": "3.101.006.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
       "markdown": null
     },
     {
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "101:6.1",
       "pageReference": "1111.5",
       "sortId": "3.101.006.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "La fase morontial de la religión revelada tiene que ver con la *experiencia de supervivencia,* y su gran impulso consiste en el logro de la perfección del espíritu. También existe un ímpetu más elevado a la adoración asociado con un llamado poderoso a un mayor servicio ético. El discernimiento morontial facilita una conciencia, cada vez más amplia, del Séptuple, el Supremo y aun el Último."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "La fase de morontia de la religión revelada corresponde a la *experiencia de la supervivencia*, y su principal afán es lograr la perfección de espíritu. También está presente el impulso superior de adoración unido a una vocación apremiante de mayor servicio ético. La visión interior de morontia implica una consciencia en constante expansión del Séptuplo, del Supremo e incluso del Último."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "101:6.2",
       "pageReference": "1111.6",
       "sortId": "3.101.006.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "A lo largo de toda experiencia religiosa, desde su más primitivo inicio en el nivel material hasta el tiempo de la obtención del estado pleno de un espíritu, el Ajustador es el secreto de la comprensión personal de la realidad de la existencia del Supremo; y este mismo Ajustador también guarda los secretos de tu fe en el alcance trascendental del Último. La personalidad experiencial del hombre en evolución, unida con la esencia Ajustador del Dios existencial, constituye la coronación potencial de la existencia suprema y es inherentemente la base para la eventuación superfinita de la personalidad trascendental."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "A lo largo de toda la experiencia religiosa, desde sus primeros comienzos en el nivel material hasta el momento de lograr el estatus pleno de espíritu, el Ajustador es el secreto que os permite captar personalmente la realidad de la existencia del Supremo, y ese mismo Ajustador guarda también los secretos de vuestra fe en el logro trascendental del Último. La personalidad experiencial del hombre en vías de evolución, unida a la esencia del Dios existencial bajo forma de Ajustador, constituye la compleción potencial de la existencia suprema y es de por sí la base para el devenir suprafinito de la personalidad trascendental."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "101:6.3",
       "pageReference": "1111.7",
       "sortId": "3.101.006.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "La voluntad moral abraza decisiones basadas en el conocimiento razonado, aumentadas por la sabiduría y sancionadas por la fe religiosa. Estas elecciones son acciones de naturaleza moral y prueban la existencia de la personalidad moral, el precursor de la personalidad morontial y finalmente del verdadero estado espiritual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "La voluntad moral contiene en sí decisiones basadas en el conocimiento razonado, acrecentadas por la sabiduría y sancionadas por la fe religiosa. Estas elecciones son actos de naturaleza moral y prueban la existencia de la personalidad moral, la precursora de la personalidad de la morontia y finalmente del verdadero estatus de espíritu."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "101:6.4",
       "pageReference": "1111.8",
       "sortId": "3.101.006.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "El tipo evolucionario de conocimiento no es sino la acumulación de material de memoria protoplasmática; ésta es la forma más primitiva de conciencia de las criaturas. La sabiduría comprende las ideas formuladas a partir de la memoria protoplasmática en el proceso de asociación y recombinación, y estos fenómenos diferencian a la mente humana de la mera mente animal. Los animales tienen conocimiento, pero sólo el hombre posee la capacidad para la sabiduría. La verdad se hace accesible al individuo provisto con sabiduría por el don a dicha mente de los espíritus del Padre y de los Hijos: el Ajustador del Pensamiento y el Espíritu de la Verdad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "El conocimiento de tipo evolutivo no es más que la acumulación de material de la memoria protoplasmática; esta es la forma más primitiva de consciencia de las criaturas. La sabiduría engloba las ideas formuladas a partir de la memoria protoplasmática en procesos de asociación y recombinación, y estos fenómenos diferencian a la mente humana de la mera mente animal. Los animales tienen conocimiento, pero solo el hombre posee capacidad de sabiduría. La verdad se hace accesible al individuo dotado de sabiduría mediante el otorgamiento a dicha mente de los espíritus del Padre y de los Hijos: el Ajustador del Pensamiento y el Espíritu de la Verdad."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "101:6.5",
       "pageReference": "1112.1",
       "sortId": "3.101.006.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "Cristo Micael, cuando se autootorgó en Urantia, vivió bajo el reino de la religión evolucionaria hasta el tiempo de su bautismo. Desde ese momento hasta el acontecimiento de su crucifixión llevó a cabo su obra mediante la guía combinada de la religión evolucionaria y revelada. Desde la mañana de su resurrección hasta su ascensión atravesó las múltiples fases de la vida morontial de transición mortal desde el mundo de la materia hasta el del espíritu. Después de su ascensión, Micael poseyó la experiencia de la Supremacía, la realización del Supremo; y puesto que era la persona única en Nebadon que poseía capacidad ilimitada para experimentar la realidad del Supremo, obtuvo inmediatamente el estado de la soberanía de supremacía en su universo local y para sí mismo."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "Cuando Cristo Miguel se otorgó en Urantia vivió según los preceptos de la religión evolutiva hasta su bautismo. Desde ese momento hasta su crucifixión incluida, llevó a cabo su obra bajo la guía conjunta de la religión evolutiva y la religión revelada. Entre la mañana de su resurrección y el momento de su ascensión atravesó las múltiples fases de la vida de transición del mortal en la morontia desde el mundo de la materia hasta el del espíritu. Después de su ascensión, Miguel alcanzó el dominio de la experiencia de la Supremacía consistente en hacer realidad al Supremo. Al ser la única persona de Nebadon con capacidad ilimitada de experimentar la realidad del Supremo, logró en el acto el estatus de soberanía de la supremacía en y sobre su universo local."
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "101:6.6",
       "pageReference": "1112.2",
       "sortId": "3.101.006.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "Para el hombre, la fusión eventual y la unidad resultante con el Ajustador residente —la síntesis de la personalidad del hombre y la esencia de Dios— lo transforma, potencialmente, en parte viva del Supremo y asegura para dicho ser anteriormente mortal el derecho al nacimiento eterno de la búsqueda interminable de la finalidad del servicio universal para el Supremo y con él."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "En el hombre la fusión final con el Ajustador que mora en su interior y la unicidad resultante —la síntesis del hombre y la esencia de Dios en una personalidad— hacen de él, en potencial, una parte viva del Supremo y garantizan a dicho ser en otro tiempo mortal su derecho innato y eterno a buscar servir por siempre al universo con carácter definitivo para y con el Supremo."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "101:6.7",
       "pageReference": "1112.3",
       "sortId": "3.101.006.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "La revelación enseña al hombre mortal que, para comenzar tan magnífica y fascinante aventura a través del espacio mediante la progresión del tiempo, debe comenzar por organizar el conocimiento en ideas-decisiones; luego, exhortar a la sabiduría que trabaje sin descanso en su noble tarea de transformar las ideas autoposeídas en ideales cada vez más prácticos pero sin embargo excelsos, aun aquellos conceptos que son tan razonables como ideas y tan lógicos como ideales que el Ajustador se atreve a combinarlos y espiritualizarlos de modo de tornarlos disponibles para que se asocien en la mente finita en forma tal como para constituirlos en complementos humanos reales, así preparados para la acción del Espíritu de la Verdad de los Hijos, las manifestaciones espacio-temporales de la verdad del Paraíso —la verdad universal. La coordinación de ideas-decisiones, ideales lógicos y verdad divina constituye la posesión de un carácter recto, el prerrequisito para la admisión mortal a las realidades en constante expansión y cada vez más espirituales de los mundos morontiales."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "La revelación enseña al hombre mortal que para iniciar tan magnífica y fascinante aventura a través del espacio y por medio de la progresión del tiempo, debe empezar por organizar el conocimiento en ideas-decisiones. Después debe encomendar a la sabiduría que trabaje incansablemente en su noble tarea de transformar las ideas propias en ideales cada vez más prácticos y sin embargo elevados, en conceptos lo suficientemente razonables como ideas y lo suficientemente lógicos como ideales para que el Ajustador se atreva a combinarlos y espiritualizarlos de forma que puedan ser asociados en la mente finita para convertirse en un complemento humano real, preparado así para la acción del Espíritu de la Verdad de los Hijos, las manifestaciones en el espacio-tiempo de la verdad paradisiaca, que es la verdad universal. La coordinación de ideas-decisiones, ideales lógicos y verdad divina constituye la posesión de un carácter recto, condición indispensable para la admisión del mortal a las realidades en expansión permanente y cada vez más espirituales de los mundos de la morontia."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "101:6.8",
       "pageReference": "1112.4",
       "sortId": "3.101.006.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "Las enseñanzas de Jesús constituyeron la primera religión urantiana que comprendió tan plenamente una coordinación armoniosa de conocimiento, sabiduría, fe, verdad y amor, tan completa y simultáneamente como para proveer tranquilidad temporal, certidumbre intelectual, esclarecimiento moral, estabilidad filosófica, sensibilidad ética, conciencia de Dios y la seguridad positiva de la supervivencia personal. La fe de Jesús trazó el camino a la finalidad de la salvación humana, a lo último de la obtención mortal del universo, puesto que proveyó:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "Las enseñanzas de Jesús constituyeron la primera religión urantiana que abarcó tan plenamente una coordinación armoniosa de conocimiento, sabiduría, fe, verdad y amor como para proporcionar de forma completa y simultánea tranquilidad temporal, certeza intelectual, esclarecimiento moral, estabilidad filosófica, sensibilidad ética, consciencia de Dios y la seguridad categórica de la supervivencia personal. La fe de Jesús señaló el camino hacia la salvación humana definitiva, hacia el logro último del mortal en el universo, puesto que establecía:"
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "101:6.9",
       "pageReference": "1112.5",
       "sortId": "3.101.006.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "1. La salvación a partir de las cadenas materiales en la comprensión personal de la filiación de Dios, que es espíritu."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "1. La liberación de las ataduras materiales mediante la comprensión personal de la filiación con Dios, que es espíritu."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "101:6.10",
       "pageReference": "1112.6",
       "sortId": "3.101.006.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "2. La salvación a partir de la esclavitud intelectual: el hombre conocerá la verdad y la verdad lo hará libre."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "2. La liberación de la esclavitud intelectual: el hombre conocerá la verdad y la verdad lo hará libre."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "101:6.11",
       "pageReference": "1112.7",
       "sortId": "3.101.006.011",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "3. La salvación a partir de la ceguera espiritual, la comprensión humana de la fraternidad de los seres mortales y el conocimiento morontial de la hermandad de todas las criaturas universales; el descubrimiento por medio del servicio de la realidad espiritual y la revelación —a través del ministerio— de la bondad de los valores espirituales."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "3. La liberación de la ceguera espiritual, la comprensión humana de la fraternidad de los seres mortales y la percepción morontiana de la hermandad de todas las criaturas del universo; el descubrimiento de la realidad espiritual mediante el servicio, y la revelación de la bondad de los valores espirituales mediante el ministerio."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "101:6.12",
       "pageReference": "1113.1",
       "sortId": "3.101.006.012",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "4. La salvación a partir de la condición incompleta del yo mediante la obtención de los niveles espirituales del universo y a través de la comprensión final de la armonía de Havona y de la perfección del Paraíso."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "4. La liberación de la incompleción del yo al alcanzar los niveles de espíritu del universo y captar finalmente la realidad de la armonía de Havona y de la perfección del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "101:6.13",
       "pageReference": "1113.2",
       "sortId": "3.101.006.013",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "5. La salvación a partir del yo, la liberación de las limitaciones de la autoconciencia a través de la obtención de los niveles cósmicos de la mente Suprema y por coordinación con los logros de todos los demás seres autoconscientes."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "5. La liberación del yo, la liberación de las limitaciones de la consciencia de uno mismo al alcanzar los niveles cósmicos de la mente Suprema y coordinarse con los logros de todos los demás seres conscientes de sí mismos."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "101:6.14",
       "pageReference": "1113.3",
       "sortId": "3.101.006.014",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "6. La salvación a partir del tiempo, la obtención de una vida eterna de progresión sin fin en el reconocimiento de Dios y al servicio de Dios."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "6. La liberación del tiempo, el logro de una vida eterna de progresión sin fin en el reconocimiento de Dios y en el servicio a Dios."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "101:6.15",
       "pageReference": "1113.4",
       "sortId": "3.101.006.015",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "7. La salvación a partir de lo finito, la unión perfeccionada con la Deidad en el Supremo y a través de él, mediante la cual la criatura intenta el descubrimiento trascendental del Último en los niveles posfinales de lo absonito."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "7. La liberación de lo finito, la unicidad perfeccionada con la Deidad en y a través del Supremo, mediante la cual la criatura intenta descubrir trascendentalmente al Último en los niveles posfinalitarios de lo absonito."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "101:6.16",
       "pageReference": "1113.5",
       "sortId": "3.101.006.016",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "Esta salvación séptuple es el equivalente del carácter completo y perfecto de la realización de la experiencia última del Padre Universal. Y todo esto, potencialmente, está contenido dentro de la realidad de la fe de la experiencia humana de la religión. Y puede estar así contenido puesto que la fe de Jesús estuvo alimentada por realidades aún más allá de lo último y las reveló; la fe de Jesús se aproximó a un absoluto universal en cuanto como tal es posible manifestarse en el cosmos espacio-temporal en evolución."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "Esta liberación séptupla equivale a hacer realidad de forma perfecta y completa la experiencia última del Padre Universal. Todo esto está contenido en potencial dentro de la realidad de la fe de la experiencia religiosa humana, y puede estar contenido así puesto que la fe de Jesús se alimentaba de realidades que sobrepasan incluso lo último y las revelaba. La fe de Jesús estuvo cerca de alcanzar el estatus de un absoluto del universo en la medida en que tal manifestación es posible en el cosmos en evolución del tiempo y el espacio."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "101:6.17",
       "pageReference": "1113.6",
       "sortId": "3.101.006.017",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Experiencia Religiosa Progresiva",
-      "markdown": "Mediante la apropiación de la fe de Jesús, el hombre mortal puede empezar a saborear en el tiempo las realidades de la eternidad. Jesús hizo el descubrimiento, en la experiencia humana, del Padre Final, y sus hermanos en la carne de la vida mortal pueden seguirle en esta misma experiencia del descubrimiento del Padre. Aun pueden obtener, por lo que son, la misma satisfacción en esta experiencia con el Padre como lo logró Jesús por lo que era. Nuevos potenciales se actualizaron en el universo de Nebadon como consecuencia del autootorgamiento terminal de Micael, y uno de éstos fue la nueva iluminación del camino de la eternidad que conduce al Padre de todos y que puede ser emprendido aun por los mortales materiales, de carne y hueso, en su vida inicial en los planetas del espacio. Jesús fue y es el nuevo camino viviente por el cual el hombre puede alcanzar la herencia divina que el Padre ha decretado será suya si sólo la pide. En Jesús se demuestra abundantemente tanto el comienzo como el fin de la experiencia de fe de la humanidad, aun de la humanidad divina."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La experiencia religiosa progresiva",
+      "markdown": "Cuando el hombre mortal hace suya la fe de Jesús puede anticipar en el tiempo las realidades de la eternidad. Jesús descubrió en la experiencia humana al Padre Final, y sus hermanos encarnados en la vida mortal pueden seguirlo en esa misma experiencia de descubrimiento del Padre. Tal como son, pueden incluso lograr en esa experiencia con el Padre la misma satisfacción que logró Jesús tal como él era. Como consecuencia del otorgamiento terminal de Miguel se actualizaron nuevos potenciales en el universo de Nebadon, y uno de ellos fue la nueva iluminación del camino de la eternidad que conduce al Padre de todos y que puede ser recorrido incluso por los mortales de carne y hueso en su vida inicial en los planetas del espacio. Jesús fue y sigue siendo el nuevo camino vivo por el que el hombre puede acceder a la herencia divina que el Padre ha decretado que sea suya con solo pedirla. En Jesús se manifiestan abundantemente tanto los comienzos como los finales de la experiencia de fe de la humanidad, e incluso de la humanidad divina."
     },
     {
       "type": "section",
@@ -1711,8 +1711,8 @@
       "standardReferenceId": "101:7.0",
       "pageReference": null,
       "sortId": "3.101.007.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
       "markdown": null
     },
     {
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "101:7.1",
       "pageReference": "1113.7",
       "sortId": "3.101.007.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "Una idea es tan sólo un plan teórico de acción, mientras que una decisión positiva es un plan de acción ratificado. Un estereotipo es un plan de acción aceptado sin ratificación. Los materiales a partir de los cuales se puede construir una filosofía personal de la religión se derivan tanto de la experiencia interior como de la experiencia ambiental del individuo. El estado social, las condiciones económicas, las oportunidades de instrucción, las tendencias morales, las influencias institucionales, los desarrollos políticos, las tendencias raciales y las enseñanzas religiosas del propio tiempo y lugar, todos ellos se tornan factores que afectan la formulación de una filosofía personal de la religión. Aun el temperamento inherente y la tendencia intelectual determinan en forma marcada la configuración de la filosofía religiosa. La vocación, el matrimonio y los parientes también influyen sobre la evolución de las propias normas personales de vida."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "Una idea es solo un plan teórico de acción, mientras que una decisión firme es un plan de acción validado. Un estereotipo es un plan de acción aceptado sin validación. Los materiales con los que el individuo puede construir una filosofía personal de la religión provienen de su experiencia tanto interior como con su entorno. El estatus social, las condiciones económicas, las oportunidades educativas, las inclinaciones morales, las influencias institucionales, los desarrollos políticos, las tendencias raciales y las enseñanzas religiosas de su tiempo y lugar se convierten todos ellos en factores que afectan a la formulación de una filosofía personal de la religión. Incluso el temperamento inherente y la inclinación intelectual determinan marcadamente el patrón de la filosofía religiosa. La ocupación, el matrimonio y los parientes influyen todos en la evolución de nuestros criterios personales de vida."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "101:7.2",
       "pageReference": "1113.8",
       "sortId": "3.101.007.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "La filosofía de la religión evoluciona del crecimiento básico de las ideas más el vivir experimental en la forma en que ambos son modificados por la tendencia a imitar a los asociados. La solidez de las conclusiones filosóficas depende de un pensamiento agudo, honesto y discriminante relacionado con una sensibilidad a los significados y precisión de evaluación. Los cobardes morales jamás obtienen altos niveles de pensamiento filosófico; se requiere valor para invadir los nuevos niveles de experiencia e intentar la exploración de mundos desconocidos de vida intelectual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "Una filosofía de la religión se desarrolla a partir de un crecimiento básico de las ideas sumado a la experiencia de vivir, modificados ambos por la tendencia a imitar a los semejantes. La solidez de las conclusiones filosóficas depende de un pensamiento agudo, sincero y selectivo, sensible a los significados y preciso en las valoraciones. Los cobardes morales no alcanzan nunca cotas altas de pensamiento filosófico. Se necesita valor para aventurarse hacia nuevos niveles de experiencia y explorar campos desconocidos del vivir intelectual."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "101:7.3",
       "pageReference": "1114.1",
       "sortId": "3.101.007.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "Tarde o temprano comienzan a surgir nuevos sistemas de valores; se alcanzan nuevas formulaciones de principios y normas; se modifican hábitos e ideales; se obtiene cierta idea de un Dios personal, y seguidamente, conceptos cada vez más amplios, de las relaciones correspondientes."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "Aparecen enseguida nuevos sistemas de valores; se formulan nuevos principios y criterios; se da nueva forma a los hábitos y a los ideales; se llega a cierta idea de un Dios personal acompañada de conceptos cada vez más amplios relacionados con ella."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "101:7.4",
       "pageReference": "1114.2",
       "sortId": "3.101.007.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "La gran diferencia entre una filosofía religiosa y una no religiosa del vivir consiste en la naturaleza y nivel de los valores reconocidos y en el objeto de las lealtades. Hay cuatro fases en la evolución de la filosofía religiosa: Dicha experiencia puede volverse meramente conformante, resignada a someterse a la tradición y a la autoridad. O puede satisfacerse con ligeros logros, lo suficiente para estabilizar la vida diaria, y por lo tanto queda detenida precozmente en este nivel adventicio. Estos mortales creen en mantener el status quo. Un tercer grupo progresa al nivel de la intelectualidad lógica, pero allí se estanca como consecuencia de la esclavitud cultural. Es verdaderamente penoso contemplar intelectos grandiosos mantenidos tan firmemente dentro del cruel abrazo de la esclavitud cultural. Es igualmente patético observar a aquellos que intercambian su esclavitud cultural por las cadenas materialistas de una ciencia, falsamente llamada así. El cuarto nivel de la filosofía obtiene la liberación de todas las dificultades convencionales y tradicionales y se atreve a pensar, a actuar y a vivir honesta, leal, valiente y sinceramente."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "La gran diferencia entre una filosofía religiosa del vivir y una no religiosa reside en la naturaleza y nivel de los valores reconocidos y en el objeto de las lealtades. Hay cuatro fases en la evolución de la filosofía religiosa. Una experiencia de este tipo puede ser meramente conformista, resignada a someterse a la tradición y la autoridad. O puede satisfacerse con logros escasos, justo suficientes para estabilizar el día a día, y detenerse prematuramente en este nivel accidental. Estos mortales prefieren no complicarse la vida. Un tercer grupo progresa hasta el nivel de la intelectualidad lógica y ahí se estanca como consecuencia de la esclavitud cultural. Es realmente lamentable ver cómo intelectos gigantes quedan aprisionados en el cruel abrazo del cautiverio cultural, y es igual de patético observar a quienes sustituyen su cautiverio cultural por las cadenas materialistas de una ciencia mal llamada con este nombre. El cuarto nivel de la filosofía consigue liberarse de todas las limitaciones tradicionales y convencionales y se atreve a pensar, actuar y vivir con honradez, lealtad, valor y sinceridad."
     },
     {
       "type": "paragraph",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "101:7.5",
       "pageReference": "1114.3",
       "sortId": "3.101.007.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "La prueba máxima de toda filosofía religiosa consiste en si ésta distingue entre las realidades del mundo material y de los mundos espirituales, reconociendo al mismo tiempo su unificación en el alcance intelectual y en el servicio social. Una filosofía religiosa sólida no confunde las cosas de Dios con las cosas del César. Tampoco reconoce el culto estético de la pura admiración como sustituto de la religión."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "La prueba de fuego de cualquier filosofía religiosa consiste en comprobar si distingue o no entre las realidades del mundo material y las de los mundos espirituales, al tiempo que reconoce la unificación de estas realidades en el esfuerzo intelectual y el servicio social. Una filosofía religiosa sólida no confunde las cosas de Dios con las cosas del César. Tampoco admite el culto estético a lo puramente maravilloso como sustituto de la religión."
     },
     {
       "type": "paragraph",
@@ -1819,9 +1819,9 @@
       "standardReferenceId": "101:7.6",
       "pageReference": "1114.4",
       "sortId": "3.101.007.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "Una Filosofía Personal de la Religión",
-      "markdown": "La filosofía transforma esa religión primitiva que era en gran parte cuento de hadas de la conciencia, en una experiencia viva en los valores ascendentes de la realidad cósmica."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "Una filosofía personal de la religión",
+      "markdown": "La filosofía transforma aquella religión primitiva que era más que nada un cuento de hadas de la conciencia en una experiencia viva de los valores ascendentes de la realidad cósmica."
     },
     {
       "type": "section",
@@ -1837,8 +1837,8 @@
       "standardReferenceId": "101:8.0",
       "pageReference": null,
       "sortId": "3.101.008.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Fe y la Creencia",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La fe y la creencia",
       "markdown": null
     },
     {
@@ -1855,9 +1855,9 @@
       "standardReferenceId": "101:8.1",
       "pageReference": "1114.5",
       "sortId": "3.101.008.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Fe y la Creencia",
-      "markdown": "La creencia llega al nivel de la fe cuando motiva la vida y da forma a la manera de vivir. La aceptación de una enseñanza como verdadera no es fe; es meramente creencia; tampoco lo es la certidumbre ni la convicción. Un estado mental llega a los niveles de fe tan sólo cuando domina efectivamente la manera de vivir. La fe es un atributo vivo de la experiencia religiosa personal genuina. Una persona cree en la verdad, admira la belleza y reverencia la bondad, pero no las adora; esta actitud de fe salvadora está centrada solamente en Dios, quien es todas estas cosas personificadas e infinitamente más."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La fe y la creencia",
+      "markdown": "La creencia ha alcanzado el nivel de la fe cuando motiva la vida y da forma al modo de vivir. La aceptación de una enseñanza como verdadera no es fe, es mera creencia. Tampoco la certeza ni el convencimiento son fe. Una actitud mental no alcanza los niveles de la fe hasta que domina efectivamente la manera de vivir. La fe es un atributo vivo de la auténtica experiencia religiosa personal. La persona cree en la verdad, admira la belleza y venera la bondad, pero no las adora. La actitud de fe salvadora se dirige solo a Dios, que es la personificación de todo esto e infinitamente más."
     },
     {
       "type": "paragraph",
@@ -1873,9 +1873,9 @@
       "standardReferenceId": "101:8.2",
       "pageReference": "1114.6",
       "sortId": "3.101.008.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Fe y la Creencia",
-      "markdown": "La creencia es siempre limitadora y astringente; la fe es expansiva y liberadora. La creencia fija, la fe libera. Pero la fe religiosa viva es más que la asociación de creencias nobles; es más que un sistema exaltado de filosofía; es una experiencia viva que comprende los significados espirituales, los ideales divinos y los valores supremos; es conocedora de Dios y servidora del hombre. Las creencias pueden volverse posesiones del grupo, pero la fe ha de ser personal. Se pueden sugerir las creencias teológicas a un grupo, pero la fe puede únicamente surgir en el corazón del religionista individual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La fe y la creencia",
+      "markdown": "La creencia es siempre limitadora y vinculante; la fe es expansiva y liberadora. La creencia fija, la fe libera. Pero la fe religiosa viva es más que una asociación de creencias nobles; es más que un sistema enaltecido de filosofía; es una experiencia viva sobre significados espirituales, ideales divinos y valores supremos; es conocedora de Dios y servidora del hombre. Las creencias pueden llegar a ser posesión colectiva, en cambio la fe tiene que ser personal. Se pueden proponer creencias teológicas a un grupo, pero la fe solo puede surgir en el corazón de cada persona religiosa individual."
     },
     {
       "type": "paragraph",
@@ -1891,9 +1891,9 @@
       "standardReferenceId": "101:8.3",
       "pageReference": "1114.7",
       "sortId": "3.101.008.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Fe y la Creencia",
-      "markdown": "La fe traiciona su confianza cuando presume negar realidades y conferir sobre sus devotos un conocimiento asumido. La fe traiciona cuando fomenta la traición de la integridad intelectual y menosprecia la lealtad a los valores supremos y a los ideales divinos. La fe nunca escapa del deber de solucionar los problemas del vivir mortal. La fe viva no fomenta el fanatismo, la persecución ni la intolerancia."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La fe y la creencia",
+      "markdown": "La fe falsea la confianza depositada en ella cuando se atreve a negar las realidades y a impartir presuntos conocimientos a sus adeptos. La fe es traidora cuando incita a traicionar la integridad intelectual y menosprecia la lealtad a los valores supremos y a los ideales divinos. La fe no rehúye nunca el deber de solucionar los problemas del vivir mortal. La fe viva no fomenta el fanatismo, la persecución ni la intolerancia."
     },
     {
       "type": "paragraph",
@@ -1909,9 +1909,9 @@
       "standardReferenceId": "101:8.4",
       "pageReference": "1115.1",
       "sortId": "3.101.008.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Fe y la Creencia",
-      "markdown": "La fe no encadena la imaginación creadora, tampoco mantiene un prejuicio irrazonable hacia los descubrimientos de la investigación científica. La fe vitaliza la religión y obliga al religionista a vivir heroicamente de acuerdo con la regla de oro. El fervor de la fe está de acuerdo con el conocimiento, y sus impulsos son el preludio a la paz sublime."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La fe y la creencia",
+      "markdown": "La fe no pone trabas a la imaginación creativa ni alberga prejuicios irracionales contra los descubrimientos de la investigación científica. La fe vitaliza la religión y obliga a la persona religiosa a vivir heroicamente la regla de oro. El celo de la fe es acorde al conocimiento, y sus esfuerzos son el preludio de una paz sublime."
     },
     {
       "type": "section",
@@ -1927,8 +1927,8 @@
       "standardReferenceId": "101:9.0",
       "pageReference": null,
       "sortId": "3.101.009.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
       "markdown": null
     },
     {
@@ -1945,9 +1945,9 @@
       "standardReferenceId": "101:9.1",
       "pageReference": "1115.2",
       "sortId": "3.101.009.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "No se puede considerar auténtica ninguna revelación profesada de religión si no reconoce las demandas del deber de obligación ética que han sido creadas y fomentadas por la religión evolucionaria precedente. La revelación infaliblemente amplía el horizonte ético de la religión evolucionaria, expandiendo a la vez simultánea e infaliblemente las obligaciones morales de todas las revelaciones previas."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "Ninguna supuesta revelación religiosa se puede considerar auténtica si no reconoce las exigencias de obligación ética creadas y fomentadas por las religiones evolutivas precedentes. La revelación amplía infaliblemente el horizonte ético de la religión evolucionada al tiempo que expande infaliblemente las obligaciones morales de todas las revelaciones anteriores."
     },
     {
       "type": "paragraph",
@@ -1963,9 +1963,9 @@
       "standardReferenceId": "101:9.2",
       "pageReference": "1115.3",
       "sortId": "3.101.009.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "Cuando presumís juzgar críticamente la religión primitiva del hombre (o la religión del hombre primitivo), debéis recordar que hay que juzgar a estos salvajes y evaluar su experiencia religiosa de acuerdo con su esclarecimiento y estado de conciencia. No cometáis el error de juzgar la religión de otro con vuestras propias normas de conocimiento y verdad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "Cuando os aventuréis a hacer un juicio crítico sobre la religión primitiva del hombre (o sobre la religión del hombre primitivo), tened presente que hay que juzgar a aquellos salvajes y valorar su experiencia religiosa según sus luces y su nivel de conciencia. No cometáis el error de juzgar la religión de otros con vuestros propios criterios de conocimiento y verdad."
     },
     {
       "type": "paragraph",
@@ -1981,9 +1981,9 @@
       "standardReferenceId": "101:9.3",
       "pageReference": "1115.4",
       "sortId": "3.101.009.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "La verdadera religión es esa convicción sublime y profunda dentro del alma que amonesta obligatoriamente al hombre, que sería erróneo no creer en esas realidades morontiales que constituyen sus conceptos éticos y morales más elevados, su interpretación más elevada de los grandes valores de la vida y las realidades más profundas del universo. Y dicha religión es simplemente la experiencia de entregar lealtad intelectual a los dictados más altos de la conciencia espiritual."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "La religión verdadera es ese convencimiento sublime y profundo del interior del alma que amonesta imperiosamente al hombre contra el error de no creer en las realidades morontiales que constituyen sus conceptos éticos y morales más elevados, su interpretación más alta de los mayores valores de la vida y de las realidades más profundas del universo. Una religión así es simplemente la experiencia de entregar la lealtad intelectual a los dictados más altos de la consciencia espiritual."
     },
     {
       "type": "paragraph",
@@ -1999,9 +1999,9 @@
       "standardReferenceId": "101:9.4",
       "pageReference": "1115.5",
       "sortId": "3.101.009.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "La búsqueda de la belleza es parte de la religión sólo en tanto sea ética y hasta el punto que enriquezca el concepto de la moral. El arte es religioso tan sólo cuando está infundido de propósito que sea derivado de motivaciones espirituales elevadas."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "La búsqueda de la belleza forma parte de la religión solo en la medida en que es ética y enriquece el concepto de lo moral. El arte solo es religioso cuando su difusión obedece a una alta motivación espiritual."
     },
     {
       "type": "paragraph",
@@ -2017,9 +2017,9 @@
       "standardReferenceId": "101:9.5",
       "pageReference": "1115.6",
       "sortId": "3.101.009.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "La conciencia espiritual esclarecida del hombre civilizado no se preocupa tanto por una creencia intelectual específica o por un modo particular de vida como por descubrir la verdad del vivir, la técnica buena y justa de reaccionar a las situaciones constantemente recurrentes de la existencia mortal. La conciencia moral es tan sólo un nombre aplicado al reconocimiento y conocimiento humano de aquellos valores éticos y morontiales emergentes que el deber demanda que el hombre obedezca en el control y guía diarios de la conducta."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "La consciencia espiritual esclarecida del hombre civilizado no se interesa tanto por una creencia intelectual específica o un modo particular de vivir como por descubrir la verdad del vivir, el procedimiento bueno y correcto de reaccionar ante las situaciones siempre recurrentes de la existencia mortal. La consciencia moral no es más que un nombre para designar el reconocimiento y la percepción por parte del hombre de aquellos valores éticos y morontiales emergentes que tiene el deber de acatar en el control y la orientación de su conducta diaria."
     },
     {
       "type": "paragraph",
@@ -2035,9 +2035,9 @@
       "standardReferenceId": "101:9.6",
       "pageReference": "1115.7",
       "sortId": "3.101.009.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "Aun reconociendo que la religión es imperfecta, existen por lo menos dos manifestaciones prácticas de su naturaleza y función:"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "Aun reconociendo que la religión es imperfecta, cabe destacar al menos dos manifestaciones prácticas de su naturaleza y su función:"
     },
     {
       "type": "paragraph",
@@ -2053,9 +2053,9 @@
       "standardReferenceId": "101:9.7",
       "pageReference": "1115.8",
       "sortId": "3.101.009.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "1. El impulso espiritual y la presión filosófica de la religión tienden a hacer que el hombre proyecte su estimación de los valores morales directamente hacia afuera, hacia los asuntos de sus semejantes —la reacción ética de la religión."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "1. El afán espiritual y la presión filosófica de la religión tienden a hacer que el hombre proyecte su estimación de los valores morales directamente hacia fuera, hacia los asuntos de sus semejantes. Es la reacción ética de la religión."
     },
     {
       "type": "paragraph",
@@ -2071,9 +2071,9 @@
       "standardReferenceId": "101:9.8",
       "pageReference": "1115.9",
       "sortId": "3.101.009.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "2. La religión crea para la mente humana una conciencia espiritualizada de la realidad divina basada en conceptos antecedentes de valores morales y derivada por la fe de estos conceptos y coordinada con conceptos sobrepuestos de valores espirituales. La religión de esta manera se torna un censor de los asuntos mortales, una forma de fideicomiso moral glorificado y confianza en la realidad, las realidades enaltecidas del tiempo y las realidades más duraderas de la eternidad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "2. La religión crea en la mente humana una consciencia espiritualizada de la realidad divina basada en conceptos previos de valores morales —de los que proviene por la fe— y coordinada con conceptos superpuestos de valores espirituales. La religión se convierte así en censora de los asuntos humanos, en una forma de crédito moral glorificado y de confianza en la realidad, en las realidades enaltecidas del tiempo y en las realidades más duraderas de la eternidad."
     },
     {
       "type": "paragraph",
@@ -2089,9 +2089,9 @@
       "standardReferenceId": "101:9.9",
       "pageReference": "1116.1",
       "sortId": "3.101.009.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión y la Moralidad",
-      "markdown": "La fe se vuelve la conexión entre la conciencia moral y el concepto espiritual de la realidad duradera. La religión se vuelve la avenida de escape del hombre de las limitaciones materiales del mundo temporal y natural a las realidades excelsas del mundo eterno y espiritual mediante la técnica de la salvación, la transformación morontial progresiva."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión y la moralidad",
+      "markdown": "La fe se convierte en la conexión entre la consciencia moral y el concepto espiritual de la realidad imperecedera. La religión se convierte en la vía de escape del hombre de las limitaciones materiales del mundo temporal y natural hacia las realidades supernas del mundo eterno y espiritual por medio y a través del proceso de salvación, la transformación progresiva en la morontia."
     },
     {
       "type": "section",
@@ -2107,8 +2107,8 @@
       "standardReferenceId": "101:10.0",
       "pageReference": null,
       "sortId": "3.101.010.000",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
       "markdown": null
     },
     {
@@ -2125,9 +2125,9 @@
       "standardReferenceId": "101:10.1",
       "pageReference": "1116.2",
       "sortId": "3.101.010.001",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "El hombre inteligente sabe que es hijo de la naturaleza, una parte del universo material; del mismo modo, discierne que no hay supervivencia de la personalidad individual en los movimientos y tensiones del nivel matemático del universo de energía. Tampoco puede el hombre jamás discernir la realidad espiritual mediante el examen de las causas y efectos físicos."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "El hombre inteligente sabe que es hijo de la naturaleza y parte del universo material. En ese sentido no percibe ninguna supervivencia de la personalidad individual en los movimientos y las tensiones del nivel matemático del universo de energía. Tampoco podrá nunca el hombre percibir la realidad espiritual a fuerza de estudiar causas y efectos físicos."
     },
     {
       "type": "paragraph",
@@ -2143,9 +2143,9 @@
       "standardReferenceId": "101:10.2",
       "pageReference": "1116.3",
       "sortId": "3.101.010.002",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "Un ser humano también sabe que es una parte de un cosmos ideacional, pero aunque este concepto pueda durar más allá de una vida mortal, no hay nada inherente en el concepto que indique la supervivencia personal de la personalidad que lo concibe. Tampoco va el agotamiento de las posibilidades de la lógica y de la razón a revelar jamás al ser lógico o al ser razonador la verdad eterna de la supervivencia de la personalidad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "El ser humano también se da cuenta de que forma parte del cosmos ideacional, pero aunque un concepto puede perdurar más que una vida mortal, no hay nada inherente al concepto que asegure la supervivencia personal de la personalidad que lo concibe. Tampoco el agotamiento de las posibilidades de la lógica y de la razón revelará nunca al pensador lógico o al razonador la verdad eterna de la supervivencia de la personalidad."
     },
     {
       "type": "paragraph",
@@ -2161,9 +2161,9 @@
       "standardReferenceId": "101:10.3",
       "pageReference": "1116.4",
       "sortId": "3.101.010.003",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "El nivel material de la ley proporciona la continuidad de causalidad, la respuesta interminable del efecto a la acción antecedente; el nivel mental sugiere la perpetuación de la continuidad ideacional, el flujo incesante del potencial conceptual de los conceptos preexistentes. Pero ninguno de estos niveles del universo revela al mortal curioso una avenida de escape de la parcialidad del estado y del intolerable suspenso de ser una realidad transitoria en el universo, una personalidad temporal condenada a extinguirse cuando se agotan sus limitadas energías vitales."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "El nivel material de la ley asegura la continuidad de la causalidad, la respuesta sin fin del efecto a la acción antecedente; el nivel de la mente sugiere la perpetuación de la continuidad ideacional, el flujo incesante de potencialidad conceptual a partir de concepciones preexistentes. Pero ninguno de estos niveles del universo ofrece al mortal indagador una escapatoria de su estatus parcial y de la incertidumbre insoportable de ser una realidad transitoria en el universo, una personalidad temporal condenada a extinguirse cuando se agoten sus limitadas energías vitales."
     },
     {
       "type": "paragraph",
@@ -2179,9 +2179,9 @@
       "standardReferenceId": "101:10.4",
       "pageReference": "1116.5",
       "sortId": "3.101.010.004",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "Es sólo mediante el camino morontial, que conduce al discernimiento espiritual, mediante el que el hombre puede romper las cadenas inherentes a su estado mortal en el universo. La energía y la mente conducen de vuelta al Paraíso y a la Deidad, pero ni el don de la energía ni el don de la mente del hombre proceden directamente de dicha Deidad del Paraíso. Sólo en el sentido espiritual es el hombre hijo de Dios. Esto es verdad porque es sólo en el sentido espiritual que el hombre está presentemente dotado y residido por el Padre del Paraíso. La humanidad no podrá jamás descubrir la divinidad, excepto a través del camino de la experiencia religiosa y por el ejercicio de la fe verdadera. La aceptación por la fe de la verdad de Dios permite al hombre escapar de los límites circunscritos de las limitaciones materiales y le otorga una esperanza racional de alcanzar salvoconducto del mundo material mortal, al mundo espiritual, donde la vida es eterna."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "Solo por la vía morontial que conduce a la visión interior espiritual puede el hombre romper las ataduras inherentes a su estatus de mortal en el universo. La energía y la mente sí llevan de retorno al Paraíso y a la Deidad, pero ni la dotación de energía ni la dotación de mente del hombre proceden directamente de la Deidad del Paraíso. El hombre es hijo de Dios solo en sentido espiritual, y esto es así porque en el presente está dotado y habitado en su interior por el Padre del Paraíso solo en sentido espiritual. La humanidad no podrá nunca descubrir a la divinidad más que por la vía de la experiencia religiosa y mediante el ejercicio de la fe verdadera. La aceptación de la verdad de Dios por la fe permite al hombre escapar de los confines circunscritos de las limitaciones materiales y le ofrece una esperanza racional de obtener el salvoconducto para pasar del ámbito material donde está la muerte al ámbito espiritual donde está la vida eterna."
     },
     {
       "type": "paragraph",
@@ -2197,9 +2197,9 @@
       "standardReferenceId": "101:10.5",
       "pageReference": "1116.6",
       "sortId": "3.101.010.005",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "El propósito de la religión no es satisfacer la curiosidad sobre Dios, sino más bien permitir la constancia intelectual y la seguridad filosófica, para estabilizar y enriquecer la vida humana combinando lo mortal con lo divino, lo parcial con lo perfecto, el hombre y Dios. Es a través de la experiencia religiosa a través de la que los conceptos de idealidad del hombre son dotados de realidad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "El objetivo de la religión no es satisfacer la curiosidad sobre Dios sino proporcionar constancia intelectual y seguridad filosófica, estabilizar y enriquecer el vivir humano al combinar lo mortal con lo divino, lo parcial con lo perfecto, al hombre con Dios. A través de la experiencia religiosa los conceptos humanos de idealidad son dotados de realidad."
     },
     {
       "type": "paragraph",
@@ -2215,9 +2215,9 @@
       "standardReferenceId": "101:10.6",
       "pageReference": "1116.7",
       "sortId": "3.101.010.006",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "No podrá haber nunca prueba científica o lógica de la divinidad. La razón por sí sola no podrá jamás validar los valores y las bondades de la experiencia religiosa. Pero siempre será verdad: el que decida hacer la voluntad de Dios comprenderá la validez de los valores espirituales. Éste es el acercamiento más aproximado que pueda hacerse en un nivel mortal al ofrecimiento de pruebas de la realidad de la experiencia religiosa. Esta fe permite el único escape del abrazo mecánico del mundo material y de la distorsión errónea del estado no completo del mundo intelectual; es la única solución descubierta a la dificultad insuperable en el pensamiento mortal en cuanto a la supervivencia continuada de la personalidad individual. Es el único pasaporte para completar la realidad y para la eternidad de la vida en una creación universal de amor, ley, unidad y logro progresivo de la Deidad."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "No podrá haber nunca pruebas científicas ni lógicas de la divinidad. La razón por sí sola no podrá validar nunca los valores y las bondades de la experiencia religiosa. Pero siempre seguirá siendo verdad que cualquiera que desee hacer la voluntad de Dios comprenderá la validez de los valores espirituales. Esto es lo más que se puede acercar el nivel mortal a demostrar la realidad de la experiencia religiosa. Esta fe proporciona la única liberación del abrazo mecánico del mundo material y de la distorsión producida por los errores derivados de la incompleción del mundo intelectual. Es la única solución conocida al callejón sin salida del pensamiento mortal respecto a la continuidad de la supervivencia de la personalidad individual. Es el único pasaporte para la compleción de la realidad y la eternidad de vida en una creación universal de amor, ley, unidad y logro progresivo de la Deidad."
     },
     {
       "type": "paragraph",
@@ -2233,9 +2233,9 @@
       "standardReferenceId": "101:10.7",
       "pageReference": "1117.1",
       "sortId": "3.101.010.007",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "La religión eficazmente cura el sentido del hombre de aislamiento idealístico o de soledad espiritual; otorga al creyente la posición de hijo de Dios, ciudadano de un universo nuevo y significativo. La religión asegura al hombre que, al seguir el destello de la rectitud que discierne en su alma, se identifica de esa manera con el plan del Infinito y el propósito del Eterno. Tal alma liberada inmediatamente comienza a sentirse cómoda en este nuevo universo, su universo."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "La religión cura eficazmente la sensación de aislamiento idealista o soledad espiritual del hombre. Confiere al creyente el derecho a ser hijo de Dios y ciudadano de un universo nuevo y significativo. La religión garantiza al hombre que al seguir el brillo de rectitud que percibe en su alma se va identificando con el plan del Infinito y con el propósito del Eterno. Un alma así liberada empieza inmediatamente a sentirse en casa en este nuevo universo, su universo."
     },
     {
       "type": "paragraph",
@@ -2251,9 +2251,9 @@
       "standardReferenceId": "101:10.8",
       "pageReference": "1117.2",
       "sortId": "3.101.010.008",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "Cuando experimentes tal transformación de la fe, ya no serás una parte esclavizada del cosmos matemático, sino más bien un hijo liberado volitivo del Padre Universal. Tal hijo liberado ya no luchará solo contra el destino inexorable de la terminación de la existencia temporal; ya no luchará contra toda la naturaleza, con las posibilidades irremediablemente en contra suya; ya no le azotará el temor paralizante de que, tal vez, haya puesto su confianza en un fantasma sin esperanzas o colocado su fe en un error de la fantasía."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "Todo el que experimenta una transformación de fe de este tipo deja de ser un elemento servil del cosmos matemático para convertirse en un hijo volitivo y liberado del Padre Universal. Un hijo liberado de este modo ya no lucha solo contra la condena inexorable de la extinción de la existencia temporal; ya no combate contra toda la naturaleza en una batalla perdida de antemano; ya no tiembla aterrado ante la perspectiva paralizante de haber puesto quizá su confianza en un fantasma sin futuro o prendido su fe a una quimera."
     },
     {
       "type": "paragraph",
@@ -2269,9 +2269,9 @@
       "standardReferenceId": "101:10.9",
       "pageReference": "1117.3",
       "sortId": "3.101.010.009",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "En cambio, ahora los hijos de Dios se unen en el fervor de la batalla para el triunfo de la realidad sobre las sombras parciales de la existencia. Finalmente, todas las criaturas se vuelven conscientes del hecho de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha excelsa por obtener la eternidad de la vida y la divinidad de estado. Estos hijos liberados por la fe participan en forma certera en las luchas temporales del lado de las fuerzas supremas y de las personalidades divinas de la eternidad; aun las estrellas en su curso están ahora luchando por ellos; finalmente, contemplan el universo desde adentro, desde el punto de vista de Dios y todo se transforma de las inseguridades del aislamiento material a la certeza de la progresión espiritual eterna. Aun el tiempo mismo se torna una mera sombra de la eternidad, arrojada por las realidades del Paraíso sobre la panoplia móvil del espacio."
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "Ahora, en cambio, los hijos de Dios se alistan juntos en la batalla del triunfo de la realidad sobre las sombras parciales de la existencia. Por fin todas las criaturas se hacen conscientes de que Dios y todas las huestes divinas de un universo casi ilimitado están de su lado en la lucha superna por lograr eternidad de vida y estatus de divinidad. Estos hijos liberados por la fe han librado sin duda las batallas del tiempo en el bando de las fuerzas supremas y las personalidades divinas de la eternidad; incluso las estrellas en sus cursos están ahora batallando por ellos. Por fin contemplan el universo desde dentro, desde el punto de vista de Dios, y todas las incertidumbres del aislamiento material se transforman en garantías de progresión espiritual eterna. Y hasta el tiempo mismo se convierte en una mera sombra de la eternidad proyectada por las realidades del Paraíso sobre la panoplia en movimiento del espacio."
     },
     {
       "type": "paragraph",
@@ -2287,9 +2287,9 @@
       "standardReferenceId": "101:10.10",
       "pageReference": "1117.4",
       "sortId": "3.101.010.010",
-      "paperTitle": "La Verdadera Naturaleza de la Religión",
-      "sectionTitle": "La Religión como Libertadora del Hombre",
-      "markdown": "[Presentado por un Melquisedek de Nebadon.]"
+      "paperTitle": "La naturaleza real de la religión",
+      "sectionTitle": "La religión como libertadora del hombre",
+      "markdown": "[Presentado por un Melquisedec de Nebadon.]"
     }
   ]
 }

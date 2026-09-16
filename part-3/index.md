@@ -1,140 +1,140 @@
 <h1 align="center"><a name="Part3"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="Unidad Universal">Documento 56</a> | <a href="../parts.md" title="Las Partes del Libro">Partes</a> | <a href="../contents.md" title="Contenido del Libro">Contenido</a> | <a href="057.md" title="El Origen de Urantia">Documento 57</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="La unidad universal">Documento 56</a> | <a href="../parts.md" title="Las partes del libro">Partes</a> | <a href="../contents.md" title="Contenido del libro">Contenido</a> | <a href="057.md" title="El origen de Urantia">Documento 57</a>&#160;&#62;&#62;</p><hr />
 
-## PARTE III
+## Parte III
 
-## La Historia de Urantia
+## Historia de Urantia
 
-Estos documentos fueron auspiciados por un Cuerpo de Personalidades del Universo Local que actúan por autoridad de Gabriel de Salvington.
+Estos documentos fueron patrocinados por un cuerpo de personalidades del universo local que actúa por autorización de Gabriel de Salvington.
 
 <hr />
 
-[Documento 57 - El Origen de Urantia](057.md "El Origen de Urantia")
+[Documento 57 - El origen de Urantia](057.md "El origen de Urantia")
 
-[Documento 58 - El Establecimiento de la Vida en Urantia](058.md "El Establecimiento de la Vida en Urantia")
+[Documento 58 - El establecimiento de la vida en Urantia](058.md "El establecimiento de la vida en Urantia")
 
-[Documento 59 - La Era de la Vida Marina en Urantia](059.md "La Era de la Vida Marina en Urantia")
+[Documento 59 - La era de la vida marina en Urantia](059.md "La era de la vida marina en Urantia")
 
-[Documento 60 - Urantia Durante la Era Primitiva de la Vida Terrestre](060.md "Urantia Durante la Era Primitiva de la Vida Terrestre")
+[Documento 60 - Urantia durante la era de la primera vida terrestre](060.md "Urantia durante la era de la primera vida terrestre")
 
-[Documento 61 - La Era de los Mamíferos en Urantia](061.md "La Era de los Mamíferos en Urantia")
+[Documento 61 - La era de los mamíferos en Urantia](061.md "La era de los mamíferos en Urantia")
 
-[Documento 62 - Las Razas Protohumanas del Hombre Primitivo](062.md "Las Razas Protohumanas del Hombre Primitivo")
+[Documento 62 - Las razas de los albores del primer hombre](062.md "Las razas de los albores del primer hombre")
 
-[Documento 63 - La Primera Familia Humana](063.md "La Primera Familia Humana")
+[Documento 63 - La primera familia humana](063.md "La primera familia humana")
 
-[Documento 64 - Las Razas Evolucionarias de Color](064.md "Las Razas Evolucionarias de Color")
+[Documento 64 - Las razas evolutivas de color](064.md "Las razas evolutivas de color")
 
-[Documento 65 - La Supervisión de la Evolución](065.md "La Supervisión de la Evolución")
+[Documento 65 - El sobrecontrol de la evolución](065.md "El sobrecontrol de la evolución")
 
 [Documento 66 - El Príncipe Planetario de Urantia](066.md "El Príncipe Planetario de Urantia")
 
-[Documento 67 - La Rebelión Planetaria](067.md "La Rebelión Planetaria")
+[Documento 67 - La rebelión planetaria](067.md "La rebelión planetaria")
 
-[Documento 68 - Los Albores de la Civilización](068.md "Los Albores de la Civilización")
+[Documento 68 - Los albores de la civilización](068.md "Los albores de la civilización")
 
-[Documento 69 - Las Instituciones Humanas Primitivas](069.md "Las Instituciones Humanas Primitivas")
+[Documento 69 - Las instituciones humanas primitivas](069.md "Las instituciones humanas primitivas")
 
-[Documento 70 - La Evolución del Gobierno Humano](070.md "La Evolución del Gobierno Humano")
+[Documento 70 - La evolución del gobierno humano](070.md "La evolución del gobierno humano")
 
-[Documento 71 - El Desarrollo del Estado](071.md "El Desarrollo del Estado")
+[Documento 71 - El desarrollo del Estado](071.md "El desarrollo del Estado")
 
-[Documento 72 - El Gobierno de un Planeta Vecino](072.md "El Gobierno de un Planeta Vecino")
+[Documento 72 - El gobierno de un planeta vecino](072.md "El gobierno de un planeta vecino")
 
 [Documento 73 - El Jardín del Edén](073.md "El Jardín del Edén")
 
 [Documento 74 - Adán y Eva](074.md "Adán y Eva")
 
-[Documento 75 - La Falta de Adán y Eva](075.md "La Falta de Adán y Eva")
+[Documento 75 - La falta de Adán y Eva](075.md "La falta de Adán y Eva")
 
-[Documento 76 - El Segundo Jardín](076.md "El Segundo Jardín")
+[Documento 76 - El segundo Jardín](076.md "El segundo Jardín")
 
-[Documento 77 - Los Seres Intermedios](077.md "Los Seres Intermedios")
+[Documento 77 - Las criaturas intermedias](077.md "Las criaturas intermedias")
 
-[Documento 78 - La Raza Violeta Después de los Días de Adán](078.md "La Raza Violeta Después de los Días de Adán")
+[Documento 78 - La raza violeta después de los días de Adán](078.md "La raza violeta después de los días de Adán")
 
-[Documento 79 - La Expansión Andita en el Oriente](079.md "La Expansión Andita en el Oriente")
+[Documento 79 - La expansión andita en Oriente](079.md "La expansión andita en Oriente")
 
-[Documento 80 - La Expansión Andita en el Occidente](080.md "La Expansión Andita en el Occidente")
+[Documento 80 - La expansión andita en Occidente](080.md "La expansión andita en Occidente")
 
-[Documento 81 - El Desarrollo de la Civilización Moderna](081.md "El Desarrollo de la Civilización Moderna")
+[Documento 81 - El desarrollo de la civilización moderna](081.md "El desarrollo de la civilización moderna")
 
-[Documento 82 - La Evolución del Matrimonio](082.md "La Evolución del Matrimonio")
+[Documento 82 - La evolución del matrimonio](082.md "La evolución del matrimonio")
 
-[Documento 83 - La Institución del Matrimonio](083.md "La Institución del Matrimonio")
+[Documento 83 - La institución del matrimonio](083.md "La institución del matrimonio")
 
-[Documento 84 - Matrimonio y Vida Familiar](084.md "Matrimonio y Vida Familiar")
+[Documento 84 - El matrimonio y la vida de familia](084.md "El matrimonio y la vida de familia")
 
-[Documento 85 - Los Orígenes de la Adoración](085.md "Los Orígenes de la Adoración")
+[Documento 85 - Los orígenes de la adoración](085.md "Los orígenes de la adoración")
 
-[Documento 86 - La Evolución Primitiva de la Religión](086.md "La Evolución Primitiva de la Religión")
+[Documento 86 - La evolución inicial de la religión](086.md "La evolución inicial de la religión")
 
-[Documento 87 - Los Cultos a los Fantasmas](087.md "Los Cultos a los Fantasmas")
+[Documento 87 - Los cultos a los fantasmas](087.md "Los cultos a los fantasmas")
 
-[Documento 88 - Los Fetiches, los Amuletos y la Magia](088.md "Los Fetiches, los Amuletos y la Magia")
+[Documento 88 - Los fetiches, los amuletos y la magia](088.md "Los fetiches, los amuletos y la magia")
 
-[Documento 89 - El Pecado, el Sacrificio y la Expiación](089.md "El Pecado, el Sacrificio y la Expiación")
+[Documento 89 - El pecado, el sacrificio y la expiación](089.md "El pecado, el sacrificio y la expiación")
 
-[Documento 90 - El Shamanismo — Los Curanderos y los Sacerdotes](090.md "El Shamanismo — Los Curanderos y los Sacerdotes")
+[Documento 90 - El chamanismo: los curanderos y los sacerdotes](090.md "El chamanismo: los curanderos y los sacerdotes")
 
-[Documento 91 - La Evolución de la Oración](091.md "La Evolución de la Oración")
+[Documento 91 - La evolución de la oración](091.md "La evolución de la oración")
 
-[Documento 92 - La Evolución Ulterior de la Religión](092.md "La Evolución Ulterior de la Religión")
+[Documento 92 - La evolución posterior de la religión](092.md "La evolución posterior de la religión")
 
-[Documento 93 - Maquiventa Melquisedek](093.md "Maquiventa Melquisedek")
+[Documento 93 - Maquiventa Melquisedec](093.md "Maquiventa Melquisedec")
 
-[Documento 94 - Las Enseñanzas de Melquisedek en el Oriente](094.md "Las Enseñanzas de Melquisedek en el Oriente")
+[Documento 94 - Las enseñanzas de Melquisedec en Oriente](094.md "Las enseñanzas de Melquisedec en Oriente")
 
-[Documento 95 - Las Enseñanzas de Melquisedek en el Levante](095.md "Las Enseñanzas de Melquisedek en el Levante")
+[Documento 95 - Las enseñanzas de Melquisedec en el Levante](095.md "Las enseñanzas de Melquisedec en el Levante")
 
-[Documento 96 - Yahvé — El Dios de los Hebreos](096.md "Yahvé — El Dios de los Hebreos")
+[Documento 96 - Yahvé, el Dios de los hebreos](096.md "Yahvé, el Dios de los hebreos")
 
-[Documento 97 - Evolución del Concepto de Dios Entre los Hebreos](097.md "Evolución del Concepto de Dios Entre los Hebreos")
+[Documento 97 - La evolución del concepto de Dios entre los hebreos](097.md "La evolución del concepto de Dios entre los hebreos")
 
-[Documento 98 - Las Enseñanzas de Melquisedek en el Occidente](098.md "Las Enseñanzas de Melquisedek en el Occidente")
+[Documento 98 - Las enseñanzas de Melquisedec en Occidente](098.md "Las enseñanzas de Melquisedec en Occidente")
 
-[Documento 99 - Los Problemas Sociales de la Religión](099.md "Los Problemas Sociales de la Religión")
+[Documento 99 - Los problemas sociales de la religión](099.md "Los problemas sociales de la religión")
 
-[Documento 100 - La Religión en la Experiencia Humana](100.md "La Religión en la Experiencia Humana")
+[Documento 100 - La religión en la experiencia humana](100.md "La religión en la experiencia humana")
 
-[Documento 101 - La Verdadera Naturaleza de la Religión](101.md "La Verdadera Naturaleza de la Religión")
+[Documento 101 - La naturaleza real de la religión](101.md "La naturaleza real de la religión")
 
-[Documento 102 - Los Cimientos de la Fe Religiosa](102.md "Los Cimientos de la Fe Religiosa")
+[Documento 102 - Los fundamentos de la fe religiosa](102.md "Los fundamentos de la fe religiosa")
 
-[Documento 103 - La Realidad de la Experiencia Religiosa](103.md "La Realidad de la Experiencia Religiosa")
+[Documento 103 - La realidad de la experiencia religiosa](103.md "La realidad de la experiencia religiosa")
 
-[Documento 104 - El Crecimiento del Concepto de la Trinidad](104.md "El Crecimiento del Concepto de la Trinidad")
+[Documento 104 - El crecimiento del concepto de trinidad](104.md "El crecimiento del concepto de trinidad")
 
-[Documento 105 - La Deidad y la Realidad](105.md "La Deidad y la Realidad")
+[Documento 105 - La deidad y la realidad](105.md "La deidad y la realidad")
 
-[Documento 106 - Los Niveles de la Realidad en el Universo](106.md "Los Niveles de la Realidad en el Universo")
+[Documento 106 - Los niveles de realidad en el universo](106.md "Los niveles de realidad en el universo")
 
-[Documento 107 - El Origen y la Naturaleza de los Ajustadores del Pensamiento](107.md "El Origen y la Naturaleza de los Ajustadores del Pensamiento")
+[Documento 107 - El origen y la naturaleza de los Ajustadores del Pensamiento](107.md "El origen y la naturaleza de los Ajustadores del Pensamiento")
 
-[Documento 108 - La Misión y el Ministerio de los Ajustadores del Pensamiento](108.md "La Misión y el Ministerio de los Ajustadores del Pensamiento")
+[Documento 108 - La misión y el ministerio de los Ajustadores del Pensamiento](108.md "La misión y el ministerio de los Ajustadores del Pensamiento")
 
-[Documento 109 - La Relación de los Ajustadores con las Criaturas del Universo](109.md "La Relación de los Ajustadores con las Criaturas del Universo")
+[Documento 109 - La relación de los Ajustadores con las criaturas del universo](109.md "La relación de los Ajustadores con las criaturas del universo")
 
-[Documento 110 - La Relación de los Ajustadores con los Seres Mortales](110.md "La Relación de los Ajustadores con los Seres Mortales")
+[Documento 110 - La relación de los Ajustadores con los mortales individuales](110.md "La relación de los Ajustadores con los mortales individuales")
 
-[Documento 111 - El Ajustador y el Alma](111.md "El Ajustador y el Alma")
+[Documento 111 - El Ajustador y el alma](111.md "El Ajustador y el alma")
 
-[Documento 112 - La Sobrevivencia de la Personalidad](112.md "La Sobrevivencia de la Personalidad")
+[Documento 112 - La supervivencia de la personalidad](112.md "La supervivencia de la personalidad")
 
-[Documento 113 - Los Guardianes Seráficos del Destino](113.md "Los Guardianes Seráficos del Destino")
+[Documento 113 - Las guardianas seráficas del destino](113.md "Las guardianas seráficas del destino")
 
-[Documento 114 - El Gobierno Planetario Seráfico](114.md "El Gobierno Planetario Seráfico")
+[Documento 114 - El gobierno planetario seráfico](114.md "El gobierno planetario seráfico")
 
 [Documento 115 - El Ser Supremo](115.md "El Ser Supremo")
 
 [Documento 116 - El Supremo Todopoderoso](116.md "El Supremo Todopoderoso")
 
-[Documento 117 - Dios el Supremo](117.md "Dios el Supremo")
+[Documento 117 - Dios Supremo](117.md "Dios Supremo")
 
-[Documento 118 - El Supremo y el Ultimo — El Tiempo y el Espacio](118.md "El Supremo y el Ultimo — El Tiempo y el Espacio")
+[Documento 118 - El Supremo y el Último: el tiempo y el espacio](118.md "El Supremo y el Último: el tiempo y el espacio")
 
-[Documento 119 - Los Autootorgamientos de Cristo Micael](119.md "Los Autootorgamientos de Cristo Micael")
+[Documento 119 - Los otorgamientos de Cristo Miguel](119.md "Los otorgamientos de Cristo Miguel")
 
 <hr />
 

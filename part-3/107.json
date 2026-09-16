@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/107.md",
-  "source_sha256": "f91d4089182c4ff98525ebc7678e04f51d7a8483bc6227d26c30416b9b95d21a",
+  "source_sha256": "abdf4a85f2a869c3a18c771302d97086ff549066b8be48417d8666b72d563216",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "107:0.0",
       "pageReference": null,
       "sortId": "3.107.000.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "107:0.0",
       "pageReference": null,
       "sortId": "3.107.000.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "107:0.1",
       "pageReference": "1176.1",
       "sortId": "3.107.000.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "AUNQUE el Padre Universal resida personalmente en el Paraíso, en el centro mismo de los universos, también está realmente presente en los mundos del espacio en las mentes de sus incontables hijos temporales, porque mora en ellos en forma de Monitores Misteriosos. El Padre eterno está a la vez más lejos que nadie y más íntimamente asociado que nadie con sus hijos mortales planetarios."
+      "markdown": "AUNQUE el Padre Universal reside personalmente en el Paraíso, situado en el centro mismo de los universos, también está realmente presente en los mundos del espacio, donde mora dentro de la mente de sus incontables hijos del tiempo bajo la forma de los Monitores de Misterio. El Padre eterno está a la vez más lejos que nadie y más íntimamente asociado que nadie a sus hijos mortales planetarios."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "107:0.2",
       "pageReference": "1176.2",
       "sortId": "3.107.000.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "Los Ajustadores son la actualidad del amor del Padre encarnado en las almas de los hombres; son la promesa verdadera de la carrera eterna del hombre, aprisionada dentro de la mente mortal; son la esencia de la personalidad perfeccionada de finalista del hombre, que puede anticipar en el tiempo a medida que domina progresivamente la técnica divina de llegar a vivir la voluntad del Padre, paso a paso, a través de la ascensión de universo a universo hasta que realmente alcance la presencia divina de su Padre en el Paraíso."
+      "markdown": "Los Ajustadores son la actualidad del amor del Padre encarnado en el alma de los hombres, la promesa cierta, encarcelada dentro de la mente del mortal, de una carrera eterna para el hombre. Son la esencia de la personalidad humana finalitaria perfeccionada que el hombre puede anticipar en el tiempo a medida que va dominando progresivamente la técnica divina de vivir la voluntad del Padre, paso a paso, en su ascenso de universo en universo hasta que logra alcanzar la presencia divina de su Padre del Paraíso."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "107:0.3",
       "pageReference": "1176.3",
       "sortId": "3.107.000.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "Dios, habiendo mandado al hombre que sea perfecto, así como él es perfecto, ha descendido en forma de Ajustador para tornarse el socio experiencial del hombre en el logro del destino excelso que ha sido así ordenado. El fragmento de Dios que reside en la mente del hombre es el seguro absoluto y no condicionado de que el hombre puede encontrar al Padre universal en asociación con este Ajustador divino, que vino de Dios para encontrar al hombre y afiliarlo aun en los días de la carne."
+      "markdown": "Habiendo ordenado al hombre que sea perfecto como él es perfecto, Dios ha descendido en forma de Ajustador para ser el socio experiencial del hombre en el logro del destino superno contenido en esta orden. El fragmento de Dios que mora en la mente del hombre es la garantía absoluta e ilimitada de que el hombre puede encontrar al Padre Universal gracias a su asociación con este Ajustador divino salido de Dios para encontrar al hombre y hacerlo hijo suyo incluso durante su vida en la carne."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "107:0.4",
       "pageReference": "1176.4",
       "sortId": "3.107.000.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "Todo mortal que haya visto al Hijo Creador ha visto al Padre Universal, y el que contiene a un Ajustador divino contiene al Padre del Paraíso. Todo mortal que, consciente o inconscientemente, siga la guía de su Ajustador residente vive de acuerdo con la voluntad de Dios. La conciencia de la presencia del Ajustador es conciencia de la presencia de Dios. La fusión eterna del Ajustador con el alma evolucionaria del hombre es una experiencia de hecho de la unión eterna con Dios como asociado universal de la Deidad."
+      "markdown": "Todo mortal que ha visto a un Hijo Creador ha visto al Padre Universal, y aquel que está habitado por un Ajustador divino está habitado por el Padre del Paraíso. Todos los mortales que siguen consciente o inconscientemente las directrices de su Ajustador interior viven conforme a la voluntad de Dios. La consciencia de la presencia del Ajustador es la consciencia de la presencia de Dios. La fusión eterna del Ajustador con el alma evolutiva del hombre es la experiencia factual de la unión eterna con Dios en calidad de asociado de la Deidad en el universo."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "107:0.5",
       "pageReference": "1176.5",
       "sortId": "3.107.000.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "Es el Ajustador el que crea dentro del hombre ese deseo insaciable y ese incesante anhelo de ser como Dios, de alcanzar el Paraíso, y allí, ante la persona actual de la Deidad, adorar la fuente infinita del don divino. El Ajustador es la presencia viva que efectivamente vincula el hijo mortal con su Padre del Paraíso y le atrae cada vez más cerca del Padre. El Ajustador es nuestra igualación compensatoria de la enorme tensión universal creada por la distancia de la separación entre el hombre y Dios y por el grado de su parcialidad en contraste con la universalidad del Padre eterno."
+      "markdown": "Es el Ajustador quien crea dentro del hombre el anhelo insaciable y el ansia incesante de ser como Dios, de alcanzar el Paraíso y allí, ante la persona real de la Deidad, adorar a la fuente infinita del don divino. El Ajustador es la presencia viva que vincula efectivamente al hijo mortal con su Padre del Paraíso y lo acerca cada vez más al Padre. El Ajustador compensa la enorme tensión que existe en el universo provocada por la distancia que separa al hombre de Dios y por el carácter parcial del hombre en contraste con la universalidad del Padre eterno."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "107:0.6",
       "pageReference": "1176.6",
       "sortId": "3.107.000.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "El Ajustador es una esencia absoluta de un ser infinito aprisionada en la mente de una criatura finita que, según la selección de dicho mortal, puede finalmente consumar esta unión temporal de Dios y hombre y verdaderamente actualizar una nueva orden de ser para servicio universal sin fin. El Ajustador es la realidad universal divina que hace hecho la verdad de que Dios es el Padre del hombre. El Ajustador es la brújula cósmica infalible del hombre, que apunta constante e infaliblemente el alma hacia Dios."
+      "markdown": "El Ajustador es la esencia absoluta de un ser infinito encarcelada dentro de la mente de una criatura finita. Si el mortal así lo elige, puede consumar con el tiempo esta unión temporal de Dios y hombre, y actualizar verdaderamente un nuevo orden de existencia para el servicio sin fin del universo. El Ajustador es la realidad divina del universo que factualiza la verdad de que Dios es el Padre del hombre. El Ajustador es la brújula cósmica infalible del hombre, que orienta siempre al alma de manera segura hacia Dios."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "107:0.7",
       "pageReference": "1177.1",
       "sortId": "3.107.000.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
       "sectionTitle": null,
-      "markdown": "En los mundos evolucionarios, las criaturas volitivas atraviesan tres etapas generales de desarrollo del ser: desde la llegada del Ajustador hasta un crecimiento pleno comparativo, unos veinte años de edad en Urantia, los Monitores a veces se denominan Cambiadores de Pensamiento. Desde este momento hasta el alcance de la edad de la discreción, unos cuarenta años, los Monitores Misteriosos se denominan Ajustadores del Pensamiento. Desde el alcance de la discreción hasta la liberación de la carne, frecuentemente se los denomina Controladores del Pensamiento. Estas tres fases de la vida mortal no tienen relación alguna con las tres etapas del progreso del Ajustador en la duplicación de la mente y en la evolución del alma."
+      "markdown": "En los mundos evolutivos las criaturas con voluntad atraviesan tres etapas generales de desarrollo del ser. Desde la llegada del Ajustador hasta un crecimiento pleno relativo, alrededor de los veinte años de edad en Urantia, los Monitores se denominan a veces Cambiadores del Pensamiento. Desde ese momento hasta la edad del criterio, hacia los cuarenta años, los Monitores de Misterio se llaman Ajustadores del Pensamiento. Desde el logro del criterio hasta la liberación de la carne se les suele llamar Controladores del Pensamiento. Estas tres fases de la vida del mortal no están relacionadas con las tres etapas del progreso del Ajustador en la duplicación de la mente y la evolución del alma."
     },
     {
       "type": "section",
@@ -181,8 +181,8 @@
       "standardReferenceId": "107:1.0",
       "pageReference": null,
       "sortId": "3.107.001.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
       "markdown": null
     },
     {
@@ -199,9 +199,9 @@
       "standardReferenceId": "107:1.1",
       "pageReference": "1177.2",
       "sortId": "3.107.001.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "Puesto que los Ajustadores del Pensamiento son de la esencia de la Deidad original, nadie puede tener la presunción de discurrir con autoridad sobre su naturaleza y origen; yo tan sólo puedo impartir las tradiciones de Salvington y las creencias de Uversa; tan sólo puedo explicar cómo consideramos a estos Monitores Misteriosos y sus entidades asociativas en todo el gran universo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "Dado que los Ajustadores del Pensamiento son de la esencia de la Deidad original, nadie puede atreverse a disertar con autoridad sobre su origen y naturaleza. Yo solo puedo transmitir las tradiciones de Salvington y las creencias de Uversa, solo puedo explicar cómo consideramos a estos Monitores de Misterio y a sus entidades asociadas en todo el gran universo."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "107:1.2",
       "pageReference": "1177.3",
       "sortId": "3.107.001.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "Aunque hay opiniones distintas sobre el modo de la dotación de los Ajustadores del Pensamiento, no existen tales diferencias en cuanto a su origen; todos están de acuerdo de que éstos proceden directamente del Padre Universal, la Primera Fuente y Centro. No son seres creados; son entidades fragmentadas que constituyen la presencia de hecho del Dios infinito. Juntamente con sus muchos asociados no revelados, los Ajustadores son divinidad no diluida ni mezclada, porciones no condicionadas ni atenuadas de la Deidad; son de Dios, y en cuanto podemos discernir, *son Dios.*"
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "Aunque hay opiniones diversas sobre el modo en que son otorgados los Ajustadores del Pensamiento, no hay diferencias de opinión respecto a su origen, puesto que todos están de acuerdo en que proceden directamente del Padre Universal, la Primera Fuente y Centro. No son seres creados sino entidades fragmentadas que constituyen la presencia factual del Dios infinito. Junto con sus muchos asociados no revelados, los Ajustadores son divinidad pura y sin mezcla, porciones de la Deidad no cualificadas ni atenuadas. Son de Dios, y hasta donde somos capaces de percibir, *son Dios*."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "107:1.3",
       "pageReference": "1177.4",
       "sortId": "3.107.001.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "En cuanto al tiempo del comienzo de sus existencias separadas aparte de la absolutez de la Primera Fuente y Centro, no lo sabemos; tampoco sabemos su número. Muy poco sabemos sobre sus carreras hasta que llegan a los planetas del tiempo para residir en las mentes humanas, pero desde ese momento en adelante tenemos cierta familiaridad con su progresión cósmica, hasta, e incluyendo, la consumación de sus destinos triunos: obtención de la personalidad por fusión con un ascendente mortal, obtención de la personalidad por mandato del Padre Universal, o liberación de los encargos conocidos de los Ajustadores del Pensamiento."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "No sabemos nada del momento en que empieza su existencia separada fuera de la absolutidad de la Primera Fuente y Centro, y tampoco conocemos su número. Sabemos muy poco sobre su trayectoria hasta que llegan a los planetas del tiempo para morar en el interior de las mentes humanas, pero a partir de ese momento tenemos cierto conocimiento de su progresión cósmica hasta que se cumple la consumación de su destino trino: obtener la personalidad por fusión con algún mortal ascendente, obtener la personalidad por un fíat del Padre Universal o bien verse liberados de los cometidos que se conocen como propios de los Ajustadores del Pensamiento."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "107:1.4",
       "pageReference": "1177.5",
       "sortId": "3.107.001.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "Aunque no lo sabemos, suponemos que los Ajustadores están siendo constantemente individualizados a medida que se amplía el universo, y a medida que aumentan en número los candidatos para fusión con el Ajustador. Pero también es igualmente posible que estemos errados en intentar asignar una magnitud numérica a los Ajustadores; como Dios mismo, estos fragmentos de su naturaleza insondable pueden ser existencialmente infinitos."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "Aunque no lo sabemos, suponemos que los Ajustadores están siendo individualizados constantemente a medida que el universo se amplía y aumenta el número de candidatos a la fusión con un Ajustador. Pero puede que nos equivoquemos al intentar contabilizar a los Ajustadores de forma numérica. Como Dios mismo, estos fragmentos de su naturaleza insondable bien pudieran ser existencialmente infinitos."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "107:1.5",
       "pageReference": "1177.6",
       "sortId": "3.107.001.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "La técnica del origen de los Ajustadores del Pensamiento es una de las funciones no reveladas del Padre Universal. Tenemos motivo para creer que ninguno de los otros asociados absolutos de la Primera Fuente y Centro tiene nada que ver con la producción de los fragmentos del Padre. Los Ajustadores son simple y eternamente los dones divinos; son de Dios y provienen de Dios, y son como Dios."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "El origen de los Ajustadores del Pensamiento es una de las funciones no reveladas del Padre Universal. Todo nos lleva a creer que ninguno de los otros compañeros absolutos de la Primera Fuente y Centro tiene nada que ver con la producción de los fragmentos del Padre. Los Ajustadores son simple y eternamente dones divinos: son de Dios, proceden de Dios y son como Dios."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "107:1.6",
       "pageReference": "1177.7",
       "sortId": "3.107.001.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "En su relación con las criaturas de fusión revelan un amor excelso y un ministerio espiritual que profundamente confirma la declaración de que Dios es espíritu. Pero hay mucho que ocurre además de este ministerio trascendente y que no se ha revelado jamás a los mortales de Urantia. Tampoco comprendemos plenamente qué es lo que realmente ocurre cuando el Padre Universal da de sí mismo para que sea parte de la personalidad de una criatura temporal. Tampoco ha revelado completamente la progresión ascendente de los finalistas del Paraíso las posibilidades plenas inherentes a esta asociación excelsa de hombre y Dios. En último análisis, los fragmentos Paternales deben ser un don del Dios absoluto a aquellas criaturas cuyo destino abarca la posibilidad del alcance de Dios como absoluto."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "En su relación con las criaturas susceptibles de fusión, revelan un amor superno y un ministerio espiritual que confirman profundamente la afirmación de que Dios es espíritu. Pero además de este ministerio trascendente ocurren muchas otras cosas que no se han revelado nunca a los mortales de Urantia. Nosotros tampoco comprendemos del todo qué sucede realmente cuando el Padre Universal da algo de sí mismo para que forme parte de la personalidad de una criatura del tiempo. La progresión ascendente de los finalitarios del Paraíso tampoco ha desvelado aún todas las posibilidades inherentes a esta asociación superna entre el hombre y Dios. En cualquier caso, los fragmentos del Padre tienen que ser el don del Dios absoluto a aquellas criaturas cuyo destino abarca la posibilidad de alcanzar a Dios como absoluto."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "107:1.7",
       "pageReference": "1178.1",
       "sortId": "3.107.001.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Origen de los Ajustadores del Pensamiento",
-      "markdown": "Así como el Padre Universal fragmenta su Deidad prepersonal, el espíritu Infinito individualiza porciones de su espíritu premente para residir en las almas evolucionarias de los mortales sobrevivientes que pertenecen a la serie de fusión con el espíritu y realmente fusionarse en ellas. Pero la naturaleza del Hijo Eterno no es fragmentable de esta manera; el espíritu del Hijo Original es difuso o discretamente personal. Las criaturas fusionadas con el Hijo están unidas con dotes individualizadas del espíritu de los Hijos Creadores del Hijo Eterno."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "El origen de los Ajustadores del Pensamiento",
+      "markdown": "Igual que el Padre Universal fragmenta su Deidad prepersonal, el Espíritu Infinito individualiza porciones de su espíritu premente para que moren dentro de las almas evolutivas de los mortales supervivientes que pertenecen a la serie de fusión con el espíritu y lleguen a fusionarse con ellas. En cambio la naturaleza del Hijo Eterno no se puede fragmentar así porque el espíritu del Hijo Original o bien es difuso o bien diferenciadamente personal. Las criaturas fusionadas con el Hijo están unidas con otorgamientos individualizados del espíritu de los Hijos Creadores del Hijo Eterno."
     },
     {
       "type": "section",
@@ -325,8 +325,8 @@
       "standardReferenceId": "107:2.0",
       "pageReference": null,
       "sortId": "3.107.002.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
       "markdown": null
     },
     {
@@ -343,9 +343,9 @@
       "standardReferenceId": "107:2.1",
       "pageReference": "1178.2",
       "sortId": "3.107.002.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "Los Ajustadores son individualizados como entidades vírgenes, y todos están destinados a tornarse liberados, fusionados o Monitores Personalizados. Comprendemos que existen siete órdenes de Ajustadores del Pensamiento, aunque no comprendemos totalmente estas categorías. Frecuentemente nos referimos a las diferentes órdenes como sigue:"
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "Los Ajustadores se individualizan como entidades vírgenes y están todos destinados a convertirse en Monitores liberados, en Monitores fusionados o bien en Monitores Personalizados. Entendemos que hay siete órdenes de Ajustadores del Pensamiento, aunque no comprendemos del todo estas divisiones. Solemos referirnos a los diferentes órdenes como sigue:"
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "107:2.2",
       "pageReference": "1178.3",
       "sortId": "3.107.002.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "1. *Ajustadores vírgenes,* los que sirven en su encargo inicial en la mente de los candidatos evolucionarios para la sobrevivencia eterna. Los Monitores Misteriosos son eternamente uniformes en su naturaleza divina. También son uniformes en su naturaleza experiencial cuando salen primeramente de Divinington; la diferenciación experiencial subsiguiente es el resultado de una experiencia actual de ministerio universal."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "1. *Ajustadores vírgenes*, los que cumplen su primera misión en la mente de un candidato evolutivo a la supervivencia eterna. La naturaleza divina de los Monitores de Misterio es eternamente uniforme. Su naturaleza experiencial también es uniforme cuando salen por primera vez de Divinington, pero luego se van diferenciando experiencialmente según las distintas experiencias de su ministerio en el universo."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "107:2.3",
       "pageReference": "1178.4",
       "sortId": "3.107.002.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "2. *Ajustadores avanzados,* los que han servido una o más temporadas con criaturas volitivas en los mundos donde la fusión final ocurre entre la identidad de la criatura temporal y una porción individualizada del espíritu de la manifestación en el universo local de la Tercera Fuente y Centro."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "2. *Ajustadores avanzados*, los que han servido durante uno o más periodos dentro de criaturas con voluntad en mundos donde la fusión final se produce entre la identidad de la criatura del tiempo y una porción individualizada del espíritu de la manifestación de la Tercera Fuente y Centro en el universo local."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "107:2.4",
       "pageReference": "1178.5",
       "sortId": "3.107.002.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "3. *Ajustadores supremos,* los Monitores que han servido en la aventura del tiempo en los mundos evolucionarios, pero cuyos asociados humanos por alguna razón renunciaron a la sobrevivencia eterna; y los que han sido posteriormente asignados a otras aventuras en otros mortales en otros mundos evolutivos. Un Ajustador supremo, aunque no más divino que un Monitor virgen, ha tenido más experiencia, y puede hacer en la mente humana cosas que un Ajustador menos experto no podría hacer."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "3. *Ajustadores supremos*, los Monitores que han servido en la aventura del tiempo de los mundos evolutivos con compañeros humanos que rehusaron por alguna razón la supervivencia eterna, y también los que han sido destinados posteriormente a otras aventuras dentro de otros mortales en otros mundos en vías de evolución. Un Ajustador supremo, aunque no es más divino que un Monitor virgen, ha tenido más experiencia y puede hacer cosas en la mente humana que un Ajustador menos experimentado no podría."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "107:2.5",
       "pageReference": "1178.6",
       "sortId": "3.107.002.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "4. *Ajustadores desaparecidos,* Aquí se produce una laguna en nuestros esfuerzos por seguir las carreras de los Monitores Misteriosos. Existe una cuarta etapa de servicio sobre la cual no estamos seguros. Los Melquisedek enseñan que los Ajustadores de cuarta etapa están ocupados en encargos separados, deambulando por el universo de los universos. Los Mensajeros Solitarios se inclinan a creer que son uno con la Primera Fuente y Centro, disfrutando de un período de refrescante asociación con el Padre mismo. Y es enteramente posible que un Ajustador pueda deambular por el universo maestro simultáneamente por el hecho de estar unido con el Padre omnipresente."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "4. *Ajustadores desaparecidos*. Encontramos aquí una laguna en nuestros esfuerzos por seguir la carrera de los Monitores de Misterio. Hay una cuarta etapa de servicio que desconocemos. Los Melquisedec enseñan que los Ajustadores de cuarta etapa deambulan por el universo de universos en misiones independientes. Los Mensajeros Solitarios se inclinan a pensar que son uno con la Primera Fuente y Centro y pasan un periodo reparador en la reconfortante compañía del Padre mismo. Para un Ajustador es perfectamente posible deambular por el universo maestro y ser uno al mismo tiempo con el Padre omnipresente."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "107:2.6",
       "pageReference": "1178.7",
       "sortId": "3.107.002.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "5. *Ajustadores liberados,* los Monitores Misteriosos que han sido eternamente liberados del servicio temporal para los mortales de las esferas en evolución. Cuáles sean sus funciones, no lo sabemos."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "5. *Ajustadores liberados*, los Monitores de Misterio que han sido liberados para siempre de servir en el tiempo a los mortales de las esferas en vías de evolución. No sabemos cuáles pueden ser sus funciones."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "107:2.7",
       "pageReference": "1179.1",
       "sortId": "3.107.002.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "6. *Ajustadores fusionados —* finalistas— los que se han hecho uno con las criaturas ascendentes de los superuniversos, los socios en la eternidad de los ascensores del tiempo en el Cuerpo Paradisiaco de la Finalidad. Los Ajustadores del Pensamiento ordinariamente se fusionan con los mortales temporales ascendentes, y con tales mortales sobrevivientes son registrados a su entrada y salida de Ascendington; siguen el curso de los seres ascendentes. Después de fusionarse con el alma ascendente evolucionaria, parecería que el Ajustador se trasladara del nivel existencial absoluto del universo, al nivel existencial finito de la asociación funcional con la personalidad ascendente. Aunque retenga todo el carácter de la naturaleza divina existencial, un Ajustador Fusionado se torna indisolublemente vinculado con la carrera ascendente de un mortal sobreviviente."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "6. *Ajustadores fusionados* —finalitarios— los que se han hecho uno con las criaturas ascendentes de los superuniversos, compañeros para la eternidad de los ascendentes del tiempo del Cuerpo de la Finalización del Paraíso. Los Ajustadores del Pensamiento suelen fusionarse con los mortales ascendentes del tiempo, son registrados con esos mortales supervivientes a su entrada y salida de Ascendington y siguen el curso de los seres ascendentes. Al fusionarse con el alma evolutiva ascendente parece que el Ajustador se traslada del nivel existencial absoluto del universo al nivel experiencial finito de la vinculación funcional con una personalidad ascendente. Aunque conserva todo el carácter de la naturaleza divina existencial, el Ajustador fusionado se une de forma indisoluble a la carrera ascendente del mortal superviviente."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "107:2.8",
       "pageReference": "1179.2",
       "sortId": "3.107.002.008",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "7. *Ajustadores Personalizados,* los que han servido con los Hijos del Paraíso encarnados, juntamente con muchos que han alcanzado una distinción poco común durante su residencia en un mortal, pero cuyos sujetos rehusaron la supervivencia. Tenemos razones para creer que dichos Ajustadores son personalizados por recomendación de los Ancianos de los Días del superuniverso de su encargo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "7. *Ajustadores personalizados*, los que han servido con los Hijos del Paraíso encarnados, así como muchos otros que se han distinguido por una actuación extraordinaria en el interior de un mortal que rechazó la supervivencia. Tenemos razones para creer que estos Ajustadores son personalizados por recomendación de los Ancianos de los Días del superuniverso donde realizaron su misión."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "107:2.9",
       "pageReference": "1179.3",
       "sortId": "3.107.002.009",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Clasificación de los Ajustadores",
-      "markdown": "Hay muchas maneras en las cuales estos misteriosos fragmentos de Dios pueden ser clasificados: de acuerdo con el encargo universal, por la medida de éxito en su residencia en un mortal individual, o aun por las raíces raciales del candidato mortal para la fusión."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La clasificación de los Ajustadores",
+      "markdown": "Estos misteriosos fragmentos de Dios se pueden clasificar de muchas maneras: según su misión en el universo, por el grado de éxito de su actuación en el interior de un mortal individual o incluso por la ascendencia racial del candidato mortal a la fusión."
     },
     {
       "type": "section",
@@ -505,8 +505,8 @@
       "standardReferenceId": "107:3.0",
       "pageReference": null,
       "sortId": "3.107.003.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
       "markdown": null
     },
     {
@@ -523,9 +523,9 @@
       "standardReferenceId": "107:3.1",
       "pageReference": "1179.4",
       "sortId": "3.107.003.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "Todas las actividades universales relacionadas con el envío, gestión, dirección y retorno de los Monitores Misteriosos del servicio en los siete superuniversos parecen estar centradas en la esfera sagrada de Divinington. Por lo que yo sé, nadie, excepto los Ajustadores y otras entidades del Padre, ha estado en esa esfera. Parece probable que numerosas entidades prepersonales no reveladas compartan a Divinington como esfera de residencia con los Ajustadores. Conjeturamos que estas entidades semejantes puedan de alguna manera estar asociadas con el ministerio presente y futuro de los Monitores Misteriosos. Pero en realidad no lo sabemos."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "Todas las actividades del universo relacionadas con el envío, la gestión, la dirección y el regreso de los Monitores de Misterio destinados a los siete superuniversos parecen estar centradas en la esfera sagrada de Divinington. Que yo sepa, nadie ha estado en esa esfera aparte de los Ajustadores y otras entidades del Padre. Es probable que muchas entidades prepersonales no reveladas compartan Divinington como esfera de residencia con los Ajustadores. Conjeturamos que esas entidades pueden estar vinculadas de algún modo al ministerio presente y futuro de los Monitores de Misterio, pero en realidad no lo sabemos."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "107:3.2",
       "pageReference": "1179.5",
       "sortId": "3.107.003.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "Cuando los Ajustadores del Pensamiento retornan al Padre, vuelven al dominio de origen supuesto, Divinington; y probablemente como parte de esta experiencia exista un contacto real con la personalidad paradisiaca del Padre, así como también con la manifestación especializada de la divinidad del Padre que se dice estar situada en esta esfera secreta."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "Cuando los Ajustadores del Pensamiento regresan al Padre vuelven a Divinington, su supuesto lugar de origen. Como parte de esta experiencia es probable que se produzca un contacto real con la personalidad paradisiaca del Padre, así como con la manifestación especializada de la divinidad del Padre situada, según dicen, en esta esfera secreta."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "107:3.3",
       "pageReference": "1179.6",
       "sortId": "3.107.003.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "Aunque sabemos algo de las siete esferas secretas del Paraíso, sabemos menos sobre Divinington que sobre las otras. Los seres de órdenes espirituales elevadas reciben tan sólo tres amonestaciones divinas, y éstas son:"
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "Aunque sabemos algo de las siete esferas secretas del Paraíso, sabemos menos de Divinington que de las otras. Los seres de alto orden espiritual reciben solo tres mandamientos divinos, a saber:"
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "107:3.4",
       "pageReference": "1179.7",
       "sortId": "3.107.003.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "1. Mostrar siempre respeto adecuado por la experiencia y las dotes de sus decanos y superiores."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "1. Mostrar siempre el debido respeto hacia las dotes y la experiencia de sus mayores y superiores."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "107:3.5",
       "pageReference": "1179.8",
       "sortId": "3.107.003.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "2. Ser siempre considerados de las limitaciones y la inexperiencia de sus subordinados e inferiores."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "2. Mostrar siempre consideración por las limitaciones y la inexperiencia de sus inferiores y los seres de menor rango."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "107:3.6",
       "pageReference": "1179.9",
       "sortId": "3.107.003.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "3. No intentar jamás aterrizar en Divinington."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "3. No intentar nunca aterrizar en las orillas de Divinington."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "107:3.7",
       "pageReference": "1179.10",
       "sortId": "3.107.003.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "Con frecuencia pienso que sería totalmente inútil para mí ir a Divinington; probablemente sería incapaz de ver a los seres residentes excepto tales como los Ajustadores Personalizados, y los he visto en otros sitios. Estoy muy seguro de que no hay nada en Divinington de verdadero valor o beneficio para mí, nada esencial a mi crecimiento y desarrollo, si no, no se me habría prohibido ir allí."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "He pensado muchas veces que sería totalmente inútil que yo fuera a Divinington. Probablemente sería incapaz de ver a ninguno de sus habitantes, excepto a seres como los Ajustadores Personalizados que ya he visto en otros sitios. Estoy convencido de que no hay nada de valor real o de provecho para mí en Divinington, nada esencial para mi crecimiento y desarrollo, porque si lo hubiera no se me habría prohibido ir allí."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "107:3.8",
       "pageReference": "1180.1",
       "sortId": "3.107.003.008",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "Puesto que Divinington nos ofrece poco o nada para aprender de la naturaleza y origen de los Ajustadores, estamos obligados a recoger datos de mil y una fuentes distintas, y es necesario reunir, asociar y correlacionar estos datos acumulados para que dicho conocimiento pueda ser informativo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "Puesto que poco o nada podemos aprender a través de Divinington sobre la naturaleza y el origen de los Ajustadores, nos vemos obligados a recoger información de mil y una fuentes, y es necesario reunir, asociar y correlacionar estos datos acumulados para darles valor informativo."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "107:3.9",
       "pageReference": "1180.2",
       "sortId": "3.107.003.009",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "El valor y la sabiduría exhibidos por los Ajustadores del Pensamiento sugieren que se han sometido a una capacitación de enorme alcance y amplitud. Puesto que no son personalidades, este adiestramiento debe ser impartido en las instituciones de capacitación en Divinington. Los singulares Ajustadores Personalizados sin duda constituyen el personal de las escuelas de capacitación de Ajustadores en Divining-ton. Y sabemos que este cuerpo central y supervisor está presidido por el Ajustador ahora Personalizado del primer Hijo Paradisiaco de la Orden de Micael que completara su séptuple encarnación en las razas y pueblos de sus dominios universales."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "Del valor y la sabiduría que muestran los Ajustadores del Pensamiento se deduce que han recibido una formación de enorme alcance y amplitud. Dado que no son personalidades, esta formación tiene que proceder necesariamente de las instituciones educativas de Divinington. El personal de las escuelas de formación de Ajustadores de Divinington está constituido sin duda por los notables Ajustadores Personalizados. Y sabemos que este cuerpo central supervisor está presidido por el que es ahora el Ajustador Personalizado del primer Hijo del Paraíso del orden de los Migueles que consumó su otorgamiento séptuplo a las razas y pueblos de los mundos de su universo."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "107:3.10",
       "pageReference": "1180.3",
       "sortId": "3.107.003.010",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "El Hogar de los Ajustadores en Divinington",
-      "markdown": "En realidad muy poco sabemos sobre los Ajustadores no personalizados; tan sólo nos comunicamos y contactamos con las órdenes personalizadas. Se les pone el nombre a estas órdenes en Divinington y siempre son conocidas por su nombre y no por su número. Los Ajustadores Personalizados están domiciliados permanentemente en Divinington; esa esfera sagrada es su hogar. Salen de esa residencia sólo por la voluntad del Padre Universal. Muy pocos se encuentran en los dominios de los universos locales, pero están presentes en grandes números en el universo central."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La morada de los Ajustadores en Divinington",
+      "markdown": "En realidad sabemos muy poco sobre los Ajustadores no personalizados porque solo tenemos contacto y comunicación con los órdenes personalizados. Los Ajustadores de estos órdenes reciben su nombre en Divinington y son conocidos siempre por ese nombre, no por su número. Los Ajustadores Personalizados están domiciliados permanentemente en Divinington; esa esfera sagrada es su casa. Salen de esa residencia solo por voluntad del Padre Universal. En los dominios de los universos locales se ven muy pocos, en cambio son más numerosos en el universo central."
     },
     {
       "type": "section",
@@ -703,8 +703,8 @@
       "standardReferenceId": "107:4.0",
       "pageReference": null,
       "sortId": "3.107.004.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
       "markdown": null
     },
     {
@@ -721,9 +721,9 @@
       "standardReferenceId": "107:4.1",
       "pageReference": "1180.4",
       "sortId": "3.107.004.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "Decir que un Ajustador del Pensamiento es divino es meramente reconocer la naturaleza de su origen. Es altamente probable que tal pureza de divinidad abarque la esencia del potencial de todos los atributos de la Deidad que pueden ser contenidos dentro de tal fragmento de la esencia absoluta de la presencia universal del Padre del Paraíso eterno e infinito."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "Al decir que un Ajustador del Pensamiento es divino reconocemos simplemente la naturaleza de su origen. Es muy probable que esa pureza de divinidad abarque la esencia del potencial de todos los atributos de Deidad que pueden ser contenidos dentro de ese fragmento de la esencia absoluta de la presencia universal del Padre del Paraíso eterno e infinito."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "107:4.2",
       "pageReference": "1180.5",
       "sortId": "3.107.004.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "La verdadera fuente del Ajustador debe ser infinita, y antes de la fusión con el alma inmortal de un mortal evolutivo, la realidad del Ajustador debe lindar con la absolutez. Los Ajustadores no son absolutos en el sentido universal, en el sentido de Deidad, pero probablemente son verdaderos absolutos dentro de las potencialidades de su naturaleza fragmentada. Son condicionados en cuanto a la universalidad pero no en cuanto a la naturaleza. En extensión están limitados, pero en intensidad de significado, valor y hecho *son absolutos.* Por esta razón a veces denominamos los dones divinos, fragmentos absolutos cualificados del Padre."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "La fuente del Ajustador tiene que ser infinita, y antes de fusionarse con el alma inmortal de un mortal en vías de evolución, la realidad del Ajustador debe lindar con la absolutidad. Los Ajustadores no son absolutos en el sentido universal, en el sentido de Deidad, pero son probablemente auténticos absolutos dentro de las potencialidades de su naturaleza fragmentada. Están limitados en cuanto a su universalidad, no en cuanto a su naturaleza. Son limitados en extensión, pero en intensidad de significado, de valor y de hecho *son absolutos*. Por esta razón denominamos a veces a estos dones divinos fragmentos absolutos cualificados del Padre."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "107:4.3",
       "pageReference": "1180.6",
       "sortId": "3.107.004.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "Ningún Ajustador ha sido nunca desleal al Padre del Paraíso; las órdenes más bajas de criaturas personales pueden a veces tener que luchar con semejantes desleales, pero los Ajustadores jamás; son supremos e infalibles en su esfera excelsa de ministerio para las criaturas y función universal."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "Ningún Ajustador ha sido nunca desleal al Padre del Paraíso. Los órdenes inferiores de criaturas personales pueden tener a veces que enfrentarse a las deslealtades de sus semejantes, pero los Ajustadores jamás. Son supremos e infalibles en su esfera superna de ministerio a las criaturas y en su función en el universo."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "107:4.4",
       "pageReference": "1180.7",
       "sortId": "3.107.004.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "Los Ajustadores no personalizados son visibles tan sólo a los Ajustadores Personalizados. Mi orden, los Mensajeros Solitarios, juntamente con los Espíritus Trinitarios Inspirados, puede detectar la presencia de los Ajustadores por medio de fenómenos reactivos espirituales; y aun los serafines a veces pueden discernir la luminosidad espiritual supuestamente asociada con la presencia de los Monitores en las mentes materiales de los hombres; pero ninguno de nosotros es capaz de discernir realmente la verdadera presencia de los Ajustadores, a menos que éstos hayan sido personalizados, aunque sus naturalezas son percibibles en unión con las personalidades fusionadas de los mortales ascendentes de los mundos evolucionarios. La invisibilidad universal de los Ajustadores sugiere fuertemente su origen y naturaleza divinos, exclusivos y elevados."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "Los Ajustadores no personalizados son visibles solo para los Ajustadores Personalizados. Los miembros de mi orden de los Mensajeros Solitarios y también los Espíritus Inspirados de la Trinidad pueden detectar la presencia de los Ajustadores por medio de fenómenos reactivos espirituales; incluso las serafines pueden percibir a veces la luminosidad de espíritu que se supone asociada a la presencia de los Monitores en la mente material de los hombres. Sin embargo ninguno de nosotros es capaz de percibir la presencia real de los Ajustadores a menos que hayan sido personalizados, si bien es cierto que sus naturalezas son perceptibles en unión con las personalidades fusionadas de los mortales ascendentes de los mundos evolutivos. La invisibilidad universal de los Ajustadores es un claro indicio de la superioridad exclusivamente divina de su origen y naturaleza."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "107:4.5",
       "pageReference": "1181.1",
       "sortId": "3.107.004.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "Hay una luz característica, una luminosidad del espíritu, que acompaña esta presencia divina, y que ha sido asociada en general con los Ajustadores del Pensamiento. En el universo de Nebadon esta luminosidad paradisiaca se conoce vastamente como «luz piloto»; en Uversa se la denomina «luz de la vida». En Urantia este fenómeno a veces ha sido referido como «la verdadera luz que ilumina a todo hombre que llega al mundo»."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "Hay una luz característica, una luminosidad de espíritu, que acompaña a esta presencia divina y se suele asociar con los Ajustadores del Pensamiento. En el universo de Nebadon esta luminosidad paradisiaca es bien conocida como la «luz piloto»; en Uversa se llama la «luz de vida». En Urantia se ha aludido a veces a este fenómeno como «la luz verdadera que alumbra a todo hombre que viene a este mundo»."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "107:4.6",
       "pageReference": "1181.2",
       "sortId": "3.107.004.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "Para todos los seres que han alcanzado al Padre Universal, los Ajustadores del Pensamiento Personalizados son visibles. Los Ajustadores de todas las etapas, juntamente con todos los demás seres, entidades, espíritus, personalidades y manifestaciones espirituales, son siempre discernibles por parte de aquellas Personalidades Creadoras Supremas que se originan en las Deidades del Paraíso, y que presiden los principales gobiernos del gran universo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "Los Ajustadores del Pensamiento Personalizados son visibles para todos los seres que han alcanzado al Padre Universal. Los Ajustadores de todas las etapas, junto con todos los demás seres, entidades, espíritus, personalidades y manifestaciones del espíritu, son siempre perceptibles por las Personalidades Creadoras Supremas que proceden de las Deidades del Paraíso y presiden los principales gobiernos del gran universo."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "107:4.7",
       "pageReference": "1181.3",
       "sortId": "3.107.004.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "La Naturaleza y la Presencia de los Ajustadores",
-      "markdown": "¿Puedes realmente comprender el verdadero significado de que un Ajustador reside en ti? ¿Puedes realmente imaginar qué significa tener un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, que reside en vosotros y se fusiona con vuestra naturaleza mortal finita? Cuando el hombre mortal se fusiona con un fragmento real de la Causa existencial del cosmos total, no se puede colocar límite alguno sobre el destino de tal asociación sin precedentes e inimaginable. En la eternidad, el hombre descubrirá no sólo la infinidad de la Deidad objetiva sino también la potencialidad sin fin del fragmento subjetivo de este mismo Dios. Por siempre el Ajustador estará revelando a la personalidad mortal la maravilla de Dios, y jamás podrá esta revelación excelsa llegar a un fin, porque el Ajustador es de Dios y como Dios para el hombre mortal."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La naturaleza y la presencia de los Ajustadores",
+      "markdown": "¿Os dais cuenta de la verdadera relevancia que tiene la presencia interior de un Ajustador? ¿Podéis llegar a asimilar realmente lo que significa que un fragmento absoluto de la Deidad absoluta e infinita, el Padre Universal, habite dentro de vuestras naturalezas mortales finitas y se fusione con ellas? Cuando el hombre mortal se fusiona con un fragmento auténtico de la Causa existencial del cosmos total, el destino de esa asociación inimaginable y sin precedentes se vuelve ilimitado. El hombre descubrirá en la eternidad no solo la infinitud de la Deidad objetiva sino también la potencialidad perpetua del fragmento subjetivo de este mismo Dios. El Ajustador revelará por siempre las maravillas de Dios a la personalidad mortal, y esta revelación superna no puede tener fin porque para el hombre mortal el Ajustador es de Dios y como Dios."
     },
     {
       "type": "section",
@@ -847,8 +847,8 @@
       "standardReferenceId": "107:5.0",
       "pageReference": null,
       "sortId": "3.107.005.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
       "markdown": null
     },
     {
@@ -865,9 +865,9 @@
       "standardReferenceId": "107:5.1",
       "pageReference": "1181.4",
       "sortId": "3.107.005.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "Los mortales evolucionarios tienden a considerar la mente una mediación cósmica entre el espíritu y la materia, puesto que ése es en efecto el ministerio principal de la mente, por lo que vosotros podéis discernir. Por lo tanto es muy difícil para los humanos percibir que los Ajustadores del Pensamiento tienen mente, puesto que los Ajustadores son fragmentaciones de Dios en un nivel absoluto de realidad que es no sólo prepersonal sino también previo a toda divergencia entre la energía y el espíritu. En un nivel monista, que es antecedente a la diferenciación entre la energía y el espíritu, no podría existir ninguna función mediadora de la mente, porque no habría divergencias que necesitaran ser mediadas."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "Los mortales evolutivos tienden a considerar que la mente es una mediación cósmica entre el espíritu y la materia, pues ese es en efecto el cometido principal de la mente tal como la percibís vosotros. Para los humanos es difícil captar que los Ajustadores del Pensamiento tienen mente, dado que son fragmentaciones de Dios en un nivel absoluto de la realidad que es no solo prepersonal sino también previo a toda divergencia entre energía y espíritu. En un nivel monista antecedente a la diferenciación entre energía y espíritu no podría haber ninguna función mediadora de la mente, ya que no hay divergencias que dirimir."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "107:5.2",
       "pageReference": "1181.5",
       "sortId": "3.107.005.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "Puesto que los Ajustadores pueden planificar, trabajar y amar, han de tener poderes de yo conmensurados con la mente. Están poseídos por una habilidad ilimitada de comunicarse entre sí, o sea, todas las formas de los Monitores por encima de los grupos primeros o vírgenes. En cuanto a la naturaleza y propósito de su intercomunicación, muy poco podemos revelar, porque no sabemos. Sabemos ulteriormente que deben tener mente de alguna manera porque si no, no podrían jamás ser personalizados."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "Dado que los Ajustadores pueden planificar, trabajar y amar, tienen que tener poderes del yo que sean conmensurados con la mente. Los Monitores de todos los niveles que están por encima del grupo primero o virgen poseen una capacidad ilimitada de comunicarse entre sí, aunque no podemos revelar casi nada sobre la naturaleza y el sentido de sus intercomunicaciones porque las desconocemos. Lo que sí sabemos es que tienen que tener alguna forma de mente, porque si no nunca podrían ser personalizados."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "107:5.3",
       "pageReference": "1181.6",
       "sortId": "3.107.005.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "La dote de mente del Ajustador del Pensamiento es como la *dote de mente* del Padre Universal y del Hijo Eterno, la que es ancestral a las *mentes* del Actor Con-junto."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "La constitución mental del Ajustador del Pensamiento es como la *constitución mental* del Padre Universal y del Hijo Eterno, que es ancestral a las *mentes* del Actor Conjunto."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "107:5.4",
       "pageReference": "1181.7",
       "sortId": "3.107.005.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "El tipo de mente postulado en un Ajustador debe ser similar a la dote mental de numerosas otras órdenes de entidades prepersonales que según se supone se originan de la misma manera de la Primera Fuente y Centro. Aunque muchas de estas órdenes no han sido reveladas en Urantia, todas exhiben cualidades mentales. Es también posible para estas individualizaciones de la Deidad original tornarse unificadas con numerosos tipos en evolución de seres no mortales y aun con un número limitado de seres no evolucionarios que hayan desarrollado la capacidad para la fusión con dichos fragmentos de la Deidad."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "El tipo de mente que se da por sentado para los Ajustadores tiene que ser similar a la dotación de mente de muchos otros órdenes de entidades prepersonales cuyo origen también se atribuye a la Primera Fuente y Centro. Aunque muchos de esos órdenes no han sido revelados en Urantia, todos manifiestan cualidades mentales. También es posible que esas individualizaciones de la Deidad original se unifiquen con numerosos tipos de seres no mortales en vías de evolución e incluso con un número limitado de seres no evolutivos que han desarrollado la capacidad de fusionarse con esos fragmentos de la Deidad."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "107:5.5",
       "pageReference": "1182.1",
       "sortId": "3.107.005.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "Cuando un Ajustador del Pensamiento se fusiona con el alma morontial inmortal en evolución del humano sobreviviente, la mente del Ajustador tan sólo puede ser identificada como persistiendo separada de la mente de la criatura hasta que el mortal ascendente alcanza los niveles espirituales de progresión universal."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "Cuando un Ajustador del Pensamiento se fusiona con el alma de morontia en vías de evolución e inmortal de un humano superviviente, la mente del Ajustador solo se puede identificar como separada de la mente de la criatura hasta que el mortal ascendente alcanza los niveles de espíritu de progresión en el universo."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "107:5.6",
       "pageReference": "1182.2",
       "sortId": "3.107.005.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores Tienen Mente",
-      "markdown": "En el momento del logro de los niveles de la experiencia ascendente de los finalistas, estos espíritus de la sexta etapa parecen transmutar algún factor mental que representa la unión de ciertas fases de la mente del mortal y del Ajustador que previamente habían funcionado como vínculo entre la fase divina y la humana de dichas personalidades ascendentes. Esta calidad experiencial de la mente probablemente se «suprematiza» y subsiguientemente aumenta la dote experiencial de la Deidad evolucionaria —el Ser Supremo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "La constitución mental de los Ajustadores",
+      "markdown": "Cuando alcanzan los niveles finalitarios de experiencia ascendente, estos espíritus de sexta etapa parecen transmutar un factor mental que representa la unión de ciertos aspectos de la mente del mortal y de la mente del Ajustador, un factor que había funcionado antes como enlace entre los aspectos divino y humano de dichas personalidades ascendentes. Es probable que esta cualidad experiencial de la mente adquiera carácter de supremacía e incremente después la dotación experiencial de la Deidad evolutiva, es decir, del Ser Supremo."
     },
     {
       "type": "section",
@@ -973,8 +973,8 @@
       "standardReferenceId": "107:6.0",
       "pageReference": null,
       "sortId": "3.107.006.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
       "markdown": null
     },
     {
@@ -991,9 +991,9 @@
       "standardReferenceId": "107:6.1",
       "pageReference": "1182.3",
       "sortId": "3.107.006.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "En la forma en que se encuentran los Ajustadores del Pensamiento en la experiencia de las criaturas, divulgan la presencia y la guía de una influencia espiritual. El Ajustador es en efecto un espíritu, espíritu puro, pero espíritu y más. No hemos podido jamás clasificar satisfactoriamente a los Monitores Misteriosos; todo lo que podemos decir con certeza de ellos es que son verdaderamente como Dios."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Los Ajustadores del Pensamiento se manifiestan en la experiencia de las criaturas como la presencia y la guía de una influencia de espíritu. El Ajustador es en verdad un espíritu, espíritu puro y más que espíritu. No hemos podido nunca clasificar a los Monitores de Misterio de forma satisfactoria, pero lo que podemos decir de ellos con toda certeza es que son verdaderamente como Dios."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "107:6.2",
       "pageReference": "1182.4",
       "sortId": "3.107.006.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "El Ajustador es la posibilidad del hombre para lograr la eternidad; el hombre es la posibilidad del Ajustador para lograr personalidad. Vuestro Ajustador individual trabaja para espiritualizaros en la esperanza de eternizar vuestra identidad temporal. Los Ajustadores están saturados de amor bello y autodonante del Padre de los espíritus. Os aman divina y verdaderamente; son los prisioneros de la esperanza espiritual confinados en la mente del hombre. Esperan anhelosamente que vuestra mente mortal alcance la divinidad para que pueda terminar su soledad, para que puedan ser liberados con vosotros de las limitaciones de la vestimenta material y de la indumentaria del tiempo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "El Ajustador es la posibilidad de eternidad para el hombre. El hombre es la posibilidad de personalidad para el Ajustador. Vuestro Ajustador individual trabaja para espiritualizaros con la esperanza de eternizar vuestra identidad temporal. Los Ajustadores están saturados del amor hermoso que otorga de sí mismo el Padre de los espíritus. Os aman verdadera y divinamente. Son prisioneros de la esperanza de ser espíritu que está confinada dentro de la mente de los hombres. Anhelan que vuestra mente mortal logre la divinidad para que se acabe su soledad, para ser liberados con vosotros de las limitaciones de la investidura material y de los ropajes del tiempo."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "107:6.3",
       "pageReference": "1182.5",
       "sortId": "3.107.006.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "Vuestro camino hacia el Paraíso es el camino del alcance espiritual, y la naturaleza Ajustadora presentará fielmente la revelación de la naturaleza espiritual del Padre Universal. Más allá del ascenso al Paraíso y en las etapas postfinalistas de la carrera eterna, el Ajustador tal vez se ponga en contacto con el que fuera su socio humano en ministerio distinto del espiritual; pero el ascenso al Paraíso y la carrera finalista son la sociedad entre el hombre espiritualizante que conoce a Dios y el ministerio espiritual del Ajustador revelador de Dios."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Vuestra senda hacia el Paraíso es la senda del logro de espíritu, y la naturaleza del Ajustador os irá revelando fielmente la naturaleza espiritual del Padre Universal. Más allá del ascenso al Paraíso y en las etapas posfinalitarias de la carrera eterna, es posible que el Ajustador se relacione con su antiguo socio humano para cuestiones distintas del ministerio del espíritu, pero el ascenso paradisiaco y la carrera finalitaria consisten en la asociación del mortal que conoce a Dios y se espiritualiza con el ministerio espiritual del Ajustador que revela a Dios."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "107:6.4",
       "pageReference": "1182.6",
       "sortId": "3.107.006.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "Sabemos que los Ajustadores del Pensamiento son espíritus, espíritus puros, se supone que son espíritus absolutos. Pero el Ajustador debe ser también algo más que exclusiva realidad espiritual. Además de la dote de mente conjeturada, también existen factores de energía pura. Si recordáis que Dios es la fuente de energía pura y de espíritu puro, no será tan difícil percibir que sus fragmentos sean ambas cosas. Es un hecho que los Ajustadores atraviesan el espacio por circuitos instantáneos y universales de gravedad de la Isla del Paraíso."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Sabemos que los Ajustadores del Pensamiento son espíritus, espíritus puros, probablemente espíritus absolutos. Pero el Ajustador tiene que ser algo más que una exclusiva realidad de espíritu. Además de su supuesta constitución mental presenta también factores de energía pura. Si recordáis que Dios es la fuente de la energía pura y del espíritu puro, no os costará mucho comprender que sus fragmentos puedan ser ambas cosas. De hecho, los Ajustadores atraviesan el espacio por los circuitos de gravedad instantáneos y universales de la Isla del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "107:6.5",
       "pageReference": "1182.7",
       "sortId": "3.107.006.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "El hecho de que los Monitores Misteriosos estén de esta manera asociados con los circuitos materiales del universo de los universos es verdaderamente sorprendente. Pero sigue siendo un hecho que fulguran a través de todo el gran universo por los circuitos de la gravedad material. Es enteramente posible que aun puedan penetrar los niveles del espacio exterior; seguramente podrían seguir la presencia gravitacional del Paraíso en estas regiones, y aunque mi orden de personalidad puede atravesar los circuitos de la mente del Actor Conjunto aun más allá de los confines del gran universo, no hemos estado nunca seguros de detectar la presencia de Ajustadores en las regiones inexploradas del espacio exterior."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Esta vinculación de los Monitores de Misterio con los circuitos materiales del universo de universos es francamente desconcertante, pero no deja de ser cierto que relampaguean por los circuitos de gravedad material a través de todo el gran universo. Es enteramente posible que sean capaces de penetrar incluso en los niveles del espacio exterior, y no hay duda de que podrían seguir a la presencia de gravedad del Paraíso en esas regiones. Aunque los miembros de mi orden de personalidad podemos también atravesar los circuitos de mente del Actor Conjunto más allá de los confines del gran universo, nunca hemos detectado con seguridad la presencia de Ajustadores en las regiones inexploradas del espacio exterior."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "107:6.6",
       "pageReference": "1183.1",
       "sortId": "3.107.006.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "Y sin embargo, aunque los Ajustadores utilizan los circuitos de la gravedad material, no están sujetos a ella como lo está la creación material. Los Ajustadores son fragmentos del antepasado de la gravedad, no de las consecuenciales de la gravedad; se han segmentado en un nivel universal de existencia que es hipotéticamente anterior a la aparición de la gravedad."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Y sin embargo, aunque los Ajustadores utilizan los circuitos de gravedad material, no están sometidos a ella como lo está la creación material. Los Ajustadores son fragmentos del ancestro de la gravedad, no son consecuentes a la gravedad; se han segmentado en un nivel de existencia del universo que antecede hipotéticamente a la aparición de la gravedad."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "107:6.7",
       "pageReference": "1183.2",
       "sortId": "3.107.006.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores como Espíritus Puros",
-      "markdown": "Los Ajustadores del Pensamiento no tienen descanso desde el momento de su dotación hasta el día de su liberación para dirigirse a Divinington en el momento de la muerte natural de su sujeto mortal. Y aquellos cuyo sujeto no pasa a través de las compuertas de la muerte natural ni siquiera experimentan este respiro provisional. Los Ajustadores del Pensamiento no requieren ingestión de energía; son energía, energía de la orden más elevada y más divina."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores como espíritus puros",
+      "markdown": "Los Ajustadores del Pensamiento no descansan desde el momento de su otorgamiento hasta la muerte natural de su sujeto mortal. Entonces quedan liberados y pueden volver a Divinington, pero aquellos cuyo sujeto no pasa por los portales de la muerte natural ni siquiera tienen ese respiro temporal. Los Ajustadores del Pensamiento no necesitan consumir energía; son energía, energía del orden más alto y más divino."
     },
     {
       "type": "section",
@@ -1117,8 +1117,8 @@
       "standardReferenceId": "107:7.0",
       "pageReference": null,
       "sortId": "3.107.007.000",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
       "markdown": null
     },
     {
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "107:7.1",
       "pageReference": "1183.3",
       "sortId": "3.107.007.001",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "Los Ajustadores del Pensamiento no son personalidades, pero son entidades reales; son verdadera y perfectamente individualizados, aunque no se vuelven nunca, durante su período de residencia en el alma mortal, personalizados. Los Ajustadores del Pensamiento no son personalidades auténticas; son *realidades auténticas,* realidades de la orden más pura conocida en el universo de los universos —son la presencia divina. Aunque no personales, estos maravillosos fragmentos del Padre se denominan comúnmente seres y a veces, en vista de las fases espirituales de su ministerio presente a los mortales, entidades espirituales."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "Los Ajustadores del Pensamiento no son personalidades, pero son entidades reales. Están verdadera y perfectamente individualizados, aunque nunca están realmente personalizados mientras moran en el interior de los mortales. Los Ajustadores del Pensamiento no son verdaderas personalidades sino *verdaderas realidades*, realidades del orden más puro que se conoce en el universo de universos: son la presencia divina. Aunque estos maravillosos fragmentos del Padre no son personales, son considerados habitualmente como seres y a veces, en vista de los aspectos espirituales de su ministerio presente hacia los mortales, como entidades de espíritu."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "107:7.2",
       "pageReference": "1183.4",
       "sortId": "3.107.007.002",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "Si los Ajustadores del Pensamiento no son personalidades con prerrogativas de voluntad y poderes de selección, ¿cómo pueden seleccionar los sujetos mortales y decidir voluntariamente residir en estas criaturas del mundo evolucionario? Ésta es una pregunta que es fácil preguntar, pero probablemente ningún ser en el universo de los universos ha encontrado jamás la respuesta precisa. Aun mi orden de personalidad, los Mensajeros Solitarios, no comprende plenamente la dote de volición, selección y amor en las entidades que no son personales."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "Si los Ajustadores del Pensamiento no son personalidades con prerrogativas de voluntad y poderes de elección, ¿cómo pueden seleccionar a sujetos mortales y ofrecerse para morar dentro de estas criaturas de los mundos evolutivos? Es fácil hacerse esta pregunta, pero no es probable que ningún ser del universo de universos haya encontrado nunca la respuesta exacta. Tampoco los Mensajeros Solitarios de mi orden de personalidad alcanzamos a comprender del todo la dotación de voluntad, de elección y de amor que poseen las entidades no personales."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "107:7.3",
       "pageReference": "1183.5",
       "sortId": "3.107.007.003",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "Frecuentemente hemos especulado que los Ajustadores del Pensamiento deben tener volición en todos los niveles de selección *prepersonales.* Deciden voluntariamente morar en los seres humanos, diseñan planes para la carrera eterna del hombre, los adaptan, modifican y substituyen de acuerdo con las circunstancias, y estas actividades denotan una volición genuina. Tienen afectos por los mortales, funcionan en las crisis universales, siempre están listos para actuar en forma decisiva de acuerdo con la selección humana, y todas éstas son reacciones altamente volitivas. En todas las situaciones que no se refieran al dominio de la voluntad humana, indudablemente exhiben una conducta que denota el ejercicio de poderes en todo sentido equivalentes a la voluntad, a la decisión llevada al máximo."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "Hemos especulado muchas veces sobre que los Ajustadores del Pensamiento tienen que tener volición en todos los niveles *prepersonales* de elección. Se ofrecen para morar en el interior de los seres humanos, establecen planes para la carrera eterna del hombre y los adaptan, modifican o sustituyen según las circunstancias. Todas estas actividades implican una volición auténtica. Sienten afecto por los mortales, actúan en las crisis del universo, están siempre a la espera de actuar de manera decisiva conforme a la elección humana. Todas estas reacciones son enteramente volitivas. En todas las situaciones no relacionadas con el dominio de la voluntad humana su conducta denota de forma incuestionable el ejercicio de poderes que equivalen en todos los sentidos a la voluntad, al grado máximo de decisión."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "107:7.4",
       "pageReference": "1183.6",
       "sortId": "3.107.007.004",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "¿Por qué entonces, si los Ajustadores del Pensamiento poseen volición, son subsirvientes a la voluntad mortal? Creemos que esto se debe a que la volición del Ajustador, aunque absoluta en su naturaleza, es prepersonal en su manifestación. La voluntad humana funciona en el nivel de personalidad de la realidad universal, y en todo el cosmos lo impersonal —lo no personal, lo subpersonal y lo prepersonal— por siempre responde a la voluntad y a las acciones de la personalidad existente."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "¿Por qué entonces, si los Ajustadores del Pensamiento poseen volición, están supeditados a la voluntad del mortal? Creemos que esto se debe a que la volición del Ajustador, aunque absoluta en su naturaleza, es prepersonal en su manifestación. La voluntad humana funciona en el nivel de personalidad de la realidad de universo, y en todo el cosmos lo impersonal —lo no personal, lo subpersonal y lo prepersonal— responde siempre a la voluntad y a los actos de la personalidad existente."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "107:7.5",
       "pageReference": "1183.7",
       "sortId": "3.107.007.005",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "En todo el universo de seres creados y energías no personales no observamos voluntad, volición, selección y amor manifestados aparte de la personalidad. Excepto en los Ajustadores y otras entidades similares nosotros no presenciamos estos atributos de la personalidad funcionando en asociación con realidades impersonales. No sería correcto designar a un Ajustador como subpersonal, tampoco sería apropiado referirse a tal entidad como superpersonal, pero sería enteramente permisible definir a tal ser como prepersonal."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "En todo un universo de seres creados y de energías no personales, no observamos ninguna manifestación de voluntad, volición, elección o amor fuera de la personalidad. Excepto en los Ajustadores y otras entidades similares, no vemos que estos atributos de la personalidad vayan asociados a realidades impersonales. No sería correcto considerar a los Ajustadores como subpersonales ni tampoco sería apropiado calificarlos de superpersonales, en cambio es perfectamente aceptable decir que son seres prepersonales."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "107:7.6",
       "pageReference": "1184.1",
       "sortId": "3.107.007.006",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "Para nuestras órdenes de seres estos fragmentos de la Deidad son conocidos como los dones divinos. Reconocemos que los Ajustadores son de origen divino, y que constituyen la prueba probable y demostración de la reserva del Padre Universal de la posibilidad de dirigir y comunicarse ilimitadamente con cualquiera y todas las criaturas materiales en sus virtualmente infinitos dominios, y todo ello totalmente aparte de su presencia en las personalidades de sus Hijos del Paraíso o a través de las ministraciones indirectas en las personalidades del Espíritu Infinito."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "Los seres de nuestro orden llamamos dones divinos a estos fragmentos de la Deidad. Reconocemos que los Ajustadores son de origen divino y constituyen probablemente la prueba y la demostración de que el Padre Universal se ha reservado la posibilidad de comunicarse directa e ilimitadamente con todas y cada una de las criaturas materiales existentes en sus dominios prácticamente infinitos. Todo esto ocurre con total independencia de su presencia en las personalidades de sus Hijos del Paraíso o de sus ministraciones indirectas a través de las personalidades del Espíritu Infinito."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "107:7.7",
       "pageReference": "1184.2",
       "sortId": "3.107.007.007",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
-      "markdown": "No existen seres creados que no estén encantados de ser anfitriones de los Monitores Misteriosos, pero ninguna orden de seres los recibe excepto las criaturas volitivas evolucionarias de destino finalista."
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
+      "markdown": "Para todos los seres creados sería una inmensa alegría alojar a un Ajustador, pero los únicos seres habitados interiormente por los Monitores de Misterio son las criaturas con voluntad evolutivas y con destino finalitario."
     },
     {
       "type": "paragraph",
@@ -1261,8 +1261,8 @@
       "standardReferenceId": "107:7.8",
       "pageReference": "1184.3",
       "sortId": "3.107.007.008",
-      "paperTitle": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
-      "sectionTitle": "Los Ajustadores y la Personalidad",
+      "paperTitle": "El origen y la naturaleza de los Ajustadores del Pensamiento",
+      "sectionTitle": "Los Ajustadores y la personalidad",
       "markdown": "[Presentado por un Mensajero Solitario de Orvonton.]"
     }
   ]
