@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/065.md",
-  "source_sha256": "4cdf74f32b855794c84f809529a0a3f163f0a45d288a72d7a9d40cfe87139be0",
+  "source_sha256": "cab0ea78cc128b37a277362d5b3c00dbafa2eea3ea209d22929a252ef2f9e3d2",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "65:0.0",
       "pageReference": null,
       "sortId": "3.065.000.000",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "65:0.0",
       "pageReference": null,
       "sortId": "3.065.000.000",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "65:0.1",
       "pageReference": "730.1",
       "sortId": "3.065.000.001",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "LA VIDA material básica de la evolución —la vida anterior a la mente— es formulada por los Controladores Físicos Decanos y el ministerio de implantación de vida que ejercen los Siete Espíritus Rectores juntamente con la ministración activa de los Portadores de Vida ordenados. Como resultado de la función coordinada de esta creatividad de tres componentes, se desarrolla la capacidad física del organismo para la mente: mecanismos materiales para la reacción inteligente a los estímulos ambientales externos y, después, a los estímulos internos, las influencias que se originan en la mente misma del organismo."
+      "markdown": "LA VIDA evolutiva material básica —la vida anterior a la mente— es formulada por los Controladores Físicos Maestros e impartida por los siete Espíritus Maestros en conjunción con la ministración activa de los Portadores de Vida encargados de ello. Como resultado de la función equivalente de esta triple creatividad, se desarrolla en el organismo la capacidad física de alojar la mente, es decir, los mecanismos materiales para reaccionar inteligentemente a los estímulos ambientales externos y, más tarde, a los estímulos internos originados en la mente misma del organismo."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "65:0.2",
       "pageReference": "730.2",
       "sortId": "3.065.000.002",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "Existen, pues, tres niveles distintos de producción y evolución de la vida:"
+      "markdown": "Hay pues, tres niveles distintos de producción y evolución de la vida:"
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "65:0.3",
       "pageReference": "730.3",
       "sortId": "3.065.000.003",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "1. El dominio físico-energético —la producción de la capacidad mental."
+      "markdown": "1. El dominio de la energía-física, la producción de la capacidad mental."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "65:0.4",
       "pageReference": "730.4",
       "sortId": "3.065.000.004",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "2. La ministración a la mente por los espíritus ayudantes, con efecto a la capacidad espiritual."
+      "markdown": "2. El ministerio de mente de los espíritus adjutores, que incide en la capacidad de espíritu."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "65:0.5",
       "pageReference": "730.5",
       "sortId": "3.065.000.005",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "3. El proveer a la mente mortal del espíritu, el que culmina en el otorgamiento de un Ajustador del Pensamiento."
+      "markdown": "3. La dotación de espíritu de la mente del mortal, que culmina en el otorgamiento del Ajustador del Pensamiento."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "65:0.6",
       "pageReference": "730.6",
       "sortId": "3.065.000.006",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "A los controladores físicos les corresponden los niveles no enseñables y mecánicos de la respuesta del organismo al medio ambiente. Los espíritus ayudantes de la mente activan y regulan los tipos de mente adaptables o no mecánicos, enseñables —aquellos mecanismos de respuesta de los organismos que son capaces de aprender de la experiencia. De la misma manera que los espíritus ayudantes manipulan los potenciales de la mente, los Portadores de Vida ejercen considerable pero discreto control sobre los aspectos ambientales de los procesos evolucionarios hasta el mismo momento de la aparición de la voluntad humana: la capacidad de conocer a Dios y el poder de optar por adorarlo."
+      "markdown": "Los niveles mecánicos no enseñables de respuesta del organismo al entorno son el dominio de los controladores físicos. Los espíritus-mente adjutores activan y regulan los tipos de mente adaptativos o no enseñables mecánicamente, es decir, los mecanismos de respuesta de los organismos capaces de aprender por experiencia. Y al igual que los espíritus adjutores actúan sobre los potenciales de la mente, los Portadores de Vida ejercen un considerable control discrecional sobre los aspectos ambientales de los procesos evolutivos hasta el momento mismo de la aparición de la voluntad humana: la capacidad de conocer a Dios y el poder de elegir adorarlo."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "65:0.7",
       "pageReference": "730.7",
       "sortId": "3.065.000.007",
-      "paperTitle": "La Supervisión de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
       "sectionTitle": null,
-      "markdown": "El funcionamiento integrado de los Portadores de Vida, de los controladores físicos, y de los espíritus ayudantes condiciona el curso de la evolución orgánica en los mundos habitados. Y por tanto, la evolución —en Urantia y en otras partes— siempre entraña un propósito y no es nunca fortuito."
+      "markdown": "El funcionamiento integrado de los Portadores de Vida, los controladores físicos y los espíritus adjutores es lo que condiciona el curso de la evolución orgánica en los mundos habitados. Por eso la evolución —en Urantia o en cualquier otro lugar— es siempre intencionada y nunca fortuita."
     },
     {
       "type": "section",
@@ -181,8 +181,8 @@
       "standardReferenceId": "65:1.0",
       "pageReference": null,
       "sortId": "3.065.001.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
       "markdown": null
     },
     {
@@ -199,9 +199,9 @@
       "standardReferenceId": "65:1.1",
       "pageReference": "730.8",
       "sortId": "3.065.001.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Los Portadores de Vida están dotados de potenciales de metamorfosis de la personalidad, los cuales no poseen sino pocas órdenes de criaturas. Estos Hijos del universo local son capaces de funcionar en tres fases diversas del ser. Suelen desempeñar sus deberes en calidad de Hijos de la fase intermedia, siendo ésta el estado de su origen. Sin embargo, no es posible que un Portador de Vida en tal etapa de la existencia funcione en los dominios electroquímicos en cuanto fabricante que convierte las energías físicas y partículas materiales en unidades de existencia viviente."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Los Portadores de Vida están dotados de potenciales de metamorfosis de la personalidad que pocos órdenes de criaturas poseen. Estos Hijos del universo local son capaces de actuar en tres fases diferentes del ser. Desempeñan normalmente sus tareas como Hijos de fase intermedia, su estado de origen. Pero en esa etapa de existencia, a un Portador de Vida le sería imposible actuar en los dominios electroquímicos transformando las energías físicas y las partículas materiales en unidades de existencia viva."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "65:1.2",
       "pageReference": "730.9",
       "sortId": "3.065.001.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Los Portadores de Vida pueden funcionar y, en efecto, funcionan en los tres niveles siguientes:"
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Los Portadores de Vida pueden actuar y actúan en los tres niveles siguientes:"
     },
     {
       "type": "paragraph",
@@ -235,8 +235,8 @@
       "standardReferenceId": "65:1.3",
       "pageReference": "730.10",
       "sortId": "3.065.001.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
       "markdown": "1. El nivel físico de la electroquímica."
     },
     {
@@ -253,9 +253,9 @@
       "standardReferenceId": "65:1.4",
       "pageReference": "730.11",
       "sortId": "3.065.001.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "2. La fase de la existencia cuasimorontial, que es su fase usual."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "2. La fase intermedia habitual de existencia cuasimorontial."
     },
     {
       "type": "paragraph",
@@ -271,8 +271,8 @@
       "standardReferenceId": "65:1.5",
       "pageReference": "730.12",
       "sortId": "3.065.001.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
       "markdown": "3. El nivel semiespiritual avanzado."
     },
     {
@@ -289,9 +289,9 @@
       "standardReferenceId": "65:1.6",
       "pageReference": "731.1",
       "sortId": "3.065.001.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Cuando los Portadores de Vida se aparejan a embarcarse en la implantación de la vida, después de haber seleccionado los emplazamientos para tal empresa, convocan a la comisión de los arcángeles para la transmutación de los Portadores de Vida. Este grupo consta de diez órdenes de diversas personalidades que incluye a los controladores físicos y sus asociados, y lo preside el jefe de los arcángeles, quien actúa en esta capacidad por mandato de Gabriel y con permiso de los Ancianos de los Días. Cuando se disponen los circuitos de forma debida a estos entes, pueden efectuar en los Portadores de Vida modificaciones que les permitirán funcionar inmediatamente a los niveles físicos de la electroquímica."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Cuando los Portadores de Vida se preparan para la implantar la vida, y después de haber elegido los emplazamientos para su empresa, convocan a la comisión de arcángeles encargados de la transmutación de los Portadores de Vida. Este grupo consta de diez órdenes de personalidades diversas, entre ellas los controladores físicos y sus colaboradores, y está presidido por el jefe de los arcángeles, que desempeña esta función por mandato de Gabriel y con permiso de los Ancianos de los Días. Cuando estos seres se encircuitan de forma adecuada, pueden efectuar en los Portadores de Vida las modificaciones que les permitirán actuar directamente en los niveles físicos de la electroquímica."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "65:1.7",
       "pageReference": "731.2",
       "sortId": "3.065.001.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Después de formularse los modelos de vida y de llevarse debidamente a término las organizaciones materiales, se activan sin tardanza las fuerzas supermateriales implicadas en la propagación de la vida y entonces ya existe la vida. En este momento, a los Portadores de Vida se les restituye inmediatamente a su acostumbrada fase inter-media de existencia de la personalidad, en cuyo estado pueden manipular las unidades vivientes y guiar los organismos en evolución, aun cuando se les despoja de toda capacidad de organizar, crear, nuevos modelos de materia viviente."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Una vez formulados los patrones de vida y debidamente concluidas las organizaciones materiales, las fuerzas supramateriales implicadas en la propagación de la vida se activan en el acto y la vida existe. Entonces los Portadores de Vida son devueltos inmediatamente a la fase intermedia normal de existencia de su personalidad, en cuyo estado pueden manipular las unidades vivas y manejar los organismos en evolución, aunque han sido despojados de toda capacidad de organizar —de crear— nuevos patrones de materia viva."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "65:1.8",
       "pageReference": "731.3",
       "sortId": "3.065.001.008",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Después de lograr cierto nivel la evolución orgánica y de aparecer el libre albedrío de tipo humano en los organismos superiores que van evolucionando, los Portadores de Vida han de abandonar el planeta, o bien hacer votos de renunciación; es decir, han de prometer solemnemente abstenerse de todo intento ulterior de influir en el curso de la evolución orgánica. Cuando tales votos son hechos voluntariamente por aquellos Portadores de Vida que optan por permanecer en el planeta con carácter de asesores futuros a los que se les encomendará el fomento de las criaturas volitivas que acaban de evolucionar, se convoca una comisión de doce miembros, presidida por el jefe de las Estrellas Vespertinas, actuando por autoridad del Soberano del Sistema y con la venia de Gabriel; y en el acto, se transmutan estos Portadores de Vida a la tercera fase de la existencia de la personalidad —el nivel semiespiritual del ser. Vengo funcionando en Urantia en esta tercera fase de existencia desde los tiempos de Andón y Fonta."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Cuando la evolución orgánica ha realizado cierto recorrido y ha aparecido el libre albedrío de tipo humano en los organismos más altos en vías de evolución, los Portadores de Vida deben o bien marcharse del planeta o hacer voto de renuncia; es decir, se deben comprometer a abstenerse de todo intento de seguir influyendo en el curso de la evolución orgánica. Una vez que los Portadores de Vida que eligen permanecer en el planeta como futuros consejeros de los encargados de promover a las criaturas volitivas recién evolucionadas hacen voluntariamente este voto, se convoca una comisión de doce presidida por el jefe de las Estrellas Vespertinas, que actúa por autoridad del Soberano del Sistema y con permiso de Gabriel. Entonces estos Portadores de Vida son transmutados inmediatamente a la tercera fase de existencia de la personalidad, al nivel semiespiritual del ser. Desde los tiempos de Andon y Fonta, yo llevo actuando en Urantia en esa tercera fase de existencia."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "65:1.9",
       "pageReference": "731.4",
       "sortId": "3.065.001.009",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Funciones de los Portadores de Vida",
-      "markdown": "Anticipamos con placer la época en que el universo llegue a la etapa de luz y vida, para cuando una posible cuarta etapa de ser en la cual seremos totalmente espirituales; pero nunca se nos ha divulgado mediante qué técnica podemos lograr este estado avanzado y deseable."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las funciones de los Portadores de Vida",
+      "markdown": "Esperamos con ilusión el momento en que el universo pueda asentarse en luz y vida y el logro posible de la cuarta etapa de nuestro ser en la que seremos totalmente espirituales, pero nunca se nos ha revelado la técnica por la cual podríamos alcanzar ese deseable estado avanzado."
     },
     {
       "type": "section",
@@ -361,8 +361,8 @@
       "standardReferenceId": "65:2.0",
       "pageReference": null,
       "sortId": "3.065.002.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
       "markdown": null
     },
     {
@@ -379,9 +379,9 @@
       "standardReferenceId": "65:2.1",
       "pageReference": "731.5",
       "sortId": "3.065.002.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "La historia del ascenso del hombre a partir de las algas marinas hasta el señorío de la creación terrenal, es en efecto, un romance de la lucha biológica y de la supervivencia de la mente. Los antepasados primordiales del hombre, literalmente, fueron el limo y el cieno del lecho oceánico en las bahías y caletas de aguas tibias y calmadas de las vastas costas de los antiguos mares interiores, aquellas mismas aguas en que los Portadores de Vida establecieron cada una de las tres implantaciones de la vida en Urantia."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "La historia del ascenso del hombre desde las algas marinas hasta el señorío de la creación terrenal es en verdad un poema de lucha biológica y supervivencia de la mente. Los ancestros primigenios del hombre fueron literalmente el limo y el lodo del lecho oceánico depositados en las tranquilas bahías y lagunas de aguas cálidas de los inmensos litorales de los antiguos mares interiores, las mismas aguas en las que los Portadores de Vida establecieron las tres implantaciones independientes de vida en Urantia."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "65:2.2",
       "pageReference": "731.6",
       "sortId": "3.065.002.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Hoy día existen muy pocas de las primeras especies de vegetación marina que participaron en aquellos cambios importantísimos que dieron como resultado los organismos intermedios a los animales. Las esponjas constituyen uno de los sobrevivientes de estos primitivos tipos intermedios, aquellos organismos por los cuales se produjo la transición *gradual* desde lo vegetal hasta lo animal. Estas primeras formas transitorias, aunque no eran idénticas a las esponjas modernas, sí eran muy parecidas a ellas; fueron verdaderos organismos de transición —ni vegetal ni animal— pero, a la larga, culminaron en el desarrollo de las verdaderas formas animales de vida."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Existen hoy muy pocas especies de los primeros tipos de vegetación marina que participaron en los cambios históricos que dieron como resultado organismos fronterizos semejantes a los animales. Las esponjas son los supervivientes de uno de esos primeros tipos intermedios, aquellos organismos a través de los cuales se produjo la transición *gradual* de lo vegetal a lo animal. Esas primeras formas de transición no eran idénticas a las esponjas modernas, pero sí muy parecidas. Fueron verdaderos organismos fronterizos —ni vegetales ni animales— que acabarían conduciendo al desarrollo de las verdaderas formas de vida animal."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "65:2.3",
       "pageReference": "732.1",
       "sortId": "3.065.002.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "La bacteria, un organismo vegetal sencillo de índole muy primitiva, ha cambiado muy poco desde los primeros albores de la vida; incluso exhibe cierto grado de retroceso en su comportamiento parasitario. Gran parte de los hongos representa además un movimiento retrógrado en la evolución, siendo plantas que han perdido su capacidad de hacer la clorofila y, en cierto modo, se han convertido en parásitos. La mayoría de las bacterias que produce enfermedades y sus cuerpos auxiliares de virus pertenecen a este grupo de hongos parasitarios desertores. Durante las edades inter-medias, todo el vasto reino de la flora ha evolucionado a partir de antepasados, de los cuales también ha descendido la bacteria."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Las bacterias, organismos vegetales simples de naturaleza muy primitiva, han cambiado muy poco desde los primeros albores de la vida; incluso muestran cierto grado de retroceso en su comportamiento parasitario. Muchos de los hongos representan también un movimiento retrógrado en la evolución, pues son plantas que han perdido su capacidad de fabricar clorofila y se han convertido en más o menos parásitas. La mayoría de las bacterias causantes de enfermedades y sus cuerpos auxiliares de virus pertenecen de hecho a este grupo de hongos parásitos retrógrados. Durante las edades intermedias todo el vasto reino de la vida vegetal evolucionó a partir de ancestros de los que descienden también las bacterias."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "65:2.4",
       "pageReference": "732.2",
       "sortId": "3.065.002.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "No tardaron en aparecer de manera *repentina* los tipos de vida animal protozoarios superiores. Ha descendido desde aquellos distantes tiempos pero poco modificada, la ameba, el típico organismo animal unicelular. Luce hoy en día de forma muy parecida a como lucía cuando fue el primer y más grande logro de la evolución de la vida. Esta criatura diminuta y sus primos protozoarios son para la creación animal lo que la bacteria es para el reino vegetal; representan la supervivencia de los primeros pasos de la evolución en la diferenciación de la vida, juntamente con *el fracaso del desarrollo subsiguiente.*"
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Pronto aparecieron los tipos protozoarios superiores de vida animal, y aparecieron *repentinamente*. La ameba, el típico organismo animal unicelular, ha llegado desde aquellos remotos tiempos hasta nuestros días solo un poco modificada. Hoy retoza de forma muy parecida a como lo hacía cuando era el último logro y el más importante en la evolución de la vida. Esta diminuta criatura y sus primos protozoarios son para la creación animal lo que las bacterias para el reino vegetal; representan el vestigio de los primeros pasos evolutivos en la diferenciación de la vida junto con *el fracaso en su desarrollo posterior*."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "65:2.5",
       "pageReference": "732.3",
       "sortId": "3.065.002.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Al poco tiempo los primeros tipos animales unicelulares se juntaron en comunidades, en un principio a manera de volvocídeos, y presentemente al estilo de hidras y medusas. Aún después, evolucionaron la estrella de mar, los crinoideos, los erizos de mar, los pepinos de mar, los ciempiés, los insectos, las arañas, los crustáceos, y otros grupos muy afines de las lombrices y líquenes, seguidos muy de cerca por los moluscos: la ostra, el pulpo y el caracol. Cientos y cientos de especies intervinieron y perecieron; únicamente se trae a colación a las que sobrevivieron la prolongada lucha. Tales especímenes no progresistas, juntamente con la familia de los peces, que apareció posteriormente, hoy por hoy representan los tipos estacionarios de animales primitivos e inferiores, ramas del árbol de la vida que no lograron progresar."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Los primeros tipos de animales unicelulares no tardaron en asociarse en comunidades, al principio según la disposición del volvox y luego a la manera de la hidra y la medusa. Después evolucionaron la estrella de mar, los lirios de piedra, los erizos de mar, los cohombros de mar, los ciempiés, los insectos, las arañas, los crustáceos y los grupos estrechamente relacionados de las lombrices de tierra y las sanguijuelas; pronto les siguieron los moluscos: la ostra, el pulpo y el caracol. Cientos y cientos de especies aparecieron y perecieron; solo se mencionan aquí las que sobrevivieron a la larguísima lucha. Esos especímenes no progresivos, junto con la familia de los peces de posterior aparición, representan hoy los tipos estacionarios de animales primitivos e inferiores, ramas del árbol de la vida que no lograron progresar."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "65:2.6",
       "pageReference": "732.4",
       "sortId": "3.065.002.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "De este modo se dispuso el escenario para los primeros animales vertebrados, los peces. De la familia de los peces surgieron dos modificaciones singulares: la rana y la salamandra. A partir de la rana comenzó aquella serie de diferenciaciones progresivas que culminó finalmente en el hombre mismo."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Así quedó dispuesto el escenario para la aparición de los peces, los primeros animales con espina dorsal. De la familia de los peces brotaron dos modificaciones únicas: la rana y la salamandra. Y fue la rana la que inició la serie de diferenciaciones progresivas de la vida animal que culminarían finalmente en el hombre mismo."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "65:2.7",
       "pageReference": "732.5",
       "sortId": "3.065.002.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "La rana pertenece a los antepasados más primitivos de la raza humana que sobrevivieron, pero tampoco logró progresar, habiendo perdurado hasta el presente de forma muy similar a aquella de los tiempos remotos. La rana es la única especie atávica de las primeras razas protohumanas que vive hoy día en la faz de la tierra. No sobrevive ahora ninguno de los antepasados de la raza humana entre la rana y el esquimal."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "La rana es uno de los ancestros supervivientes más antiguos de la raza humana, pero tampoco consiguió progresar y es hoy muy parecida a como era en aquellos tiempos remotos. La rana es la única especie antepasada de las primeras razas de los albores que vive hoy en día sobre la faz de la tierra. La raza humana no tiene ningún ascendente superviviente entre la rana y el esquimal."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "65:2.8",
       "pageReference": "732.6",
       "sortId": "3.065.002.008",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Las ranas dieron origen a los reptiles, una gran familia animal que prácticamente quedó extinta, pero que antes de perecer, dio origen a toda la familia de las aves y a numerosos órdenes de mamíferos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Las ranas dieron nacimiento a los reptiles, una gran familia animal prácticamente extinguida, pero que antes de dejar la existencia dio origen a toda la familia de las aves y a los numerosos órdenes de mamíferos."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "65:2.9",
       "pageReference": "732.7",
       "sortId": "3.065.002.009",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Probablemente el salto único más grande de toda la evolución anterior al ser humano se haya efectuado cuando el reptil llegó a ser ave. Los tipos de aves de hoy —águilas, patos, palomas, y avestruces— todos descendieron de los enormes reptiles de hace mucho tiempo."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Cuando el reptil se convirtió en ave en un solo paso la evolución prehumana dio probablemente el mayor salto de su historia. Todos los tipos de aves de hoy —águilas, patos, palomas y avestruces— descienden de los enormes reptiles de hace muchísimo tiempo."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "65:2.10",
       "pageReference": "732.8",
       "sortId": "3.065.002.010",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "El reino de los reptiles, que descendió de la familia de la rana, se representa ahora por cuatro divisiones supervivientes: dos de ellas, no progresistas, las serpientes y los lagartos, juntamente con sus primos, los cocodrilos y las tortugas; una de ellas, parcialmente progresista, la familia de las aves; y la cuarta, los antepasados de los mamíferos y la línea directa de la descendencia de la especie humana. Aunque extintos desde hace mucho, la mole de los reptiles produjo a su paso un eco en el elefante y el mastodonte, y su forma particular se perpetuó en los canguros saltadores."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "El reino de los reptiles, descendiente de la familia de las ranas, está representado hoy por cuatro divisiones supervivientes: dos no progresivas, las serpientes y los lagartos junto con sus primos los cocodrilos y las tortugas; una parcialmente progresiva, la familia de las aves; y la cuarta, los antepasados de los mamíferos y la línea directa de ascendencia de la especie humana. Aunque los reptiles del pasado desaparecieron hace mucho, su enorme tamaño encontró eco en el elefante y el mastodonte mientras que sus formas peculiares se perpetuaron en los canguros saltadores."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "65:2.11",
       "pageReference": "733.1",
       "sortId": "3.065.002.011",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Sólo han aparecido en Urantia catorce fílums, siendo el de los peces el último, y no se ha desarrollado ninguna otra clase nueva después de las aves y los mamíferos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "En Urantia solo han aparecido catorce filos, el último el de los peces, y no se ha desarrollado ninguna clase nueva desde las aves y los mamíferos."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "65:2.12",
       "pageReference": "733.2",
       "sortId": "3.065.002.012",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Los mamíferos placentarios nacieron *súbitamente* de un pequeño dinosaurio reptil ágil de hábitos carnívoros que contaba con un cerebro comparativamente grande. Estos mamíferos se desarrollaron a paso acelerado y de muchas formas diferentes; no sólo dieron origen a las variedades comunes modernas, sino que también se convirtieron por evolución en los tipos marinos, tales como la ballena y las focas, y en los aeronavegantes como la familia de los murciélagos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Fue de un pequeño y ágil dinosaurio reptil de hábitos carnívoros y cerebro relativamente grande del que surgieron *repentinamente* los mamíferos placentarios. Estos mamíferos se desarrollaron con rapidez y de muchas formas distintas; no solo dieron origen a las variedades comunes modernas, sino que evolucionaron también hacia los tipos marinos como ballenas y focas y hacia los navegantes aéreos como la familia de los murciélagos."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "65:2.13",
       "pageReference": "733.3",
       "sortId": "3.065.002.013",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "De este modo el hombre evolucionó de los mamíferos superiores que derivaron primordialmente de la *implantación occidental* de la vida en los antiguos mares abrigados que corrían del este al oeste. Los grupos *oriental* y *central* de organismos vivientes, desde los principios, hacían progresos favorables hacia la consecución de niveles prehumanos de existencia animal. Pero, al pasar de las edades, el emplazamiento de la vida del foco oriental no logró alcanzar un nivel satisfactorio de condición de inteligencia prehumana, habiendo sufrido, en repetidas ocasiones y de manera irreparable, tales pérdidas de sus tipos superiores del plasma de germen, que se despojó para siempre de su capacidad de rehabilitar las potencialidades humanas."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "El hombre evolucionó así de los mamíferos superiores provenientes principalmente de la *implantación occidental* de vida efectuada en los antiguos y resguardados mares de orientación este-oeste. Los *grupos oriental* y *central* de organismos vivos progresaron también favorablemente desde muy pronto hacia niveles prehumanos de existencia animal. Pero con el paso de las edades, el foco oriental de emplazamiento de la vida no logró alcanzar un nivel satisfactorio en el estatus de inteligencia prehumana, pues había sufrido pérdidas tan repetidas e irreparables en sus tipos más altos de plasma germen que fue despojado para siempre del poder de rehabilitar sus potencialidades humanas."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "65:2.14",
       "pageReference": "733.4",
       "sortId": "3.065.002.014",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Ya que la calidad de la capacidad mental para el desarrollo de este grupo oriental, sin lugar a dudas, era tan inferior a la de los otros dos grupos, los Portadores de Vida, con la anuencia de sus superiores, manipularon el medio ambiente de tal forma que circunscribieron más aún a estas variedades prehumanas de vida inferiores que venían evolucionando. A simple vista, la eliminación de estos grupos inferiores de criaturas fue una casualidad; no obstante, en realidad, fue enteramente adrede."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "Puesto que la capacidad de mente que iba a desarrollarse en este grupo oriental era de una calidad tan marcadamente inferior a la de los otros dos grupos, los Portadores de Vida, con el consentimiento de sus superiores, manipularon el entorno para circunscribir aún más estas cepas inferiores prehumanas de vida en evolución. Según todas las apariencias exteriores, la extinción de estos grupos inferiores de criaturas fue fortuita, pero en realidad fue totalmente intencionada."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "65:2.15",
       "pageReference": "733.5",
       "sortId": "3.065.002.015",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "Más adelante en el desarrollo evolucionario de la inteligencia, los lémures antepasados de la especie humana iban mucho más avanzados en Norteamérica que en otras regiones; y, por tanto, se indujeron a emigrar del ámbito de la implantación occidental de la vida por el puente terrestre de Bering, a lo largo de la costa, al sudoeste de Asia, donde continuaron evolucionando y beneficiándose por el aditamento de ciertas variedades del grupo central de la vida. Así el hombre evolucionó a partir de ciertas variedades occidentales y centrales de la vida, teniendo lugar esto, sin embargo, desde las regiones centrales hasta los en Cercano Oriente."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "En una etapa posterior del despliegue evolutivo de la inteligencia, los antepasados lémures de la especie humana estaban mucho más avanzados en América del Norte que en otras regiones. Por ello, fueron inducidos a emigrar del ámbito de implantación occidental de vida por el puente terrestre de Bering y a lo largo de la costa hasta el sudoeste de Asia, donde siguieron evolucionando y se beneficiaron de la adición de ciertas cepas del grupo central de vida. Así, el hombre evolucionó a partir de ciertas cepas occidentales y centrales de vida, pero en las regiones centrales y del cercano oriente."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "65:2.16",
       "pageReference": "733.6",
       "sortId": "3.065.002.016",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Panorama de la Evolución",
-      "markdown": "De este modo la vida que se plantó en Urantia evolucionó hasta el período glacial, cuando el hombre mismo apareció por primera vez y comenzó en el planeta su carrera pletórica. Esta aparición del hombre primitivo en la tierra durante el período glacial no fue pura casualidad; fue intencional. Los rigores y la severidad climática de la era glacial se adaptaron en todos los aspectos para fomentar la producción de un tipo vigoroso de ser humano dotado de una capacidad tremenda para la supervivencia."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El panorama evolutivo",
+      "markdown": "La vida que se había plantado en Urantia evolucionó de este modo hasta la edad de hielo, momento en que apareció por primera vez el hombre y empezó su intensa carrera planetaria. Esta aparición del hombre primitivo en el planeta durante la edad de hielo no fue ningún accidente; se planeó así. Los rigores y la dureza climática de la era glaciar se adecuaban en todos los sentidos al propósito de fomentar el desarrollo de un tipo de ser humano resistente con una enorme dotación de supervivencia."
     },
     {
       "type": "section",
@@ -667,8 +667,8 @@
       "standardReferenceId": "65:3.0",
       "pageReference": null,
       "sortId": "3.065.003.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
       "markdown": null
     },
     {
@@ -685,9 +685,9 @@
       "standardReferenceId": "65:3.1",
       "pageReference": "733.7",
       "sortId": "3.065.003.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Casi no será posible explicarle a la mente humana de hoy en día gran parte de los acontecimientos extraños y aparentemente grotescos del progreso evolucionario inicial. Un plan que suponía un propósito estaba funcionando durante toda esta evolución de lo viviente, al parecer extraña; y sin embargo, no se nos permite interferir arbitrariamente en el desarrollo de los modelos de vida una vez que se han puesto en funcionamiento."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Será difícil explicar a la mente humana de hoy en día muchos de los acontecimientos raros y aparentemente grotescos de los primeros progresos evolutivos. Había un plan deliberado detrás de todas esas evoluciones aparentemente extrañas de lo vivo, pero no estamos autorizados a interferir arbitrariamente en el desarrollo de los patrones de vida una vez que se han puesto en funcionamiento."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "65:3.2",
       "pageReference": "733.8",
       "sortId": "3.065.003.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Los Portadores de Vida pueden emplear todo recurso natural posible y utilizar todas y cada una de las circunstancias fortuitas que faciliten la marcha del desarrollo experimental de la vida; pero no se nos permite intervenir mecánicamente, ni manipular de forma arbitraria, la conducta ni el curso de la evolución vegetal ni animal."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Los Portadores de Vida pueden emplear todos los recursos naturales posibles y valerse de cualquier circunstancia fortuita para favorecer el progreso del desarrollo del experimento de vida, pero no se nos permite intervenir mecánicamente en el curso y comportamiento de la evolución animal o vegetal ni manipularlos arbitrariamente."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "65:3.3",
       "pageReference": "733.9",
       "sortId": "3.065.003.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Se os ha informado que los mortales de Urantia evolucionaron a través del desarrollo de la rana primitiva, y que esta cepa ascendente, llevada en potencia dentro de una sola rana, por poco se escapó de la extinción en cierta ocasión. Pero, no ha de desprenderse de ahí que la evolución del género humano se hubiese terminado por una casualidad en esta coyuntura. En ese mismo momento observábamos y fomentábamos no menos de mil variedades de vida diferentes que estaban situadas en emplazamientos remotos y que estaban transformándose por mutaciones; bien pudieran haberse encaminado hacia distintos modelos del desarrollo prehumano. Esta misma rana atávica representó nuestra tercera selección, habiendo perecido las dos especies de vida anteriores a despecho de todos nuestros esfuerzos para conservarlas."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Habéis sido informados de que los mortales de Urantia se desarrollaron por evolución a partir de la rana primitiva y de que esta cepa ascendente, portada en potencia por una única rana, estuvo a punto de perecer en cierta ocasión. Pero no se debe inferir que un accidente en esa coyuntura hubiera supuesto el final de la evolución del género humano. En aquel mismo momento estábamos observando y fomentando en emplazamientos muy alejados entre sí no menos de mil cepas distintas de vida en mutación, que hubieran podido ser dirigidas hacia varios patrones diferentes de desarrollo prehumano. De hecho, esa rana ancestral representaba nuestra tercera selección, ya que las dos cepas de vida anteriores habían perecido a pesar de todos nuestros esfuerzos por conservarlas."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "65:3.4",
       "pageReference": "734.1",
       "sortId": "3.065.003.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Incluso la pérdida de Andón y Fonta antes de que tuvieran prole, aunque habría demorado la evolución humana, no la hubiera impedido. Posteriormente a la aparición de Andón y Fonta y antes de que los potenciales humanos de la mutación de la vida animal se agotaran, evolucionaron no menos de siete mil especies favorables que podían haber logrado alguna suerte de desarrollo del tipo humano. Gran parte de estas especies mejores fueron asimiladas ulteriormente por las distintas ramas de la especie humana que estaba expandiéndose."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Ni siquiera el fallecimiento sin descendencia de Andon y Fonta hubiera podido impedir la evolución humana; solo la habría retrasado. Tras la aparición de Andon y Fonta y antes de que se agotaran los potenciales de mutación humana de la vida animal, evolucionaron no menos de siete mil cepas favorables que podrían haber alcanzado alguna clase de desarrollo de tipo humano. Muchas de las mejores de esas estirpes fueron asimiladas posteriormente por las diversas ramas de la especie humana en expansión."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "65:3.5",
       "pageReference": "734.2",
       "sortId": "3.065.003.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Mucho antes de que el Hijo y la Hija Materiales, los mejoradores biológicos, llegaran al planeta, los potenciales humanos de las especies animales en evolución ya se habían agotado. Se les divulga a los Portadores de Vida esta condición biológica de la vida animal mediante el fenómeno de la tercera fase de movilización de los espíritus ayudantes, la cual se desencadena de forma automática y concomitante con el agotamiento de la capacidad de toda la vida animal para dar origen a los potenciales de mutación de los individuos prehumanos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Mucho antes de que el Hijo y la Hija Materiales, los elevadores biológicos, lleguen a un planeta, los potenciales humanos de las especies animales en evolución se han agotado. Este estatus biológico de la vida animal es manifestado a los Portadores de Vida mediante la tercera fase de movilización de los espíritus adjutores. Este fenómeno ocurre automáticamente en cuanto se agota toda la capacidad de la vida animal de dar origen a los potenciales mutantes de individuos prehumanos."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "65:3.6",
       "pageReference": "734.3",
       "sortId": "3.065.003.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "El género humano en Urantia ha de resolver sus problemas de desarrollo mortal con la descendencia humana con lo que ya cuenta, no evolucionarán más razas de las fuentes prehumanas por todo el tiempo futuro. Pero, lo antedicho no excluye la posibilidad de lograr niveles de desarrollo humano muy superiores por medio del fomento inteligente de los potenciales evolucionarios que siguen residiendo en las razas mortales. Lo que nosotros, los Portadores de Vida, hacemos por fomentar y conservar las especies de vida antes de la aparición de la voluntad humana, ha de hacer el hombre mismo tras tal acontecimiento y posteriormente a nuestro retiro de la participación activa en la evolución. En modo general, el destino evolucionario del hombre está en sus propias manos, y la inteligencia científica, tarde o temprano, tiene que reemplazar el funcionamiento aleatorio de la selección natural incontrolada y la supervivencia casual."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "El género humano de Urantia debe resolver sus problemas de desarrollo mortal con las estirpes humanas que tiene; ninguna raza más evolucionará de fuentes prehumanas en el futuro. Pero este hecho no excluye la posibilidad de lograr niveles de desarrollo humano muy superiores mediante el fomento inteligente de los potenciales evolutivos que siguen residiendo en las razas mortales. Lo que nosotros, los Portadores de Vida, hacemos por fomentar y conservar las cepas de vida antes de la aparición de la voluntad humana, debe hacerlo el hombre por sí mismo después de este acontecimiento tras nuestra retirada de la participación activa en la evolución. De manera general, el destino evolutivo del hombre está en sus propias manos, y la inteligencia científica debe reemplazar, tarde o temprano, el funcionamiento aleatorio de una selección natural incontrolada y de una supervivencia sometida a la casualidad."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "65:3.7",
       "pageReference": "734.4",
       "sortId": "3.065.003.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "El Fomento de la Evolución",
-      "markdown": "Al plantear el fomento de la evolución, cabría señalar que, en el prolongado futuro que queda por delante, si en alguna ocasión os unís a un cuerpo de los Portadores de Vida, tendréis oportunidades de sobra para ofrecer sugerencias y para efectuar cada mejoramiento posible en los planes y técnicas de la administración y trasplantación de la vida. ¡Sed pacientes! Si tenéis buenas ideas, si vuestra mente es fecunda en mejores métodos de administrar cualquier parte de los dominios del universo, por supuesto tendréis oportunidad de presentárselos a vuestros asociados y compañeros administradores en las edades venideras."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "El fomento de la evolución",
+      "markdown": "Y hablando del fomento de la evolución, no estaría de más señalar que en el largo futuro que hay por delante, si en algún momento sois adscritos a un cuerpo de Portadores de Vida, tendréis abundantes y amplias oportunidades de presentar sugerencias y aportar todas las mejoras posibles a los planes y técnicas de gestión y trasplante de la vida. ¡Sed pacientes! Si tenéis buenas ideas, si vuestra mente es fértil en mejores métodos de administración para cualquier parte de los dominios universales, tendréis ciertamente la oportunidad de presentarlos a vuestros colaboradores y compañeros administradores en las edades por venir."
     },
     {
       "type": "section",
@@ -811,8 +811,8 @@
       "standardReferenceId": "65:4.0",
       "pageReference": null,
       "sortId": "3.065.004.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
       "markdown": null
     },
     {
@@ -829,9 +829,9 @@
       "standardReferenceId": "65:4.1",
       "pageReference": "734.5",
       "sortId": "3.065.004.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "No olvidéis que se nos asignó Urantia como mundo de vida experimental. En este planeta hicimos nuestro sexagésimo intento de modificar y, de ser posible, mejorar la adaptación sataniana de los proyectos de vida nebadónicos, y consta que logramos numerosas modificaciones beneficiosas de los modelos de vida comunes. Para concretar, en Urantia hemos producido y demostrado de manera satisfactoria no menos de veintiocho características de modificación de la vida que le serán útiles a todo Nebadon en todo lo venidero."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "No perdáis de vista que Urantia nos fue asignado como mundo de experimentación con la vida. En este planeta hicimos nuestro sexagésimo intento de modificar y mejorar en lo posible la adaptación a Satania de los diseños de vida de Nebadon, y hay constancia de que hemos logrado hacer muchos cambios beneficiosos en los patrones ordinarios de la vida. En concreto, hemos elaborado y demostrado de forma satisfactoria en Urantia no menos de veintiocho características de modificación de la vida que serán de utilidad para todo Nebadon en todos los tiempos venideros."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "65:4.2",
       "pageReference": "735.1",
       "sortId": "3.065.004.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Pero, el establecimiento de la vida en un planeta nunca es de carácter experimental en el sentido de que lo que no se ha probado o no se conozca se someta a prueba. La evolución de la vida es una técnica eternamente progresiva, diferencial y variable, pero nunca fortuita, incontrolada, ni del todo experimental, en el sentido casual."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Pero el establecimiento de la vida nunca es experimental en ningún mundo en el sentido de intentar algo no probado o desconocido. La evolución de la vida es una técnica siempre progresiva, diferencial y variable, pero nunca dejada al azar ni incontrolada ni totalmente experimental en el sentido de fortuita."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "65:4.3",
       "pageReference": "735.2",
       "sortId": "3.065.004.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Muchas características de la vida humana ofrecen abundantes pruebas de que el fenómeno de la existencia mortal se planeó con inteligencia, y de que la evolución orgánica no es una mera casualidad cósmica. Cuando una célula viviente se daña, dispone de la capacidad de elaborar ciertas sustancias químicas que están facultadas para estimular y activar las células normales adyacentes de tal modo que éstas comienzan inmediatamente la secreción de ciertas sustancias que facilitan los procesos curativos en la lesión; a la par, estas células normales no lesionadas comienzan a proliferar —de hecho emprenden la creación de nuevas células para reemplazar toda célula compañera que pudiese haber sido destruida por este daño."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Muchas características de la vida humana prueban con creces que el fenómeno de la existencia mortal fue planeado de forma inteligente, que la evolución orgánica no es un mero accidente cósmico. Cuando una célula viva se lesiona posee la capacidad de elaborar ciertas sustancias químicas que tienen la facultad de estimular y activar las células vecinas normales para que empiecen inmediatamente a secretar ciertas sustancias que faciliten los procesos curativos en la herida. Al mismo tiempo, esas células normales no lesionadas empiezan a proliferar, se ponen realmente a trabajar para crear nuevas células que sustituyan a las células afines que pudieran haber sido destruidas por el accidente."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "65:4.4",
       "pageReference": "735.3",
       "sortId": "3.065.004.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Esta acción y reacción química implicada en sanar la herida y reproducir las células es el resultado de haber optado los Portadores de Vida por una fórmula que engloba más de cien mil fases y características de reacciones químicas y repercusiones biológicas posibles. Sobrepasan medio millón los experimentos específicos realizados por los Portadores de Vida en sus laboratorios antes de acordar en esta fórmula para el experimento de la vida en Urantia."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Este proceso químico de acción y reacción implicado en la curación de la herida y en la reproducción de las células corresponde a la elección que hicieron los Portadores de Vida de una fórmula que abarca más de cien mil fases y características de reacciones químicas y repercusiones biológicas posibles. Los Portadores de Vida hicieron en sus laboratorios más de medio millón de experimentos específicos antes de decidirse por esta fórmula para el experimento de vida en Urantia."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "65:4.5",
       "pageReference": "735.4",
       "sortId": "3.065.004.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "El día que sepan más acerca de estos químicos curativos los científicos de Urantia, llegarán a ser más eficientes en el tratamiento de las lesiones, e indirectamente sabrán más acerca del control de ciertas enfermedades graves."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Cuando los científicos de Urantia conozcan mejor estas sustancias químicas curativas, tratarán las lesiones con más eficacia y aprenderán indirectamente a controlar mejor ciertas enfermedades graves."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "65:4.6",
       "pageReference": "735.5",
       "sortId": "3.065.004.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Desde que se estableció la vida en Urantia, los Portadores de Vida han mejorado esta técnica sanadora, por cuanto se ha introducido en otro mundo de Satania, y ofrece más alivio al dolor y ejerce mejor control sobre la capacidad de proliferación que tienen las células normales adyacentes."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Desde que se estableció la vida en Urantia los Portadores de Vida han mejorado esta técnica curativa que han introducido en otro mundo de Satania, de manera que proporciona más alivio al dolor y ejerce un mejor control sobre la capacidad de proliferación de las células normales asociadas."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "65:4.7",
       "pageReference": "735.6",
       "sortId": "3.065.004.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Hubo muchos rasgos singulares del experimento de la vida en Urantia, pero se destacan dos episodios: la aparición de la raza andónica anteriormente a la evolución de los seis pueblos de color y la aparición simultánea posterior de los mutantes sangik en una sola familia. Urantia es el primer mundo de Satania donde las seis razas de color nacieron de la misma familia humana. Suelen surgir de diversas variedades a partir de mutaciones independientes dentro de la descendencia animal prehumana y suelen aparecer en la tierra una por una y sucesivamente a través de plazos prolongados, comenzando con el hombre rojo, pasando por todos los colores, hasta el índigo."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Hubo muchas características únicas en el experimento de vida de Urantia, pero los dos episodios más destacados fueron la aparición de la raza andónica antes de la evolución de los seis pueblos de color y la posterior aparición simultánea de los mutantes sangik en una sola familia. Urantia es el primer mundo de Satania donde las seis razas de color nacieron de la misma familia humana. Normalmente surgen en cepas diversificadas a partir de mutaciones independientes de la estirpe animal prehumana, y suelen aparecer en el mundo de una en una y sucesivamente durante largos periodos de tiempo, empezando por el hombre rojo y pasando por todos los colores hasta el índigo."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "65:4.8",
       "pageReference": "735.7",
       "sortId": "3.065.004.008",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Otra destacada variación del procedimiento fue la llegada tardía del Príncipe Planetario. De costumbre, el príncipe aparece en un planeta alrededor del momento del desarrollo de la voluntad; y si se hubiera seguido tal esquema, Caligastia bien pudiera haber venido a Urantia ya durante la vida de Andón y Fonta en vez de casi quinientos mil años más tarde, simultáneamente con la aparición de las seis razas sangik."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Otra variación notable del procedimiento habitual fue la llegada tardía del Príncipe Planetario. Por regla general, el príncipe aparece en un planeta hacia el momento en que se desarrolla la voluntad; según este plan Caligastia hubiera podido llegar a Urantia incluso en vida de Andon y Fonta en vez de casi quinientos mil años más tarde, coincidiendo con la aparición de las seis razas sangik."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "65:4.9",
       "pageReference": "735.8",
       "sortId": "3.065.004.009",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "A un mundo habitado ordinario, se le habría otorgado un Príncipe Planetario a petición de los Portadores de Vida durante la aparición de Andón y Fonta, o bien, en algún momento posterior a ella. Pero, debido a que a Urantia se le había designado como planeta de modificación de vida, mediante un acuerdo previo se enviaron los observadores Melquizedek, doce en total, como consejeros de los Portadores de Vida y en cuanto supervisores del planeta hasta el advenimiento subsiguiente del Príncipe Planetario. Estos Melquizedek llegaron en el momento en que Andón y Fonta tomaron las decisiones que permitieron que los Ajustadores del Pensamiento habitaran en su mente mortal."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "En un mundo habitado normal el envío de un Príncipe Planetario a petición de los Portadores de Vida hubiera sido concedido en el momento de la aparición de Andon y Fonta o poco después. Pero en el caso de Urantia, al haber sido designado como planeta de modificación de la vida, se enviaron por acuerdo previo observadores Melquisedec, doce en total, como asesores de los Portadores de Vida y supervisores del planeta hasta la llegada posterior del Príncipe Planetario. Estos Melquisedec llegaron en el momento en que Andon y Fonta tomaban las decisiones que hicieron posible que sus mentes de mortales fueran habitadas por Ajustadores del Pensamiento."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "65:4.10",
       "pageReference": "736.1",
       "sortId": "3.065.004.010",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "En Urantia los esfuerzos de los Portadores de Vida para mejorar los modelos de vida satanianos resultaron forzosamente en la producción de muchas formas transitorias de vida, en apariencia inútiles. No obstante, los beneficios ya acumulados bastan para justificar las modificaciones urantianas de los conceptos de vida ordinarios."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Los esfuerzos que hicieron en Urantia los Portadores de Vida por mejorar los patrones de vida de Satania tuvieron como resultado forzoso la producción de muchas formas aparentemente inútiles de vida de transición. Pero los beneficios ya acumulados son suficientes para justificar las modificaciones de los diseños ordinarios de vida realizadas en Urantia."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "65:4.11",
       "pageReference": "736.2",
       "sortId": "3.065.004.011",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Pretendimos producir una manifestación temprana de la voluntad en la vida evolucionaria de Urantia, y lo logramos. De ordinario, la voluntad no surge hasta mucho tiempo después de la aparición de las razas de color y suele darse por primera vez entre los tipos superiores del hombre rojo. Vuestro mundo es el único planeta de Satania donde el tipo humano de voluntad ha aparecido en una raza anterior a las de color."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "Fue nuestra intención producir una manifestación temprana de la voluntad en la vida evolutiva de Urantia, y lo conseguimos. La voluntad no emerge generalmente hasta mucho tiempo después de que existan las razas de color, y suele aparecer primero entre los tipos superiores del hombre rojo. Vuestro mundo es el único planeta de Satania donde la voluntad de tipo humano ha aparecido en una raza anterior a las de color."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "65:4.12",
       "pageReference": "736.3",
       "sortId": "3.065.004.012",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Aventura Urantiana",
-      "markdown": "Pero al esforzarnos por disponer aquella combinación y asociación de factores hereditarios que, a la postre, darían lugar a los antepasados mamíferos de la raza humana, nos vimos en la necesidad de permitir que se produjeran cientos de miles de otras combinaciones y asociaciones de factores hereditarios comparativamente inútiles. Al remontaros al pasado del planeta, seguramente os tropezaréis con gran parte de estos subproductos de nuestros esfuerzos, productos que os parecerán extraños; bien comprendo lo enigmático que algunas de estas cosas le resultan a la limitada perspectiva de los humanos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La aventura de Urantia",
+      "markdown": "En nuestro esfuerzo por asegurar la combinación y asociación de factores hereditarios que dieron finalmente origen a los ancestros mamíferos de la raza humana, nos vimos obligados a permitir que se produjeran cientos de miles de otras combinaciones y asociaciones de factores hereditarios relativamente inútiles. Seguro que os encontraréis con muchos de esos subproductos aparentemente extraños de nuestros esfuerzos cuando escarbéis en el pasado planetario, y me hago cargo de lo desconcertantes que deben resultar esas cosas para el limitado punto de vista humano."
     },
     {
       "type": "section",
@@ -1045,8 +1045,8 @@
       "standardReferenceId": "65:5.0",
       "pageReference": null,
       "sortId": "3.065.005.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Vicisitudes de la Evolución de la Vida",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las vicisitudes de la evolución de la vida",
       "markdown": null
     },
     {
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "65:5.1",
       "pageReference": "736.4",
       "sortId": "3.065.005.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Vicisitudes de la Evolución de la Vida",
-      "markdown": "Los Portadores de Vida mucho nos apenamos por el hecho de que nuestros esfuerzos para modificar la vida inteligente en Urantia se hubiesen entorpecido tanto debido a depravaciones fuera de nuestro control: la traición de Caligastia y la falta de Adán."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las vicisitudes de la evolución de la vida",
+      "markdown": "Para los Portadores de Vida fue una fuente de pesar que nuestros esfuerzos especiales por modificar la vida inteligente en Urantia se vieran tan obstaculizados por trágicas perversiones que escapaban a nuestro control: la traición de Caligastia y la falta de Adán."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "65:5.2",
       "pageReference": "736.5",
       "sortId": "3.065.005.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Vicisitudes de la Evolución de la Vida",
-      "markdown": "Pero a través de esta aventura biológica nuestra mayor decepción surgió de la reversión de cierta flora primitiva hasta niveles de bacteria parasitaria anteriores a la clorofila en escala tan grande y de manera tan inesperada. Esta eventualidad en la evolución de la flora ocasionó muchas enfermedades aflictivas en los mamíferos superiores, sobre todo en la especie humana más vulnerable. Al enfrentarnos con esta situación que nos causaba perplejidad, dimos por descontadas, en cierto modo, las dificultades implícitas, pues sabíamos que el mestizaje subsiguiente del plasma vital adánico reforzaría la capacidad de resistencia de la raza mestiza resultante, de tal forma que vendría a inmunizarla de todas las enfermedades producidas por el tipo de organismo vegetal. Pero nuestras esperanzas estaban destinadas a la decepción, debido a la calamidad de la contumacia adánica."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las vicisitudes de la evolución de la vida",
+      "markdown": "Pero la mayor decepción de toda nuestra aventura biológica fue la reversión de ciertas formas primitivas de vida vegetal a los niveles preclorofílicos de bacteria parásita a una escala tan considerable e inesperada. Esta eventualidad de la evolución vegetal ha producido muchas y penosas enfermedades en los mamíferos superiores, sobre todo en la especie humana por ser más vulnerable. Sin embargo, no dimos excesiva importancia a las dificultades implícitas en esta complicada situación porque sabíamos que la adición posterior del plasma de vida adánico reforzaría de tal forma la capacidad de resistencia de la mezcla racial resultante que la haría prácticamente inmune a todas las enfermedades producidas por organismos de tipo vegetal. Pero nuestras esperanzas se vieron truncadas por la desgraciada falta adánica."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "65:5.3",
       "pageReference": "736.6",
       "sortId": "3.065.005.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Vicisitudes de la Evolución de la Vida",
-      "markdown": "El universo de los universos, incluyendo este pequeño mundo llamado Urantia, no se administra simplemente de acuerdo con el beneplácito ni con la conveniencia nuestros, ni mucho menos conforme a nuestros caprichos o a la satisfacción de nuestra curiosidad. Los seres sabios y todopoderosos que tienen la responsabilidad de la administración del universo, indudablemente, saben bien lo que tienen que hacer; y así les corresponde a los Portadores de Vida, y le incumbe a la mente mortal, aguardar pacientemente y recluirse en cooperación vigorosa con el régimen de la sabiduría, el reino del poder, y la marcha del progreso."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las vicisitudes de la evolución de la vida",
+      "markdown": "El universo de universos, que incluye este pequeño mundo llamado Urantia, no está siendo gestionado simplemente para merecer nuestra aprobación ni para adaptarse a nuestra sola conveniencia, ni mucho menos para complacer nuestros caprichos o satisfacer nuestra curiosidad. No hay duda de que los seres sabios y todopoderosos que tienen la responsabilidad de gestionar el universo saben exactamente lo que hacen. Por ello, es apropiado para los Portadores de Vida y corresponde a la mente de los mortales alistarse con paciente espera y franca cooperación al gobierno de la sabiduría, al reinado del poder y a la marcha del progreso."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "65:5.4",
       "pageReference": "736.7",
       "sortId": "3.065.005.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Vicisitudes de la Evolución de la Vida",
-      "markdown": "Existen, desde luego, ciertas compensaciones por la tribulación, tal como el autootorgamiento de Micael en Urantia. Pero, independientemente de toda consideración de tal índole, los más recientes supervisores celestiales de este planeta expresan su total confianza en el triunfo evolucionario ulterior de la raza humana y en la reivindicación final de nuestros planes y modelos de vida originales."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las vicisitudes de la evolución de la vida",
+      "markdown": "Hay, por supuesto, ciertas compensaciones por las tribulaciones, como el otorgamiento de Miguel en Urantia. Pero independientemente de todas estas consideraciones, los supervisores celestiales más recientes de este planeta expresan su total confianza en el triunfo evolutivo último de la raza humana y la justificación final de nuestros planes y patrones de vida originales."
     },
     {
       "type": "section",
@@ -1135,8 +1135,8 @@
       "standardReferenceId": "65:6.0",
       "pageReference": null,
       "sortId": "3.065.006.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
       "markdown": null
     },
     {
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "65:6.1",
       "pageReference": "737.1",
       "sortId": "3.065.006.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Resulta imposible determinar con exactitud, simultáneamente, la ubicación precisa y la velocidad de un objeto en movimiento; todo intento de medir cualquiera de las dos inevitablemente supone una alteración en la otra. Se enfrenta el hombre mortal con la misma suerte de paradoja al emprender el análisis químico del protoplasma. El químico puede dilucidar la composición química del protoplasma *muerto,* y sin embargo, no puede discernir la organización física ni el comportamiento dinámico del protoplasma *vivo.* Siempre se acercará cada vez más el científico a los secretos de la vida, pero jamás dará con ellos, lo cual no se debe sino a que debe matar el protoplasma a fin de analizarlo. El protoplasma muerto pesa lo mismo que el protoplasma vivo y, sin embargo, no es lo mismo."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Es imposible determinar con precisión y de forma simultánea la posición exacta y la velocidad de un objeto en movimiento; cualquier intento de medir una de ellas implica inevitablemente un cambio en la otra. El hombre mortal se enfrenta al mismo tipo de paradoja cuando acomete el análisis químico del protoplasma. El químico puede dilucidar la química del protoplasma *muerto*, pero no puede percibir ni la organización física ni el comportamiento dinámico del protoplasma *vivo*. El científico se irá acercando cada vez más a los secretos de la vida, pero no los encontrará nunca por la sencilla razón de que debe matar al protoplasma para poder analizarlo. El protoplasma muerto pesa lo mismo que el protoplasma vivo, pero no es lo mismo."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "65:6.2",
       "pageReference": "737.2",
       "sortId": "3.065.006.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "En las cosas y seres vivientes existe la dotación original de la adaptación. En toda célula *viviente* vegetal o animal, en todo organismo *viviente,* material o espiritual, existe un anhelo insaciable por la consecución de un grado constantemente creciente de perfección en el ajuste medio ambiental, la adaptación del organismo, y una realización cada vez mayor de la vida. Estos interminables esfuerzos de todo lo viviente evidencian que éste entraña un afán innato de perfección."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Hay una dotación original de adaptación en las cosas y seres vivos. En todas las células *vivas* vegetales o animales, en todos los organismos *vivos* —materiales o espirituales— hay un ansia insaciable de lograr una perfección cada vez mayor en el ajuste al entorno, en la adaptación del organismo y en una realización más amplia de la vida. Estos esfuerzos interminables de todas las cosas vivas evidencian la lucha innata por la perfección que existe en su interior."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "65:6.3",
       "pageReference": "737.3",
       "sortId": "3.065.006.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "El paso más importante de la evolución vegetal fue el desarrollo de la capacidad de fabricar la clorofila, y el segundo avance en importancia fue la evolución de la espora hasta la semilla compleja. La espora es sumamente eficaz en cuanto agente reproductor; no obstante, carece de los potenciales de variedad y versatilidad que le son inherentes a la semilla."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "El paso más importante en la evolución de las plantas fue el desarrollo de la capacidad de fabricar clorofila, y el segundo mayor avance fue la evolución de la espora hasta convertirse en semilla compleja. La espora es sumamente eficiente como agente reproductor, pero carece de los potenciales de variedad y versatilidad inherentes a la semilla."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "65:6.4",
       "pageReference": "737.4",
       "sortId": "3.065.006.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Un episodio de la evolución de los tipos superiores de animales, que resultó sumamente beneficioso y complejo, consistió en el desarrollo de la capacidad del hierro contenido en los glóbulos rojos circulantes de desempeñar el papel dual de portador de oxígeno y de eliminador de bióxido de carbono. Y esta labor de los glóbulos rojos ilustra cómo los organismos en evolución pueden adaptar sus funciones a un medio ambiente variante o cambiante. Los animales superiores, el hombre inclusive, oxigenan sus tejidos mediante la acción del hierro contenido en los glóbulos rojos de la sangre, la cual lleva oxígeno a las células vivientes y, de forma tan eficaz, a éstas les quita el bióxido de carbono. Otros metales, sin embargo, se pueden adaptar para servir el mismo propósito. La sepia emplea el cobre para esta función, y la ascidia se vale del vanadio."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Uno de los episodios más útiles y complejos de la evolución de los tipos superiores de animales se produjo cuando el hierro de las células sanguíneas circulantes desarrolló la capacidad de desempeñar un doble papel como portador de oxígeno y eliminador de dióxido de carbono. Esta actuación de los glóbulos rojos ilustra cómo los organismos en evolución son capaces de adaptar sus funciones a un entorno variable o cambiante. Los animales superiores, incluido el hombre, oxigenan sus tejidos mediante la acción del hierro de los glóbulos rojos que lleva el oxígeno a las células vivas y elimina con la misma eficacia el dióxido de carbono. Pero se puede hacer que otros metales sirvan para el mismo fin. La jibia emplea el cobre para esta función y la ascidia utiliza el vanadio."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "65:6.5",
       "pageReference": "737.5",
       "sortId": "3.065.006.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Se esclarece la continuación de tales ajustes biológicos por la evolución de los dientes en los mamíferos superiores urantianos; éstos ascendieron a treinta y seis en los antepasados remotos del hombre; y después iniciaron un reajuste de adaptación hacia los treinta y dos en el hombre de los albores y sus parientes cercanos. Hoy por hoy la especie humana tiende hacia los veintiocho. El proceso de la evolución sigue progresando activamente por adaptaciones en este planeta."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "La continuidad de estos ajustes biológicos se ilustra en la evolución de los dientes de los mamíferos superiores de Urantia. Llegaron a ser treinta y seis en los primeros ancestros del hombre, y empezó luego un reajuste adaptativo hacia los treinta y dos en el hombre de los albores y sus parientes cercanos. Ahora la especie humana tiende lentamente hacia los veintiocho. El proceso de la evolución sigue progresando de forma activa y adaptativa en este planeta."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "65:6.6",
       "pageReference": "737.6",
       "sortId": "3.065.006.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Pero muchos ajustes de los organismos vivientes, aparentemente misteriosos, son de carácter puramente químico, del todo físico. En cualquier momento, existe en la corriente sanguínea de cualquier ser humano la posibilidad de exceder 15.000.000 de reacciones químicas con las hormonas producidas por una docena de glándulas endocrinas."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Pero muchos ajustes aparentemente misteriosos de los organismos vivos son puramente químicos, totalmente físicos. En la corriente sanguínea de cualquier ser humano existe la posibilidad de que se produzcan en cualquier momento más de 15 000 000 de reacciones químicas entre los productos hormonales de una docena de glándulas endocrinas."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "65:6.7",
       "pageReference": "737.7",
       "sortId": "3.065.006.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Las formas inferiores de la vida vegetal son totalmente sensibles al medio ambiente físico, químico y eléctrico. Pero, a medida que asciende la escala de vida, una por una las ministraciones para la mente por los siete espíritus ayudantes entran en funcionamiento, y la mente se torna cada vez más propensa a los ajustes, la creatividad, la coordinación y el dominio. La capacidad de los animales para adaptarse al aire, al agua y a la tierra no es una dotación supernatural, sino un ajuste superfísico."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Las formas más bajas de la vida vegetal responden enteramente al entorno físico, químico y eléctrico. Pero a medida que asciende la escala de la vida, los ministerios de mente de los siete espíritus adjutores van entrando en acción uno tras otro, y la mente se vuelve cada vez más capaz de ajustar, crear, coordinar y dominar. La capacidad de los animales de adaptarse al aire, al agua y a la tierra no es una dotación supranatural, pero sí un ajuste suprafísico."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "65:6.8",
       "pageReference": "738.1",
       "sortId": "3.065.006.008",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "La física y la química solas no pueden explicar cómo el ser humano evolucionó a partir del protoplasma primitivo de los primeros mares. La capacidad de aprender — la memoria y la respuesta diferenciada al medio ambiente— es la provisión de la mente. Las leyes de la física no responden a la capacitación; son inmutables e invariables. Las reacciones de la química no son modificadas por la enseñanza; son uniformes y seguras. Aparte de la presencia del Absoluto No Cualificado, las reacciones eléctricas y químicas son previsibles. Pero la mente puede aprovecharse de la experiencia, puede aprender de los hábitos reactivos del comportamiento en respuesta a la repetición de los estímulos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "La física y la química solas no pueden explicar cómo evolucionó el ser humano a partir del protoplasma primigenio de los primeros mares. La capacidad de aprender, la respuesta diferencial y de memoria al entorno, es dotación de la mente. Las leyes de la física no responden al aprendizaje; son inmutables e inalterables. Las reacciones de la química no las modifica la educación; son uniformes y fiables. Aparte de la presencia del Absoluto No Cualificado, las reacciones eléctricas y químicas son previsibles. Pero la mente puede sacar provecho de la experiencia, puede aprender de los hábitos de comportamiento reactivos en respuesta a la repetición de los estímulos."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "65:6.9",
       "pageReference": "738.2",
       "sortId": "3.065.006.009",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "Los organismos antecedentes a la inteligencia reaccionan a los estímulos del medio, pero aquellos organismos que reaccionan al ministerio de la mente pueden ajustar y manipular el medio ambiente mismo."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "Los organismos preinteligentes reaccionan a los estímulos del entorno, pero los organismos que son reactivos al ministerio de mente pueden ajustar y manipular el entorno mismo."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "65:6.10",
       "pageReference": "738.3",
       "sortId": "3.065.006.010",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Las Técnicas Evolucionarias de la Vida",
-      "markdown": "El cerebro físico con su sistema nervioso correspondiente dispone de una capacidad innata para responder al ministerio de la mente tal como la mente en vías de desarrollo de una personalidad dispone de cierta capacidad innata de receptividad espiritual y, por tanto, entraña los potenciales del progreso y logro espirituales. Las evoluciones intelectual, social, moral y espiritual dependen del ministerio mental de los siete espíritus ayudantes y sus asociados superfísicos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Las técnicas evolutivas de la vida",
+      "markdown": "El cerebro físico con su sistema nervioso asociado posee una capacidad innata de responder al ministerio de mente, de igual modo que la mente en desarrollo de una personalidad posee cierta capacidad innata de receptividad al espíritu y contiene por lo tanto las potencialidades de logro y progreso espirituales. La evolución intelectual, social, moral y espiritual depende del ministerio de mente de los siete espíritus adjutores y sus asociados suprafísicos."
     },
     {
       "type": "section",
@@ -1333,8 +1333,8 @@
       "standardReferenceId": "65:7.0",
       "pageReference": null,
       "sortId": "3.065.007.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
       "markdown": null
     },
     {
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "65:7.1",
       "pageReference": "738.4",
       "sortId": "3.065.007.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Los siete espíritus ayudantes de la mente son los versátiles ministros de la mente que sirven a los entes inteligentes inferiores del universo local. Se atiende a este orden de mente desde la sede central del universo local o desde algún mundo comunicado con ella, pero desde las capitales de los sistemas proviene orientación que influye en la función de la mente inferior."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Los siete espíritus-mente adjutores son los polifacéticos ministradores de la mente para las existencias inteligentes más bajas de un universo local. Las mentes de este orden son ministradas desde la sede del universo local o desde algún mundo relacionado con ella, pero desde las capitales de los sistemas también se influye en la dirección del funcionamiento de las mentes más bajas."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "65:7.2",
       "pageReference": "738.5",
       "sortId": "3.065.007.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "En un mundo evolucionario muchísimo depende de la labor de estos siete ayudantes. Pero son ministros de la mente; no se ocupan de la evolución física, siendo ésta el dominio de los Portadores de Vida. No obstante, la integración perfecta de estas dotaciones del espíritu con el procedimiento natural y ordenado del régimen inherente en desarrollo de los Portadores de Vida es la causa de la incapacidad del mortal para discernir en el fenómeno de la mente nada más que las obras de la naturaleza y el funcionamiento de los procesos naturales; si bien, ocasionalmente, os quedáis un tanto perplejos al explicaros todo cuanto está relacionado con las reacciones naturales de la mente respecto a su asociación con la materia. Y si Urantia operara más de acuerdo con los planes originales, observaríais aún menos cosas que os llamaran la atención en el fenómeno de la mente."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "En un mundo evolutivo hay muchísimas cosas que dependen de la labor de estos siete adjutores. Pero son ministradores de la mente y no están involucrados en la evolución física, que es el dominio de los Portadores de Vida. Sin embargo, la integración perfecta de estas dotaciones de espíritu con el procedimiento natural y ordenado del régimen inherente que despliegan los Portadores de Vida es la responsable de la incapacidad que tienen los mortales de percibir en el fenómeno de la mente algo que no sea la mano de la naturaleza y el desarrollo de los procesos naturales, aunque a veces sintáis cierta perplejidad al intentar explicaros todo lo relacionado con las reacciones naturales de la mente cuando está asociada a la materia. Y si Urantia hubiera seguido más de cerca los planes originales, os extrañarían aún menos cosas sobre el fenómeno de la mente."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "65:7.3",
       "pageReference": "738.6",
       "sortId": "3.065.007.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Los siete espíritus ayudantes se asemejan más a los circuitos que a los entes, y en los mundos ordinarios por todo el universo local se les disponen circuitos con otras funciones de ayuda. En los planetas de experimentación de vida, empero, quedan relativamente aislados. En Urantia, debido a la naturaleza singular de los modelos de vida, los ayudantes inferiores experimentaron mucha más dificultad en ponerse en contacto con los organismos evolucionarios que lo que habría sido el caso en un tipo de dotación de vida más común."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Los siete espíritus adjutores son más parecidos a circuitos que a entidades, y en los mundos normales se encircuitan con otras actuaciones adjutoras repartidas por todo el universo local. En cambio están relativamente aislados en los planetas de experimentación con la vida. Y en Urantia, dada la naturaleza única de sus patrones de vida, los adjutores inferiores tuvieron muchas más dificultades para entrar en contacto con los organismos evolutivos de las que hubieran tenido con un tipo de dotación de vida más normalizado."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "65:7.4",
       "pageReference": "738.7",
       "sortId": "3.065.007.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Cabe notar, que en un mundo evolucionario promedio, los siete espíritus ayudantes están mucho más sincronizados con las etapas del desarrollo animal progresivo que lo que estuvieron en Urantia. Con una sola excepción, los ayudantes tuvieron la mayor dificultad en ponerse en contacto con las mentes en evolución de los organismos urantianos que jamás hubieran experimentado en todo su funcionamiento por todo el universo de Nebadon. Se desarrollaron en este mundo muchas formas de fenómenos marginales —combinaciones confusas de los tipos de respuesta mecánicos y no enseñables del organismo, así como no mecánicos y enseñables."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Por otra parte, en un mundo evolutivo medio los siete espíritus adjutores están mucho mejor sincronizados con las etapas progresivas del desarrollo animal de lo que estuvieron en Urantia. Con una única excepción, los adjutores experimentaron más dificultades para entrar en contacto con las mentes en evolución de los organismos de Urantia que en ninguna otra de sus operaciones por todo el universo de Nebadon. Se desarrollaron en este mundo muchas formas de fenómenos fronterizos, combinaciones confusas de los tipos mecánico no enseñable y no mecánico enseñable de respuesta del organismo."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "65:7.5",
       "pageReference": "739.1",
       "sortId": "3.065.007.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Los siete espíritus ayudantes no se ponen en contacto con los órdenes de organismo que responden al medio ambiente de manera puramente mecánica. Tales respuestas de los organismos vivientes anteriores a la inteligencia pertenecen únicamente a los dominios de energía de los centros del poder, los controladores físicos y sus asociados."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Los siete espíritus adjutores no entran en contacto con los órdenes puramente mecánicos de respuesta del organismo al entorno. Esas respuestas preinteligentes de los organismos vivos corresponden exclusivamente a los dominios de energía de los centros del poder, los controladores físicos y sus asociados."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "65:7.6",
       "pageReference": "739.2",
       "sortId": "3.065.007.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "La adquisición del potencial de la capacidad de *aprender* de la experiencia señala el comienzo del funcionamiento de los espíritus ayudantes, y estos funcionan desde las mentes inferiores de los entes primitivos e invisibles hasta los tipos superiores en la escala evolucionaria de los seres humanos. Los ayudantes son la fuente y el modelo original para la conducta de la mente, que viene a ser algo misteriosa en las rápidas reacciones al medio ambiente material, las cuales no se alcanzan a comprender del todo. Han de pasar mucho tiempo estas influencias fieles y siempre seguras, llevando adelante su servicio preliminar antes de que la mente animal alcance los niveles humanos de la receptividad en cuanto al espíritu."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Con la adquisición del potencial de la capacidad de *aprender* de la experiencia comienza la actuación de los espíritus adjutores desde las mentes más bajas de las existencias primitivas e invisibles hasta los tipos más altos de la escala evolutiva de los seres humanos. Son la fuente y el patrón del comportamiento más o menos misterioso y de las reacciones rápidas y no totalmente comprendidas de la mente ante el entorno material. Estas influencias leales y siempre dignas de confianza han de llevar muy lejos su ministerio preliminar antes de que la mente animal logre alcanzar los niveles humanos de receptividad al espíritu."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "65:7.7",
       "pageReference": "739.3",
       "sortId": "3.065.007.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Los ayudantes funcionan exclusivamente en la evolución de la mente experiencial, hasta el nivel de la sexta fase, el espíritu de adoración. A dicho nivel ocurre aquella superposición inevitable de los ministerios —fenómeno en que lo superior alcanza al nivel de lo inferior para coordinar el advenimiento del logro subsiguiente de los niveles avanzados de desarrollo. Aún más ministerio del espíritu acompaña a la acción del séptimo y último ayudante, el espíritu de la sabiduría. Durante todo el ministerio en el mundo espiritual, el individuo nunca experimenta transiciones abruptas en la cooperación del espíritu; estos cambios siempre son graduales y recíprocos."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Los adjutores actúan de forma exclusiva en la evolución de la mente experimentadora hasta el nivel de la sexta fase, el espíritu de adoración. En este nivel se produce la inevitable superposición de ministerios: el fenómeno por el cual lo más alto desciende para coordinarse con lo más bajo con vistas a alcanzar posteriormente niveles de desarrollo avanzados. Y hay todavía un ministerio de espíritu adicional que acompaña a la acción del séptimo y último adjutor, el espíritu de sabiduría. En todo el ministerio del mundo del espíritu, el individuo no experimenta nunca transiciones abruptas en la cooperación en el espíritu; estos cambios son siempre graduales y recíprocos."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "65:7.8",
       "pageReference": "739.4",
       "sortId": "3.065.007.008",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "Los Niveles Evolucionarios de la Mente",
-      "markdown": "Siempre han de diferenciarse los dominios de las respuestas física (electroquímica) y mental a los estímulos que originan en el medio ambiente y, a su vez, se deben reconocer todas éstas a fuer de fenómenos independientes de las actividades espirituales. Los dominios de la gravedad física, mental y espiritual son reinos distintos de la realidad cósmica, no obstante sus interrelaciones íntimas."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "Los niveles evolutivos de la mente",
+      "markdown": "Se deben distinguir siempre los dominios de las respuestas físicas (electroquímicas) y mentales a los estímulos del entorno, y todas ellas se deben reconocer a su vez como fenómenos aparte de las actividades espirituales. Los dominios de la gravedad física, mental y espiritual son ámbitos distintos de la realidad cósmica a pesar de sus interrelaciones íntimas."
     },
     {
       "type": "section",
@@ -1495,8 +1495,8 @@
       "standardReferenceId": "65:8.0",
       "pageReference": null,
       "sortId": "3.065.008.000",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
       "markdown": null
     },
     {
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "65:8.1",
       "pageReference": "739.5",
       "sortId": "3.065.008.001",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "El tiempo y el espacio están indisolublemente vinculados; existe una asociación innata entre ellos. Las demoras del tiempo son inevitables en presencia de ciertas condiciones del espacio."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "El tiempo y el espacio están enlazados indisolublemente; es una asociación innata. Las demoras en el tiempo son inevitables en presencia de ciertas condiciones del espacio."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "65:8.2",
       "pageReference": "739.6",
       "sortId": "3.065.008.002",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "Si la prolongada tardanza en efectuar los cambios evolucionarios del desarrollo de la vida os ocasiona perplejidad, procedo a señalar que no podemos cronometrar el proceso vital para desarrollarse a paso más acelerado que lo que permiten las metamorfosis físicas del planeta. Tenemos que aguardar el desarrollo físico y natural de un planeta; no disponemos de control alguno sobre la evolución geológica. De permitirlo las condiciones físicas, podríamos disponer la evolución completa de la vida en mucho menos de un millón de años. Pero todos estamos bajo la jurisdicción de los Gobernantes Supremos del Paraíso, y el tiempo no existe en el Paraíso."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "Si a alguien le extraña que se necesite tanto tiempo para llevar a cabo los cambios evolutivos del desarrollo de la vida, le respondería que no podemos hacer que los procesos de la vida se desplieguen más deprisa de lo que permiten las metamorfosis físicas de un planeta. Tenemos que esperar al desarrollo físico natural del planeta; no tenemos absolutamente ningún control sobre la evolución geológica. Si las condiciones físicas lo permitieran, podríamos hacer que la evolución completa de la vida se realizara en mucho menos de un millón de años. Pero todos estamos bajo la jurisdicción de los Regidores Supremos del Paraíso, y el tiempo no existe en el Paraíso."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "65:8.3",
       "pageReference": "739.7",
       "sortId": "3.065.008.003",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "El criterio del individuo para medir el tiempo es la duración de su vida. Todas las criaturas, así, están condicionadas por el tiempo y, por ende, consideran que la evolución es un proceso dilatado. Para nosotros, como la duración de la vida no está limitada por la existencia temporal, la evolución no parece ser un suceso tan excesivamente prolongado. En el Paraíso, donde el tiempo no existe, todas estas cosas están *presentes* en la mente de la Infinidad y en los actos de la Eternidad."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "El criterio del individuo para medir el tiempo es la duración de su vida. Todas las criaturas están condicionadas de esta forma por el tiempo y por eso consideran la evolución como un proceso larguísimo. A aquellos de nosotros que no tenemos la vida limitada por una existencia temporal la evolución no nos parece una operación tan prolongada. En el Paraíso, donde el tiempo no existe, estas cosas son todas *presente* en la mente de la Infinitud y en los actos de la Eternidad."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "65:8.4",
       "pageReference": "739.8",
       "sortId": "3.065.008.004",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "Tal como la evolución de la mente depende y se demora por el desarrollo lento de las condiciones físicas, asímismo, el progreso espiritual depende de la expansión mental, y el retraso mental lo retarda indefectiblemente. Pero, lo anterior no supone que la evolución espiritual dependa de la enseñanza, la cultura, y la sabiduría. El alma puede evolucionar a pesar de la cultura mental, pero no sin la capacidad mental y el deseo —la elección de la supervivencia y la decisión de lograr la perfección en creciente escala—de hacer la voluntad del Padre celestial. Aunque no dependa la supervivencia de la adquisición del conocimiento y la sabiduría, el progreso, en efecto, depende de ellas."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "Igual que la evolución de la mente depende del lento desarrollo de las condiciones físicas que la retrasan, el progreso espiritual depende de la expansión mental, y el retardo intelectual lo frena indefectiblemente. Pero eso no significa que la evolución espiritual dependa de la educación, la cultura o la sabiduría. El alma puede evolucionar sea cual sea su cultura mental, pero no si carece de la capacidad mental y del deseo —la elección de la supervivencia y la decisión de conseguir una perfección cada vez mayor— de hacer la voluntad del Padre del cielo. Aunque la supervivencia puede no depender de la posesión de conocimiento y sabiduría, el progreso depende de ello con toda seguridad."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "65:8.5",
       "pageReference": "740.1",
       "sortId": "3.065.008.005",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "En los laboratorios evolucionarios cósmicos, la mente siempre domina la materia, y el espíritu siempre está correlacionado con la mente. Si estas diversas dotaciones no logran sincronizarse y coordinarse, puede ocasionar retrasos en el tiempo; pero, si un determinado individuo en verdad conoce a Dios y desea encontrarle y llegar a ser como él, la supervivencia está garantizada a pesar de los obstáculos del tiempo. La condición física puede entorpecer la mente, y la perversidad mental puede retrasar la obtención espiritual; sin embargo, ninguno de estos obstáculos puede vencer la elección hecha con toda la voluntad del alma."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "En los laboratorios evolutivos cósmicos la mente domina siempre a la materia y el espíritu está siempre correlacionado con la mente. La falta de coordinación y sincronización de estas diversas dotaciones puede causar demoras en el tiempo, pero si el individuo conoce realmente a Dios y desea encontrarlo y hacerse como él, la supervivencia está asegurada a pesar de todos los impedimentos del tiempo. El estatus físico puede perjudicar a la mente y la perversidad mental puede retrasar el logro espiritual, pero ninguno de estos obstáculos puede frustrar la elección de la voluntad hecha con toda el alma."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "65:8.6",
       "pageReference": "740.2",
       "sortId": "3.065.008.006",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
-      "markdown": "Cuando las condiciones físicas son idóneas, pueden producirse evoluciones mentales *repentinas,* cuando la condición de la mente es propicia, pueden ocurrir transformaciones espirituales *repentinas;* cuando los valores espirituales reciben el reconocimiento debido, entonces los significados cósmicos se tornan discernibles, y la personalidad, en creciente escala, se libera de los obstáculos del tiempo y se redime de las limitaciones del espacio."
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
+      "markdown": "Cuando las condiciones físicas están maduras se pueden producir evoluciones mentales *repentinas*; cuando el estatus de la mente es propicio pueden ocurrir transformaciones espirituales *repentinas*; cuando los valores espirituales reciben el reconocimiento apropiado, los significados cósmicos se vuelven perceptibles y la personalidad se va haciendo cada vez más libre de los impedimentos del tiempo y las limitaciones del espacio."
     },
     {
       "type": "paragraph",
@@ -1621,8 +1621,8 @@
       "standardReferenceId": "65:8.7",
       "pageReference": "740.3",
       "sortId": "3.065.008.007",
-      "paperTitle": "La Supervisión de la Evolución",
-      "sectionTitle": "La Evolución en el Tiempo y en el Espacio",
+      "paperTitle": "El sobrecontrol de la evolución",
+      "sectionTitle": "La evolución en el tiempo y el espacio",
       "markdown": "[Patrocinado por un Portador de Vida de Nebadon residente en Urantia.]"
     }
   ]
