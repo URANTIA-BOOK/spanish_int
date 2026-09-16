@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-1/026.md",
-  "source_sha256": "e8430dd39a0247cfcfe8875ecd014ddc984f045e52fb6e09a34dbc53bda13fb5",
+  "source_sha256": "e5da194da623f5a7688525fe66026703e064bf970ce86a4487e5cf455cab2903",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "26:0.0",
       "pageReference": null,
       "sortId": "1.026.000.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
+      "paperTitle": "Los espíritus ministrantes del universo central",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "26:0.0",
       "pageReference": null,
       "sortId": "1.026.000.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
+      "paperTitle": "Los espíritus ministrantes del universo central",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "26:0.1",
       "pageReference": "285.1",
       "sortId": "1.026.000.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
+      "paperTitle": "Los espíritus ministrantes del universo central",
       "sectionTitle": null,
-      "markdown": "LOS supernafines son los espíritus ministrantes del Paraíso y del universo central; son la orden más elevada del grupo más bajo de los hijos del Espíritu Infinito —las huestes angélicas. Estos espíritus ministrantes han de encontrarse desde la Isla del Paraíso hasta los mundos del espacio y del tiempo. Ninguna porción importante de la creación organizada y habitada carece de sus servicios."
+      "markdown": "LAS SUPERNAFINES son los espíritus ministrantes del Paraíso y del universo central; son el orden más alto del grupo más bajo de hijas del Espíritu Infinito: las huestes angélicas. La presencia de estos espíritus ministrantes se extiende desde en la Isla del Paraíso hasta los mundos del tiempo y el espacio. Ninguna parte importante de la creación organizada y habitada carece de sus servicios."
     },
     {
       "type": "section",
@@ -73,8 +73,8 @@
       "standardReferenceId": "26:1.0",
       "pageReference": null,
       "sortId": "1.026.001.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": null
     },
     {
@@ -91,9 +91,9 @@
       "standardReferenceId": "26:1.1",
       "pageReference": "285.2",
       "sortId": "1.026.001.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Los ángeles son los asociados espirituales ministrantes de las criaturas volitivas evolutivas y ascendentes de todo el espacio; también son los colegas y asociados de trabajo de las huestes más elevadas de las personalidades divinas de las esferas. Los ángeles de todas las órdenes son personalidades definidas y altamente individualizadas. Todos ellos tienen una amplia capacidad para la apreciación de las ministraciones de los directores de reversión. Juntamente con las Huestes de Mensajeros del Espacio, los espíritus ministrantes disfrutan de temporadas de descanso y cambio; poseen naturalezas muy sociables y tienen una capacidad de asociación que trasciende en mucho la de los seres humanos."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Las ángeles son las compañeras ministrantes de espíritu de las criaturas con voluntad evolutivas y ascendentes de todo el espacio; son también las colegas y compañeras de trabajo de las huestes más altas de personalidades divinas de las esferas. Las ángeles de todos los órdenes son personalidades bien diferenciadas e individualizadas. Todas ellas aprecian mucho el ministerio de los directores de la reversión. Junto con las huestes de mensajeros del espacio, los espíritus ministrantes disfrutan de temporadas de descanso y de cambio. Poseen naturalezas muy sociables y una capacidad asociativa muy superior a la de los seres humanos."
     },
     {
       "type": "paragraph",
@@ -109,8 +109,8 @@
       "standardReferenceId": "26:1.2",
       "pageReference": "285.3",
       "sortId": "1.026.001.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "Los espíritus ministrantes del gran universo se clasifican como sigue:"
     },
     {
@@ -127,8 +127,8 @@
       "standardReferenceId": "26:1.3",
       "pageReference": "285.4",
       "sortId": "1.026.001.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "1. Supernafines."
     },
     {
@@ -145,8 +145,8 @@
       "standardReferenceId": "26:1.4",
       "pageReference": "285.5",
       "sortId": "1.026.001.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "2. Seconafines."
     },
     {
@@ -163,8 +163,8 @@
       "standardReferenceId": "26:1.5",
       "pageReference": "285.6",
       "sortId": "1.026.001.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "3. Terciafines."
     },
     {
@@ -181,8 +181,8 @@
       "standardReferenceId": "26:1.6",
       "pageReference": "285.7",
       "sortId": "1.026.001.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "4. Omniafines."
     },
     {
@@ -199,8 +199,8 @@
       "standardReferenceId": "26:1.7",
       "pageReference": "285.8",
       "sortId": "1.026.001.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
       "markdown": "5. Serafines."
     },
     {
@@ -217,9 +217,9 @@
       "standardReferenceId": "26:1.8",
       "pageReference": "285.9",
       "sortId": "1.026.001.008",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "6. Querubines y Sanobines."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "6. Querubines y sanobines."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "26:1.9",
       "pageReference": "285.10",
       "sortId": "1.026.001.009",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "7. Seres Intermedios."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "7. Criaturas intermedias."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "26:1.10",
       "pageReference": "285.11",
       "sortId": "1.026.001.010",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Los miembros de las órdenes angélicas no son completamente estacionarios en cuanto a su estado personal en el universo. Los ángeles de ciertas órdenes pueden transformarse en Compañeros Paradisiacos durante una temporada; algunos se tornan Registradores Celestiales; otros ascienden a las filas de los Asesores Técnicos. Algunos de entre los querubines pueden aspirar al estado y destino seráfico, mientras que los serafines evolutivos pueden alcanzar los niveles espirituales de los Hijos de Dios ascendentes."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Los miembros individuales de los órdenes angélicos no tienen un estatus personal estacionario en el universo. Las ángeles de ciertos órdenes pueden convertirse en Acompañantes del Paraíso durante una temporada; algunas se convierten en Registradoras Celestiales; otras ascienden a la categoría de Asesores Técnicos. Algunas de las querubines pueden aspirar al estatus y el destino seráfico, mientras que las serafines evolutivas pueden conseguir los niveles espirituales de los Hijos de Dios ascendentes."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "26:1.11",
       "pageReference": "285.12",
       "sortId": "1.026.001.011",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Las siete órdenes de espíritus ministrantes, según se revela, están agrupadas para su presentación de acuerdo con sus funciones de mayor importancia para con las criaturas ascendentes:"
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Los siete órdenes de espíritus ministrantes, tal como se revelan, se han agrupado para su presentación según sus funciones más importantes para las criaturas ascendentes:"
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "26:1.12",
       "pageReference": "285.13",
       "sortId": "1.026.001.012",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "8. *Los Espíritus Ministrantes del Universo Central.* Las tres órdenes de *supernafines* sirven en el sistema Paraíso-Havona. Los supernafines primarios o del Paraíso son creados por el Espíritu Infinito. Las órdenes secundarias y terciarias, que sirven en Havona, son respectivamente los vástagos de los Espíritus Rectores y de los Espíritus de los Circuitos."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "1. *Los espíritus ministrantes del universo central*. Los tres órdenes de *supernafines* sirven en el sistema Paraíso-Havona. Las supernafines primarias o del Paraíso son creadas por el Espíritu Infinito. Los órdenes secundario y terciario que sirven en Havona descienden de los Espíritus Maestros y de los Espíritus de los Circuitos respectivamente."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "26:1.13",
       "pageReference": "286.1",
       "sortId": "1.026.001.013",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "9. *Los Espíritus Ministrantes de los Superuniversos:* los seconafines, los terciafines y los omniafines. Los *seconafines,* hijos de los Espíritus Reflexivos, sirven de diversos modos en los siete superuniversos. Los *terciafines,* de origen en el Espíritu Infinito, se dedican con el tiempo al servicio de enlace de los Hijos Creadores y los Ancianos de los Días. Los *omniafines* son creados conjuntamente por el Espíritu Infinito y los Siete Ejecutivos Supremos, y son los servidores exclusivos de estos últimos. La discusión de estas tres órdenes es el tema de una narrativa próxima en esta serie."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "2. *Los espíritus ministrantes de los superuniversos*: las seconafines, las terciafines y las omniafines. Las *seconafines*, hijas de los Espíritus Reflectantes, sirven de modo diverso en los siete superuniversos. Las *terciafines*, que tienen su origen en el Espíritu Infinito, se dedican en último término al servicio de enlace entre los Hijos Creadores y los Ancianos de los Días. Las *omniafines* son creadas de forma concertada por el Espíritu Infinito y los Siete Ejecutivos Supremos y son las servidoras exclusivas de estos últimos. El análisis de estos tres órdenes será objeto de una exposición posterior de esta serie."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "26:1.14",
       "pageReference": "286.2",
       "sortId": "1.026.001.014",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "10. *Los Espíritus Ministrantes de los Universos Locales* comprenden a los *serafines* y a sus asistentes, los *querubines.* Los mortales ascendentes tienen un contacto inicial con estos vástagos de un Espíritu Materno Universal. Las *criaturas intermedias,* de natividad en los mundos habitados, no son en realidad órdenes angélicas propiamente dichas, aunque frecuentemente se agrupan funcionalmente con los espíritus ministrantes. Su historia, con un recuento de los serafines y querubines, se presenta en aquellas narrativas que tratan de los asuntos de vuestro universo local."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "3. *Los espíritus ministrantes de los universos locales* abarcan a las *serafines* y a sus asistentas, las *querubines*. Con estos vástagos del Espíritu Madre de un universo es con quien los mortales ascendentes tienen su contacto inicial. Las *criaturas intermedias*, nativas de los mundos habitados, no pertenecen propiamente a los órdenes angélicos, aunque a menudo se las agrupa funcionalmente con los espíritus ministrantes. Su historia, junto con una información sobre las serafines y las querubines, se expone en los documentos que tratan sobre los asuntos de vuestro universo local."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "26:1.15",
       "pageReference": "286.3",
       "sortId": "1.026.001.015",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Todas las órdenes de las huestes angélicas están dedicadas a los diversos servicios universales y ministran de una manera u otra a las órdenes más elevadas de los seres celestiales; pero son los supernafines, seconafines y serafines quienes, en grandes números, están empleados en el fomento del esquema ascendente de la perfección progresiva para los hijos del tiempo. Funcionando en el universo central, los superuniversos y los universos locales, ellos forman esa cadena ininterrumpida de ministros espirituales que el Espíritu Infinito ha provisto para la ayuda y guía de todos los que buscan conseguir al Padre Universal a través del Hijo Eterno."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Todos los órdenes de las huestes angélicas están dedicados a los diversos servicios de los universos y ministran de una manera u otra a órdenes más altos de seres celestiales; pero los empleados en gran número en la promoción del plan ascendente de perfección progresiva de los hijos del tiempo son las supernafines, las seconafines y las serafines. Con sus actuaciones en el universo central, los superuniversos y los universos locales, forman la cadena ininterrumpida de ministradoras del espíritu establecida por el Espíritu Infinito para ayudar y guiar a todos los que buscan alcanzar al Padre Universal a través del Hijo Eterno."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "26:1.16",
       "pageReference": "286.4",
       "sortId": "1.026.001.016",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Los supernafines están limitados en cuanto a «polaridad espiritual» tan sólo en una fase de acción, la con el Padre Universal. Pueden trabajar a solas excepto cuando emplean directamente los circuitos exclusivos del Padre. Cuando están en recepción de poder por ministerio directo del Padre, los supernafines deben asociarse voluntariamente en pares para poder funcionar. Los seconafines están limitados del mismo modo y además deben trabajar en pares para sincronizar con los circuitos del Hijo Eterno. Los serafines pueden trabajar a solas como personalidades discretas y localizadas, pero tan sólo pueden estar en circuito cuando están polarizados como pares de enlace. Cuando estos seres espirituales se asocian en pares, el uno se considera complementario del otro. Las relaciones complementarias pueden ser transitorias; no son necesariamente de naturaleza permanente."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Las supernafines están limitadas en «polaridad de espíritu» solo en lo que respecta a una fase de acción: la relacionada con el Padre Universal. Pueden trabajar individualmente excepto cuando emplean directamente los circuitos exclusivos del Padre. Cuando están recibiendo poder por ministerio directo del Padre, las supernafines deben asociarse voluntariamente en parejas para poder actuar. Las seconafines tienen la misma limitación y además deben trabajar en parejas para sincronizarse con los circuitos del Hijo Eterno. Las serafines pueden trabajar individualmente como personalidades diferenciadas y localizadas, pero solo son capaces de encircuitarse cuando están polarizadas en parejas de enlace. Cuando estos seres de espíritu se asocian en parejas se dice que uno es complementario del otro. Las relaciones complementarias pueden ser pasajeras, no son necesariamente de naturaleza permanente."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "26:1.17",
       "pageReference": "286.5",
       "sortId": "1.026.001.017",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Espíritus Ministrantes",
-      "markdown": "Estas brillantes criaturas de luz se sostienen directamente por la incorporación de la energía espiritual de los circuitos primarios del universo. Los mortales de Urantia deben obtener energía y luz a través de la encarnación vegetativa, pero las huestes angelicales pueden tener acceso al circuito; tienen «alimento que vosotros no conocéis». También comparten de las enseñanzas circulantes de los maravillosos Hijos Instructores Trinitarios; tienen una recepción de conocimiento y una absorción de sabiduría que se asemeja mucho a su técnica de asimilación de la energía vital."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Los espíritus ministrantes",
+      "markdown": "Estas brillantes criaturas de luz se sustentan directamente con el consumo de la energía espiritual de los circuitos primarios del universo. Los mortales de Urantia deben obtener energía-luz a través de la encarnación vegetativa, pero las huestes angélicas se encircuitan; «tienen un alimento que no conocéis». Toman también las enseñanzas circulantes de los maravillosos Maestros Hijos de la Trinidad; reciben conocimientos y consumen sabiduría de forma muy parecida a su técnica de asimilación de las energías de vida."
     },
     {
       "type": "section",
@@ -397,8 +397,8 @@
       "standardReferenceId": "26:2.0",
       "pageReference": null,
       "sortId": "1.026.002.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
       "markdown": null
     },
     {
@@ -415,9 +415,9 @@
       "standardReferenceId": "26:2.1",
       "pageReference": "286.6",
       "sortId": "1.026.002.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "Los supernafines son ministros peritos para todo tipo de ser que residen en el Paraíso y en el universo central. Estos elevados ángeles son creados en tres órdenes principales: primaria, secundaria y terciaria."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "Las supernafines atienden eficazmente a todos los tipos de seres que residen en el Paraíso y en el universo central. Estas ángeles excelsas son creadas en tres órdenes principales: primario, secundario y terciario."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "26:2.2",
       "pageReference": "287.1",
       "sortId": "1.026.002.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "*Los supernafines primarios* son los vástagos exclusivos del Creador Conjunto. Reparten su ministerio en forma casi igual entre ciertos grupos de Ciudadanos del Paraíso y el cuerpo en constante aumento de los peregrinos ascendentes. Estos ángeles de la Isla Eterna son altamente eficaces en fomentar la capacitación esencial de ambos grupos de habitantes del Paraíso. Contribuyen mucho de lo que es útil para la comprensión mutua de estas dos órdenes singulares de criaturas del universo — siendo la una el tipo más elevado de criatura volitiva divina y perfecta, y la otra, la evolución perfeccionada del tipo más bajo de criatura volitiva en todo el universo de los universos."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "*Las supernafines primarias* son vástagos exclusivos del Creador Conjunto. Distribuyen su ministerio de forma casi igual entre ciertos grupos de Ciudadanos del Paraíso y el cuerpo en constante aumento de los peregrinos ascendentes. Estas ángeles de la Isla Eterna fomentan con gran eficacia la formación esencial de ambos grupos de moradores del Paraíso. Aportan muchas cosas que son útiles para el entendimiento mutuo de estos dos órdenes únicos de criaturas del universo: uno del tipo más alto de criatura divina y perfecta con voluntad, y el otro, la evolución perfeccionada del tipo más bajo de criatura con voluntad de todo el universo de universos."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "26:2.3",
       "pageReference": "287.2",
       "sortId": "1.026.002.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "La tarea de los supernafines primarios es tan singular y distintiva que se la considerará separadamente en la narrativa siguiente."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "El trabajo de las supernafines primarias es tan único y característico que tendrá consideración aparte en la narración siguiente."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "26:2.4",
       "pageReference": "287.3",
       "sortId": "1.026.002.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "*Los supernafines secundarios* son los directores de los asuntos de los seres ascendentes en los siete circuitos de Havona. Se ocupan igualmente de ministrar a la capacitación instruccional de las numerosas órdenes de Ciudadanos del Paraíso que moran por largos períodos en los circuitos de los mundos de la creación central, pero no podemos hablar de esta fase de su servicio."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "*Las supernafines secundarias* son las directoras de los asuntos de los seres ascendentes en los siete circuitos de Havona. Se encargan igualmente de ministrar en la formación educativa de numerosos órdenes de Ciudadanos del Paraíso que residen durante largos periodos en los circuitos de los mundos de la creación central, pero no podemos tratar este aspecto de su servicio."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "26:2.5",
       "pageReference": "287.4",
       "sortId": "1.026.002.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "Hay siete tipos de estos ángeles elevados, originándose cada uno en uno de los Siete Espíritus Rectores y de naturaleza correspondientemente similar. Colectivamente, los Siete Espíritus Rectores crean muchos grupos diferentes de seres y entidades únicos, y los miembros individuales de cada orden son comparativamente uniformes en su naturaleza. Pero cuando estos mismos Siete Espíritus crean individualmente, las órdenes resultantes son siempre de naturaleza séptuple; los hijos de cada Espíritu Rector comparten la naturaleza de su creador y consiguientemente son distintos de los demás. Tal es el origen de los superafines secundarios, y los ángeles de los siete tipos creados funcionan en todos los canales de actividad abiertos a su entera orden, principalmente en los siete circuitos del divino universo central."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "Estas ángeles excelsas son de siete tipos, cada uno con origen en uno de los siete Espíritus Maestros y de naturaleza conforme a ese modelo. Colectivamente, los siete Espíritus Maestros crean muchos grupos diferentes de seres y entidades únicos, y los miembros individuales de cada orden son relativamente uniformes en su naturaleza. Pero cuando estos mismos siete Espíritus crean individualmente, los órdenes resultantes son siempre séptuplos en su naturaleza; las hijas de cada Espíritu Maestro comparten la naturaleza de su creador y son por lo tanto distintas de las otras. Este es el origen de las supernafines secundarias, y las ángeles de los siete tipos creados actúan en todos los canales de actividad abiertos al conjunto de su orden, principalmente en los siete circuitos del universo central y divino."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "26:2.6",
       "pageReference": "287.5",
       "sortId": "1.026.002.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "Cada uno de los siete circuitos planetarios de Havona está bajo la supervisión di-recta de uno de los siete espíritus de los circuitos, siendo ellos mismos una creación colectiva —y por lo tanto uniforme— de los Siete Espíritus Rectores. Aunque comparten la naturaleza de la Tercera Fuente y Centro, estos siete Espíritus subsidiarios de Havona no fueron parte del universo de modelo original. Entraron en función después de la creación original (eterna) pero mucho antes de los tiempos de Grandfanda. Indudablemente aparecieron como respuesta creativa de los Espíritus Rectores al propósito emergente del Ser Supremo, y fueron descubiertos en función cuando se organizó el gran universo. El Espíritu Infinito y todos sus asociados creativos, como coordinadores universales, parecen abundar en la capacidad de formular respuestas creativas adecuadas a los desarrollos simultáneos en las Deidades experienciales y en los universos en evolución."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "Cada uno de los siete circuitos planetarios de Havona está bajo la supervisión directa de uno de los siete Espíritus de los Circuitos, que son ellos mismos creación colectiva —y por lo tanto uniforme— de los siete Espíritus Maestros. Aunque comparten la naturaleza de la Tercera Fuente y Centro, estos siete Espíritus secundarios de Havona no fueron parte del universo patrón original. Entraron en funciones después de la creación original (eterna), pero mucho antes de los tiempos de Grandfanda. Aparecieron sin duda como respuesta creativa de los Espíritus Maestros al propósito emergente del Ser Supremo, y fueron descubiertos ejerciendo sus funciones cuando se organizó el gran universo. El Espíritu Infinito y todos sus colaboradores creativos, como coordinadores universales, parecen estar ampliamente dotados de la capacidad de dar respuestas creativas adecuadas a los desarrollos simultáneos que se producen en las Deidades experienciales y en los universos en evolución."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "26:2.7",
       "pageReference": "287.6",
       "sortId": "1.026.002.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Poderosos Supernafines",
-      "markdown": "*Los supernafines terciarios* se originan en estos Siete Espíritus de los Circuitos. A cada uno de ellos, en un circuito separado de Havona, el Espíritu Infinito le ha dado poder para crear un número suficiente de altos ministros superáficos de la orden terciaria como para satisfacer las necesidades del universo central. Aunque los Espíritus del Circuito produjeron comparativamente pocos de estos ministros angélicos antes de la llegada a Havona de los peregrinos del tiempo, los Siete Espíritus Rectores no comenzaron siquiera la creación de los supernafines secundarios hasta la llegada de Grandfanda. Por lo tanto, se consideran aquí primero los supernafines terciarios, siendo éstos los más antiguos de las dos órdenes."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las poderosas supernafines",
+      "markdown": "*Las supernafines terciarias* tienen su origen en estos siete Espíritus de los Circuitos. El Espíritu Infinito ha conferido a cada uno de ellos el poder de crear, en los círculos separados de Havona, un número suficiente de altas ministras superáficas del orden terciario para satisfacer las necesidades del universo central. Mientras que los Espíritus de Circuito generaron relativamente pocas de estas ministradoras angélicas antes de la llegada a Havona de los peregrinos del tiempo, los siete Espíritus Maestros ni siquiera iniciaron la creación de supernafines secundarias hasta el aterrizaje de Grandfanda. Al ser el más antiguo de los dos órdenes, las supernafines terciarias se considerarán en primer lugar."
     },
     {
       "type": "section",
@@ -541,8 +541,8 @@
       "standardReferenceId": "26:3.0",
       "pageReference": null,
       "sortId": "1.026.003.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
       "markdown": null
     },
     {
@@ -559,9 +559,9 @@
       "standardReferenceId": "26:3.1",
       "pageReference": "288.1",
       "sortId": "1.026.003.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "Estos servidores de los Siete Espíritus Rectores son los especialistas angélicos de los varios circuitos de Havona, y su ministerio se extiende tanto a los peregrinos ascendentes del tiempo como a los peregrinos descendentes de la eternidad. En los mil millones de mundos de estudio de la perfecta creación central, vuestros asociados superáficos de todas las órdenes os serán plenamente visibles. Allí todos vosotros seréis, en el sentido más elevado, seres fraternales y comprensivos de contacto y compasión mutua. También reconoceréis plenamente y fraternizaréis exquisitamente con los peregrinos descendentes, los Ciudadanos del Paraíso, quienes atraviesan estos círculos de dentro hacia afuera, entrando a Havona a través del mundo piloto del primer circuito y procediendo hacia afuera hasta el séptimo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "Estas servidoras de los siete Espíritus Maestros son las especialistas angélicas de los diversos circuitos de Havona y su ministerio se extiende tanto a los peregrinos ascendentes del tiempo como a los peregrinos descendentes de la eternidad. En los mil millones de mundos de estudio de la perfecta creación central, vuestras compañeras superáficas de todos los órdenes serán plenamente visibles para vosotros. Todos seréis allí, en el sentido más alto, seres fraternales y comprensivos en mutuo contacto y mutua simpatía. También reconoceréis plenamente a los peregrinos descendentes y fraternizaréis con ellos de manera exquisita. Estos Ciudadanos del Paraíso atraviesan esos círculos de dentro hacia fuera, entran en Havona por el mundo piloto del primer circuito y siguen hacia fuera hasta el séptimo."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "26:3.2",
       "pageReference": "288.2",
       "sortId": "1.026.003.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "Los peregrinos ascendentes de los siete superuniversos pasan a través de Havona en el sentido opuesto, entrando por vía del mundo piloto del último círculo y procediendo hacia adentro. No hay límite temporal establecido para el progreso de las criaturas ascendentes de mundo en mundo y de circuito en circuito, así como tam-poco existe un período fijo de tiempo asignado arbitrariamente a la residencia en los mundos morontiales. Pero, aunque algunos individuos desarrollados en forma adecuada pueden estar exentos de la estadía en uno o más de los mundos de capacitación del universo local, ningún peregrino podrá evitar pasar a través de los siete circuitos de Havona de espiritualización progresiva."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "Los peregrinos ascendentes de los siete superuniversos pasan por Havona en dirección opuesta; entran por el mundo piloto del séptimo circuito y siguen hacia dentro. No se ha establecido límite de tiempo al progreso de las criaturas ascendentes de mundo en mundo y de circuito en circuito, igual que no se asigna arbitrariamente un periodo fijo de tiempo para residir en los mundos de la morontia. Por otra parte, mientras que los individuos adecuadamente desarrollados pueden estar exentos de residir en uno o más de los mundos de formación del universo local, ningún peregrino puede evitar pasar por los siete circuitos de espiritualización progresiva de Havona."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "26:3.3",
       "pageReference": "288.3",
       "sortId": "1.026.003.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "Ese cuerpo de supernafines terciarios que está asignado principalmente al servicio de los peregrinos del tiempo se clasifica como sigue:"
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "El cuerpo de las supernafines terciarias, que está asignado principalmente al servicio de los peregrinos del tiempo, se clasifica como sigue:"
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "26:3.4",
       "pageReference": "288.4",
       "sortId": "1.026.003.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "1. *Los Supervisores de la Armonía.* Es evidente que algún tipo de influencia coordinadora es necesaria, aun en la perfecta Havona, para mantener el sistema y asegurar la armonía en todo el trabajo de preparación de los peregrinos del tiempo para sus subsiguientes logros en el Paraíso. Tal es la misión real de los supervisores de la armonía —mantener todo en progreso y sin obstáculos. Se originan en el primer circuito y sirven en todo Havona, y su presencia en los circuitos significa que nada puede sufrir deslices. Tienen una gran habilidad para coordinar una diversidad de actividades que comprenden personalidades de distintas órdenes —aun de niveles múltiples— permite a estos supernafines asistir donde quiera y cuando quiera se los necesite. Contribuyen enormemente a la comprensión mutua de los peregrinos del tiempo y los peregrinos de la eternidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "1. *Las supervisoras de la armonía*. Parece evidente que, incluso en el perfecto Havona, se requiere algún tipo de influencia coordinadora para mantener el sistema y asegurar la armonía de todo el trabajo de preparación de los peregrinos del tiempo para sus logros posteriores en el Paraíso. Esa es la misión real de las supervisoras de la armonía: hacer que todo funcione sin complicaciones ni retrasos. Originarias del primer circuito, sirven en todo Havona, y su presencia en los circuitos implica que nada puede salir mal. Por su gran capacidad para coordinar diversas actividades que involucren a personalidades de diferentes órdenes —incluso de múltiples niveles— estas supernafines pueden siempre prestar asistencia donde y cuando sea necesaria. Contribuyen enormemente al entendimiento mutuo entre los peregrinos del tiempo y los peregrinos de la eternidad."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "26:3.5",
       "pageReference": "288.5",
       "sortId": "1.026.003.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "2. *Los Registradores Principales.* Estos ángeles son creados en el segundo circuito pero operan en todos lados en el universo central. Registran en triplicado, ejecutando expedientes para los archivos literales de Havona, para los archivos espirituales de su orden, y para los registros normales del Paraíso. Además transmiten automáticamente las transacciones de importancia en cuanto al conocimiento verdadero a las bibliotecas vivientes del Paraíso, los custodios del conocimiento de la orden primaria de los supernafines."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "2. *Las registradoras jefe*. Estas ángeles son creadas en el segundo circuito pero actúan en cualquier parte del universo central. Registran por triplicado, pues hacen registros para los archivos literales de Havona, para los archivos espirituales de su orden y para los registros formales del Paraíso. Además transmiten automáticamente las operaciones con valor de verdadero conocimiento a las bibliotecas vivas del Paraíso, las depositarias del conocimiento del orden primario de las supernafines."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "26:3.6",
       "pageReference": "288.6",
       "sortId": "1.026.003.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "3. *Los Locutores.* Los Hijos del tercer Espíritu de los Circuitos funcionan en toda Havona, aunque su estación oficial está ubicada en el planeta número setenta en el círculo más exterior. Estos técnicos decanos son los receptores y enviadores de transmisiones de la creación central y los directores de los informes espaciales de todos los fenómenos de la Deidad en el Paraíso. Pueden operar todos los circuitos básicos del espacio."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "3. *Las difusoras*. Las Hijas del tercer Espíritu de Circuito actúan en todo Havona, aunque su emplazamiento oficial está ubicado en el planeta número setenta del círculo más exterior. Estas consumadas especialistas reciben y emiten las difusiones de la creación central y dirigen los informes del espacio de todos los fenómenos de Deidad del Paraíso. Pueden manejar todos los circuitos básicos del espacio."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "26:3.7",
       "pageReference": "288.7",
       "sortId": "1.026.003.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "4. *Los Mensajeros.* Se originan en el circuito número cuatro. Viajan por el sistema entero del Paraíso-Havona como portadores de todo mensaje que requiere transmisión personal. Sirven a sus semejantes, las personalidades celestiales, los peregrinos del Paraíso, y aun a las almas ascendentes del tiempo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "4. *Las mensajeras*. Tienen su origen en el circuito número cuatro. Recorren el sistema Paraíso-Havona como portadoras de todos los mensajes que requieren transmisión personal. Sirven a sus semejantes, a las personalidades celestiales, a los peregrinos del Paraíso e incluso a las almas ascendentes del tiempo."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "26:3.8",
       "pageReference": "289.1",
       "sortId": "1.026.003.008",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "5. *Los Coordinadores de la Información.* Estos supernafines terciarios, hijos del quinto Espíritu de los Circuitos, son siempre los promotores sabios y compasivos de la asociación fraternal entre los peregrinos ascendentes y los descendentes. Ministran a todos los habitantes de Havona, y especialmente a los ascendentes, manteniéndolos informados sobre los asuntos del universo de los universos. En virtud de los contactos personales con los emisores y los reflectores, estos «periódicos vivientes» de Havona conocen instantáneamente toda información que pasa por los vastos circuitos de noticias del universo central. Obtienen la información mediante el método gráfico de Havona, que les permite asimilar automáticamente, en una hora del tiempo de Urantia, una cantidad de información que requeriría mil años para ser registrada mediante vuestra técnica telegráfica más rápida."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "5. *Las coordinadoras de información*. Estas supernafines terciarias, hijas del quinto Espíritu de Circuito, son siempre las promotoras sabias y comprensivas de la asociación fraternal entre los peregrinos ascendentes y los descendentes. Ministran a todos los habitantes de Havona, especialmente a los ascendentes, a los que mantienen al día respecto a los asuntos del universo de universos. En virtud de sus contactos personales con las difusoras y con las reflectoras, estos «periódicos vivos» de Havona conocen instantáneamente toda la información que pasa por los vastos circuitos de noticias del universo central. Captan la información por el método gráfico de Havona, que les permite asimilar automáticamente en una hora del tiempo de Urantia tanta información como vuestra técnica telegráfica más rápida sería capaz de registrar en mil años."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "26:3.9",
       "pageReference": "289.2",
       "sortId": "1.026.003.009",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "6. *Las Personalidades de Transporte.* Estos seres, que se originan en el circuito número seis, generalmente operan a partir del planeta número cuarenta en el circuito más exterior. Son quienes llevan a los candidatos desalentados que fracasan transitoriamente en la aventura de la Deidad. Se mantienen prontos para servir a todos los que deben venir e ir en el servicio de Havona, y que no están atravesando el espacio."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "6. *Las personalidades de transporte*. Estos seres, originarios del circuito número seis, actúan normalmente a partir del planeta número cuarenta del circuito más exterior. Son ellas las que se llevan a los candidatos decepcionados que fracasan transitoriamente en la aventura de la Deidad. Están siempre dispuestas a servir a todos los que tienen que ir y venir en el servicio de Havona, y no son atravesadoras del espacio."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "26:3.10",
       "pageReference": "289.3",
       "sortId": "1.026.003.010",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Terciarios",
-      "markdown": "7. *El Cuerpo de Reserva.* Las fluctuaciones en el caudal de trabajo con los seres ascendentes, los peregrinos del Paraíso y otras órdenes de seres residentes en Havona, obligan a mantener estas reservas de supernafines en el mundo piloto del séptimo círculo, en el que se originan. Son creados sin designios especiales y son competentes para hacerse cargo del servicio en las fases menos exigentes de cualquiera de los deberes de los asociados superáficos de la orden terciaria."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines terciarias",
+      "markdown": "7. *El cuerpo de reserva*. Las fluctuaciones del trabajo con los seres ascendentes, los peregrinos al Paraíso, y con otros órdenes de seres que residen en Havona hacen necesario mantener estas reservas de supernafines en el mundo piloto del séptimo círculo, donde tienen su origen. Son creadas sin un propósito especial y están capacitadas para asumir servicios en los aspectos menos exigentes de cualquiera de los deberes de sus compañeras superáficas del orden terciario."
     },
     {
       "type": "section",
@@ -739,8 +739,8 @@
       "standardReferenceId": "26:4.0",
       "pageReference": null,
       "sortId": "1.026.004.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
       "markdown": null
     },
     {
@@ -757,9 +757,9 @@
       "standardReferenceId": "26:4.1",
       "pageReference": "289.4",
       "sortId": "1.026.004.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "Los supernafines secundarios son ministros de los siete circuitos planetarios del universo central. Parte de ellos se dedica al servicio de los peregrinos del tiempo y la mitad de toda la orden es asignada a la capacitación de los peregrinos paradisiacos de la eternidad. Los voluntarios del Cuerpo de los Mortales de la Finalidad también ayudan a estos Ciudadanos del Paraíso en su peregrinaje a través de los circuitos de Havona, un arreglo que se ha mantenido desde que se completó el primer grupo de finalistas."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "Las supernafines secundarias son ministras de los siete circuitos planetarios del universo central. Una parte se dedica al servicio de los peregrinos del tiempo, y la mitad de todo el orden está asignada a la formación de los peregrinos del Paraíso de la eternidad. Estos Ciudadanos del Paraíso también son atendidos en su peregrinar a través de los circuitos de Havona por voluntarios del Cuerpo Finalitario de Mortales, una disposición que perdura desde que se completó el primer grupo de finalitarios."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "26:4.2",
       "pageReference": "289.5",
       "sortId": "1.026.004.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "De acuerdo con sus asignaciones periódicas al ministerio de los peregrinos ascendentes, los supernafines secundarios trabajan en los siguientes siete grupos:"
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "Según su asignación periódica al ministerio de los peregrinos ascendentes, las supernafines secundarias trabajan en los siete grupos siguientes:"
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "26:4.3",
       "pageReference": "289.6",
       "sortId": "1.026.004.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "1. Ayudantes de los Peregrinos."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "1. Ayudantes de los peregrinos."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "26:4.4",
       "pageReference": "289.7",
       "sortId": "1.026.004.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "2. Guías de la Supremacía."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "2. Guías de la supremacía."
     },
     {
       "type": "paragraph",
@@ -829,8 +829,8 @@
       "standardReferenceId": "26:4.5",
       "pageReference": "289.8",
       "sortId": "1.026.004.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
       "markdown": "3. Guías de la Trinidad."
     },
     {
@@ -847,9 +847,9 @@
       "standardReferenceId": "26:4.6",
       "pageReference": "289.9",
       "sortId": "1.026.004.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "4. Los que Hallan al Hijo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "4. Descubridoras del Hijo."
     },
     {
       "type": "paragraph",
@@ -865,8 +865,8 @@
       "standardReferenceId": "26:4.7",
       "pageReference": "289.10",
       "sortId": "1.026.004.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
       "markdown": "5. Guías del Padre."
     },
     {
@@ -883,9 +883,9 @@
       "standardReferenceId": "26:4.8",
       "pageReference": "289.11",
       "sortId": "1.026.004.008",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "6. Asesores y Consejeros."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "6. Consejeras y asesoras."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "26:4.9",
       "pageReference": "289.12",
       "sortId": "1.026.004.009",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "7. Complementos del Reposo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "7. Complementadoras del descanso."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "26:4.10",
       "pageReference": "289.13",
       "sortId": "1.026.004.010",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "Cada uno de estos grupos de trabajo contiene ángeles de los siete tipos creados, y un peregrino del espacio siempre recibe la enseñanza de un supernafín secundario de origen en el Espíritu Rector que preside el superuniverso en el que naciera ese peregrino. Cuando vosotros los mortales de Urantia lleguéis a Havona, sin duda alguna seréis piloteados por supernafines cuyas naturalezas creadas —como es vuestra propia naturaleza evolutiva— se derivan del Espíritu Rector de Orvonton. Puesto que vuestros tutores surgen del Espíritu Rector de vuestro propio superuniverso, están particularmente calificados para comprenderos, consolaros y asistiros en todos vuestros esfuerzos por obtener la perfección paradisiaca."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "Cada uno de estos grupos de trabajo contiene ángeles de los siete tipos creados, y todo peregrino del espacio tiene siempre tutoras que son supernafines secundarias originarias del Espíritu Maestro que preside el superuniverso natal del peregrino. Cuando vosotros, los mortales de Urantia, logréis llegar a Havona seréis guiados sin duda por supernafines cuya naturaleza creada —igual que vuestra propia naturaleza evolucionada— procede del Espíritu Maestro de Orvonton. Y puesto que vuestras tutoras descienden del Espíritu Maestro de vuestro propio superuniverso, están especialmente cualificadas para comprenderos, consolaros y asistiros en todos vuestros esfuerzos por lograr la perfección paradisiaca."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "26:4.11",
       "pageReference": "290.1",
       "sortId": "1.026.004.011",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "Las personalidades de transporte de la orden primaria de los seconafines que ope-ran desde las sedes centrales de los siete superuniversos transportan a los peregrinos del tiempo más allá de los cuerpos oscuros de gravedad de Havona, al circuito planetario exterior. No todos, pero la mayoría de los serafines de servicio planetario y en los universos locales que han sido acreditados para la ascensión al Paraíso se separará de sus asociados mortales antes del largo viaje a Havona y comenzarán inmediatamente un prolongado período de intensa capacitación para la asignación excelsa, anticipando lograr, como serafines, la perfección de existencia y la supremacía de servicio. Esto lo hacen ellos, esperando volver a reunirse con los peregrinos del tiempo, para contarse entre aquellos que por siempre siguen el curso de dichos mortales que han logrado el Padre Universal y han recibido asignación a un servicio no revelado del Cuerpo de la Finalidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "Los peregrinos del tiempo son transportados más allá de los cuerpos oscuros de gravedad de Havona hasta el circuito planetario exterior por las personalidades de transporte del orden primario de las seconafines que operan desde las sedes de los siete superuniversos. Aunque no todas, la mayoría de las serafines que sirven en los planetas y universos locales y han sido acreditadas para ascender al Paraíso se separarán de sus compañeros mortales antes del largo vuelo a Havona e iniciarán inmediatamente una larga e intensa formación para la elevada misión de conseguir, como serafines, la perfección de la existencia y la supremacía del servicio. Y esto lo hacen con la esperanza de volver a reunirse con los peregrinos del tiempo, de ser contadas entre los que siguen para siempre el curso de los mortales que han alcanzado al Padre Universal y han recibido su nombramiento para el servicio no revelado del Cuerpo de la Finalización."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "26:4.12",
       "pageReference": "290.2",
       "sortId": "1.026.004.012",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "El peregrino llega al planeta de recepción de Havona, el mundo piloto del séptimo circuito, con una sola dote de perfección, perfección de propósito. El Padre Universal ha decretado: «Sed perfectos, así como yo soy perfecto». Ésa es la invitación-mandato asombrosa transmitida a los hijos finitos de los mundos del espacio. La promulgación de ese mandato ha estremecido a la creación entera en el esfuerzo cooperativo de los seres celestiales para ayudar a conducir a su satisfacción y realización ese extraordinario mando de la Primera Gran Fuente y Centro."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "El peregrino aterriza en el planeta de recepción de Havona, el mundo piloto del séptimo circuito, con una sola dotación de perfección, la perfección de propósito. El Padre Universal ha decretado: «Sed perfectos como yo soy perfecto». Ese es el asombroso mandato-invitación difundido a los hijos finitos de los mundos del espacio. La promulgación de esa orden ha puesto en movimiento a toda la creación en el esfuerzo cooperativo de los seres celestiales para asistir a que se produzca el cumplimiento y la realización de ese formidable mandato de la Primera Gran Fuente y Centro."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "26:4.13",
       "pageReference": "290.3",
       "sortId": "1.026.004.013",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "Cuando, mediante y a través del ministerio de todas las huestes de ayudantes del esquema universal de supervivencia, finalmente sois depositados sobre el mundo de recepción de Havona, llegáis tan sólo con un tipo de perfección: *perfección de propósito.* Vuestro propósito se ha comprobado plenamente; vuestra fe ha sido probada. Se sabe que estáis a prueba de desilusiones. Ni siquiera el fracaso de percibir al Padre Universal podrá sacudir la fe ni alterar seriamente la confianza de un mortal ascendente que ha pasado a través de la experiencia que todos deben atravesar para lograr las esferas perfectas de Havona. Para cuando alcancéis Havona, vuestra sinceridad se habrá vuelto sublime. La perfección de propósito y la divinidad de deseo, con constancia de fe han asegurado vuestro ingreso en las moradas establecidas de la eternidad; vuestra liberación de las incertidumbres del tiempo es plena y completa; ahora debéis enfrentaros con los problemas de Havona y las inmensidades del Paraíso, para encontraros con aquello para lo cual por tanto tiempo os habéis estado capacitando en las épocas experienciales del tiempo en los mundos escuela del espacio."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "Cuando gracias al ministerio de las multitudes de ayudantes del plan universal de supervivencia sois depositados finalmente en el mundo de recepción de Havona, llegáis con un solo tipo de perfección: *la perfección de propósito*. Vuestro propósito ha sido plenamente demostrado y vuestra fe ha sido probada. Se sabe que estáis a prueba de decepciones. Ni siquiera el fracaso en percibir al Padre Universal puede debilitar la fe ni perturbar seriamente la confianza de un mortal ascendente que ha pasado por la experiencia que todos deben atravesar para alcanzar las esferas perfectas de Havona. Para cuando lleguéis a Havona vuestra sinceridad se habrá hecho sublime. La perfección de propósito y la divinidad de deseo, junto con la firmeza de vuestra fe, habrán garantizado vuestra entrada en las moradas estables de la eternidad. Vuestra liberación de las incertidumbres del tiempo será plena y completa. Y entonces aparecerán ante vosotros los problemas de Havona y las inmensidades del Paraíso, para los que fuisteis tan largamente preparados durante las épocas experienciales del tiempo en los mundos escuela del espacio."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "26:4.14",
       "pageReference": "290.4",
       "sortId": "1.026.004.014",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "La fe ha hecho ganar al peregrino ascendente el propósito de perfección que ad-mite a los hijos del tiempo hasta las compuertas de la eternidad. Ahora los ayudantes de los peregrinos deben comenzar su trabajo para desarrollar esa perfección de comprensión y esa técnica de entendimiento que son tan indispensables para la perfección paradisiaca de la personalidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "La fe ha conquistado para el peregrino ascendente una perfección de propósito que deja entrar a los hijos del tiempo por los portales de la eternidad. Las ayudantes de los peregrinos deben acometer ahora la tarea de desarrollar esa perfección de entendimiento y esa técnica de comprensión que son tan indispensables para la perfección paradisiaca de la personalidad."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "26:4.15",
       "pageReference": "290.5",
       "sortId": "1.026.004.015",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Supernafines Secundarios",
-      "markdown": "*La habilidad para comprender es el pasaporte mortal al Paraíso.* El deseo de creer es la llave de Havona. La aceptación de la filiación, la cooperación con el Ajustador residente, es el precio de la supervivencia evolutiva."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las supernafines secundarias",
+      "markdown": "*La capacidad de comprender es el pasaporte del mortal al Paraíso*. La buena disposición para creer es la llave de Havona. La aceptación de la filiación, la cooperación con el Ajustador que mora en el interior, es el precio de la supervivencia evolutiva."
     },
     {
       "type": "section",
@@ -1027,8 +1027,8 @@
       "standardReferenceId": "26:5.0",
       "pageReference": null,
       "sortId": "1.026.005.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
       "markdown": null
     },
     {
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "26:5.1",
       "pageReference": "291.1",
       "sortId": "1.026.005.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "El primero de los siete grupos de supernafines secundarios que se encuentra es el de los ayudantes de los peregrinos, esos seres de entendimiento rápido y amplia compasión que le dan la bienvenida a los muy viajados ascendentes del espacio a los mundos estabilizados y la economía estable del universo central. Simultáneamente comienzan estos altos ministros su trabajo para los peregrinos del Paraíso de la eternidad, el primero de los cuales llegó al mundo piloto del circuito interno de Havona coincidencialmente con la llegada de Grandfanda en el mundo piloto del circuito exterior. En aquellos lejanos días los peregrinos del Paraíso y los peregrinos del tiempo se encontraban primero en el mundo de recepción del circuito número cuatro."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "El primero de los siete grupos de supernafines secundarias con el que os encontraréis es el de las ayudantes de los peregrinos, esos seres de comprensión rápida y amplia simpatía que reciben a los ascendentes del espacio en los mundos estabilizados y la organización asentada del universo central tras su largo viaje. En ese mismo momento empieza el trabajo de estas altas ministras en favor de los peregrinos del Paraíso de la eternidad, el primero de los cuales llegó al mundo piloto del circuito interior de Havona al mismo tiempo que Grandfanda aterrizaba en el mundo piloto del circuito exterior. En aquellos tiempos remotos los peregrinos procedentes del Paraíso y los peregrinos del tiempo se encontraron por primera vez en el mundo de recepción del circuito número cuatro."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "26:5.2",
       "pageReference": "291.2",
       "sortId": "1.026.005.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "Estos ayudantes de peregrinos, que actúan en el séptimo círculo de los mundos de Havona, llevan a cabo su tarea para los mortales ascendentes en tres divisiones principales: primero, la comprensión suprema de la Trinidad del Paraíso; segundo, la comprensión espiritual de la asociación Padre-Hijo; y tercero, el reconocimiento intelectual del Espíritu Infinito. Cada una de estas fases de instrucción se divide en siete ramas de doce divisiones menores de setenta grupos subsidiarios y cada uno de estos setenta grupos subsidiarios de instrucción se presenta en mil clasificaciones. Se proporciona una instrucción más detallada en los círculos subsiguientes, pero los ayudantes de los peregrinos enseñan un bosquejo de cada requisito del Paraíso."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "Estas ayudantes de los peregrinos que actúan en el séptimo círculo de los mundos de Havona llevan a cabo su trabajo para los mortales ascendentes en tres divisiones principales: primera, la comprensión suprema de la Trinidad del Paraíso; segunda, la captación espiritual de la asociación Padre-Hijo; y tercera, el reconocimiento intelectual del Espíritu Infinito. Cada una de estas fases de instrucción se divide en siete ramas de doce divisiones menores de setenta grupos secundarios, y cada una de estas setenta agrupaciones secundarias de instrucción se presenta en mil clasificaciones. En los círculos posteriores se proporciona una instrucción más detallada, pero las ayudantes de los peregrinos les enseñan un resumen de cada requisito paradisiaco."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "26:5.3",
       "pageReference": "291.3",
       "sortId": "1.026.005.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "Ése es pues el curso primario o elemental que enfrenta a los peregrinos de fe comprobada y que tanto han viajado en el espacio. Pero mucho antes de llegar a Havona, esos hijos ascendentes del tiempo han aprendido a disfrutar de la incertidumbre, alimentarse de la desilusión, entusiasmarse frente a la derrota aparente, vigorizarse en presencia de dificultades, exhibir valor indomable frente a la inmensidad, y ejercer una fe inconquistable al enfrentarse con los desafíos de lo inexplicable. Por mucho tiempo, el grito de batalla de estos peregrinos ha sido: «Juntamente con Dios, nada —absolutamente nada— es imposible»."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "Este es pues el curso primario o elemental al que se enfrentan los peregrinos del espacio, largos viajeros de fe probada. Pero mucho antes de alcanzar Havona, estos hijos ascendentes del tiempo han aprendido a festejar la incertidumbre, a alimentarse de decepciones, a entusiasmarse ante el fracaso aparente, a crecerse en las dificultades, a mostrar un valor indomable frente a la inmensidad y a ejercer una fe invencible cuando se enfrentan al desafío de lo inexplicable. Desde hace mucho, el grito de guerra de estos peregrinos es: «En unión con Dios, nada —absolutamente nada— es imposible»."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "26:5.4",
       "pageReference": "291.4",
       "sortId": "1.026.005.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "Existen requisitos definidos para los peregrinos del tiempo en cada uno de los círculos de Havona; y aunque cada peregrino continúa bajo el tutelaje de los supernafines adaptados, por su naturaleza, a ayudar a ese tipo particular de criatura ascendente, el curso que se debe aprender ha de ser relativamente uniforme para todos los ascendentes que alcanzan el universo central. Este curso de logro es cuantitativo, cualitativo y experiencial —intelectual, espiritual y supremo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "En cada uno de los círculos de Havona hay un requisito determinado para los peregrinos del tiempo y, aunque cada peregrino continúa bajo la tutela de supernafines adaptadas por su naturaleza a ayudar a ese tipo concreto de criatura ascendente, el curso que se ha de superar es bastante uniforme para todos los ascendentes que alcanzan el universo central. Este curso de consecución es cuantitativo, cualitativo y experiencial; intelectual, espiritual y supremo."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "26:5.5",
       "pageReference": "291.5",
       "sortId": "1.026.005.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "El tiempo tiene poca consecuencia en los círculos de Havona. De una forma limitada, entra en las posibilidades de avance, pero el logro es la prueba final y suprema. El momento mismo en que vuestro asociado superáfico considera que sois competente para pasar hacia adentro al próximo círculo, seréis llevado ante los doce ayudantes del séptimo Espíritu de Circuito. Aquí se os requerirá que paséis las pruebas del círculo, determinadas por el superuniverso de vuestro origen y por el sistema de vuestra natividad. El logro de la divinidad de este círculo tiene lugar en el mundo piloto y consiste en el reconocimiento y realización espiritual del Espíritu Rector del superuniverso correspondiente al peregrino ascendente."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "El tiempo tiene poca importancia en los círculos de Havona. Influye hasta cierto punto en las posibilidades de avance, pero el logro es la prueba final y suprema. En el momento mismo en que vuestra compañera superáfica considere que estáis capacitados para pasar hacia dentro al siguiente círculo, seréis llevados ante los doce adjutores del séptimo Espíritu de Circuito. Ahí os harán pasar las pruebas de ese círculo determinadas por vuestro superuniverso de origen y por vuestro sistema de nacimiento. El logro de divinidad de este círculo tiene lugar en el mundo piloto y consiste en el reconocimiento y la comprensión espiritual del Espíritu Maestro del superuniverso del peregrino ascendente."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "26:5.6",
       "pageReference": "291.6",
       "sortId": "1.026.005.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Ayudantes de los Peregrinos",
-      "markdown": "Cuando el trabajo del círculo exterior de Havona se completa y se pasa el curso presentado, los ayudantes de los peregrinos llevan a sus sujetos al mundo piloto del próximo círculo y los entregan a los cuidados de los guías de la supremacía. Los ayudantes de los peregrinos siempre permanecen por una temporada para asegurarse de que la transferencia es tanto agradable como beneficiosa."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las ayudantes de los peregrinos",
+      "markdown": "Una vez terminado el trabajo del círculo exterior de Havona y superado el curso impartido, las ayudantes de los peregrinos llevan a los que tienen a su cargo al mundo piloto del siguiente círculo y los confían al cuidado de las guías de la supremacía. Las ayudantes de los peregrinos se quedan siempre con ellos durante una temporada para contribuir a que el traslado sea agradable y provechoso a la vez."
     },
     {
       "type": "section",
@@ -1153,8 +1153,8 @@
       "standardReferenceId": "26:6.0",
       "pageReference": null,
       "sortId": "1.026.006.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Supremacía",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la supremacía",
       "markdown": null
     },
     {
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "26:6.1",
       "pageReference": "292.1",
       "sortId": "1.026.006.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Supremacía",
-      "markdown": "Los ascendentes del espacio son designados «graduados espirituales» cuando se los traslada del séptimo al sexto círculo y se los coloca bajo la supervisión inmediata de los guías de la supremacía. Estos guías no deben ser confundidos con los Guías de los Graduados —que pertenecen a las Personalidades más Elevadas del Espíritu Infinito— quienes, con sus asociados servitales, ministran en todos los círculos de Havona tanto para los peregrinos ascendentes como para los descendentes. Los guías de la supremacía funcionan tan sólo en el sexto círculo del universo central."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la supremacía",
+      "markdown": "Cuando se trasladan del séptimo al sexto círculo y se ponen bajo la supervisión directa de las guías de la supremacía, los ascendentes del espacio se denominan «graduados espirituales». Estas guías no deben confundirse con los Guías de los Graduados —pertenecientes a las personalidades más altas del Espíritu Infinito— que, junto con sus compañeros servitales, aportan su ministerio en todos los circuitos de Havona tanto a los peregrinos ascendentes como a los descendentes. Las guías de la supremacía solo actúan en el sexto círculo del universo central."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "26:6.2",
       "pageReference": "292.2",
       "sortId": "1.026.006.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Supremacía",
-      "markdown": "Es en este círculo que los ascendentes logran una nueva comprensión de la Divinidad Suprema. A lo largo de sus largas carreras en los universos evolucionarios, los peregrinos del tiempo han estado experimentando una conciencia creciente de la realidad de un supercontrol todopoderoso de las creaciones espacio-temporales. Aquí, en este circuito de Havona, se aproximan al encuentro con la fuente en el universo central de la unidad espaciotemporal —a la realidad espiritual de Dios el Supremo."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la supremacía",
+      "markdown": "Es en este círculo donde los ascendentes consiguen una nueva comprensión de la Divinidad Suprema. A lo largo de sus largas carreras en los universos evolutivos, los peregrinos del tiempo han ido experimentando una consciencia creciente de la realidad de un sobrecontrol todopoderoso de las creaciones del espacio-tiempo. Aquí, en este circuito de Havona, se acercan a su encuentro con la fuente de la unidad del espacio-tiempo en el universo central: la realidad espiritual de Dios Supremo."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "26:6.3",
       "pageReference": "292.3",
       "sortId": "1.026.006.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Supremacía",
-      "markdown": "Estoy un tanto perdido en cuanto a explicar lo que ocurre en este círculo. No existe una presencia personalizada de la Supremacía que sea perceptible para los seres ascendentes. En ciertos aspectos, nuevas relaciones con el Séptimo Espíritu Rector compensan esta falta de contacto con el Ser Supremo. Pero aparte de nuestra incapacidad para entender la técnica, cada criatura ascendente parece sufrir un crecimiento transformador, una nueva integración de conciencia, una nueva espiritualización de propósito, una nueva sensibilización para la divinidad, que casi no se pueden explicar satisfactoriamente sin presuponer la actividad no revelada del Ser Supremo. Para aquellos entre nosotros que han observado estas transacciones misteriosas, parecería que Dios el Supremo estuviese otorgándose afectuosamente a sus hijos experienciales, hasta los límites mismos de la capacidad experiencial de ellos, esos enaltecimientos de la comprensión intelectual, el discernimiento espiritual, y el alcance de la personalidad que tanto necesitarán, en todos sus esfuerzos para penetrar el nivel de divinidad de la Trinidad de la Supremacía, para lograr las Deidades eternas y existenciales del Paraíso."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la supremacía",
+      "markdown": "No sé muy bien cómo explicar lo que ocurre en este círculo. No hay ninguna presencia personalizada de la Supremacía que sea perceptible para los ascendentes. En ciertos aspectos, unas nuevas relaciones con el séptimo Espíritu Maestro compensan esta imposibilidad de ponerse en contacto con el Ser Supremo. Pero independientemente de nuestra incapacidad para captar la técnica, cada criatura ascendente parece experimentar un crecimiento transformador, una nueva integración de la consciencia, una nueva espiritualización del propósito, una nueva sensibilidad hacia la divinidad, que no se pueden explicar satisfactoriamente sin suponer la actividad no revelada del Ser Supremo. Para aquellos de nosotros que hemos observado estas misteriosas operaciones parece como si Dios Supremo estuviera otorgando afectuosamente a sus hijos experienciales, hasta los límites mismos de su capacidad experiencial, el aumento de comprensión intelectual, visión interior espiritual y alcance de la personalidad que tanto necesitarán en todos sus esfuerzos por penetrar en el nivel de divinidad de la Trinidad de la Supremacía para lograr a las Deidades eternas y existenciales del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "26:6.4",
       "pageReference": "292.4",
       "sortId": "1.026.006.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Supremacía",
-      "markdown": "Cuando los guías de la supremacía consideran que sus discípulos están maduros para el avance, los llevan ante la comisión de setenta, un grupo mezclado que actúan como examinadores en el mundo piloto del circuito número seis. Después de satisfacer a esta comisión en cuanto a su comprensión del Ser Supremo y de la Trinidad de la Supremacía, certifican a los peregrinos para su traslado al quinto circuito."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la supremacía",
+      "markdown": "Cuando las guías de la supremacía consideran que sus alumnos están maduros para avanzar, los llevan ante la comisión de los setenta, un grupo mixto que actúa como examinador en el mundo piloto del circuito número seis. Después de demostrar ante esta comisión una comprensión satisfactoria del Ser Supremo y de la Trinidad de la Supremacía, los peregrinos son declarados aptos para ser trasladados al quinto circuito."
     },
     {
       "type": "section",
@@ -1243,8 +1243,8 @@
       "standardReferenceId": "26:7.0",
       "pageReference": null,
       "sortId": "1.026.007.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
       "markdown": null
     },
     {
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "26:7.1",
       "pageReference": "292.5",
       "sortId": "1.026.007.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Los guías de la Trinidad son los ministros incansables del quinto círculo de la capacitación en Havona de los peregrinos en avance del tiempo y del espacio. Los graduados espirituales se designan aquí «candidatos para la aventura de la Deidad» puesto que es en este círculo, bajo la dirección de los guías de la Trinidad, donde los peregrinos reciben instrucción avanzada sobre la Trinidad divina, en preparación para el intento de lograr el reconocimiento de la personalidad del Espíritu Infinito. Aquí los peregrinos ascendentes descubren lo que significa el verdadero estudio y el real esfuerzo mental al comenzar a discernir la naturaleza del esfuerzo espiritual más oneroso y aún más arduo que se requerirá para satisfacer las demandas del elevado objetivo establecido para su logro en los mundos de este circuito."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "Las guías de la Trinidad son las incansables ministras del quinto círculo de formación havonita de los peregrinos del tiempo y el espacio en su avanzar. Los graduados espirituales se denominan aquí «candidatos para la aventura de la Deidad» puesto que es en este círculo, y bajo la dirección de las guías de la Trinidad, donde los peregrinos reciben instrucción avanzada sobre la Trinidad divina como preparación para su intento de conseguir el reconocimiento de la personalidad del Espíritu Infinito. Y ahí descubren los peregrinos ascendentes lo que significa el verdadero estudio y el auténtico esfuerzo mental cuando empiezan a apreciar la naturaleza del empeño espiritual aún más riguroso y mucho más arduo que se requerirá para satisfacer las exigencias de la alta meta establecida para ellos en los mundos de este circuito."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "26:7.2",
       "pageReference": "292.6",
       "sortId": "1.026.007.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Altamente fieles y eficientes son los guías de la Trinidad; y cada peregrino recibe la atención total, y disfruta de todo el afecto, de un supernafín secundario perteneciente a esta orden. Un peregrino del tiempo no encontraría jamás a la primera persona alcanzable de la Trinidad del Paraíso si no fuese por la ayuda y asistencia de estos guías y de las huestes de otros seres espirituales que se ocupan de instruir a los seres ascendentes respecto de la naturaleza y técnica de la aventura venidera de la Deidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "Las guías de la Trinidad son sumamente fieles y eficientes, y cada peregrino recibe la atención indivisa y disfruta del afecto total de una supernafín secundaria perteneciente a este orden. Un peregrino del tiempo no encontraría nunca a la primera persona alcanzable de la Trinidad del Paraíso si no fuera por la ayuda y la asistencia de estas guías y de otros muchos seres espirituales dedicados a instruir a los seres ascendentes sobre la naturaleza y la técnica de la aventura de la Deidad que se avecina."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "26:7.3",
       "pageReference": "293.1",
       "sortId": "1.026.007.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Después de completar el curso de capacitación en este circuito, los guías de la Trinidad llevan a sus discípulos a su mundo piloto y los presentan ante una de las muchas comisiones triunas que funcionan como examinadores y certificadores de los candidatos para la aventura de la Deidad. Estas comisiones consisten en un semejante de los finalistas, uno de los directores de conducta de la orden de los supernafines primarios, y un Mensajero Solitario del espacio o un Hijo Trinidizado del Paraíso."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "Tras completar el curso de formación en este circuito, las guías de la Trinidad llevan a sus alumnos a su mundo piloto y los presentan ante una de las muchas comisiones trinas que funcionan como examinadoras y certificadoras de los candidatos para la aventura de la Deidad. Estas comisiones están compuestas por un miembro de los finalitarios, una de las directoras de conducta del orden de las supernafines primarias y por un Mensajero Solitario del espacio o un Hijo Trinizado del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "26:7.4",
       "pageReference": "293.2",
       "sortId": "1.026.007.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Cuando el alma ascendente en realidad sale hacia el Paraíso, va acompañada tan sólo por un trío de tránsito: el asociado superáfico del círculo, el Guía de los Graduados y el asociado servital de este último, siempre presente. Estas excursiones de los círculos de Havona al Paraíso son viajes de prueba; los ascendentes todavía no son de estado paradisiaco. No logran estado de residente en el Paraíso hasta no haber pasado a través del reposo final del tiempo, posteriormente al logro del Padre Universal y el salvoconducto final por los circuitos de Havona. No es sino hasta después del reposo divino cuando participan de la «esencia de la divinidad» y del «espíritu de la supremacía» comenzando así realmente a funcionar en el círculo de la eternidad y en la presencia de la Trinidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "Cuando un alma ascendente parte efectivamente hacia el Paraíso solo la acompaña el trío de tránsito: la compañera superáfica del círculo, el Guía de los Graduados y el inseparable compañero servital de este último. Estas excursiones desde los círculos de Havona al Paraíso son viajes de prueba; los ascendentes no tienen aún el estatus paradisiaco. No consiguen el estatus residencial en el Paraíso hasta que han pasado por el descanso terminal del tiempo después de haber logrado al Padre Universal y recibido la autorización definitiva de paso por los circuitos de Havona. No comparten la «esencia de la divinidad» y el «espíritu de la supremacía» hasta después del descanso divino, y es entonces cuando empiezan realmente a actuar en el círculo de la eternidad y en presencia de la Trinidad."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "26:7.5",
       "pageReference": "293.3",
       "sortId": "1.026.007.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Los compañeros del ascendente en el trío de tránsito no están obligados a capacitarlo para que ubique la presencia geográfica de la luminosidad espiritual de la Trinidad, sino más bien a ofrecer toda asistencia a un peregrino en su difícil tarea de reconocer, discernir y comprender el Espíritu Infinito suficientemente como para que esta comprensión confirme un reconocimiento de su personalidad. Todo peregrino ascendente en el Paraíso puede discernir la presencia geográfica o la ubicación de la Trinidad, la gran mayoría puede ponerse en contacto con la realidad intelectual de las Deidades, especialmente la Tercera Persona, pero no todos pueden reconocer o siquiera parcialmente comprender la realidad de la presencia espiritual del Padre y del Hijo. Aún más difícil es la comprensión espiritual aun mínima del Padre Universal."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "No se pide al trío de tránsito que acompaña al ascendente que le ayude a localizar la presencia geográfica de la luminosidad espiritual de la Trinidad, sino que ofrezca al peregrino toda la asistencia posible en su difícil tarea de reconocer, percibir y comprender suficientemente al Espíritu Infinito como para que esto constituya un reconocimiento de su personalidad. En el Paraíso cualquier peregrino ascendente puede percibir la presencia geográfica o posicional de la Trinidad; una gran mayoría es capaz de entrar en contacto con la realidad intelectual de las Deidades, especialmente de la Tercera Persona, pero no todos pueden reconocer o ni siquiera comprender parcialmente la realidad de la presencia espiritual del Padre y del Hijo. Y es aún más difícil lograr siquiera un mínimo de comprensión espiritual del Padre Universal."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "26:7.6",
       "pageReference": "293.4",
       "sortId": "1.026.007.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías de la Trinidad",
-      "markdown": "Pocas veces deja de consumarse la búsqueda del Espíritu Infinito, y cuando sus sujetos han triunfado en esta fase de la aventura de la Deidad, los guías de la Trinidad se preparan para transferirlos al ministerio de los que hallan al Hijo, en el cuarto círculo de Havona."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías de la Trinidad",
+      "markdown": "Hay muy pocos fracasos en la consumación de la búsqueda del Espíritu Infinito, y cuando los ascendentes que tienen a su cargo han triunfado en esta fase de la aventura de la Deidad, las guías de la Trinidad se preparan para transferirlos al ministerio de las descubridoras del Hijo, en el cuarto círculo de Havona."
     },
     {
       "type": "section",
@@ -1369,8 +1369,8 @@
       "standardReferenceId": "26:8.0",
       "pageReference": null,
       "sortId": "1.026.008.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
       "markdown": null
     },
     {
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "26:8.1",
       "pageReference": "293.5",
       "sortId": "1.026.008.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
-      "markdown": "El cuarto circuito de Havona se denomina a veces el «circuito de los Hijos». Desde los mundos de este circuito, los peregrinos ascendentes van al Paraíso para alcanzar un contacto comprensivo con el Hijo Eterno, mientras que en los mundos de este circuito los peregrinos descendentes logran una nueva comprensión de la naturaleza y misión de los Hijos Creadores del tiempo y del espacio. Existen siete mundos en este circuito, en los cuales los cuerpos de reserva de los Micaeles del Paraíso mantienen escuelas especiales de ministerio mutuo tanto para los peregrinos ascendentes como para los descendentes; y es en estos mundos de los Hijos Micael donde los peregrinos del tiempo y los peregrinos de la eternidad llegan a su primera comprensión verdaderamente mutua unos de los otros. En muchos aspectos, las experiencias de este circuito son las más fascinantes de la entera estadía en Havona."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
+      "markdown": "El cuarto circuito de Havona se denomina a veces el «circuito de los Hijos». Desde los mundos de este circuito los peregrinos ascendentes van al Paraíso para iniciarse en la comprensión del Hijo Eterno, mientras que en los mundos de este circuito los peregrinos descendentes consiguen una nueva comprensión de la naturaleza y la misión de los Hijos Creadores del tiempo y el espacio. Hay siete mundos en este circuito en los que el cuerpo de reserva de los Migueles del Paraíso mantiene escuelas especiales de servicio para el ministerio mutuo tanto de los peregrinos ascendentes como de los descendentes. Y es en esos mundos de los Hijos Miguel donde los peregrinos del tiempo y los peregrinos de la eternidad llegan a comprenderse de verdad por primera vez. En muchos aspectos las experiencias de este circuito son las más fascinantes de toda la estancia en Havona."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "26:8.2",
       "pageReference": "294.1",
       "sortId": "1.026.008.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
-      "markdown": "Los que hallan al Hijo son los ministros superáficos de los mortales ascendentes del cuarto circuito. Además de la tarea general de preparar a sus candidatos para la comprensión de las relaciones del Hijo Eterno con la Trinidad, estos halladores del Hijo deben instruir a sus sujetos tan plenamente como para asegurar que estos triunfen: primero, en la comprensión espiritual adecuada del Hijo; segundo, en el reconocimiento satisfactorio de la personalidad del Hijo; y tercero, en la diferenciación apropiada del Hijo respecto de la personalidad del Espíritu Infinito."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
+      "markdown": "Las descubridoras del Hijo son las ministras superáficas de los mortales ascendentes del cuarto circuito. Además del trabajo general de preparar a sus candidatos para que comprendan las relaciones del Hijo Eterno con la Trinidad, estas descubridoras del Hijo deben instruir tan plenamente a los que tienen a su cargo como para lograr su triunfo total en tres aspectos: primero, en la adecuada comprensión espiritual del Hijo; segundo, en el reconocimiento satisfactorio de la personalidad del Hijo; y tercero, en la correcta diferenciación del Hijo de la personalidad del Espíritu Infinito."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "26:8.3",
       "pageReference": "294.2",
       "sortId": "1.026.008.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
-      "markdown": "Después de lograr el Espíritu Infinito, no se llevan a cabo más exámenes. Las pruebas de los círculos interiores son las actuaciones de los candidatos peregrinos cuando se encuentran en el abrazo del manto de las Deidades. El avance está determinado puramente por la espiritualidad del individuo, y nadie sino los dioses presumen juzgar esta posesión. En caso de fracaso, no se dan nunca razones, ni tampoco se critica ni se regaña a los candidatos mismos ni a sus varios tutores y guías. En el Paraíso, la desilusión no se considera nunca una derrota; el postergamiento nunca se mira como una desgracia; los fracasos aparentes del tiempo no se confunden jamás con los atrasos significativos de la eternidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
+      "markdown": "Una vez logrado el Espíritu Infinito, no hay más exámenes. Las pruebas de los círculos interiores son las actuaciones de los candidatos peregrinos cuando están envueltos en el abrazo de las Deidades. El avance está determinado únicamente por la espiritualidad del individuo, y nadie salvo los Dioses se atreve a juzgar si la posee. En caso de fracaso no se dan nunca razones, ni tampoco se censura ni critica nunca ni a los propios candidatos ni a sus diversos tutores y guías. En el Paraíso la decepción nunca se considera derrota; el aplazamiento nunca es visto como una desgracia; nunca se confunden los fracasos aparentes del tiempo con los retrasos significativos de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "26:8.4",
       "pageReference": "294.3",
       "sortId": "1.026.008.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
-      "markdown": "No muchos peregrinos experimentan el atraso del fracaso aparente en la aventura de la Deidad. Casi todos alcanzan al Espíritu Infinito, aunque ocasionalmente un peregrino del superuniverso número uno no consigue triunfar la primera vez. Los peregrinos que alcanzan al espíritu raramente fracasan en hallar al Hijo; de los que fracasan en la primera aventura, casi todos provienen de los superuniversos tres y cinco. La gran mayoría de aquellos que fracasan en la primera aventura para obtener al Padre, después de hallar tanto al Espíritu como al Hijo, provienen del superuniverso número seis, aunque algunos de los números dos y tres pasan por la misma experiencia de fracaso. Todo esto parece indicar claramente que hay razón buena y suficiente para estos fracasos aparentes; en realidad, sencillamente son éstos atrasos ineludibles."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
+      "markdown": "Son pocos los peregrinos que experimentan el retraso de un aparente fracaso en la aventura de la Deidad. Casi todos logran al Espíritu Infinito, aunque ocasionalmente algún peregrino del superuniverso número uno no lo consigue al primer intento. Los peregrinos que logran al Espíritu raramente fracasan en descubrir al Hijo. Casi todos los que fracasan en la primera aventura provienen de los superuniversos tres y cinco. La gran mayoría de los que fracasan en la primera aventura para lograr al Padre, después de descubrir tanto al Espíritu como al Hijo, provienen del superuniverso número seis, aunque algunos de los procedentes de los números dos y tres tampoco tienen éxito. Todo esto parece indicar con claridad que hay buenas razones suficientes para estos aparentes fracasos; en realidad son simplemente retrasos inevitables."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "26:8.5",
       "pageReference": "294.4",
       "sortId": "1.026.008.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Que Hallan al Hijo",
-      "markdown": "Los candidatos derrotados de la aventura de la Deidad se confían en la jurisdicción de los jefes de asignación, un grupo de supernafines primarios, y se los envía de vuelta al trabajo de los reinos del espacio por un período de no menos de un milenio. Nunca regresan al superuniverso de su natalidad, siempre a esa supercreación más propicia para su nueva capacitación en preparación para la segunda aventura de la Deidad. Después de este servicio, por su propia voluntad, regresan al círculo exterior de Havona, inmediatamente se los acompaña al círculo de su carrera interrumpida y vuelven inmediatamente a reanudar sus preparaciones para la aventura de la Deidad. Los supernafines secundarios siempre pilotean triunfalmente a sus sujetos en el segundo intento y los mismos ministros superáficos y otros guías siempre asisten a estos candidatos durante esta segunda aventura."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las descubridoras del Hijo",
+      "markdown": "Los candidatos fallidos a la aventura de la Deidad se ponen bajo la jurisdicción de las jefas de asignación, un grupo de supernafines primarias, y son devueltos al trabajo en los dominios del espacio por un periodo de al menos un milenio. No vuelven nunca a su superuniverso de nacimiento, sino siempre a la supercreación más conveniente para la nueva formación preparatoria de su segunda aventura de la Deidad. Terminado este servicio, vuelven por iniciativa propia al círculo exterior de Havona, se les escolta inmediatamente al círculo donde se interrumpió su carrera y reanudan en el acto su preparación para la aventura de la Deidad. Las supernafines secundarias consiguen siempre guiar con éxito a los ascendentes que tienen a su cargo en el segundo intento. Las mismas ministras superáficas y otros guías atienden siempre a estos candidatos durante su segunda aventura."
     },
     {
       "type": "section",
@@ -1477,8 +1477,8 @@
       "standardReferenceId": "26:9.0",
       "pageReference": null,
       "sortId": "1.026.009.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías del Padre",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías del Padre",
       "markdown": null
     },
     {
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "26:9.1",
       "pageReference": "294.5",
       "sortId": "1.026.009.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías del Padre",
-      "markdown": "Cuando el alma peregrinante alcanza el tercer círculo de Havona, ingresa a la protección de los guías del Padre, o sea, los ministros superáficos más antiguos, más altamente peritos, y más expertos. En los mundos de este circuito, los Guías del Padre mantienen escuelas de sabiduría y facultades de técnica en las que todos los seres que habitan el universo central sirven como maestros. No se deja de lado nada de lo que pueda servir a la criatura del tiempo en esta aventura trascendental de logro de la eternidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías del Padre",
+      "markdown": "Cuando el alma peregrina alcanza el tercer círculo de Havona entra bajo la tutela de las guías del Padre, las más antiguas, competentes y experimentadas de las ministras superáficas. En los mundos de este circuito las guías del Padre mantienen escuelas de sabiduría y facultades de técnica en las que todos los seres que habitan el universo central sirven como maestros. No se descuida nada que pueda beneficiar a la criatura del tiempo en la aventura trascendental de logro de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "26:9.2",
       "pageReference": "294.6",
       "sortId": "1.026.009.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías del Padre",
-      "markdown": "El logro del Padre Universal es el pasaporte para la eternidad, a pesar de los circuitos que aún quedan por atravesar. Es por lo tanto una ocasión pletórica, en el mundo piloto del círculo número tres, cuando el trío de tránsito anuncia que la última aventura del tiempo está por comenzar; que otra criatura del espacio intenta ingresar al Paraíso a través de las compuertas de la eternidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías del Padre",
+      "markdown": "Lograr al Padre Universal es el pasaporte a la eternidad a pesar de los circuitos que quedan por atravesar. Por eso supone un gran acontecimiento para el mundo piloto del círculo número tres cuando el trío de tránsito anuncia que la última aventura del tiempo está a punto de comenzar, que otra criatura del espacio busca entrar en el Paraíso por los portales de la eternidad."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "26:9.3",
       "pageReference": "295.1",
       "sortId": "1.026.009.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías del Padre",
-      "markdown": "La prueba del tiempo está casi concluida; la carrera de la eternidad se ha corrido casi por entero. Los días de incertidumbre están terminando; la tentación de la duda se desvanece; el mandato de ser *perfecto* ha sido obedecido. Desde el fondo mismo de la existencia inteligente, la criatura del tiempo y personalidad material ha ascendido las esferas evolucionarias del espacio, probando así la posibilidad del plan de ascensión, mientras demuestra por siempre la justicia y rectitud del mandato del Padre Universal a sus criaturas humildes de los mundos: «Sed perfectos, así como yo soy perfecto»."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías del Padre",
+      "markdown": "La prueba del tiempo está casi superada, la carrera hacia la eternidad casi terminada. Los días de incertidumbre llegan a su fin; la tentación de la duda se desvanece; el mandato de ser *perfecto* se ha obedecido. Desde el fondo mismo de la existencia inteligente, la criatura del tiempo de personalidad material ha ascendido por las esferas evolutivas del espacio. Con ello ha probado la viabilidad del plan de ascensión y ha demostrado para siempre la justicia y la rectitud de la orden del Padre Universal a sus humildes criaturas de los mundos: «Sed perfectos como yo soy perfecto»."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "26:9.4",
       "pageReference": "295.2",
       "sortId": "1.026.009.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Guías del Padre",
-      "markdown": "Paso a paso, vida a vida, mundo a mundo, la carrera ascendente ha sido conquistada, la meta de la Deidad se ha logrado. La supervivencia es completa en perfección, y la perfección es pletórica en la supremacía de la divinidad. El tiempo se pierde en la eternidad; el espacio se hunde en la identidad y armonía adoradora con el Padre Universal. Las transmisiones de Havona envían al espacio informes de gloria, la buena nueva de que en verdad las criaturas conscientes de naturaleza animal y origen material se han tornado, a través de la ascensión evolucionaria, en realidad y eternamente en los hijos perfeccionados de Dios."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las guías del Padre",
+      "markdown": "Paso a paso, vida a vida, mundo a mundo, se ha dominado la carrera ascendente, se ha alcanzado la meta de la Deidad. La supervivencia está completa en su perfección y la perfección está repleta en la supremacía de la divinidad. El tiempo se pierde en la eternidad; el espacio queda sumergido en identidad y armonía adoradora con el Padre Universal. Las difusiones de Havona destellan informes de gloria hacia el espacio con la buena nueva de que, en verdad, las criaturas diligentes de naturaleza animal y origen material se han convertido real y eternamente, a través de la ascensión evolutiva, en los hijos perfeccionados de Dios."
     },
     {
       "type": "section",
@@ -1567,8 +1567,8 @@
       "standardReferenceId": "26:10.0",
       "pageReference": null,
       "sortId": "1.026.010.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
       "markdown": null
     },
     {
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "26:10.1",
       "pageReference": "295.3",
       "sortId": "1.026.010.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Los asesores y consejeros superáficos del segundo círculo son instructores de los hijos del tiempo sobre la carrera de la eternidad. El logro del Paraíso comprende responsabilidades de un orden nuevo y más elevado, y la estadía en el segundo círculo proporciona amplia oportunidad para recibir el consejo útil de estos supernafines dedicados."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Las consejeras y asesoras superáficas del segundo círculo son las instructoras de los hijos del tiempo en lo que respecta a la carrera de la eternidad. Alcanzar el Paraíso conlleva responsabilidades de un orden nuevo y más alto, y la estancia en el segundo círculo proporciona abundantes oportunidades de recibir los provechosos consejos de estas fieles supernafines."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "26:10.2",
       "pageReference": "295.4",
       "sortId": "1.026.010.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Aquellos que no triunfan en el primer esfuerzo del logro de la Deidad, avanzan del círculo que presenciara su fracaso directamente al segundo círculo antes de ser enviados nuevamente al servicio del superuniverso. De este modo, los asesores y consejeros también sirven como consejeros y consoladores de estos peregrinos desalentados. Acaban ellos de enfrentarse con su desilusión más grande, que no difiere de manera alguna de la larga lista de tales experiencias por las que han trepado, como en una escala, del caos a la gloria: excepto en su magnitud. Estos seres son aquellos que han bebido de la copa experiencial hasta el fondo; y yo he observado que ellos retornan transitoriamente a los servicios de los superuniversos como el tipo más elevado de ministradores amantes para los hijos del tiempo y las desilusiones temporales."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Los que no tienen éxito en el primer intento por lograr la Deidad son adelantados directamente desde el círculo donde fracasaron hasta el segundo círculo antes de ser devueltos al servicio de los superuniversos. De esta forma las consejeras y asesoras sirven también como consejeras y consoladoras de los peregrinos decepcionados. Acaban de sufrir su mayor decepción, que solo difiere en magnitud de la larga lista de experiencias de este tipo sobre las que ascendieron, como por una escala, del caos a la gloria. Son los que han apurado el cáliz experiencial hasta las heces, y he observado que regresan temporalmente al servicio de los superuniversos para atender con el máximo afecto a los hijos del tiempo en sus decepciones temporales."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "26:10.3",
       "pageReference": "295.5",
       "sortId": "1.026.010.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Después de una larga estadía en el circuito número dos, los sujetos de la desilusión son examinados por un concilio de perfección en el mundo piloto de este círculo y se les certifica como habiendo pasado la prueba de Havona; y esto, en cuanto a lo que respecta al estado no espiritual, les otorga la misma posición en los universos del tiempo que tendrían si hubiesen tenido éxito en la aventura de la Deidad. El espíritu de estos candidatos era totalmente aceptable; su fracaso era inherente a alguna fase de la técnica de acercamiento o alguna porción de sus antecedentes experienciales."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Después de una larga estancia en el circuito número dos, los candidatos fallidos son examinados por un consejo de perfección que se establece en el mundo piloto de este círculo y se certifica que han pasado la prueba de Havona. Esto les otorga, en cuanto a su estatus no espiritual, la misma posición en los universos del tiempo que si hubieran tenido éxito en la aventura de la Deidad. La actitud de estos candidatos era totalmente aceptable; su fracaso se debió a alguna fase del proceso de acercamiento o a algún aspecto de su historia experiencial."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "26:10.4",
       "pageReference": "295.6",
       "sortId": "1.026.010.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Luego, los asesores del círculo los llevan ante los jefes de asignación en el Paraíso y son enviados de vuelta al servicio del tiempo en los mundos del espacio; y salen con regocijo y alegría a las tareas de días y edades anteriores. En otro momento volverán al círculo de su mayor desilusión e intentarán nuevamente la aventura de la Deidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Son llevados entonces por las consejeras del círculo ante las jefas de asignación que están en el Paraíso y remitidos al servicio del tiempo en los mundos del espacio; y parten con gozo y alegría a retomar sus tareas de tiempos y edades anteriores. Más adelante volverán al círculo donde se llevaron su mayor decepción para intentar de nuevo la aventura de la Deidad."
     },
     {
       "type": "paragraph",
@@ -1657,9 +1657,9 @@
       "standardReferenceId": "26:10.5",
       "pageReference": "296.1",
       "sortId": "1.026.010.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Para los peregrinos triunfantes, se ha acabado en el segundo circuito el estímulo de la incertidumbre evolucionaria, pero la aventura de la asignación eterna aún no ha comenzado; y aunque la estadía en este círculo sea totalmente placentera y altamente beneficiosa, carece de algo del entusiasmo motivado por la anticipación de los círculos anteriores. Muchos son los peregrinos que, en estos momentos, echan una mirada hacia atrás, hacia la larga, muy larga lucha pasada, con envidia regocijada, deseando realmente poder de alguna manera regresar a los mundos del tiempo y comenzar el viaje otra vez, así como vosotros los mortales, al acercaros a la edad avanzada, a veces echáis una mirada hacia atrás, hacia las luchas de la juventud y de los primeros años de la vida y verdaderamente deseáis vivir otra vez vuestra vida."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Para los peregrinos triunfantes el estímulo de la incertidumbre evolutiva se acaba en el segundo circuito, pero la aventura de la misión eterna aún no ha comenzado. Y aunque la estancia en este círculo es totalmente placentera y muy provechosa, le falta algo del entusiasmo expectante de los círculos anteriores. Muchos son los peregrinos que en ese momento vuelven la vista con alegre envidia hacia la larguísima lucha pasada, y desearían realmente poder regresar de alguna forma a los mundos del tiempo y volver a empezarlo todo, igual que vosotros los mortales, al acercaros a la edad avanzada, recordáis a veces las luchas de la juventud y de los primeros años y desearíais sinceramente poder vivir vuestra vida una vez más."
     },
     {
       "type": "paragraph",
@@ -1675,9 +1675,9 @@
       "standardReferenceId": "26:10.6",
       "pageReference": "296.2",
       "sortId": "1.026.010.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Pero la travesía del círculo más interior está frente a ellos, y poco más adelante terminará el último reposo de tránsito, y comenzará la nueva aventura de la carrera eterna. Los asesores y consejeros del segundo círculo comienzan la preparación de sus sujetos para este reposo grande y final, el sueño inevitable que siempre sobreviene entre las etapas de época de la carrera ascendente."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Pero ahora tienen por delante la travesía del círculo más interior. Poco después terminará el último sueño de tránsito y empezará la nueva aventura de la carrera eterna. Las consejeras y asesoras del segundo círculo empiezan a preparar a los ascendentes que tienen a su cargo para este gran descanso final, el sueño inevitable que media siempre entre las etapas que marcan época en la carrera ascendente."
     },
     {
       "type": "paragraph",
@@ -1693,9 +1693,9 @@
       "standardReferenceId": "26:10.7",
       "pageReference": "296.3",
       "sortId": "1.026.010.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Asesores y los Consejeros",
-      "markdown": "Cuando los peregrinos ascendentes que han logrado al Padre Universal completan la experiencia del segundo círculo, sus Guías de los Graduados siempre a su lado promulgan la orden que los admite al círculo final. Estos guías conducen personalmente a sus sujetos hasta el círculo interior y los confían allí a la custodia de los complementos del reposo, la última de aquellas órdenes de supernafines secundarios asignada al ministerio de los peregrinos del tiempo en los circuitos de los mundos de Havona."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las consejeras y asesoras",
+      "markdown": "Cuando los peregrinos ascendentes que han alcanzado al Padre Universal completan la experiencia del segundo círculo, las Guías de los Graduados que siempre los acompañan emiten la orden de su admisión en el círculo final. Estas guías los conducen personalmente hasta el círculo interior y los ponen allí bajo la custodia de las complementadoras del descanso, el último de los órdenes de supernafines secundarias asignados al ministerio de los peregrinos del tiempo en los circuitos de los mundos de Havona."
     },
     {
       "type": "section",
@@ -1711,8 +1711,8 @@
       "standardReferenceId": "26:11.0",
       "pageReference": null,
       "sortId": "1.026.011.000",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
       "markdown": null
     },
     {
@@ -1729,9 +1729,9 @@
       "standardReferenceId": "26:11.1",
       "pageReference": "296.4",
       "sortId": "1.026.011.001",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Buena parte del tiempo de los seres ascendentes en el último circuito se dedica a la continuación del estudio de los problemas inminentes en la residencia en el Paraíso. Una vasta y diversa hueste de seres, cuya mayoría no son revelados, son residentes permanentes y transitorios en este anillo interior de los mundos de Havona. La interrelación de estos múltiples tipos provee a los complementos superáficos del reposo con un medio ambiente rico en situaciones que utilizan eficazmente para avanzar la instrucción de los peregrinos ascendentes, especialmente en cuanto se refiere a los problemas de ajuste de los muchos grupos de seres que pronto serán encontrados en el Paraíso."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Gran parte del tiempo que pasan los ascendentes en el último circuito se dedica a seguir estudiando los problemas inminentes de su residencia en el Paraíso. Una inmensa y diversa multitud de seres, la mayoría no revelados, reside de forma permanente o transitoria en este anillo interior de los mundos de Havona. La mezcla de estos múltiples tipos proporciona a las complementadoras superáficas del descanso un ambiente rico en situaciones que utilizan eficazmente para promover la educación de los peregrinos ascendentes, sobre todo en lo relativo a los problemas de adaptación a los muchos grupos de seres que pronto han de encontrar en el Paraíso."
     },
     {
       "type": "paragraph",
@@ -1747,9 +1747,9 @@
       "standardReferenceId": "26:11.2",
       "pageReference": "296.5",
       "sortId": "1.026.011.002",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Entre aquellos que moran en este círculo interior están los hijos trinidizados por las criaturas. Los supernafines primarios y secundarios son los custodios generales de los cuerpos conjuntos de estos hijos, incluyendo a los vástagos trinidizados por los finalistas mortales y a progenies similares de los Ciudadanos del Paraíso. Algunos de estos hijos son abrazados por la Trinidad y comisionados en los supergobiernos, otros tienen asignaciones varias, pero la gran mayoría están siendo reunidos en el cuerpo conjunto en los mundos de la perfección en el círculo interior de Havona. Aquí se les prepara para una tarea futura, bajo la supervisión de los supernafines, por un cuerpo especial e innominado de elevados Ciudadanos del Paraíso que fueron, antes de los tiempos de Grandfanda, los primeros asistentes ejecutivos de los Eternos de los Días. Existen muchas razones para conjeturar que estos dos grupos singulares de seres trinidizados trabajarán juntos en un futuro remoto; y una de estas razones es su destino común en las reservas del Cuerpo Paradisiaco de los Finalistas Trinidizados."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Entre los que moran en este círculo interior están los hijos trinizados por criaturas. Las supernafines primarias y secundarias son las encargadas habituales de custodiar el cuerpo conjunto de estos hijos que incluye la descendencia trinizada de los finalitarios mortales y la progenie similar de los Ciudadanos del Paraíso. Algunos de estos hijos han sido abrazados por la Trinidad y comisionados en los supergobiernos, otros tienen asignaciones diversas, pero la gran mayoría están siendo reunidos en el cuerpo conjunto que está en los mundos perfectos del círculo interior de Havona. Allí, bajo la supervisión de las supernafines, están siendo preparados para algún trabajo futuro por un cuerpo especial y sin nombre de altos Ciudadanos del Paraíso que fueron los primeros asistentes ejecutivos de los Eternos de los Días antes de los tiempos de Grandfanda. Hay muchas razones para suponer que estos dos grupos excepcionales de seres trinizados trabajarán juntos en un futuro distante, y una de las principales es su destino común en las reservas del Cuerpo de los Finalitarios Trinizados del Paraíso."
     },
     {
       "type": "paragraph",
@@ -1765,9 +1765,9 @@
       "standardReferenceId": "26:11.3",
       "pageReference": "296.6",
       "sortId": "1.026.011.003",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "En este circuito interior, los peregrinos ascendentes y descendentes fraternizan entre sí y con los hijos trinidizados por las criaturas. Como sus padres, estos hijos derivan grandes beneficios de la interasociación, y es la misión especial de los supernafines facilitar y asegurar la cofraternidad de los hijos trinidizados de los fina listas mortales y de los hijos trinidizados de los Ciudadanos del Paraíso. Los complementos del reposo superáficos no se ocupan tanto de la capacitación sino de la promoción de una asociación comprensiva entre los diversos grupos."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "En este circuito más interior, los peregrinos ascendentes y descendentes fraternizan entre sí y con los hijos trinizados por criaturas. Igual que sus padres, estos hijos obtienen grandes beneficios de su interrelación, y es misión especial de las supernafines facilitar y asegurar la confraternización entre los hijos trinizados de los finalitarios mortales y los hijos trinizados de los Ciudadanos del Paraíso. Las complementadoras superáficas del descanso no están tan interesadas en su formación como en promover su entendimiento y asociación con los diversos grupos."
     },
     {
       "type": "paragraph",
@@ -1783,9 +1783,9 @@
       "standardReferenceId": "26:11.4",
       "pageReference": "297.1",
       "sortId": "1.026.011.004",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Los mortales recibieron el mando paradisiaco: «Sed perfectos, así como vuestro Padre en el Paraíso es perfecto». A estos hijos trinidizados del cuerpo conjunto los supernafines supervisores no cesan de proclamar: «Sed comprensivos de vuestros hermanos ascendentes, así como los Hijos Creadores Paradisiacos los conocen y los aman»."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Los mortales han recibido la orden paradisiaca: «Sed perfectos como vuestro Padre del Paraíso es perfecto». Las supernafines supervisoras no dejan nunca de proclamar a estos hijos trinizados del cuerpo conjunto: «Sed comprensivos con vuestros hermanos ascendentes igual que los Hijos Creadores del Paraíso los conocen y los aman»."
     },
     {
       "type": "paragraph",
@@ -1801,9 +1801,9 @@
       "standardReferenceId": "26:11.5",
       "pageReference": "297.2",
       "sortId": "1.026.011.005",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "La criatura mortal debe encontrar a Dios. El Hijo Creador no se detiene hasta hallar al hombre —la criatura volitiva más baja. Sin duda, los Hijos Creadores y sus hijos mortales se están preparando para un servicio futuro desconocido en el universo. Ambos atraviesan la gama del universo experiencial y de este modo son instruidos y capacitados para su misión eterna. A lo largo de los universos ocurre esta combinación singular de lo humano y lo divino, la interrelación de criatura y Creador. Los mortales irreflexivos se han referido a la manifestación de la misericordia y ternura divinas, especialmente hacia los débiles y en nombre de los necesitados, como indicación de un Dios antropomorfo. ¡Qué error! Más bien, deben tomar tales manifestaciones de misericordia y paciencia hacia los seres humanos como prueba de que reside en el hombre mortal el espíritu del Dios viviente; que la criatura está, después de todo, motivada por la divinidad."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "La criatura mortal debe encontrar a Dios. El Hijo Creador no para nunca hasta encontrar al hombre, la criatura más baja con voluntad. Más allá de toda duda, los Hijos Creadores y sus hijos mortales se están preparando para un futuro y desconocido servicio en el universo. Ambos atraviesan toda la gama del universo experiencial, y así se educan y forman para su misión eterna. En todos los universos está ocurriendo esta mezcla única de lo humano y lo divino, la combinación de criatura y Creador. Los mortales irreflexivos han considerado la manifestación de la misericordia y la ternura divinas, sobre todo hacia los débiles y necesitados, como indicativa de un Dios antropomorfo. ¡Qué error! Tendrían que considerar más bien las manifestaciones de misericordia y de paciencia por parte de los seres humanos como prueba de que el hombre mortal está habitado por el espíritu del Dios vivo y de que la criatura está, a fin de cuentas, motivada por la divinidad."
     },
     {
       "type": "paragraph",
@@ -1819,9 +1819,9 @@
       "standardReferenceId": "26:11.6",
       "pageReference": "297.3",
       "sortId": "1.026.011.006",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Hacia el fin de la estadía en el primer círculo, los peregrinos ascendentes se encuentran primero con los instigadores del reposo de la orden primaria de los supernafines. Éstos son los ángeles del Paraíso que salen para recibir a aquellos que están en el umbral de la eternidad y completar su preparación para el sueño de transición de la última resurrección. No eres realmente un hijo del Paraíso hasta que no hayas atravesado el círculo interior y hayas experimentado la resurrección de la eternidad del sueño terminal del tiempo. Los peregrinos perfeccionados comienzan su reposo, se duermen, en el primer círculo de Havona, pero despiertan en las orillas del Paraíso. De todos aquellos que ascienden a la Isla eterna, sólo los que llegan de este modo son hijos de la eternidad; los demás van como visitantes, como huéspedes sin estado de residentes."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Hacia el final de su estancia en el primer círculo, los peregrinos ascendentes se encuentran por primera vez con las facilitadoras del descanso del orden primario de las supernafines. Son las ángeles del Paraíso que salen a recibir a los que están en el umbral de la eternidad y a completar su preparación para el sueño de transición de la última resurrección. No eres realmente un hijo del Paraíso hasta que has atravesado el círculo interior y has experimentado la resurrección de la eternidad tras el sueño terminal del tiempo. Los peregrinos perfeccionados comienzan este descanso, se quedan dormidos, en el primer círculo de Havona pero despiertan en las orillas del Paraíso. De todos los que ascienden a la Isla eterna, solo los que llegan de este modo son hijos de la eternidad; los demás van como visitantes, como invitados sin estatus residencial."
     },
     {
       "type": "paragraph",
@@ -1837,9 +1837,9 @@
       "standardReferenceId": "26:11.7",
       "pageReference": "297.4",
       "sortId": "1.026.011.007",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Ahora, pues, en la culminación de la carrera de Havona, al dormiros vosotros los mortales en el mundo piloto del círculo interior, no estáis solos en vuestro reposo como lo estuvisteis en los mundos de vuestro origen cuando cerrabais los ojos en el sueño natural del fallecimiento mortal, ni como lo hicisteis cuando ingresasteis en el largo trance de tránsito preparatorio para el viaje a Havona. Ahora, al prepararte para el reposo de logro, se pone a tu lado tu asociado de mucho tiempo del primer círculo, el majestuoso complemento de reposo, quien se prepara para ingresar en el reposo como uno solo contigo, como la promesa de Havona de que tu transición será completa y de que tú aguardas tan sólo los toques finales de la perfección."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Y ahora, en la culminación de la carrera en Havona, cuando vosotros los mortales os dormís en el mundo piloto del círculo interior, no vais solos a vuestro descanso como hicisteis en los mundos de vuestro origen cuando cerrasteis los ojos en el sueño natural de la muerte del mortal, ni tampoco como hicisteis cuando entrasteis en el largo trance de tránsito preparatorio para el viaje a Havona. Ahora, cuando os preparáis para el descanso del logro, se coloca a vuestro lado vuestra compañera del primer círculo, la majestuosa complementadora del descanso, que os acompaña desde hace tanto tiempo y ahora se prepara para sumarse al descanso como una con vosotros, como la garantía de Havona de que vuestra transición está completa y esperáis únicamente los toques finales de la perfección."
     },
     {
       "type": "paragraph",
@@ -1855,9 +1855,9 @@
       "standardReferenceId": "26:11.8",
       "pageReference": "297.5",
       "sortId": "1.026.011.008",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
-      "markdown": "Tu primera transición fue, efectivamente, muerte; la segunda, un sueño ideal, y ahora la tercera metamorfosis es verdadero reposo, el descanso de las edades."
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
+      "markdown": "Vuestra primera transición fue en verdad muerte, la segunda, un sueño ideal, y ahora la tercera metamorfosis es verdadero descanso, la relajación de las edades."
     },
     {
       "type": "paragraph",
@@ -1873,8 +1873,8 @@
       "standardReferenceId": "26:11.9",
       "pageReference": "297.6",
       "sortId": "1.026.011.009",
-      "paperTitle": "Los Espíritus Ministrantes del Universo Central",
-      "sectionTitle": "Los Complementos del Reposo",
+      "paperTitle": "Los espíritus ministrantes del universo central",
+      "sectionTitle": "Las complementadoras del descanso",
       "markdown": "[Presentado por un Perfeccionador de la Sabiduría de Uversa.]"
     }
   ]
