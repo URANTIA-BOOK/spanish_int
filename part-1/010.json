@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "spa",
+  "version_id": "UF-SPA-419-1993-1.9",
   "pipeline_version": 3,
   "source_file": "part-1/010.md",
-  "source_sha256": "c1a12f4c8138a2a1b97e2e8d36dbd453b0b8b87e086d4420486e0dea24d15433",
+  "source_sha256": "0e654756db331eea5c5b176c1a0f68861aef0ff9e12a98e679642e09041b557f",
   "rows": [
     {
       "type": "paper",
       "typeRank": 1,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": null,
@@ -19,14 +19,14 @@
       "standardReferenceId": "10:0.0",
       "pageReference": null,
       "sortId": "1.010.000.000",
-      "paperTitle": "The Paradise Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "0",
@@ -37,14 +37,14 @@
       "standardReferenceId": "10:0.0",
       "pageReference": null,
       "sortId": "1.010.000.000",
-      "paperTitle": "The Paradise Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "0",
@@ -55,14 +55,14 @@
       "standardReferenceId": "10:0.1",
       "pageReference": "108.1",
       "sortId": "1.010.000.001",
-      "paperTitle": "The Paradise Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
       "sectionTitle": null,
-      "markdown": "THE Paradise Trinity of eternal Deities facilitates the Father’s escape from personality absolutism. The Trinity perfectly associates the limitless expression of God’s infinite personal will with the absoluteness of Deity. The Eternal Son and the various Sons of divine origin, together with the Conjoint Actor and his universe children, effectively provide for the Father’s liberation from the limitations otherwise inherent in primacy, perfection, changelessness, eternity, universality, absoluteness, and infinity."
+      "markdown": "LA Trinidad Paradisiaca de las Deidades eternas permite que el Padre pueda escapar del absolutismo de la personalidad. La Trinidad asocia perfectamente la expresión ilimitada de la infinita voluntad personal de Dios con la absolutez de la Deidad. El Hijo Eterno y los diversos Hijos de origen divino, juntamente con el Actor Conjunto y sus hijos universales, eficazmente liberan al Padre de las limitaciones, por otra parte inherentes, en primacía, perfección, inmutabilidad, eternidad, universalidad, absolutez e infinidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "0",
@@ -73,14 +73,14 @@
       "standardReferenceId": "10:0.2",
       "pageReference": "108.2",
       "sortId": "1.010.000.002",
-      "paperTitle": "The Paradise Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
       "sectionTitle": null,
-      "markdown": "The Paradise Trinity effectively provides for the full expression and perfect revelation of the eternal nature of Deity. The Stationary Sons of the Trinity likewise afford a full and perfect revelation of divine justice. The Trinity is Deity unity, and this unity rests eternally upon the absolute foundations of the divine oneness of the three original and co-ordinate and coexistent personalities, God the Father, God the Son, and God the Spirit."
+      "markdown": "La Trinidad del Paraíso permite efectivamente la plena expresión y la revelación perfecta de la naturaleza eterna de la Deidad. Los Hijos Estacionarios de la Trinidad ofrecen de la misma manera una plena y perfecta revelación de la justicia divina. La Trinidad es unidad de la Deidad, y esta unidad descansa eternamente sobre los cimientos absolutos de la singularidad divina de las tres personalidades originales coordinadas y coexistentes, Dios el Padre, Dios el Hijo, y Dios el Espíritu."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "0",
@@ -91,14 +91,14 @@
       "standardReferenceId": "10:0.3",
       "pageReference": "108.3",
       "sortId": "1.010.000.003",
-      "paperTitle": "The Paradise Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
       "sectionTitle": null,
-      "markdown": "From the present situation on the circle of eternity, looking backward into the endless past, we can discover only one inescapable inevitability in universe affairs, and that is the Paradise Trinity. I deem the Trinity to have been inevitable. As I view the past, present, and future of time, I consider nothing else in all the universe of universes to have been inevitable. The present master universe, viewed in retrospect or in prospect, is unthinkable without the Trinity. Given the Paradise Trinity, we can postulate alternate or even multiple ways of doing all things, but without the Trinity of Father, Son, and Spirit we are unable to conceive how the Infinite could achieve threefold and co-ordinate personalization in the face of the absolute oneness of Deity. No other concept of creation measures up to the Trinity standards of the completeness of the absoluteness inherent in Deity unity coupled with the repleteness of volitional liberation inherent in the threefold personalization of Deity."
+      "markdown": "A partir de la situación presente en el círculo de la eternidad, mirando hacia atrás hacia el pasado infinito, podemos descubrir una sola inevitabilidad inescapable en los asuntos del universo, y ésa es la Trinidad del Paraíso. Yo creo que la Trinidad era inevitable. Según veo el pasado, el presente y el futuro del tiempo, considero que no hay nada más en todo el universo de universos que fuera inevitable. El universo maestro actual, visto en retrospectiva o en perspectiva, es impensable sin la Trinidad. Ya con la Trinidad del Paraíso, podemos postular modos alternativos e incluso múltiples de hacer todas las cosas, pero sin la Trinidad de Padre, Hijo y Espíritu somos incapaces de concebir de qué manera pudo el Infinito lograr una personalización triple y coordinada frente a la absoluta singularidad de la Deidad. Ningún otro concepto de la creación llega a la altura de las normas de lo completo y lo absoluto de la Trinidad, inherentes en la unidad de la Deidad combinada con la plenitud de liberación volitiva inherente en la personalización triple de la Deidad."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -109,14 +109,14 @@
       "standardReferenceId": "10:1.0",
       "pageReference": null,
       "sortId": "1.010.001.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -127,14 +127,14 @@
       "standardReferenceId": "10:1.1",
       "pageReference": "108.4",
       "sortId": "1.010.001.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "It would seem that the Father, back in eternity, inaugurated a policy of profound self-distribution. There is inherent in the selfless, loving, and lovable nature of the Universal Father something which causes him to reserve to himself the exercise of only those powers and that authority which he apparently finds it impossible to delegate or to bestow."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "Parecería que el Padre, allá por la eternidad, inauguró una política de profunda autodistribución. Hay en la naturaleza altruista, amante y amable del Padre Universal algo inherente que lo hace reservarse el ejercicio exclusivo tan sólo de aquellos poderes y autoridad que al parecer encuentra imposible delegar o conceder."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -145,14 +145,14 @@
       "standardReferenceId": "10:1.2",
       "pageReference": "108.5",
       "sortId": "1.010.001.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "The Universal Father all along has divested himself of every part of himself that was bestowable on any other Creator or creature. He has delegated to his divine Sons and their associated intelligences every power and all authority that could be delegated. He has actually transferred to his Sovereign Sons, in their respective universes, every prerogative of administrative authority that was transferable. In the affairs of a local universe, he has made each Sovereign Creator Son just as perfect, competent, and authoritative as is the Eternal Son in the original and central universe. He has given away, actually bestowed, with the dignity and sanctity of personality possession, all of himself and all of his attributes, everything he possibly could divest himself of, in every way, in every age, in every place, and to every person, and in every universe except that of his central indwelling."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "El Padre Universal siempre se ha despojado de las partes de sí mismo que son otorgables a otro Creador o criatura. Ha delegado en sus Hijos divinos y en sus inteligencias asociadas todo poder y toda autoridad que pudiera ser delegada. Transfirió realmente a sus Hijos Soberanos, en los respectivos universos, toda prerrogativa de autoridad administrativa que fuera transferible. En los asuntos de un universo local, ha hecho a cada Hijo Creador Soberano tan perfecto, competente y con tanta autoridad como el Hijo Eterno es en el universo original central. Entregó, en realidad donó, con la dignidad y santidad de la posesión personal, todo de sí mismo y de sus atributos, todo lo que podía despojar, de toda forma, en todas las edades, en todos los lugares, y a todas las personas, y en todos los universos, excepto el de su morada central."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -163,14 +163,14 @@
       "standardReferenceId": "10:1.3",
       "pageReference": "109.1",
       "sortId": "1.010.001.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "Divine personality is not self-centered; self-distribution and sharing of personality characterize divine freewill selfhood. Creatures crave association with other personal creatures; Creators are moved to share divinity with their universe children; the personality of the Infinite is disclosed as the Universal Father, who shares reality of being and equality of self with two co-ordinate personalities, the Eternal Son and the Conjoint Actor."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "La personalidad divina no es egocéntrica; la autodistribución y el compartir de la personalidad caracterizan la identidad divina con libre albedrío. Las criaturas anhelan la asociación con otras criaturas personales; los Creadores se sienten motivados a compartir su divinidad con sus hijos universales; la personalidad del Infinito se revela como el Padre Universal, que comparte la realidad de su ser y la igualdad del yo con dos personalidades coordinadas: el Hijo Eterno y el Actor Conjunto."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -181,14 +181,14 @@
       "standardReferenceId": "10:1.4",
       "pageReference": "109.2",
       "sortId": "1.010.001.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "For knowledge concerning the Father’s personality and divine attributes we will always be dependent on the revelations of the Eternal Son, for when the conjoint act of creation was effected, when the Third Person of Deity sprang into personality existence and executed the combined concepts of his divine parents, the Father ceased to exist as the unqualified personality. With the coming into being of the Conjoint Actor and the materialization of the central core of creation, certain eternal changes took place. God gave himself as an absolute personality to his Eternal Son. Thus does the Father bestow the “personality of infinity” upon his only-begotten Son, while they both bestow the “conjoint personality” of their eternal union upon the Infinite Spirit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "Para conocer a la personalidad y los atributos divinos del Padre dependeremos para siempre de las revelaciones del Hijo Eterno, porque cuando se efectuó el acto conjunto de la creación, cuando la Tercera Persona de la Deidad surgió a la existencia de la personalidad y cumplió con los conceptos combinados de sus padres divinos, el Padre dejó de existir como la personalidad no cualificada. Con la aparición del Actor Conjunto y la materialización del núcleo central de la creación, tuvieron lugar ciertos cambios eternos. Dios se dio como personalidad absoluta a su Hijo Eterno. Así, otorga el Padre la «personalidad de infinidad» a su Hijo unigénito, mientras que ambos otorgan la «personalidad conjunta» de su unión eterna al Espíritu Infinito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -199,14 +199,14 @@
       "standardReferenceId": "10:1.5",
       "pageReference": "109.3",
       "sortId": "1.010.001.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "For these and other reasons beyond the concept of the finite mind, it is exceedingly difficult for the human creature to comprehend God’s infinite father-personality except as it is universally revealed in the Eternal Son and, with the Son, is universally active in the Infinite Spirit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "Por estas y otras razones más allá del concepto de la mente finita, es extremadamente difícil para la criatura humana comprender la infinita personalidad paterna de Dios, excepto como es universalmente revelada en el Hijo Eterno y, con el Hijo, es universalmente activa en el Espíritu Infinito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "1",
@@ -217,14 +217,14 @@
       "standardReferenceId": "10:1.6",
       "pageReference": "109.4",
       "sortId": "1.010.001.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Self-Distribution of the First Source and Center",
-      "markdown": "Since the Paradise Sons of God visit the evolutionary worlds and sometimes even there dwell in the likeness of mortal flesh, and since these bestowals make it possible for mortal man actually to know something of the nature and character of divine personality, therefore must the creatures of the planetary spheres look to the bestowals of these Paradise Sons for reliable and trustworthy information regarding the Father, the Son, and the Spirit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Autodistribución de la Primera Fuente y Centro",
+      "markdown": "Puesto que los Hijos de Dios Paradisiacos visitan los mundos evolutivos y a veces aun habitan en ellos en semejanza de carne mortal, y puesto que estos autootorgamientos hacen posible para el hombre mortal conocer realmente algo de la naturaleza y carácter de la personalidad divina, deben las criaturas de las esferas planetarias poner atención a estos autootorgamientos de los Hijos Paradisiacos, para obtener información fidedigna y confiable respecto del Padre, el Hijo y el Espíritu."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -235,14 +235,14 @@
       "standardReferenceId": "10:2.0",
       "pageReference": null,
       "sortId": "1.010.002.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -253,14 +253,14 @@
       "standardReferenceId": "10:2.1",
       "pageReference": "109.5",
       "sortId": "1.010.002.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "By the technique of trinitization the Father divests himself of that unqualified spirit personality which is the Son, but in so doing he constitutes himself the Father of this very Son and thereby possesses himself of unlimited capacity to become the divine Father of all subsequently created, eventuated, or other personalized types of intelligent will creatures. As the *absolute and unqualified personality* the Father can function only as and with the Son, but as a *personal Father* he continues to bestow personality upon the diverse hosts of the differing levels of intelligent will creatures, and he forever maintains personal relations of loving association with this vast family of universe children."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "Mediante la técnica de la trinidización el Padre se despoja de esa personalidad espiritual no cualificada que es el Hijo, pero al hacerlo, se constituye en el Padre de este mismo Hijo, y por ello se inviste de ilimitada capacidad de ser el Padre divino de todos los tipos de criaturas de voluntad inteligente posteriormente creadas, eventuadas, o de otro modo personalizadas. Como l *a personalidad absoluta y no cualificada,* el Padre puede funcionar solamente como el Hijo y con el Hijo, pero como *Padre personal* continúa otorgando personalidad a las diversas huestes de los diferentes niveles de criaturas volitivas inteligentes, y por siempre mantiene relaciones personales de asociación amante con esa vasta familia de hijos universales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -271,14 +271,14 @@
       "standardReferenceId": "10:2.2",
       "pageReference": "109.6",
       "sortId": "1.010.002.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "After the Father has bestowed upon the personality of his Son the fullness of himself, and when this act of self-bestowal is complete and perfect, of the infinite power and nature which are thus existent in the Father-Son union, the eternal partners conjointly bestow those qualities and attributes which constitute still another being like themselves; and this conjoint personality, the Infinite Spirit, completes the existential personalization of Deity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "Después de que el Padre ha otorgado a la personalidad de su Hijo la plenitud de sí mismo, y cuando se completa y se perfecciona este acto de autodotación, del poder y naturaleza infinitos que de este modo existen en la unión del Padre y el Hijo, los socios eternos conjuntamente otorgan aquellas cualidades y atributos que constituyen otro ser más como ellos; y esta personalidad conjunta, el Espíritu Infinito, completa la personalización existencial de la Deidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -289,14 +289,14 @@
       "standardReferenceId": "10:2.3",
       "pageReference": "110.1",
       "sortId": "1.010.002.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "The Son is indispensable to the fatherhood of God. The Spirit is indispensable to the fraternity of the Second and Third Persons. Three persons are a minimum social group, but this is least of all the many reasons for believing in the inevitability of the Conjoint Actor."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "El Hijo es indispensable para la paternidad de Dios. El Espíritu es indispensable para la fraternidad de la Segunda y Tercera Personas. Tres personas son un grupo social mínimo, pero ésta es la menos importante de todas las muchas razones para creer en la inevitabilidad del Actor Conjunto."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -307,14 +307,14 @@
       "standardReferenceId": "10:2.4",
       "pageReference": "110.2",
       "sortId": "1.010.002.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "The First Source and Center is the infinite *father-personality,* the unlimited source personality. The Eternal Son is the unqualified *personality-absolute,* that divine being who stands throughout all time and eternity as the perfect revelation of the personal nature of God. The Infinite Spirit is the *conjoint personality,* the unique personal consequence of the everlasting Father-Son union."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "La Primera Fuente y Centro es la *personalidad padre* infinita, la fuente ilimitada de personalidad. El Hijo Eterno es la *personalidad absoluta* no cualificada, ese ser divino que está en todo el tiempo y la eternidad como la revelación perfecta de la naturaleza personal de Dios. El Espíritu Infinito es la *personalidad conjunta,* la única inimitable consecuencia personal de la unión sempiterna del Padre y el Hijo."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -325,14 +325,14 @@
       "standardReferenceId": "10:2.5",
       "pageReference": "110.3",
       "sortId": "1.010.002.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "The personality of the First Source and Center is the personality of infinity minus the absolute personality of the Eternal Son. The personality of the Third Source and Center is the superadditive consequence of the union of the liberated Father-personality and the absolute Son-personality."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "La personalidad de la Primera Fuente y Centro es la personalidad de infinidad menos la personalidad absoluta del Hijo Eterno. La personalidad de la Tercera Fuente y Centro es la consecuencia superaditiva de la unión de la personalidad liberada del Padre y la personalidad absoluta del Hijo."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -343,14 +343,14 @@
       "standardReferenceId": "10:2.6",
       "pageReference": "110.4",
       "sortId": "1.010.002.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "The Universal Father, the Eternal Son, and the Infinite Spirit are unique persons; none is a duplicate; each is original; all are united."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "El Padre Universal, el Hijo Eterno, y el Espíritu Infinito son personas únicas; ninguno es un duplicado; cada uno es original; todos están unidos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -361,14 +361,14 @@
       "standardReferenceId": "10:2.7",
       "pageReference": "110.5",
       "sortId": "1.010.002.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "The Eternal Son alone experiences the fullness of divine personality relationship, consciousness of both sonship with the Father and paternity to the Spirit and of divine equality with both Father-ancestor and Spirit-associate. The Father knows the experience of having a Son who is his equal, but the Father knows no ancestral antecedents. The Eternal Son has the experience of sonship, recognition of personality ancestry, and at the same time the Son is conscious of being joint parent to the Infinite Spirit. The Infinite Spirit is conscious of twofold personality ancestry but is not parental to a co-ordinate Deity personality. With the Spirit the existential cycle of Deity personalization attains completion; the primary personalities of the Third Source and Center are experiential and are seven in number."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "Sólo el Hijo Eterno experimenta la plenitud de la divina relación de personalidad, consciente tanto de su filiación con el Padre como de su paternidad del Espíritu y de la igualdad divina con el Padre antecesor y con el Espíritu asociado. El Padre conoce la experiencia de tener un Hijo que es su igual, pero el Padre no conoce de ningún antecedente ancestral. El Hijo Eterno tiene la experiencia de la filiación, reconocimiento del ancestro de personalidad, y al mismo tiempo el Hijo está consciente de ser un padre conjunto del Espíritu Infinito. El Espíritu Infinito está consciente del doble ancestro de su personalidad, pero no es progenitor de una personalidad coordinada de la Deidad. Con el Espíritu, se completa el ciclo existencial de la personalización de la Deidad; las personalidades primarias de la Tercera Fuente y Centro son experienciales y son siete en número."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "2",
@@ -379,14 +379,14 @@
       "standardReferenceId": "10:2.8",
       "pageReference": "110.6",
       "sortId": "1.010.002.008",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Deity Personalization",
-      "markdown": "I am of origin in the Paradise Trinity. I know the Trinity as unified Deity; I also know that the Father, Son, and Spirit exist and act in their definite personal capacities. I positively know that they not only act personally and collectively, but that they also co-ordinate their performances in various groupings, so that in the end they function in seven different singular and plural capacities. And since these seven associations exhaust the possibilities for such divinity combination, it is inevitable that the realities of the universe shall appear in seven variations of values, meanings, and personality."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Personalización de la Deidad",
+      "markdown": "Yo tengo origen en la Trinidad del Paraíso. Conozco la Trinidad como Deidad unificada; conozco también que el Padre, el Hijo y el Espíritu existen y actúan en sus capacidades personales definidas. Sé positivamente que no sólo actúan de manera personal y colectiva, sino que también coordinan sus acciones en varias asociaciones, de modo que al final funcionan en siete capacidades diferentes singulares y plurales. Y puesto que estas siete asociaciones agotan las posibilidades de tales combinaciones divinas, es inevitable que las realidades del universo aparezcan en siete variaciones de valores, significados y de personalidad."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -397,14 +397,14 @@
       "standardReferenceId": "10:3.0",
       "pageReference": null,
       "sortId": "1.010.003.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -415,14 +415,14 @@
       "standardReferenceId": "10:3.1",
       "pageReference": "110.7",
       "sortId": "1.010.003.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "Notwithstanding there is only one Deity, there are three positive and divine personalizations of Deity. Regarding the endowment of man with the divine Adjusters, the Father said: “Let us make mortal man in our own image.” Repeatedly throughout the Urantian writings there occurs this reference to the acts and doings of plural Deity, clearly showing recognition of the existence and working of the three Sources and Centers."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "A pesar de que existe una sola Deidad, hay tres personalizaciones positivas y divinas de la Deidad. Respecto a la dotación del hombre con los Ajustadores divinos, el Padre dijo: «Hagamos al hombre mortal a nuestra imagen». Repetidas veces, en las escrituras urantianas existen referencias a los actos y acciones de la Deidad plural, mostrando el reconocimiento de la existencia y operación de las tres Fuentes y Centros."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -433,14 +433,14 @@
       "standardReferenceId": "10:3.2",
       "pageReference": "110.8",
       "sortId": "1.010.003.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "We are taught that the Son and the Spirit sustain the same and equal relations to the Father in the Trinity association. In eternity and as Deities they undoubtedly do, but in time and as personalities they certainly disclose relationships of a very diverse nature. Looking from Paradise out on the universes, these relationships do seem to be very similar, but when viewed from the domains of space, they appear to be quite different."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Nos enseñan que el Hijo y el Espíritu tienen relaciones idénticas con el Padre en la asociación de la Trinidad. En la eternidad y como Deidades indudablemente lo hacen, pero en el tiempo y como personalidades ciertamente revelan relaciones de una naturaleza muy variada. Contemplando los universos desde el Paraíso, estas relaciones parecen muy similares, pero cuando se las visualiza desde los dominios del espacio, aparecen considerablemente diferentes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -451,14 +451,14 @@
       "standardReferenceId": "10:3.3",
       "pageReference": "111.1",
       "sortId": "1.010.003.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The divine Sons are indeed the “Word of God,” but the children of the Spirit are truly the “Act of God.” God speaks through the Son and, with the Son, acts through the Infinite Spirit, while in all universe activities the Son and the Spirit are exquisitely fraternal, working as two equal brothers with admiration and love for an honored and divinely respected common Father."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Los Hijos divinos son ciertamente el «Verbo de Dios», pero los hijos del Espíritu son verdaderamente la «Acción de Dios». Dios habla a través del Hijo y, con el Hijo, actúa a través del Espíritu Infinito, mientras en todas las actividades del universo el Hijo y el Espíritu son exquisitamente fraternos, laborando como dos hermanos iguales, con admiración y amor por un Padre común, honrado y divinamente respetado."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -469,14 +469,14 @@
       "standardReferenceId": "10:3.4",
       "pageReference": "111.2",
       "sortId": "1.010.003.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The Father, Son, and Spirit are certainly equal in nature, co-ordinate in being, but there are unmistakable differences in their universe performances, and when acting alone, each person of Deity is apparently limited in absoluteness."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "El Padre, el Hijo y el Espíritu son ciertamente iguales en naturaleza, coordinados en ser, pero hay diferencias inequívocas en sus actuaciones universales, y cuando actúan solos, cada persona de la deidad está aparentemente limitada en su absolutez."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -487,14 +487,14 @@
       "standardReferenceId": "10:3.5",
       "pageReference": "111.3",
       "sortId": "1.010.003.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The Universal Father, prior to his self-willed divestment of the personality, powers, and attributes which constitute the Son and the Spirit, seems to have been (philosophically considered) an unqualified, absolute, and infinite Deity. But such a theoretical First Source and Center without a Son could not in any sense of the word be considered the *Universal Father;* fatherhood is not real without sonship. Furthermore, the Father, to have been absolute in a total sense, must have existed at some eternally distant moment alone. But he never had such a solitary existence; the Son and the Spirit are both coeternal with the Father. The First Source and Center has always been, and will forever be, the eternal Father of the Original Son and, with the Son, the eternal progenitor of the Infinite Spirit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "El Padre Universal, antes de despojarse voluntariamente de la personalidad, los poderes y los atributos que constituyen el Hijo y el Espíritu, parece haber sido (filosóficamente considerado) una Deidad no cualificada, absoluta e infinita. Pero esa teórica Primera Fuente y Centro sin un Hijo no podía ser considerado, en ningún sentido de la palabra, el *Padre Universal;* la paternidad no es real sin filiación. Además, el Padre, para haber sido absoluto en un sentido total, en algún momento eternamente distante, debe haber existido a solas. Pero nunca tuvo tal existencia solitaria; el Hijo y el Espíritu son ambos coeternos con el Padre. La Primera Fuente y Centro siempre ha sido, y siempre será el Padre eterno del Hijo Original y, con el Hijo, el eterno progenitor del Espíritu Infinito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -505,14 +505,14 @@
       "standardReferenceId": "10:3.6",
       "pageReference": "111.4",
       "sortId": "1.010.003.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "We observe that the Father has divested himself of all direct manifestations of absoluteness except absolute fatherhood and absolute volition. We do not know whether volition is an inalienable attribute of the Father; we can only observe that he did *not* divest himself of volition. Such infinity of will must have been eternally inherent in the First Source and Center."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Observamos que el Padre se ha despojado de todas las manifestaciones directas de su absolutez excepto la paternidad absoluta y la volición absoluta. No sabemos si la volición es un atributo inalienable del Padre; sólo podemos observar que *no* se despojó de la volición. Tal infinidad de voluntad debe haber sido eternamente inherente a la Primera Fuente y Centro."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -523,14 +523,14 @@
       "standardReferenceId": "10:3.7",
       "pageReference": "111.5",
       "sortId": "1.010.003.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "In bestowing absoluteness of personality upon the Eternal Son, the Universal Father escapes from the fetters of personality absolutism, but in so doing he takes a step which makes it forever impossible for him to act alone as the personality-absolute. And with the final personalization of coexistent Deity—the Conjoint Actor—there ensues the critical trinitarian interdependence of the three divine personalities with regard to the totality of Deity function in absolute."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Al otorgarle personalidad absoluta al Hijo Eterno, el Padre Universal evade las cadenas del absolutismo de la personalidad, pero al hacerlo así da un paso que hace por siempre imposible para él actuar por sí solo como el absoluto de la personalidad. Y con la personalización final de la Deidad coexistente —el Actor Conjunto— sobreviene la crítica interdependencia trinitaria de las tres personalidades divinas respecto a la totalidad de la función de la Deidad en absoluto."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -541,14 +541,14 @@
       "standardReferenceId": "10:3.8",
       "pageReference": "111.6",
       "sortId": "1.010.003.008",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "God is the Father-Absolute of all personalities in the universe of universes. The Father is personally absolute in liberty of action, but in the universes of time and space, made, in the making, and yet to be made, the Father is not discernibly absolute as total Deity except in the Paradise Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Dios es el Absoluto-Padre de todas las personalidades del universo de universos. El Padre es personalmente absoluto en libertad de acción, pero en los universos del tiempo y el espacio, ya hechos, en proceso de hacerse, y aún por hacerse, el Padre no es discerniblemente absoluto como Deidad total, salvo en la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -559,14 +559,14 @@
       "standardReferenceId": "10:3.9",
       "pageReference": "111.7",
       "sortId": "1.010.003.009",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The First Source and Center functions outside of Havona in the phenomenal universes as follows:"
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "La Primera Fuente y Centro funciona fuera de Havona, en los universos fenoménicos, de la manera siguiente:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -577,14 +577,14 @@
       "standardReferenceId": "10:3.10",
       "pageReference": "111.8",
       "sortId": "1.010.003.010",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "1. As creator, through the Creator Sons, his grandsons."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "1. Como creador, a través de los Hijos Creadores, sus nietos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -595,14 +595,14 @@
       "standardReferenceId": "10:3.11",
       "pageReference": "111.9",
       "sortId": "1.010.003.011",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "2. As controller, through the gravity center of Paradise."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "2. Como controlador, a través del centro de gravedad del Paraíso."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -613,14 +613,14 @@
       "standardReferenceId": "10:3.12",
       "pageReference": "111.10",
       "sortId": "1.010.003.012",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "3. As spirit, through the Eternal Son."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "3. Como espíritu, a través del Hijo Eterno."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -631,14 +631,14 @@
       "standardReferenceId": "10:3.13",
       "pageReference": "111.11",
       "sortId": "1.010.003.013",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "4. As mind, through the Conjoint Creator."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "4. Como mente, a través del Creador Conjunto."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -649,14 +649,14 @@
       "standardReferenceId": "10:3.14",
       "pageReference": "111.12",
       "sortId": "1.010.003.014",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "5. As a Father, he maintains parental contact with all creatures through his personality circuit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "5. Como Padre, mantiene contacto paterno con todas las criaturas a través del circuito de personalidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -667,14 +667,14 @@
       "standardReferenceId": "10:3.15",
       "pageReference": "111.13",
       "sortId": "1.010.003.015",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "6. As a person, he acts *directly* throughout creation by his exclusive fragments—in mortal man by the Thought Adjusters."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "6. Como persona, actúa *directamente* en toda la creación por medio de sus fragmentos exclusivos —en el hombre mortal, por los Ajustadores del Pensamiento."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -685,14 +685,14 @@
       "standardReferenceId": "10:3.16",
       "pageReference": "111.14",
       "sortId": "1.010.003.016",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "7. As total Deity, he functions only in the Paradise Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "7. Como Deidad total, funciona tan sólo en la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -703,14 +703,14 @@
       "standardReferenceId": "10:3.17",
       "pageReference": "112.1",
       "sortId": "1.010.003.017",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "All these relinquishments and delegations of jurisdiction by the Universal Father are wholly voluntary and self-imposed. The all-powerful Father purposefully assumes these limitations of universe authority."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "Todas estas renuncias y delegaciones de jurisdicción del Padre Universal son completamente voluntarias y autoimpuestas. El Padre todopoderoso asume intencionalmente estas limitaciones de la autoridad universal."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -721,14 +721,14 @@
       "standardReferenceId": "10:3.18",
       "pageReference": "112.2",
       "sortId": "1.010.003.018",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The Eternal Son seems to function as one with the Father in all spiritual respects except in the bestowals of the God fragments and in other prepersonal activities. Neither is the Son closely identified with the intellectual activities of material creatures nor with the energy activities of the material universes. As absolute the Son functions as a person and only in the domain of the spiritual universe."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "El Hijo Eterno parece funcionar como uno con el Padre en todos los aspectos espirituales, excepto en los otorgamientos de los fragmentos de Dios y en otras actividades prepersonales. Tampoco está el Hijo estrechamente identificado con las actividades intelectuales de las criaturas materiales ni con las actividades energiales de los universos materiales. Como absoluto el Hijo funciona como persona solamente en el dominio del universo espiritual."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "3",
@@ -739,14 +739,14 @@
       "standardReferenceId": "10:3.19",
       "pageReference": "112.3",
       "sortId": "1.010.003.019",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Three Persons of Deity",
-      "markdown": "The Infinite Spirit is amazingly universal and unbelievably versatile in all his operations. He performs in the spheres of mind, matter, and spirit. The Conjoint Actor represents the Father-Son association, but he also functions as himself. He is not directly concerned with physical gravity, with spiritual gravity, or with the personality circuit, but he more or less participates in all other universe activities. While apparently dependent on three existential and absolute gravity controls, the Infinite Spirit appears to exercise three supercontrols. This threefold endowment is employed in many ways to transcend and seemingly to neutralize even the manifestations of primary forces and energies, right up to the superultimate borders of absoluteness. In certain situations these supercontrols absolutely transcend even the primal manifestations of cosmic reality."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Tres Personas de la Deidad",
+      "markdown": "El Espíritu Infinito es asombrosamente universal e increíblemente versátil en todas sus operaciones. Actúa en las esferas de la mente, la materia y el espíritu. El Actor Conjunto representa la asociación Padre-Hijo, pero funciona también como él mismo. No está directamente relacionado con la gravedad física, la gravedad espiritual, o el circuito de personalidad, pero participa más o menos en todas las otras actividades del universo. Aunque aparentemente depende de tres controles existenciales y absolutos de la gravedad, el Espíritu Infinito parece ejercer tres supercontroles. Esta triple dote la emplea de muchas maneras para trascender y aparentemente para neutralizar las manifestaciones de fuerzas y energías primarias, hasta las fronteras superúltimas de la absolutez. En ciertas situaciones estos supercontroles trascienden absolutamente hasta las manifestaciones primarias de la realidad cósmica."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -757,14 +757,14 @@
       "standardReferenceId": "10:4.0",
       "pageReference": null,
       "sortId": "1.010.004.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -775,14 +775,14 @@
       "standardReferenceId": "10:4.1",
       "pageReference": "112.4",
       "sortId": "1.010.004.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "Of all absolute associations, the Paradise Trinity (the first triunity) is unique as an exclusive association of personal Deity. God functions as God only in relation to God and to those who can know God, but as absolute Deity only in the Paradise Trinity and in relation to universe totality."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "De todas las asociaciones absolutas, la Trinidad del Paraíso (la primera triunidad) es única como asociación exclusiva de Deidad personal. Dios funciona como Dios sólo en relación a Dios y a los que pueden conocer a Dios, pero como Deidad absoluta sólo en la Trinidad del Paraíso y en relación con la totalidad del universo."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -793,14 +793,14 @@
       "standardReferenceId": "10:4.2",
       "pageReference": "112.5",
       "sortId": "1.010.004.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "Eternal Deity is perfectly unified; nevertheless there are three perfectly individualized persons of Deity. The Paradise Trinity makes possible the simultaneous expression of all the diversity of the character traits and infinite powers of the First Source and Center and his eternal co-ordinates and of all the divine unity of the universe functions of undivided Deity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "La Deidad eterna está perfectamente unificada; sin embargo, hay tres personas perfectamente individualizadas de la Deidad. La Trinidad del Paraíso hace posible la expresión simultánea de toda la diversidad de rasgos del carácter y poderes infinitos de la Primera Fuente y Centro y sus eternos coordinados y de toda la unidad divina de las funciones universales de la Deidad indivisa."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -811,14 +811,14 @@
       "standardReferenceId": "10:4.3",
       "pageReference": "112.6",
       "sortId": "1.010.004.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "The Trinity is an association of infinite persons functioning in a nonpersonal capacity but not in contravention of personality. The illustration is crude, but a father, son, and grandson could form a corporate entity which would be nonpersonal but nonetheless subject to their personal wills."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "La Trinidad es una asociación de personas infinitas que funcionan en una capacidad no personal, pero no en contravención de la personalidad. La ilustración es burda, pero un padre, un hijo y un nieto podrían formar una entidad corporativa que sería no personal, y sin embargo estaría sujeta a sus voluntades personales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -829,14 +829,14 @@
       "standardReferenceId": "10:4.4",
       "pageReference": "112.7",
       "sortId": "1.010.004.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "The Paradise Trinity is *real.* It exists as the Deity union of Father, Son, and Spirit; yet the Father, the Son, or the Spirit, or any two of them, can function in relation to this selfsame Paradise Trinity. The Father, Son, and Spirit can collaborate in a non-Trinity manner, but not as three Deities. As persons they can collaborate as they choose, but that is not the Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "La Trinidad del Paraíso es *real.* Existe como la unión en la Deidad del Padre, el Hijo y el Espíritu; sin embargo, el Padre, el Hijo, o el Espíritu, o cualesquiera dos de ellos, pueden funcionar en relación con esta misma Trinidad del Paraíso. El Padre, el Hijo, y el Espíritu pueden colaborar de una manera no trinitaria, pero no como tres Deidades. Como personas pueden colaborar como les plazca, pero ésa no es la Trinidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -847,14 +847,14 @@
       "standardReferenceId": "10:4.5",
       "pageReference": "112.8",
       "sortId": "1.010.004.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "Ever remember that what the Infinite Spirit does is the function of the Conjoint Actor. Both the Father and the Son are functioning in and through and as him. But it would be futile to attempt to elucidate the Trinity mystery: three as one and in one, and one as two and acting for two."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "Recordad siempre que lo que hace el Espíritu Infinito es función del Actor Con-junto. Tanto el Padre como el Hijo están funcionando en él, y a través de él y como él. Pero sería inútil intentar dilucidar el misterio de la Trinidad: tres como uno y en uno, y uno como dos y actuando para dos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -865,14 +865,14 @@
       "standardReferenceId": "10:4.6",
       "pageReference": "112.9",
       "sortId": "1.010.004.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "The Trinity is so related to total universe affairs that it must be reckoned with in our attempts to explain the totality of any isolated cosmic event or personality relationship. The Trinity functions on all levels of the cosmos, and mortal man is limited to the finite level; therefore must man be content with a finite concept of the Trinity as the Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "La Trinidad está tan relacionada con los asuntos del universo total que debe ser tomada en cuenta en nuestros intentos de explicar la totalidad de cualquier evento cósmico o relación de personalidad aislados. La Trinidad funciona en todos los niveles del cosmos, y el hombre mortal está limitado al nivel de lo finito; por consiguiente el hombre debe contentarse con un concepto finito de la Trinidad como Trinidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "4",
@@ -883,14 +883,14 @@
       "standardReferenceId": "10:4.7",
       "pageReference": "113.1",
       "sortId": "1.010.004.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Union of Deity",
-      "markdown": "As a mortal in the flesh you should view the Trinity in accordance with your individual enlightenment and in harmony with the reactions of your mind and soul. You can know very little of the absoluteness of the Trinity, but as you ascend Paradiseward, you will many times experience astonishment at successive revelations and unexpected discoveries of Trinity supremacy and ultimacy, if not of absoluteness."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Unión Trinitaria de la Deidad",
+      "markdown": "Como mortal en la carne debes contemplar la Trinidad de acuerdo con tu esclarecimiento individual y en armonía con las reacciones de tu mente y de tu alma. Puedes saber muy poco del carácter absoluto de la Trinidad, pero según asciendas hacia el Paraíso, te asombrarás muchas veces de las revelaciones sucesivas y de los descubrimientos inesperados de la supremacía y ultimidad —si no de la absolutez— de la Trinidad."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -901,14 +901,14 @@
       "standardReferenceId": "10:5.0",
       "pageReference": null,
       "sortId": "1.010.005.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -919,14 +919,14 @@
       "standardReferenceId": "10:5.1",
       "pageReference": "113.2",
       "sortId": "1.010.005.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "The personal Deities have attributes, but it is hardly consistent to speak of the Trinity as having attributes. This association of divine beings may more properly be regarded as having *functions,* such as justice administration, totality attitudes, co-ordinate action, and cosmic overcontrol. These functions are actively supreme, ultimate, and (within the limits of Deity) absolute as far as all living realities of personality value are concerned."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "Las deidades personales tienen atributos, pero no se puede consistentemente hablar de que la Trinidad tiene atributos. Esta asociación de seres divinos puede considerarse con mayor propiedad como que tiene *funciones,* tales como la administración de la justicia, las actitudes de totalidad, la acción coordinada, y el sobrecontrol cósmico. Estas funciones son activamente supremas, últimas y (dentro de los límites de la Deidad) absolutas hasta donde interesa a todas las realidades vivientes de valor de la personalidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -937,14 +937,14 @@
       "standardReferenceId": "10:5.2",
       "pageReference": "113.3",
       "sortId": "1.010.005.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "The functions of the Paradise Trinity are not simply the sum of the Father’s apparent endowment of divinity plus those specialized attributes that are unique in the personal existence of the Son and the Spirit. The Trinity association of the three Paradise Deities results in the evolution, eventuation, and deitization of new meanings, values, powers, and capacities for universal revelation, action, and administration. Living associations, human families, social groups, or the Paradise Trinity are not augmented by mere arithmetical summation. The group potential is always far in excess of the simple sum of the attributes of the component individuals."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "Las funciones de la Trinidad del Paraíso no son simplemente la suma de la aparente dote de divinidad del Padre más aquellos atributos especializados que son únicos en la existencia personal del Hijo y el Espíritu. La asociación en la Trinidad de las tres Deidades del Paraíso da por resultado la evolución, eventuación y deidización de nuevos significados, valores, facultades y capacidades para la revelación, la acción y la administración universales. Las asociaciones vivientes, las familias humanas, los grupos sociales, o la Trinidad del Paraíso no crecen por mera adición aritmética. La potencialidad del grupo excede siempre en mucho la simple suma de los atributos de los componentes individuales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -955,14 +955,14 @@
       "standardReferenceId": "10:5.3",
       "pageReference": "113.4",
       "sortId": "1.010.005.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "The Trinity maintains a unique attitude as the Trinity towards the entire universe of the past, present, and future. And the functions of the Trinity can best be considered in relation to the universe attitudes of the Trinity. Such attitudes are simultaneous and may be multiple concerning any isolated situation or event:"
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "La Trinidad mantiene una actitud única como Trinidad hacia todo el universo del pasado, presente y futuro. Y se pueden considerar de la mejor manera las funciones de la Trinidad en relación con las actitudes de la Trinidad hacia el universo. Tales actitudes son simultáneas y pueden ser múltiples respecto de cualquier situación o acontecimiento aislado:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -973,14 +973,14 @@
       "standardReferenceId": "10:5.4",
       "pageReference": "113.5",
       "sortId": "1.010.005.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "1. *Attitude toward the Finite.* The maximum self-limitation of the Trinity is its attitude toward the finite. The Trinity is not a person, nor is the Supreme Being an exclusive personalization of the Trinity, but the Supreme is the nearest approach to a power-personality focalization of the Trinity which can be comprehended by finite creatures. Hence the Trinity in relation to the finite is sometimes spoken of as the Trinity of Supremacy."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "1. *Actitud hacia lo finito.* La autolimitación máxima de la Trinidad es su actitud hacia lo finito. La Trinidad no es persona, ni es el Ser Supremo una personalización exclusiva de la Trinidad, pero el Supremo es el que más se acerca a una focalización del poder y personalidad de la Trinidad comprensible por criaturas finitas. De ahí que a veces se habla de la Trinidad en relación con lo finito como la Trinidad de Supremacía."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -991,14 +991,14 @@
       "standardReferenceId": "10:5.5",
       "pageReference": "113.6",
       "sortId": "1.010.005.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "2. *Attitude toward the Absonite.* The Paradise Trinity has regard for those levels of existence which are more than finite but less than absolute, and this relationship is sometimes denominated the Trinity of Ultimacy. Neither the Ultimate nor the Supreme are wholly representative of the Paradise Trinity, but in a qualified sense and to their respective levels, each seems to represent the Trinity during the prepersonal eras of experiential-power development."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "2. *Actitud hacia lo absonito.* La Trinidad del Paraíso respeta aquellos niveles de existencia que son más que finitos pero menos que absolutos, y esta relación se denomina a veces la Trinidad de Ultimidad. Ni el Último ni el Supremo son totalmente representativos de la Trinidad del Paraíso, pero en un sentido cualificado y a sus respectivos niveles, cada uno parece representar la Trinidad durante las eras prepersonales de desarrollo del poder experiencial."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -1009,14 +1009,14 @@
       "standardReferenceId": "10:5.6",
       "pageReference": "113.7",
       "sortId": "1.010.005.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "3. *The Absolute Attitude* of the Paradise Trinity is in relation to absolute existences and culminates in the action of total Deity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "3. *La actitud absoluta* de la Trinidad del Paraíso está en relación con las existencias absolutas y culmina en la acción de la Deidad total."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -1027,14 +1027,14 @@
       "standardReferenceId": "10:5.7",
       "pageReference": "113.8",
       "sortId": "1.010.005.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "The Trinity Infinite involves the co-ordinate action of all triunity relationships of the First Source and Center—undeified as well as deified—and hence is very difficult for personalities to grasp. In the contemplation of the Trinity as infinite, do not ignore the seven triunities; thereby certain difficulties of understanding may be avoided, and certain paradoxes may be partially resolved."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "La Trinidad Infinita conlleva la acción coordinada de todas las relaciones de triunidad de la Primera Fuente y Centro —tanto no deificada como deificada— y en consecuencia es muy difícil para las personalidades de captarla. En la contemplación de la Trinidad como infinita, no olvidéis las siete triunidades; así podrán evitarse ciertas dificultades de comprensión, y ciertas paradojas se resuelven parcialmente."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "5",
@@ -1045,14 +1045,14 @@
       "standardReferenceId": "10:5.8",
       "pageReference": "114.1",
       "sortId": "1.010.005.008",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "Functions of the Trinity",
-      "markdown": "But I do not command language which would enable me to convey to the limited human mind the full truth and the eternal significance of the Paradise Trinity and the nature of the never-ending interassociation of the three beings of infinite perfection."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Las Funciones de la Trinidad",
+      "markdown": "Pero yo no domino un idioma que me permita transmitir a la mente humana limitada la plena verdad y la significación eterna de la Trinidad del Paraíso y la naturaleza de la interasociación interminable de los tres seres de perfección infinita."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1063,14 +1063,14 @@
       "standardReferenceId": "10:6.0",
       "pageReference": null,
       "sortId": "1.010.006.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1081,14 +1081,14 @@
       "standardReferenceId": "10:6.1",
       "pageReference": "114.2",
       "sortId": "1.010.006.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "All law takes origin in the First Source and Center; *he is law.* The administration of spiritual law inheres in the Second Source and Center. The revelation of law, the promulgation and interpretation of the divine statutes, is the function of the Third Source and Center. The application of law, justice, falls within the province of the Paradise Trinity and is carried out by certain Sons of the Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "Toda ley se origina en la Primera Fuente y Centro; *él es la ley.* La administración de la ley espiritual es inherente en la Segunda Fuente y Centro. La revelación de la ley, la promulgación e interpretación de los estatutos divinos, es la función de la Tercera Fuente y Centro. La aplicación de la ley, la justicia, cae dentro de la provincia de la Trinidad del Paraíso y es llevada a cabo por ciertos Hijos de la Trinidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1099,14 +1099,14 @@
       "standardReferenceId": "10:6.2",
       "pageReference": "114.3",
       "sortId": "1.010.006.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "*Justice* is inherent in the universal sovereignty of the Paradise Trinity, but goodness, mercy, and truth are the universe ministry of the divine personalities, whose Deity union constitutes the Trinity. Justice is not the attitude of the Father, the Son, or the Spirit. Justice is the Trinity attitude of these personalities of love, mercy, and ministry. No one of the Paradise Deities fosters the administration of justice. Justice is never a personal attitude; it is always a plural function."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "*La justicia* es inherente a la soberanía universal de la Trinidad del Paraíso, pero la bondad, la misericordia y la verdad son el ministerio universal de las personalidades divinas, cuya unión en la Deidad constituye la Trinidad. La justicia no es la actitud del Padre, el Hijo o el Espíritu. La justicia es la actitud trinitaria de estas tres personalidades de amor, misericordia y servicio. Ninguna de las Deidades del Paraíso atiende la administración de justicia. La justicia no es nunca una actitud personal; es siempre una función plural."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1117,14 +1117,14 @@
       "standardReferenceId": "10:6.3",
       "pageReference": "114.4",
       "sortId": "1.010.006.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "*Evidence,* the basis of fairness (justice in harmony with mercy), is supplied by the personalities of the Third Source and Center, the conjoint representative of the Father and the Son to all realms and to the minds of the intelligent beings of all creation."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "*La prueba,* la base de la equidad (la justicia en armonía con la misericordia), es suministrada por las personalidades de la Tercera Fuente y Centro, el representante conjunto del Padre y del Hijo en todos los dominios y para la mente de todos de los seres inteligentes de toda la creación."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1135,14 +1135,14 @@
       "standardReferenceId": "10:6.4",
       "pageReference": "114.5",
       "sortId": "1.010.006.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "*Judgment,* the final application of justice in accordance with the evidence submitted by the personalities of the Infinite Spirit, is the work of the Stationary Sons of the Trinity, beings partaking of the Trinity nature of the united Father, Son, and Spirit."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "*El juicio,* la aplicación final de la justicia de acuerdo con las pruebas sometidas por las personalidades del Espíritu Infinito, es la obra de los Hijos Estacionarios de la Trinidad, seres que comparten la naturaleza trinitaria del Padre, el Hijo y el Espíritu unidos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1153,14 +1153,14 @@
       "standardReferenceId": "10:6.5",
       "pageReference": "114.6",
       "sortId": "1.010.006.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "This group of Trinity Sons embraces the following personalities:"
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "Este grupo de Hijos de la Trinidad comprende las siguientes personalidades:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1171,14 +1171,14 @@
       "standardReferenceId": "10:6.6",
       "pageReference": "114.7",
       "sortId": "1.010.006.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "1. Trinitized Secrets of Supremacy."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "1. Secretos Trinidizados de la Supremacía."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1189,14 +1189,14 @@
       "standardReferenceId": "10:6.7",
       "pageReference": "114.8",
       "sortId": "1.010.006.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "2. Eternals of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "2. Eternos de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1207,14 +1207,14 @@
       "standardReferenceId": "10:6.8",
       "pageReference": "114.9",
       "sortId": "1.010.006.008",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "3. Ancients of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "3. Ancianos de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1225,14 +1225,14 @@
       "standardReferenceId": "10:6.9",
       "pageReference": "114.10",
       "sortId": "1.010.006.009",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "4. Perfections of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "4. Perfecciones de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1243,14 +1243,14 @@
       "standardReferenceId": "10:6.10",
       "pageReference": "114.11",
       "sortId": "1.010.006.010",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "5. Recents of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "5. Recientes de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1261,14 +1261,14 @@
       "standardReferenceId": "10:6.11",
       "pageReference": "114.12",
       "sortId": "1.010.006.011",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "6. Unions of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "6. Uniones de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1279,14 +1279,14 @@
       "standardReferenceId": "10:6.12",
       "pageReference": "114.13",
       "sortId": "1.010.006.012",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "7. Faithfuls of Days."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "7. Fieles de los Días."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1297,14 +1297,14 @@
       "standardReferenceId": "10:6.13",
       "pageReference": "114.14",
       "sortId": "1.010.006.013",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "8. Perfectors of Wisdom."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "8. Perfeccionadores de la Sabiduría."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1315,14 +1315,14 @@
       "standardReferenceId": "10:6.14",
       "pageReference": "114.15",
       "sortId": "1.010.006.014",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "9. Divine Counselors."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "9. Consejeros Divinos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1333,14 +1333,14 @@
       "standardReferenceId": "10:6.15",
       "pageReference": "114.16",
       "sortId": "1.010.006.015",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "10. Universal Censors."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "10. Censores Universales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1351,14 +1351,14 @@
       "standardReferenceId": "10:6.16",
       "pageReference": "114.17",
       "sortId": "1.010.006.016",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "We are the children of the three Paradise Deities functioning as the Trinity, for I chance to belong to the tenth order of this group, the Universal Censors. These orders are not representative of the attitude of the Trinity in a universal sense; they represent this collective attitude of Deity only in the domains of executive judgment—justice. They were specifically designed by the Trinity for the precise work to which they are assigned, and they represent the Trinity only in those functions for which they were personalized."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "Nosotros somos los hijos de las tres Deidades del Paraíso que funcionan como la Trinidad, porque yo tengo la suerte de pertenecer a la décima orden de este grupo, los Censores Universales. Estas órdenes no representan la actitud de la Trinidad en un sentido universal; representan esta actitud colectiva de la Deidad solamente en los dominios del juicio ejecutivo: la justicia. La Trinidad los concibió específicamente para la obra precisa a la cual se los asigna, y representan a la Trinidad tan sólo en esas funciones para las cuales se personalizaron."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1369,14 +1369,14 @@
       "standardReferenceId": "10:6.17",
       "pageReference": "115.1",
       "sortId": "1.010.006.017",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "The Ancients of Days and their Trinity-origin associates mete out the just judgment of supreme fairness to the seven superuniverses. In the central universe such functions exist in theory only; there fairness is self-evident in perfection, and Havona perfection precludes all possibility of disharmony."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "Los Ancianos de los Días y sus asociados de origen trinitario, imparten el juicio justo de la equidad suprema a los siete superuniversos. En el universo central tales funciones existen solamente en teoría; allí la equidad es patente en la perfección, y la perfección de Havona excluye todas las posibilidades de desarmonía."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "6",
@@ -1387,14 +1387,14 @@
       "standardReferenceId": "10:6.18",
       "pageReference": "115.2",
       "sortId": "1.010.006.018",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Stationary Sons of the Trinity",
-      "markdown": "Justice is the collective thought of righteousness; mercy is its personal expression. Mercy is the attitude of love; precision characterizes the operation of law; divine judgment is the soul of fairness, ever conforming to the justice of the Trinity, ever fulfilling the divine love of God. When fully perceived and completely understood, the righteous justice of the Trinity and the merciful love of the Universal Father are coincident. But man has no such full understanding of divine justice. Thus in the Trinity, as man would view it, the personalities of Father, Son, and Spirit are adjusted to co-ordinate ministry of love and law in the experiential universes of time."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "Los Hijos Estacionarios de la Trinidad",
+      "markdown": "La justicia es el pensamiento colectivo de la rectitud; la misericordia es su expresión personal. La misericordia es la actitud del amor; la precisión caracteriza la operación de la ley; el juicio divino es el alma de la equidad, siempre conformándose a la justicia de la Trinidad, siempre cumpliendo el amor divino de Dios. Cuando se los percibe plenamente y se los comprende completamente, la justicia recta de la Trinidad y el amor misericordioso del Padre Universal son coincidentes. Pero el hombre no posee esa plena comprensión de la justicia divina. Así pues en la Trinidad, tal como el hombre la visualizaría, las personalidades del Padre, el Hijo y el Espíritu se ajustan al ministerio coordinado del amor y la ley en los universos experienciales del tiempo."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1405,14 +1405,14 @@
       "standardReferenceId": "10:7.0",
       "pageReference": null,
       "sortId": "1.010.007.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1423,14 +1423,14 @@
       "standardReferenceId": "10:7.1",
       "pageReference": "115.3",
       "sortId": "1.010.007.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "The First, Second, and Third Persons of Deity are equal to each other, and they are one. “The Lord our God is one God.” There is perfection of purpose and oneness of execution in the divine Trinity of eternal Deities. The Father, the Son, and the Conjoint Actor are truly and divinely one. Of a truth it is written: “I am the first, and I am the last, and beside me there is no God.”"
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "La Primera, Segunda y Tercera personas de la Deidad son iguales entre sí, y son una. «El Señor nuestro Dios es un solo Dios». Hay perfección de propósito y unidad de ejecución en la Trinidad divina de Deidades eternas. El Padre, el Hijo y el Actor Conjunto son en verdad y en divinidad uno. En verdad se ha escrito: «Yo soy el primero y yo soy el último, y fuera de mí no hay ningún Dios»."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1441,14 +1441,14 @@
       "standardReferenceId": "10:7.2",
       "pageReference": "115.4",
       "sortId": "1.010.007.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "As things appear to the mortal on the finite level, the Paradise Trinity, like the Supreme Being, is concerned only with the total—total planet, total universe, total superuniverse, total grand universe. This totality attitude exists because the Trinity is the total of Deity and for many other reasons."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "Según aparecen las cosas a los mortales en el nivel finito, la Trinidad del Paraíso, al igual que el Ser Supremo, se ocupa solamente del total: planeta total, universo total, superuniverso total, gran universo total. Esta actitud de totalidad existe porque la Trinidad es el total de la Deidad y también por muchas otras razones."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1459,14 +1459,14 @@
       "standardReferenceId": "10:7.3",
       "pageReference": "115.5",
       "sortId": "1.010.007.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "The Supreme Being is something less and something other than the Trinity functioning in the finite universes; but within certain limits and during the present era of incomplete power-personalization, this evolutionary Deity does appear to reflect the attitude of the Trinity of Supremacy. The Father, Son, and Spirit do not personally function with the Supreme Being, but during the present universe age they collaborate with him as the Trinity. We understand that they sustain a similar relationship to the Ultimate. We often conjecture as to what will be the personal relationship between the Paradise Deities and God the Supreme when he has finally evolved, but we do not really know."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "El Ser Supremo es algo menos y algo distinto de la Trinidad que funciona en los universos finitos; pero dentro de ciertos límites y durante la era presente de poder y personalización incompletos, esta Deidad evolutiva parece reflejar la actitud de la Trinidad de Supremacía. El Padre, el Hijo y el Espíritu no funcionan personalmente con el Ser Supremo, pero durante la presente era universal colaboran con él en calidad de Trinidad. Entendemos que tienen una relación similar con el Último. A menudo conjeturamos sobre cuál será la relación personal entre las Deidades del Paraíso y Dios el Supremo cuando haya finalmente evolucionado, pero realmente no lo sabemos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1477,14 +1477,14 @@
       "standardReferenceId": "10:7.4",
       "pageReference": "115.6",
       "sortId": "1.010.007.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "We do not find the overcontrol of Supremacy to be wholly predictable. Furthermore, this unpredictability appears to be characterized by a certain developmental incompleteness, undoubtedly an earmark of the incompleteness of the Supreme and of the incompleteness of finite reaction to the Paradise Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "Encontramos que el supercontrol de la Supremacía no es totalmente previsible. Además, esta imprevisibilidad parece caracterizarse por un desarrollo incompleto, indudablemente una señal del estado incompleto del Supremo y de lo inacabado de la reacción finita a la Trinidad del Paraíso."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1495,14 +1495,14 @@
       "standardReferenceId": "10:7.5",
       "pageReference": "115.7",
       "sortId": "1.010.007.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "The mortal mind can immediately think of a thousand and one things—catastrophic physical events, appalling accidents, horrific disasters, painful illnesses, and world-wide scourges—and ask whether such visitations are correlated in the unknown maneuvering of this probable functioning of the Supreme Being. Frankly, we do not know; we are not really sure. But we do observe that, as time passes, all these difficult and more or less mysterious situations *always* work out for the welfare and progress of the universes. It may be that the circumstances of existence and the inexplicable vicissitudes of living are all interwoven into a meaningful pattern of high value by the function of the Supreme and the overcontrol of the Trinity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "La mente mortal puede pensar inmediatamente en mil y una cosas —catástrofes físicas, accidentes espantosos, desastres horribles, enfermedades dolorosas, y calamidades mundiales— y preguntarse si tales visitaciones están correlacionadas con las maniobras desconocidas de este probable funcionamiento del Ser Supremo. Francamente, no lo sabemos; no estamos realmente seguros. Pero sí observamos que, según pasa el tiempo, todas estas situaciones difíciles y más o menos misteriosas re-sultan *siempre* en el bienestar y progreso de los universos. Puede ser que la función del Supremo y el supercontrol de la Trinidad entrelazan todas las circunstancias de la existencia y las inexplicables vicisitudes de la vida en un modelo significativo de alto valor."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "7",
@@ -1513,14 +1513,14 @@
       "standardReferenceId": "10:7.6",
       "pageReference": "116.1",
       "sortId": "1.010.007.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Overcontrol of Supremacy",
-      "markdown": "As a son of God you can discern the personal attitude of love in all the acts of God the Father. But you will not always be able to understand how many of the universe acts of the Paradise Trinity redound to the good of the individual mortal on the evolutionary worlds of space. In the progress of eternity the acts of the Trinity will be revealed as altogether meaningful and considerate, but they do not always so appear to the creatures of time."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "El Supercontrol de la Supremacía",
+      "markdown": "Como hijo de Dios puedes discernir la actitud personal del amor en todos los actos de Dios el Padre. Pero no siempre podrás comprender cuántos de los actos universales de la Trinidad del Paraíso redundan en bien de los individuos mortales en los mundos evolutivos del espacio. En el progreso de la eternidad los actos de la Trinidad se revelarán como completamente significativos y considerados, pero no siempre aparecen así a las criaturas del tiempo."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1531,14 +1531,14 @@
       "standardReferenceId": "10:8.0",
       "pageReference": null,
       "sortId": "1.010.008.000",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1549,14 +1549,14 @@
       "standardReferenceId": "10:8.1",
       "pageReference": "116.2",
       "sortId": "1.010.008.001",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "Many truths and facts pertaining to the Paradise Trinity can only be even partially comprehended by recognizing a function that transcends the finite."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Muchas verdades y hechos que pertenecen a la Trinidad del Paraíso sólo pueden ser comprendidas, aunque sea parcialmente, mediante el reconocimiento de una función que trasciende lo finito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1567,14 +1567,14 @@
       "standardReferenceId": "10:8.2",
       "pageReference": "116.3",
       "sortId": "1.010.008.002",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "It would be inadvisable to discuss the functions of the Trinity of Ultimacy, but it may be disclosed that God the Ultimate is the Trinity manifestation comprehended by the Transcendentalers. We are inclined to the belief that the unification of the master universe is the eventuating act of the Ultimate and is probably reflective of certain, but not all, phases of the absonite overcontrol of the Paradise Trinity. The Ultimate is a qualified manifestation of the Trinity in relation to the absonite only in the sense that the Supreme thus partially represents the Trinity in relation to the finite."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "No sería aconsejable hablar de las funciones de la Trinidad de Ultimidad, pero puede revelarse que Dios el Último es la manifestación trinitaria comprendida por los Trascendentales. Nos inclinamos a creer que la unificación del universo maestro es la acción eventuadora del Último y probablemente es reflectiva de algunas, pero no de todas las fases del supercontrol absonito de la Trinidad del Paraíso. El Último es una manifestación cualificada de la Trinidad en relación con lo absonito sólo en el sentido en que el Supremo de este modo representa parcialmente a la Trinidad en relación con lo finito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1585,14 +1585,14 @@
       "standardReferenceId": "10:8.3",
       "pageReference": "116.4",
       "sortId": "1.010.008.003",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "The Universal Father, the Eternal Son, and the Infinite Spirit are, in a certain sense, the constituent personalities of total Deity. Their union in the Paradise Trinity and the absolute function of the Trinity equivalate to the function of total Deity. And such completion of Deity transcends both the finite and the absonite."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "El Padre Universal, el Hijo Eterno, y el Espíritu Infinito son, en cierto sentido, las personalidades constituyentes de la Deidad total. Su unión en la Trinidad del Paraíso y la función absoluta de la Trinidad equivalen a las funciones de la Deidad total. Tal conclusión de la Deidad trasciende tanto lo finito como lo absonito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1603,14 +1603,14 @@
       "standardReferenceId": "10:8.4",
       "pageReference": "116.5",
       "sortId": "1.010.008.004",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "While no single person of the Paradise Deities actually fills all Deity potential, collectively all three do. Three infinite persons seem to be the minimum number of beings required to activate the prepersonal and existential potential of total Deity—the Deity Absolute."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Si bien, ninguna de las personas de las Deidades del Paraíso llena realmente todo el potencial de la Deidad, colectivamente las tres lo hacen. Tres personas infinitas parece ser el mínimo de seres que se requieren para activar el potencial prepersonal y existencial de la Deidad total: el Absoluto de Deidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1621,14 +1621,14 @@
       "standardReferenceId": "10:8.5",
       "pageReference": "116.6",
       "sortId": "1.010.008.005",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "We know the Universal Father, the Eternal Son, and the Infinite Spirit as *persons,* but I do not personally know the Deity Absolute. I love and worship God the Father; I respect and honor the Deity Absolute."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Conocemos al Padre Universal, al Hijo Eterno, y al Espíritu Infinito como *personas,* pero no conozco personalmente al Absoluto de Deidad. Amo y adoro a Dios el Padre; respeto y honro al Absoluto de Deidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1639,14 +1639,14 @@
       "standardReferenceId": "10:8.6",
       "pageReference": "116.7",
       "sortId": "1.010.008.006",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "I once sojourned in a universe where a certain group of beings taught that the finaliters, in eternity, were eventually to become the children of the Deity Absolute. But I am unwilling to accept this solution of the mystery which enshrouds the future of the finaliters."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Una vez estuve en un universo donde cierto grupo de seres enseñaba que los finalistas, en la eternidad, habían de llegar a ser finalmente los hijos del Absoluto de Deidad. Pero no estoy dispuesto a aceptar esa solución del misterio que envuelve el futuro de los finalistas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1657,14 +1657,14 @@
       "standardReferenceId": "10:8.7",
       "pageReference": "116.8",
       "sortId": "1.010.008.007",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "The Corps of the Finality embrace, among others, those mortals of time and space who have attained perfection in all that pertains to the will of God. As creatures and within the limits of creature capacity they fully and truly know God. Having thus found God as the Father of all creatures, these finaliters must sometime begin the quest for the superfinite Father. But this quest involves a grasp of the absonite nature of the ultimate attributes and character of the Paradise Father. Eternity will disclose whether such an attainment is possible, but we are convinced, even if the finaliters do grasp this ultimate of divinity, they will probably be unable to attain the superultimate levels of absolute Deity."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "El Cuerpo de los Finalistas incluye, entre otros, a aquellos mortales del tiempo y el espacio que han alcanzado la perfección en todo lo que se refiere a la voluntad de Dios. Como criaturas y dentro de los límites de la capacidad de la criatura conocen plena y verdaderamente a Dios. Habiendo encontrado así a Dios como Padre de todas las criaturas, estos finalistas deben comenzar en algún momento la búsqueda del Padre superfinito. Pero esta búsqueda conlleva una comprensión de la naturaleza absonita de los atributos y del carácter últimos del Padre del Paraíso. La eternidad revelará si alcanzar tal cosa es posible, pero estamos convencidos, aun si los finalistas logran esta ultimidad de la divinidad, éstos serán probablemente incapaces de alcanzar los niveles superúltimos de la Deidad absoluta."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1675,14 +1675,14 @@
       "standardReferenceId": "10:8.8",
       "pageReference": "116.9",
       "sortId": "1.010.008.008",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "It may be possible that the finaliters will partially attain the Deity Absolute, but even if they should, still in the eternity of eternities the problem of the Universal Absolute will continue to intrigue, mystify, baffle, and challenge the ascending and progressing finaliters, for we perceive that the unfathomability of the cosmic relationships of the Universal Absolute will tend to grow in proportions as the material universes and their spiritual administration continue to expand."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Puede ser posible que los finalistas alcancen parcialmente el Absoluto de Deidad, pero incluso si lo hicieran, aun en la eternidad de eternidades el problema del Absoluto Universal continuaría intrigando, desconcertando, confundiendo y desafiando a los finalistas ascendentes y progresivos, porque percibimos que la insondabilidad de las relaciones cósmicas del Absoluto Universal tenderá a crecer en proporción según los universos materiales y su administración espiritual continúen expandiéndose."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1693,14 +1693,14 @@
       "standardReferenceId": "10:8.9",
       "pageReference": "117.1",
       "sortId": "1.010.008.009",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "Only infinity can disclose the Father-Infinite."
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "Sólo la infinidad puede revelar al Padre-Infinito."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "1",
       "paperId": "10",
       "sectionId": "8",
@@ -1711,9 +1711,9 @@
       "standardReferenceId": "10:8.10",
       "pageReference": "117.2",
       "sortId": "1.010.008.010",
-      "paperTitle": "The Paradise Trinity",
-      "sectionTitle": "The Trinity Beyond the Finite",
-      "markdown": "[Sponsored by a Universal Censor acting by authority from the Ancients of Days resident on Uversa.]"
+      "paperTitle": "La Trinidad del Paraíso",
+      "sectionTitle": "La Trinidad Allende lo Finito",
+      "markdown": "[Patrocinado por un Censor Universal, que actúa por mandato de los Ancianos de los Días de Uversa.]"
     }
   ]
 }

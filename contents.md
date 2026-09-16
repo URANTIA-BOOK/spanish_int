@@ -1,3275 +1,3275 @@
-<h1 align="center"><a name="Contents"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Contents"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="titles.md" title="The Titles of the Papers">The Titles of the Papers</a> | <a href="000-foreword.md" title="Foreword">Foreword</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="titles.md" title="Los Títulos de los Documentos">Los Títulos de los Documentos</a> | <a href="000-foreword.md" title="Prólogo">Prólogo</a>&#160;&#62;&#62;</p><hr />
 
-## Contents of the Book
+## Contenido del Libro
 
-000 . <a href="000-foreword.md" title="Foreword">Foreword</a> . 1
+000 . <a href="000-foreword.md" title="Prólogo">Prólogo</a> . 1
 
-&#160;&#160;&#160;&#160;[I. Deity and Divinity](000-foreword.md#ideity-and-divinity "I. Deity and Divinity") . 2
+&#160;&#160;&#160;&#160;[I. La Deidad y la Divinidad](000-foreword.md#ila-deidad-y-la-divinidad "I. La Deidad y la Divinidad") . 2
 
-&#160;&#160;&#160;&#160;[II. God](000-foreword.md#iigod "II. God") . 3
+&#160;&#160;&#160;&#160;[II. Dios](000-foreword.md#iidios "II. Dios") . 3
 
-&#160;&#160;&#160;&#160;[III. The First Source and Center](000-foreword.md#iiithe-first-source-and-center "III. The First Source and Center") . 4
+&#160;&#160;&#160;&#160;[III. La Primera Fuente y Centro](000-foreword.md#iiila-primera-fuente-y-centro "III. La Primera Fuente y Centro") . 4
 
-&#160;&#160;&#160;&#160;[IV. Universe Reality](000-foreword.md#ivuniverse-reality "IV. Universe Reality") . 6
+&#160;&#160;&#160;&#160;[IV. La Realidad del Universo](000-foreword.md#ivla-realidad-del-universo "IV. La Realidad del Universo") . 6
 
-&#160;&#160;&#160;&#160;[V. Personality Realities](000-foreword.md#vpersonality-realities "V. Personality Realities") . 8
+&#160;&#160;&#160;&#160;[V. Las Realidades de la Personalidad](000-foreword.md#vlas-realidades-de-la-personalidad "V. Las Realidades de la Personalidad") . 8
 
-&#160;&#160;&#160;&#160;[VI. Energy and Pattern](000-foreword.md#vienergy-and-pattern "VI. Energy and Pattern") . 9
+&#160;&#160;&#160;&#160;[VI. La Energía y el Modelo](000-foreword.md#vila-energía-y-el-modelo "VI. La Energía y el Modelo") . 9
 
-&#160;&#160;&#160;&#160;[VII. The Supreme Being](000-foreword.md#viithe-supreme-being "VII. The Supreme Being") . 10
+&#160;&#160;&#160;&#160;[VII. El Ser Supremo](000-foreword.md#viiel-ser-supremo "VII. El Ser Supremo") . 10
 
-&#160;&#160;&#160;&#160;[VIII. God the Sevenfold](000-foreword.md#viiigod-the-sevenfold "VIII. God the Sevenfold") . 11
+&#160;&#160;&#160;&#160;[VIII. Dios el Séptuplo](000-foreword.md#viiidios-el-séptuplo "VIII. Dios el Séptuplo") . 11
 
-&#160;&#160;&#160;&#160;[IX. God the Ultimate](000-foreword.md#ixgod-the-ultimate "IX. God the Ultimate") . 12
+&#160;&#160;&#160;&#160;[IX. Dios el Último](000-foreword.md#ixdios-el-último "IX. Dios el Último") . 12
 
-&#160;&#160;&#160;&#160;[X. God the Absolute](000-foreword.md#xgod-the-absolute "X. God the Absolute") . 13
+&#160;&#160;&#160;&#160;[X. Dios el Absoluto](000-foreword.md#xdios-el-absoluto "X. Dios el Absoluto") . 13
 
-&#160;&#160;&#160;&#160;[XI. The Three Absolutes](000-foreword.md#xithe-three-absolutes "XI. The Three Absolutes") . 13
+&#160;&#160;&#160;&#160;[XI. Los Tres Absolutos](000-foreword.md#xilos-tres-absolutos "XI. Los Tres Absolutos") . 13
 
-&#160;&#160;&#160;&#160;[XII. The Trinities](000-foreword.md#xiithe-trinities "XII. The Trinities") . 15
+&#160;&#160;&#160;&#160;[XII. Las Trinidades](000-foreword.md#xiilas-trinidades "XII. Las Trinidades") . 15
 
-### [PART I](part-1/index.md "PART I")
+### [PARTE I](part-1/index.md "PARTE I")
 
-### The Central and Superuniverses
+### El Universo Central y los Superuniversos
 
-001 . <a href="part-1/001.md" title="The Universal Father">Paper 1 · The Universal Father</a> . 21
+001 . <a href="part-1/001.md" title="El Padre Universal">Documento 1 · El Padre Universal</a> . 21
 
-&#160;&#160;&#160;&#160;[1. The Father’s Name](part-1/001.md#1the-fathers-name "1. The Father’s Name") . 22
+&#160;&#160;&#160;&#160;[1. El Nombre del Padre](part-1/001.md#1el-nombre-del-padre "1. El Nombre del Padre") . 22
 
-&#160;&#160;&#160;&#160;[2. The Reality of God](part-1/001.md#2the-reality-of-god "2. The Reality of God") . 23
+&#160;&#160;&#160;&#160;[2. La Realidad de Dios](part-1/001.md#2la-realidad-de-dios "2. La Realidad de Dios") . 23
 
-&#160;&#160;&#160;&#160;[3. God is a Universal Spirit](part-1/001.md#3god-is-a-universal-spirit "3. God is a Universal Spirit") . 25
+&#160;&#160;&#160;&#160;[3. Dios es un Espíritu Universal](part-1/001.md#3dios-es-un-espíritu-universal "3. Dios es un Espíritu Universal") . 25
 
-&#160;&#160;&#160;&#160;[4. The Mystery of God](part-1/001.md#4the-mystery-of-god "4. The Mystery of God") . 26
+&#160;&#160;&#160;&#160;[4. El Misterio de Dios](part-1/001.md#4el-misterio-de-dios "4. El Misterio de Dios") . 26
 
-&#160;&#160;&#160;&#160;[5. Personality of the Universal Father](part-1/001.md#5personality-of-the-universal-father "5. Personality of the Universal Father") . 27
+&#160;&#160;&#160;&#160;[5. La Personalidad del Padre Universal](part-1/001.md#5la-personalidad-del-padre-universal "5. La Personalidad del Padre Universal") . 27
 
-&#160;&#160;&#160;&#160;[6. Personality in the Universe](part-1/001.md#6personality-in-the-universe "6. Personality in the Universe") . 29
+&#160;&#160;&#160;&#160;[6. La Personalidad en el Universo](part-1/001.md#6la-personalidad-en-el-universo "6. La Personalidad en el Universo") . 29
 
-&#160;&#160;&#160;&#160;[7. Spiritual Value of the Personality Concept](part-1/001.md#7spiritual-value-of-the-personality-concept "7. Spiritual Value of the Personality Concept") . 31
+&#160;&#160;&#160;&#160;[7. El Valor Espiritual del Concepto de la Personalidad](part-1/001.md#7el-valor-espiritual-del-concepto-de-la-personalidad "7. El Valor Espiritual del Concepto de la Personalidad") . 31
 
-002 . <a href="part-1/002.md" title="The Nature of God">Paper 2 · The Nature of God</a> . 33
+002 . <a href="part-1/002.md" title="La Naturaleza de Dios">Documento 2 · La Naturaleza de Dios</a> . 33
 
-&#160;&#160;&#160;&#160;[1. The Infinity of God](part-1/002.md#1the-infinity-of-god "1. The Infinity of God") . 33
+&#160;&#160;&#160;&#160;[1. La Infinidad de Dios](part-1/002.md#1la-infinidad-de-dios "1. La Infinidad de Dios") . 33
 
-&#160;&#160;&#160;&#160;[2. The Father’s Eternal Perfection](part-1/002.md#2the-fathers-eternal-perfection "2. The Father’s Eternal Perfection") . 35
+&#160;&#160;&#160;&#160;[2. La Perfección Eterna del Padre](part-1/002.md#2la-perfección-eterna-del-padre "2. La Perfección Eterna del Padre") . 35
 
-&#160;&#160;&#160;&#160;[3. Justice and Righteousness](part-1/002.md#3justice-and-righteousness "3. Justice and Righteousness") . 36
+&#160;&#160;&#160;&#160;[3. La Justicia y la Rectitud](part-1/002.md#3la-justicia-y-la-rectitud "3. La Justicia y la Rectitud") . 36
 
-&#160;&#160;&#160;&#160;[4. The Divine Mercy](part-1/002.md#4the-divine-mercy "4. The Divine Mercy") . 38
+&#160;&#160;&#160;&#160;[4. La Misericordia Divina](part-1/002.md#4la-misericordia-divina "4. La Misericordia Divina") . 38
 
-&#160;&#160;&#160;&#160;[5. The Love of God](part-1/002.md#5the-love-of-god "5. The Love of God") . 38
+&#160;&#160;&#160;&#160;[5. El Amor de Dios](part-1/002.md#5el-amor-de-dios "5. El Amor de Dios") . 38
 
-&#160;&#160;&#160;&#160;[6. The Goodness of God](part-1/002.md#6the-goodness-of-god "6. The Goodness of God") . 40
+&#160;&#160;&#160;&#160;[6. La Bondad de Dios](part-1/002.md#6la-bondad-de-dios "6. La Bondad de Dios") . 40
 
-&#160;&#160;&#160;&#160;[7. Divine Truth and Beauty](part-1/002.md#7divine-truth-and-beauty "7. Divine Truth and Beauty") . 42
+&#160;&#160;&#160;&#160;[7. La Verdad y la Belleza Divinas](part-1/002.md#7la-verdad-y-la-belleza-divinas "7. La Verdad y la Belleza Divinas") . 42
 
-003 . <a href="part-1/003.md" title="The Attributes of God">Paper 3 · The Attributes of God</a> . 44
+003 . <a href="part-1/003.md" title="Los Atributos de Dios">Documento 3 · Los Atributos de Dios</a> . 44
 
-&#160;&#160;&#160;&#160;[1. God’s Everywhereness](part-1/003.md#1gods-everywhereness "1. God’s Everywhereness") . 44
+&#160;&#160;&#160;&#160;[1. La Ubicuidad de Dios](part-1/003.md#1la-ubicuidad-de-dios "1. La Ubicuidad de Dios") . 44
 
-&#160;&#160;&#160;&#160;[2. God’s Infinite Power](part-1/003.md#2gods-infinite-power "2. God’s Infinite Power") . 46
+&#160;&#160;&#160;&#160;[2. El Poder Infinito de Dios](part-1/003.md#2el-poder-infinito-de-dios "2. El Poder Infinito de Dios") . 46
 
-&#160;&#160;&#160;&#160;[3. God’s Universal Knowledge](part-1/003.md#3gods-universal-knowledge "3. God’s Universal Knowledge") . 48
+&#160;&#160;&#160;&#160;[3. El Conocimiento Universal de Dios](part-1/003.md#3el-conocimiento-universal-de-dios "3. El Conocimiento Universal de Dios") . 48
 
-&#160;&#160;&#160;&#160;[4. God’s Limitlessness](part-1/003.md#4gods-limitlessness "4. God’s Limitlessness") . 49
+&#160;&#160;&#160;&#160;[4. La Ilimitabilidad de Dios](part-1/003.md#4la-ilimitabilidad-de-dios "4. La Ilimitabilidad de Dios") . 49
 
-&#160;&#160;&#160;&#160;[5. The Father’s Supreme Rule](part-1/003.md#5the-fathers-supreme-rule "5. The Father’s Supreme Rule") . 50
+&#160;&#160;&#160;&#160;[5. La Ley Suprema del Padre](part-1/003.md#5la-ley-suprema-del-padre "5. La Ley Suprema del Padre") . 50
 
-&#160;&#160;&#160;&#160;[6. The Father’s Primacy](part-1/003.md#6the-fathers-primacy "6. The Father’s Primacy") . 52
+&#160;&#160;&#160;&#160;[6. La Primacía del Padre](part-1/003.md#6la-primacía-del-padre "6. La Primacía del Padre") . 52
 
-004 . <a href="part-1/004.md" title="God’s Relation to the Universe">Paper 4 · God’s Relation to the Universe</a> . 54
+004 . <a href="part-1/004.md" title="La Relación de Dios con el Universo">Documento 4 · La Relación de Dios con el Universo</a> . 54
 
-&#160;&#160;&#160;&#160;[1. The Universe Attitude of the Father](part-1/004.md#1the-universe-attitude-of-the-father "1. The Universe Attitude of the Father") . 54
+&#160;&#160;&#160;&#160;[1. La Actitud Universal del Padre](part-1/004.md#1la-actitud-universal-del-padre "1. La Actitud Universal del Padre") . 54
 
-&#160;&#160;&#160;&#160;[2. God and Nature](part-1/004.md#2god-and-nature "2. God and Nature") . 56
+&#160;&#160;&#160;&#160;[2. Dios y la Naturaleza](part-1/004.md#2dios-y-la-naturaleza "2. Dios y la Naturaleza") . 56
 
-&#160;&#160;&#160;&#160;[3. God’s Unchanging Character](part-1/004.md#3gods-unchanging-character "3. God’s Unchanging Character") . 57
+&#160;&#160;&#160;&#160;[3. El Carácter Invariable de Dios](part-1/004.md#3el-carácter-invariable-de-dios "3. El Carácter Invariable de Dios") . 57
 
-&#160;&#160;&#160;&#160;[4. The Realization of God](part-1/004.md#4the-realization-of-god "4. The Realization of God") . 58
+&#160;&#160;&#160;&#160;[4. La Comprensión de Dios](part-1/004.md#4la-comprensión-de-dios "4. La Comprensión de Dios") . 58
 
-&#160;&#160;&#160;&#160;[5. Erroneous Ideas of God](part-1/004.md#5erroneous-ideas-of-god "5. Erroneous Ideas of God") . 59
+&#160;&#160;&#160;&#160;[5. Las Ideas Erróneas Sobre Dios](part-1/004.md#5las-ideas-erróneas-sobre-dios "5. Las Ideas Erróneas Sobre Dios") . 59
 
-005 . <a href="part-1/005.md" title="God’s Relation to the Individual">Paper 5 · God’s Relation to the Individual</a> . 62
+005 . <a href="part-1/005.md" title="La Relación de Dios con el Individuo">Documento 5 · La Relación de Dios con el Individuo</a> . 62
 
-&#160;&#160;&#160;&#160;[1. The Approach to God](part-1/005.md#1the-approach-to-god "1. The Approach to God") . 62
+&#160;&#160;&#160;&#160;[1. El Acercamiento a Dios](part-1/005.md#1el-acercamiento-a-dios "1. El Acercamiento a Dios") . 62
 
-&#160;&#160;&#160;&#160;[2. The Presence of God](part-1/005.md#2the-presence-of-god "2. The Presence of God") . 64
+&#160;&#160;&#160;&#160;[2. La Presencia de Dios](part-1/005.md#2la-presencia-de-dios "2. La Presencia de Dios") . 64
 
-&#160;&#160;&#160;&#160;[3. True Worship](part-1/005.md#3true-worship "3. True Worship") . 65
+&#160;&#160;&#160;&#160;[3. La Verdadera Adoración](part-1/005.md#3la-verdadera-adoración "3. La Verdadera Adoración") . 65
 
-&#160;&#160;&#160;&#160;[4. God in Religion](part-1/005.md#4god-in-religion "4. God in Religion") . 66
+&#160;&#160;&#160;&#160;[4. Dios en la Religión](part-1/005.md#4dios-en-la-religión "4. Dios en la Religión") . 66
 
-&#160;&#160;&#160;&#160;[5. The Consciousness of God](part-1/005.md#5the-consciousness-of-god "5. The Consciousness of God") . 68
+&#160;&#160;&#160;&#160;[5. La Conciencia de Dios](part-1/005.md#5la-conciencia-de-dios "5. La Conciencia de Dios") . 68
 
-&#160;&#160;&#160;&#160;[6. The God of Personality](part-1/005.md#6the-god-of-personality "6. The God of Personality") . 70
+&#160;&#160;&#160;&#160;[6. El Dios de la Personalidad](part-1/005.md#6el-dios-de-la-personalidad "6. El Dios de la Personalidad") . 70
 
-006 . <a href="part-1/006.md" title="The Eternal Son">Paper 6 · The Eternal Son</a> . 73
+006 . <a href="part-1/006.md" title="El Hijo Eterno">Documento 6 · El Hijo Eterno</a> . 73
 
-&#160;&#160;&#160;&#160;[1. Identity of the Eternal Son](part-1/006.md#1identity-of-the-eternal-son "1. Identity of the Eternal Son") . 73
+&#160;&#160;&#160;&#160;[1. La Identidad del Hijo Eterno](part-1/006.md#1la-identidad-del-hijo-eterno "1. La Identidad del Hijo Eterno") . 73
 
-&#160;&#160;&#160;&#160;[2. Nature of the Eternal Son](part-1/006.md#2nature-of-the-eternal-son "2. Nature of the Eternal Son") . 74
+&#160;&#160;&#160;&#160;[2. La Naturaleza del Hijo Eterno](part-1/006.md#2la-naturaleza-del-hijo-eterno "2. La Naturaleza del Hijo Eterno") . 74
 
-&#160;&#160;&#160;&#160;[3. Ministry of the Father’s Love](part-1/006.md#3ministry-of-the-fathers-love "3. Ministry of the Father’s Love") . 75
+&#160;&#160;&#160;&#160;[3. El Ministerio del Amor del Padre](part-1/006.md#3el-ministerio-del-amor-del-padre "3. El Ministerio del Amor del Padre") . 75
 
-&#160;&#160;&#160;&#160;[4. Attributes of the Eternal Son](part-1/006.md#4attributes-of-the-eternal-son "4. Attributes of the Eternal Son") . 76
+&#160;&#160;&#160;&#160;[4. Los Atributos del Hijo Eterno](part-1/006.md#4los-atributos-del-hijo-eterno "4. Los Atributos del Hijo Eterno") . 76
 
-&#160;&#160;&#160;&#160;[5. Limitations of the Eternal Son](part-1/006.md#5limitations-of-the-eternal-son "5. Limitations of the Eternal Son") . 77
+&#160;&#160;&#160;&#160;[5. Las Limitaciones del Hijo Eterno](part-1/006.md#5las-limitaciones-del-hijo-eterno "5. Las Limitaciones del Hijo Eterno") . 77
 
-&#160;&#160;&#160;&#160;[6. The Spirit Mind](part-1/006.md#6the-spirit-mind "6. The Spirit Mind") . 78
+&#160;&#160;&#160;&#160;[6. La Mente del Espíritu](part-1/006.md#6la-mente-del-espíritu "6. La Mente del Espíritu") . 78
 
-&#160;&#160;&#160;&#160;[7. Personality of the Eternal Son](part-1/006.md#7personality-of-the-eternal-son "7. Personality of the Eternal Son") . 79
+&#160;&#160;&#160;&#160;[7. La Personalidad del Hijo Eterno](part-1/006.md#7la-personalidad-del-hijo-eterno "7. La Personalidad del Hijo Eterno") . 79
 
-&#160;&#160;&#160;&#160;[8. Realization of the Eternal Son](part-1/006.md#8realization-of-the-eternal-son "8. Realization of the Eternal Son") . 79
+&#160;&#160;&#160;&#160;[8. La Comprensión del Hijo Eterno](part-1/006.md#8la-comprensión-del-hijo-eterno "8. La Comprensión del Hijo Eterno") . 79
 
-007 . <a href="part-1/007.md" title="Relation of the Eternal Son to the Universe">Paper 7 · Relation of the Eternal Son to the Universe</a> . 81
+007 . <a href="part-1/007.md" title="La Relación del Hijo Eterno con el Universo">Documento 7 · La Relación del Hijo Eterno con el Universo</a> . 81
 
-&#160;&#160;&#160;&#160;[1. The Spirit-Gravity Circuit](part-1/007.md#1the-spirit-gravity-circuit "1. The Spirit-Gravity Circuit") . 81
+&#160;&#160;&#160;&#160;[1. El Circuito de la Gravedad-Espíritu](part-1/007.md#1el-circuito-de-la-gravedad-espíritu "1. El Circuito de la Gravedad-Espíritu") . 81
 
-&#160;&#160;&#160;&#160;[2. The Administration of the Eternal Son](part-1/007.md#2the-administration-of-the-eternal-son "2. The Administration of the Eternal Son") . 83
+&#160;&#160;&#160;&#160;[2. La Administración del Hijo Eterno](part-1/007.md#2la-administración-del-hijo-eterno "2. La Administración del Hijo Eterno") . 83
 
-&#160;&#160;&#160;&#160;[3. Relation of the Eternal Son to the Individual](part-1/007.md#3relation-of-the-eternal-son-to-the-individual "3. Relation of the Eternal Son to the Individual") . 84
+&#160;&#160;&#160;&#160;[3. La Relación del Hijo Eterno con el Individuo](part-1/007.md#3la-relación-del-hijo-eterno-con-el-individuo "3. La Relación del Hijo Eterno con el Individuo") . 84
 
-&#160;&#160;&#160;&#160;[4. The Divine Perfection Plans](part-1/007.md#4the-divine-perfection-plans "4. The Divine Perfection Plans") . 85
+&#160;&#160;&#160;&#160;[4. Los Planes de Perfección Divina](part-1/007.md#4los-planes-de-perfección-divina "4. Los Planes de Perfección Divina") . 85
 
-&#160;&#160;&#160;&#160;[5. The Spirit of Bestowal](part-1/007.md#5the-spirit-of-bestowal "5. The Spirit of Bestowal") . 86
+&#160;&#160;&#160;&#160;[5. El Espíritu de Autootorgamiento](part-1/007.md#5el-espíritu-de-autootorgamiento "5. El Espíritu de Autootorgamiento") . 86
 
-&#160;&#160;&#160;&#160;[6. The Paradise Sons of God](part-1/007.md#6the-paradise-sons-of-god "6. The Paradise Sons of God") . 87
+&#160;&#160;&#160;&#160;[6. Los Hijos de Dios Paradisiacos](part-1/007.md#6los-hijos-de-dios-paradisiacos "6. Los Hijos de Dios Paradisiacos") . 87
 
-&#160;&#160;&#160;&#160;[7. The Supreme Revelation of the Father](part-1/007.md#7the-supreme-revelation-of-the-father "7. The Supreme Revelation of the Father") . 88
+&#160;&#160;&#160;&#160;[7. La Revelación Suprema del Padre](part-1/007.md#7la-revelación-suprema-del-padre "7. La Revelación Suprema del Padre") . 88
 
-008 . <a href="part-1/008.md" title="The Infinite Spirit">Paper 8 · The Infinite Spirit</a> . 90
+008 . <a href="part-1/008.md" title="El Espíritu Infinito">Documento 8 · El Espíritu Infinito</a> . 90
 
-&#160;&#160;&#160;&#160;[1. The God of Action](part-1/008.md#1the-god-of-action "1. The God of Action") . 90
+&#160;&#160;&#160;&#160;[1. El Dios de Acción](part-1/008.md#1el-dios-de-acción "1. El Dios de Acción") . 90
 
-&#160;&#160;&#160;&#160;[2. Nature of the Infinite Spirit](part-1/008.md#2nature-of-the-infinite-spirit "2. Nature of the Infinite Spirit") . 92
+&#160;&#160;&#160;&#160;[2. La Naturaleza del Espíritu Infinito](part-1/008.md#2la-naturaleza-del-espíritu-infinito "2. La Naturaleza del Espíritu Infinito") . 92
 
-&#160;&#160;&#160;&#160;[3. Relation of the Spirit to the Father and the Son](part-1/008.md#3relation-of-the-spirit-to-the-father-and-the-son "3. Relation of the Spirit to the Father and the Son") . 93
+&#160;&#160;&#160;&#160;[3. La Relación del Espíritu con el Padre y el Hijo](part-1/008.md#3la-relación-del-espíritu-con-el-padre-y-el-hijo "3. La Relación del Espíritu con el Padre y el Hijo") . 93
 
-&#160;&#160;&#160;&#160;[4. The Spirit of Divine Ministry](part-1/008.md#4the-spirit-of-divine-ministry "4. The Spirit of Divine Ministry") . 94
+&#160;&#160;&#160;&#160;[4. El Espíritu del Ministerio Divino](part-1/008.md#4el-espíritu-del-ministerio-divino "4. El Espíritu del Ministerio Divino") . 94
 
-&#160;&#160;&#160;&#160;[5. The Presence of God](part-1/008.md#5the-presence-of-god "5. The Presence of God") . 95
+&#160;&#160;&#160;&#160;[5. La Presencia de Dios](part-1/008.md#5la-presencia-de-dios "5. La Presencia de Dios") . 95
 
-&#160;&#160;&#160;&#160;[6. Personality of the Infinite Spirit](part-1/008.md#6personality-of-the-infinite-spirit "6. Personality of the Infinite Spirit") . 96
+&#160;&#160;&#160;&#160;[6. La Personalidad del Espíritu Infinito](part-1/008.md#6la-personalidad-del-espíritu-infinito "6. La Personalidad del Espíritu Infinito") . 96
 
-009 . <a href="part-1/009.md" title="Relation of the Infinite Spirit to the Universe">Paper 9 · Relation of the Infinite Spirit to the Universe</a> . 98
+009 . <a href="part-1/009.md" title="La Relación del Espíritu Infinito con el Universo">Documento 9 · La Relación del Espíritu Infinito con el Universo</a> . 98
 
-&#160;&#160;&#160;&#160;[1. Attributes of the Third Source and Center](part-1/009.md#1attributes-of-the-third-source-and-center "1. Attributes of the Third Source and Center") . 98
+&#160;&#160;&#160;&#160;[1. Los Atributos de la Tercera Fuente y Centro](part-1/009.md#1los-atributos-de-la-tercera-fuente-y-centro "1. Los Atributos de la Tercera Fuente y Centro") . 98
 
-&#160;&#160;&#160;&#160;[2. The Omnipresent Spirit](part-1/009.md#2the-omnipresent-spirit "2. The Omnipresent Spirit") . 100
+&#160;&#160;&#160;&#160;[2. El Espíritu Omnipresente](part-1/009.md#2el-espíritu-omnipresente "2. El Espíritu Omnipresente") . 100
 
-&#160;&#160;&#160;&#160;[3. The Universal Manipulator](part-1/009.md#3the-universal-manipulator "3. The Universal Manipulator") . 101
+&#160;&#160;&#160;&#160;[3. El Manipulador Universal](part-1/009.md#3el-manipulador-universal "3. El Manipulador Universal") . 101
 
-&#160;&#160;&#160;&#160;[4. The Absolute Mind](part-1/009.md#4the-absolute-mind "4. The Absolute Mind") . 102
+&#160;&#160;&#160;&#160;[4. La Mente Absoluta](part-1/009.md#4la-mente-absoluta "4. La Mente Absoluta") . 102
 
-&#160;&#160;&#160;&#160;[5. The Ministry of Mind](part-1/009.md#5the-ministry-of-mind "5. The Ministry of Mind") . 102
+&#160;&#160;&#160;&#160;[5. El Ministerio de la Mente](part-1/009.md#5el-ministerio-de-la-mente "5. El Ministerio de la Mente") . 102
 
-&#160;&#160;&#160;&#160;[6. The Mind-Gravity Circuit](part-1/009.md#6the-mind-gravity-circuit "6. The Mind-Gravity Circuit") . 103
+&#160;&#160;&#160;&#160;[6. El Circuito de Gravedad Mental](part-1/009.md#6el-circuito-de-gravedad-mental "6. El Circuito de Gravedad Mental") . 103
 
-&#160;&#160;&#160;&#160;[7. Universe Reflectivity](part-1/009.md#7universe-reflectivity "7. Universe Reflectivity") . 105
+&#160;&#160;&#160;&#160;[7. La Reflectividad del Universo](part-1/009.md#7la-reflectividad-del-universo "7. La Reflectividad del Universo") . 105
 
-&#160;&#160;&#160;&#160;[8. Personalities of the Infinite Spirit](part-1/009.md#8personalities-of-the-infinite-spirit "8. Personalities of the Infinite Spirit") . 105
+&#160;&#160;&#160;&#160;[8. Las Personalidades del Espíritu Infinito](part-1/009.md#8las-personalidades-del-espíritu-infinito "8. Las Personalidades del Espíritu Infinito") . 105
 
-010 . <a href="part-1/010.md" title="The Paradise Trinity">Paper 10 · The Paradise Trinity</a> . 108
+010 . <a href="part-1/010.md" title="La Trinidad del Paraíso">Documento 10 · La Trinidad del Paraíso</a> . 108
 
-&#160;&#160;&#160;&#160;[1. Self-Distribution of the First Source and Center](part-1/010.md#1self-distribution-of-the-first-source-and-center "1. Self-Distribution of the First Source and Center") . 108
+&#160;&#160;&#160;&#160;[1. La Autodistribución de la Primera Fuente y Centro](part-1/010.md#1la-autodistribución-de-la-primera-fuente-y-centro "1. La Autodistribución de la Primera Fuente y Centro") . 108
 
-&#160;&#160;&#160;&#160;[2. Deity Personalization](part-1/010.md#2deity-personalization "2. Deity Personalization") . 109
+&#160;&#160;&#160;&#160;[2. La Personalización de la Deidad](part-1/010.md#2la-personalización-de-la-deidad "2. La Personalización de la Deidad") . 109
 
-&#160;&#160;&#160;&#160;[3. The Three Persons of Deity](part-1/010.md#3the-three-persons-of-deity "3. The Three Persons of Deity") . 110
+&#160;&#160;&#160;&#160;[3. Las Tres Personas de la Deidad](part-1/010.md#3las-tres-personas-de-la-deidad "3. Las Tres Personas de la Deidad") . 110
 
-&#160;&#160;&#160;&#160;[4. The Trinity Union of Deity](part-1/010.md#4the-trinity-union-of-deity "4. The Trinity Union of Deity") . 112
+&#160;&#160;&#160;&#160;[4. La Unión Trinitaria de la Deidad](part-1/010.md#4la-unión-trinitaria-de-la-deidad "4. La Unión Trinitaria de la Deidad") . 112
 
-&#160;&#160;&#160;&#160;[5. Functions of the Trinity](part-1/010.md#5functions-of-the-trinity "5. Functions of the Trinity") . 113
+&#160;&#160;&#160;&#160;[5. Las Funciones de la Trinidad](part-1/010.md#5las-funciones-de-la-trinidad "5. Las Funciones de la Trinidad") . 113
 
-&#160;&#160;&#160;&#160;[6. The Stationary Sons of the Trinity](part-1/010.md#6the-stationary-sons-of-the-trinity "6. The Stationary Sons of the Trinity") . 114
+&#160;&#160;&#160;&#160;[6. Los Hijos Estacionarios de la Trinidad](part-1/010.md#6los-hijos-estacionarios-de-la-trinidad "6. Los Hijos Estacionarios de la Trinidad") . 114
 
-&#160;&#160;&#160;&#160;[7. The Overcontrol of Supremacy](part-1/010.md#7the-overcontrol-of-supremacy "7. The Overcontrol of Supremacy") . 115
+&#160;&#160;&#160;&#160;[7. El Supercontrol de la Supremacía](part-1/010.md#7el-supercontrol-de-la-supremacía "7. El Supercontrol de la Supremacía") . 115
 
-&#160;&#160;&#160;&#160;[8. The Trinity Beyond the Finite](part-1/010.md#8the-trinity-beyond-the-finite "8. The Trinity Beyond the Finite") . 116
+&#160;&#160;&#160;&#160;[8. La Trinidad Allende lo Finito](part-1/010.md#8la-trinidad-allende-lo-finito "8. La Trinidad Allende lo Finito") . 116
 
-011 . <a href="part-1/011.md" title="The Eternal Isle of Paradise">Paper 11 · The Eternal Isle of Paradise</a> . 118
+011 . <a href="part-1/011.md" title="La Isla Eterna del Paraíso">Documento 11 · La Isla Eterna del Paraíso</a> . 118
 
-&#160;&#160;&#160;&#160;[1. The Divine Residence](part-1/011.md#1the-divine-residence "1. The Divine Residence") . 118
+&#160;&#160;&#160;&#160;[1. La Morada Divina](part-1/011.md#1la-morada-divina "1. La Morada Divina") . 118
 
-&#160;&#160;&#160;&#160;[2. Nature of the Eternal Isle](part-1/011.md#2nature-of-the-eternal-isle "2. Nature of the Eternal Isle") . 119
+&#160;&#160;&#160;&#160;[2. La Naturaleza de la Isla Eterna](part-1/011.md#2la-naturaleza-de-la-isla-eterna "2. La Naturaleza de la Isla Eterna") . 119
 
-&#160;&#160;&#160;&#160;[3. Upper Paradise](part-1/011.md#3upper-paradise "3. Upper Paradise") . 120
+&#160;&#160;&#160;&#160;[3. El Paraíso Superior](part-1/011.md#3el-paraíso-superior "3. El Paraíso Superior") . 120
 
-&#160;&#160;&#160;&#160;[4. Peripheral Paradise](part-1/011.md#4peripheral-paradise "4. Peripheral Paradise") . 121
+&#160;&#160;&#160;&#160;[4. Paraíso Periférico](part-1/011.md#4paraíso-periférico "4. Paraíso Periférico") . 121
 
-&#160;&#160;&#160;&#160;[5. Nether Paradise](part-1/011.md#5nether-paradise "5. Nether Paradise") . 122
+&#160;&#160;&#160;&#160;[5. El Paraíso Bajo](part-1/011.md#5el-paraíso-bajo "5. El Paraíso Bajo") . 122
 
-&#160;&#160;&#160;&#160;[6. Space Respiration](part-1/011.md#6space-respiration "6. Space Respiration") . 123
+&#160;&#160;&#160;&#160;[6. La Respiración del Espacio](part-1/011.md#6la-respiración-del-espacio "6. La Respiración del Espacio") . 123
 
-&#160;&#160;&#160;&#160;[7. Space Functions of Paradise](part-1/011.md#7space-functions-of-paradise "7. Space Functions of Paradise") . 124
+&#160;&#160;&#160;&#160;[7. Las Funciones Espaciales del Paraíso](part-1/011.md#7las-funciones-espaciales-del-paraíso "7. Las Funciones Espaciales del Paraíso") . 124
 
-&#160;&#160;&#160;&#160;[8. Paradise Gravity](part-1/011.md#8paradise-gravity "8. Paradise Gravity") . 125
+&#160;&#160;&#160;&#160;[8. La Gravedad del Paraíso](part-1/011.md#8la-gravedad-del-paraíso "8. La Gravedad del Paraíso") . 125
 
-&#160;&#160;&#160;&#160;[9. The Uniqueness of Paradise](part-1/011.md#9the-uniqueness-of-paradise "9. The Uniqueness of Paradise") . 126
+&#160;&#160;&#160;&#160;[9. La Singularidad del Paraíso](part-1/011.md#9la-singularidad-del-paraíso "9. La Singularidad del Paraíso") . 126
 
-012 . <a href="part-1/012.md" title="The Universe of Universes">Paper 12 · The Universe of Universes</a> . 128
+012 . <a href="part-1/012.md" title="El Universo de los Universos">Documento 12 · El Universo de los Universos</a> . 128
 
-&#160;&#160;&#160;&#160;[1. Space Levels of the Master Universe](part-1/012.md#1space-levels-of-the-master-universe "1. Space Levels of the Master Universe") . 128
+&#160;&#160;&#160;&#160;[1. Los Niveles Espaciales del Universo Maestro](part-1/012.md#1los-niveles-espaciales-del-universo-maestro "1. Los Niveles Espaciales del Universo Maestro") . 128
 
-&#160;&#160;&#160;&#160;[2. The Domains of the Unqualified Absolute](part-1/012.md#2the-domains-of-the-unqualified-absolute "2. The Domains of the Unqualified Absolute") . 130
+&#160;&#160;&#160;&#160;[2. Los Dominios del Absoluto No Cualificado](part-1/012.md#2los-dominios-del-absoluto-no-cualificado "2. Los Dominios del Absoluto No Cualificado") . 130
 
-&#160;&#160;&#160;&#160;[3. Universal Gravity](part-1/012.md#3universal-gravity "3. Universal Gravity") . 131
+&#160;&#160;&#160;&#160;[3. La Gravedad Universal](part-1/012.md#3la-gravedad-universal "3. La Gravedad Universal") . 131
 
-&#160;&#160;&#160;&#160;[4. Space and Motion](part-1/012.md#4space-and-motion "4. Space and Motion") . 133
+&#160;&#160;&#160;&#160;[4. El Espacio y el Movimiento](part-1/012.md#4el-espacio-y-el-movimiento "4. El Espacio y el Movimiento") . 133
 
-&#160;&#160;&#160;&#160;[5. Space and Time](part-1/012.md#5space-and-time "5. Space and Time") . 134
+&#160;&#160;&#160;&#160;[5. El Espacio y el Tiempo](part-1/012.md#5el-espacio-y-el-tiempo "5. El Espacio y el Tiempo") . 134
 
-&#160;&#160;&#160;&#160;[6. Universal Overcontrol](part-1/012.md#6universal-overcontrol "6. Universal Overcontrol") . 135
+&#160;&#160;&#160;&#160;[6. El Supercontrol Universal](part-1/012.md#6el-supercontrol-universal "6. El Supercontrol Universal") . 135
 
-&#160;&#160;&#160;&#160;[7. The Part and the Whole](part-1/012.md#7the-part-and-the-whole "7. The Part and the Whole") . 137
+&#160;&#160;&#160;&#160;[7. La Parte y el Todo](part-1/012.md#7la-parte-y-el-todo "7. La Parte y el Todo") . 137
 
-&#160;&#160;&#160;&#160;[8. Matter, Mind, and Spirit](part-1/012.md#8matter-mind-and-spirit "8. Matter, Mind, and Spirit") . 139
+&#160;&#160;&#160;&#160;[8. La Materia, la Mente y el Espíritu](part-1/012.md#8la-materia-la-mente-y-el-espíritu "8. La Materia, la Mente y el Espíritu") . 139
 
-&#160;&#160;&#160;&#160;[9. Personal Realities](part-1/012.md#9personal-realities "9. Personal Realities") . 141
+&#160;&#160;&#160;&#160;[9. Las Realidades Personales](part-1/012.md#9las-realidades-personales "9. Las Realidades Personales") . 141
 
-013 . <a href="part-1/013.md" title="The Sacred Spheres of Paradise">Paper 13 · The Sacred Spheres of Paradise</a> . 143
+013 . <a href="part-1/013.md" title="Las Esferas Sagradas del Paraíso">Documento 13 · Las Esferas Sagradas del Paraíso</a> . 143
 
-&#160;&#160;&#160;&#160;[1. The Seven Sacred Worlds of the Father](part-1/013.md#1the-seven-sacred-worlds-of-the-father "1. The Seven Sacred Worlds of the Father") . 144
+&#160;&#160;&#160;&#160;[1. Los Siete Mundos Sagrados del Padre](part-1/013.md#1los-siete-mundos-sagrados-del-padre "1. Los Siete Mundos Sagrados del Padre") . 144
 
-&#160;&#160;&#160;&#160;[2. Father-World Relationships](part-1/013.md#2father-world-relationships "2. Father-World Relationships") . 147
+&#160;&#160;&#160;&#160;[2. Las Relaciónes en los Mundos del Padre](part-1/013.md#2las-relaciónes-en-los-mundos-del-padre "2. Las Relaciónes en los Mundos del Padre") . 147
 
-&#160;&#160;&#160;&#160;[3. The Sacred Worlds of the Eternal Son](part-1/013.md#3the-sacred-worlds-of-the-eternal-son "3. The Sacred Worlds of the Eternal Son") . 149
+&#160;&#160;&#160;&#160;[3. Los Mundos Sagrados del Hijo Eterno](part-1/013.md#3los-mundos-sagrados-del-hijo-eterno "3. Los Mundos Sagrados del Hijo Eterno") . 149
 
-&#160;&#160;&#160;&#160;[4. The Worlds of the Infinite Spirit](part-1/013.md#4the-worlds-of-the-infinite-spirit "4. The Worlds of the Infinite Spirit") . 149
+&#160;&#160;&#160;&#160;[4. Los Mundos del Espíritu Infinito](part-1/013.md#4los-mundos-del-espíritu-infinito "4. Los Mundos del Espíritu Infinito") . 149
 
-014 . <a href="part-1/014.md" title="The Central and Divine Universe">Paper 14 · The Central and Divine Universe</a> . 152
+014 . <a href="part-1/014.md" title="El Universo Central y Divino">Documento 14 · El Universo Central y Divino</a> . 152
 
-&#160;&#160;&#160;&#160;[1. The Paradise-Havona System](part-1/014.md#1the-paradise-havona-system "1. The Paradise-Havona System") . 152
+&#160;&#160;&#160;&#160;[1. El Sistema Paraíso-Havona](part-1/014.md#1el-sistema-paraíso-havona "1. El Sistema Paraíso-Havona") . 152
 
-&#160;&#160;&#160;&#160;[2. Constitution of Havona](part-1/014.md#2constitution-of-havona "2. Constitution of Havona") . 154
+&#160;&#160;&#160;&#160;[2. La Constitución de Havona](part-1/014.md#2la-constitución-de-havona "2. La Constitución de Havona") . 154
 
-&#160;&#160;&#160;&#160;[3. The Havona Worlds](part-1/014.md#3the-havona-worlds "3. The Havona Worlds") . 155
+&#160;&#160;&#160;&#160;[3. Los Mundos de Havona](part-1/014.md#3los-mundos-de-havona "3. Los Mundos de Havona") . 155
 
-&#160;&#160;&#160;&#160;[4. Creatures of the Central Universe](part-1/014.md#4creatures-of-the-central-universe "4. Creatures of the Central Universe") . 156
+&#160;&#160;&#160;&#160;[4. Las Criaturas del Universo Central](part-1/014.md#4las-criaturas-del-universo-central "4. Las Criaturas del Universo Central") . 156
 
-&#160;&#160;&#160;&#160;[5. Life in Havona](part-1/014.md#5life-in-havona "5. Life in Havona") . 158
+&#160;&#160;&#160;&#160;[5. La Vida en Havona](part-1/014.md#5la-vida-en-havona "5. La Vida en Havona") . 158
 
-&#160;&#160;&#160;&#160;[6. The Purpose of the Central Universe](part-1/014.md#6the-purpose-of-the-central-universe "6. The Purpose of the Central Universe") . 160
+&#160;&#160;&#160;&#160;[6. El Propósito del Universo Central](part-1/014.md#6el-propósito-del-universo-central "6. El Propósito del Universo Central") . 160
 
-015 . <a href="part-1/015.md" title="The Seven Superuniverses">Paper 15 · The Seven Superuniverses</a> . 164
+015 . <a href="part-1/015.md" title="Los Siete Superuniversos">Documento 15 · Los Siete Superuniversos</a> . 164
 
-&#160;&#160;&#160;&#160;[1. The Superuniverse Space Level](part-1/015.md#1the-superuniverse-space-level "1. The Superuniverse Space Level") . 164
+&#160;&#160;&#160;&#160;[1. El Nivel Espacial Superuniversal](part-1/015.md#1el-nivel-espacial-superuniversal "1. El Nivel Espacial Superuniversal") . 164
 
-&#160;&#160;&#160;&#160;[2. Organization of the Superuniverses](part-1/015.md#2organization-of-the-superuniverses "2. Organization of the Superuniverses") . 165
+&#160;&#160;&#160;&#160;[2. La Organización de los Superuniversos](part-1/015.md#2la-organización-de-los-superuniversos "2. La Organización de los Superuniversos") . 165
 
-&#160;&#160;&#160;&#160;[3. The Superuniverse of Orvonton](part-1/015.md#3the-superuniverse-of-orvonton "3. The Superuniverse of Orvonton") . 167
+&#160;&#160;&#160;&#160;[3. El Superuniverso de Orvonton](part-1/015.md#3el-superuniverso-de-orvonton "3. El Superuniverso de Orvonton") . 167
 
-&#160;&#160;&#160;&#160;[4. Nebulae—The Ancestors of Universes](part-1/015.md#4nebulaethe-ancestors-of-universes "4. Nebulae—The Ancestors of Universes") . 169
+&#160;&#160;&#160;&#160;[4. Las Nebulosas — Los Antepasados de los Universos](part-1/015.md#4las-nebulosas--los-antepasados-de-los-universos "4. Las Nebulosas — Los Antepasados de los Universos") . 169
 
-&#160;&#160;&#160;&#160;[5. The Origin of Space Bodies](part-1/015.md#5the-origin-of-space-bodies "5. The Origin of Space Bodies") . 170
+&#160;&#160;&#160;&#160;[5. El Origen de los Cuerpos Espaciales](part-1/015.md#5el-origen-de-los-cuerpos-espaciales "5. El Origen de los Cuerpos Espaciales") . 170
 
-&#160;&#160;&#160;&#160;[6. The Spheres of Space](part-1/015.md#6the-spheres-of-space "6. The Spheres of Space") . 172
+&#160;&#160;&#160;&#160;[6. Las Esferas del Espacio](part-1/015.md#6las-esferas-del-espacio "6. Las Esferas del Espacio") . 172
 
-&#160;&#160;&#160;&#160;[7. The Architectural Spheres](part-1/015.md#7the-architectural-spheres "7. The Architectural Spheres") . 174
+&#160;&#160;&#160;&#160;[7. Las Esferas Arquitectónicas](part-1/015.md#7las-esferas-arquitectónicas "7. Las Esferas Arquitectónicas") . 174
 
-&#160;&#160;&#160;&#160;[8. Energy Control and Regulation](part-1/015.md#8energy-control-and-regulation "8. Energy Control and Regulation") . 175
+&#160;&#160;&#160;&#160;[8. El Control y Regulación de la Energía](part-1/015.md#8el-control-y-regulación-de-la-energía "8. El Control y Regulación de la Energía") . 175
 
-&#160;&#160;&#160;&#160;[9. Circuits of the Superuniverses](part-1/015.md#9circuits-of-the-superuniverses "9. Circuits of the Superuniverses") . 176
+&#160;&#160;&#160;&#160;[9. Los Circuitos de los Superuniversos](part-1/015.md#9los-circuitos-de-los-superuniversos "9. Los Circuitos de los Superuniversos") . 176
 
-&#160;&#160;&#160;&#160;[10. Rulers of the Superuniverses](part-1/015.md#10rulers-of-the-superuniverses "10. Rulers of the Superuniverses") . 178
+&#160;&#160;&#160;&#160;[10. Los Gobernantes de los Superuniversos](part-1/015.md#10los-gobernantes-de-los-superuniversos "10. Los Gobernantes de los Superuniversos") . 178
 
-&#160;&#160;&#160;&#160;[11. The Deliberative Assembly](part-1/015.md#11the-deliberative-assembly "11. The Deliberative Assembly") . 179
+&#160;&#160;&#160;&#160;[11. La Asamblea Deliberante](part-1/015.md#11la-asamblea-deliberante "11. La Asamblea Deliberante") . 179
 
-&#160;&#160;&#160;&#160;[12. The Supreme Tribunals](part-1/015.md#12the-supreme-tribunals "12. The Supreme Tribunals") . 180
+&#160;&#160;&#160;&#160;[12. Los Tribunales Supremos](part-1/015.md#12los-tribunales-supremos "12. Los Tribunales Supremos") . 180
 
-&#160;&#160;&#160;&#160;[13. The Sector Governments](part-1/015.md#13the-sector-governments "13. The Sector Governments") . 181
+&#160;&#160;&#160;&#160;[13. Los Gobiernos de los Sectores](part-1/015.md#13los-gobiernos-de-los-sectores "13. Los Gobiernos de los Sectores") . 181
 
-&#160;&#160;&#160;&#160;[14. Purposes of the Seven Superuniverses](part-1/015.md#14purposes-of-the-seven-superuniverses "14. Purposes of the Seven Superuniverses") . 181
+&#160;&#160;&#160;&#160;[14. Los Propósitos de los Siete Superuniversos](part-1/015.md#14los-propósitos-de-los-siete-superuniversos "14. Los Propósitos de los Siete Superuniversos") . 181
 
-016 . <a href="part-1/016.md" title="The Seven Master Spirits">Paper 16 · The Seven Master Spirits</a> . 184
+016 . <a href="part-1/016.md" title="Los Siete Espíritus Rectores">Documento 16 · Los Siete Espíritus Rectores</a> . 184
 
-&#160;&#160;&#160;&#160;[1. Relation to Triune Deity](part-1/016.md#1relation-to-triune-deity "1. Relation to Triune Deity") . 185
+&#160;&#160;&#160;&#160;[1. La Relación con la Deidad Triuna](part-1/016.md#1la-relación-con-la-deidad-triuna "1. La Relación con la Deidad Triuna") . 185
 
-&#160;&#160;&#160;&#160;[2. Relation to the Infinite Spirit](part-1/016.md#2relation-to-the-infinite-spirit "2. Relation to the Infinite Spirit") . 185
+&#160;&#160;&#160;&#160;[2. La Relación con el Espíritu Infinito](part-1/016.md#2la-relación-con-el-espíritu-infinito "2. La Relación con el Espíritu Infinito") . 185
 
-&#160;&#160;&#160;&#160;[3. Identity and Diversity of the Master Spirits](part-1/016.md#3identity-and-diversity-of-the-master-spirits "3. Identity and Diversity of the Master Spirits") . 186
+&#160;&#160;&#160;&#160;[3. La Identidad y Diversidad de los Espíritus Rectores](part-1/016.md#3la-identidad-y-diversidad-de-los-espíritus-rectores "3. La Identidad y Diversidad de los Espíritus Rectores") . 186
 
-&#160;&#160;&#160;&#160;[4. Attributes and Functions of the Master Spirits](part-1/016.md#4attributes-and-functions-of-the-master-spirits "4. Attributes and Functions of the Master Spirits") . 189
+&#160;&#160;&#160;&#160;[4. Los Atributos y Funciones de los Espíritus Rectores](part-1/016.md#4los-atributos-y-funciones-de-los-espíritus-rectores "4. Los Atributos y Funciones de los Espíritus Rectores") . 189
 
-&#160;&#160;&#160;&#160;[5. Relation to Creatures](part-1/016.md#5relation-to-creatures "5. Relation to Creatures") . 190
+&#160;&#160;&#160;&#160;[5. La Relación con las Criaturas](part-1/016.md#5la-relación-con-las-criaturas "5. La Relación con las Criaturas") . 190
 
-&#160;&#160;&#160;&#160;[6. The Cosmic Mind](part-1/016.md#6the-cosmic-mind "6. The Cosmic Mind") . 191
+&#160;&#160;&#160;&#160;[6. La Mente Cósmica](part-1/016.md#6la-mente-cósmica "6. La Mente Cósmica") . 191
 
-&#160;&#160;&#160;&#160;[7. Morals, Virtue, and Personality](part-1/016.md#7morals-virtue-and-personality "7. Morals, Virtue, and Personality") . 192
+&#160;&#160;&#160;&#160;[7. La Moral, la Virtud y la Personalidad](part-1/016.md#7la-moral-la-virtud-y-la-personalidad "7. La Moral, la Virtud y la Personalidad") . 192
 
-&#160;&#160;&#160;&#160;[8. Urantia Personality](part-1/016.md#8urantia-personality "8. Urantia Personality") . 194
+&#160;&#160;&#160;&#160;[8. La Personalidad Urantiana](part-1/016.md#8la-personalidad-urantiana "8. La Personalidad Urantiana") . 194
 
-&#160;&#160;&#160;&#160;[9. Reality of Human Consciousness](part-1/016.md#9reality-of-human-consciousness "9. Reality of Human Consciousness") . 195
+&#160;&#160;&#160;&#160;[9. La Realidad de la Conciencia Humana](part-1/016.md#9la-realidad-de-la-conciencia-humana "9. La Realidad de la Conciencia Humana") . 195
 
-017 . <a href="part-1/017.md" title="The Seven Supreme Spirit Groups">Paper 17 · The Seven Supreme Spirit Groups</a> . 197
+017 . <a href="part-1/017.md" title="Los Siete Grupos de Espíritus Supremos">Documento 17 · Los Siete Grupos de Espíritus Supremos</a> . 197
 
-&#160;&#160;&#160;&#160;[1. The Seven Supreme Executives](part-1/017.md#1the-seven-supreme-executives "1. The Seven Supreme Executives") . 198
+&#160;&#160;&#160;&#160;[1. Los Siete Ejecutivos Supremos](part-1/017.md#1los-siete-ejecutivos-supremos "1. Los Siete Ejecutivos Supremos") . 198
 
-&#160;&#160;&#160;&#160;[2. Majeston—Chief of Reflectivity](part-1/017.md#2majestonchief-of-reflectivity "2. Majeston—Chief of Reflectivity") . 199
+&#160;&#160;&#160;&#160;[2. Majeston — El Jefe de Reflexividad](part-1/017.md#2majeston--el-jefe-de-reflexividad "2. Majeston — El Jefe de Reflexividad") . 199
 
-&#160;&#160;&#160;&#160;[3. The Reflective Spirits](part-1/017.md#3the-reflective-spirits "3. The Reflective Spirits") . 200
+&#160;&#160;&#160;&#160;[3. Los Espíritus Reflexivos](part-1/017.md#3los-espíritus-reflexivos "3. Los Espíritus Reflexivos") . 200
 
-&#160;&#160;&#160;&#160;[4. The Reflective Image Aids](part-1/017.md#4the-reflective-image-aids "4. The Reflective Image Aids") . 202
+&#160;&#160;&#160;&#160;[4. Los Auxiliares Reflexivos de Imagen](part-1/017.md#4los-auxiliares-reflexivos-de-imagen "4. Los Auxiliares Reflexivos de Imagen") . 202
 
-&#160;&#160;&#160;&#160;[5. The Seven Spirits of the Circuits](part-1/017.md#5the-seven-spirits-of-the-circuits "5. The Seven Spirits of the Circuits") . 202
+&#160;&#160;&#160;&#160;[5. Los Siete Espíritus de los Circuitos](part-1/017.md#5los-siete-espíritus-de-los-circuitos "5. Los Siete Espíritus de los Circuitos") . 202
 
-&#160;&#160;&#160;&#160;[6. The Local Universe Creative Spirits](part-1/017.md#6the-local-universe-creative-spirits "6. The Local Universe Creative Spirits") . 203
+&#160;&#160;&#160;&#160;[6. Los Espíritus Creativos del Universo Local](part-1/017.md#6los-espíritus-creativos-del-universo-local "6. Los Espíritus Creativos del Universo Local") . 203
 
-&#160;&#160;&#160;&#160;[7. The Adjutant Mind-Spirits](part-1/017.md#7the-adjutant-mind-spirits "7. The Adjutant Mind-Spirits") . 205
+&#160;&#160;&#160;&#160;[7. Los Espíritus Ayudantes de la Mente](part-1/017.md#7los-espíritus-ayudantes-de-la-mente "7. Los Espíritus Ayudantes de la Mente") . 205
 
-&#160;&#160;&#160;&#160;[8. Functions of the Supreme Spirits](part-1/017.md#8functions-of-the-supreme-spirits "8. Functions of the Supreme Spirits") . 205
+&#160;&#160;&#160;&#160;[8. Las Funciones de los Espíritus Supremos](part-1/017.md#8las-funciones-de-los-espíritus-supremos "8. Las Funciones de los Espíritus Supremos") . 205
 
-018 . <a href="part-1/018.md" title="The Supreme Trinity Personalities">Paper 18 · The Supreme Trinity Personalities</a> . 207
+018 . <a href="part-1/018.md" title="Las Personalidades Supremas Trinitarias">Documento 18 · Las Personalidades Supremas Trinitarias</a> . 207
 
-&#160;&#160;&#160;&#160;[1. The Trinitized Secrets of Supremacy](part-1/018.md#1the-trinitized-secrets-of-supremacy "1. The Trinitized Secrets of Supremacy") . 207
+&#160;&#160;&#160;&#160;[1. Los Secretos Trinidizados de la Supremacía](part-1/018.md#1los-secretos-trinidizados-de-la-supremacía "1. Los Secretos Trinidizados de la Supremacía") . 207
 
-&#160;&#160;&#160;&#160;[2. The Eternals of Days](part-1/018.md#2the-eternals-of-days "2. The Eternals of Days") . 208
+&#160;&#160;&#160;&#160;[2. Los Eternos de los Días](part-1/018.md#2los-eternos-de-los-días "2. Los Eternos de los Días") . 208
 
-&#160;&#160;&#160;&#160;[3. The Ancients of Days](part-1/018.md#3the-ancients-of-days "3. The Ancients of Days") . 209
+&#160;&#160;&#160;&#160;[3. Los Ancianos de los Días](part-1/018.md#3los-ancianos-de-los-días "3. Los Ancianos de los Días") . 209
 
-&#160;&#160;&#160;&#160;[4. The Perfections of Days](part-1/018.md#4the-perfections-of-days "4. The Perfections of Days") . 210
+&#160;&#160;&#160;&#160;[4. Los Perfecciones de los Días](part-1/018.md#4los-perfecciones-de-los-días "4. Los Perfecciones de los Días") . 210
 
-&#160;&#160;&#160;&#160;[5. The Recents of Days](part-1/018.md#5the-recents-of-days "5. The Recents of Days") . 211
+&#160;&#160;&#160;&#160;[5. Los Recientes de los Días](part-1/018.md#5los-recientes-de-los-días "5. Los Recientes de los Días") . 211
 
-&#160;&#160;&#160;&#160;[6. The Unions of Days](part-1/018.md#6the-unions-of-days "6. The Unions of Days") . 212
+&#160;&#160;&#160;&#160;[6. Los Uniones de los Días](part-1/018.md#6los-uniones-de-los-días "6. Los Uniones de los Días") . 212
 
-&#160;&#160;&#160;&#160;[7. The Faithfuls of Days](part-1/018.md#7the-faithfuls-of-days "7. The Faithfuls of Days") . 213
+&#160;&#160;&#160;&#160;[7. Los Fieles de los Días](part-1/018.md#7los-fieles-de-los-días "7. Los Fieles de los Días") . 213
 
-019 . <a href="part-1/019.md" title="The Co-ordinate Trinity-Origin Beings">Paper 19 · The Co-ordinate Trinity-Origin Beings</a> . 214
+019 . <a href="part-1/019.md" title="Los Seres Coordinados de Origen en la Trinidad">Documento 19 · Los Seres Coordinados de Origen en la Trinidad</a> . 214
 
-&#160;&#160;&#160;&#160;[1. The Trinity Teacher Sons](part-1/019.md#1the-trinity-teacher-sons "1. The Trinity Teacher Sons") . 214
+&#160;&#160;&#160;&#160;[1. Los Hijos Instructores Trinitario](part-1/019.md#1los-hijos-instructores-trinitario "1. Los Hijos Instructores Trinitario") . 214
 
-&#160;&#160;&#160;&#160;[2. The Perfectors of Wisdom](part-1/019.md#2the-perfectors-of-wisdom "2. The Perfectors of Wisdom") . 215
+&#160;&#160;&#160;&#160;[2. Los Perfeccionadores de la Sabiduría](part-1/019.md#2los-perfeccionadores-de-la-sabiduría "2. Los Perfeccionadores de la Sabiduría") . 215
 
-&#160;&#160;&#160;&#160;[3. The Divine Counselors](part-1/019.md#3the-divine-counselors "3. The Divine Counselors") . 216
+&#160;&#160;&#160;&#160;[3. Los Consejeros Divinos](part-1/019.md#3los-consejeros-divinos "3. Los Consejeros Divinos") . 216
 
-&#160;&#160;&#160;&#160;[4. The Universal Censors](part-1/019.md#4the-universal-censors "4. The Universal Censors") . 217
+&#160;&#160;&#160;&#160;[4. Los Censores Universales](part-1/019.md#4los-censores-universales "4. Los Censores Universales") . 217
 
-&#160;&#160;&#160;&#160;[5. Inspired Trinity Spirits](part-1/019.md#5inspired-trinity-spirits "5. Inspired Trinity Spirits") . 219
+&#160;&#160;&#160;&#160;[5. Espíritus Trinitarios Inspirados](part-1/019.md#5espíritus-trinitarios-inspirados "5. Espíritus Trinitarios Inspirados") . 219
 
-&#160;&#160;&#160;&#160;[6. Havona Natives](part-1/019.md#6havona-natives "6. Havona Natives") . 221
+&#160;&#160;&#160;&#160;[6. Los Nativos de Havona](part-1/019.md#6los-nativos-de-havona "6. Los Nativos de Havona") . 221
 
-&#160;&#160;&#160;&#160;[7. Paradise Citizens](part-1/019.md#7paradise-citizens "7. Paradise Citizens") . 222
+&#160;&#160;&#160;&#160;[7. Los Ciudadanos del Paraíso](part-1/019.md#7los-ciudadanos-del-paraíso "7. Los Ciudadanos del Paraíso") . 222
 
-020 . <a href="part-1/020.md" title="The Paradise Sons of God">Paper 20 · The Paradise Sons of God</a> . 223
+020 . <a href="part-1/020.md" title="Los Hijos de Dios Paradisiacos">Documento 20 · Los Hijos de Dios Paradisiacos</a> . 223
 
-&#160;&#160;&#160;&#160;[1. The Descending Sons of God](part-1/020.md#1the-descending-sons-of-god "1. The Descending Sons of God") . 223
+&#160;&#160;&#160;&#160;[1. Los Hijos de Dios Descendentes](part-1/020.md#1los-hijos-de-dios-descendentes "1. Los Hijos de Dios Descendentes") . 223
 
-&#160;&#160;&#160;&#160;[2. The Magisterial Sons](part-1/020.md#2the-magisterial-sons "2. The Magisterial Sons") . 224
+&#160;&#160;&#160;&#160;[2. Los Hijos Magisteriales](part-1/020.md#2los-hijos-magisteriales "2. Los Hijos Magisteriales") . 224
 
-&#160;&#160;&#160;&#160;[3. Judicial Actions](part-1/020.md#3judicial-actions "3. Judicial Actions") . 226
+&#160;&#160;&#160;&#160;[3. Las Acciones Judiciales](part-1/020.md#3las-acciones-judiciales "3. Las Acciones Judiciales") . 226
 
-&#160;&#160;&#160;&#160;[4. Magisterial Missions](part-1/020.md#4magisterial-missions "4. Magisterial Missions") . 226
+&#160;&#160;&#160;&#160;[4. Las Misiones Magisteriales](part-1/020.md#4las-misiones-magisteriales "4. Las Misiones Magisteriales") . 226
 
-&#160;&#160;&#160;&#160;[5. Bestowal of the Paradise Sons of God](part-1/020.md#5bestowal-of-the-paradise-sons-of-god "5. Bestowal of the Paradise Sons of God") . 227
+&#160;&#160;&#160;&#160;[5. Los Autootorgamientos de los Hijos de Dios Paradisiacos](part-1/020.md#5los-autootorgamientos-de-los-hijos-de-dios-paradisiacos "5. Los Autootorgamientos de los Hijos de Dios Paradisiacos") . 227
 
-&#160;&#160;&#160;&#160;[6. The Mortal-Bestowal Careers](part-1/020.md#6the-mortal-bestowal-careers "6. The Mortal-Bestowal Careers") . 228
+&#160;&#160;&#160;&#160;[6. Las Carreras de Autootorgamiento en Semejanzade los Mortales](part-1/020.md#6las-carreras-de-autootorgamiento-en-semejanzade-los-mortales "6. Las Carreras de Autootorgamiento en Semejanzade los Mortales") . 228
 
-&#160;&#160;&#160;&#160;[7. The Trinity Teacher Sons](part-1/020.md#7the-trinity-teacher-sons "7. The Trinity Teacher Sons") . 230
+&#160;&#160;&#160;&#160;[7. Los Hijos Instructores Trinitarios](part-1/020.md#7los-hijos-instructores-trinitarios "7. Los Hijos Instructores Trinitarios") . 230
 
-&#160;&#160;&#160;&#160;[8. Local Universe Ministry of the Daynals](part-1/020.md#8local-universe-ministry-of-the-daynals "8. Local Universe Ministry of the Daynals") . 231
+&#160;&#160;&#160;&#160;[8. El Ministerio de los Dainales en los Universos Locales](part-1/020.md#8el-ministerio-de-los-dainales-en-los-universos-locales "8. El Ministerio de los Dainales en los Universos Locales") . 231
 
-&#160;&#160;&#160;&#160;[9. Planetary Service of the Daynals](part-1/020.md#9planetary-service-of-the-daynals "9. Planetary Service of the Daynals") . 231
+&#160;&#160;&#160;&#160;[9. El Servicio Planetario de los Dainales](part-1/020.md#9el-servicio-planetario-de-los-dainales "9. El Servicio Planetario de los Dainales") . 231
 
-&#160;&#160;&#160;&#160;[10. United Ministry of the Paradise Sons](part-1/020.md#10united-ministry-of-the-paradise-sons "10. United Ministry of the Paradise Sons") . 232
+&#160;&#160;&#160;&#160;[10. El Ministerio Unido de los Hijos Paradisiacos](part-1/020.md#10el-ministerio-unido-de-los-hijos-paradisiacos "10. El Ministerio Unido de los Hijos Paradisiacos") . 232
 
-021 . <a href="part-1/021.md" title="The Paradise Creator Sons">Paper 21 · The Paradise Creator Sons</a> . 234
+021 . <a href="part-1/021.md" title="Los Hijos Creadores Paradisiacos">Documento 21 · Los Hijos Creadores Paradisiacos</a> . 234
 
-&#160;&#160;&#160;&#160;[1. Origin and Nature of Creator Sons](part-1/021.md#1origin-and-nature-of-creator-sons "1. Origin and Nature of Creator Sons") . 234
+&#160;&#160;&#160;&#160;[1. El Origen y la Naturaleza de los Hijos Creadores](part-1/021.md#1el-origen-y-la-naturaleza-de-los-hijos-creadores "1. El Origen y la Naturaleza de los Hijos Creadores") . 234
 
-&#160;&#160;&#160;&#160;[2. The Creators of Local Universes](part-1/021.md#2the-creators-of-local-universes "2. The Creators of Local Universes") . 235
+&#160;&#160;&#160;&#160;[2. Los Creadores de los Universos Locales](part-1/021.md#2los-creadores-de-los-universos-locales "2. Los Creadores de los Universos Locales") . 235
 
-&#160;&#160;&#160;&#160;[3. Local Universe Sovereignty](part-1/021.md#3local-universe-sovereignty "3. Local Universe Sovereignty") . 237
+&#160;&#160;&#160;&#160;[3. La Soberanía en un Universo Local](part-1/021.md#3la-soberanía-en-un-universo-local "3. La Soberanía en un Universo Local") . 237
 
-&#160;&#160;&#160;&#160;[4. The Michael Bestowals](part-1/021.md#4the-michael-bestowals "4. The Michael Bestowals") . 239
+&#160;&#160;&#160;&#160;[4. Los Autootorgamientos de los Micaeles](part-1/021.md#4los-autootorgamientos-de-los-micaeles "4. Los Autootorgamientos de los Micaeles") . 239
 
-&#160;&#160;&#160;&#160;[5. Relation of Master Sons to the Universe](part-1/021.md#5relation-of-master-sons-to-the-universe "5. Relation of Master Sons to the Universe") . 240
+&#160;&#160;&#160;&#160;[5. La Relación de los Hijos Mayores con el Universo](part-1/021.md#5la-relación-de-los-hijos-mayores-con-el-universo "5. La Relación de los Hijos Mayores con el Universo") . 240
 
-&#160;&#160;&#160;&#160;[6. Destiny of the Master Michaels](part-1/021.md#6destiny-of-the-master-michaels "6. Destiny of the Master Michaels") . 241
+&#160;&#160;&#160;&#160;[6. El Destino de los Micaeles Mayores](part-1/021.md#6el-destino-de-los-micaeles-mayores "6. El Destino de los Micaeles Mayores") . 241
 
-022 . <a href="part-1/022.md" title="The Trinitized Sons of God">Paper 22 · The Trinitized Sons of God</a> . 243
+022 . <a href="part-1/022.md" title="Los Hijos de Dios Trinidizados">Documento 22 · Los Hijos de Dios Trinidizados</a> . 243
 
-&#160;&#160;&#160;&#160;[1. The Trinity-Embraced Sons](part-1/022.md#1the-trinity-embraced-sons "1. The Trinity-Embraced Sons") . 243
+&#160;&#160;&#160;&#160;[1. Hijos Abrazados por la Trinidad](part-1/022.md#1hijos-abrazados-por-la-trinidad "1. Hijos Abrazados por la Trinidad") . 243
 
-&#160;&#160;&#160;&#160;[2. The Mighty Messengers](part-1/022.md#2the-mighty-messengers "2. The Mighty Messengers") . 245
+&#160;&#160;&#160;&#160;[2. Los Mensajeros Poderosos](part-1/022.md#2los-mensajeros-poderosos "2. Los Mensajeros Poderosos") . 245
 
-&#160;&#160;&#160;&#160;[3. Those High in Authority](part-1/022.md#3those-high-in-authority "3. Those High in Authority") . 246
+&#160;&#160;&#160;&#160;[3. Aquellos Elevados en Autoridad](part-1/022.md#3aquellos-elevados-en-autoridad "3. Aquellos Elevados en Autoridad") . 246
 
-&#160;&#160;&#160;&#160;[4. Those Without Name and Number](part-1/022.md#4those-without-name-and-number "4. Those Without Name and Number") . 246
+&#160;&#160;&#160;&#160;[4. Aquellos sin Nombre ni Número](part-1/022.md#4aquellos-sin-nombre-ni-número "4. Aquellos sin Nombre ni Número") . 246
 
-&#160;&#160;&#160;&#160;[5. The Trinitized Custodians](part-1/022.md#5the-trinitized-custodians "5. The Trinitized Custodians") . 247
+&#160;&#160;&#160;&#160;[5. Los Custodios Trinidizados](part-1/022.md#5los-custodios-trinidizados "5. Los Custodios Trinidizados") . 247
 
-&#160;&#160;&#160;&#160;[6. The Trinitized Ambassadors](part-1/022.md#6the-trinitized-ambassadors "6. The Trinitized Ambassadors") . 248
+&#160;&#160;&#160;&#160;[6. Los Embajadores Trinidizados](part-1/022.md#6los-embajadores-trinidizados "6. Los Embajadores Trinidizados") . 248
 
-&#160;&#160;&#160;&#160;[7. Technique of Trinitization](part-1/022.md#7technique-of-trinitization "7. Technique of Trinitization") . 249
+&#160;&#160;&#160;&#160;[7. La Técnica de la Trinidización](part-1/022.md#7la-técnica-de-la-trinidización "7. La Técnica de la Trinidización") . 249
 
-&#160;&#160;&#160;&#160;[8. The Creature-Trinitized Sons](part-1/022.md#8the-creature-trinitized-sons "8. The Creature-Trinitized Sons") . 251
+&#160;&#160;&#160;&#160;[8. Hijos Trinidizados Por Criaturas](part-1/022.md#8hijos-trinidizados-por-criaturas "8. Hijos Trinidizados Por Criaturas") . 251
 
-&#160;&#160;&#160;&#160;[9. The Celestial Guardians](part-1/022.md#9the-celestial-guardians "9. The Celestial Guardians") . 252
+&#160;&#160;&#160;&#160;[9. Los Guardianes Celestiales](part-1/022.md#9los-guardianes-celestiales "9. Los Guardianes Celestiales") . 252
 
-&#160;&#160;&#160;&#160;[10. High Son Assistants](part-1/022.md#10high-son-assistants "10. High Son Assistants") . 253
+&#160;&#160;&#160;&#160;[10. Los Asistentes de los Hijos Elevados](part-1/022.md#10los-asistentes-de-los-hijos-elevados "10. Los Asistentes de los Hijos Elevados") . 253
 
-023 . <a href="part-1/023.md" title="The Solitary Messengers">Paper 23 · The Solitary Messengers</a> . 256
+023 . <a href="part-1/023.md" title="Los Mensajeros Solitarios">Documento 23 · Los Mensajeros Solitarios</a> . 256
 
-&#160;&#160;&#160;&#160;[1. Nature and Origin of Solitary Messengers](part-1/023.md#1nature-and-origin-of-solitary-messengers "1. Nature and Origin of Solitary Messengers") . 256
+&#160;&#160;&#160;&#160;[1. La Naturaleza y el Origen de los Mensajeros Solitarios](part-1/023.md#1la-naturaleza-y-el-origen-de-los-mensajeros-solitarios "1. La Naturaleza y el Origen de los Mensajeros Solitarios") . 256
 
-&#160;&#160;&#160;&#160;[2. Assignments of Solitary Messengers](part-1/023.md#2assignments-of-solitary-messengers "2. Assignments of Solitary Messengers") . 257
+&#160;&#160;&#160;&#160;[2. Las Asignaciones de los Mensajeros Solitarios](part-1/023.md#2las-asignaciones-de-los-mensajeros-solitarios "2. Las Asignaciones de los Mensajeros Solitarios") . 257
 
-&#160;&#160;&#160;&#160;[3. Time and Space Services of Solitary Messengers](part-1/023.md#3time-and-space-services-of-solitary-messengers "3. Time and Space Services of Solitary Messengers") . 260
+&#160;&#160;&#160;&#160;[3. Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio](part-1/023.md#3los-servicios-de-los-mensajeros-solitarios-con-relación-al-tiempo-y-al-espacio "3. Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio") . 260
 
-&#160;&#160;&#160;&#160;[4. Special Ministry of Solitary Messengers](part-1/023.md#4special-ministry-of-solitary-messengers "4. Special Ministry of Solitary Messengers") . 262
+&#160;&#160;&#160;&#160;[4. El Ministerio Especial de los Mensajeros Solitarios](part-1/023.md#4el-ministerio-especial-de-los-mensajeros-solitarios "4. El Ministerio Especial de los Mensajeros Solitarios") . 262
 
-024 . <a href="part-1/024.md" title="Higher Personalities of the Infinite Spirit">Paper 24 · Higher Personalities of the Infinite Spirit</a> . 264
+024 . <a href="part-1/024.md" title="Las Personalidades Más Elevadas del Espíritu Infinito">Documento 24 · Las Personalidades Más Elevadas del Espíritu Infinito</a> . 264
 
-&#160;&#160;&#160;&#160;[1. The Universe Circuit Supervisors](part-1/024.md#1the-universe-circuit-supervisors "1. The Universe Circuit Supervisors") . 265
+&#160;&#160;&#160;&#160;[1. Los Supervisores de los Circuitos del Universo](part-1/024.md#1los-supervisores-de-los-circuitos-del-universo "1. Los Supervisores de los Circuitos del Universo") . 265
 
-&#160;&#160;&#160;&#160;[2. The Census Directors](part-1/024.md#2the-census-directors "2. The Census Directors") . 266
+&#160;&#160;&#160;&#160;[2. Los Directores del Censo](part-1/024.md#2los-directores-del-censo "2. Los Directores del Censo") . 266
 
-&#160;&#160;&#160;&#160;[3. Personal Aids of the Infinite Spirit](part-1/024.md#3personal-aids-of-the-infinite-spirit "3. Personal Aids of the Infinite Spirit") . 268
+&#160;&#160;&#160;&#160;[3. Los Auxiliares Personales del Espíritu Infinito](part-1/024.md#3los-auxiliares-personales-del-espíritu-infinito "3. Los Auxiliares Personales del Espíritu Infinito") . 268
 
-&#160;&#160;&#160;&#160;[4. The Associate Inspectors](part-1/024.md#4the-associate-inspectors "4. The Associate Inspectors") . 268
+&#160;&#160;&#160;&#160;[4. Los Inspectores Asociados](part-1/024.md#4los-inspectores-asociados "4. Los Inspectores Asociados") . 268
 
-&#160;&#160;&#160;&#160;[5. The Assigned Sentinels](part-1/024.md#5the-assigned-sentinels "5. The Assigned Sentinels") . 268
+&#160;&#160;&#160;&#160;[5. Los Centinelas Asignados](part-1/024.md#5los-centinelas-asignados "5. Los Centinelas Asignados") . 268
 
-&#160;&#160;&#160;&#160;[6. The Graduate Guides](part-1/024.md#6the-graduate-guides "6. The Graduate Guides") . 269
+&#160;&#160;&#160;&#160;[6. Los Guías de los Graduados](part-1/024.md#6los-guías-de-los-graduados "6. Los Guías de los Graduados") . 269
 
-&#160;&#160;&#160;&#160;[7. Origin of the Graduate Guides](part-1/024.md#7origin-of-the-graduate-guides "7. Origin of the Graduate Guides") . 270
+&#160;&#160;&#160;&#160;[7. El Origen de los Guías de los Graduados](part-1/024.md#7el-origen-de-los-guías-de-los-graduados "7. El Origen de los Guías de los Graduados") . 270
 
-025 . <a href="part-1/025.md" title="The Messenger Hosts of Space">Paper 25 · The Messenger Hosts of Space</a> . 273
+025 . <a href="part-1/025.md" title="Las Huestes de Mensajeros del Espacio">Documento 25 · Las Huestes de Mensajeros del Espacio</a> . 273
 
-&#160;&#160;&#160;&#160;[1. The Havona Servitals](part-1/025.md#1the-havona-servitals "1. The Havona Servitals") . 273
+&#160;&#160;&#160;&#160;[1. Los Servitales de Havona](part-1/025.md#1los-servitales-de-havona "1. Los Servitales de Havona") . 273
 
-&#160;&#160;&#160;&#160;[2. The Universal Conciliators](part-1/025.md#2the-universal-conciliators "2. The Universal Conciliators") . 275
+&#160;&#160;&#160;&#160;[2. Los Conciliadores Universales](part-1/025.md#2los-conciliadores-universales "2. Los Conciliadores Universales") . 275
 
-&#160;&#160;&#160;&#160;[3. The Far-Reaching Service of Conciliators](part-1/025.md#3the-far-reaching-service-of-conciliators "3. The Far-Reaching Service of Conciliators") . 276
+&#160;&#160;&#160;&#160;[3. El Amplio Servicio de los Conciliadores](part-1/025.md#3el-amplio-servicio-de-los-conciliadores "3. El Amplio Servicio de los Conciliadores") . 276
 
-&#160;&#160;&#160;&#160;[4. Technical Advisers](part-1/025.md#4technical-advisers "4. Technical Advisers") . 279
+&#160;&#160;&#160;&#160;[4. Los Asesores Técnicos](part-1/025.md#4los-asesores-técnicos "4. Los Asesores Técnicos") . 279
 
-&#160;&#160;&#160;&#160;[5. The Custodians of Records on Paradise](part-1/025.md#5the-custodians-of-records-on-paradise "5. The Custodians of Records on Paradise") . 281
+&#160;&#160;&#160;&#160;[5. Los Custodios de los Registros en el Paraíso](part-1/025.md#5los-custodios-de-los-registros-en-el-paraíso "5. Los Custodios de los Registros en el Paraíso") . 281
 
-&#160;&#160;&#160;&#160;[6. The Celestial Recorders](part-1/025.md#6the-celestial-recorders "6. The Celestial Recorders") . 281
+&#160;&#160;&#160;&#160;[6. Los Registradores Celestiales](part-1/025.md#6los-registradores-celestiales "6. Los Registradores Celestiales") . 281
 
-&#160;&#160;&#160;&#160;[7. The Morontia Companions](part-1/025.md#7the-morontia-companions "7. The Morontia Companions") . 282
+&#160;&#160;&#160;&#160;[7. Los Compañeros Morontiales](part-1/025.md#7los-compañeros-morontiales "7. Los Compañeros Morontiales") . 282
 
-&#160;&#160;&#160;&#160;[8. The Paradise Companions](part-1/025.md#8the-paradise-companions "8. The Paradise Companions") . 283
+&#160;&#160;&#160;&#160;[8. Los Compañeros Paradisiacos](part-1/025.md#8los-compañeros-paradisiacos "8. Los Compañeros Paradisiacos") . 283
 
-026 . <a href="part-1/026.md" title="Ministering Spirits of the Central Universe">Paper 26 · Ministering Spirits of the Central Universe</a> . 285
+026 . <a href="part-1/026.md" title="Los Espíritus Ministrantes del Universo Central">Documento 26 · Los Espíritus Ministrantes del Universo Central</a> . 285
 
-&#160;&#160;&#160;&#160;[1. The Ministering Spirits](part-1/026.md#1the-ministering-spirits "1. The Ministering Spirits") . 285
+&#160;&#160;&#160;&#160;[1. Los Espíritus Ministrantes](part-1/026.md#1los-espíritus-ministrantes "1. Los Espíritus Ministrantes") . 285
 
-&#160;&#160;&#160;&#160;[2. The Mighty Supernaphim](part-1/026.md#2the-mighty-supernaphim "2. The Mighty Supernaphim") . 286
+&#160;&#160;&#160;&#160;[2. Los Poderosos Supernafines](part-1/026.md#2los-poderosos-supernafines "2. Los Poderosos Supernafines") . 286
 
-&#160;&#160;&#160;&#160;[3. The Tertiary Supernaphim](part-1/026.md#3the-tertiary-supernaphim "3. The Tertiary Supernaphim") . 288
+&#160;&#160;&#160;&#160;[3. Los Supernafines Terciarios](part-1/026.md#3los-supernafines-terciarios "3. Los Supernafines Terciarios") . 288
 
-&#160;&#160;&#160;&#160;[4. The Secondary Supernaphim](part-1/026.md#4the-secondary-supernaphim "4. The Secondary Supernaphim") . 289
+&#160;&#160;&#160;&#160;[4. Los Supernafines Secundarios](part-1/026.md#4los-supernafines-secundarios "4. Los Supernafines Secundarios") . 289
 
-&#160;&#160;&#160;&#160;[5. The Pilgrim Helpers](part-1/026.md#5the-pilgrim-helpers "5. The Pilgrim Helpers") . 291
+&#160;&#160;&#160;&#160;[5. Los Ayudantes de los Peregrinos](part-1/026.md#5los-ayudantes-de-los-peregrinos "5. Los Ayudantes de los Peregrinos") . 291
 
-&#160;&#160;&#160;&#160;[6. The Supremacy Guides](part-1/026.md#6the-supremacy-guides "6. The Supremacy Guides") . 292
+&#160;&#160;&#160;&#160;[6. Los Guías de la Supremacía](part-1/026.md#6los-guías-de-la-supremacía "6. Los Guías de la Supremacía") . 292
 
-&#160;&#160;&#160;&#160;[7. The Trinity Guides](part-1/026.md#7the-trinity-guides "7. The Trinity Guides") . 292
+&#160;&#160;&#160;&#160;[7. Los Guías de la Trinidad](part-1/026.md#7los-guías-de-la-trinidad "7. Los Guías de la Trinidad") . 292
 
-&#160;&#160;&#160;&#160;[8. The Son Finders](part-1/026.md#8the-son-finders "8. The Son Finders") . 293
+&#160;&#160;&#160;&#160;[8. Los Que Hallan al Hijo](part-1/026.md#8los-que-hallan-al-hijo "8. Los Que Hallan al Hijo") . 293
 
-&#160;&#160;&#160;&#160;[9. The Father Guides](part-1/026.md#9the-father-guides "9. The Father Guides") . 294
+&#160;&#160;&#160;&#160;[9. Los Guías del Padre](part-1/026.md#9los-guías-del-padre "9. Los Guías del Padre") . 294
 
-&#160;&#160;&#160;&#160;[10. The Counselors and Advisers](part-1/026.md#10the-counselors-and-advisers "10. The Counselors and Advisers") . 295
+&#160;&#160;&#160;&#160;[10. Los Asesores y los Consejeros](part-1/026.md#10los-asesores-y-los-consejeros "10. Los Asesores y los Consejeros") . 295
 
-&#160;&#160;&#160;&#160;[11. The Complements of Rest](part-1/026.md#11the-complements-of-rest "11. The Complements of Rest") . 296
+&#160;&#160;&#160;&#160;[11. Los Complementos del Reposo](part-1/026.md#11los-complementos-del-reposo "11. Los Complementos del Reposo") . 296
 
-027 . <a href="part-1/027.md" title="Ministry of the Primary Supernaphim">Paper 27 · Ministry of the Primary Supernaphim</a> . 298
+027 . <a href="part-1/027.md" title="El Ministerio de los Supernafines Primarios">Documento 27 · El Ministerio de los Supernafines Primarios</a> . 298
 
-&#160;&#160;&#160;&#160;[1. Instigators of Rest](part-1/027.md#1instigators-of-rest "1. Instigators of Rest") . 299
+&#160;&#160;&#160;&#160;[1. Los Instigadores del Reposo](part-1/027.md#1los-instigadores-del-reposo "1. Los Instigadores del Reposo") . 299
 
-&#160;&#160;&#160;&#160;[2. Chiefs of Assignment](part-1/027.md#2chiefs-of-assignment "2. Chiefs of Assignment") . 300
+&#160;&#160;&#160;&#160;[2. Los Jefes de Asignación](part-1/027.md#2los-jefes-de-asignación "2. Los Jefes de Asignación") . 300
 
-&#160;&#160;&#160;&#160;[3. Interpreters of Ethics](part-1/027.md#3interpreters-of-ethics "3. Interpreters of Ethics") . 300
+&#160;&#160;&#160;&#160;[3. Los Intérpretes de la Ética](part-1/027.md#3los-intérpretes-de-la-ética "3. Los Intérpretes de la Ética") . 300
 
-&#160;&#160;&#160;&#160;[4. Directors of Conduct](part-1/027.md#4directors-of-conduct "4. Directors of Conduct") . 301
+&#160;&#160;&#160;&#160;[4. Los Directores de Conducta](part-1/027.md#4los-directores-de-conducta "4. Los Directores de Conducta") . 301
 
-&#160;&#160;&#160;&#160;[5. The Custodians of Knowledge](part-1/027.md#5the-custodians-of-knowledge "5. The Custodians of Knowledge") . 301
+&#160;&#160;&#160;&#160;[5. Los Custodios del Conocimiento](part-1/027.md#5los-custodios-del-conocimiento "5. Los Custodios del Conocimiento") . 301
 
-&#160;&#160;&#160;&#160;[6. Masters of Philosophy](part-1/027.md#6masters-of-philosophy "6. Masters of Philosophy") . 302
+&#160;&#160;&#160;&#160;[6. Los Maestros de Filosofía](part-1/027.md#6los-maestros-de-filosofía "6. Los Maestros de Filosofía") . 302
 
-&#160;&#160;&#160;&#160;[7. Conductors of Worship](part-1/027.md#7conductors-of-worship "7. Conductors of Worship") . 303
+&#160;&#160;&#160;&#160;[7. Los Conductores de la Adoración](part-1/027.md#7los-conductores-de-la-adoración "7. Los Conductores de la Adoración") . 303
 
-028 . <a href="part-1/028.md" title="Ministering Spirits of the Superuniverses">Paper 28 · Ministering Spirits of the Superuniverses</a> . 306
+028 . <a href="part-1/028.md" title="Los Espíritus Ministrantes de los Superuniversos">Documento 28 · Los Espíritus Ministrantes de los Superuniversos</a> . 306
 
-&#160;&#160;&#160;&#160;[1. The Tertiaphim](part-1/028.md#1the-tertiaphim "1. The Tertiaphim") . 306
+&#160;&#160;&#160;&#160;[1. Los Terciafines](part-1/028.md#1los-terciafines "1. Los Terciafines") . 306
 
-&#160;&#160;&#160;&#160;[2. The Omniaphim](part-1/028.md#2the-omniaphim "2. The Omniaphim") . 307
+&#160;&#160;&#160;&#160;[2. Los Omniafines](part-1/028.md#2los-omniafines "2. Los Omniafines") . 307
 
-&#160;&#160;&#160;&#160;[3. The Seconaphim](part-1/028.md#3the-seconaphim "3. The Seconaphim") . 307
+&#160;&#160;&#160;&#160;[3. Los Seconafines](part-1/028.md#3los-seconafines "3. Los Seconafines") . 307
 
-&#160;&#160;&#160;&#160;[4. The Primary Seconaphim](part-1/028.md#4the-primary-seconaphim "4. The Primary Seconaphim") . 307
+&#160;&#160;&#160;&#160;[4. Los Seconafines Primarios](part-1/028.md#4los-seconafines-primarios "4. Los Seconafines Primarios") . 307
 
-&#160;&#160;&#160;&#160;[5. The Secondary Seconaphim](part-1/028.md#5the-secondary-seconaphim "5. The Secondary Seconaphim") . 310
+&#160;&#160;&#160;&#160;[5. Los Seconafines Secundarios](part-1/028.md#5los-seconafines-secundarios "5. Los Seconafines Secundarios") . 310
 
-&#160;&#160;&#160;&#160;[6. The Tertiary Seconaphim](part-1/028.md#6the-tertiary-seconaphim "6. The Tertiary Seconaphim") . 313
+&#160;&#160;&#160;&#160;[6. Los Seconafines Terciarios](part-1/028.md#6los-seconafines-terciarios "6. Los Seconafines Terciarios") . 313
 
-&#160;&#160;&#160;&#160;[7. Ministry of the Seconaphim](part-1/028.md#7ministry-of-the-seconaphim "7. Ministry of the Seconaphim") . 317
+&#160;&#160;&#160;&#160;[7. El Ministerio de los Seconafines](part-1/028.md#7el-ministerio-de-los-seconafines "7. El Ministerio de los Seconafines") . 317
 
-029 . <a href="part-1/029.md" title="The Universe Power Directors">Paper 29 · The Universe Power Directors</a> . 319
+029 . <a href="part-1/029.md" title="Los Directores del Poder Universal">Documento 29 · Los Directores del Poder Universal</a> . 319
 
-&#160;&#160;&#160;&#160;[1. The Seven Supreme Power Directors](part-1/029.md#1the-seven-supreme-power-directors "1. The Seven Supreme Power Directors") . 320
+&#160;&#160;&#160;&#160;[1. Los Siete Directores Supremos del Poder](part-1/029.md#1los-siete-directores-supremos-del-poder "1. Los Siete Directores Supremos del Poder") . 320
 
-&#160;&#160;&#160;&#160;[2. The Supreme Power Centers](part-1/029.md#2the-supreme-power-centers "2. The Supreme Power Centers") . 320
+&#160;&#160;&#160;&#160;[2. Los Centros Supremos del Poder](part-1/029.md#2los-centros-supremos-del-poder "2. Los Centros Supremos del Poder") . 320
 
-&#160;&#160;&#160;&#160;[3. The Domain of Power Centers](part-1/029.md#3the-domain-of-power-centers "3. The Domain of Power Centers") . 322
+&#160;&#160;&#160;&#160;[3. El Ámbito de los Centros del Poder](part-1/029.md#3el-ámbito-de-los-centros-del-poder "3. El Ámbito de los Centros del Poder") . 322
 
-&#160;&#160;&#160;&#160;[4. The Master Physical Controllers](part-1/029.md#4the-master-physical-controllers "4. The Master Physical Controllers") . 324
+&#160;&#160;&#160;&#160;[4. Los Controladores Físicos Decanos](part-1/029.md#4los-controladores-físicos-decanos "4. Los Controladores Físicos Decanos") . 324
 
-&#160;&#160;&#160;&#160;[5. The Master Force Organizers](part-1/029.md#5the-master-force-organizers "5. The Master Force Organizers") . 329
+&#160;&#160;&#160;&#160;[5. Los Organizadores Decanos de la Fuerza](part-1/029.md#5los-organizadores-decanos-de-la-fuerza "5. Los Organizadores Decanos de la Fuerza") . 329
 
-030 . <a href="part-1/030.md" title="Personalities of the Grand Universe">Paper 30 · Personalities of the Grand Universe</a> . 330
+030 . <a href="part-1/030.md" title="Las Personalidades del Gran Universo">Documento 30 · Las Personalidades del Gran Universo</a> . 330
 
-&#160;&#160;&#160;&#160;[1. The Paradise Classification of Living Beings](part-1/030.md#1the-paradise-classification-of-living-beings "1. The Paradise Classification of Living Beings") . 330
+&#160;&#160;&#160;&#160;[1. La Clasificación Paradisiaca de los Seres Vivientes](part-1/030.md#1la-clasificación-paradisiaca-de-los-seres-vivientes "1. La Clasificación Paradisiaca de los Seres Vivientes") . 330
 
-&#160;&#160;&#160;&#160;[2. The Uversa Personality Register](part-1/030.md#2the-uversa-personality-register "2. The Uversa Personality Register") . 334
+&#160;&#160;&#160;&#160;[2. El Registro Uversano de Personalidades](part-1/030.md#2el-registro-uversano-de-personalidades "2. El Registro Uversano de Personalidades") . 334
 
-&#160;&#160;&#160;&#160;[3. The Courtesy Colonies](part-1/030.md#3the-courtesy-colonies "3. The Courtesy Colonies") . 338
+&#160;&#160;&#160;&#160;[3. Las Colonias de Cortesía](part-1/030.md#3las-colonias-de-cortesía "3. Las Colonias de Cortesía") . 338
 
-&#160;&#160;&#160;&#160;[4. The Ascending Mortals](part-1/030.md#4the-ascending-mortals "4. The Ascending Mortals") . 340
+&#160;&#160;&#160;&#160;[4. Los Mortales Ascendentes](part-1/030.md#4los-mortales-ascendentes "4. Los Mortales Ascendentes") . 340
 
-031 . <a href="part-1/031.md" title="The Corps of the Finality">Paper 31 · The Corps of the Finality</a> . 345
+031 . <a href="part-1/031.md" title="El Cuerpo de la Finalidad">Documento 31 · El Cuerpo de la Finalidad</a> . 345
 
-&#160;&#160;&#160;&#160;[1. The Havona Natives](part-1/031.md#1the-havona-natives "1. The Havona Natives") . 346
+&#160;&#160;&#160;&#160;[1. Los Nativos de Havona](part-1/031.md#1los-nativos-de-havona "1. Los Nativos de Havona") . 346
 
-&#160;&#160;&#160;&#160;[2. Gravity Messengers](part-1/031.md#2gravity-messengers "2. Gravity Messengers") . 346
+&#160;&#160;&#160;&#160;[2. Los Mensajeros de Gravedad](part-1/031.md#2los-mensajeros-de-gravedad "2. Los Mensajeros de Gravedad") . 346
 
-&#160;&#160;&#160;&#160;[3. Glorified Mortals](part-1/031.md#3glorified-mortals "3. Glorified Mortals") . 347
+&#160;&#160;&#160;&#160;[3. Los Mortales Glorificados](part-1/031.md#3los-mortales-glorificados "3. Los Mortales Glorificados") . 347
 
-&#160;&#160;&#160;&#160;[4. Adopted Seraphim](part-1/031.md#4adopted-seraphim "4. Adopted Seraphim") . 348
+&#160;&#160;&#160;&#160;[4. Los Serafines Adoptados](part-1/031.md#4los-serafines-adoptados "4. Los Serafines Adoptados") . 348
 
-&#160;&#160;&#160;&#160;[5. Glorified Material Sons](part-1/031.md#5glorified-material-sons "5. Glorified Material Sons") . 349
+&#160;&#160;&#160;&#160;[5. Los Hijos Materiales Glorificados](part-1/031.md#5los-hijos-materiales-glorificados "5. Los Hijos Materiales Glorificados") . 349
 
-&#160;&#160;&#160;&#160;[6. Glorified Midway Creatures](part-1/031.md#6glorified-midway-creatures "6. Glorified Midway Creatures") . 349
+&#160;&#160;&#160;&#160;[6. Los Seres Intermedios Glorificados](part-1/031.md#6los-seres-intermedios-glorificados "6. Los Seres Intermedios Glorificados") . 349
 
-&#160;&#160;&#160;&#160;[7. The Evangels of Light](part-1/031.md#7the-evangels-of-light "7. The Evangels of Light") . 349
+&#160;&#160;&#160;&#160;[7. Los Evángeles de la Luz](part-1/031.md#7los-evángeles-de-la-luz "7. Los Evángeles de la Luz") . 349
 
-&#160;&#160;&#160;&#160;[8. The Transcendentalers](part-1/031.md#8the-transcendentalers "8. The Transcendentalers") . 350
+&#160;&#160;&#160;&#160;[8. Los Trascendentales](part-1/031.md#8los-trascendentales "8. Los Trascendentales") . 350
 
-&#160;&#160;&#160;&#160;[9. Architects of the Master Universe](part-1/031.md#9architects-of-the-master-universe "9. Architects of the Master Universe") . 351
+&#160;&#160;&#160;&#160;[9. Arquitectos del Universo Maestro](part-1/031.md#9arquitectos-del-universo-maestro "9. Arquitectos del Universo Maestro") . 351
 
-&#160;&#160;&#160;&#160;[10. The Ultimate Adventure](part-1/031.md#10the-ultimate-adventure "10. The Ultimate Adventure") . 352
+&#160;&#160;&#160;&#160;[10. La Última Aventura](part-1/031.md#10la-última-aventura "10. La Última Aventura") . 352
 
-### [PART II](part-2/index.md "PART II")
+### [PARTE II](part-2/index.md "PARTE II")
 
-### The Local Universe
+### El Universo Local
 
-032 . <a href="part-2/032.md" title="The Evolution of Local Universes">Paper 32 · The Evolution of Local Universes</a> . 357
+032 . <a href="part-2/032.md" title="La Evolución de los Universos Locales">Documento 32 · La Evolución de los Universos Locales</a> . 357
 
-&#160;&#160;&#160;&#160;[1. Physical Emergence of Universes](part-2/032.md#1physical-emergence-of-universes "1. Physical Emergence of Universes") . 357
+&#160;&#160;&#160;&#160;[1. La Aparición Física de los Universos](part-2/032.md#1la-aparición-física-de-los-universos "1. La Aparición Física de los Universos") . 357
 
-&#160;&#160;&#160;&#160;[2. Universe Organization](part-2/032.md#2universe-organization "2. Universe Organization") . 358
+&#160;&#160;&#160;&#160;[2. Organizar un Universo](part-2/032.md#2organizar-un-universo "2. Organizar un Universo") . 358
 
-&#160;&#160;&#160;&#160;[3. The Evolutionary Idea](part-2/032.md#3the-evolutionary-idea "3. The Evolutionary Idea") . 360
+&#160;&#160;&#160;&#160;[3. La Idea Evolucionaria](part-2/032.md#3la-idea-evolucionaria "3. La Idea Evolucionaria") . 360
 
-&#160;&#160;&#160;&#160;[4. God’s Relation to a Local Universe](part-2/032.md#4gods-relation-to-a-local-universe "4. God’s Relation to a Local Universe") . 362
+&#160;&#160;&#160;&#160;[4. La Relación de Dios con un Universo Local](part-2/032.md#4la-relación-de-dios-con-un-universo-local "4. La Relación de Dios con un Universo Local") . 362
 
-&#160;&#160;&#160;&#160;[5. The Eternal and Divine Purpose](part-2/032.md#5the-eternal-and-divine-purpose "5. The Eternal and Divine Purpose") . 364
+&#160;&#160;&#160;&#160;[5. El Propósito Eterno y Divino](part-2/032.md#5el-propósito-eterno-y-divino "5. El Propósito Eterno y Divino") . 364
 
-033 . <a href="part-2/033.md" title="Administration of the Local Universe">Paper 33 · Administration of the Local Universe</a> . 366
+033 . <a href="part-2/033.md" title="La Administración del Universo Local">Documento 33 · La Administración del Universo Local</a> . 366
 
-&#160;&#160;&#160;&#160;[1. Michael of Nebadon](part-2/033.md#1michael-of-nebadon "1. Michael of Nebadon") . 366
+&#160;&#160;&#160;&#160;[1. Micael de Nebadon](part-2/033.md#1micael-de-nebadon "1. Micael de Nebadon") . 366
 
-&#160;&#160;&#160;&#160;[2. The Sovereign of Nebadon](part-2/033.md#2the-sovereign-of-nebadon "2. The Sovereign of Nebadon") . 367
+&#160;&#160;&#160;&#160;[2. El Soberano de Nebadon](part-2/033.md#2el-soberano-de-nebadon "2. El Soberano de Nebadon") . 367
 
-&#160;&#160;&#160;&#160;[3. The Universe Son and Spirit](part-2/033.md#3the-universe-son-and-spirit "3. The Universe Son and Spirit") . 368
+&#160;&#160;&#160;&#160;[3. El Hijo y el Espíritu del Universo](part-2/033.md#3el-hijo-y-el-espíritu-del-universo "3. El Hijo y el Espíritu del Universo") . 368
 
-&#160;&#160;&#160;&#160;[4. Gabriel—The Chief Executive](part-2/033.md#4gabrielthe-chief-executive "4. Gabriel—The Chief Executive") . 369
+&#160;&#160;&#160;&#160;[4. Gabriel — El Jefe Ejecutivo](part-2/033.md#4gabriel--el-jefe-ejecutivo "4. Gabriel — El Jefe Ejecutivo") . 369
 
-&#160;&#160;&#160;&#160;[5. The Trinity Ambassadors](part-2/033.md#5the-trinity-ambassadors "5. The Trinity Ambassadors") . 370
+&#160;&#160;&#160;&#160;[5. Los Embajadores de la Trinidad](part-2/033.md#5los-embajadores-de-la-trinidad "5. Los Embajadores de la Trinidad") . 370
 
-&#160;&#160;&#160;&#160;[6. General Administration](part-2/033.md#6general-administration "6. General Administration") . 371
+&#160;&#160;&#160;&#160;[6. La Administración General](part-2/033.md#6la-administración-general "6. La Administración General") . 371
 
-&#160;&#160;&#160;&#160;[7. The Courts of Nebadon](part-2/033.md#7the-courts-of-nebadon "7. The Courts of Nebadon") . 372
+&#160;&#160;&#160;&#160;[7. Los Tribunales de Nebadon](part-2/033.md#7los-tribunales-de-nebadon "7. Los Tribunales de Nebadon") . 372
 
-&#160;&#160;&#160;&#160;[8. The Legislative and Executive Functions](part-2/033.md#8the-legislative-and-executive-functions "8. The Legislative and Executive Functions") . 373
+&#160;&#160;&#160;&#160;[8. Las Funciones Legislativas y Ejecutivas](part-2/033.md#8las-funciones-legislativas-y-ejecutivas "8. Las Funciones Legislativas y Ejecutivas") . 373
 
-034 . <a href="part-2/034.md" title="The Local Universe Mother Spirit">Paper 34 · The Local Universe Mother Spirit</a> . 374
+034 . <a href="part-2/034.md" title="El Espíritu Materno del Universo Local">Documento 34 · El Espíritu Materno del Universo Local</a> . 374
 
-&#160;&#160;&#160;&#160;[1. Personalization of the Creative Spirit](part-2/034.md#1personalization-of-the-creative-spirit "1. Personalization of the Creative Spirit") . 374
+&#160;&#160;&#160;&#160;[1. Personalización del Espíritu Creativo](part-2/034.md#1personalización-del-espíritu-creativo "1. Personalización del Espíritu Creativo") . 374
 
-&#160;&#160;&#160;&#160;[2. Nature of the Divine Minister](part-2/034.md#2nature-of-the-divine-minister "2. Nature of the Divine Minister") . 375
+&#160;&#160;&#160;&#160;[2. La Naturaleza de la Ministra Divina](part-2/034.md#2la-naturaleza-de-la-ministra-divina "2. La Naturaleza de la Ministra Divina") . 375
 
-&#160;&#160;&#160;&#160;[3. The Son and Spirit in Time and Space](part-2/034.md#3the-son-and-spirit-in-time-and-space "3. The Son and Spirit in Time and Space") . 376
+&#160;&#160;&#160;&#160;[3. El Hijo y el Espíritu en el Tiempo y el Espacio](part-2/034.md#3el-hijo-y-el-espíritu-en-el-tiempo-y-el-espacio "3. El Hijo y el Espíritu en el Tiempo y el Espacio") . 376
 
-&#160;&#160;&#160;&#160;[4. The Local Universe Circuits](part-2/034.md#4the-local-universe-circuits "4. The Local Universe Circuits") . 377
+&#160;&#160;&#160;&#160;[4. Los Circuitos del Universo Local](part-2/034.md#4los-circuitos-del-universo-local "4. Los Circuitos del Universo Local") . 377
 
-&#160;&#160;&#160;&#160;[5. The Ministry of the Spirit](part-2/034.md#5the-ministry-of-the-spirit "5. The Ministry of the Spirit") . 379
+&#160;&#160;&#160;&#160;[5. El Ministerio del Espíritu](part-2/034.md#5el-ministerio-del-espíritu "5. El Ministerio del Espíritu") . 379
 
-&#160;&#160;&#160;&#160;[6. The Spirit in Man](part-2/034.md#6the-spirit-in-man "6. The Spirit in Man") . 380
+&#160;&#160;&#160;&#160;[6. El Espíritu en el Hombre](part-2/034.md#6el-espíritu-en-el-hombre "6. El Espíritu en el Hombre") . 380
 
-&#160;&#160;&#160;&#160;[7. The Spirit and the Flesh](part-2/034.md#7the-spirit-and-the-flesh "7. The Spirit and the Flesh") . 382
+&#160;&#160;&#160;&#160;[7. El Espíritu y la Carne](part-2/034.md#7el-espíritu-y-la-carne "7. El Espíritu y la Carne") . 382
 
-035 . <a href="part-2/035.md" title="The Local Universe Sons of God">Paper 35 · The Local Universe Sons of God</a> . 384
+035 . <a href="part-2/035.md" title="Los Hijos de Dios de los Universos Locales">Documento 35 · Los Hijos de Dios de los Universos Locales</a> . 384
 
-&#160;&#160;&#160;&#160;[1. The Father Melchizedek](part-2/035.md#1the-father-melchizedek "1. The Father Melchizedek") . 384
+&#160;&#160;&#160;&#160;[1. El Padre Melquisedek](part-2/035.md#1el-padre-melquisedek "1. El Padre Melquisedek") . 384
 
-&#160;&#160;&#160;&#160;[2. The Melchizedek Sons](part-2/035.md#2the-melchizedek-sons "2. The Melchizedek Sons") . 385
+&#160;&#160;&#160;&#160;[2. Los Hijos Melquisedek](part-2/035.md#2los-hijos-melquisedek "2. Los Hijos Melquisedek") . 385
 
-&#160;&#160;&#160;&#160;[3. The Melchizedek Worlds](part-2/035.md#3the-melchizedek-worlds "3. The Melchizedek Worlds") . 387
+&#160;&#160;&#160;&#160;[3. Los Mundos de los Melquisedek](part-2/035.md#3los-mundos-de-los-melquisedek "3. Los Mundos de los Melquisedek") . 387
 
-&#160;&#160;&#160;&#160;[4. Special Work of the Melchizedeks](part-2/035.md#4special-work-of-the-melchizedeks "4. Special Work of the Melchizedeks") . 388
+&#160;&#160;&#160;&#160;[4. El Trabajo Especial de los Melquisedek](part-2/035.md#4el-trabajo-especial-de-los-melquisedek "4. El Trabajo Especial de los Melquisedek") . 388
 
-&#160;&#160;&#160;&#160;[5. The Vorondadek Sons](part-2/035.md#5the-vorondadek-sons "5. The Vorondadek Sons") . 389
+&#160;&#160;&#160;&#160;[5. Los Hijos Vorondadek](part-2/035.md#5los-hijos-vorondadek "5. Los Hijos Vorondadek") . 389
 
-&#160;&#160;&#160;&#160;[6. The Constellation Fathers](part-2/035.md#6the-constellation-fathers "6. The Constellation Fathers") . 390
+&#160;&#160;&#160;&#160;[6. Los Padres de las Constelaciones](part-2/035.md#6los-padres-de-las-constelaciones "6. Los Padres de las Constelaciones") . 390
 
-&#160;&#160;&#160;&#160;[7. The Vorondadek Worlds](part-2/035.md#7the-vorondadek-worlds "7. The Vorondadek Worlds") . 391
+&#160;&#160;&#160;&#160;[7. Los Mundos Vorondadek](part-2/035.md#7los-mundos-vorondadek "7. Los Mundos Vorondadek") . 391
 
-&#160;&#160;&#160;&#160;[8. The Lanonandek Sons](part-2/035.md#8the-lanonandek-sons "8. The Lanonandek Sons") . 392
+&#160;&#160;&#160;&#160;[8. Los Hijos Lanonandek](part-2/035.md#8los-hijos-lanonandek "8. Los Hijos Lanonandek") . 392
 
-&#160;&#160;&#160;&#160;[9. The Lanonandek Rulers](part-2/035.md#9the-lanonandek-rulers "9. The Lanonandek Rulers") . 393
+&#160;&#160;&#160;&#160;[9. Los Gobernantes Lanonandek](part-2/035.md#9los-gobernantes-lanonandek "9. Los Gobernantes Lanonandek") . 393
 
-&#160;&#160;&#160;&#160;[10. The Lanonandek Worlds](part-2/035.md#10the-lanonandek-worlds "10. The Lanonandek Worlds") . 394
+&#160;&#160;&#160;&#160;[10. Los Mundos Lanonandek](part-2/035.md#10los-mundos-lanonandek "10. Los Mundos Lanonandek") . 394
 
-036 . <a href="part-2/036.md" title="The Life Carriers">Paper 36 · The Life Carriers</a> . 396
+036 . <a href="part-2/036.md" title="Los Portadores de Vida">Documento 36 · Los Portadores de Vida</a> . 396
 
-&#160;&#160;&#160;&#160;[1. Origin and Nature of Life Carriers](part-2/036.md#1origin-and-nature-of-life-carriers "1. Origin and Nature of Life Carriers") . 396
+&#160;&#160;&#160;&#160;[1. El Origen y Naturaleza de los Portadores de Vida](part-2/036.md#1el-origen-y-naturaleza-de-los-portadores-de-vida "1. El Origen y Naturaleza de los Portadores de Vida") . 396
 
-&#160;&#160;&#160;&#160;[2. The Life Carrier Worlds](part-2/036.md#2the-life-carrier-worlds "2. The Life Carrier Worlds") . 397
+&#160;&#160;&#160;&#160;[2. Los Mundos de los Portadores de Vida](part-2/036.md#2los-mundos-de-los-portadores-de-vida "2. Los Mundos de los Portadores de Vida") . 397
 
-&#160;&#160;&#160;&#160;[3. Life Transplantation](part-2/036.md#3life-transplantation "3. Life Transplantation") . 399
+&#160;&#160;&#160;&#160;[3. El Transplante de la Vida](part-2/036.md#3el-transplante-de-la-vida "3. El Transplante de la Vida") . 399
 
-&#160;&#160;&#160;&#160;[4. Melchizedek Life Carriers](part-2/036.md#4melchizedek-life-carriers "4. Melchizedek Life Carriers") . 400
+&#160;&#160;&#160;&#160;[4. Los Portadores Melquisedek de Vida](part-2/036.md#4los-portadores-melquisedek-de-vida "4. Los Portadores Melquisedek de Vida") . 400
 
-&#160;&#160;&#160;&#160;[5. The Seven Adjutant Mind-Spirits](part-2/036.md#5the-seven-adjutant-mind-spirits "5. The Seven Adjutant Mind-Spirits") . 401
+&#160;&#160;&#160;&#160;[5. Los Siete Espíritus Ayudantes de la Mente](part-2/036.md#5los-siete-espíritus-ayudantes-de-la-mente "5. Los Siete Espíritus Ayudantes de la Mente") . 401
 
-&#160;&#160;&#160;&#160;[6. Living Forces](part-2/036.md#6living-forces "6. Living Forces") . 403
+&#160;&#160;&#160;&#160;[6. Las Fuerzas Vivientes](part-2/036.md#6las-fuerzas-vivientes "6. Las Fuerzas Vivientes") . 403
 
-037 . <a href="part-2/037.md" title="Personalities of the Local Universe">Paper 37 · Personalities of the Local Universe</a> . 406
+037 . <a href="part-2/037.md" title="Las Personalidades del Universo Local">Documento 37 · Las Personalidades del Universo Local</a> . 406
 
-&#160;&#160;&#160;&#160;[1. The Universe Aids](part-2/037.md#1the-universe-aids "1. The Universe Aids") . 406
+&#160;&#160;&#160;&#160;[1. Los Ayudantes Universales](part-2/037.md#1los-ayudantes-universales "1. Los Ayudantes Universales") . 406
 
-&#160;&#160;&#160;&#160;[2. The Brilliant Evening Stars](part-2/037.md#2the-brilliant-evening-stars "2. The Brilliant Evening Stars") . 407
+&#160;&#160;&#160;&#160;[2. Las Brillantes Estrellas Vespertinas](part-2/037.md#2las-brillantes-estrellas-vespertinas "2. Las Brillantes Estrellas Vespertinas") . 407
 
-&#160;&#160;&#160;&#160;[3. The Archangels](part-2/037.md#3the-archangels "3. The Archangels") . 408
+&#160;&#160;&#160;&#160;[3. Los Arcángeles](part-2/037.md#3los-arcángeles "3. Los Arcángeles") . 408
 
-&#160;&#160;&#160;&#160;[4. Most High Assistants](part-2/037.md#4most-high-assistants "4. Most High Assistants") . 409
+&#160;&#160;&#160;&#160;[4. Los Asistentes Altísimos](part-2/037.md#4los-asistentes-altísimos "4. Los Asistentes Altísimos") . 409
 
-&#160;&#160;&#160;&#160;[5. High Commissioners](part-2/037.md#5high-commissioners "5. High Commissioners") . 410
+&#160;&#160;&#160;&#160;[5. Los Altos Comisionados](part-2/037.md#5los-altos-comisionados "5. Los Altos Comisionados") . 410
 
-&#160;&#160;&#160;&#160;[6. Celestial Overseers](part-2/037.md#6celestial-overseers "6. Celestial Overseers") . 412
+&#160;&#160;&#160;&#160;[6. Los Supervisores Celestiales](part-2/037.md#6los-supervisores-celestiales "6. Los Supervisores Celestiales") . 412
 
-&#160;&#160;&#160;&#160;[7. Mansion World Teachers](part-2/037.md#7mansion-world-teachers "7. Mansion World Teachers") . 413
+&#160;&#160;&#160;&#160;[7. Los Maestros de los Mundos de Estancia](part-2/037.md#7los-maestros-de-los-mundos-de-estancia "7. Los Maestros de los Mundos de Estancia") . 413
 
-&#160;&#160;&#160;&#160;[8. Higher Spirit Orders of Assignment](part-2/037.md#8higher-spirit-orders-of-assignment "8. Higher Spirit Orders of Assignment") . 413
+&#160;&#160;&#160;&#160;[8. Las Órdenes Espirituales Más Elevadas de Asignación](part-2/037.md#8las-órdenes-espirituales-más-elevadas-de-asignación "8. Las Órdenes Espirituales Más Elevadas de Asignación") . 413
 
-&#160;&#160;&#160;&#160;[9. Permanent Citizens of the Local Universe](part-2/037.md#9permanent-citizens-of-the-local-universe "9. Permanent Citizens of the Local Universe") . 414
+&#160;&#160;&#160;&#160;[9. Los Ciudadanos Permanentes del Universo Local](part-2/037.md#9los-ciudadanos-permanentes-del-universo-local "9. Los Ciudadanos Permanentes del Universo Local") . 414
 
-&#160;&#160;&#160;&#160;[10. Other Local Universe Groups](part-2/037.md#10other-local-universe-groups "10. Other Local Universe Groups") . 416
+&#160;&#160;&#160;&#160;[10. Otros Grupos del Universo Local](part-2/037.md#10otros-grupos-del-universo-local "10. Otros Grupos del Universo Local") . 416
 
-038 . <a href="part-2/038.md" title="Ministering Spirits of the Local Universe">Paper 38 · Ministering Spirits of the Local Universe</a> . 418
+038 . <a href="part-2/038.md" title="Los Espíritus Ministrantes del Universo Local">Documento 38 · Los Espíritus Ministrantes del Universo Local</a> . 418
 
-&#160;&#160;&#160;&#160;[1. Origin of Seraphim](part-2/038.md#1origin-of-seraphim "1. Origin of Seraphim") . 418
+&#160;&#160;&#160;&#160;[1. El Origen de los Serafines](part-2/038.md#1el-origen-de-los-serafines "1. El Origen de los Serafines") . 418
 
-&#160;&#160;&#160;&#160;[2. Angelic Natures](part-2/038.md#2angelic-natures "2. Angelic Natures") . 419
+&#160;&#160;&#160;&#160;[2. Naturalezas Angélicas](part-2/038.md#2naturalezas-angélicas "2. Naturalezas Angélicas") . 419
 
-&#160;&#160;&#160;&#160;[3. Unrevealed Angels](part-2/038.md#3unrevealed-angels "3. Unrevealed Angels") . 420
+&#160;&#160;&#160;&#160;[3. Los Ángeles no Revelados](part-2/038.md#3los-ángeles-no-revelados "3. Los Ángeles no Revelados") . 420
 
-&#160;&#160;&#160;&#160;[4. The Seraphic Worlds](part-2/038.md#4the-seraphic-worlds "4. The Seraphic Worlds") . 420
+&#160;&#160;&#160;&#160;[4. Los Mundos Seráficos](part-2/038.md#4los-mundos-seráficos "4. Los Mundos Seráficos") . 420
 
-&#160;&#160;&#160;&#160;[5. Seraphic Training](part-2/038.md#5seraphic-training "5. Seraphic Training") . 420
+&#160;&#160;&#160;&#160;[5. Capacitación Seráfica](part-2/038.md#5capacitación-seráfica "5. Capacitación Seráfica") . 420
 
-&#160;&#160;&#160;&#160;[6. Seraphic Organization](part-2/038.md#6seraphic-organization "6. Seraphic Organization") . 421
+&#160;&#160;&#160;&#160;[6. Organización Seráfica](part-2/038.md#6organización-seráfica "6. Organización Seráfica") . 421
 
-&#160;&#160;&#160;&#160;[7. Cherubim and Sanobim](part-2/038.md#7cherubim-and-sanobim "7. Cherubim and Sanobim") . 422
+&#160;&#160;&#160;&#160;[7. Los Querubines y los Sanobines](part-2/038.md#7los-querubines-y-los-sanobines "7. Los Querubines y los Sanobines") . 422
 
-&#160;&#160;&#160;&#160;[8. Evolution of Cherubim and Sanobim](part-2/038.md#8evolution-of-cherubim-and-sanobim "8. Evolution of Cherubim and Sanobim") . 423
+&#160;&#160;&#160;&#160;[8. Evolución de los Querubines y Sanobines](part-2/038.md#8evolución-de-los-querubines-y-sanobines "8. Evolución de los Querubines y Sanobines") . 423
 
-&#160;&#160;&#160;&#160;[9. The Midway Creatures](part-2/038.md#9the-midway-creatures "9. The Midway Creatures") . 424
+&#160;&#160;&#160;&#160;[9. Los Seres Intermedios](part-2/038.md#9los-seres-intermedios "9. Los Seres Intermedios") . 424
 
-039 . <a href="part-2/039.md" title="The Seraphic Hosts">Paper 39 · The Seraphic Hosts</a> . 426
+039 . <a href="part-2/039.md" title="Las Huestes Seráficas">Documento 39 · Las Huestes Seráficas</a> . 426
 
-&#160;&#160;&#160;&#160;[1. Supreme Seraphim](part-2/039.md#1supreme-seraphim "1. Supreme Seraphim") . 427
+&#160;&#160;&#160;&#160;[1. Serafines Supremos](part-2/039.md#1serafines-supremos "1. Serafines Supremos") . 427
 
-&#160;&#160;&#160;&#160;[2. Superior Seraphim](part-2/039.md#2superior-seraphim "2. Superior Seraphim") . 429
+&#160;&#160;&#160;&#160;[2. Serafines Superiores](part-2/039.md#2serafines-superiores "2. Serafines Superiores") . 429
 
-&#160;&#160;&#160;&#160;[3. Supervisor Seraphim](part-2/039.md#3supervisor-seraphim "3. Supervisor Seraphim") . 432
+&#160;&#160;&#160;&#160;[3. Serafines Supervisores](part-2/039.md#3serafines-supervisores "3. Serafines Supervisores") . 432
 
-&#160;&#160;&#160;&#160;[4. Administrator Seraphim](part-2/039.md#4administrator-seraphim "4. Administrator Seraphim") . 434
+&#160;&#160;&#160;&#160;[4. Serafines Administradores](part-2/039.md#4serafines-administradores "4. Serafines Administradores") . 434
 
-&#160;&#160;&#160;&#160;[5. Planetary Helpers](part-2/039.md#5planetary-helpers "5. Planetary Helpers") . 436
+&#160;&#160;&#160;&#160;[5. Asistentes Planetarios](part-2/039.md#5asistentes-planetarios "5. Asistentes Planetarios") . 436
 
-&#160;&#160;&#160;&#160;[6. Transition Ministers](part-2/039.md#6transition-ministers "6. Transition Ministers") . 439
+&#160;&#160;&#160;&#160;[6. Ministros de Transición](part-2/039.md#6ministros-de-transición "6. Ministros de Transición") . 439
 
-&#160;&#160;&#160;&#160;[7. Seraphim of the Future](part-2/039.md#7seraphim-of-the-future "7. Seraphim of the Future") . 440
+&#160;&#160;&#160;&#160;[7. Serafines del Futuro](part-2/039.md#7serafines-del-futuro "7. Serafines del Futuro") . 440
 
-&#160;&#160;&#160;&#160;[8. Seraphic Destiny](part-2/039.md#8seraphic-destiny "8. Seraphic Destiny") . 440
+&#160;&#160;&#160;&#160;[8. El Destino Seráfico](part-2/039.md#8el-destino-seráfico "8. El Destino Seráfico") . 440
 
-&#160;&#160;&#160;&#160;[9. The Corps of Seraphic Completion](part-2/039.md#9the-corps-of-seraphic-completion "9. The Corps of Seraphic Completion") . 441
+&#160;&#160;&#160;&#160;[9. Los Cuerpos de Consumación Seráfica](part-2/039.md#9los-cuerpos-de-consumación-seráfica "9. Los Cuerpos de Consumación Seráfica") . 441
 
-040 . <a href="part-2/040.md" title="The Ascending Sons of God">Paper 40 · The Ascending Sons of God</a> . 443
+040 . <a href="part-2/040.md" title="Los Hijos de Dios Ascendentes">Documento 40 · Los Hijos de Dios Ascendentes</a> . 443
 
-&#160;&#160;&#160;&#160;[1. Evolutionary Seraphim](part-2/040.md#1evolutionary-seraphim "1. Evolutionary Seraphim") . 443
+&#160;&#160;&#160;&#160;[1. Serafines Evolucionarios](part-2/040.md#1serafines-evolucionarios "1. Serafines Evolucionarios") . 443
 
-&#160;&#160;&#160;&#160;[2. Ascending Material Sons](part-2/040.md#2ascending-material-sons "2. Ascending Material Sons") . 444
+&#160;&#160;&#160;&#160;[2. Hijos Materiales Ascendentes](part-2/040.md#2hijos-materiales-ascendentes "2. Hijos Materiales Ascendentes") . 444
 
-&#160;&#160;&#160;&#160;[3. Translated Midwayers](part-2/040.md#3translated-midwayers "3. Translated Midwayers") . 444
+&#160;&#160;&#160;&#160;[3. Seres Intermedios Trasladados](part-2/040.md#3seres-intermedios-trasladados "3. Seres Intermedios Trasladados") . 444
 
-&#160;&#160;&#160;&#160;[4. Personalized Adjusters](part-2/040.md#4personalized-adjusters "4. Personalized Adjusters") . 444
+&#160;&#160;&#160;&#160;[4. Ajustadores Personalizados](part-2/040.md#4ajustadores-personalizados "4. Ajustadores Personalizados") . 444
 
-&#160;&#160;&#160;&#160;[5. Mortals of Time and Space](part-2/040.md#5mortals-of-time-and-space "5. Mortals of Time and Space") . 445
+&#160;&#160;&#160;&#160;[5. Mortales del Tiempo y del Espacio](part-2/040.md#5mortales-del-tiempo-y-del-espacio "5. Mortales del Tiempo y del Espacio") . 445
 
-&#160;&#160;&#160;&#160;[6. The Faith Sons of God](part-2/040.md#6the-faith-sons-of-god "6. The Faith Sons of God") . 447
+&#160;&#160;&#160;&#160;[6. Los Hijos de Dios por la Fe](part-2/040.md#6los-hijos-de-dios-por-la-fe "6. Los Hijos de Dios por la Fe") . 447
 
-&#160;&#160;&#160;&#160;[7. Father-Fused Mortals](part-2/040.md#7father-fused-mortals "7. Father-Fused Mortals") . 448
+&#160;&#160;&#160;&#160;[7. Los Mortales Fusionados con el Padre](part-2/040.md#7los-mortales-fusionados-con-el-padre "7. Los Mortales Fusionados con el Padre") . 448
 
-&#160;&#160;&#160;&#160;[8. Son-Fused Mortals](part-2/040.md#8son-fused-mortals "8. Son-Fused Mortals") . 449
+&#160;&#160;&#160;&#160;[8. Los Mortales Fusionados con el Hijo](part-2/040.md#8los-mortales-fusionados-con-el-hijo "8. Los Mortales Fusionados con el Hijo") . 449
 
-&#160;&#160;&#160;&#160;[9. Spirit-Fused Mortals](part-2/040.md#9spirit-fused-mortals "9. Spirit-Fused Mortals") . 450
+&#160;&#160;&#160;&#160;[9. Los Mortales Fusionados con el Espíritu](part-2/040.md#9los-mortales-fusionados-con-el-espíritu "9. Los Mortales Fusionados con el Espíritu") . 450
 
-&#160;&#160;&#160;&#160;[10. Ascendant Destinies](part-2/040.md#10ascendant-destinies "10. Ascendant Destinies") . 452
+&#160;&#160;&#160;&#160;[10. Los Destinos de los Ascendentes](part-2/040.md#10los-destinos-de-los-ascendentes "10. Los Destinos de los Ascendentes") . 452
 
-041 . <a href="part-2/041.md" title="Physical Aspects of the Local Universe">Paper 41 · Physical Aspects of the Local Universe</a> . 455
+041 . <a href="part-2/041.md" title="Los Aspectos Físicos del Universo Local">Documento 41 · Los Aspectos Físicos del Universo Local</a> . 455
 
-&#160;&#160;&#160;&#160;[1. The Nebadon Power Centers](part-2/041.md#1the-nebadon-power-centers "1. The Nebadon Power Centers") . 455
+&#160;&#160;&#160;&#160;[1. Los Centros de Poder Nebadónicos](part-2/041.md#1los-centros-de-poder-nebadónicos "1. Los Centros de Poder Nebadónicos") . 455
 
-&#160;&#160;&#160;&#160;[2. The Satania Physical Controllers](part-2/041.md#2the-satania-physical-controllers "2. The Satania Physical Controllers") . 456
+&#160;&#160;&#160;&#160;[2. Los Controladores Físicos de Satania](part-2/041.md#2los-controladores-físicos-de-satania "2. Los Controladores Físicos de Satania") . 456
 
-&#160;&#160;&#160;&#160;[3. Our Starry Associates](part-2/041.md#3our-starry-associates "3. Our Starry Associates") . 458
+&#160;&#160;&#160;&#160;[3. Nuestros Asociados Estelares](part-2/041.md#3nuestros-asociados-estelares "3. Nuestros Asociados Estelares") . 458
 
-&#160;&#160;&#160;&#160;[4. Sun Density](part-2/041.md#4sun-density "4. Sun Density") . 459
+&#160;&#160;&#160;&#160;[4. La Densidad de los Soles](part-2/041.md#4la-densidad-de-los-soles "4. La Densidad de los Soles") . 459
 
-&#160;&#160;&#160;&#160;[5. Solar Radiation](part-2/041.md#5solar-radiation "5. Solar Radiation") . 460
+&#160;&#160;&#160;&#160;[5. La Radiación Solar](part-2/041.md#5la-radiación-solar "5. La Radiación Solar") . 460
 
-&#160;&#160;&#160;&#160;[6. Calcium—The Wanderer of Space](part-2/041.md#6calciumthe-wanderer-of-space "6. Calcium—The Wanderer of Space") . 461
+&#160;&#160;&#160;&#160;[6. El Calcio — El Errante del Espacio](part-2/041.md#6el-calcio--el-errante-del-espacio "6. El Calcio — El Errante del Espacio") . 461
 
-&#160;&#160;&#160;&#160;[7. Sources of Solar Energy](part-2/041.md#7sources-of-solar-energy "7. Sources of Solar Energy") . 463
+&#160;&#160;&#160;&#160;[7. Las Fuentes de la Energía Solar](part-2/041.md#7las-fuentes-de-la-energía-solar "7. Las Fuentes de la Energía Solar") . 463
 
-&#160;&#160;&#160;&#160;[8. Solar-Energy Reactions](part-2/041.md#8solar-energy-reactions "8. Solar-Energy Reactions") . 464
+&#160;&#160;&#160;&#160;[8. Las Reacciones de la Energía Solar](part-2/041.md#8las-reacciones-de-la-energía-solar "8. Las Reacciones de la Energía Solar") . 464
 
-&#160;&#160;&#160;&#160;[9. Sun Stability](part-2/041.md#9sun-stability "9. Sun Stability") . 465
+&#160;&#160;&#160;&#160;[9. La Estabilidad de los Soles](part-2/041.md#9la-estabilidad-de-los-soles "9. La Estabilidad de los Soles") . 465
 
-&#160;&#160;&#160;&#160;[10. Origin of Inhabited Worlds](part-2/041.md#10origin-of-inhabited-worlds "10. Origin of Inhabited Worlds") . 465
+&#160;&#160;&#160;&#160;[10. El Origen de los Mundos Habitados](part-2/041.md#10el-origen-de-los-mundos-habitados "10. El Origen de los Mundos Habitados") . 465
 
-042 . <a href="part-2/042.md" title="Energy—Mind and Matter">Paper 42 · Energy—Mind and Matter</a> . 467
+042 . <a href="part-2/042.md" title="La Energía — La Mente y la Materia">Documento 42 · La Energía — La Mente y la Materia</a> . 467
 
-&#160;&#160;&#160;&#160;[1. Paradise Forces and Energies](part-2/042.md#1paradise-forces-and-energies "1. Paradise Forces and Energies") . 467
+&#160;&#160;&#160;&#160;[1. Las Fuerzas y las Energías del Paraíso](part-2/042.md#1las-fuerzas-y-las-energías-del-paraíso "1. Las Fuerzas y las Energías del Paraíso") . 467
 
-&#160;&#160;&#160;&#160;[2. Universal Nonspiritual Energy Systems<br />(Physical Energies)](part-2/042.md#2universal-nonspiritual-energy-systemsphysical-energies "2. Universal Nonspiritual Energy Systems<br />(Physical Energies)") . 469
+&#160;&#160;&#160;&#160;[2. Los Sistemas de Energía Universales no Espirituales<br />(Las Energías Físicas)](part-2/042.md#2los-sistemas-de-energía-universales-no-espiritualeslas-energías-físicas "2. Los Sistemas de Energía Universales no Espirituales<br />(Las Energías Físicas)") . 469
 
-&#160;&#160;&#160;&#160;[3. Classification of Matter](part-2/042.md#3classification-of-matter "3. Classification of Matter") . 471
+&#160;&#160;&#160;&#160;[3. Clasificación de la Materia](part-2/042.md#3clasificación-de-la-materia "3. Clasificación de la Materia") . 471
 
-&#160;&#160;&#160;&#160;[4. Energy and Matter Transmutations](part-2/042.md#4energy-and-matter-transmutations "4. Energy and Matter Transmutations") . 472
+&#160;&#160;&#160;&#160;[4. Las Transmutaciones de la Energía y de la Materia](part-2/042.md#4las-transmutaciones-de-la-energía-y-de-la-materia "4. Las Transmutaciones de la Energía y de la Materia") . 472
 
-&#160;&#160;&#160;&#160;[5. Wave-Energy Manifestations](part-2/042.md#5wave-energy-manifestations "5. Wave-Energy Manifestations") . 474
+&#160;&#160;&#160;&#160;[5. Manifestaciones de la Energía en Ondas](part-2/042.md#5manifestaciones-de-la-energía-en-ondas "5. Manifestaciones de la Energía en Ondas") . 474
 
-&#160;&#160;&#160;&#160;[6. Ultimatons, Electrons, and Atoms](part-2/042.md#6ultimatons-electrons-and-atoms "6. Ultimatons, Electrons, and Atoms") . 476
+&#160;&#160;&#160;&#160;[6. Los Ultimatones, los Electrones y los Átomos](part-2/042.md#6los-ultimatones-los-electrones-y-los-átomos "6. Los Ultimatones, los Electrones y los Átomos") . 476
 
-&#160;&#160;&#160;&#160;[7. Atomic Matter](part-2/042.md#7atomic-matter "7. Atomic Matter") . 477
+&#160;&#160;&#160;&#160;[7. Materia Atómica](part-2/042.md#7materia-atómica "7. Materia Atómica") . 477
 
-&#160;&#160;&#160;&#160;[8. Atomic Cohesion](part-2/042.md#8atomic-cohesion "8. Atomic Cohesion") . 478
+&#160;&#160;&#160;&#160;[8. Cohesión Atómica](part-2/042.md#8cohesión-atómica "8. Cohesión Atómica") . 478
 
-&#160;&#160;&#160;&#160;[9. Natural Philosophy](part-2/042.md#9natural-philosophy "9. Natural Philosophy") . 479
+&#160;&#160;&#160;&#160;[9. La Filosofía Natural](part-2/042.md#9la-filosofía-natural "9. La Filosofía Natural") . 479
 
-&#160;&#160;&#160;&#160;[10. Universal Nonspiritual Energy Systems<br />(Material Mind Systems)](part-2/042.md#10universal-nonspiritual-energy-systemsmaterial-mind-systems "10. Universal Nonspiritual Energy Systems<br />(Material Mind Systems)") . 480
+&#160;&#160;&#160;&#160;[10. Los Sistemas de Energía Universales no Espirituales<br />(Sistemas Materiales de la Mente)](part-2/042.md#10los-sistemas-de-energía-universales-no-espiritualessistemas-materiales-de-la-mente "10. Los Sistemas de Energía Universales no Espirituales<br />(Sistemas Materiales de la Mente)") . 480
 
-&#160;&#160;&#160;&#160;[11. Universe Mechanisms](part-2/042.md#11universe-mechanisms "11. Universe Mechanisms") . 481
+&#160;&#160;&#160;&#160;[11. Los Mecanismos del Universo](part-2/042.md#11los-mecanismos-del-universo "11. Los Mecanismos del Universo") . 481
 
-&#160;&#160;&#160;&#160;[12. Pattern and Form—Mind Dominance](part-2/042.md#12pattern-and-formmind-dominance "12. Pattern and Form—Mind Dominance") . 483
+&#160;&#160;&#160;&#160;[12. Modelo Original y Forma — La Dominación de la Mente](part-2/042.md#12modelo-original-y-forma--la-dominación-de-la-mente "12. Modelo Original y Forma — La Dominación de la Mente") . 483
 
-043 . <a href="part-2/043.md" title="The Constellations">Paper 43 · The Constellations</a> . 485
+043 . <a href="part-2/043.md" title="Las Constelaciones">Documento 43 · Las Constelaciones</a> . 485
 
-&#160;&#160;&#160;&#160;[1. The Constellation Headquarters](part-2/043.md#1the-constellation-headquarters "1. The Constellation Headquarters") . 485
+&#160;&#160;&#160;&#160;[1. Las Sedes Centrales de las Constelaciones](part-2/043.md#1las-sedes-centrales-de-las-constelaciones "1. Las Sedes Centrales de las Constelaciones") . 485
 
-&#160;&#160;&#160;&#160;[2. The Constellation Government](part-2/043.md#2the-constellation-government "2. The Constellation Government") . 487
+&#160;&#160;&#160;&#160;[2. El Gobierno de la Constelación](part-2/043.md#2el-gobierno-de-la-constelación "2. El Gobierno de la Constelación") . 487
 
-&#160;&#160;&#160;&#160;[3. The Most Highs of Norlatiadek](part-2/043.md#3the-most-highs-of-norlatiadek "3. The Most Highs of Norlatiadek") . 488
+&#160;&#160;&#160;&#160;[3. Los Altísimos de Norlatiadek](part-2/043.md#3los-altísimos-de-norlatiadek "3. Los Altísimos de Norlatiadek") . 488
 
-&#160;&#160;&#160;&#160;[4. Mount Assembly—The Faithful of Days](part-2/043.md#4mount-assemblythe-faithful-of-days "4. Mount Assembly—The Faithful of Days") . 489
+&#160;&#160;&#160;&#160;[4. El Monte de la Asamblea — El Fiel de los Días](part-2/043.md#4el-monte-de-la-asamblea--el-fiel-de-los-días "4. El Monte de la Asamblea — El Fiel de los Días") . 489
 
-&#160;&#160;&#160;&#160;[5. The Edentia Fathers since the Lucifer Rebellion](part-2/043.md#5the-edentia-fathers-since-the-lucifer-rebellion "5. The Edentia Fathers since the Lucifer Rebellion") . 490
+&#160;&#160;&#160;&#160;[5. Los Padres de Edentia Desde la Rebelión de Lucifer](part-2/043.md#5los-padres-de-edentia-desde-la-rebelión-de-lucifer "5. Los Padres de Edentia Desde la Rebelión de Lucifer") . 490
 
-&#160;&#160;&#160;&#160;[6. The Gardens of God](part-2/043.md#6the-gardens-of-god "6. The Gardens of God") . 492
+&#160;&#160;&#160;&#160;[6. Los Jardines de Dios](part-2/043.md#6los-jardines-de-dios "6. Los Jardines de Dios") . 492
 
-&#160;&#160;&#160;&#160;[7. The Univitatia](part-2/043.md#7the-univitatia "7. The Univitatia") . 493
+&#160;&#160;&#160;&#160;[7. Los Univitatia](part-2/043.md#7los-univitatia "7. Los Univitatia") . 493
 
-&#160;&#160;&#160;&#160;[8. The Edentia Training Worlds](part-2/043.md#8the-edentia-training-worlds "8. The Edentia Training Worlds") . 493
+&#160;&#160;&#160;&#160;[8. Los Mundos de Capacitación de Edentia](part-2/043.md#8los-mundos-de-capacitación-de-edentia "8. Los Mundos de Capacitación de Edentia") . 493
 
-&#160;&#160;&#160;&#160;[9. Citizenship on Edentia](part-2/043.md#9citizenship-on-edentia "9. Citizenship on Edentia") . 495
+&#160;&#160;&#160;&#160;[9. La Ciudadanía en Edentia](part-2/043.md#9la-ciudadanía-en-edentia "9. La Ciudadanía en Edentia") . 495
 
-044 . <a href="part-2/044.md" title="The Celestial Artisans">Paper 44 · The Celestial Artisans</a> . 497
+044 . <a href="part-2/044.md" title="Los Artesanos Celestiales">Documento 44 · Los Artesanos Celestiales</a> . 497
 
-&#160;&#160;&#160;&#160;[1. The Celestial Musicians](part-2/044.md#1the-celestial-musicians "1. The Celestial Musicians") . 499
+&#160;&#160;&#160;&#160;[1. Los Músicos Celestiales](part-2/044.md#1los-músicos-celestiales "1. Los Músicos Celestiales") . 499
 
-&#160;&#160;&#160;&#160;[2. The Heavenly Reproducers](part-2/044.md#2the-heavenly-reproducers "2. The Heavenly Reproducers") . 500
+&#160;&#160;&#160;&#160;[2. Los Reproductores Celestiales](part-2/044.md#2los-reproductores-celestiales "2. Los Reproductores Celestiales") . 500
 
-&#160;&#160;&#160;&#160;[3. The Divine Builders](part-2/044.md#3the-divine-builders "3. The Divine Builders") . 501
+&#160;&#160;&#160;&#160;[3. Los Constructores Divinos](part-2/044.md#3los-constructores-divinos "3. Los Constructores Divinos") . 501
 
-&#160;&#160;&#160;&#160;[4. The Thought Recorders](part-2/044.md#4the-thought-recorders "4. The Thought Recorders") . 503
+&#160;&#160;&#160;&#160;[4. Los Registradores del Pensamiento](part-2/044.md#4los-registradores-del-pensamiento "4. Los Registradores del Pensamiento") . 503
 
-&#160;&#160;&#160;&#160;[5. The Energy Manipulators](part-2/044.md#5the-energy-manipulators "5. The Energy Manipulators") . 504
+&#160;&#160;&#160;&#160;[5. Los Manipuladores de la Energía](part-2/044.md#5los-manipuladores-de-la-energía "5. Los Manipuladores de la Energía") . 504
 
-&#160;&#160;&#160;&#160;[6. The Designers and Embellishers](part-2/044.md#6the-designers-and-embellishers "6. The Designers and Embellishers") . 506
+&#160;&#160;&#160;&#160;[6. Los Diseñadores y los Embellecedores](part-2/044.md#6los-diseñadores-y-los-embellecedores "6. Los Diseñadores y los Embellecedores") . 506
 
-&#160;&#160;&#160;&#160;[7. The Harmony Workers](part-2/044.md#7the-harmony-workers "7. The Harmony Workers") . 507
+&#160;&#160;&#160;&#160;[7. Los Trabajadores de la Armonía](part-2/044.md#7los-trabajadores-de-la-armonía "7. Los Trabajadores de la Armonía") . 507
 
-&#160;&#160;&#160;&#160;[8. Mortal Aspirations and Morontia Achievements](part-2/044.md#8mortal-aspirations-and-morontia-achievements "8. Mortal Aspirations and Morontia Achievements") . 507
+&#160;&#160;&#160;&#160;[8. Las Aspiraciones Mortales y los Logros Morontiales](part-2/044.md#8las-aspiraciones-mortales-y-los-logros-morontiales "8. Las Aspiraciones Mortales y los Logros Morontiales") . 507
 
-045 . <a href="part-2/045.md" title="The Local System Administration">Paper 45 · The Local System Administration</a> . 509
+045 . <a href="part-2/045.md" title="La Administración del Sistema Local">Documento 45 · La Administración del Sistema Local</a> . 509
 
-&#160;&#160;&#160;&#160;[1. Transitional Culture Worlds](part-2/045.md#1transitional-culture-worlds "1. Transitional Culture Worlds") . 509
+&#160;&#160;&#160;&#160;[1. Los Mundos de Cultura de Transición](part-2/045.md#1los-mundos-de-cultura-de-transición "1. Los Mundos de Cultura de Transición") . 509
 
-&#160;&#160;&#160;&#160;[2. The System Sovereign](part-2/045.md#2the-system-sovereign "2. The System Sovereign") . 511
+&#160;&#160;&#160;&#160;[2. El Soberano del Sistema](part-2/045.md#2el-soberano-del-sistema "2. El Soberano del Sistema") . 511
 
-&#160;&#160;&#160;&#160;[3. The System Government](part-2/045.md#3the-system-government "3. The System Government") . 512
+&#160;&#160;&#160;&#160;[3. El Gobierno del Sistema](part-2/045.md#3el-gobierno-del-sistema "3. El Gobierno del Sistema") . 512
 
-&#160;&#160;&#160;&#160;[4. The Four and Twenty Counselors](part-2/045.md#4the-four-and-twenty-counselors "4. The Four and Twenty Counselors") . 513
+&#160;&#160;&#160;&#160;[4. Los Veinticuatro Consejeros](part-2/045.md#4los-veinticuatro-consejeros "4. Los Veinticuatro Consejeros") . 513
 
-&#160;&#160;&#160;&#160;[5. The Material Sons](part-2/045.md#5the-material-sons "5. The Material Sons") . 514
+&#160;&#160;&#160;&#160;[5. Los Hijos Materiales](part-2/045.md#5los-hijos-materiales "5. Los Hijos Materiales") . 514
 
-&#160;&#160;&#160;&#160;[6. Adamic Training of Ascenders](part-2/045.md#6adamic-training-of-ascenders "6. Adamic Training of Ascenders") . 515
+&#160;&#160;&#160;&#160;[6. La Capacitación Adánica de los Seres Ascendentes](part-2/045.md#6la-capacitación-adánica-de-los-seres-ascendentes "6. La Capacitación Adánica de los Seres Ascendentes") . 515
 
-&#160;&#160;&#160;&#160;[7. The Melchizedek Schools](part-2/045.md#7the-melchizedek-schools "7. The Melchizedek Schools") . 517
+&#160;&#160;&#160;&#160;[7. Las Facultades Melquisedek](part-2/045.md#7las-facultades-melquisedek "7. Las Facultades Melquisedek") . 517
 
-046 . <a href="part-2/046.md" title="The Local System Headquarters">Paper 46 · The Local System Headquarters</a> . 519
+046 . <a href="part-2/046.md" title="La Sede Central del Sistema Local">Documento 46 · La Sede Central del Sistema Local</a> . 519
 
-&#160;&#160;&#160;&#160;[1. Physical Aspects of Jerusem](part-2/046.md#1physical-aspects-of-jerusem "1. Physical Aspects of Jerusem") . 519
+&#160;&#160;&#160;&#160;[1. Aspectos Físicos de Jerusem](part-2/046.md#1aspectos-físicos-de-jerusem "1. Aspectos Físicos de Jerusem") . 519
 
-&#160;&#160;&#160;&#160;[2. Physical Features of Jerusem](part-2/046.md#2physical-features-of-jerusem "2. Physical Features of Jerusem") . 520
+&#160;&#160;&#160;&#160;[2. Características Físicas de Jerusem](part-2/046.md#2características-físicas-de-jerusem "2. Características Físicas de Jerusem") . 520
 
-&#160;&#160;&#160;&#160;[3. The Jerusem Broadcasts](part-2/046.md#3the-jerusem-broadcasts "3. The Jerusem Broadcasts") . 522
+&#160;&#160;&#160;&#160;[3. Las Transmisiones de Jerusem](part-2/046.md#3las-transmisiones-de-jerusem "3. Las Transmisiones de Jerusem") . 522
 
-&#160;&#160;&#160;&#160;[4. Residential and Administrative Areas](part-2/046.md#4residential-and-administrative-areas "4. Residential and Administrative Areas") . 522
+&#160;&#160;&#160;&#160;[4. Las Áreas Residenciales y Administrativas](part-2/046.md#4las-áreas-residenciales-y-administrativas "4. Las Áreas Residenciales y Administrativas") . 522
 
-&#160;&#160;&#160;&#160;[5. The Jerusem Circles](part-2/046.md#5the-jerusem-circles "5. The Jerusem Circles") . 523
+&#160;&#160;&#160;&#160;[5. Los Círculos de Jerusem](part-2/046.md#5los-círculos-de-jerusem "5. Los Círculos de Jerusem") . 523
 
-&#160;&#160;&#160;&#160;[6. The Executive-Administrative Squares](part-2/046.md#6the-executive-administrative-squares "6. The Executive-Administrative Squares") . 527
+&#160;&#160;&#160;&#160;[6. Los Cuadrados Ejecutivo-Administrativos](part-2/046.md#6los-cuadrados-ejecutivo-administrativos "6. Los Cuadrados Ejecutivo-Administrativos") . 527
 
-&#160;&#160;&#160;&#160;[7. The Rectangles—The Spornagia](part-2/046.md#7the-rectanglesthe-spornagia "7. The Rectangles—The Spornagia") . 527
+&#160;&#160;&#160;&#160;[7. Los Rectángulos — Los Espornagia](part-2/046.md#7los-rectángulos--los-espornagia "7. Los Rectángulos — Los Espornagia") . 527
 
-&#160;&#160;&#160;&#160;[8. The Jerusem Triangles](part-2/046.md#8the-jerusem-triangles "8. The Jerusem Triangles") . 528
+&#160;&#160;&#160;&#160;[8. Los Triángulos de Jerusem](part-2/046.md#8los-triángulos-de-jerusem "8. Los Triángulos de Jerusem") . 528
 
-047 . <a href="part-2/047.md" title="The Seven Mansion Worlds">Paper 47 · The Seven Mansion Worlds</a> . 530
+047 . <a href="part-2/047.md" title="Los Siete Mundos de Estancia">Documento 47 · Los Siete Mundos de Estancia</a> . 530
 
-&#160;&#160;&#160;&#160;[1. The Finaliters’ World](part-2/047.md#1the-finaliters-world "1. The Finaliters’ World") . 530
+&#160;&#160;&#160;&#160;[1. El Mundo de los Finalistas](part-2/047.md#1el-mundo-de-los-finalistas "1. El Mundo de los Finalistas") . 530
 
-&#160;&#160;&#160;&#160;[2. The Probationary Nursery](part-2/047.md#2the-probationary-nursery "2. The Probationary Nursery") . 531
+&#160;&#160;&#160;&#160;[2. La Guardería del Período de Prueba](part-2/047.md#2la-guardería-del-período-de-prueba "2. La Guardería del Período de Prueba") . 531
 
-&#160;&#160;&#160;&#160;[3. The First Mansion World](part-2/047.md#3the-first-mansion-world "3. The First Mansion World") . 532
+&#160;&#160;&#160;&#160;[3. El Primer Mundo de Estancia](part-2/047.md#3el-primer-mundo-de-estancia "3. El Primer Mundo de Estancia") . 532
 
-&#160;&#160;&#160;&#160;[4. The Second Mansion World](part-2/047.md#4the-second-mansion-world "4. The Second Mansion World") . 534
+&#160;&#160;&#160;&#160;[4. El Segundo Mundo de Estancia](part-2/047.md#4el-segundo-mundo-de-estancia "4. El Segundo Mundo de Estancia") . 534
 
-&#160;&#160;&#160;&#160;[5. The Third Mansion World](part-2/047.md#5the-third-mansion-world "5. The Third Mansion World") . 535
+&#160;&#160;&#160;&#160;[5. El Tercer Mundo de Estancia](part-2/047.md#5el-tercer-mundo-de-estancia "5. El Tercer Mundo de Estancia") . 535
 
-&#160;&#160;&#160;&#160;[6. The Fourth Mansion World](part-2/047.md#6the-fourth-mansion-world "6. The Fourth Mansion World") . 536
+&#160;&#160;&#160;&#160;[6. El Cuarto Mundo de Estancia](part-2/047.md#6el-cuarto-mundo-de-estancia "6. El Cuarto Mundo de Estancia") . 536
 
-&#160;&#160;&#160;&#160;[7. The Fifth Mansion World](part-2/047.md#7the-fifth-mansion-world "7. The Fifth Mansion World") . 537
+&#160;&#160;&#160;&#160;[7. El Quinto Mundo de Estancia](part-2/047.md#7el-quinto-mundo-de-estancia "7. El Quinto Mundo de Estancia") . 537
 
-&#160;&#160;&#160;&#160;[8. The Sixth Mansion World](part-2/047.md#8the-sixth-mansion-world "8. The Sixth Mansion World") . 537
+&#160;&#160;&#160;&#160;[8. El Sexto Mundo de Estancia](part-2/047.md#8el-sexto-mundo-de-estancia "8. El Sexto Mundo de Estancia") . 537
 
-&#160;&#160;&#160;&#160;[9. The Seventh Mansion World](part-2/047.md#9the-seventh-mansion-world "9. The Seventh Mansion World") . 538
+&#160;&#160;&#160;&#160;[9. El Séptimo Mundo de Estancia](part-2/047.md#9el-séptimo-mundo-de-estancia "9. El Séptimo Mundo de Estancia") . 538
 
-&#160;&#160;&#160;&#160;[10. Jerusem Citizenship](part-2/047.md#10jerusem-citizenship "10. Jerusem Citizenship") . 539
+&#160;&#160;&#160;&#160;[10. La Ciudadanía de Jerusem](part-2/047.md#10la-ciudadanía-de-jerusem "10. La Ciudadanía de Jerusem") . 539
 
-048 . <a href="part-2/048.md" title="The Morontia Life">Paper 48 · The Morontia Life</a> . 541
+048 . <a href="part-2/048.md" title="La Vida Morontial">Documento 48 · La Vida Morontial</a> . 541
 
-&#160;&#160;&#160;&#160;[1. Morontia Materials](part-2/048.md#1morontia-materials "1. Morontia Materials") . 541
+&#160;&#160;&#160;&#160;[1. Materiales Morontiales](part-2/048.md#1materiales-morontiales "1. Materiales Morontiales") . 541
 
-&#160;&#160;&#160;&#160;[2. Morontia Power Supervisors](part-2/048.md#2morontia-power-supervisors "2. Morontia Power Supervisors") . 542
+&#160;&#160;&#160;&#160;[2. Los Supervisores del Poder Morontial](part-2/048.md#2los-supervisores-del-poder-morontial "2. Los Supervisores del Poder Morontial") . 542
 
-&#160;&#160;&#160;&#160;[3. Morontia Companions](part-2/048.md#3morontia-companions "3. Morontia Companions") . 545
+&#160;&#160;&#160;&#160;[3. Los Compañeros Morontiales](part-2/048.md#3los-compañeros-morontiales "3. Los Compañeros Morontiales") . 545
 
-&#160;&#160;&#160;&#160;[4. The Reversion Directors](part-2/048.md#4the-reversion-directors "4. The Reversion Directors") . 547
+&#160;&#160;&#160;&#160;[4. Los Directores de Reversión](part-2/048.md#4los-directores-de-reversión "4. Los Directores de Reversión") . 547
 
-&#160;&#160;&#160;&#160;[5. The Mansion World Teachers](part-2/048.md#5the-mansion-world-teachers "5. The Mansion World Teachers") . 550
+&#160;&#160;&#160;&#160;[5. Los Maestros de los Mundos de Estancia](part-2/048.md#5los-maestros-de-los-mundos-de-estancia "5. Los Maestros de los Mundos de Estancia") . 550
 
-&#160;&#160;&#160;&#160;[6. Morontia World Seraphim—Transition Ministers](part-2/048.md#6morontia-world-seraphimtransition-ministers "6. Morontia World Seraphim—Transition Ministers") . 551
+&#160;&#160;&#160;&#160;[6. Los Serafines de los Mundos Morontiales — Los Ministros de Transición](part-2/048.md#6los-serafines-de-los-mundos-morontiales--los-ministros-de-transición "6. Los Serafines de los Mundos Morontiales — Los Ministros de Transición") . 551
 
-&#160;&#160;&#160;&#160;[7. Morontia Mota](part-2/048.md#7morontia-mota "7. Morontia Mota") . 556
+&#160;&#160;&#160;&#160;[7. La Mota Morontial](part-2/048.md#7la-mota-morontial "7. La Mota Morontial") . 556
 
-&#160;&#160;&#160;&#160;[8. The Morontia Progressors](part-2/048.md#8the-morontia-progressors "8. The Morontia Progressors") . 557
+&#160;&#160;&#160;&#160;[8. Los Progresores Morontiales](part-2/048.md#8los-progresores-morontiales "8. Los Progresores Morontiales") . 557
 
-049 . <a href="part-2/049.md" title="The Inhabited Worlds">Paper 49 · The Inhabited Worlds</a> . 559
+049 . <a href="part-2/049.md" title="Los Mundos Habitados">Documento 49 · Los Mundos Habitados</a> . 559
 
-&#160;&#160;&#160;&#160;[1. The Planetary Life](part-2/049.md#1the-planetary-life "1. The Planetary Life") . 559
+&#160;&#160;&#160;&#160;[1. La Vida Planetaria](part-2/049.md#1la-vida-planetaria "1. La Vida Planetaria") . 559
 
-&#160;&#160;&#160;&#160;[2. Planetary Physical Types](part-2/049.md#2planetary-physical-types "2. Planetary Physical Types") . 560
+&#160;&#160;&#160;&#160;[2. Tipos Físicos Planetarios](part-2/049.md#2tipos-físicos-planetarios "2. Tipos Físicos Planetarios") . 560
 
-&#160;&#160;&#160;&#160;[3. Worlds of the Nonbreathers](part-2/049.md#3worlds-of-the-nonbreathers "3. Worlds of the Nonbreathers") . 563
+&#160;&#160;&#160;&#160;[3. Los Mundos de los que no Respiran](part-2/049.md#3los-mundos-de-los-que-no-respiran "3. Los Mundos de los que no Respiran") . 563
 
-&#160;&#160;&#160;&#160;[4. Evolutionary Will Creatures](part-2/049.md#4evolutionary-will-creatures "4. Evolutionary Will Creatures") . 564
+&#160;&#160;&#160;&#160;[4. Las Criaturas Volitivas Evolucionarias](part-2/049.md#4las-criaturas-volitivas-evolucionarias "4. Las Criaturas Volitivas Evolucionarias") . 564
 
-&#160;&#160;&#160;&#160;[5. The Planetary Series of Mortals](part-2/049.md#5the-planetary-series-of-mortals "5. The Planetary Series of Mortals") . 565
+&#160;&#160;&#160;&#160;[5. Las Series Planetarias de Mortales](part-2/049.md#5las-series-planetarias-de-mortales "5. Las Series Planetarias de Mortales") . 565
 
-&#160;&#160;&#160;&#160;[6. Terrestrial Escape](part-2/049.md#6terrestrial-escape "6. Terrestrial Escape") . 568
+&#160;&#160;&#160;&#160;[6. El Escape Terrestre](part-2/049.md#6el-escape-terrestre "6. El Escape Terrestre") . 568
 
-050 . <a href="part-2/050.md" title="The Planetary Princes">Paper 50 · The Planetary Princes</a> . 572
+050 . <a href="part-2/050.md" title="Los Príncipes Planetarios">Documento 50 · Los Príncipes Planetarios</a> . 572
 
-&#160;&#160;&#160;&#160;[1. Mission of the Princes](part-2/050.md#1mission-of-the-princes "1. Mission of the Princes") . 572
+&#160;&#160;&#160;&#160;[1. La Misión de los Príncipes](part-2/050.md#1la-misión-de-los-príncipes "1. La Misión de los Príncipes") . 572
 
-&#160;&#160;&#160;&#160;[2. Planetary Administration](part-2/050.md#2planetary-administration "2. Planetary Administration") . 573
+&#160;&#160;&#160;&#160;[2. La Administración Planetaria](part-2/050.md#2la-administración-planetaria "2. La Administración Planetaria") . 573
 
-&#160;&#160;&#160;&#160;[3. The Prince’s Corporeal Staff](part-2/050.md#3the-princes-corporeal-staff "3. The Prince’s Corporeal Staff") . 574
+&#160;&#160;&#160;&#160;[3. El Séquito Corpóreo del Príncipe](part-2/050.md#3el-séquito-corpóreo-del-príncipe "3. El Séquito Corpóreo del Príncipe") . 574
 
-&#160;&#160;&#160;&#160;[4. The Planetary Headquarters and Schools](part-2/050.md#4the-planetary-headquarters-and-schools "4. The Planetary Headquarters and Schools") . 575
+&#160;&#160;&#160;&#160;[4. Las Sedes Centrales y las Escuelas Planetarias](part-2/050.md#4las-sedes-centrales-y-las-escuelas-planetarias "4. Las Sedes Centrales y las Escuelas Planetarias") . 575
 
-&#160;&#160;&#160;&#160;[5. Progressive Civilization](part-2/050.md#5progressive-civilization "5. Progressive Civilization") . 576
+&#160;&#160;&#160;&#160;[5. La Civilización Progresiva](part-2/050.md#5la-civilización-progresiva "5. La Civilización Progresiva") . 576
 
-&#160;&#160;&#160;&#160;[6. Planetary Culture](part-2/050.md#6planetary-culture "6. Planetary Culture") . 578
+&#160;&#160;&#160;&#160;[6. La Cultura Planetaria](part-2/050.md#6la-cultura-planetaria "6. La Cultura Planetaria") . 578
 
-&#160;&#160;&#160;&#160;[7. The Rewards of Isolation](part-2/050.md#7the-rewards-of-isolation "7. The Rewards of Isolation") . 578
+&#160;&#160;&#160;&#160;[7. Las Recompensas del Aislamiento](part-2/050.md#7las-recompensas-del-aislamiento "7. Las Recompensas del Aislamiento") . 578
 
-051 . <a href="part-2/051.md" title="The Planetary Adams">Paper 51 · The Planetary Adams</a> . 580
+051 . <a href="part-2/051.md" title="Los Adanes Planetarios">Documento 51 · Los Adanes Planetarios</a> . 580
 
-&#160;&#160;&#160;&#160;[1. Origin and Nature of the Material Sons of God](part-2/051.md#1origin-and-nature-of-the-material-sons-of-god "1. Origin and Nature of the Material Sons of God") . 580
+&#160;&#160;&#160;&#160;[1. El Origen y la Naturaleza de los Hijos Materiales de Dios](part-2/051.md#1el-origen-y-la-naturaleza-de-los-hijos-materiales-de-dios "1. El Origen y la Naturaleza de los Hijos Materiales de Dios") . 580
 
-&#160;&#160;&#160;&#160;[2. Transit of the Planetary Adams](part-2/051.md#2transit-of-the-planetary-adams "2. Transit of the Planetary Adams") . 582
+&#160;&#160;&#160;&#160;[2. El Tránsito de los Adanes Planetarios](part-2/051.md#2el-tránsito-de-los-adanes-planetarios "2. El Tránsito de los Adanes Planetarios") . 582
 
-&#160;&#160;&#160;&#160;[3. The Adamic Missions](part-2/051.md#3the-adamic-missions "3. The Adamic Missions") . 582
+&#160;&#160;&#160;&#160;[3. Las Misiones Adánicas](part-2/051.md#3las-misiones-adánicas "3. Las Misiones Adánicas") . 582
 
-&#160;&#160;&#160;&#160;[4. The Six Evolutionary Races](part-2/051.md#4the-six-evolutionary-races "4. The Six Evolutionary Races") . 584
+&#160;&#160;&#160;&#160;[4. Las Seis Razas Evolucionarias](part-2/051.md#4las-seis-razas-evolucionarias "4. Las Seis Razas Evolucionarias") . 584
 
-&#160;&#160;&#160;&#160;[5. Racial Amalgamation—<br />Bestowal of the Adamic Blood](part-2/051.md#5racial-amalgamationbestowal-of-the-adamic-blood "5. Racial Amalgamation—<br />Bestowal of the Adamic Blood") . 585
+&#160;&#160;&#160;&#160;[5. La Amalgama Racial —<br />La Dotación de la Sangre Adánica](part-2/051.md#5la-amalgama-racial-la-dotación-de-la-sangre-adánica "5. La Amalgama Racial —<br />La Dotación de la Sangre Adánica") . 585
 
-&#160;&#160;&#160;&#160;[6. The Edenic Regime](part-2/051.md#6the-edenic-regime "6. The Edenic Regime") . 586
+&#160;&#160;&#160;&#160;[6. El Régimen Edénico](part-2/051.md#6el-régimen-edénico "6. El Régimen Edénico") . 586
 
-&#160;&#160;&#160;&#160;[7. United Administration](part-2/051.md#7united-administration "7. United Administration") . 587
+&#160;&#160;&#160;&#160;[7. La Administración Unida](part-2/051.md#7la-administración-unida "7. La Administración Unida") . 587
 
-052 . <a href="part-2/052.md" title="Planetary Mortal Epochs">Paper 52 · Planetary Mortal Epochs</a> . 589
+052 . <a href="part-2/052.md" title="Las Épocas Planetarias de los Mortales">Documento 52 · Las Épocas Planetarias de los Mortales</a> . 589
 
-&#160;&#160;&#160;&#160;[1. Primitive Man](part-2/052.md#1primitive-man "1. Primitive Man") . 589
+&#160;&#160;&#160;&#160;[1. El Hombre Primitivo](part-2/052.md#1el-hombre-primitivo "1. El Hombre Primitivo") . 589
 
-&#160;&#160;&#160;&#160;[2. Post-Planetary Prince Man](part-2/052.md#2post-planetary-prince-man "2. Post-Planetary Prince Man") . 591
+&#160;&#160;&#160;&#160;[2. El Hombre Después del Príncipe Planetario](part-2/052.md#2el-hombre-después-del-príncipe-planetario "2. El Hombre Después del Príncipe Planetario") . 591
 
-&#160;&#160;&#160;&#160;[3. Post-Adamic Man](part-2/052.md#3post-adamic-man "3. Post-Adamic Man") . 592
+&#160;&#160;&#160;&#160;[3. El Hombre Postadánico](part-2/052.md#3el-hombre-postadánico "3. El Hombre Postadánico") . 592
 
-&#160;&#160;&#160;&#160;[4. Post-Magisterial Son Man](part-2/052.md#4post-magisterial-son-man "4. Post-Magisterial Son Man") . 594
+&#160;&#160;&#160;&#160;[4. El Hombre Después del Hijo Magisterial](part-2/052.md#4el-hombre-después-del-hijo-magisterial "4. El Hombre Después del Hijo Magisterial") . 594
 
-&#160;&#160;&#160;&#160;[5. Post-Bestowal Son Man](part-2/052.md#5post-bestowal-son-man "5. Post-Bestowal Son Man") . 595
+&#160;&#160;&#160;&#160;[5. El Hombre Después del Hijo Autootorgador](part-2/052.md#5el-hombre-después-del-hijo-autootorgador "5. El Hombre Después del Hijo Autootorgador") . 595
 
-&#160;&#160;&#160;&#160;[6. Urantia’s Post-Bestowal Age](part-2/052.md#6urantias-post-bestowal-age "6. Urantia’s Post-Bestowal Age") . 597
+&#160;&#160;&#160;&#160;[6. La Edad Postautootorgadora en Urantia](part-2/052.md#6la-edad-postautootorgadora-en-urantia "6. La Edad Postautootorgadora en Urantia") . 597
 
-&#160;&#160;&#160;&#160;[7. Post-Teacher Son Man](part-2/052.md#7post-teacher-son-man "7. Post-Teacher Son Man") . 598
+&#160;&#160;&#160;&#160;[7. El Hombre Después del Hijo Instructor](part-2/052.md#7el-hombre-después-del-hijo-instructor "7. El Hombre Después del Hijo Instructor") . 598
 
-053 . <a href="part-2/053.md" title="The Lucifer Rebellion">Paper 53 · The Lucifer Rebellion</a> . 601
+053 . <a href="part-2/053.md" title="La Rebelión de Lucifer">Documento 53 · La Rebelión de Lucifer</a> . 601
 
-&#160;&#160;&#160;&#160;[1. The Leaders of Rebellion](part-2/053.md#1the-leaders-of-rebellion "1. The Leaders of Rebellion") . 601
+&#160;&#160;&#160;&#160;[1. Los Líderes de la Rebelión](part-2/053.md#1los-líderes-de-la-rebelión "1. Los Líderes de la Rebelión") . 601
 
-&#160;&#160;&#160;&#160;[2. The Causes of Rebellion](part-2/053.md#2the-causes-of-rebellion "2. The Causes of Rebellion") . 602
+&#160;&#160;&#160;&#160;[2. Las Causas de la Rebelión](part-2/053.md#2las-causas-de-la-rebelión "2. Las Causas de la Rebelión") . 602
 
-&#160;&#160;&#160;&#160;[3. The Lucifer Manifesto](part-2/053.md#3the-lucifer-manifesto "3. The Lucifer Manifesto") . 603
+&#160;&#160;&#160;&#160;[3. El Manifiesto de Lucifer](part-2/053.md#3el-manifiesto-de-lucifer "3. El Manifiesto de Lucifer") . 603
 
-&#160;&#160;&#160;&#160;[4. Outbreak of the Rebellion](part-2/053.md#4outbreak-of-the-rebellion "4. Outbreak of the Rebellion") . 604
+&#160;&#160;&#160;&#160;[4. El Estallido de la Rebelión](part-2/053.md#4el-estallido-de-la-rebelión "4. El Estallido de la Rebelión") . 604
 
-&#160;&#160;&#160;&#160;[5. Nature of the Conflict](part-2/053.md#5nature-of-the-conflict "5. Nature of the Conflict") . 605
+&#160;&#160;&#160;&#160;[5. La Naturaleza del Conflicto](part-2/053.md#5la-naturaleza-del-conflicto "5. La Naturaleza del Conflicto") . 605
 
-&#160;&#160;&#160;&#160;[6. A Loyal Seraphic Commander](part-2/053.md#6a-loyal-seraphic-commander "6. A Loyal Seraphic Commander") . 606
+&#160;&#160;&#160;&#160;[6. Un Comandante Seráfico Leal](part-2/053.md#6un-comandante-seráfico-leal "6. Un Comandante Seráfico Leal") . 606
 
-&#160;&#160;&#160;&#160;[7. History of the Rebellion](part-2/053.md#7history-of-the-rebellion "7. History of the Rebellion") . 607
+&#160;&#160;&#160;&#160;[7. La Historia de la Rebelión](part-2/053.md#7la-historia-de-la-rebelión "7. La Historia de la Rebelión") . 607
 
-&#160;&#160;&#160;&#160;[8. The Son of Man on Urantia](part-2/053.md#8the-son-of-man-on-urantia "8. The Son of Man on Urantia") . 609
+&#160;&#160;&#160;&#160;[8. El Hijo del Hombre en Urantia](part-2/053.md#8el-hijo-del-hombre-en-urantia "8. El Hijo del Hombre en Urantia") . 609
 
-&#160;&#160;&#160;&#160;[9. Present Status of the Rebellion](part-2/053.md#9present-status-of-the-rebellion "9. Present Status of the Rebellion") . 610
+&#160;&#160;&#160;&#160;[9. El Estado Presente de la Rebelión](part-2/053.md#9el-estado-presente-de-la-rebelión "9. El Estado Presente de la Rebelión") . 610
 
-054 . <a href="part-2/054.md" title="Problems of the Lucifer Rebellion">Paper 54 · Problems of the Lucifer Rebellion</a> . 613
+054 . <a href="part-2/054.md" title="Los Problemas de la Rebelión de Lucifer">Documento 54 · Los Problemas de la Rebelión de Lucifer</a> . 613
 
-&#160;&#160;&#160;&#160;[1. True and False Liberty](part-2/054.md#1true-and-false-liberty "1. True and False Liberty") . 613
+&#160;&#160;&#160;&#160;[1. La Verdadera Libertad y la Falsa Libertad](part-2/054.md#1la-verdadera-libertad-y-la-falsa-libertad "1. La Verdadera Libertad y la Falsa Libertad") . 613
 
-&#160;&#160;&#160;&#160;[2. The Theft of Liberty](part-2/054.md#2the-theft-of-liberty "2. The Theft of Liberty") . 614
+&#160;&#160;&#160;&#160;[2. El Hurto de la Libertad](part-2/054.md#2el-hurto-de-la-libertad "2. El Hurto de la Libertad") . 614
 
-&#160;&#160;&#160;&#160;[3. The Time Lag of Justice](part-2/054.md#3the-time-lag-of-justice "3. The Time Lag of Justice") . 615
+&#160;&#160;&#160;&#160;[3. La Demora Temporal de la Justicia](part-2/054.md#3la-demora-temporal-de-la-justicia "3. La Demora Temporal de la Justicia") . 615
 
-&#160;&#160;&#160;&#160;[4. The Mercy Time Lag](part-2/054.md#4the-mercy-time-lag "4. The Mercy Time Lag") . 615
+&#160;&#160;&#160;&#160;[4. La Demora Temporal de la Misericordia](part-2/054.md#4la-demora-temporal-de-la-misericordia "4. La Demora Temporal de la Misericordia") . 615
 
-&#160;&#160;&#160;&#160;[5. The Wisdom of Delay](part-2/054.md#5the-wisdom-of-delay "5. The Wisdom of Delay") . 617
+&#160;&#160;&#160;&#160;[5. La Sabiduría de la Demora](part-2/054.md#5la-sabiduría-de-la-demora "5. La Sabiduría de la Demora") . 617
 
-&#160;&#160;&#160;&#160;[6. The Triumph of Love](part-2/054.md#6the-triumph-of-love "6. The Triumph of Love") . 618
+&#160;&#160;&#160;&#160;[6. El Triunfo del Amor](part-2/054.md#6el-triunfo-del-amor "6. El Triunfo del Amor") . 618
 
-055 . <a href="part-2/055.md" title="The Spheres of Light and Life">Paper 55 · The Spheres of Light and Life</a> . 621
+055 . <a href="part-2/055.md" title="Las Esferas de Luz y Vida">Documento 55 · Las Esferas de Luz y Vida</a> . 621
 
-&#160;&#160;&#160;&#160;[1. The Morontia Temple](part-2/055.md#1the-morontia-temple "1. The Morontia Temple") . 622
+&#160;&#160;&#160;&#160;[1. El Templo Morontial](part-2/055.md#1el-templo-morontial "1. El Templo Morontial") . 622
 
-&#160;&#160;&#160;&#160;[2. Death and Translation](part-2/055.md#2death-and-translation "2. Death and Translation") . 623
+&#160;&#160;&#160;&#160;[2. La Muerte y el Traslado](part-2/055.md#2la-muerte-y-el-traslado "2. La Muerte y el Traslado") . 623
 
-&#160;&#160;&#160;&#160;[3. The Golden Ages](part-2/055.md#3the-golden-ages "3. The Golden Ages") . 624
+&#160;&#160;&#160;&#160;[3. Las Edades de Oro](part-2/055.md#3las-edades-de-oro "3. Las Edades de Oro") . 624
 
-&#160;&#160;&#160;&#160;[4. Administrative Readjustments](part-2/055.md#4administrative-readjustments "4. Administrative Readjustments") . 626
+&#160;&#160;&#160;&#160;[4. Los Reajustes Administrativos](part-2/055.md#4los-reajustes-administrativos "4. Los Reajustes Administrativos") . 626
 
-&#160;&#160;&#160;&#160;[5. The Acme of Material Development](part-2/055.md#5the-acme-of-material-development "5. The Acme of Material Development") . 629
+&#160;&#160;&#160;&#160;[5. La Cumbre del Desarrollo Material](part-2/055.md#5la-cumbre-del-desarrollo-material "5. La Cumbre del Desarrollo Material") . 629
 
-&#160;&#160;&#160;&#160;[6. The Individual Mortal](part-2/055.md#6the-individual-mortal "6. The Individual Mortal") . 630
+&#160;&#160;&#160;&#160;[6. El Mortal Individual](part-2/055.md#6el-mortal-individual "6. El Mortal Individual") . 630
 
-&#160;&#160;&#160;&#160;[7. The First or Planetary Stage](part-2/055.md#7the-first-or-planetary-stage "7. The First or Planetary Stage") . 631
+&#160;&#160;&#160;&#160;[7. La Primera Etapa o Etapa Planetaria](part-2/055.md#7la-primera-etapa-o-etapa-planetaria "7. La Primera Etapa o Etapa Planetaria") . 631
 
-&#160;&#160;&#160;&#160;[8. The Second or System Stage](part-2/055.md#8the-second-or-system-stage "8. The Second or System Stage") . 632
+&#160;&#160;&#160;&#160;[8. La Segunda Etapa o Etapa del Sistema](part-2/055.md#8la-segunda-etapa-o-etapa-del-sistema "8. La Segunda Etapa o Etapa del Sistema") . 632
 
-&#160;&#160;&#160;&#160;[9. The Third or Constellation Stage](part-2/055.md#9the-third-or-constellation-stage "9. The Third or Constellation Stage") . 633
+&#160;&#160;&#160;&#160;[9. La Tercera Etapa o Etapa de Constelación](part-2/055.md#9la-tercera-etapa-o-etapa-de-constelación "9. La Tercera Etapa o Etapa de Constelación") . 633
 
-&#160;&#160;&#160;&#160;[10. The Fourth or Local Universe Stage](part-2/055.md#10the-fourth-or-local-universe-stage "10. The Fourth or Local Universe Stage") . 634
+&#160;&#160;&#160;&#160;[10. La Cuarta Etapa o Etapa de Universo Local](part-2/055.md#10la-cuarta-etapa-o-etapa-de-universo-local "10. La Cuarta Etapa o Etapa de Universo Local") . 634
 
-&#160;&#160;&#160;&#160;[11. The Minor and Major Sector Stages](part-2/055.md#11the-minor-and-major-sector-stages "11. The Minor and Major Sector Stages") . 635
+&#160;&#160;&#160;&#160;[11. La Etapa del Sector Menor y la del Sector Mayor](part-2/055.md#11la-etapa-del-sector-menor-y-la-del-sector-mayor "11. La Etapa del Sector Menor y la del Sector Mayor") . 635
 
-&#160;&#160;&#160;&#160;[12. The Seventh or Superuniverse Stage](part-2/055.md#12the-seventh-or-superuniverse-stage "12. The Seventh or Superuniverse Stage") . 636
+&#160;&#160;&#160;&#160;[12. La Séptima Etapa o Etapa Superuniversal](part-2/055.md#12la-séptima-etapa-o-etapa-superuniversal "12. La Séptima Etapa o Etapa Superuniversal") . 636
 
-056 . <a href="part-2/056.md" title="Universal Unity">Paper 56 · Universal Unity</a> . 637
+056 . <a href="part-2/056.md" title="Unidad Universal">Documento 56 · Unidad Universal</a> . 637
 
-&#160;&#160;&#160;&#160;[1. Physical Co-ordination](part-2/056.md#1physical-co-ordination "1. Physical Co-ordination") . 637
+&#160;&#160;&#160;&#160;[1. Coordinación Física](part-2/056.md#1coordinación-física "1. Coordinación Física") . 637
 
-&#160;&#160;&#160;&#160;[2. Intellectual Unity](part-2/056.md#2intellectual-unity "2. Intellectual Unity") . 638
+&#160;&#160;&#160;&#160;[2. Unidad Intelectual](part-2/056.md#2unidad-intelectual "2. Unidad Intelectual") . 638
 
-&#160;&#160;&#160;&#160;[3. Spiritual Unification](part-2/056.md#3spiritual-unification "3. Spiritual Unification") . 639
+&#160;&#160;&#160;&#160;[3. Unificación Espiritual](part-2/056.md#3unificación-espiritual "3. Unificación Espiritual") . 639
 
-&#160;&#160;&#160;&#160;[4. Personality Unification](part-2/056.md#4personality-unification "4. Personality Unification") . 639
+&#160;&#160;&#160;&#160;[4. Unificación de la Personalidad](part-2/056.md#4unificación-de-la-personalidad "4. Unificación de la Personalidad") . 639
 
-&#160;&#160;&#160;&#160;[5. Deity Unity](part-2/056.md#5deity-unity "5. Deity Unity") . 640
+&#160;&#160;&#160;&#160;[5. La Unidad de la Deidad](part-2/056.md#5la-unidad-de-la-deidad "5. La Unidad de la Deidad") . 640
 
-&#160;&#160;&#160;&#160;[6. Unification of Evolutionary Deity](part-2/056.md#6unification-of-evolutionary-deity "6. Unification of Evolutionary Deity") . 641
+&#160;&#160;&#160;&#160;[6. La Unificación de la Deidad Evolucionaria](part-2/056.md#6la-unificación-de-la-deidad-evolucionaria "6. La Unificación de la Deidad Evolucionaria") . 641
 
-&#160;&#160;&#160;&#160;[7. Universal Evolutionary Repercussions](part-2/056.md#7universal-evolutionary-repercussions "7. Universal Evolutionary Repercussions") . 642
+&#160;&#160;&#160;&#160;[7. Las Repercusiones Evolucionarias Universales](part-2/056.md#7las-repercusiones-evolucionarias-universales "7. Las Repercusiones Evolucionarias Universales") . 642
 
-&#160;&#160;&#160;&#160;[8. The Supreme Unifier](part-2/056.md#8the-supreme-unifier "8. The Supreme Unifier") . 643
+&#160;&#160;&#160;&#160;[8. El Unificador Supremo](part-2/056.md#8el-unificador-supremo "8. El Unificador Supremo") . 643
 
-&#160;&#160;&#160;&#160;[9. Universal Absolute Unity](part-2/056.md#9universal-absolute-unity "9. Universal Absolute Unity") . 644
+&#160;&#160;&#160;&#160;[9. La Unidad del Absoluto Universal](part-2/056.md#9la-unidad-del-absoluto-universal "9. La Unidad del Absoluto Universal") . 644
 
-&#160;&#160;&#160;&#160;[10. Truth, Beauty, and Goodness](part-2/056.md#10truth-beauty-and-goodness "10. Truth, Beauty, and Goodness") . 646
+&#160;&#160;&#160;&#160;[10. La Verdad, la Belleza y la Bondad](part-2/056.md#10la-verdad-la-belleza-y-la-bondad "10. La Verdad, la Belleza y la Bondad") . 646
 
-### [PART III](part-3/index.md "PART III")
+### [PARTE III](part-3/index.md "PARTE III")
 
-### The History of Urantia
+### La Historia de Urantia
 
-057 . <a href="part-3/057.md" title="The Origin of Urantia">Paper 57 · The Origin of Urantia</a> . 651
+057 . <a href="part-3/057.md" title="El Origen de Urantia">Documento 57 · El Origen de Urantia</a> . 651
 
-&#160;&#160;&#160;&#160;[1. The Andronover Nebula](part-3/057.md#1the-andronover-nebula "1. The Andronover Nebula") . 651
+&#160;&#160;&#160;&#160;[1. La Nebulosa Andronóver](part-3/057.md#1la-nebulosa-andronóver "1. La Nebulosa Andronóver") . 651
 
-&#160;&#160;&#160;&#160;[2. The Primary Nebular Stage](part-3/057.md#2the-primary-nebular-stage "2. The Primary Nebular Stage") . 652
+&#160;&#160;&#160;&#160;[2. La Etapa Nebular Primaria](part-3/057.md#2la-etapa-nebular-primaria "2. La Etapa Nebular Primaria") . 652
 
-&#160;&#160;&#160;&#160;[3. The Secondary Nebular Stage](part-3/057.md#3the-secondary-nebular-stage "3. The Secondary Nebular Stage") . 653
+&#160;&#160;&#160;&#160;[3. La Etapa Nebular Secundaria](part-3/057.md#3la-etapa-nebular-secundaria "3. La Etapa Nebular Secundaria") . 653
 
-&#160;&#160;&#160;&#160;[4. Tertiary and Quartan Stages](part-3/057.md#4tertiary-and-quartan-stages "4. Tertiary and Quartan Stages") . 654
+&#160;&#160;&#160;&#160;[4. Las Etapas Terciaria y Cuaternaria](part-3/057.md#4las-etapas-terciaria-y-cuaternaria "4. Las Etapas Terciaria y Cuaternaria") . 654
 
-&#160;&#160;&#160;&#160;[5. Origin of Monmatia—The Urantia Solar System](part-3/057.md#5origin-of-monmatiathe-urantia-solar-system "5. Origin of Monmatia—The Urantia Solar System") . 655
+&#160;&#160;&#160;&#160;[5. El Origen de Monmatia — El Sistema Solar de Urantia](part-3/057.md#5el-origen-de-monmatia--el-sistema-solar-de-urantia "5. El Origen de Monmatia — El Sistema Solar de Urantia") . 655
 
-&#160;&#160;&#160;&#160;[6. The Solar System Stage—The Planet-Forming Era](part-3/057.md#6the-solar-system-stagethe-planet-forming-era "6. The Solar System Stage—The Planet-Forming Era") . 657
+&#160;&#160;&#160;&#160;[6. La Etapa de Sistema Solar — La Era de Formación Planetaria](part-3/057.md#6la-etapa-de-sistema-solar--la-era-de-formación-planetaria "6. La Etapa de Sistema Solar — La Era de Formación Planetaria") . 657
 
-&#160;&#160;&#160;&#160;[7. The Meteoric Era—The Volcanic Age<br />The Primitive Planetary Atmosphere](part-3/057.md#7the-meteoric-erathe-volcanic-agethe-primitive-planetary-atmosphere "7. The Meteoric Era—The Volcanic Age<br />The Primitive Planetary Atmosphere") . 658
+&#160;&#160;&#160;&#160;[7. La Era Meteórica — La Edad Volcánica<br />La Atmósfera Planetaria Primitiva](part-3/057.md#7la-era-meteórica--la-edad-volcánicala-atmósfera-planetaria-primitiva "7. La Era Meteórica — La Edad Volcánica<br />La Atmósfera Planetaria Primitiva") . 658
 
-&#160;&#160;&#160;&#160;[8. Crustal Stabilization<br />The Age of Earthquakes<br />The World Ocean and the First Continent](part-3/057.md#8crustal-stabilizationthe-age-of-earthquakesthe-world-ocean-and-the-first-continent "8. Crustal Stabilization<br />The Age of Earthquakes<br />The World Ocean and the First Continent") . 660
+&#160;&#160;&#160;&#160;[8. La Estabilización de la Corteza<br />La Edad de los Terremotos<br />El Océano Global y el Primer Continente](part-3/057.md#8la-estabilización-de-la-cortezala-edad-de-los-terremotosel-océano-global-y-el-primer-continente "8. La Estabilización de la Corteza<br />La Edad de los Terremotos<br />El Océano Global y el Primer Continente") . 660
 
-058 . <a href="part-3/058.md" title="Life Establishment on Urantia">Paper 58 · Life Establishment on Urantia</a> . 664
+058 . <a href="part-3/058.md" title="El Establecimiento de la Vida en Urantia">Documento 58 · El Establecimiento de la Vida en Urantia</a> . 664
 
-&#160;&#160;&#160;&#160;[1. Physical-Life Prerequisites](part-3/058.md#1physical-life-prerequisites "1. Physical-Life Prerequisites") . 664
+&#160;&#160;&#160;&#160;[1. Requisitos Previos para la Vida Física](part-3/058.md#1requisitos-previos-para-la-vida-física "1. Requisitos Previos para la Vida Física") . 664
 
-&#160;&#160;&#160;&#160;[2. The Urantia Atmosphere](part-3/058.md#2the-urantia-atmosphere "2. The Urantia Atmosphere") . 665
+&#160;&#160;&#160;&#160;[2. La Atmósfera de Urantia](part-3/058.md#2la-atmósfera-de-urantia "2. La Atmósfera de Urantia") . 665
 
-&#160;&#160;&#160;&#160;[3. Spatial Environment](part-3/058.md#3spatial-environment "3. Spatial Environment") . 666
+&#160;&#160;&#160;&#160;[3. El Medio Ambiente Espacial](part-3/058.md#3el-medio-ambiente-espacial "3. El Medio Ambiente Espacial") . 666
 
-&#160;&#160;&#160;&#160;[4. The Life-Dawn Era](part-3/058.md#4the-life-dawn-era "4. The Life-Dawn Era") . 667
+&#160;&#160;&#160;&#160;[4. La Era en los Albores de la Vida](part-3/058.md#4la-era-en-los-albores-de-la-vida "4. La Era en los Albores de la Vida") . 667
 
-&#160;&#160;&#160;&#160;[5. The Continental Drift](part-3/058.md#5the-continental-drift "5. The Continental Drift") . 668
+&#160;&#160;&#160;&#160;[5. El Desplazamiento Continental](part-3/058.md#5el-desplazamiento-continental "5. El Desplazamiento Continental") . 668
 
-&#160;&#160;&#160;&#160;[6. The Transition Period](part-3/058.md#6the-transition-period "6. The Transition Period") . 669
+&#160;&#160;&#160;&#160;[6. El Período de Transición](part-3/058.md#6el-período-de-transición "6. El Período de Transición") . 669
 
-&#160;&#160;&#160;&#160;[7. The Geologic History Book](part-3/058.md#7the-geologic-history-book "7. The Geologic History Book") . 670
+&#160;&#160;&#160;&#160;[7. El libro Geológico de la Historia](part-3/058.md#7el-libro-geológico-de-la-historia "7. El libro Geológico de la Historia") . 670
 
-059 . <a href="part-3/059.md" title="The Marine-Life Era on Urantia">Paper 59 · The Marine-Life Era on Urantia</a> . 672
+059 . <a href="part-3/059.md" title="La Era de la Vida Marina en Urantia">Documento 59 · La Era de la Vida Marina en Urantia</a> . 672
 
-&#160;&#160;&#160;&#160;[1. Early Marine Life in the Shallow Seas<br />The Trilobite Age](part-3/059.md#1early-marine-life-in-the-shallow-seasthe-trilobite-age "1. Early Marine Life in the Shallow Seas<br />The Trilobite Age") . 673
+&#160;&#160;&#160;&#160;[1. La Vida Marina Primitiva en los Mares de Poco Profundidad —<br />La Edad de los Trilobites](part-3/059.md#1la-vida-marina-primitiva-en-los-mares-de-poco-profundidad-la-edad-de-los-trilobites "1. La Vida Marina Primitiva en los Mares de Poco Profundidad —<br />La Edad de los Trilobites") . 673
 
-&#160;&#160;&#160;&#160;[2. The First Continental Flood Stage<br />The Invertebrate-Animal Age](part-3/059.md#2the-first-continental-flood-stagethe-invertebrate-animal-age "2. The First Continental Flood Stage<br />The Invertebrate-Animal Age") . 674
+&#160;&#160;&#160;&#160;[2. La Primera Etapa de la Inundación Continental<br />La Edad de los Animales Invertebrados](part-3/059.md#2la-primera-etapa-de-la-inundación-continentalla-edad-de-los-animales-invertebrados "2. La Primera Etapa de la Inundación Continental<br />La Edad de los Animales Invertebrados") . 674
 
-&#160;&#160;&#160;&#160;[3. The Second Great Flood Stage<br />The Coral Period—The Brachiopod Age](part-3/059.md#3the-second-great-flood-stagethe-coral-periodthe-brachiopod-age "3. The Second Great Flood Stage<br />The Coral Period—The Brachiopod Age") . 676
+&#160;&#160;&#160;&#160;[3. La Segunda Etapa de Grandes Inundaciones<br />El Período del Coral — La Edad de los Braquiópodos](part-3/059.md#3la-segunda-etapa-de-grandes-inundacionesel-período-del-coral--la-edad-de-los-braquiópodos "3. La Segunda Etapa de Grandes Inundaciones<br />El Período del Coral — La Edad de los Braquiópodos") . 676
 
-&#160;&#160;&#160;&#160;[4. The Great Land-Emergence Stage<br />The Vegetative Land-Life Period<br />The Age of Fishes](part-3/059.md#4the-great-land-emergence-stagethe-vegetative-land-life-periodthe-age-of-fishes "4. The Great Land-Emergence Stage<br />The Vegetative Land-Life Period<br />The Age of Fishes") . 678
+&#160;&#160;&#160;&#160;[4. La Etapa del Gran Surgimiento Terrestre<br />El Período de Vida Terrestre Vegetativa<br />La Edad de los Peces](part-3/059.md#4la-etapa-del-gran-surgimiento-terrestreel-período-de-vida-terrestre-vegetativala-edad-de-los-peces "4. La Etapa del Gran Surgimiento Terrestre<br />El Período de Vida Terrestre Vegetativa<br />La Edad de los Peces") . 678
 
-&#160;&#160;&#160;&#160;[5. The Crustal-Shifting Stage<br />The Fern-Forest Carboniferous Period<br />The Age of Frogs](part-3/059.md#5the-crustal-shifting-stagethe-fern-forest-carboniferous-periodthe-age-of-frogs "5. The Crustal-Shifting Stage<br />The Fern-Forest Carboniferous Period<br />The Age of Frogs") . 680
+&#160;&#160;&#160;&#160;[5. La Etapa del Desplazamiento de la Corteza<br />El Período Carbonírero de Bosques de Helechos<br />La Edad de las Ranas](part-3/059.md#5la-etapa-del-desplazamiento-de-la-cortezael-período-carbonírero-de-bosques-de-helechosla-edad-de-las-ranas "5. La Etapa del Desplazamiento de la Corteza<br />El Período Carbonírero de Bosques de Helechos<br />La Edad de las Ranas") . 680
 
-&#160;&#160;&#160;&#160;[6. The Climatic Transition Stage<br />The Seed-Plant Period<br />The Age of Biologic Tribulation](part-3/059.md#6the-climatic-transition-stagethe-seed-plant-periodthe-age-of-biologic-tribulation "6. The Climatic Transition Stage<br />The Seed-Plant Period<br />The Age of Biologic Tribulation") . 682
+&#160;&#160;&#160;&#160;[6. La Etapa de la Transición Climática<br />El Período de las Plantas de Semilla<br />La Edad de la Tribulación Biológica](part-3/059.md#6la-etapa-de-la-transición-climáticael-período-de-las-plantas-de-semillala-edad-de-la-tribulación-biológica "6. La Etapa de la Transición Climática<br />El Período de las Plantas de Semilla<br />La Edad de la Tribulación Biológica") . 682
 
-060 . <a href="part-3/060.md" title="Urantia During the Early Land-Life Era">Paper 60 · Urantia During the Early Land-Life Era</a> . 685
+060 . <a href="part-3/060.md" title="Urantia Durante la Era Primitiva de la Vida Terrestre">Documento 60 · Urantia Durante la Era Primitiva de la Vida Terrestre</a> . 685
 
-&#160;&#160;&#160;&#160;[1. The Early Reptilian Age](part-3/060.md#1the-early-reptilian-age "1. The Early Reptilian Age") . 685
+&#160;&#160;&#160;&#160;[1. La Edad Primitiva de los Reptiles](part-3/060.md#1la-edad-primitiva-de-los-reptiles "1. La Edad Primitiva de los Reptiles") . 685
 
-&#160;&#160;&#160;&#160;[2. The Later Reptilian Age](part-3/060.md#2the-later-reptilian-age "2. The Later Reptilian Age") . 687
+&#160;&#160;&#160;&#160;[2. El Fin de la Edad de los Reptiles](part-3/060.md#2el-fin-de-la-edad-de-los-reptiles "2. El Fin de la Edad de los Reptiles") . 687
 
-&#160;&#160;&#160;&#160;[3. The Cretaceous Stage<br />The Flowering-Plant Period<br />The Age of Birds](part-3/060.md#3the-cretaceous-stagethe-flowering-plant-periodthe-age-of-birds "3. The Cretaceous Stage<br />The Flowering-Plant Period<br />The Age of Birds") . 688
+&#160;&#160;&#160;&#160;[3. La Etapa Cretácea<br />El Período de las Plantas Floríferas<br />La Edad de las Aves](part-3/060.md#3la-etapa-cretáceael-período-de-las-plantas-floríferasla-edad-de-las-aves "3. La Etapa Cretácea<br />El Período de las Plantas Floríferas<br />La Edad de las Aves") . 688
 
-&#160;&#160;&#160;&#160;[4. The End of the Chalk Period](part-3/060.md#4the-end-of-the-chalk-period "4. The End of the Chalk Period") . 691
+&#160;&#160;&#160;&#160;[4. El Fin del Período de la Greda](part-3/060.md#4el-fin-del-período-de-la-greda "4. El Fin del Período de la Greda") . 691
 
-061 . <a href="part-3/061.md" title="The Mammalian Era on Urantia">Paper 61 · The Mammalian Era on Urantia</a> . 693
+061 . <a href="part-3/061.md" title="La Era de los Mamíferos en Urantia">Documento 61 · La Era de los Mamíferos en Urantia</a> . 693
 
-&#160;&#160;&#160;&#160;[1. The New Continental Land Stage<br />The Age of Early Mammals](part-3/061.md#1the-new-continental-land-stagethe-age-of-early-mammals "1. The New Continental Land Stage<br />The Age of Early Mammals") . 693
+&#160;&#160;&#160;&#160;[1. La Nueva Etapa Terrestre Continental<br />La Edad de los Mamíferos Primitivos](part-3/061.md#1la-nueva-etapa-terrestre-continentalla-edad-de-los-mamíferos-primitivos "1. La Nueva Etapa Terrestre Continental<br />La Edad de los Mamíferos Primitivos") . 693
 
-&#160;&#160;&#160;&#160;[2. The Recent Flood Stage<br />The Age of Advanced Mammals](part-3/061.md#2the-recent-flood-stagethe-age-of-advanced-mammals "2. The Recent Flood Stage<br />The Age of Advanced Mammals") . 694
+&#160;&#160;&#160;&#160;[2. La Etapa Reciente de las Inundaciones<br />La Edad de los Mamíferos Avanzados](part-3/061.md#2la-etapa-reciente-de-las-inundacionesla-edad-de-los-mamíferos-avanzados "2. La Etapa Reciente de las Inundaciones<br />La Edad de los Mamíferos Avanzados") . 694
 
-&#160;&#160;&#160;&#160;[3. The Modern Mountain Stage<br />Age of the Elephant and the Horse](part-3/061.md#3the-modern-mountain-stageage-of-the-elephant-and-the-horse "3. The Modern Mountain Stage<br />Age of the Elephant and the Horse") . 696
+&#160;&#160;&#160;&#160;[3. La Etapa de las Montañas Modernas<br />La Edad del Elefante y del Caballo](part-3/061.md#3la-etapa-de-las-montañas-modernasla-edad-del-elefante-y-del-caballo "3. La Etapa de las Montañas Modernas<br />La Edad del Elefante y del Caballo") . 696
 
-&#160;&#160;&#160;&#160;[4. The Recent Continental-Elevation Stage<br />The Last Great Mammalian Migration](part-3/061.md#4the-recent-continental-elevation-stagethe-last-great-mammalian-migration "4. The Recent Continental-Elevation Stage<br />The Last Great Mammalian Migration") . 698
+&#160;&#160;&#160;&#160;[4. La Etapa Reciente de la Elevación Continental<br />La Última Gran Emigración de los Mamíferos](part-3/061.md#4la-etapa-reciente-de-la-elevación-continentalla-última-gran-emigración-de-los-mamíferos "4. La Etapa Reciente de la Elevación Continental<br />La Última Gran Emigración de los Mamíferos") . 698
 
-&#160;&#160;&#160;&#160;[5. The Early Ice Age](part-3/061.md#5the-early-ice-age "5. The Early Ice Age") . 699
+&#160;&#160;&#160;&#160;[5. La Edad Glacial Primitiva](part-3/061.md#5la-edad-glacial-primitiva "5. La Edad Glacial Primitiva") . 699
 
-&#160;&#160;&#160;&#160;[6. Primitive Man in the Ice Age](part-3/061.md#6primitive-man-in-the-ice-age "6. Primitive Man in the Ice Age") . 700
+&#160;&#160;&#160;&#160;[6. El Hombre Primitivo Durante la Edad Glacial](part-3/061.md#6el-hombre-primitivo-durante-la-edad-glacial "6. El Hombre Primitivo Durante la Edad Glacial") . 700
 
-&#160;&#160;&#160;&#160;[7. The Continuing Ice Age](part-3/061.md#7the-continuing-ice-age "7. The Continuing Ice Age") . 700
+&#160;&#160;&#160;&#160;[7. La Continuación de la Edad Glacial](part-3/061.md#7la-continuación-de-la-edad-glacial "7. La Continuación de la Edad Glacial") . 700
 
-062 . <a href="part-3/062.md" title="The Dawn Races of Early Man">Paper 62 · The Dawn Races of Early Man</a> . 703
+062 . <a href="part-3/062.md" title="Las Razas Protohumanas del Hombre Primitivo">Documento 62 · Las Razas Protohumanas del Hombre Primitivo</a> . 703
 
-&#160;&#160;&#160;&#160;[1. The Early Lemur Types](part-3/062.md#1the-early-lemur-types "1. The Early Lemur Types") . 703
+&#160;&#160;&#160;&#160;[1. Los Primeros Tipos de Lémures](part-3/062.md#1los-primeros-tipos-de-lémures "1. Los Primeros Tipos de Lémures") . 703
 
-&#160;&#160;&#160;&#160;[2. The Dawn Mammals](part-3/062.md#2the-dawn-mammals "2. The Dawn Mammals") . 703
+&#160;&#160;&#160;&#160;[2. Los Mamíferos Protohumanos](part-3/062.md#2los-mamíferos-protohumanos "2. Los Mamíferos Protohumanos") . 703
 
-&#160;&#160;&#160;&#160;[3. The Mid-Mammals](part-3/062.md#3the-mid-mammals "3. The Mid-Mammals") . 704
+&#160;&#160;&#160;&#160;[3. Los Mamíferos Intermedios](part-3/062.md#3los-mamíferos-intermedios "3. Los Mamíferos Intermedios") . 704
 
-&#160;&#160;&#160;&#160;[4. The Primates](part-3/062.md#4the-primates "4. The Primates") . 706
+&#160;&#160;&#160;&#160;[4. Los Primates](part-3/062.md#4los-primates "4. Los Primates") . 706
 
-&#160;&#160;&#160;&#160;[5. The First Human Beings](part-3/062.md#5the-first-human-beings "5. The First Human Beings") . 707
+&#160;&#160;&#160;&#160;[5. Los Primeros Seres Humanos](part-3/062.md#5los-primeros-seres-humanos "5. Los Primeros Seres Humanos") . 707
 
-&#160;&#160;&#160;&#160;[6. Evolution of the Human Mind](part-3/062.md#6evolution-of-the-human-mind "6. Evolution of the Human Mind") . 709
+&#160;&#160;&#160;&#160;[6. La Evolución de la Mente Humana](part-3/062.md#6la-evolución-de-la-mente-humana "6. La Evolución de la Mente Humana") . 709
 
-&#160;&#160;&#160;&#160;[7. Recognition as an Inhabited World](part-3/062.md#7recognition-as-an-inhabited-world "7. Recognition as an Inhabited World") . 709
+&#160;&#160;&#160;&#160;[7. El Reconocimiento como un Mundo Habitado](part-3/062.md#7el-reconocimiento-como-un-mundo-habitado "7. El Reconocimiento como un Mundo Habitado") . 709
 
-063 . <a href="part-3/063.md" title="The First Human Family">Paper 63 · The First Human Family</a> . 711
+063 . <a href="part-3/063.md" title="La Primera Familia Humana">Documento 63 · La Primera Familia Humana</a> . 711
 
-&#160;&#160;&#160;&#160;[1. Andon and Fonta](part-3/063.md#1andon-and-fonta "1. Andon and Fonta") . 711
+&#160;&#160;&#160;&#160;[1. Andón y Fonta](part-3/063.md#1andón-y-fonta "1. Andón y Fonta") . 711
 
-&#160;&#160;&#160;&#160;[2. The Flight of the Twins](part-3/063.md#2the-flight-of-the-twins "2. The Flight of the Twins") . 712
+&#160;&#160;&#160;&#160;[2. La Huida de los Gemelos](part-3/063.md#2la-huida-de-los-gemelos "2. La Huida de los Gemelos") . 712
 
-&#160;&#160;&#160;&#160;[3. Andon’s Family](part-3/063.md#3andons-family "3. Andon’s Family") . 713
+&#160;&#160;&#160;&#160;[3. La Familia de Andón](part-3/063.md#3la-familia-de-andón "3. La Familia de Andón") . 713
 
-&#160;&#160;&#160;&#160;[4. The Andonic Clans](part-3/063.md#4the-andonic-clans "4. The Andonic Clans") . 713
+&#160;&#160;&#160;&#160;[4. Los Clanes Andónicos](part-3/063.md#4los-clanes-andónicos "4. Los Clanes Andónicos") . 713
 
-&#160;&#160;&#160;&#160;[5. Dispersion of the Andonites](part-3/063.md#5dispersion-of-the-andonites "5. Dispersion of the Andonites") . 715
+&#160;&#160;&#160;&#160;[5. La Dispersión de los Andonitas](part-3/063.md#5la-dispersión-de-los-andonitas "5. La Dispersión de los Andonitas") . 715
 
-&#160;&#160;&#160;&#160;[6. Onagar—The First Truth Teacher](part-3/063.md#6onagarthe-first-truth-teacher "6. Onagar—The First Truth Teacher") . 715
+&#160;&#160;&#160;&#160;[6. Onagar — El Primer Maestro de la Verdad](part-3/063.md#6onagar--el-primer-maestro-de-la-verdad "6. Onagar — El Primer Maestro de la Verdad") . 715
 
-&#160;&#160;&#160;&#160;[7. The Survival of Andon and Fonta](part-3/063.md#7the-survival-of-andon-and-fonta "7. The Survival of Andon and Fonta") . 717
+&#160;&#160;&#160;&#160;[7. La Supervivencia de Andón y Fonta](part-3/063.md#7la-supervivencia-de-andón-y-fonta "7. La Supervivencia de Andón y Fonta") . 717
 
-064 . <a href="part-3/064.md" title="The Evolutionary Races of Color">Paper 64 · The Evolutionary Races of Color</a> . 718
+064 . <a href="part-3/064.md" title="Las Razas Evolucionarias de Color">Documento 64 · Las Razas Evolucionarias de Color</a> . 718
 
-&#160;&#160;&#160;&#160;[1. The Andonic Aborigines](part-3/064.md#1the-andonic-aborigines "1. The Andonic Aborigines") . 718
+&#160;&#160;&#160;&#160;[1. Los Aborígenes Andónicos](part-3/064.md#1los-aborígenes-andónicos "1. Los Aborígenes Andónicos") . 718
 
-&#160;&#160;&#160;&#160;[2. The Foxhall Peoples](part-3/064.md#2the-foxhall-peoples "2. The Foxhall Peoples") . 719
+&#160;&#160;&#160;&#160;[2. Los Pueblos de Foxhall](part-3/064.md#2los-pueblos-de-foxhall "2. Los Pueblos de Foxhall") . 719
 
-&#160;&#160;&#160;&#160;[3. The Badonan Tribes](part-3/064.md#3the-badonan-tribes "3. The Badonan Tribes") . 720
+&#160;&#160;&#160;&#160;[3. Las Tribus de Badonán](part-3/064.md#3las-tribus-de-badonán "3. Las Tribus de Badonán") . 720
 
-&#160;&#160;&#160;&#160;[4. The Neanderthal Races](part-3/064.md#4the-neanderthal-races "4. The Neanderthal Races") . 720
+&#160;&#160;&#160;&#160;[4. Las Razas Neandertales](part-3/064.md#4las-razas-neandertales "4. Las Razas Neandertales") . 720
 
-&#160;&#160;&#160;&#160;[5. Origin of the Colored Races](part-3/064.md#5origin-of-the-colored-races "5. Origin of the Colored Races") . 722
+&#160;&#160;&#160;&#160;[5. El Origen de las Razas de Color](part-3/064.md#5el-origen-de-las-razas-de-color "5. El Origen de las Razas de Color") . 722
 
-&#160;&#160;&#160;&#160;[6. The Six Sangik Races of Urantia](part-3/064.md#6the-six-sangik-races-of-urantia "6. The Six Sangik Races of Urantia") . 722
+&#160;&#160;&#160;&#160;[6. Las Seis Razas Sangik de Urantia](part-3/064.md#6las-seis-razas-sangik-de-urantia "6. Las Seis Razas Sangik de Urantia") . 722
 
-&#160;&#160;&#160;&#160;[7. Dispersion of the Colored Races](part-3/064.md#7dispersion-of-the-colored-races "7. Dispersion of the Colored Races") . 726
+&#160;&#160;&#160;&#160;[7. La Dispersión de las Razas de Color](part-3/064.md#7la-dispersión-de-las-razas-de-color "7. La Dispersión de las Razas de Color") . 726
 
-065 . <a href="part-3/065.md" title="The Overcontrol of Evolution">Paper 65 · The Overcontrol of Evolution</a> . 730
+065 . <a href="part-3/065.md" title="La Supervisión de la Evolución">Documento 65 · La Supervisión de la Evolución</a> . 730
 
-&#160;&#160;&#160;&#160;[1. Life Carrier Functions](part-3/065.md#1life-carrier-functions "1. Life Carrier Functions") . 730
+&#160;&#160;&#160;&#160;[1. Las Funciones de los Portadores de Vida](part-3/065.md#1las-funciones-de-los-portadores-de-vida "1. Las Funciones de los Portadores de Vida") . 730
 
-&#160;&#160;&#160;&#160;[2. The Evolutionary Panorama](part-3/065.md#2the-evolutionary-panorama "2. The Evolutionary Panorama") . 731
+&#160;&#160;&#160;&#160;[2. El Panorama de la Evolución](part-3/065.md#2el-panorama-de-la-evolución "2. El Panorama de la Evolución") . 731
 
-&#160;&#160;&#160;&#160;[3. The Fostering of Evolution](part-3/065.md#3the-fostering-of-evolution "3. The Fostering of Evolution") . 733
+&#160;&#160;&#160;&#160;[3. El Fomento de la Evolución](part-3/065.md#3el-fomento-de-la-evolución "3. El Fomento de la Evolución") . 733
 
-&#160;&#160;&#160;&#160;[4. The Urantia Adventure](part-3/065.md#4the-urantia-adventure "4. The Urantia Adventure") . 734
+&#160;&#160;&#160;&#160;[4. La Aventura Urantiana](part-3/065.md#4la-aventura-urantiana "4. La Aventura Urantiana") . 734
 
-&#160;&#160;&#160;&#160;[5. Life-Evolution Vicissitudes](part-3/065.md#5life-evolution-vicissitudes "5. Life-Evolution Vicissitudes") . 736
+&#160;&#160;&#160;&#160;[5. Las Vicisitudes de la Evolución de la Vida](part-3/065.md#5las-vicisitudes-de-la-evolución-de-la-vida "5. Las Vicisitudes de la Evolución de la Vida") . 736
 
-&#160;&#160;&#160;&#160;[6. Evolutionary Techniques of Life](part-3/065.md#6evolutionary-techniques-of-life "6. Evolutionary Techniques of Life") . 737
+&#160;&#160;&#160;&#160;[6. Las Técnicas Evolucionarias de la Vida](part-3/065.md#6las-técnicas-evolucionarias-de-la-vida "6. Las Técnicas Evolucionarias de la Vida") . 737
 
-&#160;&#160;&#160;&#160;[7. Evolutionary Mind Levels](part-3/065.md#7evolutionary-mind-levels "7. Evolutionary Mind Levels") . 738
+&#160;&#160;&#160;&#160;[7. Los Niveles Evolucionarios de la Mente](part-3/065.md#7los-niveles-evolucionarios-de-la-mente "7. Los Niveles Evolucionarios de la Mente") . 738
 
-&#160;&#160;&#160;&#160;[8. Evolution in Time and Space](part-3/065.md#8evolution-in-time-and-space "8. Evolution in Time and Space") . 739
+&#160;&#160;&#160;&#160;[8. La Evolución en el Tiempo y en el Espacio](part-3/065.md#8la-evolución-en-el-tiempo-y-en-el-espacio "8. La Evolución en el Tiempo y en el Espacio") . 739
 
-066 . <a href="part-3/066.md" title="The Planetary Prince of Urantia">Paper 66 · The Planetary Prince of Urantia</a> . 741
+066 . <a href="part-3/066.md" title="El Príncipe Planetario de Urantia">Documento 66 · El Príncipe Planetario de Urantia</a> . 741
 
-&#160;&#160;&#160;&#160;[1. Prince Caligastia](part-3/066.md#1prince-caligastia "1. Prince Caligastia") . 741
+&#160;&#160;&#160;&#160;[1. El Príncipe Caligastia](part-3/066.md#1el-príncipe-caligastia "1. El Príncipe Caligastia") . 741
 
-&#160;&#160;&#160;&#160;[2. The Prince’s Staff](part-3/066.md#2the-princes-staff "2. The Prince’s Staff") . 742
+&#160;&#160;&#160;&#160;[2. El Séquito del Príncipe](part-3/066.md#2el-séquito-del-príncipe "2. El Séquito del Príncipe") . 742
 
-&#160;&#160;&#160;&#160;[3. Dalamatia—The City of the Prince](part-3/066.md#3dalamatiathe-city-of-the-prince "3. Dalamatia—The City of the Prince") . 743
+&#160;&#160;&#160;&#160;[3. Dalamatia — La Ciudad del Príncipe](part-3/066.md#3dalamatia--la-ciudad-del-príncipe "3. Dalamatia — La Ciudad del Príncipe") . 743
 
-&#160;&#160;&#160;&#160;[4. Early Days of the One Hundred](part-3/066.md#4early-days-of-the-one-hundred "4. Early Days of the One Hundred") . 743
+&#160;&#160;&#160;&#160;[4. Los Primeros Días de los Cien](part-3/066.md#4los-primeros-días-de-los-cien "4. Los Primeros Días de los Cien") . 743
 
-&#160;&#160;&#160;&#160;[5. Organization of the One Hundred](part-3/066.md#5organization-of-the-one-hundred "5. Organization of the One Hundred") . 745
+&#160;&#160;&#160;&#160;[5. La Organización de los Cien](part-3/066.md#5la-organización-de-los-cien "5. La Organización de los Cien") . 745
 
-&#160;&#160;&#160;&#160;[6. The Prince’s Reign](part-3/066.md#6the-princes-reign "6. The Prince’s Reign") . 749
+&#160;&#160;&#160;&#160;[6. El Reinado del Príncipe](part-3/066.md#6el-reinado-del-príncipe "6. El Reinado del Príncipe") . 749
 
-&#160;&#160;&#160;&#160;[7. Life in Dalamatia](part-3/066.md#7life-in-dalamatia "7. Life in Dalamatia") . 750
+&#160;&#160;&#160;&#160;[7. La Vida en Dalamatia](part-3/066.md#7la-vida-en-dalamatia "7. La Vida en Dalamatia") . 750
 
-&#160;&#160;&#160;&#160;[8. Misfortunes of Caligastia](part-3/066.md#8misfortunes-of-caligastia "8. Misfortunes of Caligastia") . 752
+&#160;&#160;&#160;&#160;[8. Las Calamidades de Caligastia](part-3/066.md#8las-calamidades-de-caligastia "8. Las Calamidades de Caligastia") . 752
 
-067 . <a href="part-3/067.md" title="The Planetary Rebellion">Paper 67 · The Planetary Rebellion</a> . 754
+067 . <a href="part-3/067.md" title="La Rebelión Planetaria">Documento 67 · La Rebelión Planetaria</a> . 754
 
-&#160;&#160;&#160;&#160;[1. The Caligastia Betrayal](part-3/067.md#1the-caligastia-betrayal "1. The Caligastia Betrayal") . 754
+&#160;&#160;&#160;&#160;[1. La Traición de Caligastia](part-3/067.md#1la-traición-de-caligastia "1. La Traición de Caligastia") . 754
 
-&#160;&#160;&#160;&#160;[2. The Outbreak of Rebellion](part-3/067.md#2the-outbreak-of-rebellion "2. The Outbreak of Rebellion") . 755
+&#160;&#160;&#160;&#160;[2. El Estallido de la Rebelión](part-3/067.md#2el-estallido-de-la-rebelión "2. El Estallido de la Rebelión") . 755
 
-&#160;&#160;&#160;&#160;[3. The Seven Crucial Years](part-3/067.md#3the-seven-crucial-years "3. The Seven Crucial Years") . 756
+&#160;&#160;&#160;&#160;[3. Los Siete Años Cruciales](part-3/067.md#3los-siete-años-cruciales "3. Los Siete Años Cruciales") . 756
 
-&#160;&#160;&#160;&#160;[4. The Caligastia One Hundred After Rebellion](part-3/067.md#4the-caligastia-one-hundred-after-rebellion "4. The Caligastia One Hundred After Rebellion") . 757
+&#160;&#160;&#160;&#160;[4. Los Cien de Caligastia Después de la Rebelión](part-3/067.md#4los-cien-de-caligastia-después-de-la-rebelión "4. Los Cien de Caligastia Después de la Rebelión") . 757
 
-&#160;&#160;&#160;&#160;[5. Immediate Results of Rebellion](part-3/067.md#5immediate-results-of-rebellion "5. Immediate Results of Rebellion") . 758
+&#160;&#160;&#160;&#160;[5. Los Resultados Inmediatos de la Rebelión](part-3/067.md#5los-resultados-inmediatos-de-la-rebelión "5. Los Resultados Inmediatos de la Rebelión") . 758
 
-&#160;&#160;&#160;&#160;[6. Van—The Steadfast](part-3/067.md#6vanthe-steadfast "6. Van—The Steadfast") . 759
+&#160;&#160;&#160;&#160;[6. Van — El Inconmovible](part-3/067.md#6van--el-inconmovible "6. Van — El Inconmovible") . 759
 
-&#160;&#160;&#160;&#160;[7. Remote Repercussions of Sin](part-3/067.md#7remote-repercussions-of-sin "7. Remote Repercussions of Sin") . 760
+&#160;&#160;&#160;&#160;[7. Las Repercusiones Remotas del Pecado](part-3/067.md#7las-repercusiones-remotas-del-pecado "7. Las Repercusiones Remotas del Pecado") . 760
 
-&#160;&#160;&#160;&#160;[8. The Human Hero of the Rebellion](part-3/067.md#8the-human-hero-of-the-rebellion "8. The Human Hero of the Rebellion") . 761
+&#160;&#160;&#160;&#160;[8. El Héroe Humano de la Rebelión](part-3/067.md#8el-héroe-humano-de-la-rebelión "8. El Héroe Humano de la Rebelión") . 761
 
-068 . <a href="part-3/068.md" title="The Dawn of Civilization">Paper 68 · The Dawn of Civilization</a> . 763
+068 . <a href="part-3/068.md" title="Los Albores de la Civilización">Documento 68 · Los Albores de la Civilización</a> . 763
 
-&#160;&#160;&#160;&#160;[1. Protective Socialization](part-3/068.md#1protective-socialization "1. Protective Socialization") . 763
+&#160;&#160;&#160;&#160;[1. La Socialización Protectora](part-3/068.md#1la-socialización-protectora "1. La Socialización Protectora") . 763
 
-&#160;&#160;&#160;&#160;[2. Factors in Social Progression](part-3/068.md#2factors-in-social-progression "2. Factors in Social Progression") . 764
+&#160;&#160;&#160;&#160;[2. Los Factores del Progreso Social](part-3/068.md#2los-factores-del-progreso-social "2. Los Factores del Progreso Social") . 764
 
-&#160;&#160;&#160;&#160;[3. Socializing Influence of Ghost Fear](part-3/068.md#3socializing-influence-of-ghost-fear "3. Socializing Influence of Ghost Fear") . 766
+&#160;&#160;&#160;&#160;[3. La Influencia Socializadora del Temor a los Fantasmas](part-3/068.md#3la-influencia-socializadora-del-temor-a-los-fantasmas "3. La Influencia Socializadora del Temor a los Fantasmas") . 766
 
-&#160;&#160;&#160;&#160;[4. Evolution of the Mores](part-3/068.md#4evolution-of-the-mores "4. Evolution of the Mores") . 767
+&#160;&#160;&#160;&#160;[4. La Evolución de las Costumbres Establecidas](part-3/068.md#4la-evolución-de-las-costumbres-establecidas "4. La Evolución de las Costumbres Establecidas") . 767
 
-&#160;&#160;&#160;&#160;[5. Land Techniques—Maintenance Arts](part-3/068.md#5land-techniquesmaintenance-arts "5. Land Techniques—Maintenance Arts") . 768
+&#160;&#160;&#160;&#160;[5. Las Técnicas de la Tierra — Las Artes de la Manutención](part-3/068.md#5las-técnicas-de-la-tierra--las-artes-de-la-manutención "5. Las Técnicas de la Tierra — Las Artes de la Manutención") . 768
 
-&#160;&#160;&#160;&#160;[6. Evolution of Culture](part-3/068.md#6evolution-of-culture "6. Evolution of Culture") . 769
+&#160;&#160;&#160;&#160;[6. La Evolución de la Cultura](part-3/068.md#6la-evolución-de-la-cultura "6. La Evolución de la Cultura") . 769
 
-069 . <a href="part-3/069.md" title="Primitive Human Institutions">Paper 69 · Primitive Human Institutions</a> . 772
+069 . <a href="part-3/069.md" title="Las Instituciones Humanas Primitivas">Documento 69 · Las Instituciones Humanas Primitivas</a> . 772
 
-&#160;&#160;&#160;&#160;[1. Basic Human Institutions](part-3/069.md#1basic-human-institutions "1. Basic Human Institutions") . 772
+&#160;&#160;&#160;&#160;[1. Las Instituciones Humanas Fundamentales](part-3/069.md#1las-instituciones-humanas-fundamentales "1. Las Instituciones Humanas Fundamentales") . 772
 
-&#160;&#160;&#160;&#160;[2. The Dawn of Industry](part-3/069.md#2the-dawn-of-industry "2. The Dawn of Industry") . 773
+&#160;&#160;&#160;&#160;[2. Los Albores de la Industria](part-3/069.md#2los-albores-de-la-industria "2. Los Albores de la Industria") . 773
 
-&#160;&#160;&#160;&#160;[3. The Specialization of Labor](part-3/069.md#3the-specialization-of-labor "3. The Specialization of Labor") . 773
+&#160;&#160;&#160;&#160;[3. La Especialización del Trabajo](part-3/069.md#3la-especialización-del-trabajo "3. La Especialización del Trabajo") . 773
 
-&#160;&#160;&#160;&#160;[4. The Beginnings of Trade](part-3/069.md#4the-beginnings-of-trade "4. The Beginnings of Trade") . 775
+&#160;&#160;&#160;&#160;[4. Los Comienzos del Comercio de Permuta](part-3/069.md#4los-comienzos-del-comercio-de-permuta "4. Los Comienzos del Comercio de Permuta") . 775
 
-&#160;&#160;&#160;&#160;[5. The Beginnings of Capital](part-3/069.md#5the-beginnings-of-capital "5. The Beginnings of Capital") . 775
+&#160;&#160;&#160;&#160;[5. Los Comienzos del Capital](part-3/069.md#5los-comienzos-del-capital "5. Los Comienzos del Capital") . 775
 
-&#160;&#160;&#160;&#160;[6. Fire in Relation to Civilization](part-3/069.md#6fire-in-relation-to-civilization "6. Fire in Relation to Civilization") . 777
+&#160;&#160;&#160;&#160;[6. El Fuego con Relación a la Civilización](part-3/069.md#6el-fuego-con-relación-a-la-civilización "6. El Fuego con Relación a la Civilización") . 777
 
-&#160;&#160;&#160;&#160;[7. The Utilization of Animals](part-3/069.md#7the-utilization-of-animals "7. The Utilization of Animals") . 778
+&#160;&#160;&#160;&#160;[7. La Utilización de los Animales](part-3/069.md#7la-utilización-de-los-animales "7. La Utilización de los Animales") . 778
 
-&#160;&#160;&#160;&#160;[8. Slavery as a Factor in Civilization](part-3/069.md#8slavery-as-a-factor-in-civilization "8. Slavery as a Factor in Civilization") . 778
+&#160;&#160;&#160;&#160;[8. La Esclavitud como Factor en la Civilización](part-3/069.md#8la-esclavitud-como-factor-en-la-civilización "8. La Esclavitud como Factor en la Civilización") . 778
 
-&#160;&#160;&#160;&#160;[9. Private Property](part-3/069.md#9private-property "9. Private Property") . 780
+&#160;&#160;&#160;&#160;[9. La Propiedad Privada](part-3/069.md#9la-propiedad-privada "9. La Propiedad Privada") . 780
 
-070 . <a href="part-3/070.md" title="The Evolution of Human Government">Paper 70 · The Evolution of Human Government</a> . 783
+070 . <a href="part-3/070.md" title="La Evolución del Gobierno Humano">Documento 70 · La Evolución del Gobierno Humano</a> . 783
 
-&#160;&#160;&#160;&#160;[1. The Genesis of War](part-3/070.md#1the-genesis-of-war "1. The Genesis of War") . 783
+&#160;&#160;&#160;&#160;[1. La Génesis de la Guerra](part-3/070.md#1la-génesis-de-la-guerra "1. La Génesis de la Guerra") . 783
 
-&#160;&#160;&#160;&#160;[2. The Social Value of War](part-3/070.md#2the-social-value-of-war "2. The Social Value of War") . 785
+&#160;&#160;&#160;&#160;[2. El Valor Social de la Guerra](part-3/070.md#2el-valor-social-de-la-guerra "2. El Valor Social de la Guerra") . 785
 
-&#160;&#160;&#160;&#160;[3. Early Human Associations](part-3/070.md#3early-human-associations "3. Early Human Associations") . 787
+&#160;&#160;&#160;&#160;[3. Las Asociaciones Humanas Primitivas](part-3/070.md#3las-asociaciones-humanas-primitivas "3. Las Asociaciones Humanas Primitivas") . 787
 
-&#160;&#160;&#160;&#160;[4. Clans and Tribes](part-3/070.md#4clans-and-tribes "4. Clans and Tribes") . 788
+&#160;&#160;&#160;&#160;[4. Los Clanes y las Tribus](part-3/070.md#4los-clanes-y-las-tribus "4. Los Clanes y las Tribus") . 788
 
-&#160;&#160;&#160;&#160;[5. The Beginnings of Government](part-3/070.md#5the-beginnings-of-government "5. The Beginnings of Government") . 788
+&#160;&#160;&#160;&#160;[5. Los Comienzos del Gobierno](part-3/070.md#5los-comienzos-del-gobierno "5. Los Comienzos del Gobierno") . 788
 
-&#160;&#160;&#160;&#160;[6. Monarchial Government](part-3/070.md#6monarchial-government "6. Monarchial Government") . 789
+&#160;&#160;&#160;&#160;[6. El Gobierno Monárquico](part-3/070.md#6el-gobierno-monárquico "6. El Gobierno Monárquico") . 789
 
-&#160;&#160;&#160;&#160;[7. Primitive Clubs and Secret Societies](part-3/070.md#7primitive-clubs-and-secret-societies "7. Primitive Clubs and Secret Societies") . 790
+&#160;&#160;&#160;&#160;[7. Los Clubes Primitivos y las Sociedades Secretas](part-3/070.md#7los-clubes-primitivos-y-las-sociedades-secretas "7. Los Clubes Primitivos y las Sociedades Secretas") . 790
 
-&#160;&#160;&#160;&#160;[8. Social Classes](part-3/070.md#8social-classes "8. Social Classes") . 792
+&#160;&#160;&#160;&#160;[8. Las Clases Sociales](part-3/070.md#8las-clases-sociales "8. Las Clases Sociales") . 792
 
-&#160;&#160;&#160;&#160;[9. Human Rights](part-3/070.md#9human-rights "9. Human Rights") . 793
+&#160;&#160;&#160;&#160;[9. Los Derechos Humanos](part-3/070.md#9los-derechos-humanos "9. Los Derechos Humanos") . 793
 
-&#160;&#160;&#160;&#160;[10. Evolution of Justice](part-3/070.md#10evolution-of-justice "10. Evolution of Justice") . 794
+&#160;&#160;&#160;&#160;[10. La Evolución de la Justicia](part-3/070.md#10la-evolución-de-la-justicia "10. La Evolución de la Justicia") . 794
 
-&#160;&#160;&#160;&#160;[11. Laws and Courts](part-3/070.md#11laws-and-courts "11. Laws and Courts") . 796
+&#160;&#160;&#160;&#160;[11. Las Leyes y los Tribunales](part-3/070.md#11las-leyes-y-los-tribunales "11. Las Leyes y los Tribunales") . 796
 
-&#160;&#160;&#160;&#160;[12. Allocation of Civil Authority](part-3/070.md#12allocation-of-civil-authority "12. Allocation of Civil Authority") . 797
+&#160;&#160;&#160;&#160;[12. La Repartición de la Autoridad Civil](part-3/070.md#12la-repartición-de-la-autoridad-civil "12. La Repartición de la Autoridad Civil") . 797
 
-071 . <a href="part-3/071.md" title="Development of the State">Paper 71 · Development of the State</a> . 800
+071 . <a href="part-3/071.md" title="El Desarrollo del Estado">Documento 71 · El Desarrollo del Estado</a> . 800
 
-&#160;&#160;&#160;&#160;[1. The Embryonic State](part-3/071.md#1the-embryonic-state "1. The Embryonic State") . 800
+&#160;&#160;&#160;&#160;[1. La Etapa Embrionaria del Estado](part-3/071.md#1la-etapa-embrionaria-del-estado "1. La Etapa Embrionaria del Estado") . 800
 
-&#160;&#160;&#160;&#160;[2. The Evolution of Representative Government](part-3/071.md#2the-evolution-of-representative-government "2. The Evolution of Representative Government") . 801
+&#160;&#160;&#160;&#160;[2. La Evolución del Gobierno Representativo](part-3/071.md#2la-evolución-del-gobierno-representativo "2. La Evolución del Gobierno Representativo") . 801
 
-&#160;&#160;&#160;&#160;[3. The Ideals of Statehood](part-3/071.md#3the-ideals-of-statehood "3. The Ideals of Statehood") . 803
+&#160;&#160;&#160;&#160;[3. Los Ideales del Estado](part-3/071.md#3los-ideales-del-estado "3. Los Ideales del Estado") . 803
 
-&#160;&#160;&#160;&#160;[4. Progressive Civilization](part-3/071.md#4progressive-civilization "4. Progressive Civilization") . 804
+&#160;&#160;&#160;&#160;[4. La Civilización Progresiva](part-3/071.md#4la-civilización-progresiva "4. La Civilización Progresiva") . 804
 
-&#160;&#160;&#160;&#160;[5. The Evolution of Competition](part-3/071.md#5the-evolution-of-competition "5. The Evolution of Competition") . 805
+&#160;&#160;&#160;&#160;[5. La Evolución de la Competencia](part-3/071.md#5la-evolución-de-la-competencia "5. La Evolución de la Competencia") . 805
 
-&#160;&#160;&#160;&#160;[6. The Profit Motive](part-3/071.md#6the-profit-motive "6. The Profit Motive") . 805
+&#160;&#160;&#160;&#160;[6. El Motivo del Lucro](part-3/071.md#6el-motivo-del-lucro "6. El Motivo del Lucro") . 805
 
-&#160;&#160;&#160;&#160;[7. Education](part-3/071.md#7education "7. Education") . 806
+&#160;&#160;&#160;&#160;[7. La Educación](part-3/071.md#7la-educación "7. La Educación") . 806
 
-&#160;&#160;&#160;&#160;[8. The Character of Statehood](part-3/071.md#8the-character-of-statehood "8. The Character of Statehood") . 806
+&#160;&#160;&#160;&#160;[8. El Carácter del Estado](part-3/071.md#8el-carácter-del-estado "8. El Carácter del Estado") . 806
 
-072 . <a href="part-3/072.md" title="Government on a Neighboring Planet">Paper 72 · Government on a Neighboring Planet</a> . 808
+072 . <a href="part-3/072.md" title="El Gobierno de un Planeta Vecino">Documento 72 · El Gobierno de un Planeta Vecino</a> . 808
 
-&#160;&#160;&#160;&#160;[1. The Continental Nation](part-3/072.md#1the-continental-nation "1. The Continental Nation") . 808
+&#160;&#160;&#160;&#160;[1. La Nación Continental](part-3/072.md#1la-nación-continental "1. La Nación Continental") . 808
 
-&#160;&#160;&#160;&#160;[2. Political Organization](part-3/072.md#2political-organization "2. Political Organization") . 809
+&#160;&#160;&#160;&#160;[2. La Organización Política](part-3/072.md#2la-organización-política "2. La Organización Política") . 809
 
-&#160;&#160;&#160;&#160;[3. The Home Life](part-3/072.md#3the-home-life "3. The Home Life") . 811
+&#160;&#160;&#160;&#160;[3. La Vida Hogareña](part-3/072.md#3la-vida-hogareña "3. La Vida Hogareña") . 811
 
-&#160;&#160;&#160;&#160;[4. The Educational System](part-3/072.md#4the-educational-system "4. The Educational System") . 812
+&#160;&#160;&#160;&#160;[4. El Sistema de la Enseñanza](part-3/072.md#4el-sistema-de-la-enseñanza "4. El Sistema de la Enseñanza") . 812
 
-&#160;&#160;&#160;&#160;[5. Industrial Organization](part-3/072.md#5industrial-organization "5. Industrial Organization") . 813
+&#160;&#160;&#160;&#160;[5. La Organización Industrial](part-3/072.md#5la-organización-industrial "5. La Organización Industrial") . 813
 
-&#160;&#160;&#160;&#160;[6. Old-Age Insurance](part-3/072.md#6old-age-insurance "6. Old-Age Insurance") . 814
+&#160;&#160;&#160;&#160;[6. El Seguro de Vejez](part-3/072.md#6el-seguro-de-vejez "6. El Seguro de Vejez") . 814
 
-&#160;&#160;&#160;&#160;[7. Taxation](part-3/072.md#7taxation "7. Taxation") . 815
+&#160;&#160;&#160;&#160;[7. El Sistema Tributario](part-3/072.md#7el-sistema-tributario "7. El Sistema Tributario") . 815
 
-&#160;&#160;&#160;&#160;[8. The Special Colleges](part-3/072.md#8the-special-colleges "8. The Special Colleges") . 816
+&#160;&#160;&#160;&#160;[8. Las Escuelas Superiores Especiales](part-3/072.md#8las-escuelas-superiores-especiales "8. Las Escuelas Superiores Especiales") . 816
 
-&#160;&#160;&#160;&#160;[9. The Plan of Universal Suffrage](part-3/072.md#9the-plan-of-universal-suffrage "9. The Plan of Universal Suffrage") . 817
+&#160;&#160;&#160;&#160;[9. El Esquema del Sufragio Universal](part-3/072.md#9el-esquema-del-sufragio-universal "9. El Esquema del Sufragio Universal") . 817
 
-&#160;&#160;&#160;&#160;[10. Dealing with Crime](part-3/072.md#10dealing-with-crime "10. Dealing with Crime") . 818
+&#160;&#160;&#160;&#160;[10. El Combate Contra la Delincuencia](part-3/072.md#10el-combate-contra-la-delincuencia "10. El Combate Contra la Delincuencia") . 818
 
-&#160;&#160;&#160;&#160;[11. Military Preparedness](part-3/072.md#11military-preparedness "11. Military Preparedness") . 818
+&#160;&#160;&#160;&#160;[11. La Preparación Militar](part-3/072.md#11la-preparación-militar "11. La Preparación Militar") . 818
 
-&#160;&#160;&#160;&#160;[12. The Other Nations](part-3/072.md#12the-other-nations "12. The Other Nations") . 819
+&#160;&#160;&#160;&#160;[12. Las Otras Naciones](part-3/072.md#12las-otras-naciones "12. Las Otras Naciones") . 819
 
-073 . <a href="part-3/073.md" title="The Garden of Eden">Paper 73 · The Garden of Eden</a> . 821
+073 . <a href="part-3/073.md" title="El Jardín del Edén">Documento 73 · El Jardín del Edén</a> . 821
 
-&#160;&#160;&#160;&#160;[1. The Nodites and the Amadonites](part-3/073.md#1the-nodites-and-the-amadonites "1. The Nodites and the Amadonites") . 821
+&#160;&#160;&#160;&#160;[1. Los Noditas y los Amadonitas](part-3/073.md#1los-noditas-y-los-amadonitas "1. Los Noditas y los Amadonitas") . 821
 
-&#160;&#160;&#160;&#160;[2. Planning for the Garden](part-3/073.md#2planning-for-the-garden "2. Planning for the Garden") . 822
+&#160;&#160;&#160;&#160;[2. La Planificación del Jardín](part-3/073.md#2la-planificación-del-jardín "2. La Planificación del Jardín") . 822
 
-&#160;&#160;&#160;&#160;[3. The Garden Site](part-3/073.md#3the-garden-site "3. The Garden Site") . 823
+&#160;&#160;&#160;&#160;[3. La Ubicación del Jardín](part-3/073.md#3la-ubicación-del-jardín "3. La Ubicación del Jardín") . 823
 
-&#160;&#160;&#160;&#160;[4. Establishing the Garden](part-3/073.md#4establishing-the-garden "4. Establishing the Garden") . 823
+&#160;&#160;&#160;&#160;[4. El Establecimiento del Jardín](part-3/073.md#4el-establecimiento-del-jardín "4. El Establecimiento del Jardín") . 823
 
-&#160;&#160;&#160;&#160;[5. The Garden Home](part-3/073.md#5the-garden-home "5. The Garden Home") . 824
+&#160;&#160;&#160;&#160;[5. El Hogar en el Jardín](part-3/073.md#5el-hogar-en-el-jardín "5. El Hogar en el Jardín") . 824
 
-&#160;&#160;&#160;&#160;[6. The Tree of Life](part-3/073.md#6the-tree-of-life "6. The Tree of Life") . 825
+&#160;&#160;&#160;&#160;[6. El Árbol de la Vida](part-3/073.md#6el-árbol-de-la-vida "6. El Árbol de la Vida") . 825
 
-&#160;&#160;&#160;&#160;[7. The Fate of Eden](part-3/073.md#7the-fate-of-eden "7. The Fate of Eden") . 826
+&#160;&#160;&#160;&#160;[7. El Destino de Edén](part-3/073.md#7el-destino-de-edén "7. El Destino de Edén") . 826
 
-074 . <a href="part-3/074.md" title="Adam and Eve">Paper 74 · Adam and Eve</a> . 828
+074 . <a href="part-3/074.md" title="Adán y Eva">Documento 74 · Adán y Eva</a> . 828
 
-&#160;&#160;&#160;&#160;[1. Adam and Eve on Jerusem](part-3/074.md#1adam-and-eve-on-jerusem "1. Adam and Eve on Jerusem") . 828
+&#160;&#160;&#160;&#160;[1. Adán y Eva en Jerusem](part-3/074.md#1adán-y-eva-en-jerusem "1. Adán y Eva en Jerusem") . 828
 
-&#160;&#160;&#160;&#160;[2. Arrival of Adam and Eve](part-3/074.md#2arrival-of-adam-and-eve "2. Arrival of Adam and Eve") . 829
+&#160;&#160;&#160;&#160;[2. La Llegada de Adán y Eva](part-3/074.md#2la-llegada-de-adán-y-eva "2. La Llegada de Adán y Eva") . 829
 
-&#160;&#160;&#160;&#160;[3. Adam and Eve Learn About the Planet](part-3/074.md#3adam-and-eve-learn-about-the-planet "3. Adam and Eve Learn About the Planet") . 830
+&#160;&#160;&#160;&#160;[3. Adán y Eva Adquieren Conocimientos Sobre el Planeta](part-3/074.md#3adán-y-eva-adquieren-conocimientos-sobre-el-planeta "3. Adán y Eva Adquieren Conocimientos Sobre el Planeta") . 830
 
-&#160;&#160;&#160;&#160;[4. The First Upheaval](part-3/074.md#4the-first-upheaval "4. The First Upheaval") . 832
+&#160;&#160;&#160;&#160;[4. Las Primeras Dificultades](part-3/074.md#4las-primeras-dificultades "4. Las Primeras Dificultades") . 832
 
-&#160;&#160;&#160;&#160;[5. Adam’s Administration](part-3/074.md#5adams-administration "5. Adam’s Administration") . 833
+&#160;&#160;&#160;&#160;[5. La Administración de Adán](part-3/074.md#5la-administración-de-adán "5. La Administración de Adán") . 833
 
-&#160;&#160;&#160;&#160;[6. Home Life of Adam and Eve](part-3/074.md#6home-life-of-adam-and-eve "6. Home Life of Adam and Eve") . 834
+&#160;&#160;&#160;&#160;[6. La Vida Hogareña de Adán y Eva](part-3/074.md#6la-vida-hogareña-de-adán-y-eva "6. La Vida Hogareña de Adán y Eva") . 834
 
-&#160;&#160;&#160;&#160;[7. Life in the Garden](part-3/074.md#7life-in-the-garden "7. Life in the Garden") . 835
+&#160;&#160;&#160;&#160;[7. La Vida en el Jardín](part-3/074.md#7la-vida-en-el-jardín "7. La Vida en el Jardín") . 835
 
-&#160;&#160;&#160;&#160;[8. The Legend of Creation](part-3/074.md#8the-legend-of-creation "8. The Legend of Creation") . 836
+&#160;&#160;&#160;&#160;[8. La Leyenda de la Creación](part-3/074.md#8la-leyenda-de-la-creación "8. La Leyenda de la Creación") . 836
 
-075 . <a href="part-3/075.md" title="The Default of Adam and Eve">Paper 75 · The Default of Adam and Eve</a> . 839
+075 . <a href="part-3/075.md" title="La Falta de Adán y Eva">Documento 75 · La Falta de Adán y Eva</a> . 839
 
-&#160;&#160;&#160;&#160;[1. The Urantia Problem](part-3/075.md#1the-urantia-problem "1. The Urantia Problem") . 839
+&#160;&#160;&#160;&#160;[1. El Problema de Urantia](part-3/075.md#1el-problema-de-urantia "1. El Problema de Urantia") . 839
 
-&#160;&#160;&#160;&#160;[2. Caligastia’s Plot](part-3/075.md#2caligastias-plot "2. Caligastia’s Plot") . 840
+&#160;&#160;&#160;&#160;[2. La Intriga de Caligastia](part-3/075.md#2la-intriga-de-caligastia "2. La Intriga de Caligastia") . 840
 
-&#160;&#160;&#160;&#160;[3. The Temptation of Eve](part-3/075.md#3the-temptation-of-eve "3. The Temptation of Eve") . 841
+&#160;&#160;&#160;&#160;[3. La Tentación de Eva](part-3/075.md#3la-tentación-de-eva "3. La Tentación de Eva") . 841
 
-&#160;&#160;&#160;&#160;[4. The Realization of Default](part-3/075.md#4the-realization-of-default "4. The Realization of Default") . 842
+&#160;&#160;&#160;&#160;[4. La Comprensión de la Falta](part-3/075.md#4la-comprensión-de-la-falta "4. La Comprensión de la Falta") . 842
 
-&#160;&#160;&#160;&#160;[5. Repercussions of Default](part-3/075.md#5repercussions-of-default "5. Repercussions of Default") . 843
+&#160;&#160;&#160;&#160;[5. Las Repercusiones de la Falta](part-3/075.md#5las-repercusiones-de-la-falta "5. Las Repercusiones de la Falta") . 843
 
-&#160;&#160;&#160;&#160;[6. Adam and Eve Leave the Garden](part-3/075.md#6adam-and-eve-leave-the-garden "6. Adam and Eve Leave the Garden") . 844
+&#160;&#160;&#160;&#160;[6. Adán y Eva Abandonan el Jardín](part-3/075.md#6adán-y-eva-abandonan-el-jardín "6. Adán y Eva Abandonan el Jardín") . 844
 
-&#160;&#160;&#160;&#160;[7. Degradation of Adam and Eve](part-3/075.md#7degradation-of-adam-and-eve "7. Degradation of Adam and Eve") . 845
+&#160;&#160;&#160;&#160;[7. La Degradación de Adán y Eva](part-3/075.md#7la-degradación-de-adán-y-eva "7. La Degradación de Adán y Eva") . 845
 
-&#160;&#160;&#160;&#160;[8. The So-Called Fall of Man](part-3/075.md#8the-so-called-fall-of-man "8. The So-Called Fall of Man") . 845
+&#160;&#160;&#160;&#160;[8. La Supuesta Caída del Hombre](part-3/075.md#8la-supuesta-caída-del-hombre "8. La Supuesta Caída del Hombre") . 845
 
-076 . <a href="part-3/076.md" title="The Second Garden">Paper 76 · The Second Garden</a> . 847
+076 . <a href="part-3/076.md" title="El Segundo Jardín">Documento 76 · El Segundo Jardín</a> . 847
 
-&#160;&#160;&#160;&#160;[1. The Edenites Enter Mesopotamia](part-3/076.md#1the-edenites-enter-mesopotamia "1. The Edenites Enter Mesopotamia") . 847
+&#160;&#160;&#160;&#160;[1. Los Edenitas Entran en la Mesopotamia](part-3/076.md#1los-edenitas-entran-en-la-mesopotamia "1. Los Edenitas Entran en la Mesopotamia") . 847
 
-&#160;&#160;&#160;&#160;[2. Cain and Abel](part-3/076.md#2cain-and-abel "2. Cain and Abel") . 848
+&#160;&#160;&#160;&#160;[2. Caín y Abel](part-3/076.md#2caín-y-abel "2. Caín y Abel") . 848
 
-&#160;&#160;&#160;&#160;[3. Life in Mesopotamia](part-3/076.md#3life-in-mesopotamia "3. Life in Mesopotamia") . 849
+&#160;&#160;&#160;&#160;[3. La Vida en la Mesopotamia](part-3/076.md#3la-vida-en-la-mesopotamia "3. La Vida en la Mesopotamia") . 849
 
-&#160;&#160;&#160;&#160;[4. The Violet Race](part-3/076.md#4the-violet-race "4. The Violet Race") . 850
+&#160;&#160;&#160;&#160;[4. La Raza Violeta](part-3/076.md#4la-raza-violeta "4. La Raza Violeta") . 850
 
-&#160;&#160;&#160;&#160;[5. Death of Adam and Eve](part-3/076.md#5death-of-adam-and-eve "5. Death of Adam and Eve") . 851
+&#160;&#160;&#160;&#160;[5. La Muerte de Adán y Eva](part-3/076.md#5la-muerte-de-adán-y-eva "5. La Muerte de Adán y Eva") . 851
 
-&#160;&#160;&#160;&#160;[6. Survival of Adam and Eve](part-3/076.md#6survival-of-adam-and-eve "6. Survival of Adam and Eve") . 853
+&#160;&#160;&#160;&#160;[6. La Supervivencia de Adán y Eva](part-3/076.md#6la-supervivencia-de-adán-y-eva "6. La Supervivencia de Adán y Eva") . 853
 
-077 . <a href="part-3/077.md" title="The Midway Creatures">Paper 77 · The Midway Creatures</a> . 855
+077 . <a href="part-3/077.md" title="Los Seres Intermedios">Documento 77 · Los Seres Intermedios</a> . 855
 
-&#160;&#160;&#160;&#160;[1. The Primary Midwayers](part-3/077.md#1the-primary-midwayers "1. The Primary Midwayers") . 855
+&#160;&#160;&#160;&#160;[1. Los Seres Intermedios Primarios](part-3/077.md#1los-seres-intermedios-primarios "1. Los Seres Intermedios Primarios") . 855
 
-&#160;&#160;&#160;&#160;[2. The Nodite Race](part-3/077.md#2the-nodite-race "2. The Nodite Race") . 856
+&#160;&#160;&#160;&#160;[2. La Raza Nodita](part-3/077.md#2la-raza-nodita "2. La Raza Nodita") . 856
 
-&#160;&#160;&#160;&#160;[3. The Tower of Babel](part-3/077.md#3the-tower-of-babel "3. The Tower of Babel") . 858
+&#160;&#160;&#160;&#160;[3. La Torre de Babel](part-3/077.md#3la-torre-de-babel "3. La Torre de Babel") . 858
 
-&#160;&#160;&#160;&#160;[4. Nodite Centers of Civilization](part-3/077.md#4nodite-centers-of-civilization "4. Nodite Centers of Civilization") . 859
+&#160;&#160;&#160;&#160;[4. Los Centros Noditas de la Civilización](part-3/077.md#4los-centros-noditas-de-la-civilización "4. Los Centros Noditas de la Civilización") . 859
 
-&#160;&#160;&#160;&#160;[5. Adamson and Ratta](part-3/077.md#5adamson-and-ratta "5. Adamson and Ratta") . 861
+&#160;&#160;&#160;&#160;[5. Adansón y Ratta](part-3/077.md#5adansón-y-ratta "5. Adansón y Ratta") . 861
 
-&#160;&#160;&#160;&#160;[6. The Secondary Midwayers](part-3/077.md#6the-secondary-midwayers "6. The Secondary Midwayers") . 862
+&#160;&#160;&#160;&#160;[6. Los Seres Intermedios Secundarios](part-3/077.md#6los-seres-intermedios-secundarios "6. Los Seres Intermedios Secundarios") . 862
 
-&#160;&#160;&#160;&#160;[7. The Rebel Midwayers](part-3/077.md#7the-rebel-midwayers "7. The Rebel Midwayers") . 863
+&#160;&#160;&#160;&#160;[7. Los Seres Intermedios Rebeldes](part-3/077.md#7los-seres-intermedios-rebeldes "7. Los Seres Intermedios Rebeldes") . 863
 
-&#160;&#160;&#160;&#160;[8. The United Midwayers](part-3/077.md#8the-united-midwayers "8. The United Midwayers") . 864
+&#160;&#160;&#160;&#160;[8. Los Seres Intermedios Unidos](part-3/077.md#8los-seres-intermedios-unidos "8. Los Seres Intermedios Unidos") . 864
 
-&#160;&#160;&#160;&#160;[9. The Permanent Citizens of Urantia](part-3/077.md#9the-permanent-citizens-of-urantia "9. The Permanent Citizens of Urantia") . 865
+&#160;&#160;&#160;&#160;[9. Los Ciudadanos Permanentes de Urantia](part-3/077.md#9los-ciudadanos-permanentes-de-urantia "9. Los Ciudadanos Permanentes de Urantia") . 865
 
-078 . <a href="part-3/078.md" title="The Violet Race After the Days of Adam">Paper 78 · The Violet Race After the Days of Adam</a> . 868
+078 . <a href="part-3/078.md" title="La Raza Violeta Después de los Días de Adán">Documento 78 · La Raza Violeta Después de los Días de Adán</a> . 868
 
-&#160;&#160;&#160;&#160;[1. Racial and Cultural Distribution](part-3/078.md#1racial-and-cultural-distribution "1. Racial and Cultural Distribution") . 868
+&#160;&#160;&#160;&#160;[1. La Distribución Racial y Cultural](part-3/078.md#1la-distribución-racial-y-cultural "1. La Distribución Racial y Cultural") . 868
 
-&#160;&#160;&#160;&#160;[2. The Adamites in the Second Garden](part-3/078.md#2the-adamites-in-the-second-garden "2. The Adamites in the Second Garden") . 869
+&#160;&#160;&#160;&#160;[2. Los Adanitas en el Segundo Jardín](part-3/078.md#2los-adanitas-en-el-segundo-jardín "2. Los Adanitas en el Segundo Jardín") . 869
 
-&#160;&#160;&#160;&#160;[3. Early Expansions of the Adamites](part-3/078.md#3early-expansions-of-the-adamites "3. Early Expansions of the Adamites") . 870
+&#160;&#160;&#160;&#160;[3. Las Primeras Expansiones de los Adanitas](part-3/078.md#3las-primeras-expansiones-de-los-adanitas "3. Las Primeras Expansiones de los Adanitas") . 870
 
-&#160;&#160;&#160;&#160;[4. The Andites](part-3/078.md#4the-andites "4. The Andites") . 871
+&#160;&#160;&#160;&#160;[4. Los Anditas](part-3/078.md#4los-anditas "4. Los Anditas") . 871
 
-&#160;&#160;&#160;&#160;[5. The Andite Migrations](part-3/078.md#5the-andite-migrations "5. The Andite Migrations") . 872
+&#160;&#160;&#160;&#160;[5. Las Migraciones Anditas](part-3/078.md#5las-migraciones-anditas "5. Las Migraciones Anditas") . 872
 
-&#160;&#160;&#160;&#160;[6. The Last Andite Dispersions](part-3/078.md#6the-last-andite-dispersions "6. The Last Andite Dispersions") . 873
+&#160;&#160;&#160;&#160;[6. Las Últimas Dispersiones Anditas](part-3/078.md#6las-últimas-dispersiones-anditas "6. Las Últimas Dispersiones Anditas") . 873
 
-&#160;&#160;&#160;&#160;[7. The Floods in Mesopotamia](part-3/078.md#7the-floods-in-mesopotamia "7. The Floods in Mesopotamia") . 874
+&#160;&#160;&#160;&#160;[7. Las Inundaciones en Mesopotamia](part-3/078.md#7las-inundaciones-en-mesopotamia "7. Las Inundaciones en Mesopotamia") . 874
 
-&#160;&#160;&#160;&#160;[8. The Sumerians—Last of the Andites](part-3/078.md#8the-sumerianslast-of-the-andites "8. The Sumerians—Last of the Andites") . 875
+&#160;&#160;&#160;&#160;[8. Los Sumerios — Los Últimos de los Anditas](part-3/078.md#8los-sumerios--los-últimos-de-los-anditas "8. Los Sumerios — Los Últimos de los Anditas") . 875
 
-079 . <a href="part-3/079.md" title="Andite Expansion in the Orient">Paper 79 · Andite Expansion in the Orient</a> . 878
+079 . <a href="part-3/079.md" title="La Expansión Andita en el Oriente">Documento 79 · La Expansión Andita en el Oriente</a> . 878
 
-&#160;&#160;&#160;&#160;[1. The Andites of Turkestan](part-3/079.md#1the-andites-of-turkestan "1. The Andites of Turkestan") . 878
+&#160;&#160;&#160;&#160;[1. Los Anditas del Turquestán](part-3/079.md#1los-anditas-del-turquestán "1. Los Anditas del Turquestán") . 878
 
-&#160;&#160;&#160;&#160;[2. The Andite Conquest of India](part-3/079.md#2the-andite-conquest-of-india "2. The Andite Conquest of India") . 879
+&#160;&#160;&#160;&#160;[2. La Conquista Andita de la India](part-3/079.md#2la-conquista-andita-de-la-india "2. La Conquista Andita de la India") . 879
 
-&#160;&#160;&#160;&#160;[3. Dravidian India](part-3/079.md#3dravidian-india "3. Dravidian India") . 881
+&#160;&#160;&#160;&#160;[3. La India Dravidiana](part-3/079.md#3la-india-dravidiana "3. La India Dravidiana") . 881
 
-&#160;&#160;&#160;&#160;[4. The Aryan Invasion of India](part-3/079.md#4the-aryan-invasion-of-india "4. The Aryan Invasion of India") . 882
+&#160;&#160;&#160;&#160;[4. La Invasión Aria de la India](part-3/079.md#4la-invasión-aria-de-la-india "4. La Invasión Aria de la India") . 882
 
-&#160;&#160;&#160;&#160;[5. Red Man and Yellow Man](part-3/079.md#5red-man-and-yellow-man "5. Red Man and Yellow Man") . 883
+&#160;&#160;&#160;&#160;[5. El Hombre Rojo y el Hombre Amarillo](part-3/079.md#5el-hombre-rojo-y-el-hombre-amarillo "5. El Hombre Rojo y el Hombre Amarillo") . 883
 
-&#160;&#160;&#160;&#160;[6. Dawn of Chinese Civilization](part-3/079.md#6dawn-of-chinese-civilization "6. Dawn of Chinese Civilization") . 884
+&#160;&#160;&#160;&#160;[6. Los Albores de la Civilización China](part-3/079.md#6los-albores-de-la-civilización-china "6. Los Albores de la Civilización China") . 884
 
-&#160;&#160;&#160;&#160;[7. The Andites Enter China](part-3/079.md#7the-andites-enter-china "7. The Andites Enter China") . 886
+&#160;&#160;&#160;&#160;[7. Los Anditas Entran a la China](part-3/079.md#7los-anditas-entran-a-la-china "7. Los Anditas Entran a la China") . 886
 
-&#160;&#160;&#160;&#160;[8. Later Chinese Civilization](part-3/079.md#8later-chinese-civilization "8. Later Chinese Civilization") . 887
+&#160;&#160;&#160;&#160;[8. La Civilización China Posterior](part-3/079.md#8la-civilización-china-posterior "8. La Civilización China Posterior") . 887
 
-080 . <a href="part-3/080.md" title="Andite Expansion in the Occident">Paper 80 · Andite Expansion in the Occident</a> . 889
+080 . <a href="part-3/080.md" title="La Expansión Andita en el Occidente">Documento 80 · La Expansión Andita en el Occidente</a> . 889
 
-&#160;&#160;&#160;&#160;[1. The Adamites Enter Europe](part-3/080.md#1the-adamites-enter-europe "1. The Adamites Enter Europe") . 889
+&#160;&#160;&#160;&#160;[1. Los Adanitas Entran en Europa](part-3/080.md#1los-adanitas-entran-en-europa "1. Los Adanitas Entran en Europa") . 889
 
-&#160;&#160;&#160;&#160;[2. Climatic and Geologic Changes](part-3/080.md#2climatic-and-geologic-changes "2. Climatic and Geologic Changes") . 890
+&#160;&#160;&#160;&#160;[2. Los Cambios Climáticos y Geológicos](part-3/080.md#2los-cambios-climáticos-y-geológicos "2. Los Cambios Climáticos y Geológicos") . 890
 
-&#160;&#160;&#160;&#160;[3. The Cro-Magnoid Blue Man](part-3/080.md#3the-cro-magnoid-blue-man "3. The Cro-Magnoid Blue Man") . 891
+&#160;&#160;&#160;&#160;[3. El Hombre Azul Cro-Magnoide](part-3/080.md#3el-hombre-azul-cro-magnoide "3. El Hombre Azul Cro-Magnoide") . 891
 
-&#160;&#160;&#160;&#160;[4. The Andite Invasions of Europe](part-3/080.md#4the-andite-invasions-of-europe "4. The Andite Invasions of Europe") . 892
+&#160;&#160;&#160;&#160;[4. Las Invasiones Anditas en Europa](part-3/080.md#4las-invasiones-anditas-en-europa "4. Las Invasiones Anditas en Europa") . 892
 
-&#160;&#160;&#160;&#160;[5. The Andite Conquest of Northern Europe](part-3/080.md#5the-andite-conquest-of-northern-europe "5. The Andite Conquest of Northern Europe") . 893
+&#160;&#160;&#160;&#160;[5. La Conquista Andita de Europa Septentrional](part-3/080.md#5la-conquista-andita-de-europa-septentrional "5. La Conquista Andita de Europa Septentrional") . 893
 
-&#160;&#160;&#160;&#160;[6. The Andites Along the Nile](part-3/080.md#6the-andites-along-the-nile "6. The Andites Along the Nile") . 894
+&#160;&#160;&#160;&#160;[6. Los Anditas a lo Largo del Nilo](part-3/080.md#6los-anditas-a-lo-largo-del-nilo "6. Los Anditas a lo Largo del Nilo") . 894
 
-&#160;&#160;&#160;&#160;[7. Andites of the Mediterranean Isles](part-3/080.md#7andites-of-the-mediterranean-isles "7. Andites of the Mediterranean Isles") . 895
+&#160;&#160;&#160;&#160;[7. Los Anditas de las Islas Mediterráneas](part-3/080.md#7los-anditas-de-las-islas-mediterráneas "7. Los Anditas de las Islas Mediterráneas") . 895
 
-&#160;&#160;&#160;&#160;[8. The Danubian Andonites](part-3/080.md#8the-danubian-andonites "8. The Danubian Andonites") . 896
+&#160;&#160;&#160;&#160;[8. Los Andonitas del Valle del Danubio](part-3/080.md#8los-andonitas-del-valle-del-danubio "8. Los Andonitas del Valle del Danubio") . 896
 
-&#160;&#160;&#160;&#160;[9. The Three White Races](part-3/080.md#9the-three-white-races "9. The Three White Races") . 897
+&#160;&#160;&#160;&#160;[9. Las Tres Razas Blancas](part-3/080.md#9las-tres-razas-blancas "9. Las Tres Razas Blancas") . 897
 
-081 . <a href="part-3/081.md" title="Development of Modern Civilization">Paper 81 · Development of Modern Civilization</a> . 900
+081 . <a href="part-3/081.md" title="El Desarrollo de la Civilización Moderna">Documento 81 · El Desarrollo de la Civilización Moderna</a> . 900
 
-&#160;&#160;&#160;&#160;[1. The Cradle of Civilization](part-3/081.md#1the-cradle-of-civilization "1. The Cradle of Civilization") . 900
+&#160;&#160;&#160;&#160;[1. La Cuna de la Civilización](part-3/081.md#1la-cuna-de-la-civilización "1. La Cuna de la Civilización") . 900
 
-&#160;&#160;&#160;&#160;[2. The Tools of Civilization](part-3/081.md#2the-tools-of-civilization "2. The Tools of Civilization") . 901
+&#160;&#160;&#160;&#160;[2. Las Herramientas de la Civilización](part-3/081.md#2las-herramientas-de-la-civilización "2. Las Herramientas de la Civilización") . 901
 
-&#160;&#160;&#160;&#160;[3. Cities, Manufacture, and Commerce](part-3/081.md#3cities-manufacture-and-commerce "3. Cities, Manufacture, and Commerce") . 903
+&#160;&#160;&#160;&#160;[3. Las Ciudades, la Manufactura y el Comercio](part-3/081.md#3las-ciudades-la-manufactura-y-el-comercio "3. Las Ciudades, la Manufactura y el Comercio") . 903
 
-&#160;&#160;&#160;&#160;[4. The Mixed Races](part-3/081.md#4the-mixed-races "4. The Mixed Races") . 904
+&#160;&#160;&#160;&#160;[4. Las Razas Mezcladas](part-3/081.md#4las-razas-mezcladas "4. Las Razas Mezcladas") . 904
 
-&#160;&#160;&#160;&#160;[5. Cultural Society](part-3/081.md#5cultural-society "5. Cultural Society") . 905
+&#160;&#160;&#160;&#160;[5. La Sociedad Cultural](part-3/081.md#5la-sociedad-cultural "5. La Sociedad Cultural") . 905
 
-&#160;&#160;&#160;&#160;[6. The Maintenance of Civilization](part-3/081.md#6the-maintenance-of-civilization "6. The Maintenance of Civilization") . 906
+&#160;&#160;&#160;&#160;[6. El Mantenimiento de la Civilización](part-3/081.md#6el-mantenimiento-de-la-civilización "6. El Mantenimiento de la Civilización") . 906
 
-082 . <a href="part-3/082.md" title="The Evolution of Marriage">Paper 82 · The Evolution of Marriage</a> . 913
+082 . <a href="part-3/082.md" title="La Evolución del Matrimonio">Documento 82 · La Evolución del Matrimonio</a> . 913
 
-&#160;&#160;&#160;&#160;[1. The Mating Instinct](part-3/082.md#1the-mating-instinct "1. The Mating Instinct") . 913
+&#160;&#160;&#160;&#160;[1. El Instinto de Apareamiento](part-3/082.md#1el-instinto-de-apareamiento "1. El Instinto de Apareamiento") . 913
 
-&#160;&#160;&#160;&#160;[2. The Restrictive Taboos](part-3/082.md#2the-restrictive-taboos "2. The Restrictive Taboos") . 914
+&#160;&#160;&#160;&#160;[2. Los Tabúes Restrictivos](part-3/082.md#2los-tabúes-restrictivos "2. Los Tabúes Restrictivos") . 914
 
-&#160;&#160;&#160;&#160;[3. Early Marriage Mores](part-3/082.md#3early-marriage-mores "3. Early Marriage Mores") . 915
+&#160;&#160;&#160;&#160;[3. Las Primitivas Costumbres Matrimoniales](part-3/082.md#3las-primitivas-costumbres-matrimoniales "3. Las Primitivas Costumbres Matrimoniales") . 915
 
-&#160;&#160;&#160;&#160;[4. Marriage Under the Property Mores](part-3/082.md#4marriage-under-the-property-mores "4. Marriage Under the Property Mores") . 917
+&#160;&#160;&#160;&#160;[4. El Matrimonio Bajo las Costumbres de la Propiedad Privada](part-3/082.md#4el-matrimonio-bajo-las-costumbres-de-la-propiedad-privada "4. El Matrimonio Bajo las Costumbres de la Propiedad Privada") . 917
 
-&#160;&#160;&#160;&#160;[5. Endogamy and Exogamy](part-3/082.md#5endogamy-and-exogamy "5. Endogamy and Exogamy") . 918
+&#160;&#160;&#160;&#160;[5. La Endogamia y la Exogamia](part-3/082.md#5la-endogamia-y-la-exogamia "5. La Endogamia y la Exogamia") . 918
 
-&#160;&#160;&#160;&#160;[6. Racial Mixtures](part-3/082.md#6racial-mixtures "6. Racial Mixtures") . 919
+&#160;&#160;&#160;&#160;[6. Las Mezclas Raciales](part-3/082.md#6las-mezclas-raciales "6. Las Mezclas Raciales") . 919
 
-083 . <a href="part-3/083.md" title="The Marriage Institution">Paper 83 · The Marriage Institution</a> . 922
+083 . <a href="part-3/083.md" title="La Institución del Matrimonio">Documento 83 · La Institución del Matrimonio</a> . 922
 
-&#160;&#160;&#160;&#160;[1. Marriage as a Societal Institution](part-3/083.md#1marriage-as-a-societal-institution "1. Marriage as a Societal Institution") . 922
+&#160;&#160;&#160;&#160;[1. El Matrimonio como Institución de la Sociedad](part-3/083.md#1el-matrimonio-como-institución-de-la-sociedad "1. El Matrimonio como Institución de la Sociedad") . 922
 
-&#160;&#160;&#160;&#160;[2. Courtship and Betrothal](part-3/083.md#2courtship-and-betrothal "2. Courtship and Betrothal") . 923
+&#160;&#160;&#160;&#160;[2. El Galanteo y el Compromiso](part-3/083.md#2el-galanteo-y-el-compromiso "2. El Galanteo y el Compromiso") . 923
 
-&#160;&#160;&#160;&#160;[3. Purchase and Dowry](part-3/083.md#3purchase-and-dowry "3. Purchase and Dowry") . 923
+&#160;&#160;&#160;&#160;[3. La Compra de la Novia y la Dote](part-3/083.md#3la-compra-de-la-novia-y-la-dote "3. La Compra de la Novia y la Dote") . 923
 
-&#160;&#160;&#160;&#160;[4. The Wedding Ceremony](part-3/083.md#4the-wedding-ceremony "4. The Wedding Ceremony") . 924
+&#160;&#160;&#160;&#160;[4. La Ceremonia Nupcial](part-3/083.md#4la-ceremonia-nupcial "4. La Ceremonia Nupcial") . 924
 
-&#160;&#160;&#160;&#160;[5. Plural Marriages](part-3/083.md#5plural-marriages "5. Plural Marriages") . 925
+&#160;&#160;&#160;&#160;[5. Los Matrimonios Plurales](part-3/083.md#5los-matrimonios-plurales "5. Los Matrimonios Plurales") . 925
 
-&#160;&#160;&#160;&#160;[6. True Monogamy—Pair Marriage](part-3/083.md#6true-monogamypair-marriage "6. True Monogamy—Pair Marriage") . 927
+&#160;&#160;&#160;&#160;[6. La Monogamia Auténtica — El Matrimonio en Parejas](part-3/083.md#6la-monogamia-auténtica--el-matrimonio-en-parejas "6. La Monogamia Auténtica — El Matrimonio en Parejas") . 927
 
-&#160;&#160;&#160;&#160;[7. The Dissolution of Wedlock](part-3/083.md#7the-dissolution-of-wedlock "7. The Dissolution of Wedlock") . 928
+&#160;&#160;&#160;&#160;[7. La Disolución del Vínculo Matrimonial](part-3/083.md#7la-disolución-del-vínculo-matrimonial "7. La Disolución del Vínculo Matrimonial") . 928
 
-&#160;&#160;&#160;&#160;[8. The Idealization of Marriage](part-3/083.md#8the-idealization-of-marriage "8. The Idealization of Marriage") . 929
+&#160;&#160;&#160;&#160;[8. La Idealización del Matrimonio](part-3/083.md#8la-idealización-del-matrimonio "8. La Idealización del Matrimonio") . 929
 
-084 . <a href="part-3/084.md" title="Marriage and Family Life">Paper 84 · Marriage and Family Life</a> . 931
+084 . <a href="part-3/084.md" title="Matrimonio y Vida Familiar">Documento 84 · Matrimonio y Vida Familiar</a> . 931
 
-&#160;&#160;&#160;&#160;[1. Primitive Pair Associations](part-3/084.md#1primitive-pair-associations "1. Primitive Pair Associations") . 931
+&#160;&#160;&#160;&#160;[1. Las Primitivas Asociaciones en Pareja](part-3/084.md#1las-primitivas-asociaciones-en-pareja "1. Las Primitivas Asociaciones en Pareja") . 931
 
-&#160;&#160;&#160;&#160;[2. The Early Mother-Family](part-3/084.md#2the-early-mother-family "2. The Early Mother-Family") . 932
+&#160;&#160;&#160;&#160;[2. La Primitiva Familia Materna](part-3/084.md#2la-primitiva-familia-materna "2. La Primitiva Familia Materna") . 932
 
-&#160;&#160;&#160;&#160;[3. The Family Under Father Dominance](part-3/084.md#3the-family-under-father-dominance "3. The Family Under Father Dominance") . 933
+&#160;&#160;&#160;&#160;[3. La Familia Bajo el Dominio del Padre](part-3/084.md#3la-familia-bajo-el-dominio-del-padre "3. La Familia Bajo el Dominio del Padre") . 933
 
-&#160;&#160;&#160;&#160;[4. Woman’s Status in Early Society](part-3/084.md#4womans-status-in-early-society "4. Woman’s Status in Early Society") . 935
+&#160;&#160;&#160;&#160;[4. La Posición de la Mujer en la Sociedad Primitiva](part-3/084.md#4la-posición-de-la-mujer-en-la-sociedad-primitiva "4. La Posición de la Mujer en la Sociedad Primitiva") . 935
 
-&#160;&#160;&#160;&#160;[5. Woman Under the Developing Mores](part-3/084.md#5woman-under-the-developing-mores "5. Woman Under the Developing Mores") . 936
+&#160;&#160;&#160;&#160;[5. La Mujer Bajo las Costumbres en Desarrollo](part-3/084.md#5la-mujer-bajo-las-costumbres-en-desarrollo "5. La Mujer Bajo las Costumbres en Desarrollo") . 936
 
-&#160;&#160;&#160;&#160;[6. The Partnership of Man and Woman](part-3/084.md#6the-partnership-of-man-and-woman "6. The Partnership of Man and Woman") . 938
+&#160;&#160;&#160;&#160;[6. La Asociación del Hombre y la Mujer](part-3/084.md#6la-asociación-del-hombre-y-la-mujer "6. La Asociación del Hombre y la Mujer") . 938
 
-&#160;&#160;&#160;&#160;[7. The Ideals of Family Life](part-3/084.md#7the-ideals-of-family-life "7. The Ideals of Family Life") . 939
+&#160;&#160;&#160;&#160;[7. Los Ideales de la Vida Familiar](part-3/084.md#7los-ideales-de-la-vida-familiar "7. Los Ideales de la Vida Familiar") . 939
 
-&#160;&#160;&#160;&#160;[8. Dangers of Self-Gratification](part-3/084.md#8dangers-of-self-gratification "8. Dangers of Self-Gratification") . 942
+&#160;&#160;&#160;&#160;[8. Los Peligros de la Autogratificación](part-3/084.md#8los-peligros-de-la-autogratificación "8. Los Peligros de la Autogratificación") . 942
 
-085 . <a href="part-3/085.md" title="The Origins of Worship">Paper 85 · The Origins of Worship</a> . 944
+085 . <a href="part-3/085.md" title="Los Orígenes de la Adoración">Documento 85 · Los Orígenes de la Adoración</a> . 944
 
-&#160;&#160;&#160;&#160;[1. Worship of Stones and Hills](part-3/085.md#1worship-of-stones-and-hills "1. Worship of Stones and Hills") . 944
+&#160;&#160;&#160;&#160;[1. La Adoración de las Piedras y las Colinas](part-3/085.md#1la-adoración-de-las-piedras-y-las-colinas "1. La Adoración de las Piedras y las Colinas") . 944
 
-&#160;&#160;&#160;&#160;[2. Worship of Plants and Trees](part-3/085.md#2worship-of-plants-and-trees "2. Worship of Plants and Trees") . 945
+&#160;&#160;&#160;&#160;[2. La Adoración de las Plantas y de los Árboles](part-3/085.md#2la-adoración-de-las-plantas-y-de-los-árboles "2. La Adoración de las Plantas y de los Árboles") . 945
 
-&#160;&#160;&#160;&#160;[3. The Worship of Animals](part-3/085.md#3the-worship-of-animals "3. The Worship of Animals") . 946
+&#160;&#160;&#160;&#160;[3. La Adoración de los Animales](part-3/085.md#3la-adoración-de-los-animales "3. La Adoración de los Animales") . 946
 
-&#160;&#160;&#160;&#160;[4. Worship of the Elements](part-3/085.md#4worship-of-the-elements "4. Worship of the Elements") . 946
+&#160;&#160;&#160;&#160;[4. La Adoración de los Elementos](part-3/085.md#4la-adoración-de-los-elementos "4. La Adoración de los Elementos") . 946
 
-&#160;&#160;&#160;&#160;[5. Worship of the Heavenly Bodies](part-3/085.md#5worship-of-the-heavenly-bodies "5. Worship of the Heavenly Bodies") . 947
+&#160;&#160;&#160;&#160;[5. La Adoración de los Cuerpos Celestiales](part-3/085.md#5la-adoración-de-los-cuerpos-celestiales "5. La Adoración de los Cuerpos Celestiales") . 947
 
-&#160;&#160;&#160;&#160;[6. Worship of Man](part-3/085.md#6worship-of-man "6. Worship of Man") . 948
+&#160;&#160;&#160;&#160;[6. La Adoración del Hombre](part-3/085.md#6la-adoración-del-hombre "6. La Adoración del Hombre") . 948
 
-&#160;&#160;&#160;&#160;[7. The Adjutants of Worship and Wisdom](part-3/085.md#7the-adjutants-of-worship-and-wisdom "7. The Adjutants of Worship and Wisdom") . 948
+&#160;&#160;&#160;&#160;[7. Los Ayudantes de la Adoración y de la Sabiduría](part-3/085.md#7los-ayudantes-de-la-adoración-y-de-la-sabiduría "7. Los Ayudantes de la Adoración y de la Sabiduría") . 948
 
-086 . <a href="part-3/086.md" title="Early Evolution of Religion">Paper 86 · Early Evolution of Religion</a> . 950
+086 . <a href="part-3/086.md" title="La Evolución Primitiva de la Religión">Documento 86 · La Evolución Primitiva de la Religión</a> . 950
 
-&#160;&#160;&#160;&#160;[1. Chance: Good Luck and Bad Luck](part-3/086.md#1chance-good-luck-and-bad-luck "1. Chance: Good Luck and Bad Luck") . 950
+&#160;&#160;&#160;&#160;[1. El Azar: la Buena Suerte y la Mala Suerte](part-3/086.md#1el-azar-la-buena-suerte-y-la-mala-suerte "1. El Azar: la Buena Suerte y la Mala Suerte") . 950
 
-&#160;&#160;&#160;&#160;[2. The Personification of Chance](part-3/086.md#2the-personification-of-chance "2. The Personification of Chance") . 951
+&#160;&#160;&#160;&#160;[2. La Personificación del Azar](part-3/086.md#2la-personificación-del-azar "2. La Personificación del Azar") . 951
 
-&#160;&#160;&#160;&#160;[3. Death—The Inexplicable](part-3/086.md#3deaththe-inexplicable "3. Death—The Inexplicable") . 952
+&#160;&#160;&#160;&#160;[3. La Muerte — Lo Inexplicable](part-3/086.md#3la-muerte--lo-inexplicable "3. La Muerte — Lo Inexplicable") . 952
 
-&#160;&#160;&#160;&#160;[4. The Death-Survival Concept](part-3/086.md#4the-death-survival-concept "4. The Death-Survival Concept") . 952
+&#160;&#160;&#160;&#160;[4. El Concepto de la Supervivencia de la Muerte](part-3/086.md#4el-concepto-de-la-supervivencia-de-la-muerte "4. El Concepto de la Supervivencia de la Muerte") . 952
 
-&#160;&#160;&#160;&#160;[5. The Ghost-Soul Concept](part-3/086.md#5the-ghost-soul-concept "5. The Ghost-Soul Concept") . 953
+&#160;&#160;&#160;&#160;[5. El Concepto del Alma Fantasma](part-3/086.md#5el-concepto-del-alma-fantasma "5. El Concepto del Alma Fantasma") . 953
 
-&#160;&#160;&#160;&#160;[6. The Ghost-Spirit Environment](part-3/086.md#6the-ghost-spirit-environment "6. The Ghost-Spirit Environment") . 955
+&#160;&#160;&#160;&#160;[6. El Medio Ambiente de Espíritus y Fantasmas](part-3/086.md#6el-medio-ambiente-de-espíritus-y-fantasmas "6. El Medio Ambiente de Espíritus y Fantasmas") . 955
 
-&#160;&#160;&#160;&#160;[7. The Function of Primitive Religion](part-3/086.md#7the-function-of-primitive-religion "7. The Function of Primitive Religion") . 956
+&#160;&#160;&#160;&#160;[7. La Función de la Religión Primitiva](part-3/086.md#7la-función-de-la-religión-primitiva "7. La Función de la Religión Primitiva") . 956
 
-087 . <a href="part-3/087.md" title="The Ghost Cults">Paper 87 · The Ghost Cults</a> . 958
+087 . <a href="part-3/087.md" title="Los Cultos a los Fantasmas">Documento 87 · Los Cultos a los Fantasmas</a> . 958
 
-&#160;&#160;&#160;&#160;[1. Ghost Fear](part-3/087.md#1ghost-fear "1. Ghost Fear") . 958
+&#160;&#160;&#160;&#160;[1. El Temor a los Fantasmas](part-3/087.md#1el-temor-a-los-fantasmas "1. El Temor a los Fantasmas") . 958
 
-&#160;&#160;&#160;&#160;[2. Ghost Placation](part-3/087.md#2ghost-placation "2. Ghost Placation") . 959
+&#160;&#160;&#160;&#160;[2. El Aplacamiento de los Fantasmas](part-3/087.md#2el-aplacamiento-de-los-fantasmas "2. El Aplacamiento de los Fantasmas") . 959
 
-&#160;&#160;&#160;&#160;[3. Ancestor Worship](part-3/087.md#3ancestor-worship "3. Ancestor Worship") . 960
+&#160;&#160;&#160;&#160;[3. La Adoración a los Antepasados](part-3/087.md#3la-adoración-a-los-antepasados "3. La Adoración a los Antepasados") . 960
 
-&#160;&#160;&#160;&#160;[4. Good and Bad Spirit Ghosts](part-3/087.md#4good-and-bad-spirit-ghosts "4. Good and Bad Spirit Ghosts") . 961
+&#160;&#160;&#160;&#160;[4. Los Espíritus Fantasmales Buenos y Malos](part-3/087.md#4los-espíritus-fantasmales-buenos-y-malos "4. Los Espíritus Fantasmales Buenos y Malos") . 961
 
-&#160;&#160;&#160;&#160;[5. The Advancing Ghost Cult](part-3/087.md#5the-advancing-ghost-cult "5. The Advancing Ghost Cult") . 962
+&#160;&#160;&#160;&#160;[5. El Avance del Culto a los Fantasmas](part-3/087.md#5el-avance-del-culto-a-los-fantasmas "5. El Avance del Culto a los Fantasmas") . 962
 
-&#160;&#160;&#160;&#160;[6. Coercion and Exorcism](part-3/087.md#6coercion-and-exorcism "6. Coercion and Exorcism") . 963
+&#160;&#160;&#160;&#160;[6. La Coerción y el Exorcismo](part-3/087.md#6la-coerción-y-el-exorcismo "6. La Coerción y el Exorcismo") . 963
 
-&#160;&#160;&#160;&#160;[7. Nature of Cultism](part-3/087.md#7nature-of-cultism "7. Nature of Cultism") . 965
+&#160;&#160;&#160;&#160;[7. La Naturaleza del Sistema de los Cultos](part-3/087.md#7la-naturaleza-del-sistema-de-los-cultos "7. La Naturaleza del Sistema de los Cultos") . 965
 
-088 . <a href="part-3/088.md" title="Fetishes, Charms, and Magic">Paper 88 · Fetishes, Charms, and Magic</a> . 967
+088 . <a href="part-3/088.md" title="Los Fetiches, los Amuletos y la Magia">Documento 88 · Los Fetiches, los Amuletos y la Magia</a> . 967
 
-&#160;&#160;&#160;&#160;[1. Belief in Fetishes](part-3/088.md#1belief-in-fetishes "1. Belief in Fetishes") . 967
+&#160;&#160;&#160;&#160;[1. La Creencia en los Fetiches](part-3/088.md#1la-creencia-en-los-fetiches "1. La Creencia en los Fetiches") . 967
 
-&#160;&#160;&#160;&#160;[2. Evolution of the Fetish](part-3/088.md#2evolution-of-the-fetish "2. Evolution of the Fetish") . 968
+&#160;&#160;&#160;&#160;[2. La Evolución del Fetiche](part-3/088.md#2la-evolución-del-fetiche "2. La Evolución del Fetiche") . 968
 
-&#160;&#160;&#160;&#160;[3. Totemism](part-3/088.md#3totemism "3. Totemism") . 970
+&#160;&#160;&#160;&#160;[3. El Totemismo](part-3/088.md#3el-totemismo "3. El Totemismo") . 970
 
-&#160;&#160;&#160;&#160;[4. Magic](part-3/088.md#4magic "4. Magic") . 970
+&#160;&#160;&#160;&#160;[4. La Magia](part-3/088.md#4la-magia "4. La Magia") . 970
 
-&#160;&#160;&#160;&#160;[5. Magical Charms](part-3/088.md#5magical-charms "5. Magical Charms") . 971
+&#160;&#160;&#160;&#160;[5. Los Amuletos Mágicos](part-3/088.md#5los-amuletos-mágicos "5. Los Amuletos Mágicos") . 971
 
-&#160;&#160;&#160;&#160;[6. The Practice of Magic](part-3/088.md#6the-practice-of-magic "6. The Practice of Magic") . 972
+&#160;&#160;&#160;&#160;[6. La Práctica de la Magia](part-3/088.md#6la-práctica-de-la-magia "6. La Práctica de la Magia") . 972
 
-089 . <a href="part-3/089.md" title="Sin, Sacrifice, and Atonement">Paper 89 · Sin, Sacrifice, and Atonement</a> . 974
+089 . <a href="part-3/089.md" title="El Pecado, el Sacrificio y la Expiación">Documento 89 · El Pecado, el Sacrificio y la Expiación</a> . 974
 
-&#160;&#160;&#160;&#160;[1. The Taboo](part-3/089.md#1the-taboo "1. The Taboo") . 974
+&#160;&#160;&#160;&#160;[1. El Tabú](part-3/089.md#1el-tabú "1. El Tabú") . 974
 
-&#160;&#160;&#160;&#160;[2. The Concept of Sin](part-3/089.md#2the-concept-of-sin "2. The Concept of Sin") . 975
+&#160;&#160;&#160;&#160;[2. El Concepto del Pecado](part-3/089.md#2el-concepto-del-pecado "2. El Concepto del Pecado") . 975
 
-&#160;&#160;&#160;&#160;[3. Renunciation and Humiliation](part-3/089.md#3renunciation-and-humiliation "3. Renunciation and Humiliation") . 976
+&#160;&#160;&#160;&#160;[3. El Renunciamiento y la Humillación](part-3/089.md#3el-renunciamiento-y-la-humillación "3. El Renunciamiento y la Humillación") . 976
 
-&#160;&#160;&#160;&#160;[4. Origins of Sacrifice](part-3/089.md#4origins-of-sacrifice "4. Origins of Sacrifice") . 977
+&#160;&#160;&#160;&#160;[4. Los Orígenes del Sacrificio](part-3/089.md#4los-orígenes-del-sacrificio "4. Los Orígenes del Sacrificio") . 977
 
-&#160;&#160;&#160;&#160;[5. Sacrifices and Cannibalism](part-3/089.md#5sacrifices-and-cannibalism "5. Sacrifices and Cannibalism") . 978
+&#160;&#160;&#160;&#160;[5. Los Sacrificios y el Canibalismo](part-3/089.md#5los-sacrificios-y-el-canibalismo "5. Los Sacrificios y el Canibalismo") . 978
 
-&#160;&#160;&#160;&#160;[6. Evolution of Human Sacrifice](part-3/089.md#6evolution-of-human-sacrifice "6. Evolution of Human Sacrifice") . 980
+&#160;&#160;&#160;&#160;[6. La Evolución del Sacrificio Humano](part-3/089.md#6la-evolución-del-sacrificio-humano "6. La Evolución del Sacrificio Humano") . 980
 
-&#160;&#160;&#160;&#160;[7. Modifications of Human Sacrifice](part-3/089.md#7modifications-of-human-sacrifice "7. Modifications of Human Sacrifice") . 981
+&#160;&#160;&#160;&#160;[7. Las Modificaciones del Sacrificio Humano](part-3/089.md#7las-modificaciones-del-sacrificio-humano "7. Las Modificaciones del Sacrificio Humano") . 981
 
-&#160;&#160;&#160;&#160;[8. Redemption and Covenants](part-3/089.md#8redemption-and-covenants "8. Redemption and Covenants") . 982
+&#160;&#160;&#160;&#160;[8. La Redención y los Pactos](part-3/089.md#8la-redención-y-los-pactos "8. La Redención y los Pactos") . 982
 
-&#160;&#160;&#160;&#160;[9. Sacrifices and Sacraments](part-3/089.md#9sacrifices-and-sacraments "9. Sacrifices and Sacraments") . 983
+&#160;&#160;&#160;&#160;[9. Los Sacrificios y los Sacramentos](part-3/089.md#9los-sacrificios-y-los-sacramentos "9. Los Sacrificios y los Sacramentos") . 983
 
-&#160;&#160;&#160;&#160;[10. Forgiveness of Sin](part-3/089.md#10forgiveness-of-sin "10. Forgiveness of Sin") . 984
+&#160;&#160;&#160;&#160;[10. La Remisión del Pecado](part-3/089.md#10la-remisión-del-pecado "10. La Remisión del Pecado") . 984
 
-090 . <a href="part-3/090.md" title="Shamanism—Medicine Men and Priests">Paper 90 · Shamanism—Medicine Men and Priests</a> . 986
+090 . <a href="part-3/090.md" title="El Shamanismo — Los Curanderos y los Sacerdotes">Documento 90 · El Shamanismo — Los Curanderos y los Sacerdotes</a> . 986
 
-&#160;&#160;&#160;&#160;[1. The First Shamans—The Medicine Men](part-3/090.md#1the-first-shamansthe-medicine-men "1. The First Shamans—The Medicine Men") . 986
+&#160;&#160;&#160;&#160;[1. Los Primeros Shamanes — Los Curanderos](part-3/090.md#1los-primeros-shamanes--los-curanderos "1. Los Primeros Shamanes — Los Curanderos") . 986
 
-&#160;&#160;&#160;&#160;[2. Shamanistic Practices](part-3/090.md#2shamanistic-practices "2. Shamanistic Practices") . 987
+&#160;&#160;&#160;&#160;[2. Las Prácticas Shamanísticas](part-3/090.md#2las-prácticas-shamanísticas "2. Las Prácticas Shamanísticas") . 987
 
-&#160;&#160;&#160;&#160;[3. The Shamanic Theory of Disease and Death](part-3/090.md#3the-shamanic-theory-of-disease-and-death "3. The Shamanic Theory of Disease and Death") . 989
+&#160;&#160;&#160;&#160;[3. La Teoría Shamánica de la Enfermedad y de la Muerte](part-3/090.md#3la-teoría-shamánica-de-la-enfermedad-y-de-la-muerte "3. La Teoría Shamánica de la Enfermedad y de la Muerte") . 989
 
-&#160;&#160;&#160;&#160;[4. Medicine Under the Shamans](part-3/090.md#4medicine-under-the-shamans "4. Medicine Under the Shamans") . 990
+&#160;&#160;&#160;&#160;[4. La Medicina Bajo los Shamanes](part-3/090.md#4la-medicina-bajo-los-shamanes "4. La Medicina Bajo los Shamanes") . 990
 
-&#160;&#160;&#160;&#160;[5. Priests and Rituals](part-3/090.md#5priests-and-rituals "5. Priests and Rituals") . 992
+&#160;&#160;&#160;&#160;[5. Los Sacerdotes y los Ritos](part-3/090.md#5los-sacerdotes-y-los-ritos "5. Los Sacerdotes y los Ritos") . 992
 
-091 . <a href="part-3/091.md" title="The Evolution of Prayer">Paper 91 · The Evolution of Prayer</a> . 994
+091 . <a href="part-3/091.md" title="La Evolución de la Oración">Documento 91 · La Evolución de la Oración</a> . 994
 
-&#160;&#160;&#160;&#160;[1. Primitive Prayer](part-3/091.md#1primitive-prayer "1. Primitive Prayer") . 994
+&#160;&#160;&#160;&#160;[1. La Oración Primitiva](part-3/091.md#1la-oración-primitiva "1. La Oración Primitiva") . 994
 
-&#160;&#160;&#160;&#160;[2. Evolving Prayer](part-3/091.md#2evolving-prayer "2. Evolving Prayer") . 995
+&#160;&#160;&#160;&#160;[2. La Evolución de la Oración](part-3/091.md#2la-evolución-de-la-oración "2. La Evolución de la Oración") . 995
 
-&#160;&#160;&#160;&#160;[3. Prayer and the Alter Ego](part-3/091.md#3prayer-and-the-alter-ego "3. Prayer and the Alter Ego") . 996
+&#160;&#160;&#160;&#160;[3. La Oración y el Otro Yo](part-3/091.md#3la-oración-y-el-otro-yo "3. La Oración y el Otro Yo") . 996
 
-&#160;&#160;&#160;&#160;[4. Ethical Praying](part-3/091.md#4ethical-praying "4. Ethical Praying") . 997
+&#160;&#160;&#160;&#160;[4. La Oración Ética](part-3/091.md#4la-oración-ética "4. La Oración Ética") . 997
 
-&#160;&#160;&#160;&#160;[5. Social Repercussions of Prayer](part-3/091.md#5social-repercussions-of-prayer "5. Social Repercussions of Prayer") . 998
+&#160;&#160;&#160;&#160;[5. Las Repercusiones Sociales de la Oración](part-3/091.md#5las-repercusiones-sociales-de-la-oración "5. Las Repercusiones Sociales de la Oración") . 998
 
-&#160;&#160;&#160;&#160;[6. The Province of Prayer](part-3/091.md#6the-province-of-prayer "6. The Province of Prayer") . 999
+&#160;&#160;&#160;&#160;[6. La Esfera de Acción de la Oración](part-3/091.md#6la-esfera-de-acción-de-la-oración "6. La Esfera de Acción de la Oración") . 999
 
-&#160;&#160;&#160;&#160;[7. Mysticism, Ecstasy, and Inspiration](part-3/091.md#7mysticism-ecstasy-and-inspiration "7. Mysticism, Ecstasy, and Inspiration") . 1000
+&#160;&#160;&#160;&#160;[7. El Misticismo, el Éxtasis y la Inspiración](part-3/091.md#7el-misticismo-el-éxtasis-y-la-inspiración "7. El Misticismo, el Éxtasis y la Inspiración") . 1000
 
-&#160;&#160;&#160;&#160;[8. Praying as a Personal Experience](part-3/091.md#8praying-as-a-personal-experience "8. Praying as a Personal Experience") . 1001
+&#160;&#160;&#160;&#160;[8. La Oración como Experiencia Personal](part-3/091.md#8la-oración-como-experiencia-personal "8. La Oración como Experiencia Personal") . 1001
 
-&#160;&#160;&#160;&#160;[9. Conditions of Effective Prayer](part-3/091.md#9conditions-of-effective-prayer "9. Conditions of Effective Prayer") . 1002
+&#160;&#160;&#160;&#160;[9. Las Condiciones para que la Oración Sea Eficaz](part-3/091.md#9las-condiciones-para-que-la-oración-sea-eficaz "9. Las Condiciones para que la Oración Sea Eficaz") . 1002
 
-092 . <a href="part-3/092.md" title="The Later Evolution of Religion">Paper 92 · The Later Evolution of Religion</a> . 1003
+092 . <a href="part-3/092.md" title="La Evolución Ulterior de la Religión">Documento 92 · La Evolución Ulterior de la Religión</a> . 1003
 
-&#160;&#160;&#160;&#160;[1. The Evolutionary Nature of Religion](part-3/092.md#1the-evolutionary-nature-of-religion "1. The Evolutionary Nature of Religion") . 1003
+&#160;&#160;&#160;&#160;[1. La Naturaleza Evolucionaria de la Religión](part-3/092.md#1la-naturaleza-evolucionaria-de-la-religión "1. La Naturaleza Evolucionaria de la Religión") . 1003
 
-&#160;&#160;&#160;&#160;[2. Religion and the Mores](part-3/092.md#2religion-and-the-mores "2. Religion and the Mores") . 1004
+&#160;&#160;&#160;&#160;[2. La Religión y las Costumbres Establecidas](part-3/092.md#2la-religión-y-las-costumbres-establecidas "2. La Religión y las Costumbres Establecidas") . 1004
 
-&#160;&#160;&#160;&#160;[3. The Nature of Evolutionary Religion](part-3/092.md#3the-nature-of-evolutionary-religion "3. The Nature of Evolutionary Religion") . 1005
+&#160;&#160;&#160;&#160;[3. La Naturaleza de la Religión Evolucionaria](part-3/092.md#3la-naturaleza-de-la-religión-evolucionaria "3. La Naturaleza de la Religión Evolucionaria") . 1005
 
-&#160;&#160;&#160;&#160;[4. The Gift of Revelation](part-3/092.md#4the-gift-of-revelation "4. The Gift of Revelation") . 1007
+&#160;&#160;&#160;&#160;[4. El Don de la Revelación](part-3/092.md#4el-don-de-la-revelación "4. El Don de la Revelación") . 1007
 
-&#160;&#160;&#160;&#160;[5. The Great Religious Leaders](part-3/092.md#5the-great-religious-leaders "5. The Great Religious Leaders") . 1008
+&#160;&#160;&#160;&#160;[5. Los Grandes Líderes Religiosos](part-3/092.md#5los-grandes-líderes-religiosos "5. Los Grandes Líderes Religiosos") . 1008
 
-&#160;&#160;&#160;&#160;[6. The Composite Religions](part-3/092.md#6the-composite-religions "6. The Composite Religions") . 1010
+&#160;&#160;&#160;&#160;[6. Las Religiones Compuestas](part-3/092.md#6las-religiones-compuestas "6. Las Religiones Compuestas") . 1010
 
-&#160;&#160;&#160;&#160;[7. The Further Evolution of Religion](part-3/092.md#7the-further-evolution-of-religion "7. The Further Evolution of Religion") . 1012
+&#160;&#160;&#160;&#160;[7. La Evolución Ulterior de la Religión](part-3/092.md#7la-evolución-ulterior-de-la-religión "7. La Evolución Ulterior de la Religión") . 1012
 
-093 . <a href="part-3/093.md" title="Machiventa Melchizedek">Paper 93 · Machiventa Melchizedek</a> . 1014
+093 . <a href="part-3/093.md" title="Maquiventa Melquisedek">Documento 93 · Maquiventa Melquisedek</a> . 1014
 
-&#160;&#160;&#160;&#160;[1. The Machiventa Incarnation](part-3/093.md#1the-machiventa-incarnation "1. The Machiventa Incarnation") . 1014
+&#160;&#160;&#160;&#160;[1. La Encarnación de Maquiventa](part-3/093.md#1la-encarnación-de-maquiventa "1. La Encarnación de Maquiventa") . 1014
 
-&#160;&#160;&#160;&#160;[2. The Sage of Salem](part-3/093.md#2the-sage-of-salem "2. The Sage of Salem") . 1015
+&#160;&#160;&#160;&#160;[2. El Sabio de Salem](part-3/093.md#2el-sabio-de-salem "2. El Sabio de Salem") . 1015
 
-&#160;&#160;&#160;&#160;[3. Melchizedek’s Teachings](part-3/093.md#3melchizedeks-teachings "3. Melchizedek’s Teachings") . 1016
+&#160;&#160;&#160;&#160;[3. Las Enseñanzas de Melquisedek](part-3/093.md#3las-enseñanzas-de-melquisedek "3. Las Enseñanzas de Melquisedek") . 1016
 
-&#160;&#160;&#160;&#160;[4. The Salem Religion](part-3/093.md#4the-salem-religion "4. The Salem Religion") . 1017
+&#160;&#160;&#160;&#160;[4. La Religión de Salem](part-3/093.md#4la-religión-de-salem "4. La Religión de Salem") . 1017
 
-&#160;&#160;&#160;&#160;[5. The Selection of Abraham](part-3/093.md#5the-selection-of-abraham "5. The Selection of Abraham") . 1018
+&#160;&#160;&#160;&#160;[5. La Selección de Abraham](part-3/093.md#5la-selección-de-abraham "5. La Selección de Abraham") . 1018
 
-&#160;&#160;&#160;&#160;[6. Melchizedek’s Covenant with Abraham](part-3/093.md#6melchizedeks-covenant-with-abraham "6. Melchizedek’s Covenant with Abraham") . 1020
+&#160;&#160;&#160;&#160;[6. El Pacto de Melquisedek con Abraham](part-3/093.md#6el-pacto-de-melquisedek-con-abraham "6. El Pacto de Melquisedek con Abraham") . 1020
 
-&#160;&#160;&#160;&#160;[7. The Melchizedek Missionaries](part-3/093.md#7the-melchizedek-missionaries "7. The Melchizedek Missionaries") . 1021
+&#160;&#160;&#160;&#160;[7. Los Misioneros Melquisedek](part-3/093.md#7los-misioneros-melquisedek "7. Los Misioneros Melquisedek") . 1021
 
-&#160;&#160;&#160;&#160;[8. Departure of Melchizedek](part-3/093.md#8departure-of-melchizedek "8. Departure of Melchizedek") . 1022
+&#160;&#160;&#160;&#160;[8. La Partida de Melquisedek](part-3/093.md#8la-partida-de-melquisedek "8. La Partida de Melquisedek") . 1022
 
-&#160;&#160;&#160;&#160;[9. After Melchizedek’s Departure](part-3/093.md#9after-melchizedeks-departure "9. After Melchizedek’s Departure") . 1022
+&#160;&#160;&#160;&#160;[9. Después de la Partida de Melquisedek](part-3/093.md#9después-de-la-partida-de-melquisedek "9. Después de la Partida de Melquisedek") . 1022
 
-&#160;&#160;&#160;&#160;[10. Present Status of Machiventa Melchizedek](part-3/093.md#10present-status-of-machiventa-melchizedek "10. Present Status of Machiventa Melchizedek") . 1024
+&#160;&#160;&#160;&#160;[10. El Presente Estado de Maquiventa Melquisedek](part-3/093.md#10el-presente-estado-de-maquiventa-melquisedek "10. El Presente Estado de Maquiventa Melquisedek") . 1024
 
-094 . <a href="part-3/094.md" title="The Melchizedek Teachings in the Orient">Paper 94 · The Melchizedek Teachings in the Orient</a> . 1027
+094 . <a href="part-3/094.md" title="Las Enseñanzas de Melquisedek en el Oriente">Documento 94 · Las Enseñanzas de Melquisedek en el Oriente</a> . 1027
 
-&#160;&#160;&#160;&#160;[1. The Salem Teachings in Vedic India](part-3/094.md#1the-salem-teachings-in-vedic-india "1. The Salem Teachings in Vedic India") . 1027
+&#160;&#160;&#160;&#160;[1. Las Enseñanzas de Salem en la India Védica](part-3/094.md#1las-enseñanzas-de-salem-en-la-india-védica "1. Las Enseñanzas de Salem en la India Védica") . 1027
 
-&#160;&#160;&#160;&#160;[2. Brahmanism](part-3/094.md#2brahmanism "2. Brahmanism") . 1028
+&#160;&#160;&#160;&#160;[2. El Brahmanismo](part-3/094.md#2el-brahmanismo "2. El Brahmanismo") . 1028
 
-&#160;&#160;&#160;&#160;[3. Brahmanic Philosophy](part-3/094.md#3brahmanic-philosophy "3. Brahmanic Philosophy") . 1030
+&#160;&#160;&#160;&#160;[3. La Filosofía Brahmánica](part-3/094.md#3la-filosofía-brahmánica "3. La Filosofía Brahmánica") . 1030
 
-&#160;&#160;&#160;&#160;[4. The Hindu Religion](part-3/094.md#4the-hindu-religion "4. The Hindu Religion") . 1031
+&#160;&#160;&#160;&#160;[4. La Religión Hindú](part-3/094.md#4la-religión-hindú "4. La Religión Hindú") . 1031
 
-&#160;&#160;&#160;&#160;[5. The Struggle for Truth in China](part-3/094.md#5the-struggle-for-truth-in-china "5. The Struggle for Truth in China") . 1032
+&#160;&#160;&#160;&#160;[5. La Lucha por la Verdad en la China](part-3/094.md#5la-lucha-por-la-verdad-en-la-china "5. La Lucha por la Verdad en la China") . 1032
 
-&#160;&#160;&#160;&#160;[6. Lao-Tse and Confucius](part-3/094.md#6lao-tse-and-confucius "6. Lao-Tse and Confucius") . 1033
+&#160;&#160;&#160;&#160;[6. Lao-Tse y Confucio](part-3/094.md#6lao-tse-y-confucio "6. Lao-Tse y Confucio") . 1033
 
-&#160;&#160;&#160;&#160;[7. Gautama Siddhartha](part-3/094.md#7gautama-siddhartha "7. Gautama Siddhartha") . 1035
+&#160;&#160;&#160;&#160;[7. Gautama Siddharta](part-3/094.md#7gautama-siddharta "7. Gautama Siddharta") . 1035
 
-&#160;&#160;&#160;&#160;[8. The Buddhist Faith](part-3/094.md#8the-buddhist-faith "8. The Buddhist Faith") . 1036
+&#160;&#160;&#160;&#160;[8. La Fe Budista](part-3/094.md#8la-fe-budista "8. La Fe Budista") . 1036
 
-&#160;&#160;&#160;&#160;[9. The Spread of Buddhism](part-3/094.md#9the-spread-of-buddhism "9. The Spread of Buddhism") . 1037
+&#160;&#160;&#160;&#160;[9. La Difusión del Budismo](part-3/094.md#9la-difusión-del-budismo "9. La Difusión del Budismo") . 1037
 
-&#160;&#160;&#160;&#160;[10. Religion in Tibet](part-3/094.md#10religion-in-tibet "10. Religion in Tibet") . 1038
+&#160;&#160;&#160;&#160;[10. La Religión en el Tíbet](part-3/094.md#10la-religión-en-el-tíbet "10. La Religión en el Tíbet") . 1038
 
-&#160;&#160;&#160;&#160;[11. Buddhist Philosophy](part-3/094.md#11buddhist-philosophy "11. Buddhist Philosophy") . 1038
+&#160;&#160;&#160;&#160;[11. La Filosofía Budista](part-3/094.md#11la-filosofía-budista "11. La Filosofía Budista") . 1038
 
-&#160;&#160;&#160;&#160;[12. The God Concept of Buddhism](part-3/094.md#12the-god-concept-of-buddhism "12. The God Concept of Buddhism") . 1040
+&#160;&#160;&#160;&#160;[12. El Concepto Budista de Dios](part-3/094.md#12el-concepto-budista-de-dios "12. El Concepto Budista de Dios") . 1040
 
-095 . <a href="part-3/095.md" title="The Melchizedek Teachings in the Levant">Paper 95 · The Melchizedek Teachings in the Levant</a> . 1042
+095 . <a href="part-3/095.md" title="Las Enseñanzas de Melquisedek en el Levante">Documento 95 · Las Enseñanzas de Melquisedek en el Levante</a> . 1042
 
-&#160;&#160;&#160;&#160;[1. The Salem Religion in Mesopotamia](part-3/095.md#1the-salem-religion-in-mesopotamia "1. The Salem Religion in Mesopotamia") . 1042
+&#160;&#160;&#160;&#160;[1. La Religión de Salem en Mesopotamia](part-3/095.md#1la-religión-de-salem-en-mesopotamia "1. La Religión de Salem en Mesopotamia") . 1042
 
-&#160;&#160;&#160;&#160;[2. Early Egyptian Religion](part-3/095.md#2early-egyptian-religion "2. Early Egyptian Religion") . 1043
+&#160;&#160;&#160;&#160;[2. La Primitiva Religión Egipcia](part-3/095.md#2la-primitiva-religión-egipcia "2. La Primitiva Religión Egipcia") . 1043
 
-&#160;&#160;&#160;&#160;[3. Evolution of Moral Concepts](part-3/095.md#3evolution-of-moral-concepts "3. Evolution of Moral Concepts") . 1045
+&#160;&#160;&#160;&#160;[3. La Evolución de los Conceptos Morales](part-3/095.md#3la-evolución-de-los-conceptos-morales "3. La Evolución de los Conceptos Morales") . 1045
 
-&#160;&#160;&#160;&#160;[4. The Teachings of Amenemope](part-3/095.md#4the-teachings-of-amenemope "4. The Teachings of Amenemope") . 1046
+&#160;&#160;&#160;&#160;[4. Las Enseñanzas de Amenemope](part-3/095.md#4las-enseñanzas-de-amenemope "4. Las Enseñanzas de Amenemope") . 1046
 
-&#160;&#160;&#160;&#160;[5. The Remarkable Ikhnaton](part-3/095.md#5the-remarkable-ikhnaton "5. The Remarkable Ikhnaton") . 1047
+&#160;&#160;&#160;&#160;[5. El Notable Ikhnatón](part-3/095.md#5el-notable-ikhnatón "5. El Notable Ikhnatón") . 1047
 
-&#160;&#160;&#160;&#160;[6. The Salem Doctrines in Iran](part-3/095.md#6the-salem-doctrines-in-iran "6. The Salem Doctrines in Iran") . 1049
+&#160;&#160;&#160;&#160;[6. Las Doctrinas de Salem en Irán](part-3/095.md#6las-doctrinas-de-salem-en-irán "6. Las Doctrinas de Salem en Irán") . 1049
 
-&#160;&#160;&#160;&#160;[7. The Salem Teachings in Arabia](part-3/095.md#7the-salem-teachings-in-arabia "7. The Salem Teachings in Arabia") . 1050
+&#160;&#160;&#160;&#160;[7. Las Enseñanzas de Salem en Arabia](part-3/095.md#7las-enseñanzas-de-salem-en-arabia "7. Las Enseñanzas de Salem en Arabia") . 1050
 
-096 . <a href="part-3/096.md" title="Yahweh—God of the Hebrews">Paper 96 · Yahweh—God of the Hebrews</a> . 1052
+096 . <a href="part-3/096.md" title="Yahvé — El Dios de los Hebreos">Documento 96 · Yahvé — El Dios de los Hebreos</a> . 1052
 
-&#160;&#160;&#160;&#160;[1. Deity Concepts Among the Semites](part-3/096.md#1deity-concepts-among-the-semites "1. Deity Concepts Among the Semites") . 1052
+&#160;&#160;&#160;&#160;[1. Los Conceptos de la Deidad Entre los Semitas](part-3/096.md#1los-conceptos-de-la-deidad-entre-los-semitas "1. Los Conceptos de la Deidad Entre los Semitas") . 1052
 
-&#160;&#160;&#160;&#160;[2. The Semitic Peoples](part-3/096.md#2the-semitic-peoples "2. The Semitic Peoples") . 1054
+&#160;&#160;&#160;&#160;[2. Los Pueblos Semitas](part-3/096.md#2los-pueblos-semitas "2. Los Pueblos Semitas") . 1054
 
-&#160;&#160;&#160;&#160;[3. The Matchless Moses](part-3/096.md#3the-matchless-moses "3. The Matchless Moses") . 1055
+&#160;&#160;&#160;&#160;[3. El Incomparable Moisés](part-3/096.md#3el-incomparable-moisés "3. El Incomparable Moisés") . 1055
 
-&#160;&#160;&#160;&#160;[4. The Proclamation of Yahweh](part-3/096.md#4the-proclamation-of-yahweh "4. The Proclamation of Yahweh") . 1056
+&#160;&#160;&#160;&#160;[4. La Proclamación de Yahvé](part-3/096.md#4la-proclamación-de-yahvé "4. La Proclamación de Yahvé") . 1056
 
-&#160;&#160;&#160;&#160;[5. The Teachings of Moses](part-3/096.md#5the-teachings-of-moses "5. The Teachings of Moses") . 1057
+&#160;&#160;&#160;&#160;[5. Las Enseñanzas de Moisés](part-3/096.md#5las-enseñanzas-de-moisés "5. Las Enseñanzas de Moisés") . 1057
 
-&#160;&#160;&#160;&#160;[6. The God Concept After Moses’ Death](part-3/096.md#6the-god-concept-after-moses-death "6. The God Concept After Moses’ Death") . 1059
+&#160;&#160;&#160;&#160;[6. El Concepto de Dios Después de la Muerte de Moisés](part-3/096.md#6el-concepto-de-dios-después-de-la-muerte-de-moisés "6. El Concepto de Dios Después de la Muerte de Moisés") . 1059
 
-&#160;&#160;&#160;&#160;[7. Psalms and the Book of Job](part-3/096.md#7psalms-and-the-book-of-job "7. Psalms and the Book of Job") . 1060
+&#160;&#160;&#160;&#160;[7. Los Salmos y el libro de Job](part-3/096.md#7los-salmos-y-el-libro-de-job "7. Los Salmos y el libro de Job") . 1060
 
-097 . <a href="part-3/097.md" title="Evolution of the God Concept Among the Hebrews">Paper 97 · Evolution of the God Concept Among the Hebrews</a> . 1062
+097 . <a href="part-3/097.md" title="Evolución del Concepto de Dios Entre los Hebreos">Documento 97 · Evolución del Concepto de Dios Entre los Hebreos</a> . 1062
 
-&#160;&#160;&#160;&#160;[1. Samuel—First of the Hebrew Prophets](part-3/097.md#1samuelfirst-of-the-hebrew-prophets "1. Samuel—First of the Hebrew Prophets") . 1062
+&#160;&#160;&#160;&#160;[1. Samuel — El Primero de los Profetas Hebreos](part-3/097.md#1samuel--el-primero-de-los-profetas-hebreos "1. Samuel — El Primero de los Profetas Hebreos") . 1062
 
-&#160;&#160;&#160;&#160;[2. Elijah and Elisha](part-3/097.md#2elijah-and-elisha "2. Elijah and Elisha") . 1064
+&#160;&#160;&#160;&#160;[2. Elías y Eliseo](part-3/097.md#2elías-y-eliseo "2. Elías y Eliseo") . 1064
 
-&#160;&#160;&#160;&#160;[3. Yahweh and Baal](part-3/097.md#3yahweh-and-baal "3. Yahweh and Baal") . 1064
+&#160;&#160;&#160;&#160;[3. Yahvé y Baal](part-3/097.md#3yahvé-y-baal "3. Yahvé y Baal") . 1064
 
-&#160;&#160;&#160;&#160;[4. Amos and Hosea](part-3/097.md#4amos-and-hosea "4. Amos and Hosea") . 1065
+&#160;&#160;&#160;&#160;[4. Amós y Oseás](part-3/097.md#4amós-y-oseás "4. Amós y Oseás") . 1065
 
-&#160;&#160;&#160;&#160;[5. The First Isaiah](part-3/097.md#5the-first-isaiah "5. The First Isaiah") . 1066
+&#160;&#160;&#160;&#160;[5. El Primer Isaías](part-3/097.md#5el-primer-isaías "5. El Primer Isaías") . 1066
 
-&#160;&#160;&#160;&#160;[6. Jeremiah the Fearless](part-3/097.md#6jeremiah-the-fearless "6. Jeremiah the Fearless") . 1067
+&#160;&#160;&#160;&#160;[6. Jeremiás el Intrépido](part-3/097.md#6jeremiás-el-intrépido "6. Jeremiás el Intrépido") . 1067
 
-&#160;&#160;&#160;&#160;[7. The Second Isaiah](part-3/097.md#7the-second-isaiah "7. The Second Isaiah") . 1068
+&#160;&#160;&#160;&#160;[7. El Segundo Isaías](part-3/097.md#7el-segundo-isaías "7. El Segundo Isaías") . 1068
 
-&#160;&#160;&#160;&#160;[8. Sacred and Profane History](part-3/097.md#8sacred-and-profane-history "8. Sacred and Profane History") . 1070
+&#160;&#160;&#160;&#160;[8. La Historia Sagrada y la Profana](part-3/097.md#8la-historia-sagrada-y-la-profana "8. La Historia Sagrada y la Profana") . 1070
 
-&#160;&#160;&#160;&#160;[9. Hebrew History](part-3/097.md#9hebrew-history "9. Hebrew History") . 1071
+&#160;&#160;&#160;&#160;[9. La Historia Hebrea](part-3/097.md#9la-historia-hebrea "9. La Historia Hebrea") . 1071
 
-&#160;&#160;&#160;&#160;[10. The Hebrew Religion](part-3/097.md#10the-hebrew-religion "10. The Hebrew Religion") . 1075
+&#160;&#160;&#160;&#160;[10. La Religión Hebrea](part-3/097.md#10la-religión-hebrea "10. La Religión Hebrea") . 1075
 
-098 . <a href="part-3/098.md" title="The Melchizedek Teachings in the Occident">Paper 98 · The Melchizedek Teachings in the Occident</a> . 1077
+098 . <a href="part-3/098.md" title="Las Enseñanzas de Melquisedek en el Occidente">Documento 98 · Las Enseñanzas de Melquisedek en el Occidente</a> . 1077
 
-&#160;&#160;&#160;&#160;[1. The Salem Religion Among the Greeks](part-3/098.md#1the-salem-religion-among-the-greeks "1. The Salem Religion Among the Greeks") . 1077
+&#160;&#160;&#160;&#160;[1. La Religión de Salem Entre los Griegos](part-3/098.md#1la-religión-de-salem-entre-los-griegos "1. La Religión de Salem Entre los Griegos") . 1077
 
-&#160;&#160;&#160;&#160;[2. Greek Philosophic Thought](part-3/098.md#2greek-philosophic-thought "2. Greek Philosophic Thought") . 1078
+&#160;&#160;&#160;&#160;[2. El Pensamiento Filosófico Griego](part-3/098.md#2el-pensamiento-filosófico-griego "2. El Pensamiento Filosófico Griego") . 1078
 
-&#160;&#160;&#160;&#160;[3. The Melchizedek Teachings in Rome](part-3/098.md#3the-melchizedek-teachings-in-rome "3. The Melchizedek Teachings in Rome") . 1080
+&#160;&#160;&#160;&#160;[3. Las Enseñanzas de Melquisedek en Roma](part-3/098.md#3las-enseñanzas-de-melquisedek-en-roma "3. Las Enseñanzas de Melquisedek en Roma") . 1080
 
-&#160;&#160;&#160;&#160;[4. The Mystery Cults](part-3/098.md#4the-mystery-cults "4. The Mystery Cults") . 1081
+&#160;&#160;&#160;&#160;[4. Los Cultos de Misterio](part-3/098.md#4los-cultos-de-misterio "4. Los Cultos de Misterio") . 1081
 
-&#160;&#160;&#160;&#160;[5. The Cult of Mithras](part-3/098.md#5the-cult-of-mithras "5. The Cult of Mithras") . 1082
+&#160;&#160;&#160;&#160;[5. El Culto de Mitras](part-3/098.md#5el-culto-de-mitras "5. El Culto de Mitras") . 1082
 
-&#160;&#160;&#160;&#160;[6. Mithraism and Christianity](part-3/098.md#6mithraism-and-christianity "6. Mithraism and Christianity") . 1083
+&#160;&#160;&#160;&#160;[6. El Mitraísmo y el Cristianismo](part-3/098.md#6el-mitraísmo-y-el-cristianismo "6. El Mitraísmo y el Cristianismo") . 1083
 
-&#160;&#160;&#160;&#160;[7. The Christian Religion](part-3/098.md#7the-christian-religion "7. The Christian Religion") . 1083
+&#160;&#160;&#160;&#160;[7. La Religión Cristiana](part-3/098.md#7la-religión-cristiana "7. La Religión Cristiana") . 1083
 
-099 . <a href="part-3/099.md" title="The Social Problems of Religion">Paper 99 · The Social Problems of Religion</a> . 1086
+099 . <a href="part-3/099.md" title="Los Problemas Sociales de la Religión">Documento 99 · Los Problemas Sociales de la Religión</a> . 1086
 
-&#160;&#160;&#160;&#160;[1. Religion and Social Reconstruction](part-3/099.md#1religion-and-social-reconstruction "1. Religion and Social Reconstruction") . 1086
+&#160;&#160;&#160;&#160;[1. La Religión y la Reconstrucción Social](part-3/099.md#1la-religión-y-la-reconstrucción-social "1. La Religión y la Reconstrucción Social") . 1086
 
-&#160;&#160;&#160;&#160;[2. Weakness of Institutional Religion](part-3/099.md#2weakness-of-institutional-religion "2. Weakness of Institutional Religion") . 1087
+&#160;&#160;&#160;&#160;[2. La Debilidad de la Religión Institucional](part-3/099.md#2la-debilidad-de-la-religión-institucional "2. La Debilidad de la Religión Institucional") . 1087
 
-&#160;&#160;&#160;&#160;[3. Religion and the Religionist](part-3/099.md#3religion-and-the-religionist "3. Religion and the Religionist") . 1088
+&#160;&#160;&#160;&#160;[3. La Religión y el Religionista](part-3/099.md#3la-religión-y-el-religionista "3. La Religión y el Religionista") . 1088
 
-&#160;&#160;&#160;&#160;[4. Transition Difficulties](part-3/099.md#4transition-difficulties "4. Transition Difficulties") . 1089
+&#160;&#160;&#160;&#160;[4. Las Dificultades de la Transición](part-3/099.md#4las-dificultades-de-la-transición "4. Las Dificultades de la Transición") . 1089
 
-&#160;&#160;&#160;&#160;[5. Social Aspects of Religion](part-3/099.md#5social-aspects-of-religion "5. Social Aspects of Religion") . 1090
+&#160;&#160;&#160;&#160;[5. Los Aspectos Sociales de la Religión](part-3/099.md#5los-aspectos-sociales-de-la-religión "5. Los Aspectos Sociales de la Religión") . 1090
 
-&#160;&#160;&#160;&#160;[6. Institutional Religion](part-3/099.md#6institutional-religion "6. Institutional Religion") . 1092
+&#160;&#160;&#160;&#160;[6. La Religión Institucional](part-3/099.md#6la-religión-institucional "6. La Religión Institucional") . 1092
 
-&#160;&#160;&#160;&#160;[7. Religion’s Contribution](part-3/099.md#7religions-contribution "7. Religion’s Contribution") . 1092
+&#160;&#160;&#160;&#160;[7. La Contribución de la Religión](part-3/099.md#7la-contribución-de-la-religión "7. La Contribución de la Religión") . 1092
 
-100 . <a href="part-3/100.md" title="Religion in Human Experience">Paper 100 · Religion in Human Experience</a> . 1094
+100 . <a href="part-3/100.md" title="La Religión en la Experiencia Humana">Documento 100 · La Religión en la Experiencia Humana</a> . 1094
 
-&#160;&#160;&#160;&#160;[1. Religious Growth](part-3/100.md#1religious-growth "1. Religious Growth") . 1094
+&#160;&#160;&#160;&#160;[1. El Crecimiento Religioso](part-3/100.md#1el-crecimiento-religioso "1. El Crecimiento Religioso") . 1094
 
-&#160;&#160;&#160;&#160;[2. Spiritual Growth](part-3/100.md#2spiritual-growth "2. Spiritual Growth") . 1095
+&#160;&#160;&#160;&#160;[2. El Crecimiento Espiritual](part-3/100.md#2el-crecimiento-espiritual "2. El Crecimiento Espiritual") . 1095
 
-&#160;&#160;&#160;&#160;[3. Concepts of Supreme Value](part-3/100.md#3concepts-of-supreme-value "3. Concepts of Supreme Value") . 1096
+&#160;&#160;&#160;&#160;[3. Los Conceptos de Valor Supremo](part-3/100.md#3los-conceptos-de-valor-supremo "3. Los Conceptos de Valor Supremo") . 1096
 
-&#160;&#160;&#160;&#160;[4. Problems of Growth](part-3/100.md#4problems-of-growth "4. Problems of Growth") . 1097
+&#160;&#160;&#160;&#160;[4. Los Problemas del Crecimiento](part-3/100.md#4los-problemas-del-crecimiento "4. Los Problemas del Crecimiento") . 1097
 
-&#160;&#160;&#160;&#160;[5. Conversion and Mysticism](part-3/100.md#5conversion-and-mysticism "5. Conversion and Mysticism") . 1098
+&#160;&#160;&#160;&#160;[5. La Conversión y el Misticismo](part-3/100.md#5la-conversión-y-el-misticismo "5. La Conversión y el Misticismo") . 1098
 
-&#160;&#160;&#160;&#160;[6. Marks of Religious Living](part-3/100.md#6marks-of-religious-living "6. Marks of Religious Living") . 1100
+&#160;&#160;&#160;&#160;[6. Las Marcas del Vivir Religioso](part-3/100.md#6las-marcas-del-vivir-religioso "6. Las Marcas del Vivir Religioso") . 1100
 
-&#160;&#160;&#160;&#160;[7. The Acme of Religious Living](part-3/100.md#7the-acme-of-religious-living "7. The Acme of Religious Living") . 1101
+&#160;&#160;&#160;&#160;[7. La Cumbre del Vivir Religioso](part-3/100.md#7la-cumbre-del-vivir-religioso "7. La Cumbre del Vivir Religioso") . 1101
 
-101 . <a href="part-3/101.md" title="The Real Nature of Religion">Paper 101 · The Real Nature of Religion</a> . 1104
+101 . <a href="part-3/101.md" title="La Verdadera Naturaleza de la Religión">Documento 101 · La Verdadera Naturaleza de la Religión</a> . 1104
 
-&#160;&#160;&#160;&#160;[1. True Religion](part-3/101.md#1true-religion "1. True Religion") . 1104
+&#160;&#160;&#160;&#160;[1. La Verdadera Religión](part-3/101.md#1la-verdadera-religión "1. La Verdadera Religión") . 1104
 
-&#160;&#160;&#160;&#160;[2. The Fact of Religion](part-3/101.md#2the-fact-of-religion "2. The Fact of Religion") . 1105
+&#160;&#160;&#160;&#160;[2. El Hecho de la Religión](part-3/101.md#2el-hecho-de-la-religión "2. El Hecho de la Religión") . 1105
 
-&#160;&#160;&#160;&#160;[3. The Characteristics of Religion](part-3/101.md#3the-characteristics-of-religion "3. The Characteristics of Religion") . 1107
+&#160;&#160;&#160;&#160;[3. Las Características de la Religión](part-3/101.md#3las-características-de-la-religión "3. Las Características de la Religión") . 1107
 
-&#160;&#160;&#160;&#160;[4. The Limitations of Revelation](part-3/101.md#4the-limitations-of-revelation "4. The Limitations of Revelation") . 1109
+&#160;&#160;&#160;&#160;[4. Las Limitaciones de la Revelación](part-3/101.md#4las-limitaciones-de-la-revelación "4. Las Limitaciones de la Revelación") . 1109
 
-&#160;&#160;&#160;&#160;[5. Religion Expanded by Revelation](part-3/101.md#5religion-expanded-by-revelation "5. Religion Expanded by Revelation") . 1110
+&#160;&#160;&#160;&#160;[5. La Religión Ampliada por la Revelación](part-3/101.md#5la-religión-ampliada-por-la-revelación "5. La Religión Ampliada por la Revelación") . 1110
 
-&#160;&#160;&#160;&#160;[6. Progressive Religious Experience](part-3/101.md#6progressive-religious-experience "6. Progressive Religious Experience") . 1111
+&#160;&#160;&#160;&#160;[6. La Experiencia Religiosa Progresiva](part-3/101.md#6la-experiencia-religiosa-progresiva "6. La Experiencia Religiosa Progresiva") . 1111
 
-&#160;&#160;&#160;&#160;[7. A Personal Philosophy of Religion](part-3/101.md#7a-personal-philosophy-of-religion "7. A Personal Philosophy of Religion") . 1113
+&#160;&#160;&#160;&#160;[7. Una Filosofía Personal de la Religión](part-3/101.md#7una-filosofía-personal-de-la-religión "7. Una Filosofía Personal de la Religión") . 1113
 
-&#160;&#160;&#160;&#160;[8. Faith and Belief](part-3/101.md#8faith-and-belief "8. Faith and Belief") . 1114
+&#160;&#160;&#160;&#160;[8. La Fe y la Creencia](part-3/101.md#8la-fe-y-la-creencia "8. La Fe y la Creencia") . 1114
 
-&#160;&#160;&#160;&#160;[9. Religion and Morality](part-3/101.md#9religion-and-morality "9. Religion and Morality") . 1115
+&#160;&#160;&#160;&#160;[9. La Religión y la Moralidad](part-3/101.md#9la-religión-y-la-moralidad "9. La Religión y la Moralidad") . 1115
 
-&#160;&#160;&#160;&#160;[10. Religion as Man’s Liberator](part-3/101.md#10religion-as-mans-liberator "10. Religion as Man’s Liberator") . 1116
+&#160;&#160;&#160;&#160;[10. La Religión como Libertadora del Hombre](part-3/101.md#10la-religión-como-libertadora-del-hombre "10. La Religión como Libertadora del Hombre") . 1116
 
-102 . <a href="part-3/102.md" title="The Foundations of Religious Faith">Paper 102 · The Foundations of Religious Faith</a> . 1118
+102 . <a href="part-3/102.md" title="Los Cimientos de la Fe Religiosa">Documento 102 · Los Cimientos de la Fe Religiosa</a> . 1118
 
-&#160;&#160;&#160;&#160;[1. Assurances of Faith](part-3/102.md#1assurances-of-faith "1. Assurances of Faith") . 1118
+&#160;&#160;&#160;&#160;[1. La Seguridad de la Fe](part-3/102.md#1la-seguridad-de-la-fe "1. La Seguridad de la Fe") . 1118
 
-&#160;&#160;&#160;&#160;[2. Religion and Reality](part-3/102.md#2religion-and-reality "2. Religion and Reality") . 1119
+&#160;&#160;&#160;&#160;[2. La Religión y la Realidad](part-3/102.md#2la-religión-y-la-realidad "2. La Religión y la Realidad") . 1119
 
-&#160;&#160;&#160;&#160;[3. Knowledge, Wisdom, and Insight](part-3/102.md#3knowledge-wisdom-and-insight "3. Knowledge, Wisdom, and Insight") . 1121
+&#160;&#160;&#160;&#160;[3. El Conocimiento, la Sabiduría y el Discernimiento](part-3/102.md#3el-conocimiento-la-sabiduría-y-el-discernimiento "3. El Conocimiento, la Sabiduría y el Discernimiento") . 1121
 
-&#160;&#160;&#160;&#160;[4. The Fact of Experience](part-3/102.md#4the-fact-of-experience "4. The Fact of Experience") . 1123
+&#160;&#160;&#160;&#160;[4. El Hecho de la Experiencia](part-3/102.md#4el-hecho-de-la-experiencia "4. El Hecho de la Experiencia") . 1123
 
-&#160;&#160;&#160;&#160;[5. The Supremacy of Purposive Potential](part-3/102.md#5the-supremacy-of-purposive-potential "5. The Supremacy of Purposive Potential") . 1123
+&#160;&#160;&#160;&#160;[5. La Supremacía del Potencial con Propósito](part-3/102.md#5la-supremacía-del-potencial-con-propósito "5. La Supremacía del Potencial con Propósito") . 1123
 
-&#160;&#160;&#160;&#160;[6. The Certainty of Religious Faith](part-3/102.md#6the-certainty-of-religious-faith "6. The Certainty of Religious Faith") . 1124
+&#160;&#160;&#160;&#160;[6. La Certeza de la Fe Religiosa](part-3/102.md#6la-certeza-de-la-fe-religiosa "6. La Certeza de la Fe Religiosa") . 1124
 
-&#160;&#160;&#160;&#160;[7. The Certitude of the Divine](part-3/102.md#7the-certitude-of-the-divine "7. The Certitude of the Divine") . 1126
+&#160;&#160;&#160;&#160;[7. La Certidumbre de lo Divino](part-3/102.md#7la-certidumbre-de-lo-divino "7. La Certidumbre de lo Divino") . 1126
 
-&#160;&#160;&#160;&#160;[8. The Evidences of Religion](part-3/102.md#8the-evidences-of-religion "8. The Evidences of Religion") . 1127
+&#160;&#160;&#160;&#160;[8. Las Pruebas de la Religión](part-3/102.md#8las-pruebas-de-la-religión "8. Las Pruebas de la Religión") . 1127
 
-103 . <a href="part-3/103.md" title="The Reality of Religious Experience">Paper 103 · The Reality of Religious Experience</a> . 1129
+103 . <a href="part-3/103.md" title="La Realidad de la Experiencia Religiosa">Documento 103 · La Realidad de la Experiencia Religiosa</a> . 1129
 
-&#160;&#160;&#160;&#160;[1. Philosophy of Religion](part-3/103.md#1philosophy-of-religion "1. Philosophy of Religion") . 1129
+&#160;&#160;&#160;&#160;[1. La Filosofía de la Religión](part-3/103.md#1la-filosofía-de-la-religión "1. La Filosofía de la Religión") . 1129
 
-&#160;&#160;&#160;&#160;[2. Religion and the Individual](part-3/103.md#2religion-and-the-individual "2. Religion and the Individual") . 1130
+&#160;&#160;&#160;&#160;[2. La Religión y el Individuo](part-3/103.md#2la-religión-y-el-individuo "2. La Religión y el Individuo") . 1130
 
-&#160;&#160;&#160;&#160;[3. Religion and the Human Race](part-3/103.md#3religion-and-the-human-race "3. Religion and the Human Race") . 1132
+&#160;&#160;&#160;&#160;[3. La Religión y la Raza Humana](part-3/103.md#3la-religión-y-la-raza-humana "3. La Religión y la Raza Humana") . 1132
 
-&#160;&#160;&#160;&#160;[4. Spiritual Communion](part-3/103.md#4spiritual-communion "4. Spiritual Communion") . 1133
+&#160;&#160;&#160;&#160;[4. La Comunión Espiritual](part-3/103.md#4la-comunión-espiritual "4. La Comunión Espiritual") . 1133
 
-&#160;&#160;&#160;&#160;[5. The Origin of Ideals](part-3/103.md#5the-origin-of-ideals "5. The Origin of Ideals") . 1133
+&#160;&#160;&#160;&#160;[5. El Origen de los Ideales](part-3/103.md#5el-origen-de-los-ideales "5. El Origen de los Ideales") . 1133
 
-&#160;&#160;&#160;&#160;[6. Philosophic Co-ordination](part-3/103.md#6philosophic-co-ordination "6. Philosophic Co-ordination") . 1135
+&#160;&#160;&#160;&#160;[6. La Coordinación Filosófica](part-3/103.md#6la-coordinación-filosófica "6. La Coordinación Filosófica") . 1135
 
-&#160;&#160;&#160;&#160;[7. Science and Religion](part-3/103.md#7science-and-religion "7. Science and Religion") . 1137
+&#160;&#160;&#160;&#160;[7. La Ciencia y la Religión](part-3/103.md#7la-ciencia-y-la-religión "7. La Ciencia y la Religión") . 1137
 
-&#160;&#160;&#160;&#160;[8. Philosophy and Religion](part-3/103.md#8philosophy-and-religion "8. Philosophy and Religion") . 1140
+&#160;&#160;&#160;&#160;[8. La Filosofía y la Religión](part-3/103.md#8la-filosofía-y-la-religión "8. La Filosofía y la Religión") . 1140
 
-&#160;&#160;&#160;&#160;[9. The Essence of Religion](part-3/103.md#9the-essence-of-religion "9. The Essence of Religion") . 1140
+&#160;&#160;&#160;&#160;[9. La Esencia de la Religión](part-3/103.md#9la-esencia-de-la-religión "9. La Esencia de la Religión") . 1140
 
-104 . <a href="part-3/104.md" title="Growth of the Trinity Concept">Paper 104 · Growth of the Trinity Concept</a> . 1143
+104 . <a href="part-3/104.md" title="El Crecimiento del Concepto de la Trinidad">Documento 104 · El Crecimiento del Concepto de la Trinidad</a> . 1143
 
-&#160;&#160;&#160;&#160;[1. Urantian Trinity Concepts](part-3/104.md#1urantian-trinity-concepts "1. Urantian Trinity Concepts") . 1143
+&#160;&#160;&#160;&#160;[1. Los Conceptos Urantianos de la Trinidad](part-3/104.md#1los-conceptos-urantianos-de-la-trinidad "1. Los Conceptos Urantianos de la Trinidad") . 1143
 
-&#160;&#160;&#160;&#160;[2. Trinity Unity and Deity Plurality](part-3/104.md#2trinity-unity-and-deity-plurality "2. Trinity Unity and Deity Plurality") . 1145
+&#160;&#160;&#160;&#160;[2. La Unidad de la Trinidad y la Pluralidad de la Deidad](part-3/104.md#2la-unidad-de-la-trinidad-y-la-pluralidad-de-la-deidad "2. La Unidad de la Trinidad y la Pluralidad de la Deidad") . 1145
 
-&#160;&#160;&#160;&#160;[3. Trinities and Triunities](part-3/104.md#3trinities-and-triunities "3. Trinities and Triunities") . 1146
+&#160;&#160;&#160;&#160;[3. Las Trinidades y las Triunidades](part-3/104.md#3las-trinidades-y-las-triunidades "3. Las Trinidades y las Triunidades") . 1146
 
-&#160;&#160;&#160;&#160;[4. The Seven Triunities](part-3/104.md#4the-seven-triunities "4. The Seven Triunities") . 1147
+&#160;&#160;&#160;&#160;[4. Las Siete Triunidades](part-3/104.md#4las-siete-triunidades "4. Las Siete Triunidades") . 1147
 
-&#160;&#160;&#160;&#160;[5. Triodities](part-3/104.md#5triodities "5. Triodities") . 1151
+&#160;&#160;&#160;&#160;[5. Las Triodidades](part-3/104.md#5las-triodidades "5. Las Triodidades") . 1151
 
-105 . <a href="part-3/105.md" title="Deity and Reality">Paper 105 · Deity and Reality</a> . 1152
+105 . <a href="part-3/105.md" title="La Deidad y la Realidad">Documento 105 · La Deidad y la Realidad</a> . 1152
 
-&#160;&#160;&#160;&#160;[1. The Philosophic Concept of the I AM](part-3/105.md#1the-philosophic-concept-of-the-i-am "1. The Philosophic Concept of the I AM") . 1152
+&#160;&#160;&#160;&#160;[1. El Concepto Filosófico del YO SOY](part-3/105.md#1el-concepto-filosófico-del-yo-soy "1. El Concepto Filosófico del YO SOY") . 1152
 
-&#160;&#160;&#160;&#160;[2. The I AM as Triune and as Sevenfold](part-3/105.md#2the-i-am-as-triune-and-as-sevenfold "2. The I AM as Triune and as Sevenfold") . 1153
+&#160;&#160;&#160;&#160;[2. El YO SOY como Triuno y Séptuple](part-3/105.md#2el-yo-soy-como-triuno-y-séptuple "2. El YO SOY como Triuno y Séptuple") . 1153
 
-&#160;&#160;&#160;&#160;[3. The Seven Absolutes of Infinity](part-3/105.md#3the-seven-absolutes-of-infinity "3. The Seven Absolutes of Infinity") . 1155
+&#160;&#160;&#160;&#160;[3. Los Siete Absolutos de la Infinidad](part-3/105.md#3los-siete-absolutos-de-la-infinidad "3. Los Siete Absolutos de la Infinidad") . 1155
 
-&#160;&#160;&#160;&#160;[4. Unity, Duality, and Triunity](part-3/105.md#4unity-duality-and-triunity "4. Unity, Duality, and Triunity") . 1157
+&#160;&#160;&#160;&#160;[4. La Unidad, la Dualidad y la Triunidad](part-3/105.md#4la-unidad-la-dualidad-y-la-triunidad "4. La Unidad, la Dualidad y la Triunidad") . 1157
 
-&#160;&#160;&#160;&#160;[5. Promulgation of Finite Reality](part-3/105.md#5promulgation-of-finite-reality "5. Promulgation of Finite Reality") . 1158
+&#160;&#160;&#160;&#160;[5. La Promulgación de la Realidad Finita](part-3/105.md#5la-promulgación-de-la-realidad-finita "5. La Promulgación de la Realidad Finita") . 1158
 
-&#160;&#160;&#160;&#160;[6. Repercussions of Finite Reality](part-3/105.md#6repercussions-of-finite-reality "6. Repercussions of Finite Reality") . 1159
+&#160;&#160;&#160;&#160;[6. Las Repercusiones de la Realidad Finita](part-3/105.md#6las-repercusiones-de-la-realidad-finita "6. Las Repercusiones de la Realidad Finita") . 1159
 
-&#160;&#160;&#160;&#160;[7. Eventuation of Transcendentals](part-3/105.md#7eventuation-of-transcendentals "7. Eventuation of Transcendentals") . 1159
+&#160;&#160;&#160;&#160;[7. La Eventuación de los Trascendentales](part-3/105.md#7la-eventuación-de-los-trascendentales "7. La Eventuación de los Trascendentales") . 1159
 
-106 . <a href="part-3/106.md" title="Universe Levels of Reality">Paper 106 · Universe Levels of Reality</a> . 1162
+106 . <a href="part-3/106.md" title="Los Niveles de la Realidad en el Universo">Documento 106 · Los Niveles de la Realidad en el Universo</a> . 1162
 
-&#160;&#160;&#160;&#160;[1. Primary Association of Finite Functionals](part-3/106.md#1primary-association-of-finite-functionals "1. Primary Association of Finite Functionals") . 1163
+&#160;&#160;&#160;&#160;[1. La Asociación Primaria de los Funcionales Finitos](part-3/106.md#1la-asociación-primaria-de-los-funcionales-finitos "1. La Asociación Primaria de los Funcionales Finitos") . 1163
 
-&#160;&#160;&#160;&#160;[2. Secondary Supreme Finite Integration](part-3/106.md#2secondary-supreme-finite-integration "2. Secondary Supreme Finite Integration") . 1164
+&#160;&#160;&#160;&#160;[2. La Integración Secundaria o Finita Suprema](part-3/106.md#2la-integración-secundaria-o-finita-suprema "2. La Integración Secundaria o Finita Suprema") . 1164
 
-&#160;&#160;&#160;&#160;[3. Transcendental Tertiary Reality Association](part-3/106.md#3transcendental-tertiary-reality-association "3. Transcendental Tertiary Reality Association") . 1165
+&#160;&#160;&#160;&#160;[3. La Asociación Terciaria Trascendental de la Realidad](part-3/106.md#3la-asociación-terciaria-trascendental-de-la-realidad "3. La Asociación Terciaria Trascendental de la Realidad") . 1165
 
-&#160;&#160;&#160;&#160;[4. Ultimate Quartan Integration](part-3/106.md#4ultimate-quartan-integration "4. Ultimate Quartan Integration") . 1166
+&#160;&#160;&#160;&#160;[4. La Integración Cuarta o Última](part-3/106.md#4la-integración-cuarta-o-última "4. La Integración Cuarta o Última") . 1166
 
-&#160;&#160;&#160;&#160;[5. Coabsolute or Fifth-Phase Association](part-3/106.md#5coabsolute-or-fifth-phase-association "5. Coabsolute or Fifth-Phase Association") . 1167
+&#160;&#160;&#160;&#160;[5. La Asociación de la Quinta Fase o Coabsoluta](part-3/106.md#5la-asociación-de-la-quinta-fase-o-coabsoluta "5. La Asociación de la Quinta Fase o Coabsoluta") . 1167
 
-&#160;&#160;&#160;&#160;[6. Absolute or Sixth-Phase Integration](part-3/106.md#6absolute-or-sixth-phase-integration "6. Absolute or Sixth-Phase Integration") . 1167
+&#160;&#160;&#160;&#160;[6. La Integración de la Sexta Fase o Absoluta](part-3/106.md#6la-integración-de-la-sexta-fase-o-absoluta "6. La Integración de la Sexta Fase o Absoluta") . 1167
 
-&#160;&#160;&#160;&#160;[7. Finality of Destiny](part-3/106.md#7finality-of-destiny "7. Finality of Destiny") . 1168
+&#160;&#160;&#160;&#160;[7. La Finalidad del Destino](part-3/106.md#7la-finalidad-del-destino "7. La Finalidad del Destino") . 1168
 
-&#160;&#160;&#160;&#160;[8. The Trinity of Trinities](part-3/106.md#8the-trinity-of-trinities "8. The Trinity of Trinities") . 1170
+&#160;&#160;&#160;&#160;[8. La Trinidad de Trinidades](part-3/106.md#8la-trinidad-de-trinidades "8. La Trinidad de Trinidades") . 1170
 
-&#160;&#160;&#160;&#160;[9. Existential Infinite Unification](part-3/106.md#9existential-infinite-unification "9. Existential Infinite Unification") . 1173
+&#160;&#160;&#160;&#160;[9. La Unificación Existencial Infinita](part-3/106.md#9la-unificación-existencial-infinita "9. La Unificación Existencial Infinita") . 1173
 
-107 . <a href="part-3/107.md" title="Origin and Nature of Thought Adjusters">Paper 107 · Origin and Nature of Thought Adjusters</a> . 1176
+107 . <a href="part-3/107.md" title="El Origen y la Naturaleza de los Ajustadores del Pensamiento">Documento 107 · El Origen y la Naturaleza de los Ajustadores del Pensamiento</a> . 1176
 
-&#160;&#160;&#160;&#160;[1. Origin of Thought Adjusters](part-3/107.md#1origin-of-thought-adjusters "1. Origin of Thought Adjusters") . 1177
+&#160;&#160;&#160;&#160;[1. El Origen de los Ajustadores del Pensamiento](part-3/107.md#1el-origen-de-los-ajustadores-del-pensamiento "1. El Origen de los Ajustadores del Pensamiento") . 1177
 
-&#160;&#160;&#160;&#160;[2. Classification of Adjusters](part-3/107.md#2classification-of-adjusters "2. Classification of Adjusters") . 1178
+&#160;&#160;&#160;&#160;[2. La Clasificación de los Ajustadores](part-3/107.md#2la-clasificación-de-los-ajustadores "2. La Clasificación de los Ajustadores") . 1178
 
-&#160;&#160;&#160;&#160;[3. The Divinington Home of Adjusters](part-3/107.md#3the-divinington-home-of-adjusters "3. The Divinington Home of Adjusters") . 1179
+&#160;&#160;&#160;&#160;[3. El Hogar de los Ajustadores en Divinington](part-3/107.md#3el-hogar-de-los-ajustadores-en-divinington "3. El Hogar de los Ajustadores en Divinington") . 1179
 
-&#160;&#160;&#160;&#160;[4. Nature and Presence of Adjusters](part-3/107.md#4nature-and-presence-of-adjusters "4. Nature and Presence of Adjusters") . 1180
+&#160;&#160;&#160;&#160;[4. La Naturaleza y la Presencia de los Ajustadores](part-3/107.md#4la-naturaleza-y-la-presencia-de-los-ajustadores "4. La Naturaleza y la Presencia de los Ajustadores") . 1180
 
-&#160;&#160;&#160;&#160;[5. Adjuster Mindedness](part-3/107.md#5adjuster-mindedness "5. Adjuster Mindedness") . 1181
+&#160;&#160;&#160;&#160;[5. Los Ajustadores Tienen Mente](part-3/107.md#5los-ajustadores-tienen-mente "5. Los Ajustadores Tienen Mente") . 1181
 
-&#160;&#160;&#160;&#160;[6. Adjusters as Pure Spirits](part-3/107.md#6adjusters-as-pure-spirits "6. Adjusters as Pure Spirits") . 1182
+&#160;&#160;&#160;&#160;[6. Los Ajustadores como Espíritus Puros](part-3/107.md#6los-ajustadores-como-espíritus-puros "6. Los Ajustadores como Espíritus Puros") . 1182
 
-&#160;&#160;&#160;&#160;[7. Adjusters and Personality](part-3/107.md#7adjusters-and-personality "7. Adjusters and Personality") . 1183
+&#160;&#160;&#160;&#160;[7. Los Ajustadores y la Personalidad](part-3/107.md#7los-ajustadores-y-la-personalidad "7. Los Ajustadores y la Personalidad") . 1183
 
-108 . <a href="part-3/108.md" title="Mission and Ministry of Thought Adjusters">Paper 108 · Mission and Ministry of Thought Adjusters</a> . 1185
+108 . <a href="part-3/108.md" title="La Misión y el Ministerio de los Ajustadores del Pensamiento">Documento 108 · La Misión y el Ministerio de los Ajustadores del Pensamiento</a> . 1185
 
-&#160;&#160;&#160;&#160;[1. Selection and Assignment](part-3/108.md#1selection-and-assignment "1. Selection and Assignment") . 1185
+&#160;&#160;&#160;&#160;[1. La Selección y la Asignación](part-3/108.md#1la-selección-y-la-asignación "1. La Selección y la Asignación") . 1185
 
-&#160;&#160;&#160;&#160;[2. Prerequisites of Adjuster Indwelling](part-3/108.md#2prerequisites-of-adjuster-indwelling "2. Prerequisites of Adjuster Indwelling") . 1186
+&#160;&#160;&#160;&#160;[2. Los Prerrequisitos para Que el Ajustador Resida en un Mortal](part-3/108.md#2los-prerrequisitos-para-que-el-ajustador-resida-en-un-mortal "2. Los Prerrequisitos para Que el Ajustador Resida en un Mortal") . 1186
 
-&#160;&#160;&#160;&#160;[3. Organization and Administration](part-3/108.md#3organization-and-administration "3. Organization and Administration") . 1188
+&#160;&#160;&#160;&#160;[3. La Organización y la Administración](part-3/108.md#3la-organización-y-la-administración "3. La Organización y la Administración") . 1188
 
-&#160;&#160;&#160;&#160;[4. Relation to Other Spiritual Influences](part-3/108.md#4relation-to-other-spiritual-influences "4. Relation to Other Spiritual Influences") . 1190
+&#160;&#160;&#160;&#160;[4. La Relación con Otras Influencias Espirituales](part-3/108.md#4la-relación-con-otras-influencias-espirituales "4. La Relación con Otras Influencias Espirituales") . 1190
 
-&#160;&#160;&#160;&#160;[5. The Adjuster’s Mission](part-3/108.md#5the-adjusters-mission "5. The Adjuster’s Mission") . 1191
+&#160;&#160;&#160;&#160;[5. La Misión de los Ajustadores](part-3/108.md#5la-misión-de-los-ajustadores "5. La Misión de los Ajustadores") . 1191
 
-&#160;&#160;&#160;&#160;[6. God in Man](part-3/108.md#6god-in-man "6. God in Man") . 1192
+&#160;&#160;&#160;&#160;[6. Dios en el Hombre](part-3/108.md#6dios-en-el-hombre "6. Dios en el Hombre") . 1192
 
-109 . <a href="part-3/109.md" title="Relation of Adjusters to Universe Creatures">Paper 109 · Relation of Adjusters to Universe Creatures</a> . 1195
+109 . <a href="part-3/109.md" title="La Relación de los Ajustadores con las Criaturas del Universo">Documento 109 · La Relación de los Ajustadores con las Criaturas del Universo</a> . 1195
 
-&#160;&#160;&#160;&#160;[1. Development of Adjusters](part-3/109.md#1development-of-adjusters "1. Development of Adjusters") . 1195
+&#160;&#160;&#160;&#160;[1. El Desarrollo de los Ajustadores](part-3/109.md#1el-desarrollo-de-los-ajustadores "1. El Desarrollo de los Ajustadores") . 1195
 
-&#160;&#160;&#160;&#160;[2. Self-Acting Adjusters](part-3/109.md#2self-acting-adjusters "2. Self-Acting Adjusters") . 1196
+&#160;&#160;&#160;&#160;[2. Los Ajustadores Autoactuantes](part-3/109.md#2los-ajustadores-autoactuantes "2. Los Ajustadores Autoactuantes") . 1196
 
-&#160;&#160;&#160;&#160;[3. Relation of Adjusters to Mortal Types](part-3/109.md#3relation-of-adjusters-to-mortal-types "3. Relation of Adjusters to Mortal Types") . 1197
+&#160;&#160;&#160;&#160;[3. La Relación de los Ajustadores con los Tipos Mortales](part-3/109.md#3la-relación-de-los-ajustadores-con-los-tipos-mortales "3. La Relación de los Ajustadores con los Tipos Mortales") . 1197
 
-&#160;&#160;&#160;&#160;[4. Adjusters and Human Personality](part-3/109.md#4adjusters-and-human-personality "4. Adjusters and Human Personality") . 1198
+&#160;&#160;&#160;&#160;[4. Los Ajustadores y la Personalidad Humana](part-3/109.md#4los-ajustadores-y-la-personalidad-humana "4. Los Ajustadores y la Personalidad Humana") . 1198
 
-&#160;&#160;&#160;&#160;[5. Material Handicaps to Adjuster Indwelling](part-3/109.md#5material-handicaps-to-adjuster-indwelling "5. Material Handicaps to Adjuster Indwelling") . 1199
+&#160;&#160;&#160;&#160;[5. Los Obstáculos Materiales Que Encuentran los Ajustadores al Residir Dentro de los Mortales](part-3/109.md#5los-obstáculos-materiales-que-encuentran-los-ajustadores-al-residir-dentro-de-los-mortales "5. Los Obstáculos Materiales Que Encuentran los Ajustadores al Residir Dentro de los Mortales") . 1199
 
-&#160;&#160;&#160;&#160;[6. The Persistence of True Values](part-3/109.md#6the-persistence-of-true-values "6. The Persistence of True Values") . 1200
+&#160;&#160;&#160;&#160;[6. La Persistencia de los Valores Verdaderos](part-3/109.md#6la-persistencia-de-los-valores-verdaderos "6. La Persistencia de los Valores Verdaderos") . 1200
 
-&#160;&#160;&#160;&#160;[7. Destiny of Personalized Adjusters](part-3/109.md#7destiny-of-personalized-adjusters "7. Destiny of Personalized Adjusters") . 1201
+&#160;&#160;&#160;&#160;[7. El Destino de los Ajustadores Personalizados](part-3/109.md#7el-destino-de-los-ajustadores-personalizados "7. El Destino de los Ajustadores Personalizados") . 1201
 
-110 . <a href="part-3/110.md" title="Relation of Adjusters to Individual Mortals">Paper 110 · Relation of Adjusters to Individual Mortals</a> . 1203
+110 . <a href="part-3/110.md" title="La Relación de los Ajustadores con los Seres Mortales">Documento 110 · La Relación de los Ajustadores con los Seres Mortales</a> . 1203
 
-&#160;&#160;&#160;&#160;[1. Indwelling the Mortal Mind](part-3/110.md#1indwelling-the-mortal-mind "1. Indwelling the Mortal Mind") . 1203
+&#160;&#160;&#160;&#160;[1. Residiendo en la Mente Mortal](part-3/110.md#1residiendo-en-la-mente-mortal "1. Residiendo en la Mente Mortal") . 1203
 
-&#160;&#160;&#160;&#160;[2. Adjusters and Human Will](part-3/110.md#2adjusters-and-human-will "2. Adjusters and Human Will") . 1204
+&#160;&#160;&#160;&#160;[2. Los Ajustadores y la Voluntad Humana](part-3/110.md#2los-ajustadores-y-la-voluntad-humana "2. Los Ajustadores y la Voluntad Humana") . 1204
 
-&#160;&#160;&#160;&#160;[3. Co-operation with the Adjuster](part-3/110.md#3co-operation-with-the-adjuster "3. Co-operation with the Adjuster") . 1205
+&#160;&#160;&#160;&#160;[3. La Cooperación con el Ajustador](part-3/110.md#3la-cooperación-con-el-ajustador "3. La Cooperación con el Ajustador") . 1205
 
-&#160;&#160;&#160;&#160;[4. The Adjuster’s Work in the Mind](part-3/110.md#4the-adjusters-work-in-the-mind "4. The Adjuster’s Work in the Mind") . 1207
+&#160;&#160;&#160;&#160;[4. La Tarea del Ajustador en la Mente](part-3/110.md#4la-tarea-del-ajustador-en-la-mente "4. La Tarea del Ajustador en la Mente") . 1207
 
-&#160;&#160;&#160;&#160;[5. Erroneous Concepts of Adjuster Guidance](part-3/110.md#5erroneous-concepts-of-adjuster-guidance "5. Erroneous Concepts of Adjuster Guidance") . 1207
+&#160;&#160;&#160;&#160;[5. Los Conceptos Erróneos de la Guía del Ajustador](part-3/110.md#5los-conceptos-erróneos-de-la-guía-del-ajustador "5. Los Conceptos Erróneos de la Guía del Ajustador") . 1207
 
-&#160;&#160;&#160;&#160;[6. The Seven Psychic Circles](part-3/110.md#6the-seven-psychic-circles "6. The Seven Psychic Circles") . 1209
+&#160;&#160;&#160;&#160;[6. Los Siete Círculos Psíquicos](part-3/110.md#6los-siete-círculos-psíquicos "6. Los Siete Círculos Psíquicos") . 1209
 
-&#160;&#160;&#160;&#160;[7. The Attainment of Immortality](part-3/110.md#7the-attainment-of-immortality "7. The Attainment of Immortality") . 1212
+&#160;&#160;&#160;&#160;[7. El Logro de la Inmortalidad](part-3/110.md#7el-logro-de-la-inmortalidad "7. El Logro de la Inmortalidad") . 1212
 
-111 . <a href="part-3/111.md" title="The Adjuster and the Soul">Paper 111 · The Adjuster and the Soul</a> . 1215
+111 . <a href="part-3/111.md" title="El Ajustador y el Alma">Documento 111 · El Ajustador y el Alma</a> . 1215
 
-&#160;&#160;&#160;&#160;[1. The Mind Arena of Choice](part-3/111.md#1the-mind-arena-of-choice "1. The Mind Arena of Choice") . 1216
+&#160;&#160;&#160;&#160;[1. La Mente, Terreno de Elección](part-3/111.md#1la-mente-terreno-de-elección "1. La Mente, Terreno de Elección") . 1216
 
-&#160;&#160;&#160;&#160;[2. Nature of the Soul](part-3/111.md#2nature-of-the-soul "2. Nature of the Soul") . 1217
+&#160;&#160;&#160;&#160;[2. La Naturaleza del Alma](part-3/111.md#2la-naturaleza-del-alma "2. La Naturaleza del Alma") . 1217
 
-&#160;&#160;&#160;&#160;[3. The Evolving Soul](part-3/111.md#3the-evolving-soul "3. The Evolving Soul") . 1218
+&#160;&#160;&#160;&#160;[3. El Alma en Evolución](part-3/111.md#3el-alma-en-evolución "3. El Alma en Evolución") . 1218
 
-&#160;&#160;&#160;&#160;[4. The Inner Life](part-3/111.md#4the-inner-life "4. The Inner Life") . 1219
+&#160;&#160;&#160;&#160;[4. La Vida Interior](part-3/111.md#4la-vida-interior "4. La Vida Interior") . 1219
 
-&#160;&#160;&#160;&#160;[5. The Consecration of Choice](part-3/111.md#5the-consecration-of-choice "5. The Consecration of Choice") . 1221
+&#160;&#160;&#160;&#160;[5. La Consagración de la Elección](part-3/111.md#5la-consagración-de-la-elección "5. La Consagración de la Elección") . 1221
 
-&#160;&#160;&#160;&#160;[6. The Human Paradox](part-3/111.md#6the-human-paradox "6. The Human Paradox") . 1221
+&#160;&#160;&#160;&#160;[6. La Paradoja Humana](part-3/111.md#6la-paradoja-humana "6. La Paradoja Humana") . 1221
 
-&#160;&#160;&#160;&#160;[7. The Adjuster’s Problem](part-3/111.md#7the-adjusters-problem "7. The Adjuster’s Problem") . 1223
+&#160;&#160;&#160;&#160;[7. El Problema del Ajustador](part-3/111.md#7el-problema-del-ajustador "7. El Problema del Ajustador") . 1223
 
-112 . <a href="part-3/112.md" title="Personality Survival">Paper 112 · Personality Survival</a> . 1225
+112 . <a href="part-3/112.md" title="La Sobrevivencia de la Personalidad">Documento 112 · La Sobrevivencia de la Personalidad</a> . 1225
 
-&#160;&#160;&#160;&#160;[1. Personality and Reality](part-3/112.md#1personality-and-reality "1. Personality and Reality") . 1226
+&#160;&#160;&#160;&#160;[1. La Personalidad y la Realidad](part-3/112.md#1la-personalidad-y-la-realidad "1. La Personalidad y la Realidad") . 1226
 
-&#160;&#160;&#160;&#160;[2. The Self](part-3/112.md#2the-self "2. The Self") . 1227
+&#160;&#160;&#160;&#160;[2. El Yo](part-3/112.md#2el-yo "2. El Yo") . 1227
 
-&#160;&#160;&#160;&#160;[3. The Phenomenon of Death](part-3/112.md#3the-phenomenon-of-death "3. The Phenomenon of Death") . 1229
+&#160;&#160;&#160;&#160;[3. El Fenómeno de la Muerte](part-3/112.md#3el-fenómeno-de-la-muerte "3. El Fenómeno de la Muerte") . 1229
 
-&#160;&#160;&#160;&#160;[4. Adjusters After Death](part-3/112.md#4adjusters-after-death "4. Adjusters After Death") . 1231
+&#160;&#160;&#160;&#160;[4. Los Ajustadores Después de la Muerte](part-3/112.md#4los-ajustadores-después-de-la-muerte "4. Los Ajustadores Después de la Muerte") . 1231
 
-&#160;&#160;&#160;&#160;[5. Survival of the Human Self](part-3/112.md#5survival-of-the-human-self "5. Survival of the Human Self") . 1232
+&#160;&#160;&#160;&#160;[5. La Supervivencia del Yo Humano](part-3/112.md#5la-supervivencia-del-yo-humano "5. La Supervivencia del Yo Humano") . 1232
 
-&#160;&#160;&#160;&#160;[6. The Morontia Self](part-3/112.md#6the-morontia-self "6. The Morontia Self") . 1235
+&#160;&#160;&#160;&#160;[6. El Yo Morontial](part-3/112.md#6el-yo-morontial "6. El Yo Morontial") . 1235
 
-&#160;&#160;&#160;&#160;[7. Adjuster Fusion](part-3/112.md#7adjuster-fusion "7. Adjuster Fusion") . 1237
+&#160;&#160;&#160;&#160;[7. La Fusión con el Ajustador](part-3/112.md#7la-fusión-con-el-ajustador "7. La Fusión con el Ajustador") . 1237
 
-113 . <a href="part-3/113.md" title="Seraphic Guardians of Destiny">Paper 113 · Seraphic Guardians of Destiny</a> . 1241
+113 . <a href="part-3/113.md" title="Los Guardianes Seráficos del Destino">Documento 113 · Los Guardianes Seráficos del Destino</a> . 1241
 
-&#160;&#160;&#160;&#160;[1. The Guardian Angels](part-3/113.md#1the-guardian-angels "1. The Guardian Angels") . 1241
+&#160;&#160;&#160;&#160;[1. Los Ángeles Guardianes](part-3/113.md#1los-ángeles-guardianes "1. Los Ángeles Guardianes") . 1241
 
-&#160;&#160;&#160;&#160;[2. The Destiny Guardians](part-3/113.md#2the-destiny-guardians "2. The Destiny Guardians") . 1242
+&#160;&#160;&#160;&#160;[2. Los Guardianes del Destino](part-3/113.md#2los-guardianes-del-destino "2. Los Guardianes del Destino") . 1242
 
-&#160;&#160;&#160;&#160;[3. Relation to Other Spirit Influences](part-3/113.md#3relation-to-other-spirit-influences "3. Relation to Other Spirit Influences") . 1244
+&#160;&#160;&#160;&#160;[3. La Relación con Otras Influencias Espirituales](part-3/113.md#3la-relación-con-otras-influencias-espirituales "3. La Relación con Otras Influencias Espirituales") . 1244
 
-&#160;&#160;&#160;&#160;[4. Seraphic Domains of Action](part-3/113.md#4seraphic-domains-of-action "4. Seraphic Domains of Action") . 1245
+&#160;&#160;&#160;&#160;[4. Los Dominios de Acción Seráfica](part-3/113.md#4los-dominios-de-acción-seráfica "4. Los Dominios de Acción Seráfica") . 1245
 
-&#160;&#160;&#160;&#160;[5. Seraphic Ministry to Mortals](part-3/113.md#5seraphic-ministry-to-mortals "5. Seraphic Ministry to Mortals") . 1245
+&#160;&#160;&#160;&#160;[5. El Ministerio Seráfico a los Mortales](part-3/113.md#5el-ministerio-seráfico-a-los-mortales "5. El Ministerio Seráfico a los Mortales") . 1245
 
-&#160;&#160;&#160;&#160;[6. Guardian Angels After Death](part-3/113.md#6guardian-angels-after-death "6. Guardian Angels After Death") . 1246
+&#160;&#160;&#160;&#160;[6. Los Ángeles Guardianes Después de la Muerte](part-3/113.md#6los-ángeles-guardianes-después-de-la-muerte "6. Los Ángeles Guardianes Después de la Muerte") . 1246
 
-&#160;&#160;&#160;&#160;[7. Seraphim and the Ascendant Career](part-3/113.md#7seraphim-and-the-ascendant-career "7. Seraphim and the Ascendant Career") . 1248
+&#160;&#160;&#160;&#160;[7. Los Serafines y la Carrera Ascendente](part-3/113.md#7los-serafines-y-la-carrera-ascendente "7. Los Serafines y la Carrera Ascendente") . 1248
 
-114 . <a href="part-3/114.md" title="Seraphic Planetary Government">Paper 114 · Seraphic Planetary Government</a> . 1250
+114 . <a href="part-3/114.md" title="El Gobierno Planetario Seráfico">Documento 114 · El Gobierno Planetario Seráfico</a> . 1250
 
-&#160;&#160;&#160;&#160;[1. The Sovereignty of Urantia](part-3/114.md#1the-sovereignty-of-urantia "1. The Sovereignty of Urantia") . 1250
+&#160;&#160;&#160;&#160;[1. La Soberanía de Urantia](part-3/114.md#1la-soberanía-de-urantia "1. La Soberanía de Urantia") . 1250
 
-&#160;&#160;&#160;&#160;[2. The Board of Planetary Supervisors](part-3/114.md#2the-board-of-planetary-supervisors "2. The Board of Planetary Supervisors") . 1251
+&#160;&#160;&#160;&#160;[2. El Consejo de Supervisores Planetarios](part-3/114.md#2el-consejo-de-supervisores-planetarios "2. El Consejo de Supervisores Planetarios") . 1251
 
-&#160;&#160;&#160;&#160;[3. The Resident Governor General](part-3/114.md#3the-resident-governor-general "3. The Resident Governor General") . 1252
+&#160;&#160;&#160;&#160;[3. El Gobernador General Residente](part-3/114.md#3el-gobernador-general-residente "3. El Gobernador General Residente") . 1252
 
-&#160;&#160;&#160;&#160;[4. The Most High Observer](part-3/114.md#4the-most-high-observer "4. The Most High Observer") . 1253
+&#160;&#160;&#160;&#160;[4. El Altísimo Observador](part-3/114.md#4el-altísimo-observador "4. El Altísimo Observador") . 1253
 
-&#160;&#160;&#160;&#160;[5. The Planetary Government](part-3/114.md#5the-planetary-government "5. The Planetary Government") . 1254
+&#160;&#160;&#160;&#160;[5. El Gobierno Planetario](part-3/114.md#5el-gobierno-planetario "5. El Gobierno Planetario") . 1254
 
-&#160;&#160;&#160;&#160;[6. The Master Seraphim of Planetary Supervision](part-3/114.md#6the-master-seraphim-of-planetary-supervision "6. The Master Seraphim of Planetary Supervision") . 1254
+&#160;&#160;&#160;&#160;[6. Los Serafines Decanos de la Supervisión Planetaria](part-3/114.md#6los-serafines-decanos-de-la-supervisión-planetaria "6. Los Serafines Decanos de la Supervisión Planetaria") . 1254
 
-&#160;&#160;&#160;&#160;[7. The Reserve Corps of Destiny](part-3/114.md#7the-reserve-corps-of-destiny "7. The Reserve Corps of Destiny") . 1257
+&#160;&#160;&#160;&#160;[7. El Cuerpo de Reserva del Destino](part-3/114.md#7el-cuerpo-de-reserva-del-destino "7. El Cuerpo de Reserva del Destino") . 1257
 
-115 . <a href="part-3/115.md" title="The Supreme Being">Paper 115 · The Supreme Being</a> . 1260
+115 . <a href="part-3/115.md" title="El Ser Supremo">Documento 115 · El Ser Supremo</a> . 1260
 
-&#160;&#160;&#160;&#160;[1. Relativity of Concept Frames](part-3/115.md#1relativity-of-concept-frames "1. Relativity of Concept Frames") . 1260
+&#160;&#160;&#160;&#160;[1. La Relatividad de los Marcos Conceptuales](part-3/115.md#1la-relatividad-de-los-marcos-conceptuales "1. La Relatividad de los Marcos Conceptuales") . 1260
 
-&#160;&#160;&#160;&#160;[2. The Absolute Basis for Supremacy](part-3/115.md#2the-absolute-basis-for-supremacy "2. The Absolute Basis for Supremacy") . 1261
+&#160;&#160;&#160;&#160;[2. La Base Absoluta para la Supremacía](part-3/115.md#2la-base-absoluta-para-la-supremacía "2. La Base Absoluta para la Supremacía") . 1261
 
-&#160;&#160;&#160;&#160;[3. Original, Actual, and Potential](part-3/115.md#3original-actual-and-potential "3. Original, Actual, and Potential") . 1261
+&#160;&#160;&#160;&#160;[3. Lo Original, lo Actual y lo Potencial](part-3/115.md#3lo-original-lo-actual-y-lo-potencial "3. Lo Original, lo Actual y lo Potencial") . 1261
 
-&#160;&#160;&#160;&#160;[4. Sources of Supreme Reality](part-3/115.md#4sources-of-supreme-reality "4. Sources of Supreme Reality") . 1263
+&#160;&#160;&#160;&#160;[4. Las Fuentes de la Realidad Suprema](part-3/115.md#4las-fuentes-de-la-realidad-suprema "4. Las Fuentes de la Realidad Suprema") . 1263
 
-&#160;&#160;&#160;&#160;[5. Relation of the Supreme to the Paradise Trinity](part-3/115.md#5relation-of-the-supreme-to-the-paradise-trinity "5. Relation of the Supreme to the Paradise Trinity") . 1264
+&#160;&#160;&#160;&#160;[5. La Relación del Supremo con la Trinidad del Paraíso](part-3/115.md#5la-relación-del-supremo-con-la-trinidad-del-paraíso "5. La Relación del Supremo con la Trinidad del Paraíso") . 1264
 
-&#160;&#160;&#160;&#160;[6. Relation of the Supreme to the Triodities](part-3/115.md#6relation-of-the-supreme-to-the-triodities "6. Relation of the Supreme to the Triodities") . 1265
+&#160;&#160;&#160;&#160;[6. La Relación del Supremo con las Triodidades](part-3/115.md#6la-relación-del-supremo-con-las-triodidades "6. La Relación del Supremo con las Triodidades") . 1265
 
-&#160;&#160;&#160;&#160;[7. The Nature of the Supreme](part-3/115.md#7the-nature-of-the-supreme "7. The Nature of the Supreme") . 1266
+&#160;&#160;&#160;&#160;[7. La Naturaleza del Supremo](part-3/115.md#7la-naturaleza-del-supremo "7. La Naturaleza del Supremo") . 1266
 
-116 . <a href="part-3/116.md" title="The Almighty Supreme">Paper 116 · The Almighty Supreme</a> . 1268
+116 . <a href="part-3/116.md" title="El Supremo Todopoderoso">Documento 116 · El Supremo Todopoderoso</a> . 1268
 
-&#160;&#160;&#160;&#160;[1. The Supreme Mind](part-3/116.md#1the-supreme-mind "1. The Supreme Mind") . 1268
+&#160;&#160;&#160;&#160;[1. La Mente Suprema](part-3/116.md#1la-mente-suprema "1. La Mente Suprema") . 1268
 
-&#160;&#160;&#160;&#160;[2. The Almighty and God the Sevenfold](part-3/116.md#2the-almighty-and-god-the-sevenfold "2. The Almighty and God the Sevenfold") . 1269
+&#160;&#160;&#160;&#160;[2. El Todopoderoso y Dios el Séptuple](part-3/116.md#2el-todopoderoso-y-dios-el-séptuple "2. El Todopoderoso y Dios el Séptuple") . 1269
 
-&#160;&#160;&#160;&#160;[3. The Almighty and Paradise Deity](part-3/116.md#3the-almighty-and-paradise-deity "3. The Almighty and Paradise Deity") . 1270
+&#160;&#160;&#160;&#160;[3. El Todopoderoso y la Deidad del Paraíso](part-3/116.md#3el-todopoderoso-y-la-deidad-del-paraíso "3. El Todopoderoso y la Deidad del Paraíso") . 1270
 
-&#160;&#160;&#160;&#160;[4. The Almighty and the Supreme Creators](part-3/116.md#4the-almighty-and-the-supreme-creators "4. The Almighty and the Supreme Creators") . 1271
+&#160;&#160;&#160;&#160;[4. El Todopoderoso y los Creadores Supremos](part-3/116.md#4el-todopoderoso-y-los-creadores-supremos "4. El Todopoderoso y los Creadores Supremos") . 1271
 
-&#160;&#160;&#160;&#160;[5. The Almighty and the Sevenfold Controllers](part-3/116.md#5the-almighty-and-the-sevenfold-controllers "5. The Almighty and the Sevenfold Controllers") . 1273
+&#160;&#160;&#160;&#160;[5. El Todopoderoso y los Controladores Séptuples](part-3/116.md#5el-todopoderoso-y-los-controladores-séptuples "5. El Todopoderoso y los Controladores Séptuples") . 1273
 
-&#160;&#160;&#160;&#160;[6. Spirit Dominance](part-3/116.md#6spirit-dominance "6. Spirit Dominance") . 1275
+&#160;&#160;&#160;&#160;[6. La Dominación del Espíritu](part-3/116.md#6la-dominación-del-espíritu "6. La Dominación del Espíritu") . 1275
 
-&#160;&#160;&#160;&#160;[7. The Living Organism of the Grand Universe](part-3/116.md#7the-living-organism-of-the-grand-universe "7. The Living Organism of the Grand Universe") . 1276
+&#160;&#160;&#160;&#160;[7. El Organismo Viviente del Gran Universo](part-3/116.md#7el-organismo-viviente-del-gran-universo "7. El Organismo Viviente del Gran Universo") . 1276
 
-117 . <a href="part-3/117.md" title="God the Supreme">Paper 117 · God the Supreme</a> . 1278
+117 . <a href="part-3/117.md" title="Dios el Supremo">Documento 117 · Dios el Supremo</a> . 1278
 
-&#160;&#160;&#160;&#160;[1. Nature of the Supreme Being](part-3/117.md#1nature-of-the-supreme-being "1. Nature of the Supreme Being") . 1278
+&#160;&#160;&#160;&#160;[1. La Naturaleza del Ser Supremo](part-3/117.md#1la-naturaleza-del-ser-supremo "1. La Naturaleza del Ser Supremo") . 1278
 
-&#160;&#160;&#160;&#160;[2. The Source of Evolutionary Growth](part-3/117.md#2the-source-of-evolutionary-growth "2. The Source of Evolutionary Growth") . 1280
+&#160;&#160;&#160;&#160;[2. La Fuente del Crecimiento Evolucionario](part-3/117.md#2la-fuente-del-crecimiento-evolucionario "2. La Fuente del Crecimiento Evolucionario") . 1280
 
-&#160;&#160;&#160;&#160;[3. Significance of the Supreme to Universe Creatures](part-3/117.md#3significance-of-the-supreme-to-universe-creatures "3. Significance of the Supreme to Universe Creatures") . 1281
+&#160;&#160;&#160;&#160;[3. El Significado del Supremo para las Criaturas del Universo](part-3/117.md#3el-significado-del-supremo-para-las-criaturas-del-universo "3. El Significado del Supremo para las Criaturas del Universo") . 1281
 
-&#160;&#160;&#160;&#160;[4. The Finite God](part-3/117.md#4the-finite-god "4. The Finite God") . 1283
+&#160;&#160;&#160;&#160;[4. El Dios Finito](part-3/117.md#4el-dios-finito "4. El Dios Finito") . 1283
 
-&#160;&#160;&#160;&#160;[5. The Oversoul of Creation](part-3/117.md#5the-oversoul-of-creation "5. The Oversoul of Creation") . 1285
+&#160;&#160;&#160;&#160;[5. La Superalma de la Creación](part-3/117.md#5la-superalma-de-la-creación "5. La Superalma de la Creación") . 1285
 
-&#160;&#160;&#160;&#160;[6. The Quest for the Supreme](part-3/117.md#6the-quest-for-the-supreme "6. The Quest for the Supreme") . 1287
+&#160;&#160;&#160;&#160;[6. La Búsqueda del Supremo](part-3/117.md#6la-búsqueda-del-supremo "6. La Búsqueda del Supremo") . 1287
 
-&#160;&#160;&#160;&#160;[7. The Future of the Supreme](part-3/117.md#7the-future-of-the-supreme "7. The Future of the Supreme") . 1291
+&#160;&#160;&#160;&#160;[7. El Futuro del Supremo](part-3/117.md#7el-futuro-del-supremo "7. El Futuro del Supremo") . 1291
 
-118 . <a href="part-3/118.md" title="Supreme and Ultimate—Time and Space">Paper 118 · Supreme and Ultimate—Time and Space</a> . 1294
+118 . <a href="part-3/118.md" title="El Supremo y el Ultimo — El Tiempo y el Espacio">Documento 118 · El Supremo y el Ultimo — El Tiempo y el Espacio</a> . 1294
 
-&#160;&#160;&#160;&#160;[1. Time and Eternity](part-3/118.md#1time-and-eternity "1. Time and Eternity") . 1295
+&#160;&#160;&#160;&#160;[1. El Tiempo y la Eternidad](part-3/118.md#1el-tiempo-y-la-eternidad "1. El Tiempo y la Eternidad") . 1295
 
-&#160;&#160;&#160;&#160;[2. Omnipresence and Ubiquity](part-3/118.md#2omnipresence-and-ubiquity "2. Omnipresence and Ubiquity") . 1296
+&#160;&#160;&#160;&#160;[2. La Omnipresencia y la Ubicuidad](part-3/118.md#2la-omnipresencia-y-la-ubicuidad "2. La Omnipresencia y la Ubicuidad") . 1296
 
-&#160;&#160;&#160;&#160;[3. Time-Space Relationships](part-3/118.md#3time-space-relationships "3. Time-Space Relationships") . 1297
+&#160;&#160;&#160;&#160;[3. Las Relaciones Espacio-Temporales](part-3/118.md#3las-relaciones-espacio-temporales "3. Las Relaciones Espacio-Temporales") . 1297
 
-&#160;&#160;&#160;&#160;[4. Primary and Secondary Causation](part-3/118.md#4primary-and-secondary-causation "4. Primary and Secondary Causation") . 1298
+&#160;&#160;&#160;&#160;[4. La Causalidad Primaria y la Secundaria](part-3/118.md#4la-causalidad-primaria-y-la-secundaria "4. La Causalidad Primaria y la Secundaria") . 1298
 
-&#160;&#160;&#160;&#160;[5. Omnipotence and Compossibility](part-3/118.md#5omnipotence-and-compossibility "5. Omnipotence and Compossibility") . 1299
+&#160;&#160;&#160;&#160;[5. La Omnipotencia y la Composibilidad](part-3/118.md#5la-omnipotencia-y-la-composibilidad "5. La Omnipotencia y la Composibilidad") . 1299
 
-&#160;&#160;&#160;&#160;[6. Omnipotence and Omnificence](part-3/118.md#6omnipotence-and-omnificence "6. Omnipotence and Omnificence") . 1299
+&#160;&#160;&#160;&#160;[6. La Omnipotencia y la Omnificencia](part-3/118.md#6la-omnipotencia-y-la-omnificencia "6. La Omnipotencia y la Omnificencia") . 1299
 
-&#160;&#160;&#160;&#160;[7. Omniscience and Predestination](part-3/118.md#7omniscience-and-predestination "7. Omniscience and Predestination") . 1300
+&#160;&#160;&#160;&#160;[7. La Omniciencia y la Predestinación](part-3/118.md#7la-omniciencia-y-la-predestinación "7. La Omniciencia y la Predestinación") . 1300
 
-&#160;&#160;&#160;&#160;[8. Control and Overcontrol](part-3/118.md#8control-and-overcontrol "8. Control and Overcontrol") . 1301
+&#160;&#160;&#160;&#160;[8. El Control y el Supercontrol](part-3/118.md#8el-control-y-el-supercontrol "8. El Control y el Supercontrol") . 1301
 
-&#160;&#160;&#160;&#160;[9. Universe Mechanisms](part-3/118.md#9universe-mechanisms "9. Universe Mechanisms") . 1303
+&#160;&#160;&#160;&#160;[9. Los Mecanismos del Universo](part-3/118.md#9los-mecanismos-del-universo "9. Los Mecanismos del Universo") . 1303
 
-&#160;&#160;&#160;&#160;[10. Functions of Providence](part-3/118.md#10functions-of-providence "10. Functions of Providence") . 1304
+&#160;&#160;&#160;&#160;[10. Las Funciones de la Providencia](part-3/118.md#10las-funciones-de-la-providencia "10. Las Funciones de la Providencia") . 1304
 
-119 . <a href="part-3/119.md" title="The Bestowals of Christ Michael">Paper 119 · The Bestowals of Christ Michael</a> . 1308
+119 . <a href="part-3/119.md" title="Los Autootorgamientos de Cristo Micael">Documento 119 · Los Autootorgamientos de Cristo Micael</a> . 1308
 
-&#160;&#160;&#160;&#160;[1. The First Bestowal](part-3/119.md#1the-first-bestowal "1. The First Bestowal") . 1309
+&#160;&#160;&#160;&#160;[1. El Primer Autootorgamiento](part-3/119.md#1el-primer-autootorgamiento "1. El Primer Autootorgamiento") . 1309
 
-&#160;&#160;&#160;&#160;[2. The Second Bestowal](part-3/119.md#2the-second-bestowal "2. The Second Bestowal") . 1310
+&#160;&#160;&#160;&#160;[2. El Segundo Autootorgamiento](part-3/119.md#2el-segundo-autootorgamiento "2. El Segundo Autootorgamiento") . 1310
 
-&#160;&#160;&#160;&#160;[3. The Third Bestowal](part-3/119.md#3the-third-bestowal "3. The Third Bestowal") . 1312
+&#160;&#160;&#160;&#160;[3. El Tercer Autootorgamiento](part-3/119.md#3el-tercer-autootorgamiento "3. El Tercer Autootorgamiento") . 1312
 
-&#160;&#160;&#160;&#160;[4. The Fourth Bestowal](part-3/119.md#4the-fourth-bestowal "4. The Fourth Bestowal") . 1313
+&#160;&#160;&#160;&#160;[4. El Cuarto Autootorgamiento](part-3/119.md#4el-cuarto-autootorgamiento "4. El Cuarto Autootorgamiento") . 1313
 
-&#160;&#160;&#160;&#160;[5. The Fifth Bestowal](part-3/119.md#5the-fifth-bestowal "5. The Fifth Bestowal") . 1314
+&#160;&#160;&#160;&#160;[5. El Quinto Autootorgamiento](part-3/119.md#5el-quinto-autootorgamiento "5. El Quinto Autootorgamiento") . 1314
 
-&#160;&#160;&#160;&#160;[6. The Sixth Bestowal](part-3/119.md#6the-sixth-bestowal "6. The Sixth Bestowal") . 1315
+&#160;&#160;&#160;&#160;[6. El Sexto Autootorgamiento](part-3/119.md#6el-sexto-autootorgamiento "6. El Sexto Autootorgamiento") . 1315
 
-&#160;&#160;&#160;&#160;[7. The Seventh and Final Bestowal](part-3/119.md#7the-seventh-and-final-bestowal "7. The Seventh and Final Bestowal") . 1316
+&#160;&#160;&#160;&#160;[7. El Séptimo y Último Autootorgamiento](part-3/119.md#7el-séptimo-y-último-autootorgamiento "7. El Séptimo y Último Autootorgamiento") . 1316
 
-&#160;&#160;&#160;&#160;[8. Michael’s Postbestowal Status](part-3/119.md#8michaels-postbestowal-status "8. Michael’s Postbestowal Status") . 1317
+&#160;&#160;&#160;&#160;[8. El Estado Postautootorgador de Micael](part-3/119.md#8el-estado-postautootorgador-de-micael "8. El Estado Postautootorgador de Micael") . 1317
 
-### [PART IV](part-4/index.md "PART IV")
+### [PARTE IV](part-4/index.md "PARTE IV")
 
-### The Life and Teachings of Jesus
+### La Vida y las Enseñanzas de Jesus
 
-120 . <a href="part-4/120.md" title="The Bestowal of Michael on Urantia">Paper 120 · The Bestowal of Michael on Urantia</a> . 1323
+120 . <a href="part-4/120.md" title="El Autootorgamiento de Micael en Urantia">Documento 120 · El Autootorgamiento de Micael en Urantia</a> . 1323
 
-&#160;&#160;&#160;&#160;[1. The Seventh Bestowal Commission](part-4/120.md#1the-seventh-bestowal-commission "1. The Seventh Bestowal Commission") . 1325
+&#160;&#160;&#160;&#160;[1. El Séptimo Cometido de Autootorgamiento](part-4/120.md#1el-séptimo-cometido-de-autootorgamiento "1. El Séptimo Cometido de Autootorgamiento") . 1325
 
-&#160;&#160;&#160;&#160;[2. The Bestowal Limitations](part-4/120.md#2the-bestowal-limitations "2. The Bestowal Limitations") . 1327
+&#160;&#160;&#160;&#160;[2. Las Limitaciones del Autootorgamiento](part-4/120.md#2las-limitaciones-del-autootorgamiento "2. Las Limitaciones del Autootorgamiento") . 1327
 
-&#160;&#160;&#160;&#160;[3. Further Counsel and Advice](part-4/120.md#3further-counsel-and-advice "3. Further Counsel and Advice") . 1329
+&#160;&#160;&#160;&#160;[3. Los Consejos y las Admoniciones Adicionales](part-4/120.md#3los-consejos-y-las-admoniciones-adicionales "3. Los Consejos y las Admoniciones Adicionales") . 1329
 
-&#160;&#160;&#160;&#160;[4. The Incarnation—Making Two One](part-4/120.md#4the-incarnationmaking-two-one "4. The Incarnation—Making Two One") . 1331
+&#160;&#160;&#160;&#160;[4. La Encarnación — Hacer de Dos Uno](part-4/120.md#4la-encarnación--hacer-de-dos-uno "4. La Encarnación — Hacer de Dos Uno") . 1331
 
-121 . <a href="part-4/121.md" title="The Times of Michael’s Bestowal">Paper 121 · The Times of Michael’s Bestowal</a> . 1332
+121 . <a href="part-4/121.md" title="Los Tiempos del Autootorgamiento de Micael">Documento 121 · Los Tiempos del Autootorgamiento de Micael</a> . 1332
 
-&#160;&#160;&#160;&#160;[1. The Occident of the First Century After Christ](part-4/121.md#1the-occident-of-the-first-century-after-christ "1. The Occident of the First Century After Christ") . 1332
+&#160;&#160;&#160;&#160;[1. El Occidente en el Primer Siglo Después de Cristo](part-4/121.md#1el-occidente-en-el-primer-siglo-después-de-cristo "1. El Occidente en el Primer Siglo Después de Cristo") . 1332
 
-&#160;&#160;&#160;&#160;[2. The Jewish People](part-4/121.md#2the-jewish-people "2. The Jewish People") . 1333
+&#160;&#160;&#160;&#160;[2. El Pueblo Judío](part-4/121.md#2el-pueblo-judío "2. El Pueblo Judío") . 1333
 
-&#160;&#160;&#160;&#160;[3. Among the Gentiles](part-4/121.md#3among-the-gentiles "3. Among the Gentiles") . 1334
+&#160;&#160;&#160;&#160;[3. Entre los Gentiles](part-4/121.md#3entre-los-gentiles "3. Entre los Gentiles") . 1334
 
-&#160;&#160;&#160;&#160;[4. Gentile Philosophy](part-4/121.md#4gentile-philosophy "4. Gentile Philosophy") . 1335
+&#160;&#160;&#160;&#160;[4. La Filosofía Gentil](part-4/121.md#4la-filosofía-gentil "4. La Filosofía Gentil") . 1335
 
-&#160;&#160;&#160;&#160;[5. The Gentile Religions](part-4/121.md#5the-gentile-religions "5. The Gentile Religions") . 1336
+&#160;&#160;&#160;&#160;[5. Las Religiones Gentiles](part-4/121.md#5las-religiones-gentiles "5. Las Religiones Gentiles") . 1336
 
-&#160;&#160;&#160;&#160;[6. The Hebrew Religion](part-4/121.md#6the-hebrew-religion "6. The Hebrew Religion") . 1338
+&#160;&#160;&#160;&#160;[6. La Religión Hebrea](part-4/121.md#6la-religión-hebrea "6. La Religión Hebrea") . 1338
 
-&#160;&#160;&#160;&#160;[7. Jews and Gentiles](part-4/121.md#7jews-and-gentiles "7. Jews and Gentiles") . 1339
+&#160;&#160;&#160;&#160;[7. Los Judíos y los Gentiles](part-4/121.md#7los-judíos-y-los-gentiles "7. Los Judíos y los Gentiles") . 1339
 
-&#160;&#160;&#160;&#160;[8. Previous Written Records](part-4/121.md#8previous-written-records "8. Previous Written Records") . 1341
+&#160;&#160;&#160;&#160;[8. Los Escritos Prévios](part-4/121.md#8los-escritos-prévios "8. Los Escritos Prévios") . 1341
 
-122 . <a href="part-4/122.md" title="Birth and Infancy of Jesus">Paper 122 · Birth and Infancy of Jesus</a> . 1344
+122 . <a href="part-4/122.md" title="El Nacimiento y la Infancia de Jesús">Documento 122 · El Nacimiento y la Infancia de Jesús</a> . 1344
 
-&#160;&#160;&#160;&#160;[1. Joseph and Mary](part-4/122.md#1joseph-and-mary "1. Joseph and Mary") . 1344
+&#160;&#160;&#160;&#160;[1. José y María](part-4/122.md#1josé-y-maría "1. José y María") . 1344
 
-&#160;&#160;&#160;&#160;[2. Gabriel Appears to Elizabeth](part-4/122.md#2gabriel-appears-to-elizabeth "2. Gabriel Appears to Elizabeth") . 1345
+&#160;&#160;&#160;&#160;[2. Gabriel Se Aparece ante Elisabet](part-4/122.md#2gabriel-se-aparece-ante-elisabet "2. Gabriel Se Aparece ante Elisabet") . 1345
 
-&#160;&#160;&#160;&#160;[3. Gabriel’s Announcement to Mary](part-4/122.md#3gabriels-announcement-to-mary "3. Gabriel’s Announcement to Mary") . 1346
+&#160;&#160;&#160;&#160;[3. La Anunciación de Gabriel a María](part-4/122.md#3la-anunciación-de-gabriel-a-maría "3. La Anunciación de Gabriel a María") . 1346
 
-&#160;&#160;&#160;&#160;[4. Joseph’s Dream](part-4/122.md#4josephs-dream "4. Joseph’s Dream") . 1347
+&#160;&#160;&#160;&#160;[4. El Sueño de José](part-4/122.md#4el-sueño-de-josé "4. El Sueño de José") . 1347
 
-&#160;&#160;&#160;&#160;[5. Jesus’ Earth Parents](part-4/122.md#5jesus-earth-parents "5. Jesus’ Earth Parents") . 1348
+&#160;&#160;&#160;&#160;[5. Los Padres Terrenales de Jesús](part-4/122.md#5los-padres-terrenales-de-jesús "5. Los Padres Terrenales de Jesús") . 1348
 
-&#160;&#160;&#160;&#160;[6. The Home at Nazareth](part-4/122.md#6the-home-at-nazareth "6. The Home at Nazareth") . 1349
+&#160;&#160;&#160;&#160;[6. La Casa en Nazaret](part-4/122.md#6la-casa-en-nazaret "6. La Casa en Nazaret") . 1349
 
-&#160;&#160;&#160;&#160;[7. The Trip to Bethlehem](part-4/122.md#7the-trip-to-bethlehem "7. The Trip to Bethlehem") . 1350
+&#160;&#160;&#160;&#160;[7. El Viaje a Belén](part-4/122.md#7el-viaje-a-belén "7. El Viaje a Belén") . 1350
 
-&#160;&#160;&#160;&#160;[8. The Birth of Jesus](part-4/122.md#8the-birth-of-jesus "8. The Birth of Jesus") . 1351
+&#160;&#160;&#160;&#160;[8. El Nacimiento de Jesús](part-4/122.md#8el-nacimiento-de-jesús "8. El Nacimiento de Jesús") . 1351
 
-&#160;&#160;&#160;&#160;[9. The Presentation in the Temple](part-4/122.md#9the-presentation-in-the-temple "9. The Presentation in the Temple") . 1352
+&#160;&#160;&#160;&#160;[9. La Presentación en el Templo](part-4/122.md#9la-presentación-en-el-templo "9. La Presentación en el Templo") . 1352
 
-&#160;&#160;&#160;&#160;[10. Herod Acts](part-4/122.md#10herod-acts "10. Herod Acts") . 1353
+&#160;&#160;&#160;&#160;[10. Herodes Actúa](part-4/122.md#10herodes-actúa "10. Herodes Actúa") . 1353
 
-123 . <a href="part-4/123.md" title="The Early Childhood of Jesus">Paper 123 · The Early Childhood of Jesus</a> . 1355
+123 . <a href="part-4/123.md" title="La Infancia de Jesús">Documento 123 · La Infancia de Jesús</a> . 1355
 
-&#160;&#160;&#160;&#160;[1. Back in Nazareth](part-4/123.md#1back-in-nazareth "1. Back in Nazareth") . 1356
+&#160;&#160;&#160;&#160;[1. De Regreso a Nazaret](part-4/123.md#1de-regreso-a-nazaret "1. De Regreso a Nazaret") . 1356
 
-&#160;&#160;&#160;&#160;[2. The Fifth Year (2 B.C.)](part-4/123.md#2the-fifth-year-2-bc "2. The Fifth Year (2 B.C.)") . 1357
+&#160;&#160;&#160;&#160;[2. El Quinto Año (Año 2 a. de J.C.)](part-4/123.md#2el-quinto-año-año-2-ade-jc "2. El Quinto Año (Año 2 a. de J.C.)") . 1357
 
-&#160;&#160;&#160;&#160;[3. Events of the Sixth Year (1 B.C.)](part-4/123.md#3events-of-the-sixth-year-1-bc "3. Events of the Sixth Year (1 B.C.)") . 1359
+&#160;&#160;&#160;&#160;[3. Acontecimientos del Sexto Año (Año 1 a. de J.C.)](part-4/123.md#3acontecimientos-del-sexto-año-año-1-ade-jc "3. Acontecimientos del Sexto Año (Año 1 a. de J.C.)") . 1359
 
-&#160;&#160;&#160;&#160;[4. The Seventh Year (A.D. 1)](part-4/123.md#4the-seventh-year-ad1 "4. The Seventh Year (A.D. 1)") . 1361
+&#160;&#160;&#160;&#160;[4. El Séptimo Año (Año 1 d. de J.C.)](part-4/123.md#4el-séptimo-año-año-1-dde-jc "4. El Séptimo Año (Año 1 d. de J.C.)") . 1361
 
-&#160;&#160;&#160;&#160;[5. School Days in Nazareth](part-4/123.md#5school-days-in-nazareth "5. School Days in Nazareth") . 1362
+&#160;&#160;&#160;&#160;[5. Los Días Escolares en Nazaret](part-4/123.md#5los-días-escolares-en-nazaret "5. Los Días Escolares en Nazaret") . 1362
 
-&#160;&#160;&#160;&#160;[6. His Eighth Year (A.D. 2)](part-4/123.md#6his-eighth-year-ad2 "6. His Eighth Year (A.D. 2)") . 1364
+&#160;&#160;&#160;&#160;[6. Su Octavo Año (Año 2 d. de J.C.)](part-4/123.md#6su-octavo-año-año-2-dde-jc "6. Su Octavo Año (Año 2 d. de J.C.)") . 1364
 
-124 . <a href="part-4/124.md" title="The Later Childhood of Jesus">Paper 124 · The Later Childhood of Jesus</a> . 1366
+124 . <a href="part-4/124.md" title="La Niñez Posterior de Jesús">Documento 124 · La Niñez Posterior de Jesús</a> . 1366
 
-&#160;&#160;&#160;&#160;[1. Jesus’ Ninth Year (A.D. 3)](part-4/124.md#1jesus-ninth-year-ad3 "1. Jesus’ Ninth Year (A.D. 3)") . 1366
+&#160;&#160;&#160;&#160;[1. El Noveno Año de Jesús (Año 3 d. de J.C.)](part-4/124.md#1el-noveno-año-de-jesús-año-3-dde-jc "1. El Noveno Año de Jesús (Año 3 d. de J.C.)") . 1366
 
-&#160;&#160;&#160;&#160;[2. The Tenth Year (A.D. 4)](part-4/124.md#2the-tenth-year-ad4 "2. The Tenth Year (A.D. 4)") . 1368
+&#160;&#160;&#160;&#160;[2. El Décimo Año (Año 4 d. de J.C.)](part-4/124.md#2el-décimo-año-año-4-dde-jc "2. El Décimo Año (Año 4 d. de J.C.)") . 1368
 
-&#160;&#160;&#160;&#160;[3. The Eleventh Year (A.D. 5)](part-4/124.md#3the-eleventh-year-ad5 "3. The Eleventh Year (A.D. 5)") . 1369
+&#160;&#160;&#160;&#160;[3. El Onceavo Año (Año 5 d. de J.C.)](part-4/124.md#3el-onceavo-año-año-5-dde-jc "3. El Onceavo Año (Año 5 d. de J.C.)") . 1369
 
-&#160;&#160;&#160;&#160;[4. The Twelfth Year (A.D. 6)](part-4/124.md#4the-twelfth-year-ad6 "4. The Twelfth Year (A.D. 6)") . 1371
+&#160;&#160;&#160;&#160;[4. El Año Doceavo (Año 6 d. de J.C.)](part-4/124.md#4el-año-doceavo-año-6-dde-jc "4. El Año Doceavo (Año 6 d. de J.C.)") . 1371
 
-&#160;&#160;&#160;&#160;[5. His Thirteenth Year (A.D. 7)](part-4/124.md#5his-thirteenth-year-ad7 "5. His Thirteenth Year (A.D. 7)") . 1373
+&#160;&#160;&#160;&#160;[5. El Año Treceavo (Año 7 d. de J.C.)](part-4/124.md#5el-año-treceavo-año-7-dde-jc "5. El Año Treceavo (Año 7 d. de J.C.)") . 1373
 
-&#160;&#160;&#160;&#160;[6. The Journey to Jerusalem](part-4/124.md#6the-journey-to-jerusalem "6. The Journey to Jerusalem") . 1374
+&#160;&#160;&#160;&#160;[6. El Viaje a Jerusalén](part-4/124.md#6el-viaje-a-jerusalén "6. El Viaje a Jerusalén") . 1374
 
-125 . <a href="part-4/125.md" title="Jesus at Jerusalem">Paper 125 · Jesus at Jerusalem</a> . 1377
+125 . <a href="part-4/125.md" title="Jesús en Jerusalén">Documento 125 · Jesús en Jerusalén</a> . 1377
 
-&#160;&#160;&#160;&#160;[1. Jesus Views the Temple](part-4/125.md#1jesus-views-the-temple "1. Jesus Views the Temple") . 1378
+&#160;&#160;&#160;&#160;[1. Jesús Visita el Templo](part-4/125.md#1jesús-visita-el-templo "1. Jesús Visita el Templo") . 1378
 
-&#160;&#160;&#160;&#160;[2. Jesus and the Passover](part-4/125.md#2jesus-and-the-passover "2. Jesus and the Passover") . 1379
+&#160;&#160;&#160;&#160;[2. Jesús y la Pascua](part-4/125.md#2jesús-y-la-pascua "2. Jesús y la Pascua") . 1379
 
-&#160;&#160;&#160;&#160;[3. Departure of Joseph and Mary](part-4/125.md#3departure-of-joseph-and-mary "3. Departure of Joseph and Mary") . 1381
+&#160;&#160;&#160;&#160;[3. La Partida de José y María](part-4/125.md#3la-partida-de-josé-y-maría "3. La Partida de José y María") . 1381
 
-&#160;&#160;&#160;&#160;[4. First and Second Days in the Temple](part-4/125.md#4first-and-second-days-in-the-temple "4. First and Second Days in the Temple") . 1381
+&#160;&#160;&#160;&#160;[4. El Primer y el Segundo Día en el Templo](part-4/125.md#4el-primer-y-el-segundo-día-en-el-templo "4. El Primer y el Segundo Día en el Templo") . 1381
 
-&#160;&#160;&#160;&#160;[5. The Third Day in the Temple](part-4/125.md#5the-third-day-in-the-temple "5. The Third Day in the Temple") . 1382
+&#160;&#160;&#160;&#160;[5. El Tercer Día en el Templo](part-4/125.md#5el-tercer-día-en-el-templo "5. El Tercer Día en el Templo") . 1382
 
-&#160;&#160;&#160;&#160;[6. The Fourth Day in the Temple](part-4/125.md#6the-fourth-day-in-the-temple "6. The Fourth Day in the Temple") . 1383
+&#160;&#160;&#160;&#160;[6. El Cuarto Día en el Templo](part-4/125.md#6el-cuarto-día-en-el-templo "6. El Cuarto Día en el Templo") . 1383
 
-126 . <a href="part-4/126.md" title="The Two Crucial Years">Paper 126 · The Two Crucial Years</a> . 1386
+126 . <a href="part-4/126.md" title="Los Dos Años Cruciales">Documento 126 · Los Dos Años Cruciales</a> . 1386
 
-&#160;&#160;&#160;&#160;[1. His Fourteenth Year (A.D. 8)](part-4/126.md#1his-fourteenth-year-ad8 "1. His Fourteenth Year (A.D. 8)") . 1387
+&#160;&#160;&#160;&#160;[1. El Decimocuarto Año (Año 8 d. de J.C.)](part-4/126.md#1el-decimocuarto-año-año-8-dde-jc "1. El Decimocuarto Año (Año 8 d. de J.C.)") . 1387
 
-&#160;&#160;&#160;&#160;[2. The Death of Joseph](part-4/126.md#2the-death-of-joseph "2. The Death of Joseph") . 1388
+&#160;&#160;&#160;&#160;[2. La Muerte de José](part-4/126.md#2la-muerte-de-josé "2. La Muerte de José") . 1388
 
-&#160;&#160;&#160;&#160;[3. The Fifteenth Year (A.D. 9)](part-4/126.md#3the-fifteenth-year-ad9 "3. The Fifteenth Year (A.D. 9)") . 1389
+&#160;&#160;&#160;&#160;[3. El Decimoquinto Año (Año 9 d. de J.C.)](part-4/126.md#3el-decimoquinto-año-año-9-dde-jc "3. El Decimoquinto Año (Año 9 d. de J.C.)") . 1389
 
-&#160;&#160;&#160;&#160;[4. First Sermon in the Synagogue](part-4/126.md#4first-sermon-in-the-synagogue "4. First Sermon in the Synagogue") . 1391
+&#160;&#160;&#160;&#160;[4. El Primer Sermón en la Sinagoga](part-4/126.md#4el-primer-sermón-en-la-sinagoga "4. El Primer Sermón en la Sinagoga") . 1391
 
-&#160;&#160;&#160;&#160;[5. The Financial Struggle](part-4/126.md#5the-financial-struggle "5. The Financial Struggle") . 1392
+&#160;&#160;&#160;&#160;[5. La Lucha Financiera](part-4/126.md#5la-lucha-financiera "5. La Lucha Financiera") . 1392
 
-127 . <a href="part-4/127.md" title="The Adolescent Years">Paper 127 · The Adolescent Years</a> . 1395
+127 . <a href="part-4/127.md" title="Los Años de la Adolescencia">Documento 127 · Los Años de la Adolescencia</a> . 1395
 
-&#160;&#160;&#160;&#160;[1. The Sixteenth Year (A.D. 10)](part-4/127.md#1the-sixteenth-year-ad10 "1. The Sixteenth Year (A.D. 10)") . 1395
+&#160;&#160;&#160;&#160;[1. El Decimosexto Año (Año 10 d. de J.C.)](part-4/127.md#1el-decimosexto-año-año-10-dde-jc "1. El Decimosexto Año (Año 10 d. de J.C.)") . 1395
 
-&#160;&#160;&#160;&#160;[2. The Seventeenth Year (A.D. 11)](part-4/127.md#2the-seventeenth-year-ad11 "2. The Seventeenth Year (A.D. 11)") . 1396
+&#160;&#160;&#160;&#160;[2. El Decimoséptimo Año (Año 11 d. de J.C.)](part-4/127.md#2el-decimoséptimo-año-año-11-dde-jc "2. El Decimoséptimo Año (Año 11 d. de J.C.)") . 1396
 
-&#160;&#160;&#160;&#160;[3. The Eighteenth Year (A.D. 12)](part-4/127.md#3the-eighteenth-year-ad12 "3. The Eighteenth Year (A.D. 12)") . 1398
+&#160;&#160;&#160;&#160;[3. El Decimoctavo Año (Año 12 d. de J.C.)](part-4/127.md#3el-decimoctavo-año-año-12-dde-jc "3. El Decimoctavo Año (Año 12 d. de J.C.)") . 1398
 
-&#160;&#160;&#160;&#160;[4. The Nineteenth Year (A.D. 13)](part-4/127.md#4the-nineteenth-year-ad13 "4. The Nineteenth Year (A.D. 13)") . 1401
+&#160;&#160;&#160;&#160;[4. El Decimonoveno Año (Año 13 d. de J.C.)](part-4/127.md#4el-decimonoveno-año-año-13-dde-jc "4. El Decimonoveno Año (Año 13 d. de J.C.)") . 1401
 
-&#160;&#160;&#160;&#160;[5. Rebecca, the Daughter of Ezra](part-4/127.md#5rebecca-the-daughter-of-ezra "5. Rebecca, the Daughter of Ezra") . 1402
+&#160;&#160;&#160;&#160;[5. Rebeca, la Hija de Esdras](part-4/127.md#5rebeca-la-hija-de-esdras "5. Rebeca, la Hija de Esdras") . 1402
 
-&#160;&#160;&#160;&#160;[6. His Twentieth Year (A.D. 14)](part-4/127.md#6his-twentieth-year-ad14 "6. His Twentieth Year (A.D. 14)") . 1403
+&#160;&#160;&#160;&#160;[6. Su Vigésimo Año (Año 14 d. de J.C.)](part-4/127.md#6su-vigésimo-año-año-14-dde-jc "6. Su Vigésimo Año (Año 14 d. de J.C.)") . 1403
 
-128 . <a href="part-4/128.md" title="Jesus’ Early Manhood">Paper 128 · Jesus’ Early Manhood</a> . 1407
+128 . <a href="part-4/128.md" title="Los Primeros Años de la Vida Adulta de Jesús">Documento 128 · Los Primeros Años de la Vida Adulta de Jesús</a> . 1407
 
-&#160;&#160;&#160;&#160;[1. The Twenty-First Year (A.D. 15)](part-4/128.md#1the-twenty-first-year-ad15 "1. The Twenty-First Year (A.D. 15)") . 1407
+&#160;&#160;&#160;&#160;[1. El Veintiuno Año (Año 15 d. de J.C.)](part-4/128.md#1el-veintiuno-año-año-15-dde-jc "1. El Veintiuno Año (Año 15 d. de J.C.)") . 1407
 
-&#160;&#160;&#160;&#160;[2. The Twenty-Second Year (A.D. 16)](part-4/128.md#2the-twenty-second-year-ad16 "2. The Twenty-Second Year (A.D. 16)") . 1409
+&#160;&#160;&#160;&#160;[2. El Veintidós Año (Año 16 d. de J.C.)](part-4/128.md#2el-veintidós-año-año-16-dde-jc "2. El Veintidós Año (Año 16 d. de J.C.)") . 1409
 
-&#160;&#160;&#160;&#160;[3. The Twenty-Third Year (A.D. 17)](part-4/128.md#3the-twenty-third-year-ad17 "3. The Twenty-Third Year (A.D. 17)") . 1411
+&#160;&#160;&#160;&#160;[3. El Veintitrés Año (Año 17 d. de J.C.)](part-4/128.md#3el-veintitrés-año-año-17-dde-jc "3. El Veintitrés Año (Año 17 d. de J.C.)") . 1411
 
-&#160;&#160;&#160;&#160;[4. The Damascus Episode](part-4/128.md#4the-damascus-episode "4. The Damascus Episode") . 1412
+&#160;&#160;&#160;&#160;[4. El Episodio en Damasco](part-4/128.md#4el-episodio-en-damasco "4. El Episodio en Damasco") . 1412
 
-&#160;&#160;&#160;&#160;[5. The Twenty-Fourth Year (A.D. 18)](part-4/128.md#5the-twenty-fourth-year-ad18 "5. The Twenty-Fourth Year (A.D. 18)") . 1413
+&#160;&#160;&#160;&#160;[5. El Veinticuatro Año (Año 18 d. de J.C.)](part-4/128.md#5el-veinticuatro-año-año-18-dde-jc "5. El Veinticuatro Año (Año 18 d. de J.C.)") . 1413
 
-&#160;&#160;&#160;&#160;[6. The Twenty-Fifth Year (A.D. 19)](part-4/128.md#6the-twenty-fifth-year-ad19 "6. The Twenty-Fifth Year (A.D. 19)") . 1415
+&#160;&#160;&#160;&#160;[6. El Veinticinco Año (Año 19 d. de J.C.)](part-4/128.md#6el-veinticinco-año-año-19-dde-jc "6. El Veinticinco Año (Año 19 d. de J.C.)") . 1415
 
-&#160;&#160;&#160;&#160;[7. The Twenty-Sixth Year (A.D. 20)](part-4/128.md#7the-twenty-sixth-year-ad20 "7. The Twenty-Sixth Year (A.D. 20)") . 1416
+&#160;&#160;&#160;&#160;[7. El Veintiséis Año (Año 20 d. de J.C.)](part-4/128.md#7el-veintiséis-año-año-20-dde-jc "7. El Veintiséis Año (Año 20 d. de J.C.)") . 1416
 
-129 . <a href="part-4/129.md" title="The Later Adult Life of Jesus">Paper 129 · The Later Adult Life of Jesus</a> . 1419
+129 . <a href="part-4/129.md" title="La Vida Adulta de Jesús">Documento 129 · La Vida Adulta de Jesús</a> . 1419
 
-&#160;&#160;&#160;&#160;[1. The Twenty-Seventh Year (A.D. 21)](part-4/129.md#1the-twenty-seventh-year-ad21 "1. The Twenty-Seventh Year (A.D. 21)") . 1419
+&#160;&#160;&#160;&#160;[1. El Veintisiete Año (Año 21 d. de J.C.)](part-4/129.md#1el-veintisiete-año-año-21-dde-jc "1. El Veintisiete Año (Año 21 d. de J.C.)") . 1419
 
-&#160;&#160;&#160;&#160;[2. The Twenty-Eighth Year (A.D. 22)](part-4/129.md#2the-twenty-eighth-year-ad22 "2. The Twenty-Eighth Year (A.D. 22)") . 1421
+&#160;&#160;&#160;&#160;[2. El Veintiocho Año (Año 22 d. de J.C.)](part-4/129.md#2el-veintiocho-año-año-22-dde-jc "2. El Veintiocho Año (Año 22 d. de J.C.)") . 1421
 
-&#160;&#160;&#160;&#160;[3. The Twenty-Ninth Year (A.D. 23)](part-4/129.md#3the-twenty-ninth-year-ad23 "3. The Twenty-Ninth Year (A.D. 23)") . 1423
+&#160;&#160;&#160;&#160;[3. El Veintinueve Año (Año 23 d. de J.C.)](part-4/129.md#3el-veintinueve-año-año-23-dde-jc "3. El Veintinueve Año (Año 23 d. de J.C.)") . 1423
 
-&#160;&#160;&#160;&#160;[4. The Human Jesus](part-4/129.md#4the-human-jesus "4. The Human Jesus") . 1424
+&#160;&#160;&#160;&#160;[4. El Jesús Humano](part-4/129.md#4el-jesús-humano "4. El Jesús Humano") . 1424
 
-130 . <a href="part-4/130.md" title="On the Way to Rome">Paper 130 · On the Way to Rome</a> . 1427
+130 . <a href="part-4/130.md" title="En el Camino a Roma">Documento 130 · En el Camino a Roma</a> . 1427
 
-&#160;&#160;&#160;&#160;[1. At Joppa—Discourse on Jonah](part-4/130.md#1at-joppadiscourse-on-jonah "1. At Joppa—Discourse on Jonah") . 1428
+&#160;&#160;&#160;&#160;[1. En Jope — Discurso Sobre Jonás](part-4/130.md#1en-jope--discurso-sobre-jonás "1. En Jope — Discurso Sobre Jonás") . 1428
 
-&#160;&#160;&#160;&#160;[2. At Caesarea](part-4/130.md#2at-caesarea "2. At Caesarea") . 1429
+&#160;&#160;&#160;&#160;[2. En Cesarea](part-4/130.md#2en-cesarea "2. En Cesarea") . 1429
 
-&#160;&#160;&#160;&#160;[3. At Alexandria](part-4/130.md#3at-alexandria "3. At Alexandria") . 1432
+&#160;&#160;&#160;&#160;[3. En Alejandría](part-4/130.md#3en-alejandría "3. En Alejandría") . 1432
 
-&#160;&#160;&#160;&#160;[4. Discourse on Reality](part-4/130.md#4discourse-on-reality "4. Discourse on Reality") . 1433
+&#160;&#160;&#160;&#160;[4. El Discurso Sobre la Realidad](part-4/130.md#4el-discurso-sobre-la-realidad "4. El Discurso Sobre la Realidad") . 1433
 
-&#160;&#160;&#160;&#160;[5. On the Island of Crete](part-4/130.md#5on-the-island-of-crete "5. On the Island of Crete") . 1436
+&#160;&#160;&#160;&#160;[5. En la Isla de Creta](part-4/130.md#5en-la-isla-de-creta "5. En la Isla de Creta") . 1436
 
-&#160;&#160;&#160;&#160;[6. The Young Man Who Was Afraid](part-4/130.md#6the-young-man-who-was-afraid "6. The Young Man Who Was Afraid") . 1437
+&#160;&#160;&#160;&#160;[6. El Joven que Tenía Miedo](part-4/130.md#6el-joven-que-tenía-miedo "6. El Joven que Tenía Miedo") . 1437
 
-&#160;&#160;&#160;&#160;[7. At Carthage—Discourse on Time and Space](part-4/130.md#7at-carthagediscourse-on-time-and-space "7. At Carthage—Discourse on Time and Space") . 1438
+&#160;&#160;&#160;&#160;[7. En Cartago — El Discurso Sobre el Tiempo y el Espacio](part-4/130.md#7en-cartago--el-discurso-sobre-el-tiempo-y-el-espacio "7. En Cartago — El Discurso Sobre el Tiempo y el Espacio") . 1438
 
-&#160;&#160;&#160;&#160;[8. On the Way to Naples and Rome](part-4/130.md#8on-the-way-to-naples-and-rome "8. On the Way to Naples and Rome") . 1440
+&#160;&#160;&#160;&#160;[8. En el Camino a Neápolis y Roma](part-4/130.md#8en-el-camino-a-neápolis-y-roma "8. En el Camino a Neápolis y Roma") . 1440
 
-131 . <a href="part-4/131.md" title="The World’s Religions">Paper 131 · The World’s Religions</a> . 1442
+131 . <a href="part-4/131.md" title="Las Religiones del Mundo">Documento 131 · Las Religiones del Mundo</a> . 1442
 
-&#160;&#160;&#160;&#160;[1. Cynicism](part-4/131.md#1cynicism "1. Cynicism") . 1442
+&#160;&#160;&#160;&#160;[1. Cinismo](part-4/131.md#1cinismo "1. Cinismo") . 1442
 
-&#160;&#160;&#160;&#160;[2. Judaism](part-4/131.md#2judaism "2. Judaism") . 1444
+&#160;&#160;&#160;&#160;[2. El Judaísmo](part-4/131.md#2el-judaísmo "2. El Judaísmo") . 1444
 
-&#160;&#160;&#160;&#160;[3. Buddhism](part-4/131.md#3buddhism "3. Buddhism") . 1446
+&#160;&#160;&#160;&#160;[3. El Budismo](part-4/131.md#3el-budismo "3. El Budismo") . 1446
 
-&#160;&#160;&#160;&#160;[4. Hinduism](part-4/131.md#4hinduism "4. Hinduism") . 1447
+&#160;&#160;&#160;&#160;[4. El Hinduismo](part-4/131.md#4el-hinduismo "4. El Hinduismo") . 1447
 
-&#160;&#160;&#160;&#160;[5. Zoroastrianism](part-4/131.md#5zoroastrianism "5. Zoroastrianism") . 1449
+&#160;&#160;&#160;&#160;[5. El Zoroastrismo](part-4/131.md#5el-zoroastrismo "5. El Zoroastrismo") . 1449
 
-&#160;&#160;&#160;&#160;[6. Suduanism (Jainism)](part-4/131.md#6suduanism-jainism "6. Suduanism (Jainism)") . 1450
+&#160;&#160;&#160;&#160;[6. El Suduanismo (Jainismo)](part-4/131.md#6el-suduanismo-jainismo "6. El Suduanismo (Jainismo)") . 1450
 
-&#160;&#160;&#160;&#160;[7. Shinto](part-4/131.md#7shinto "7. Shinto") . 1451
+&#160;&#160;&#160;&#160;[7. El Sintoísmo](part-4/131.md#7el-sintoísmo "7. El Sintoísmo") . 1451
 
-&#160;&#160;&#160;&#160;[8. Taoism](part-4/131.md#8taoism "8. Taoism") . 1451
+&#160;&#160;&#160;&#160;[8. El Taoísmo](part-4/131.md#8el-taoísmo "8. El Taoísmo") . 1451
 
-&#160;&#160;&#160;&#160;[9. Confucianism](part-4/131.md#9confucianism "9. Confucianism") . 1452
+&#160;&#160;&#160;&#160;[9. El Confucianismo](part-4/131.md#9el-confucianismo "9. El Confucianismo") . 1452
 
-&#160;&#160;&#160;&#160;[10. “Our Religion”](part-4/131.md#10our-religion "10. “Our Religion”") . 1453
+&#160;&#160;&#160;&#160;[10. «Nuestra Religión»](part-4/131.md#10nuestra-religión "10. «Nuestra Religión»") . 1453
 
-132 . <a href="part-4/132.md" title="The Sojourn at Rome">Paper 132 · The Sojourn at Rome</a> . 1455
+132 . <a href="part-4/132.md" title="La Estadía en Roma">Documento 132 · La Estadía en Roma</a> . 1455
 
-&#160;&#160;&#160;&#160;[1. True Values](part-4/132.md#1true-values "1. True Values") . 1456
+&#160;&#160;&#160;&#160;[1. Los Valores Verdaderos](part-4/132.md#1los-valores-verdaderos "1. Los Valores Verdaderos") . 1456
 
-&#160;&#160;&#160;&#160;[2. Good and Evil](part-4/132.md#2good-and-evil "2. Good and Evil") . 1457
+&#160;&#160;&#160;&#160;[2. El Bien y el Mal](part-4/132.md#2el-bien-y-el-mal "2. El Bien y el Mal") . 1457
 
-&#160;&#160;&#160;&#160;[3. Truth and Faith](part-4/132.md#3truth-and-faith "3. Truth and Faith") . 1459
+&#160;&#160;&#160;&#160;[3. La Verdad y la Fe](part-4/132.md#3la-verdad-y-la-fe "3. La Verdad y la Fe") . 1459
 
-&#160;&#160;&#160;&#160;[4. Personal Ministry](part-4/132.md#4personal-ministry "4. Personal Ministry") . 1460
+&#160;&#160;&#160;&#160;[4. El Ministerio Personal](part-4/132.md#4el-ministerio-personal "4. El Ministerio Personal") . 1460
 
-&#160;&#160;&#160;&#160;[5. Counseling the Rich Man](part-4/132.md#5counseling-the-rich-man "5. Counseling the Rich Man") . 1462
+&#160;&#160;&#160;&#160;[5. Los Consejos para un Rico](part-4/132.md#5los-consejos-para-un-rico "5. Los Consejos para un Rico") . 1462
 
-&#160;&#160;&#160;&#160;[6. Social Ministry](part-4/132.md#6social-ministry "6. Social Ministry") . 1465
+&#160;&#160;&#160;&#160;[6. El Ministerio Social](part-4/132.md#6el-ministerio-social "6. El Ministerio Social") . 1465
 
-&#160;&#160;&#160;&#160;[7. Trips About Rome](part-4/132.md#7trips-about-rome "7. Trips About Rome") . 1466
+&#160;&#160;&#160;&#160;[7. Los Viajes Fuera de Roma](part-4/132.md#7los-viajes-fuera-de-roma "7. Los Viajes Fuera de Roma") . 1466
 
-133 . <a href="part-4/133.md" title="The Return from Rome">Paper 133 · The Return from Rome</a> . 1468
+133 . <a href="part-4/133.md" title="El Regreso de Roma">Documento 133 · El Regreso de Roma</a> . 1468
 
-&#160;&#160;&#160;&#160;[1. Mercy and Justice](part-4/133.md#1mercy-and-justice "1. Mercy and Justice") . 1468
+&#160;&#160;&#160;&#160;[1. La Misericordia y la Justicia](part-4/133.md#1la-misericordia-y-la-justicia "1. La Misericordia y la Justicia") . 1468
 
-&#160;&#160;&#160;&#160;[2. Embarking at Tarentum](part-4/133.md#2embarking-at-tarentum "2. Embarking at Tarentum") . 1470
+&#160;&#160;&#160;&#160;[2. El Embarque en Tarento](part-4/133.md#2el-embarque-en-tarento "2. El Embarque en Tarento") . 1470
 
-&#160;&#160;&#160;&#160;[3. At Corinth](part-4/133.md#3at-corinth "3. At Corinth") . 1471
+&#160;&#160;&#160;&#160;[3. En Corinto](part-4/133.md#3en-corinto "3. En Corinto") . 1471
 
-&#160;&#160;&#160;&#160;[4. Personal Work in Corinth](part-4/133.md#4personal-work-in-corinth "4. Personal Work in Corinth") . 1474
+&#160;&#160;&#160;&#160;[4. La Obra Personal en Corinto](part-4/133.md#4la-obra-personal-en-corinto "4. La Obra Personal en Corinto") . 1474
 
-&#160;&#160;&#160;&#160;[5. At Athens—Discourse on Science](part-4/133.md#5at-athensdiscourse-on-science "5. At Athens—Discourse on Science") . 1476
+&#160;&#160;&#160;&#160;[5. En Atenas — El Discurso Sobre la Ciencia](part-4/133.md#5en-atenas--el-discurso-sobre-la-ciencia "5. En Atenas — El Discurso Sobre la Ciencia") . 1476
 
-&#160;&#160;&#160;&#160;[6. At Ephesus—Discourse on the Soul](part-4/133.md#6at-ephesusdiscourse-on-the-soul "6. At Ephesus—Discourse on the Soul") . 1477
+&#160;&#160;&#160;&#160;[6. En Efeso — El Discurso Sobre el Alma](part-4/133.md#6en-efeso--el-discurso-sobre-el-alma "6. En Efeso — El Discurso Sobre el Alma") . 1477
 
-&#160;&#160;&#160;&#160;[7. The Sojourn at Cyprus—Discourse on Mind](part-4/133.md#7the-sojourn-at-cyprusdiscourse-on-mind "7. The Sojourn at Cyprus—Discourse on Mind") . 1479
+&#160;&#160;&#160;&#160;[7. La Estadía en Chipre — El Discurso Sobre la Mente](part-4/133.md#7la-estadía-en-chipre--el-discurso-sobre-la-mente "7. La Estadía en Chipre — El Discurso Sobre la Mente") . 1479
 
-&#160;&#160;&#160;&#160;[8. At Antioch](part-4/133.md#8at-antioch "8. At Antioch") . 1480
+&#160;&#160;&#160;&#160;[8. En Antioquía](part-4/133.md#8en-antioquía "8. En Antioquía") . 1480
 
-&#160;&#160;&#160;&#160;[9. In Mesopotamia](part-4/133.md#9in-mesopotamia "9. In Mesopotamia") . 1481
+&#160;&#160;&#160;&#160;[9. En Mesopotamia](part-4/133.md#9en-mesopotamia "9. En Mesopotamia") . 1481
 
-134 . <a href="part-4/134.md" title="The Transition Years">Paper 134 · The Transition Years</a> . 1483
+134 . <a href="part-4/134.md" title="Los Años de Transición">Documento 134 · Los Años de Transición</a> . 1483
 
-&#160;&#160;&#160;&#160;[1. The Thirtieth Year (A.D. 24)](part-4/134.md#1the-thirtieth-year-ad24 "1. The Thirtieth Year (A.D. 24)") . 1483
+&#160;&#160;&#160;&#160;[1. El Treinta Año (Año 24 d. de J.C.)](part-4/134.md#1el-treinta-año-año-24-dde-jc "1. El Treinta Año (Año 24 d. de J.C.)") . 1483
 
-&#160;&#160;&#160;&#160;[2. The Caravan Trip to the Caspian](part-4/134.md#2the-caravan-trip-to-the-caspian "2. The Caravan Trip to the Caspian") . 1484
+&#160;&#160;&#160;&#160;[2. El Viaje con la Caravana al Caspio](part-4/134.md#2el-viaje-con-la-caravana-al-caspio "2. El Viaje con la Caravana al Caspio") . 1484
 
-&#160;&#160;&#160;&#160;[3. The Urmia Lectures](part-4/134.md#3the-urmia-lectures "3. The Urmia Lectures") . 1485
+&#160;&#160;&#160;&#160;[3. Las Conferencias de Urmia](part-4/134.md#3las-conferencias-de-urmia "3. Las Conferencias de Urmia") . 1485
 
-&#160;&#160;&#160;&#160;[4. Sovereignty—Divine and Human](part-4/134.md#4sovereigntydivine-and-human "4. Sovereignty—Divine and Human") . 1486
+&#160;&#160;&#160;&#160;[4. La Soberanía — Divina y Humana](part-4/134.md#4la-soberanía--divina-y-humana "4. La Soberanía — Divina y Humana") . 1486
 
-&#160;&#160;&#160;&#160;[5. Political Sovereignty](part-4/134.md#5political-sovereignty "5. Political Sovereignty") . 1487
+&#160;&#160;&#160;&#160;[5. La Soberanía Política](part-4/134.md#5la-soberanía-política "5. La Soberanía Política") . 1487
 
-&#160;&#160;&#160;&#160;[6. Law, Liberty, and Sovereignty](part-4/134.md#6law-liberty-and-sovereignty "6. Law, Liberty, and Sovereignty") . 1490
+&#160;&#160;&#160;&#160;[6. La Ley, la Libertad y la Soberanía](part-4/134.md#6la-ley-la-libertad-y-la-soberanía "6. La Ley, la Libertad y la Soberanía") . 1490
 
-&#160;&#160;&#160;&#160;[7. The Thirty-First Year (A.D. 25)](part-4/134.md#7the-thirty-first-year-ad25 "7. The Thirty-First Year (A.D. 25)") . 1492
+&#160;&#160;&#160;&#160;[7. El Treinta y Uno Año (Año 25 d. de J.C.)](part-4/134.md#7el-treinta-y-uno-año-año-25-dde-jc "7. El Treinta y Uno Año (Año 25 d. de J.C.)") . 1492
 
-&#160;&#160;&#160;&#160;[8. The Sojourn on Mount Hermon](part-4/134.md#8the-sojourn-on-mount-hermon "8. The Sojourn on Mount Hermon") . 1492
+&#160;&#160;&#160;&#160;[8. La Estadía en el Monte Hermón](part-4/134.md#8la-estadía-en-el-monte-hermón "8. La Estadía en el Monte Hermón") . 1492
 
-&#160;&#160;&#160;&#160;[9. The Time of Waiting](part-4/134.md#9the-time-of-waiting "9. The Time of Waiting") . 1494
+&#160;&#160;&#160;&#160;[9. El Período de Espera](part-4/134.md#9el-período-de-espera "9. El Período de Espera") . 1494
 
-135 . <a href="part-4/135.md" title="John the Baptist">Paper 135 · John the Baptist</a> . 1496
+135 . <a href="part-4/135.md" title="Juan el Bautista">Documento 135 · Juan el Bautista</a> . 1496
 
-&#160;&#160;&#160;&#160;[1. John Becomes a Nazarite](part-4/135.md#1john-becomes-a-nazarite "1. John Becomes a Nazarite") . 1496
+&#160;&#160;&#160;&#160;[1. Juan Se Hace Nazareo](part-4/135.md#1juan-se-hace-nazareo "1. Juan Se Hace Nazareo") . 1496
 
-&#160;&#160;&#160;&#160;[2. The Death of Zacharias](part-4/135.md#2the-death-of-zacharias "2. The Death of Zacharias") . 1497
+&#160;&#160;&#160;&#160;[2. La Muerte de Zacarías](part-4/135.md#2la-muerte-de-zacarías "2. La Muerte de Zacarías") . 1497
 
-&#160;&#160;&#160;&#160;[3. The Life of a Shepherd](part-4/135.md#3the-life-of-a-shepherd "3. The Life of a Shepherd") . 1497
+&#160;&#160;&#160;&#160;[3. La Vida de un Pastor](part-4/135.md#3la-vida-de-un-pastor "3. La Vida de un Pastor") . 1497
 
-&#160;&#160;&#160;&#160;[4. The Death of Elizabeth](part-4/135.md#4the-death-of-elizabeth "4. The Death of Elizabeth") . 1499
+&#160;&#160;&#160;&#160;[4. La Muerte de Elisabet](part-4/135.md#4la-muerte-de-elisabet "4. La Muerte de Elisabet") . 1499
 
-&#160;&#160;&#160;&#160;[5. The Kingdom of God](part-4/135.md#5the-kingdom-of-god "5. The Kingdom of God") . 1500
+&#160;&#160;&#160;&#160;[5. El Reino de Dios](part-4/135.md#5el-reino-de-dios "5. El Reino de Dios") . 1500
 
-&#160;&#160;&#160;&#160;[6. John Begins to Preach](part-4/135.md#6john-begins-to-preach "6. John Begins to Preach") . 1501
+&#160;&#160;&#160;&#160;[6. Juan Comienza a Predicar](part-4/135.md#6juan-comienza-a-predicar "6. Juan Comienza a Predicar") . 1501
 
-&#160;&#160;&#160;&#160;[7. John Journeys North](part-4/135.md#7john-journeys-north "7. John Journeys North") . 1503
+&#160;&#160;&#160;&#160;[7. Juan Viaja al Norte](part-4/135.md#7juan-viaja-al-norte "7. Juan Viaja al Norte") . 1503
 
-&#160;&#160;&#160;&#160;[8. Meeting of Jesus and John](part-4/135.md#8meeting-of-jesus-and-john "8. Meeting of Jesus and John") . 1503
+&#160;&#160;&#160;&#160;[8. Encuentro de Jesús y Juan](part-4/135.md#8encuentro-de-jesús-y-juan "8. Encuentro de Jesús y Juan") . 1503
 
-&#160;&#160;&#160;&#160;[9. Forty Days of Preaching](part-4/135.md#9forty-days-of-preaching "9. Forty Days of Preaching") . 1505
+&#160;&#160;&#160;&#160;[9. Los Cuarenta Días de Predicación](part-4/135.md#9los-cuarenta-días-de-predicación "9. Los Cuarenta Días de Predicación") . 1505
 
-&#160;&#160;&#160;&#160;[10. John Journeys South](part-4/135.md#10john-journeys-south "10. John Journeys South") . 1506
+&#160;&#160;&#160;&#160;[10. Juan Viaja al Sur](part-4/135.md#10juan-viaja-al-sur "10. Juan Viaja al Sur") . 1506
 
-&#160;&#160;&#160;&#160;[11. John in Prison](part-4/135.md#11john-in-prison "11. John in Prison") . 1506
+&#160;&#160;&#160;&#160;[11. Juan en la Carcel](part-4/135.md#11juan-en-la-carcel "11. Juan en la Carcel") . 1506
 
-&#160;&#160;&#160;&#160;[12. Death of John the Baptist](part-4/135.md#12death-of-john-the-baptist "12. Death of John the Baptist") . 1508
+&#160;&#160;&#160;&#160;[12. La Muerte de Juan el Bautista](part-4/135.md#12la-muerte-de-juan-el-bautista "12. La Muerte de Juan el Bautista") . 1508
 
-136 . <a href="part-4/136.md" title="Baptism and the Forty Days">Paper 136 · Baptism and the Forty Days</a> . 1509
+136 . <a href="part-4/136.md" title="El Bautismo y los Cuarenta Días">Documento 136 · El Bautismo y los Cuarenta Días</a> . 1509
 
-&#160;&#160;&#160;&#160;[1. Concepts of the Expected Messiah](part-4/136.md#1concepts-of-the-expected-messiah "1. Concepts of the Expected Messiah") . 1509
+&#160;&#160;&#160;&#160;[1. Los Conceptos del Mesías Esperado](part-4/136.md#1los-conceptos-del-mesías-esperado "1. Los Conceptos del Mesías Esperado") . 1509
 
-&#160;&#160;&#160;&#160;[2. The Baptism of Jesus](part-4/136.md#2the-baptism-of-jesus "2. The Baptism of Jesus") . 1510
+&#160;&#160;&#160;&#160;[2. El Bautismo de Jesús](part-4/136.md#2el-bautismo-de-jesús "2. El Bautismo de Jesús") . 1510
 
-&#160;&#160;&#160;&#160;[3. The Forty Days](part-4/136.md#3the-forty-days "3. The Forty Days") . 1512
+&#160;&#160;&#160;&#160;[3. Los Cuarenta Días](part-4/136.md#3los-cuarenta-días "3. Los Cuarenta Días") . 1512
 
-&#160;&#160;&#160;&#160;[4. Plans for Public Work](part-4/136.md#4plans-for-public-work "4. Plans for Public Work") . 1514
+&#160;&#160;&#160;&#160;[4. Los Planes para el Ministerio Público](part-4/136.md#4los-planes-para-el-ministerio-público "4. Los Planes para el Ministerio Público") . 1514
 
-&#160;&#160;&#160;&#160;[5. The First Great Decision](part-4/136.md#5the-first-great-decision "5. The First Great Decision") . 1516
+&#160;&#160;&#160;&#160;[5. La Primera Gran Decisión](part-4/136.md#5la-primera-gran-decisión "5. La Primera Gran Decisión") . 1516
 
-&#160;&#160;&#160;&#160;[6. The Second Decision](part-4/136.md#6the-second-decision "6. The Second Decision") . 1517
+&#160;&#160;&#160;&#160;[6. La Segunda Decisión](part-4/136.md#6la-segunda-decisión "6. La Segunda Decisión") . 1517
 
-&#160;&#160;&#160;&#160;[7. The Third Decision](part-4/136.md#7the-third-decision "7. The Third Decision") . 1519
+&#160;&#160;&#160;&#160;[7. La Tercera Decisión](part-4/136.md#7la-tercera-decisión "7. La Tercera Decisión") . 1519
 
-&#160;&#160;&#160;&#160;[8. The Fourth Decision](part-4/136.md#8the-fourth-decision "8. The Fourth Decision") . 1520
+&#160;&#160;&#160;&#160;[8. La Cuarta Decisión](part-4/136.md#8la-cuarta-decisión "8. La Cuarta Decisión") . 1520
 
-&#160;&#160;&#160;&#160;[9. The Fifth Decision](part-4/136.md#9the-fifth-decision "9. The Fifth Decision") . 1521
+&#160;&#160;&#160;&#160;[9. La Quinta Decisión](part-4/136.md#9la-quinta-decisión "9. La Quinta Decisión") . 1521
 
-&#160;&#160;&#160;&#160;[10. The Sixth Decision](part-4/136.md#10the-sixth-decision "10. The Sixth Decision") . 1523
+&#160;&#160;&#160;&#160;[10. La Sexta Decisión](part-4/136.md#10la-sexta-decisión "10. La Sexta Decisión") . 1523
 
-137 . <a href="part-4/137.md" title="Tarrying Time in Galilee">Paper 137 · Tarrying Time in Galilee</a> . 1524
+137 . <a href="part-4/137.md" title="El Tiempo de Espera en Galilea">Documento 137 · El Tiempo de Espera en Galilea</a> . 1524
 
-&#160;&#160;&#160;&#160;[1. Choosing the First Four Apostles](part-4/137.md#1choosing-the-first-four-apostles "1. Choosing the First Four Apostles") . 1524
+&#160;&#160;&#160;&#160;[1. La Selección de los Primeros Cuatro Apóstoles](part-4/137.md#1la-selección-de-los-primeros-cuatro-apóstoles "1. La Selección de los Primeros Cuatro Apóstoles") . 1524
 
-&#160;&#160;&#160;&#160;[2. Choosing Philip and Nathaniel](part-4/137.md#2choosing-philip-and-nathaniel "2. Choosing Philip and Nathaniel") . 1526
+&#160;&#160;&#160;&#160;[2. La Elección de Felipe y Natanael](part-4/137.md#2la-elección-de-felipe-y-natanael "2. La Elección de Felipe y Natanael") . 1526
 
-&#160;&#160;&#160;&#160;[3. The Visit to Capernaum](part-4/137.md#3the-visit-to-capernaum "3. The Visit to Capernaum") . 1527
+&#160;&#160;&#160;&#160;[3. La Visita a Capernaum](part-4/137.md#3la-visita-a-capernaum "3. La Visita a Capernaum") . 1527
 
-&#160;&#160;&#160;&#160;[4. The Wedding at Cana](part-4/137.md#4the-wedding-at-cana "4. The Wedding at Cana") . 1528
+&#160;&#160;&#160;&#160;[4. Las Bodas de Caná](part-4/137.md#4las-bodas-de-caná "4. Las Bodas de Caná") . 1528
 
-&#160;&#160;&#160;&#160;[5. Back in Capernaum](part-4/137.md#5back-in-capernaum "5. Back in Capernaum") . 1531
+&#160;&#160;&#160;&#160;[5. De Regreso a Capernaum](part-4/137.md#5de-regreso-a-capernaum "5. De Regreso a Capernaum") . 1531
 
-&#160;&#160;&#160;&#160;[6. The Events of a Sabbath Day](part-4/137.md#6the-events-of-a-sabbath-day "6. The Events of a Sabbath Day") . 1532
+&#160;&#160;&#160;&#160;[6. Los Acontecimientos de un Día Sábado](part-4/137.md#6los-acontecimientos-de-un-día-sábado "6. Los Acontecimientos de un Día Sábado") . 1532
 
-&#160;&#160;&#160;&#160;[7. Four Months of Training](part-4/137.md#7four-months-of-training "7. Four Months of Training") . 1533
+&#160;&#160;&#160;&#160;[7. Cuatro Meses de Capacitación](part-4/137.md#7cuatro-meses-de-capacitación "7. Cuatro Meses de Capacitación") . 1533
 
-&#160;&#160;&#160;&#160;[8. Sermon on the Kingdom](part-4/137.md#8sermon-on-the-kingdom "8. Sermon on the Kingdom") . 1535
+&#160;&#160;&#160;&#160;[8. El Sermón Sobre el Reino](part-4/137.md#8el-sermón-sobre-el-reino "8. El Sermón Sobre el Reino") . 1535
 
-138 . <a href="part-4/138.md" title="Training the Kingdom’s Messengers">Paper 138 · Training the Kingdom’s Messengers</a> . 1538
+138 . <a href="part-4/138.md" title="La Capacitación de los Mensajeros del Reino">Documento 138 · La Capacitación de los Mensajeros del Reino</a> . 1538
 
-&#160;&#160;&#160;&#160;[1. Final Instructions](part-4/138.md#1final-instructions "1. Final Instructions") . 1538
+&#160;&#160;&#160;&#160;[1. Las Instrucciones Finales](part-4/138.md#1las-instrucciones-finales "1. Las Instrucciones Finales") . 1538
 
-&#160;&#160;&#160;&#160;[2. Choosing the Six](part-4/138.md#2choosing-the-six "2. Choosing the Six") . 1539
+&#160;&#160;&#160;&#160;[2. La Selección de los Seis](part-4/138.md#2la-selección-de-los-seis "2. La Selección de los Seis") . 1539
 
-&#160;&#160;&#160;&#160;[3. The Call of Matthew and Simon](part-4/138.md#3the-call-of-matthew-and-simon "3. The Call of Matthew and Simon") . 1540
+&#160;&#160;&#160;&#160;[3. El Llamado de Mateo y Simón](part-4/138.md#3el-llamado-de-mateo-y-simón "3. El Llamado de Mateo y Simón") . 1540
 
-&#160;&#160;&#160;&#160;[4. The Call of the Twins](part-4/138.md#4the-call-of-the-twins "4. The Call of the Twins") . 1541
+&#160;&#160;&#160;&#160;[4. El Llamado de los Gemelos](part-4/138.md#4el-llamado-de-los-gemelos "4. El Llamado de los Gemelos") . 1541
 
-&#160;&#160;&#160;&#160;[5. The Call of Thomas and Judas](part-4/138.md#5the-call-of-thomas-and-judas "5. The Call of Thomas and Judas") . 1542
+&#160;&#160;&#160;&#160;[5. El Llamado de Tomás y Judas](part-4/138.md#5el-llamado-de-tomás-y-judas "5. El Llamado de Tomás y Judas") . 1542
 
-&#160;&#160;&#160;&#160;[6. The Week of Intensive Training](part-4/138.md#6the-week-of-intensive-training "6. The Week of Intensive Training") . 1542
+&#160;&#160;&#160;&#160;[6. La Semana de Capacitación Intensiva](part-4/138.md#6la-semana-de-capacitación-intensiva "6. La Semana de Capacitación Intensiva") . 1542
 
-&#160;&#160;&#160;&#160;[7. Another Disappointment](part-4/138.md#7another-disappointment "7. Another Disappointment") . 1543
+&#160;&#160;&#160;&#160;[7. Otra Desilusión](part-4/138.md#7otra-desilusión "7. Otra Desilusión") . 1543
 
-&#160;&#160;&#160;&#160;[8. First Work of the Twelve](part-4/138.md#8first-work-of-the-twelve "8. First Work of the Twelve") . 1545
+&#160;&#160;&#160;&#160;[8. La Primera Labor de los Doce](part-4/138.md#8la-primera-labor-de-los-doce "8. La Primera Labor de los Doce") . 1545
 
-&#160;&#160;&#160;&#160;[9. Five Months of Testing](part-4/138.md#9five-months-of-testing "9. Five Months of Testing") . 1546
+&#160;&#160;&#160;&#160;[9. Cinco Meses de Prueba](part-4/138.md#9cinco-meses-de-prueba "9. Cinco Meses de Prueba") . 1546
 
-&#160;&#160;&#160;&#160;[10. Organization of the Twelve](part-4/138.md#10organization-of-the-twelve "10. Organization of the Twelve") . 1547
+&#160;&#160;&#160;&#160;[10. La Organización de los Doce](part-4/138.md#10la-organización-de-los-doce "10. La Organización de los Doce") . 1547
 
-139 . <a href="part-4/139.md" title="The Twelve Apostles">Paper 139 · The Twelve Apostles</a> . 1548
+139 . <a href="part-4/139.md" title="Los Doce Apóstoles">Documento 139 · Los Doce Apóstoles</a> . 1548
 
-&#160;&#160;&#160;&#160;[1. Andrew, the First Chosen](part-4/139.md#1andrew-the-first-chosen "1. Andrew, the First Chosen") . 1548
+&#160;&#160;&#160;&#160;[1. Andrés, el Primer Elegido](part-4/139.md#1andrés-el-primer-elegido "1. Andrés, el Primer Elegido") . 1548
 
-&#160;&#160;&#160;&#160;[2. Simon Peter](part-4/139.md#2simon-peter "2. Simon Peter") . 1550
+&#160;&#160;&#160;&#160;[2. Simón Pedro](part-4/139.md#2simón-pedro "2. Simón Pedro") . 1550
 
-&#160;&#160;&#160;&#160;[3. James Zebedee](part-4/139.md#3james-zebedee "3. James Zebedee") . 1552
+&#160;&#160;&#160;&#160;[3. Santiago Zebedeo](part-4/139.md#3santiago-zebedeo "3. Santiago Zebedeo") . 1552
 
-&#160;&#160;&#160;&#160;[4. John Zebedee](part-4/139.md#4john-zebedee "4. John Zebedee") . 1553
+&#160;&#160;&#160;&#160;[4. Juan Zebedeo](part-4/139.md#4juan-zebedeo "4. Juan Zebedeo") . 1553
 
-&#160;&#160;&#160;&#160;[5. Philip the Curious](part-4/139.md#5philip-the-curious "5. Philip the Curious") . 1556
+&#160;&#160;&#160;&#160;[5. Felipe el Curioso](part-4/139.md#5felipe-el-curioso "5. Felipe el Curioso") . 1556
 
-&#160;&#160;&#160;&#160;[6. Honest Nathaniel](part-4/139.md#6honest-nathaniel "6. Honest Nathaniel") . 1558
+&#160;&#160;&#160;&#160;[6. El Honesto Natanael](part-4/139.md#6el-honesto-natanael "6. El Honesto Natanael") . 1558
 
-&#160;&#160;&#160;&#160;[7. Matthew Levi](part-4/139.md#7matthew-levi "7. Matthew Levi") . 1559
+&#160;&#160;&#160;&#160;[7. Mateo Leví](part-4/139.md#7mateo-leví "7. Mateo Leví") . 1559
 
-&#160;&#160;&#160;&#160;[8. Thomas Didymus](part-4/139.md#8thomas-didymus "8. Thomas Didymus") . 1561
+&#160;&#160;&#160;&#160;[8. Tomás el Dídimo](part-4/139.md#8tomás-el-dídimo "8. Tomás el Dídimo") . 1561
 
-&#160;&#160;&#160;&#160;[9. and 10. James and Judas Alpheus](part-4/139.md#9and-10james-and-judas-alpheus "9. and 10. James and Judas Alpheus") . 1563
+&#160;&#160;&#160;&#160;[9. y 10. Jacobo y Judas Alfeo](part-4/139.md#9y-10jacobo-y-judas-alfeo "9. y 10. Jacobo y Judas Alfeo") . 1563
 
-&#160;&#160;&#160;&#160;[11. Simon the Zealot](part-4/139.md#11simon-the-zealot "11. Simon the Zealot") . 1564
+&#160;&#160;&#160;&#160;[11. Simón el Zelote](part-4/139.md#11simón-el-zelote "11. Simón el Zelote") . 1564
 
-&#160;&#160;&#160;&#160;[12. Judas Iscariot](part-4/139.md#12judas-iscariot "12. Judas Iscariot") . 1565
+&#160;&#160;&#160;&#160;[12. Judas Iscariote](part-4/139.md#12judas-iscariote "12. Judas Iscariote") . 1565
 
-140 . <a href="part-4/140.md" title="The Ordination of the Twelve">Paper 140 · The Ordination of the Twelve</a> . 1568
+140 . <a href="part-4/140.md" title="La Ordenación de los Doce">Documento 140 · La Ordenación de los Doce</a> . 1568
 
-&#160;&#160;&#160;&#160;[1. Preliminary Instruction](part-4/140.md#1preliminary-instruction "1. Preliminary Instruction") . 1568
+&#160;&#160;&#160;&#160;[1. La Instrucción Preliminar](part-4/140.md#1la-instrucción-preliminar "1. La Instrucción Preliminar") . 1568
 
-&#160;&#160;&#160;&#160;[2. The Ordination](part-4/140.md#2the-ordination "2. The Ordination") . 1569
+&#160;&#160;&#160;&#160;[2. La Ordenación](part-4/140.md#2la-ordenación "2. La Ordenación") . 1569
 
-&#160;&#160;&#160;&#160;[3. The Ordination Sermon](part-4/140.md#3the-ordination-sermon "3. The Ordination Sermon") . 1570
+&#160;&#160;&#160;&#160;[3. El Sermón de la Ordenación](part-4/140.md#3el-sermón-de-la-ordenación "3. El Sermón de la Ordenación") . 1570
 
-&#160;&#160;&#160;&#160;[4. You Are the Salt of the Earth](part-4/140.md#4you-are-the-salt-of-the-earth "4. You Are the Salt of the Earth") . 1572
+&#160;&#160;&#160;&#160;[4. Vosotros Sois la Sal de la Tierra](part-4/140.md#4vosotros-sois-la-sal-de-la-tierra "4. Vosotros Sois la Sal de la Tierra") . 1572
 
-&#160;&#160;&#160;&#160;[5. Fatherly and Brotherly Love](part-4/140.md#5fatherly-and-brotherly-love "5. Fatherly and Brotherly Love") . 1573
+&#160;&#160;&#160;&#160;[5. El Amor Paterno y el Fraterno](part-4/140.md#5el-amor-paterno-y-el-fraterno "5. El Amor Paterno y el Fraterno") . 1573
 
-&#160;&#160;&#160;&#160;[6. The Evening of the Ordination](part-4/140.md#6the-evening-of-the-ordination "6. The Evening of the Ordination") . 1576
+&#160;&#160;&#160;&#160;[6. La Noche de la Ordenación](part-4/140.md#6la-noche-de-la-ordenación "6. La Noche de la Ordenación") . 1576
 
-&#160;&#160;&#160;&#160;[7. The Week Following the Ordination](part-4/140.md#7the-week-following-the-ordination "7. The Week Following the Ordination") . 1578
+&#160;&#160;&#160;&#160;[7. La Semana Posterior a la Ordenación](part-4/140.md#7la-semana-posterior-a-la-ordenación "7. La Semana Posterior a la Ordenación") . 1578
 
-&#160;&#160;&#160;&#160;[8. Thursday Afternoon on the Lake](part-4/140.md#8thursday-afternoon-on-the-lake "8. Thursday Afternoon on the Lake") . 1579
+&#160;&#160;&#160;&#160;[8. El Jueves por la Tarde en el Lago](part-4/140.md#8el-jueves-por-la-tarde-en-el-lago "8. El Jueves por la Tarde en el Lago") . 1579
 
-&#160;&#160;&#160;&#160;[9. The Day of Consecration](part-4/140.md#9the-day-of-consecration "9. The Day of Consecration") . 1583
+&#160;&#160;&#160;&#160;[9. El Día de la Consagración](part-4/140.md#9el-día-de-la-consagración "9. El Día de la Consagración") . 1583
 
-&#160;&#160;&#160;&#160;[10. The Evening After the Consecration](part-4/140.md#10the-evening-after-the-consecration "10. The Evening After the Consecration") . 1584
+&#160;&#160;&#160;&#160;[10. La Noche Después de la Consagración](part-4/140.md#10la-noche-después-de-la-consagración "10. La Noche Después de la Consagración") . 1584
 
-141 . <a href="part-4/141.md" title="Beginning the Public Work">Paper 141 · Beginning the Public Work</a> . 1587
+141 . <a href="part-4/141.md" title="El Comienzo de la Obra Pública">Documento 141 · El Comienzo de la Obra Pública</a> . 1587
 
-&#160;&#160;&#160;&#160;[1. Leaving Galilee](part-4/141.md#1leaving-galilee "1. Leaving Galilee") . 1587
+&#160;&#160;&#160;&#160;[1. La Salida de Galilea](part-4/141.md#1la-salida-de-galilea "1. La Salida de Galilea") . 1587
 
-&#160;&#160;&#160;&#160;[2. God’s Law and the Father’s Will](part-4/141.md#2gods-law-and-the-fathers-will "2. God’s Law and the Father’s Will") . 1588
+&#160;&#160;&#160;&#160;[2. La Ley de Dios y la Voluntad del Padre](part-4/141.md#2la-ley-de-dios-y-la-voluntad-del-padre "2. La Ley de Dios y la Voluntad del Padre") . 1588
 
-&#160;&#160;&#160;&#160;[3. The Sojourn at Amathus](part-4/141.md#3the-sojourn-at-amathus "3. The Sojourn at Amathus") . 1589
+&#160;&#160;&#160;&#160;[3. La Estadía en Amatus](part-4/141.md#3la-estadía-en-amatus "3. La Estadía en Amatus") . 1589
 
-&#160;&#160;&#160;&#160;[4. Teaching About the Father](part-4/141.md#4teaching-about-the-father "4. Teaching About the Father") . 1590
+&#160;&#160;&#160;&#160;[4. Las Enseñanzas Sobre el Padre](part-4/141.md#4las-enseñanzas-sobre-el-padre "4. Las Enseñanzas Sobre el Padre") . 1590
 
-&#160;&#160;&#160;&#160;[5. Spiritual Unity](part-4/141.md#5spiritual-unity "5. Spiritual Unity") . 1591
+&#160;&#160;&#160;&#160;[5. La Unidad Espiritual](part-4/141.md#5la-unidad-espiritual "5. La Unidad Espiritual") . 1591
 
-&#160;&#160;&#160;&#160;[6. Last Week at Amathus](part-4/141.md#6last-week-at-amathus "6. Last Week at Amathus") . 1592
+&#160;&#160;&#160;&#160;[6. La Última Semana en Amatus](part-4/141.md#6la-última-semana-en-amatus "6. La Última Semana en Amatus") . 1592
 
-&#160;&#160;&#160;&#160;[7. At Bethany Beyond Jordan](part-4/141.md#7at-bethany-beyond-jordan "7. At Bethany Beyond Jordan") . 1593
+&#160;&#160;&#160;&#160;[7. En Betania Más Allá del Jordán](part-4/141.md#7en-betania-más-allá-del-jordán "7. En Betania Más Allá del Jordán") . 1593
 
-&#160;&#160;&#160;&#160;[8. Working in Jericho](part-4/141.md#8working-in-jericho "8. Working in Jericho") . 1595
+&#160;&#160;&#160;&#160;[8. El Trabajo en Jericó](part-4/141.md#8el-trabajo-en-jericó "8. El Trabajo en Jericó") . 1595
 
-&#160;&#160;&#160;&#160;[9. Departing for Jerusalem](part-4/141.md#9departing-for-jerusalem "9. Departing for Jerusalem") . 1595
+&#160;&#160;&#160;&#160;[9. La Partida para Jerusalén](part-4/141.md#9la-partida-para-jerusalén "9. La Partida para Jerusalén") . 1595
 
-142 . <a href="part-4/142.md" title="The Passover at Jerusalem">Paper 142 · The Passover at Jerusalem</a> . 1596
+142 . <a href="part-4/142.md" title="La Pascua en Jerusalén">Documento 142 · La Pascua en Jerusalén</a> . 1596
 
-&#160;&#160;&#160;&#160;[1. Teaching in the Temple](part-4/142.md#1teaching-in-the-temple "1. Teaching in the Temple") . 1596
+&#160;&#160;&#160;&#160;[1. La Enseñanza en el Templo](part-4/142.md#1la-enseñanza-en-el-templo "1. La Enseñanza en el Templo") . 1596
 
-&#160;&#160;&#160;&#160;[2. God’s Wrath](part-4/142.md#2gods-wrath "2. God’s Wrath") . 1597
+&#160;&#160;&#160;&#160;[2. La Ira de Dios](part-4/142.md#2la-ira-de-dios "2. La Ira de Dios") . 1597
 
-&#160;&#160;&#160;&#160;[3. The Concept of God](part-4/142.md#3the-concept-of-god "3. The Concept of God") . 1598
+&#160;&#160;&#160;&#160;[3. El Concepto de Dios](part-4/142.md#3el-concepto-de-dios "3. El Concepto de Dios") . 1598
 
-&#160;&#160;&#160;&#160;[4. Flavius and Greek Culture](part-4/142.md#4flavius-and-greek-culture "4. Flavius and Greek Culture") . 1600
+&#160;&#160;&#160;&#160;[4. Flavio y la Cultura Griega](part-4/142.md#4flavio-y-la-cultura-griega "4. Flavio y la Cultura Griega") . 1600
 
-&#160;&#160;&#160;&#160;[5. The Discourse on Assurance](part-4/142.md#5the-discourse-on-assurance "5. The Discourse on Assurance") . 1601
+&#160;&#160;&#160;&#160;[5. El Discurso Sobre la Certidumbre](part-4/142.md#5el-discurso-sobre-la-certidumbre "5. El Discurso Sobre la Certidumbre") . 1601
 
-&#160;&#160;&#160;&#160;[6. The Visit with Nicodemus](part-4/142.md#6the-visit-with-nicodemus "6. The Visit with Nicodemus") . 1601
+&#160;&#160;&#160;&#160;[6. El Encuentro con Nicodemo](part-4/142.md#6el-encuentro-con-nicodemo "6. El Encuentro con Nicodemo") . 1601
 
-&#160;&#160;&#160;&#160;[7. The Lesson on the Family](part-4/142.md#7the-lesson-on-the-family "7. The Lesson on the Family") . 1603
+&#160;&#160;&#160;&#160;[7. La Lección Sobre la Familia](part-4/142.md#7la-lección-sobre-la-familia "7. La Lección Sobre la Familia") . 1603
 
-&#160;&#160;&#160;&#160;[8. In Southern Judea](part-4/142.md#8in-southern-judea "8. In Southern Judea") . 1605
+&#160;&#160;&#160;&#160;[8. En la Judea del Sur](part-4/142.md#8en-la-judea-del-sur "8. En la Judea del Sur") . 1605
 
-143 . <a href="part-4/143.md" title="Going Through Samaria">Paper 143 · Going Through Samaria</a> . 1607
+143 . <a href="part-4/143.md" title="De Paso por Samaria">Documento 143 · De Paso por Samaria</a> . 1607
 
-&#160;&#160;&#160;&#160;[1. Preaching at Archelais](part-4/143.md#1preaching-at-archelais "1. Preaching at Archelais") . 1607
+&#160;&#160;&#160;&#160;[1. Las Predicaciones en Arquelais](part-4/143.md#1las-predicaciones-en-arquelais "1. Las Predicaciones en Arquelais") . 1607
 
-&#160;&#160;&#160;&#160;[2. Lesson on Self-Mastery](part-4/143.md#2lesson-on-self-mastery "2. Lesson on Self-Mastery") . 1609
+&#160;&#160;&#160;&#160;[2. La Lección Sobre el Autodominio](part-4/143.md#2la-lección-sobre-el-autodominio "2. La Lección Sobre el Autodominio") . 1609
 
-&#160;&#160;&#160;&#160;[3. Diversion and Relaxation](part-4/143.md#3diversion-and-relaxation "3. Diversion and Relaxation") . 1610
+&#160;&#160;&#160;&#160;[3. La Recreación y el Esparcimiento](part-4/143.md#3la-recreación-y-el-esparcimiento "3. La Recreación y el Esparcimiento") . 1610
 
-&#160;&#160;&#160;&#160;[4. The Jews and the Samaritans](part-4/143.md#4the-jews-and-the-samaritans "4. The Jews and the Samaritans") . 1612
+&#160;&#160;&#160;&#160;[4. Los Judíos y los Samaritanos](part-4/143.md#4los-judíos-y-los-samaritanos "4. Los Judíos y los Samaritanos") . 1612
 
-&#160;&#160;&#160;&#160;[5. The Woman of Sychar](part-4/143.md#5the-woman-of-sychar "5. The Woman of Sychar") . 1612
+&#160;&#160;&#160;&#160;[5. La Mujer de Sicar](part-4/143.md#5la-mujer-de-sicar "5. La Mujer de Sicar") . 1612
 
-&#160;&#160;&#160;&#160;[6. The Samaritan Revival](part-4/143.md#6the-samaritan-revival "6. The Samaritan Revival") . 1615
+&#160;&#160;&#160;&#160;[6. El Renacimiento Samaritano](part-4/143.md#6el-renacimiento-samaritano "6. El Renacimiento Samaritano") . 1615
 
-&#160;&#160;&#160;&#160;[7. Teachings About Prayer and Worship](part-4/143.md#7teachings-about-prayer-and-worship "7. Teachings About Prayer and Worship") . 1616
+&#160;&#160;&#160;&#160;[7. Las Enseñanzas Sobre la Oración y la Adoración](part-4/143.md#7las-enseñanzas-sobre-la-oración-y-la-adoración "7. Las Enseñanzas Sobre la Oración y la Adoración") . 1616
 
-144 . <a href="part-4/144.md" title="At Gilboa and in the Decapolis">Paper 144 · At Gilboa and in the Decapolis</a> . 1617
+144 . <a href="part-4/144.md" title="En Gilboa y en la Decápolis">Documento 144 · En Gilboa y en la Decápolis</a> . 1617
 
-&#160;&#160;&#160;&#160;[1. The Gilboa Encampment](part-4/144.md#1the-gilboa-encampment "1. The Gilboa Encampment") . 1617
+&#160;&#160;&#160;&#160;[1. El Campamento de Gilboa](part-4/144.md#1el-campamento-de-gilboa "1. El Campamento de Gilboa") . 1617
 
-&#160;&#160;&#160;&#160;[2. The Discourse on Prayer](part-4/144.md#2the-discourse-on-prayer "2. The Discourse on Prayer") . 1618
+&#160;&#160;&#160;&#160;[2. El Discurso Sobre la Oración](part-4/144.md#2el-discurso-sobre-la-oración "2. El Discurso Sobre la Oración") . 1618
 
-&#160;&#160;&#160;&#160;[3. The Believer’s Prayer](part-4/144.md#3the-believers-prayer "3. The Believer’s Prayer") . 1619
+&#160;&#160;&#160;&#160;[3. La Oración del Creyente](part-4/144.md#3la-oración-del-creyente "3. La Oración del Creyente") . 1619
 
-&#160;&#160;&#160;&#160;[4. More About Prayer](part-4/144.md#4more-about-prayer "4. More About Prayer") . 1620
+&#160;&#160;&#160;&#160;[4. Más Sobre la Oración](part-4/144.md#4más-sobre-la-oración "4. Más Sobre la Oración") . 1620
 
-&#160;&#160;&#160;&#160;[5. Other Forms of Prayer](part-4/144.md#5other-forms-of-prayer "5. Other Forms of Prayer") . 1621
+&#160;&#160;&#160;&#160;[5. Otras Formas de Oración](part-4/144.md#5otras-formas-de-oración "5. Otras Formas de Oración") . 1621
 
-&#160;&#160;&#160;&#160;[6. Conference with John’s Apostles](part-4/144.md#6conference-with-johns-apostles "6. Conference with John’s Apostles") . 1624
+&#160;&#160;&#160;&#160;[6. La Conferencia con los Apóstoles de Juan](part-4/144.md#6la-conferencia-con-los-apóstoles-de-juan "6. La Conferencia con los Apóstoles de Juan") . 1624
 
-&#160;&#160;&#160;&#160;[7. In the Decapolis Cities](part-4/144.md#7in-the-decapolis-cities "7. In the Decapolis Cities") . 1626
+&#160;&#160;&#160;&#160;[7. En las Ciudades de la Decápolis](part-4/144.md#7en-las-ciudades-de-la-decápolis "7. En las Ciudades de la Decápolis") . 1626
 
-&#160;&#160;&#160;&#160;[8. In Camp Near Pella](part-4/144.md#8in-camp-near-pella "8. In Camp Near Pella") . 1626
+&#160;&#160;&#160;&#160;[8. En el Campamento Cerca de Pella](part-4/144.md#8en-el-campamento-cerca-de-pella "8. En el Campamento Cerca de Pella") . 1626
 
-&#160;&#160;&#160;&#160;[9. Death of John the Baptist](part-4/144.md#9death-of-john-the-baptist "9. Death of John the Baptist") . 1627
+&#160;&#160;&#160;&#160;[9. La Muerte de Juan el Bautista](part-4/144.md#9la-muerte-de-juan-el-bautista "9. La Muerte de Juan el Bautista") . 1627
 
-145 . <a href="part-4/145.md" title="Four Eventful Days at Capernaum">Paper 145 · Four Eventful Days at Capernaum</a> . 1628
+145 . <a href="part-4/145.md" title="Cuatro Días Memorables en Capernaum">Documento 145 · Cuatro Días Memorables en Capernaum</a> . 1628
 
-&#160;&#160;&#160;&#160;[1. The Draught of Fishes](part-4/145.md#1the-draught-of-fishes "1. The Draught of Fishes") . 1628
+&#160;&#160;&#160;&#160;[1. La Redada de los Peces](part-4/145.md#1la-redada-de-los-peces "1. La Redada de los Peces") . 1628
 
-&#160;&#160;&#160;&#160;[2. Afternoon at the Synagogue](part-4/145.md#2afternoon-at-the-synagogue "2. Afternoon at the Synagogue") . 1629
+&#160;&#160;&#160;&#160;[2. La Tarde en la Sinagoga](part-4/145.md#2la-tarde-en-la-sinagoga "2. La Tarde en la Sinagoga") . 1629
 
-&#160;&#160;&#160;&#160;[3. The Healing at Sundown](part-4/145.md#3the-healing-at-sundown "3. The Healing at Sundown") . 1631
+&#160;&#160;&#160;&#160;[3. La Curación a la Puesta del Sol](part-4/145.md#3la-curación-a-la-puesta-del-sol "3. La Curación a la Puesta del Sol") . 1631
 
-&#160;&#160;&#160;&#160;[4. The Evening After](part-4/145.md#4the-evening-after "4. The Evening After") . 1634
+&#160;&#160;&#160;&#160;[4. La Noche Siguiente](part-4/145.md#4la-noche-siguiente "4. La Noche Siguiente") . 1634
 
-&#160;&#160;&#160;&#160;[5. Early Sunday Morning](part-4/145.md#5early-sunday-morning "5. Early Sunday Morning") . 1634
+&#160;&#160;&#160;&#160;[5. Domingo por la Madrugada](part-4/145.md#5domingo-por-la-madrugada "5. Domingo por la Madrugada") . 1634
 
-146 . <a href="part-4/146.md" title="First Preaching Tour of Galilee">Paper 146 · First Preaching Tour of Galilee</a> . 1637
+146 . <a href="part-4/146.md" title="La Primera Gira de Predicación en Galilea">Documento 146 · La Primera Gira de Predicación en Galilea</a> . 1637
 
-&#160;&#160;&#160;&#160;[1. Preaching at Rimmon](part-4/146.md#1preaching-at-rimmon "1. Preaching at Rimmon") . 1637
+&#160;&#160;&#160;&#160;[1. La Predicación en Rimón](part-4/146.md#1la-predicación-en-rimón "1. La Predicación en Rimón") . 1637
 
-&#160;&#160;&#160;&#160;[2. At Jotapata](part-4/146.md#2at-jotapata "2. At Jotapata") . 1638
+&#160;&#160;&#160;&#160;[2. En Jotapata](part-4/146.md#2en-jotapata "2. En Jotapata") . 1638
 
-&#160;&#160;&#160;&#160;[3. The Stop at Ramah](part-4/146.md#3the-stop-at-ramah "3. The Stop at Ramah") . 1641
+&#160;&#160;&#160;&#160;[3. La Parada en Ramá](part-4/146.md#3la-parada-en-ramá "3. La Parada en Ramá") . 1641
 
-&#160;&#160;&#160;&#160;[4. The Gospel at Iron](part-4/146.md#4the-gospel-at-iron "4. The Gospel at Iron") . 1643
+&#160;&#160;&#160;&#160;[4. El Evangelio en Irón](part-4/146.md#4el-evangelio-en-irón "4. El Evangelio en Irón") . 1643
 
-&#160;&#160;&#160;&#160;[5. Back in Cana](part-4/146.md#5back-in-cana "5. Back in Cana") . 1644
+&#160;&#160;&#160;&#160;[5. De Vuelta en Caná](part-4/146.md#5de-vuelta-en-caná "5. De Vuelta en Caná") . 1644
 
-&#160;&#160;&#160;&#160;[6. Nain and the Widow’s Son](part-4/146.md#6nain-and-the-widows-son "6. Nain and the Widow’s Son") . 1645
+&#160;&#160;&#160;&#160;[6. Naín y el Hijo de la Viuda](part-4/146.md#6naín-y-el-hijo-de-la-viuda "6. Naín y el Hijo de la Viuda") . 1645
 
-&#160;&#160;&#160;&#160;[7. At Endor](part-4/146.md#7at-endor "7. At Endor") . 1646
+&#160;&#160;&#160;&#160;[7. En Endor](part-4/146.md#7en-endor "7. En Endor") . 1646
 
-147 . <a href="part-4/147.md" title="The Interlude Visit to Jerusalem">Paper 147 · The Interlude Visit to Jerusalem</a> . 1647
+147 . <a href="part-4/147.md" title="El Interludio en Jerusalén">Documento 147 · El Interludio en Jerusalén</a> . 1647
 
-&#160;&#160;&#160;&#160;[1. The Centurion’s Servant](part-4/147.md#1the-centurions-servant "1. The Centurion’s Servant") . 1647
+&#160;&#160;&#160;&#160;[1. El Siervo del Centurión](part-4/147.md#1el-siervo-del-centurión "1. El Siervo del Centurión") . 1647
 
-&#160;&#160;&#160;&#160;[2. The Journey to Jerusalem](part-4/147.md#2the-journey-to-jerusalem "2. The Journey to Jerusalem") . 1648
+&#160;&#160;&#160;&#160;[2. El Viaje a Jerusalén](part-4/147.md#2el-viaje-a-jerusalén "2. El Viaje a Jerusalén") . 1648
 
-&#160;&#160;&#160;&#160;[3. At the Pool of Bethesda](part-4/147.md#3at-the-pool-of-bethesda "3. At the Pool of Bethesda") . 1649
+&#160;&#160;&#160;&#160;[3. En el Estanque de Betesda](part-4/147.md#3en-el-estanque-de-betesda "3. En el Estanque de Betesda") . 1649
 
-&#160;&#160;&#160;&#160;[4. The Rule of Living](part-4/147.md#4the-rule-of-living "4. The Rule of Living") . 1650
+&#160;&#160;&#160;&#160;[4. La Regla del Vivir](part-4/147.md#4la-regla-del-vivir "4. La Regla del Vivir") . 1650
 
-&#160;&#160;&#160;&#160;[5. Visiting Simon the Pharisee](part-4/147.md#5visiting-simon-the-pharisee "5. Visiting Simon the Pharisee") . 1651
+&#160;&#160;&#160;&#160;[5. La Visita a Simón el Fariseo](part-4/147.md#5la-visita-a-simón-el-fariseo "5. La Visita a Simón el Fariseo") . 1651
 
-&#160;&#160;&#160;&#160;[6. Returning to Capernaum](part-4/147.md#6returning-to-capernaum "6. Returning to Capernaum") . 1653
+&#160;&#160;&#160;&#160;[6. El Regreso a Capernaum](part-4/147.md#6el-regreso-a-capernaum "6. El Regreso a Capernaum") . 1653
 
-&#160;&#160;&#160;&#160;[7. Back in Capernaum](part-4/147.md#7back-in-capernaum "7. Back in Capernaum") . 1655
+&#160;&#160;&#160;&#160;[7. De Vuelta en Capernaum](part-4/147.md#7de-vuelta-en-capernaum "7. De Vuelta en Capernaum") . 1655
 
-&#160;&#160;&#160;&#160;[8. The Feast of Spiritual Goodness](part-4/147.md#8the-feast-of-spiritual-goodness "8. The Feast of Spiritual Goodness") . 1656
+&#160;&#160;&#160;&#160;[8. La Fiesta de la Bondad Espiritual](part-4/147.md#8la-fiesta-de-la-bondad-espiritual "8. La Fiesta de la Bondad Espiritual") . 1656
 
-148 . <a href="part-4/148.md" title="Training Evangelists at Bethsaida">Paper 148 · Training Evangelists at Bethsaida</a> . 1657
+148 . <a href="part-4/148.md" title="La Capacitación de los Evangelistas en Betsaida">Documento 148 · La Capacitación de los Evangelistas en Betsaida</a> . 1657
 
-&#160;&#160;&#160;&#160;[1. A New School of the Prophets](part-4/148.md#1a-new-school-of-the-prophets "1. A New School of the Prophets") . 1657
+&#160;&#160;&#160;&#160;[1. Una Nueva Escuela de Profetas](part-4/148.md#1una-nueva-escuela-de-profetas "1. Una Nueva Escuela de Profetas") . 1657
 
-&#160;&#160;&#160;&#160;[2. The Bethsaida Hospital](part-4/148.md#2the-bethsaida-hospital "2. The Bethsaida Hospital") . 1658
+&#160;&#160;&#160;&#160;[2. El Hospital de Betsaida](part-4/148.md#2el-hospital-de-betsaida "2. El Hospital de Betsaida") . 1658
 
-&#160;&#160;&#160;&#160;[3. The Father’s Business](part-4/148.md#3the-fathers-business "3. The Father’s Business") . 1659
+&#160;&#160;&#160;&#160;[3. Los Asuntos del Padre](part-4/148.md#3los-asuntos-del-padre "3. Los Asuntos del Padre") . 1659
 
-&#160;&#160;&#160;&#160;[4. Evil, Sin, and Iniquity](part-4/148.md#4evil-sin-and-iniquity "4. Evil, Sin, and Iniquity") . 1659
+&#160;&#160;&#160;&#160;[4. El Mal, el Pecado y la Iniquidad](part-4/148.md#4el-mal-el-pecado-y-la-iniquidad "4. El Mal, el Pecado y la Iniquidad") . 1659
 
-&#160;&#160;&#160;&#160;[5. The Purpose of Affliction](part-4/148.md#5the-purpose-of-affliction "5. The Purpose of Affliction") . 1661
+&#160;&#160;&#160;&#160;[5. El Propósito de la Aflicción](part-4/148.md#5el-propósito-de-la-aflicción "5. El Propósito de la Aflicción") . 1661
 
-&#160;&#160;&#160;&#160;[6. The Misunderstanding of Suffering—<br />Discourse on Job](part-4/148.md#6the-misunderstanding-of-sufferingdiscourse-on-job "6. The Misunderstanding of Suffering—<br />Discourse on Job") . 1662
+&#160;&#160;&#160;&#160;[6. La Interpretación Errónea del Sufrimiento —<br />El Discurso Sobre Job](part-4/148.md#6la-interpretación-errónea-del-sufrimiento-el-discurso-sobre-job "6. La Interpretación Errónea del Sufrimiento —<br />El Discurso Sobre Job") . 1662
 
-&#160;&#160;&#160;&#160;[7. The Man with the Withered Hand](part-4/148.md#7the-man-with-the-withered-hand "7. The Man with the Withered Hand") . 1664
+&#160;&#160;&#160;&#160;[7. El Hombre de la Mano Seca](part-4/148.md#7el-hombre-de-la-mano-seca "7. El Hombre de la Mano Seca") . 1664
 
-&#160;&#160;&#160;&#160;[8. Last Week at Bethsaida](part-4/148.md#8last-week-at-bethsaida "8. Last Week at Bethsaida") . 1665
+&#160;&#160;&#160;&#160;[8. Última Semana en Betsaida](part-4/148.md#8última-semana-en-betsaida "8. Última Semana en Betsaida") . 1665
 
-&#160;&#160;&#160;&#160;[9. Healing the Paralytic](part-4/148.md#9healing-the-paralytic "9. Healing the Paralytic") . 1666
+&#160;&#160;&#160;&#160;[9. La Curación del Paralítico](part-4/148.md#9la-curación-del-paralítico "9. La Curación del Paralítico") . 1666
 
-149 . <a href="part-4/149.md" title="The Second Preaching Tour">Paper 149 · The Second Preaching Tour</a> . 1668
+149 . <a href="part-4/149.md" title="La Segunda Gira de Predicación">Documento 149 · La Segunda Gira de Predicación</a> . 1668
 
-&#160;&#160;&#160;&#160;[1. The Widespread Fame of Jesus](part-4/149.md#1the-widespread-fame-of-jesus "1. The Widespread Fame of Jesus") . 1668
+&#160;&#160;&#160;&#160;[1. La Propagación de la Fama de Jesús](part-4/149.md#1la-propagación-de-la-fama-de-jesús "1. La Propagación de la Fama de Jesús") . 1668
 
-&#160;&#160;&#160;&#160;[2. Attitude of the People](part-4/149.md#2attitude-of-the-people "2. Attitude of the People") . 1670
+&#160;&#160;&#160;&#160;[2. La Actitud de la Gente](part-4/149.md#2la-actitud-de-la-gente "2. La Actitud de la Gente") . 1670
 
-&#160;&#160;&#160;&#160;[3. Hostility of the Religious Leaders](part-4/149.md#3hostility-of-the-religious-leaders "3. Hostility of the Religious Leaders") . 1672
+&#160;&#160;&#160;&#160;[3. La Hostilidad de los Líderes Religiosos](part-4/149.md#3la-hostilidad-de-los-líderes-religiosos "3. La Hostilidad de los Líderes Religiosos") . 1672
 
-&#160;&#160;&#160;&#160;[4. Progress of the Preaching Tour](part-4/149.md#4progress-of-the-preaching-tour "4. Progress of the Preaching Tour") . 1673
+&#160;&#160;&#160;&#160;[4. El Progreso de la Gira de Predicación](part-4/149.md#4el-progreso-de-la-gira-de-predicación "4. El Progreso de la Gira de Predicación") . 1673
 
-&#160;&#160;&#160;&#160;[5. Lesson Regarding Contentment](part-4/149.md#5lesson-regarding-contentment "5. Lesson Regarding Contentment") . 1674
+&#160;&#160;&#160;&#160;[5. La Lección Sobre el Contentamiento](part-4/149.md#5la-lección-sobre-el-contentamiento "5. La Lección Sobre el Contentamiento") . 1674
 
-&#160;&#160;&#160;&#160;[6. The “Fear of the Lord”](part-4/149.md#6the-fear-of-the-lord "6. The “Fear of the Lord”") . 1675
+&#160;&#160;&#160;&#160;[6. El «Temor al Señor»](part-4/149.md#6el-temor-al-señor "6. El «Temor al Señor»") . 1675
 
-&#160;&#160;&#160;&#160;[7. Returning to Bethsaida](part-4/149.md#7returning-to-bethsaida "7. Returning to Bethsaida") . 1677
+&#160;&#160;&#160;&#160;[7. El Retorno a Betsaida](part-4/149.md#7el-retorno-a-betsaida "7. El Retorno a Betsaida") . 1677
 
-150 . <a href="part-4/150.md" title="The Third Preaching Tour">Paper 150 · The Third Preaching Tour</a> . 1678
+150 . <a href="part-4/150.md" title="La Tercera Gira de Predicación">Documento 150 · La Tercera Gira de Predicación</a> . 1678
 
-&#160;&#160;&#160;&#160;[1. The Women’s Evangelistic Corps](part-4/150.md#1the-womens-evangelistic-corps "1. The Women’s Evangelistic Corps") . 1678
+&#160;&#160;&#160;&#160;[1. El Cuerpo Evangelista de Mujeres](part-4/150.md#1el-cuerpo-evangelista-de-mujeres "1. El Cuerpo Evangelista de Mujeres") . 1678
 
-&#160;&#160;&#160;&#160;[2. The Stop at Magdala](part-4/150.md#2the-stop-at-magdala "2. The Stop at Magdala") . 1679
+&#160;&#160;&#160;&#160;[2. La Parada en Magdala](part-4/150.md#2la-parada-en-magdala "2. La Parada en Magdala") . 1679
 
-&#160;&#160;&#160;&#160;[3. Sabbath at Tiberias](part-4/150.md#3sabbath-at-tiberias "3. Sabbath at Tiberias") . 1680
+&#160;&#160;&#160;&#160;[3. El Sábado en Tiberias](part-4/150.md#3el-sábado-en-tiberias "3. El Sábado en Tiberias") . 1680
 
-&#160;&#160;&#160;&#160;[4. Sending the Apostles Out Two and Two](part-4/150.md#4sending-the-apostles-out-two-and-two "4. Sending the Apostles Out Two and Two") . 1681
+&#160;&#160;&#160;&#160;[4. El Envío de los Apóstoles en Grupos de Dos en Dos](part-4/150.md#4el-envío-de-los-apóstoles-en-grupos-de-dos-en-dos "4. El Envío de los Apóstoles en Grupos de Dos en Dos") . 1681
 
-&#160;&#160;&#160;&#160;[5. What Must I Do to Be Saved?](part-4/150.md#5what-must-i-do-to-be-saved "5. What Must I Do to Be Saved?") . 1682
+&#160;&#160;&#160;&#160;[5. ¿Qué Debo Hacer para Ser Salvada?](part-4/150.md#5qué-debo-hacer-para-ser-salvada "5. ¿Qué Debo Hacer para Ser Salvada?") . 1682
 
-&#160;&#160;&#160;&#160;[6. The Evening Lessons](part-4/150.md#6the-evening-lessons "6. The Evening Lessons") . 1683
+&#160;&#160;&#160;&#160;[6. Las Lecciones Vespertinas](part-4/150.md#6las-lecciones-vespertinas "6. Las Lecciones Vespertinas") . 1683
 
-&#160;&#160;&#160;&#160;[7. The Sojourn at Nazareth](part-4/150.md#7the-sojourn-at-nazareth "7. The Sojourn at Nazareth") . 1683
+&#160;&#160;&#160;&#160;[7. La Estadía en Nazaret](part-4/150.md#7la-estadía-en-nazaret "7. La Estadía en Nazaret") . 1683
 
-&#160;&#160;&#160;&#160;[8. The Sabbath Service](part-4/150.md#8the-sabbath-service "8. The Sabbath Service") . 1684
+&#160;&#160;&#160;&#160;[8. El Servicio del Sábado](part-4/150.md#8el-servicio-del-sábado "8. El Servicio del Sábado") . 1684
 
-&#160;&#160;&#160;&#160;[9. The Nazareth Rejection](part-4/150.md#9the-nazareth-rejection "9. The Nazareth Rejection") . 1686
+&#160;&#160;&#160;&#160;[9. El Rechazo en Nazaret](part-4/150.md#9el-rechazo-en-nazaret "9. El Rechazo en Nazaret") . 1686
 
-151 . <a href="part-4/151.md" title="Tarrying and Teaching by the Seaside">Paper 151 · Tarrying and Teaching by the Seaside</a> . 1688
+151 . <a href="part-4/151.md" title="La Estadía y la Enseñanza Junto al Mar">Documento 151 · La Estadía y la Enseñanza Junto al Mar</a> . 1688
 
-&#160;&#160;&#160;&#160;[1. The Parable of the Sower](part-4/151.md#1the-parable-of-the-sower "1. The Parable of the Sower") . 1688
+&#160;&#160;&#160;&#160;[1. La Parábola del Sembrador](part-4/151.md#1la-parábola-del-sembrador "1. La Parábola del Sembrador") . 1688
 
-&#160;&#160;&#160;&#160;[2. Interpretation of the Parable](part-4/151.md#2interpretation-of-the-parable "2. Interpretation of the Parable") . 1689
+&#160;&#160;&#160;&#160;[2. La Interpretación de la Parábola](part-4/151.md#2la-interpretación-de-la-parábola "2. La Interpretación de la Parábola") . 1689
 
-&#160;&#160;&#160;&#160;[3. More About Parables](part-4/151.md#3more-about-parables "3. More About Parables") . 1691
+&#160;&#160;&#160;&#160;[3. Más Sobre las Parábolas](part-4/151.md#3más-sobre-las-parábolas "3. Más Sobre las Parábolas") . 1691
 
-&#160;&#160;&#160;&#160;[4. More Parables by the Sea](part-4/151.md#4more-parables-by-the-sea "4. More Parables by the Sea") . 1693
+&#160;&#160;&#160;&#160;[4. Más Parábolas Junto al Mar](part-4/151.md#4más-parábolas-junto-al-mar "4. Más Parábolas Junto al Mar") . 1693
 
-&#160;&#160;&#160;&#160;[5. The Visit to Kheresa](part-4/151.md#5the-visit-to-kheresa "5. The Visit to Kheresa") . 1694
+&#160;&#160;&#160;&#160;[5. La Visita a Queresa](part-4/151.md#5la-visita-a-queresa "5. La Visita a Queresa") . 1694
 
-&#160;&#160;&#160;&#160;[6. The Kheresa Lunatic](part-4/151.md#6the-kheresa-lunatic "6. The Kheresa Lunatic") . 1695
+&#160;&#160;&#160;&#160;[6. El Lunático de Queresa](part-4/151.md#6el-lunático-de-queresa "6. El Lunático de Queresa") . 1695
 
-152 . <a href="part-4/152.md" title="Events Leading up to the Capernaum Crisis">Paper 152 · Events Leading up to the Capernaum Crisis</a> . 1698
+152 . <a href="part-4/152.md" title="Los Acontecimientos que Condujerona la Crisis de Capernaum">Documento 152 · Los Acontecimientos que Condujerona la Crisis de Capernaum</a> . 1698
 
-&#160;&#160;&#160;&#160;[1. At Jairus’s House](part-4/152.md#1at-jairuss-house "1. At Jairus’s House") . 1699
+&#160;&#160;&#160;&#160;[1. En la Casa de Jairo](part-4/152.md#1en-la-casa-de-jairo "1. En la Casa de Jairo") . 1699
 
-&#160;&#160;&#160;&#160;[2. Feeding the Five Thousand](part-4/152.md#2feeding-the-five-thousand "2. Feeding the Five Thousand") . 1700
+&#160;&#160;&#160;&#160;[2. La Comida para Cinco Mil](part-4/152.md#2la-comida-para-cinco-mil "2. La Comida para Cinco Mil") . 1700
 
-&#160;&#160;&#160;&#160;[3. The King-Making Episode](part-4/152.md#3the-king-making-episode "3. The King-Making Episode") . 1702
+&#160;&#160;&#160;&#160;[3. El Episodio de la Coronación](part-4/152.md#3el-episodio-de-la-coronación "3. El Episodio de la Coronación") . 1702
 
-&#160;&#160;&#160;&#160;[4. Simon Peter’s Night Vision](part-4/152.md#4simon-peters-night-vision "4. Simon Peter’s Night Vision") . 1703
+&#160;&#160;&#160;&#160;[4. La Visión Nocturna de Simón Pedro](part-4/152.md#4la-visión-nocturna-de-simón-pedro "4. La Visión Nocturna de Simón Pedro") . 1703
 
-&#160;&#160;&#160;&#160;[5. Back in Bethsaida](part-4/152.md#5back-in-bethsaida "5. Back in Bethsaida") . 1703
+&#160;&#160;&#160;&#160;[5. De Vuelta en Betsaida](part-4/152.md#5de-vuelta-en-betsaida "5. De Vuelta en Betsaida") . 1703
 
-&#160;&#160;&#160;&#160;[6. At Gennesaret](part-4/152.md#6at-gennesaret "6. At Gennesaret") . 1705
+&#160;&#160;&#160;&#160;[6. En Genesaret](part-4/152.md#6en-genesaret "6. En Genesaret") . 1705
 
-&#160;&#160;&#160;&#160;[7. At Jerusalem](part-4/152.md#7at-jerusalem "7. At Jerusalem") . 1706
+&#160;&#160;&#160;&#160;[7. En Jerusalén](part-4/152.md#7en-jerusalén "7. En Jerusalén") . 1706
 
-153 . <a href="part-4/153.md" title="The Crisis at Capernaum">Paper 153 · The Crisis at Capernaum</a> . 1707
+153 . <a href="part-4/153.md" title="La Crisis en Capernaum">Documento 153 · La Crisis en Capernaum</a> . 1707
 
-&#160;&#160;&#160;&#160;[1. The Setting of the Stage](part-4/153.md#1the-setting-of-the-stage "1. The Setting of the Stage") . 1707
+&#160;&#160;&#160;&#160;[1. La Preparación del Escenario](part-4/153.md#1la-preparación-del-escenario "1. La Preparación del Escenario") . 1707
 
-&#160;&#160;&#160;&#160;[2. The Epochal Sermon](part-4/153.md#2the-epochal-sermon "2. The Epochal Sermon") . 1709
+&#160;&#160;&#160;&#160;[2. El Memorable Sermón](part-4/153.md#2el-memorable-sermón "2. El Memorable Sermón") . 1709
 
-&#160;&#160;&#160;&#160;[3. The After Meeting](part-4/153.md#3the-after-meeting "3. The After Meeting") . 1712
+&#160;&#160;&#160;&#160;[3. La Reunión Después del Sermón](part-4/153.md#3la-reunión-después-del-sermón "3. La Reunión Después del Sermón") . 1712
 
-&#160;&#160;&#160;&#160;[4. Last Words in the Synagogue](part-4/153.md#4last-words-in-the-synagogue "4. Last Words in the Synagogue") . 1713
+&#160;&#160;&#160;&#160;[4. Las Últimas Palabras en la Sinagoga](part-4/153.md#4las-últimas-palabras-en-la-sinagoga "4. Las Últimas Palabras en la Sinagoga") . 1713
 
-&#160;&#160;&#160;&#160;[5. The Saturday Evening](part-4/153.md#5the-saturday-evening "5. The Saturday Evening") . 1715
+&#160;&#160;&#160;&#160;[5. El Sábado por la Tarde](part-4/153.md#5el-sábado-por-la-tarde "5. El Sábado por la Tarde") . 1715
 
-154 . <a href="part-4/154.md" title="Last Days at Capernaum">Paper 154 · Last Days at Capernaum</a> . 1717
+154 . <a href="part-4/154.md" title="Los Últimos Días en Capernaum">Documento 154 · Los Últimos Días en Capernaum</a> . 1717
 
-&#160;&#160;&#160;&#160;[1. A Week of Counsel](part-4/154.md#1a-week-of-counsel "1. A Week of Counsel") . 1717
+&#160;&#160;&#160;&#160;[1. Una Semana de Asesoría](part-4/154.md#1una-semana-de-asesoría "1. Una Semana de Asesoría") . 1717
 
-&#160;&#160;&#160;&#160;[2. A Week of Rest](part-4/154.md#2a-week-of-rest "2. A Week of Rest") . 1718
+&#160;&#160;&#160;&#160;[2. Una Semana de Descanso](part-4/154.md#2una-semana-de-descanso "2. Una Semana de Descanso") . 1718
 
-&#160;&#160;&#160;&#160;[3. The Second Tiberias Conference](part-4/154.md#3the-second-tiberias-conference "3. The Second Tiberias Conference") . 1719
+&#160;&#160;&#160;&#160;[3. La Segunda Reunión en Tiberias](part-4/154.md#3la-segunda-reunión-en-tiberias "3. La Segunda Reunión en Tiberias") . 1719
 
-&#160;&#160;&#160;&#160;[4. Saturday Night in Capernaum](part-4/154.md#4saturday-night-in-capernaum "4. Saturday Night in Capernaum") . 1719
+&#160;&#160;&#160;&#160;[4. El Sábado por la Noche en Capernaum](part-4/154.md#4el-sábado-por-la-noche-en-capernaum "4. El Sábado por la Noche en Capernaum") . 1719
 
-&#160;&#160;&#160;&#160;[5. The Eventful Sunday Morning](part-4/154.md#5the-eventful-sunday-morning "5. The Eventful Sunday Morning") . 1720
+&#160;&#160;&#160;&#160;[5. El Memorable Domingo por la Mañana](part-4/154.md#5el-memorable-domingo-por-la-mañana "5. El Memorable Domingo por la Mañana") . 1720
 
-&#160;&#160;&#160;&#160;[6. Jesus’ Family Arrives](part-4/154.md#6jesus-family-arrives "6. Jesus’ Family Arrives") . 1721
+&#160;&#160;&#160;&#160;[6. Llega la Familia de Jesús](part-4/154.md#6llega-la-familia-de-jesús "6. Llega la Familia de Jesús") . 1721
 
-&#160;&#160;&#160;&#160;[7. The Hasty Flight](part-4/154.md#7the-hasty-flight "7. The Hasty Flight") . 1723
+&#160;&#160;&#160;&#160;[7. La Apresurada Huida](part-4/154.md#7la-apresurada-huida "7. La Apresurada Huida") . 1723
 
-155 . <a href="part-4/155.md" title="Fleeing Through Northern Galilee">Paper 155 · Fleeing Through Northern Galilee</a> . 1725
+155 . <a href="part-4/155.md" title="La Huida por la Galilea del Norte">Documento 155 · La Huida por la Galilea del Norte</a> . 1725
 
-&#160;&#160;&#160;&#160;[1. Why Do the Heathen Rage?](part-4/155.md#1why-do-the-heathen-rage "1. Why Do the Heathen Rage?") . 1725
+&#160;&#160;&#160;&#160;[1. ¿Por Qué Se Amotinan los Paganos?](part-4/155.md#1por-qué-se-amotinan-los-paganos "1. ¿Por Qué Se Amotinan los Paganos?") . 1725
 
-&#160;&#160;&#160;&#160;[2. The Evangelists in Chorazin](part-4/155.md#2the-evangelists-in-chorazin "2. The Evangelists in Chorazin") . 1726
+&#160;&#160;&#160;&#160;[2. Los Evangelistas en Corazín](part-4/155.md#2los-evangelistas-en-corazín "2. Los Evangelistas en Corazín") . 1726
 
-&#160;&#160;&#160;&#160;[3. At Caesarea-Philippi](part-4/155.md#3at-caesarea-philippi "3. At Caesarea-Philippi") . 1727
+&#160;&#160;&#160;&#160;[3. En Cesarea de Filipo](part-4/155.md#3en-cesarea-de-filipo "3. En Cesarea de Filipo") . 1727
 
-&#160;&#160;&#160;&#160;[4. On the Way to Phoenicia](part-4/155.md#4on-the-way-to-phoenicia "4. On the Way to Phoenicia") . 1728
+&#160;&#160;&#160;&#160;[4. En el Camino a Fenicia](part-4/155.md#4en-el-camino-a-fenicia "4. En el Camino a Fenicia") . 1728
 
-&#160;&#160;&#160;&#160;[5. The Discourse on True Religion](part-4/155.md#5the-discourse-on-true-religion "5. The Discourse on True Religion") . 1728
+&#160;&#160;&#160;&#160;[5. El Discurso Sobre la Verdadera Religión](part-4/155.md#5el-discurso-sobre-la-verdadera-religión "5. El Discurso Sobre la Verdadera Religión") . 1728
 
-&#160;&#160;&#160;&#160;[6. The Second Discourse on Religion](part-4/155.md#6the-second-discourse-on-religion "6. The Second Discourse on Religion") . 1730
+&#160;&#160;&#160;&#160;[6. El Segundo Discurso Sobre la Religión](part-4/155.md#6el-segundo-discurso-sobre-la-religión "6. El Segundo Discurso Sobre la Religión") . 1730
 
-156 . <a href="part-4/156.md" title="The Sojourn at Tyre and Sidon">Paper 156 · The Sojourn at Tyre and Sidon</a> . 1734
+156 . <a href="part-4/156.md" title="La Estadía en Tiro y Sidón">Documento 156 · La Estadía en Tiro y Sidón</a> . 1734
 
-&#160;&#160;&#160;&#160;[1. The Syrian Woman](part-4/156.md#1the-syrian-woman "1. The Syrian Woman") . 1734
+&#160;&#160;&#160;&#160;[1. La Mujer Siria](part-4/156.md#1la-mujer-siria "1. La Mujer Siria") . 1734
 
-&#160;&#160;&#160;&#160;[2. Teaching in Sidon](part-4/156.md#2teaching-in-sidon "2. Teaching in Sidon") . 1735
+&#160;&#160;&#160;&#160;[2. La Enseñanza en Sidón](part-4/156.md#2la-enseñanza-en-sidón "2. La Enseñanza en Sidón") . 1735
 
-&#160;&#160;&#160;&#160;[3. The Journey up the Coast](part-4/156.md#3the-journey-up-the-coast "3. The Journey up the Coast") . 1736
+&#160;&#160;&#160;&#160;[3. El Viaje Costa Arriba](part-4/156.md#3el-viaje-costa-arriba "3. El Viaje Costa Arriba") . 1736
 
-&#160;&#160;&#160;&#160;[4. At Tyre](part-4/156.md#4at-tyre "4. At Tyre") . 1737
+&#160;&#160;&#160;&#160;[4. En Tiro](part-4/156.md#4en-tiro "4. En Tiro") . 1737
 
-&#160;&#160;&#160;&#160;[5. Jesus’ Teaching at Tyre](part-4/156.md#5jesus-teaching-at-tyre "5. Jesus’ Teaching at Tyre") . 1737
+&#160;&#160;&#160;&#160;[5. La Enseñanza de Jesús en Tiro](part-4/156.md#5la-enseñanza-de-jesús-en-tiro "5. La Enseñanza de Jesús en Tiro") . 1737
 
-&#160;&#160;&#160;&#160;[6. The Return from Phoenicia](part-4/156.md#6the-return-from-phoenicia "6. The Return from Phoenicia") . 1741
+&#160;&#160;&#160;&#160;[6. El Regreso de Fenicia](part-4/156.md#6el-regreso-de-fenicia "6. El Regreso de Fenicia") . 1741
 
-157 . <a href="part-4/157.md" title="At Caesarea-Philippi">Paper 157 · At Caesarea-Philippi</a> . 1743
+157 . <a href="part-4/157.md" title="En Cesarea de Filipo">Documento 157 · En Cesarea de Filipo</a> . 1743
 
-&#160;&#160;&#160;&#160;[1. The Temple-Tax Collector](part-4/157.md#1the-temple-tax-collector "1. The Temple-Tax Collector") . 1743
+&#160;&#160;&#160;&#160;[1. El Recolector de Impuestos del Templo](part-4/157.md#1el-recolector-de-impuestos-del-templo "1. El Recolector de Impuestos del Templo") . 1743
 
-&#160;&#160;&#160;&#160;[2. At Bethsaida-Julias](part-4/157.md#2at-bethsaida-julias "2. At Bethsaida-Julias") . 1744
+&#160;&#160;&#160;&#160;[2. En Betsaida-Julias](part-4/157.md#2en-betsaida-julias "2. En Betsaida-Julias") . 1744
 
-&#160;&#160;&#160;&#160;[3. Peter’s Confession](part-4/157.md#3peters-confession "3. Peter’s Confession") . 1745
+&#160;&#160;&#160;&#160;[3. La Confesión de Pedro](part-4/157.md#3la-confesión-de-pedro "3. La Confesión de Pedro") . 1745
 
-&#160;&#160;&#160;&#160;[4. The Talk About the Kingdom](part-4/157.md#4the-talk-about-the-kingdom "4. The Talk About the Kingdom") . 1746
+&#160;&#160;&#160;&#160;[4. La Conversación Sobre el Reino](part-4/157.md#4la-conversación-sobre-el-reino "4. La Conversación Sobre el Reino") . 1746
 
-&#160;&#160;&#160;&#160;[5. The New Concept](part-4/157.md#5the-new-concept "5. The New Concept") . 1748
+&#160;&#160;&#160;&#160;[5. El Nuevo Concepto](part-4/157.md#5el-nuevo-concepto "5. El Nuevo Concepto") . 1748
 
-&#160;&#160;&#160;&#160;[6. The Next Afternoon](part-4/157.md#6the-next-afternoon "6. The Next Afternoon") . 1748
+&#160;&#160;&#160;&#160;[6. La Tarde Siguiente](part-4/157.md#6la-tarde-siguiente "6. La Tarde Siguiente") . 1748
 
-&#160;&#160;&#160;&#160;[7. Andrew’s Conference](part-4/157.md#7andrews-conference "7. Andrew’s Conference") . 1750
+&#160;&#160;&#160;&#160;[7. Los Diálogos de Andrés](part-4/157.md#7los-diálogos-de-andrés "7. Los Diálogos de Andrés") . 1750
 
-158 . <a href="part-4/158.md" title="The Mount of Transfiguration">Paper 158 · The Mount of Transfiguration</a> . 1752
+158 . <a href="part-4/158.md" title="El Monte de la Transfiguración">Documento 158 · El Monte de la Transfiguración</a> . 1752
 
-&#160;&#160;&#160;&#160;[1. The Transfiguration](part-4/158.md#1the-transfiguration "1. The Transfiguration") . 1752
+&#160;&#160;&#160;&#160;[1. La Transfiguración](part-4/158.md#1la-transfiguración "1. La Transfiguración") . 1752
 
-&#160;&#160;&#160;&#160;[2. Coming Down the Mountain](part-4/158.md#2coming-down-the-mountain "2. Coming Down the Mountain") . 1754
+&#160;&#160;&#160;&#160;[2. El Descenso de la Montaña](part-4/158.md#2el-descenso-de-la-montaña "2. El Descenso de la Montaña") . 1754
 
-&#160;&#160;&#160;&#160;[3. Meaning of the Transfiguration](part-4/158.md#3meaning-of-the-transfiguration "3. Meaning of the Transfiguration") . 1755
+&#160;&#160;&#160;&#160;[3. El Significado de la Transfiguración](part-4/158.md#3el-significado-de-la-transfiguración "3. El Significado de la Transfiguración") . 1755
 
-&#160;&#160;&#160;&#160;[4. The Epileptic Boy](part-4/158.md#4the-epileptic-boy "4. The Epileptic Boy") . 1755
+&#160;&#160;&#160;&#160;[4. El Muchacho Epiléptico](part-4/158.md#4el-muchacho-epiléptico "4. El Muchacho Epiléptico") . 1755
 
-&#160;&#160;&#160;&#160;[5. Jesus Heals the Boy](part-4/158.md#5jesus-heals-the-boy "5. Jesus Heals the Boy") . 1757
+&#160;&#160;&#160;&#160;[5. Jesús Cura al Muchacho](part-4/158.md#5jesús-cura-al-muchacho "5. Jesús Cura al Muchacho") . 1757
 
-&#160;&#160;&#160;&#160;[6. In Celsus’ Garden](part-4/158.md#6in-celsus-garden "6. In Celsus’ Garden") . 1758
+&#160;&#160;&#160;&#160;[6. En el Jardín de Celsus](part-4/158.md#6en-el-jardín-de-celsus "6. En el Jardín de Celsus") . 1758
 
-&#160;&#160;&#160;&#160;[7. Peter’s Protest](part-4/158.md#7peters-protest "7. Peter’s Protest") . 1759
+&#160;&#160;&#160;&#160;[7. La Protesta de Pedro](part-4/158.md#7la-protesta-de-pedro "7. La Protesta de Pedro") . 1759
 
-&#160;&#160;&#160;&#160;[8. At Peter’s House](part-4/158.md#8at-peters-house "8. At Peter’s House") . 1761
+&#160;&#160;&#160;&#160;[8. En la Casa de Pedro](part-4/158.md#8en-la-casa-de-pedro "8. En la Casa de Pedro") . 1761
 
-159 . <a href="part-4/159.md" title="The Decapolis Tour">Paper 159 · The Decapolis Tour</a> . 1762
+159 . <a href="part-4/159.md" title="La Gira por la Decápolis">Documento 159 · La Gira por la Decápolis</a> . 1762
 
-&#160;&#160;&#160;&#160;[1. The Sermon on Forgiveness](part-4/159.md#1the-sermon-on-forgiveness "1. The Sermon on Forgiveness") . 1762
+&#160;&#160;&#160;&#160;[1. El Sermón del Perdón](part-4/159.md#1el-sermón-del-perdón "1. El Sermón del Perdón") . 1762
 
-&#160;&#160;&#160;&#160;[2. The Strange Preacher](part-4/159.md#2the-strange-preacher "2. The Strange Preacher") . 1764
+&#160;&#160;&#160;&#160;[2. El Extraño Predicador](part-4/159.md#2el-extraño-predicador "2. El Extraño Predicador") . 1764
 
-&#160;&#160;&#160;&#160;[3. Instruction for Teachers and Believers](part-4/159.md#3instruction-for-teachers-and-believers "3. Instruction for Teachers and Believers") . 1765
+&#160;&#160;&#160;&#160;[3. La Instrucción para Maestros y Creyentes](part-4/159.md#3la-instrucción-para-maestros-y-creyentes "3. La Instrucción para Maestros y Creyentes") . 1765
 
-&#160;&#160;&#160;&#160;[4. The Talk with Nathaniel](part-4/159.md#4the-talk-with-nathaniel "4. The Talk with Nathaniel") . 1767
+&#160;&#160;&#160;&#160;[4. La Conversación con Natanael](part-4/159.md#4la-conversación-con-natanael "4. La Conversación con Natanael") . 1767
 
-&#160;&#160;&#160;&#160;[5. The Positive Nature of Jesus’ Religion](part-4/159.md#5the-positive-nature-of-jesus-religion "5. The Positive Nature of Jesus’ Religion") . 1769
+&#160;&#160;&#160;&#160;[5. La Naturaleza Positiva de la Religión de Jesús](part-4/159.md#5la-naturaleza-positiva-de-la-religión-de-jesús "5. La Naturaleza Positiva de la Religión de Jesús") . 1769
 
-&#160;&#160;&#160;&#160;[6. The Return to Magadan](part-4/159.md#6the-return-to-magadan "6. The Return to Magadan") . 1771
+&#160;&#160;&#160;&#160;[6. El Retorno a Magadán](part-4/159.md#6el-retorno-a-magadán "6. El Retorno a Magadán") . 1771
 
-160 . <a href="part-4/160.md" title="Rodan of Alexandria">Paper 160 · Rodan of Alexandria</a> . 1772
+160 . <a href="part-4/160.md" title="Rodán de Alejandría">Documento 160 · Rodán de Alejandría</a> . 1772
 
-&#160;&#160;&#160;&#160;[1. Rodan’s Greek Philosophy](part-4/160.md#1rodans-greek-philosophy "1. Rodan’s Greek Philosophy") . 1772
+&#160;&#160;&#160;&#160;[1. La Filosofía Griega de Rodán](part-4/160.md#1la-filosofía-griega-de-rodán "1. La Filosofía Griega de Rodán") . 1772
 
-&#160;&#160;&#160;&#160;[2. The Art of Living](part-4/160.md#2the-art-of-living "2. The Art of Living") . 1775
+&#160;&#160;&#160;&#160;[2. El Arte de Vivir](part-4/160.md#2el-arte-de-vivir "2. El Arte de Vivir") . 1775
 
-&#160;&#160;&#160;&#160;[3. The Lures of Maturity](part-4/160.md#3the-lures-of-maturity "3. The Lures of Maturity") . 1777
+&#160;&#160;&#160;&#160;[3. Los Alicientes de la Madurez](part-4/160.md#3los-alicientes-de-la-madurez "3. Los Alicientes de la Madurez") . 1777
 
-&#160;&#160;&#160;&#160;[4. The Balance of Maturity](part-4/160.md#4the-balance-of-maturity "4. The Balance of Maturity") . 1778
+&#160;&#160;&#160;&#160;[4. El Equilibrio de la Madurez](part-4/160.md#4el-equilibrio-de-la-madurez "4. El Equilibrio de la Madurez") . 1778
 
-&#160;&#160;&#160;&#160;[5. The Religion of the Ideal](part-4/160.md#5the-religion-of-the-ideal "5. The Religion of the Ideal") . 1780
+&#160;&#160;&#160;&#160;[5. La Religión del Ideal](part-4/160.md#5la-religión-del-ideal "5. La Religión del Ideal") . 1780
 
-161 . <a href="part-4/161.md" title="Further Discussions with Rodan">Paper 161 · Further Discussions with Rodan</a> . 1783
+161 . <a href="part-4/161.md" title="Las Conversaciones Ulteriores con Rodán">Documento 161 · Las Conversaciones Ulteriores con Rodán</a> . 1783
 
-&#160;&#160;&#160;&#160;[1. The Personality of God](part-4/161.md#1the-personality-of-god "1. The Personality of God") . 1783
+&#160;&#160;&#160;&#160;[1. La Personalidad de Dios](part-4/161.md#1la-personalidad-de-dios "1. La Personalidad de Dios") . 1783
 
-&#160;&#160;&#160;&#160;[2. The Divine Nature of Jesus](part-4/161.md#2the-divine-nature-of-jesus "2. The Divine Nature of Jesus") . 1785
+&#160;&#160;&#160;&#160;[2. La Naturaleza Divina de Jesús](part-4/161.md#2la-naturaleza-divina-de-jesús "2. La Naturaleza Divina de Jesús") . 1785
 
-&#160;&#160;&#160;&#160;[3. Jesus’ Human and Divine Minds](part-4/161.md#3jesus-human-and-divine-minds "3. Jesus’ Human and Divine Minds") . 1787
+&#160;&#160;&#160;&#160;[3. Las Mentes Humana y Divina de Jesús](part-4/161.md#3las-mentes-humana-y-divina-de-jesús "3. Las Mentes Humana y Divina de Jesús") . 1787
 
-162 . <a href="part-4/162.md" title="At the Feast of Tabernacles">Paper 162 · At the Feast of Tabernacles</a> . 1788
+162 . <a href="part-4/162.md" title="En la Fiesta de los Tabernáculos">Documento 162 · En la Fiesta de los Tabernáculos</a> . 1788
 
-&#160;&#160;&#160;&#160;[1. The Dangers of the Visit to Jerusalem](part-4/162.md#1the-dangers-of-the-visit-to-jerusalem "1. The Dangers of the Visit to Jerusalem") . 1788
+&#160;&#160;&#160;&#160;[1. Los Peligros de la Visita a Jerusalén](part-4/162.md#1los-peligros-de-la-visita-a-jerusalén "1. Los Peligros de la Visita a Jerusalén") . 1788
 
-&#160;&#160;&#160;&#160;[2. The First Temple Talk](part-4/162.md#2the-first-temple-talk "2. The First Temple Talk") . 1790
+&#160;&#160;&#160;&#160;[2. El Primer Discurso en el Templo](part-4/162.md#2el-primer-discurso-en-el-templo "2. El Primer Discurso en el Templo") . 1790
 
-&#160;&#160;&#160;&#160;[3. The Woman Taken in Adultery](part-4/162.md#3the-woman-taken-in-adultery "3. The Woman Taken in Adultery") . 1792
+&#160;&#160;&#160;&#160;[3. La Mujer Adúltera](part-4/162.md#3la-mujer-adúltera "3. La Mujer Adúltera") . 1792
 
-&#160;&#160;&#160;&#160;[4. The Feast of Tabernacles](part-4/162.md#4the-feast-of-tabernacles "4. The Feast of Tabernacles") . 1793
+&#160;&#160;&#160;&#160;[4. La Fiesta de los Tabernáculos](part-4/162.md#4la-fiesta-de-los-tabernáculos "4. La Fiesta de los Tabernáculos") . 1793
 
-&#160;&#160;&#160;&#160;[5. Sermon on the Light of the World](part-4/162.md#5sermon-on-the-light-of-the-world "5. Sermon on the Light of the World") . 1794
+&#160;&#160;&#160;&#160;[5. El Sermón Sobre la Luz del Mundo](part-4/162.md#5el-sermón-sobre-la-luz-del-mundo "5. El Sermón Sobre la Luz del Mundo") . 1794
 
-&#160;&#160;&#160;&#160;[6. Discourse on the Water of Life](part-4/162.md#6discourse-on-the-water-of-life "6. Discourse on the Water of Life") . 1795
+&#160;&#160;&#160;&#160;[6. El Discurso Sobre el Agua de la Vida](part-4/162.md#6el-discurso-sobre-el-agua-de-la-vida "6. El Discurso Sobre el Agua de la Vida") . 1795
 
-&#160;&#160;&#160;&#160;[7. The Discourse on Spiritual Freedom](part-4/162.md#7the-discourse-on-spiritual-freedom "7. The Discourse on Spiritual Freedom") . 1796
+&#160;&#160;&#160;&#160;[7. El Discurso Sobre la Libertad Espiritual](part-4/162.md#7el-discurso-sobre-la-libertad-espiritual "7. El Discurso Sobre la Libertad Espiritual") . 1796
 
-&#160;&#160;&#160;&#160;[8. The Visit with Martha and Mary](part-4/162.md#8the-visit-with-martha-and-mary "8. The Visit with Martha and Mary") . 1797
+&#160;&#160;&#160;&#160;[8. La Visita con Marta y María](part-4/162.md#8la-visita-con-marta-y-maría "8. La Visita con Marta y María") . 1797
 
-&#160;&#160;&#160;&#160;[9. At Bethlehem with Abner](part-4/162.md#9at-bethlehem-with-abner "9. At Bethlehem with Abner") . 1798
+&#160;&#160;&#160;&#160;[9. En Belén con Abner](part-4/162.md#9en-belén-con-abner "9. En Belén con Abner") . 1798
 
-163 . <a href="part-4/163.md" title="Ordination of the Seventy at Magadan">Paper 163 · Ordination of the Seventy at Magadan</a> . 1800
+163 . <a href="part-4/163.md" title="La Ordenación de los Setenta en Magadán">Documento 163 · La Ordenación de los Setenta en Magadán</a> . 1800
 
-&#160;&#160;&#160;&#160;[1. Ordination of the Seventy](part-4/163.md#1ordination-of-the-seventy "1. Ordination of the Seventy") . 1800
+&#160;&#160;&#160;&#160;[1. Ordenación de los Setenta](part-4/163.md#1ordenación-de-los-setenta "1. Ordenación de los Setenta") . 1800
 
-&#160;&#160;&#160;&#160;[2. The Rich Young Man and Others](part-4/163.md#2the-rich-young-man-and-others "2. The Rich Young Man and Others") . 1801
+&#160;&#160;&#160;&#160;[2. El Joven Rico y Otros](part-4/163.md#2el-joven-rico-y-otros "2. El Joven Rico y Otros") . 1801
 
-&#160;&#160;&#160;&#160;[3. The Discussion About Wealth](part-4/163.md#3the-discussion-about-wealth "3. The Discussion About Wealth") . 1803
+&#160;&#160;&#160;&#160;[3. La Discusión Sobre la Riqueza](part-4/163.md#3la-discusión-sobre-la-riqueza "3. La Discusión Sobre la Riqueza") . 1803
 
-&#160;&#160;&#160;&#160;[4. Farewell to the Seventy](part-4/163.md#4farewell-to-the-seventy "4. Farewell to the Seventy") . 1804
+&#160;&#160;&#160;&#160;[4. La Despedida de los Setenta](part-4/163.md#4la-despedida-de-los-setenta "4. La Despedida de los Setenta") . 1804
 
-&#160;&#160;&#160;&#160;[5. Moving the Camp to Pella](part-4/163.md#5moving-the-camp-to-pella "5. Moving the Camp to Pella") . 1806
+&#160;&#160;&#160;&#160;[5. El Traslado del Campamento a Pella](part-4/163.md#5el-traslado-del-campamento-a-pella "5. El Traslado del Campamento a Pella") . 1806
 
-&#160;&#160;&#160;&#160;[6. The Return of the Seventy](part-4/163.md#6the-return-of-the-seventy "6. The Return of the Seventy") . 1806
+&#160;&#160;&#160;&#160;[6. El Retorno de los Setenta](part-4/163.md#6el-retorno-de-los-setenta "6. El Retorno de los Setenta") . 1806
 
-&#160;&#160;&#160;&#160;[7. Preparation for the Last Mission](part-4/163.md#7preparation-for-the-last-mission "7. Preparation for the Last Mission") . 1808
+&#160;&#160;&#160;&#160;[7. La Preparación para la Última Misión](part-4/163.md#7la-preparación-para-la-última-misión "7. La Preparación para la Última Misión") . 1808
 
-164 . <a href="part-4/164.md" title="At the Feast of Dedication">Paper 164 · At the Feast of Dedication</a> . 1809
+164 . <a href="part-4/164.md" title="En la Fiesta de la Consagración del Templo">Documento 164 · En la Fiesta de la Consagración del Templo</a> . 1809
 
-&#160;&#160;&#160;&#160;[1. Story of the Good Samaritan](part-4/164.md#1story-of-the-good-samaritan "1. Story of the Good Samaritan") . 1809
+&#160;&#160;&#160;&#160;[1. La Historia del Buen Samaritano](part-4/164.md#1la-historia-del-buen-samaritano "1. La Historia del Buen Samaritano") . 1809
 
-&#160;&#160;&#160;&#160;[2. At Jerusalem](part-4/164.md#2at-jerusalem "2. At Jerusalem") . 1810
+&#160;&#160;&#160;&#160;[2. En Jerusalén](part-4/164.md#2en-jerusalén "2. En Jerusalén") . 1810
 
-&#160;&#160;&#160;&#160;[3. Healing the Blind Beggar](part-4/164.md#3healing-the-blind-beggar "3. Healing the Blind Beggar") . 1811
+&#160;&#160;&#160;&#160;[3. La Curación del Pordiosero Ciego](part-4/164.md#3la-curación-del-pordiosero-ciego "3. La Curación del Pordiosero Ciego") . 1811
 
-&#160;&#160;&#160;&#160;[4. Josiah Before the Sanhedrin](part-4/164.md#4josiah-before-the-sanhedrin "4. Josiah Before the Sanhedrin") . 1813
+&#160;&#160;&#160;&#160;[4. Josías Ante el Sanedrín](part-4/164.md#4josías-ante-el-sanedrín "4. Josías Ante el Sanedrín") . 1813
 
-&#160;&#160;&#160;&#160;[5. Teaching in Solomon’s Porch](part-4/164.md#5teaching-in-solomons-porch "5. Teaching in Solomon’s Porch") . 1815
+&#160;&#160;&#160;&#160;[5. La Enseñanza en la Logia de Salomón](part-4/164.md#5la-enseñanza-en-la-logia-de-salomón "5. La Enseñanza en la Logia de Salomón") . 1815
 
-165 . <a href="part-4/165.md" title="The Perean Mission Begins">Paper 165 · The Perean Mission Begins</a> . 1817
+165 . <a href="part-4/165.md" title="Comienza la Misión de Perea">Documento 165 · Comienza la Misión de Perea</a> . 1817
 
-&#160;&#160;&#160;&#160;[1. At the Pella Camp](part-4/165.md#1at-the-pella-camp "1. At the Pella Camp") . 1817
+&#160;&#160;&#160;&#160;[1. En el Campamento de Pella](part-4/165.md#1en-el-campamento-de-pella "1. En el Campamento de Pella") . 1817
 
-&#160;&#160;&#160;&#160;[2. Sermon on the Good Shepherd](part-4/165.md#2sermon-on-the-good-shepherd "2. Sermon on the Good Shepherd") . 1818
+&#160;&#160;&#160;&#160;[2. El Sermón del Buen Pastor](part-4/165.md#2el-sermón-del-buen-pastor "2. El Sermón del Buen Pastor") . 1818
 
-&#160;&#160;&#160;&#160;[3. Sabbath Sermon at Pella](part-4/165.md#3sabbath-sermon-at-pella "3. Sabbath Sermon at Pella") . 1819
+&#160;&#160;&#160;&#160;[3. El Sermón del Sábado en Pella](part-4/165.md#3el-sermón-del-sábado-en-pella "3. El Sermón del Sábado en Pella") . 1819
 
-&#160;&#160;&#160;&#160;[4. Dividing the Inheritance](part-4/165.md#4dividing-the-inheritance "4. Dividing the Inheritance") . 1821
+&#160;&#160;&#160;&#160;[4. La División de la Herencia](part-4/165.md#4la-división-de-la-herencia "4. La División de la Herencia") . 1821
 
-&#160;&#160;&#160;&#160;[5. Talks to the Apostles on Wealth](part-4/165.md#5talks-to-the-apostles-on-wealth "5. Talks to the Apostles on Wealth") . 1823
+&#160;&#160;&#160;&#160;[5. Las Conversaciones con los Apóstoles Sobre la Riqueza](part-4/165.md#5las-conversaciones-con-los-apóstoles-sobre-la-riqueza "5. Las Conversaciones con los Apóstoles Sobre la Riqueza") . 1823
 
-&#160;&#160;&#160;&#160;[6. Answer to Peter’s Question](part-4/165.md#6answer-to-peters-question "6. Answer to Peter’s Question") . 1824
+&#160;&#160;&#160;&#160;[6. La Respuesta a la Pregunta de Pedro](part-4/165.md#6la-respuesta-a-la-pregunta-de-pedro "6. La Respuesta a la Pregunta de Pedro") . 1824
 
-166 . <a href="part-4/166.md" title="Last Visit to Northern Perea">Paper 166 · Last Visit to Northern Perea</a> . 1825
+166 . <a href="part-4/166.md" title="La Última Visita al Norte de Perea">Documento 166 · La Última Visita al Norte de Perea</a> . 1825
 
-&#160;&#160;&#160;&#160;[1. The Pharisees at Ragaba](part-4/166.md#1the-pharisees-at-ragaba "1. The Pharisees at Ragaba") . 1825
+&#160;&#160;&#160;&#160;[1. Los Fariseos en Ragaba](part-4/166.md#1los-fariseos-en-ragaba "1. Los Fariseos en Ragaba") . 1825
 
-&#160;&#160;&#160;&#160;[2. The Ten Lepers](part-4/166.md#2the-ten-lepers "2. The Ten Lepers") . 1827
+&#160;&#160;&#160;&#160;[2. Los Diez Leprosos](part-4/166.md#2los-diez-leprosos "2. Los Diez Leprosos") . 1827
 
-&#160;&#160;&#160;&#160;[3. The Sermon at Gerasa](part-4/166.md#3the-sermon-at-gerasa "3. The Sermon at Gerasa") . 1828
+&#160;&#160;&#160;&#160;[3. El Sermón en Gérasa](part-4/166.md#3el-sermón-en-gérasa "3. El Sermón en Gérasa") . 1828
 
-&#160;&#160;&#160;&#160;[4. Teaching About Accidents](part-4/166.md#4teaching-about-accidents "4. Teaching About Accidents") . 1830
+&#160;&#160;&#160;&#160;[4. La Enseñanza Sobre los Accidentes](part-4/166.md#4la-enseñanza-sobre-los-accidentes "4. La Enseñanza Sobre los Accidentes") . 1830
 
-&#160;&#160;&#160;&#160;[5. The Congregation at Philadelphia](part-4/166.md#5the-congregation-at-philadelphia "5. The Congregation at Philadelphia") . 1831
+&#160;&#160;&#160;&#160;[5. La Congregación en Filadelfia](part-4/166.md#5la-congregación-en-filadelfia "5. La Congregación en Filadelfia") . 1831
 
-167 . <a href="part-4/167.md" title="The Visit to Philadelphia">Paper 167 · The Visit to Philadelphia</a> . 1833
+167 . <a href="part-4/167.md" title="La Visita a Filadelfia">Documento 167 · La Visita a Filadelfia</a> . 1833
 
-&#160;&#160;&#160;&#160;[1. Breakfast with the Pharisees](part-4/167.md#1breakfast-with-the-pharisees "1. Breakfast with the Pharisees") . 1833
+&#160;&#160;&#160;&#160;[1. El Desayuno con los Fariseos](part-4/167.md#1el-desayuno-con-los-fariseos "1. El Desayuno con los Fariseos") . 1833
 
-&#160;&#160;&#160;&#160;[2. Parable of the Great Supper](part-4/167.md#2parable-of-the-great-supper "2. Parable of the Great Supper") . 1835
+&#160;&#160;&#160;&#160;[2. La Parábola de la Gran Cena](part-4/167.md#2la-parábola-de-la-gran-cena "2. La Parábola de la Gran Cena") . 1835
 
-&#160;&#160;&#160;&#160;[3. The Woman with the Spirit of Infirmity](part-4/167.md#3the-woman-with-the-spirit-of-infirmity "3. The Woman with the Spirit of Infirmity") . 1835
+&#160;&#160;&#160;&#160;[3. La Mujer de Debilidad de Espíritu](part-4/167.md#3la-mujer-de-debilidad-de-espíritu "3. La Mujer de Debilidad de Espíritu") . 1835
 
-&#160;&#160;&#160;&#160;[4. The Message from Bethany](part-4/167.md#4the-message-from-bethany "4. The Message from Bethany") . 1836
+&#160;&#160;&#160;&#160;[4. El Mensaje de Betania](part-4/167.md#4el-mensaje-de-betania "4. El Mensaje de Betania") . 1836
 
-&#160;&#160;&#160;&#160;[5. On the Way to Bethany](part-4/167.md#5on-the-way-to-bethany "5. On the Way to Bethany") . 1838
+&#160;&#160;&#160;&#160;[5. En el Camino a Betania](part-4/167.md#5en-el-camino-a-betania "5. En el Camino a Betania") . 1838
 
-&#160;&#160;&#160;&#160;[6. Blessing the Little Children](part-4/167.md#6blessing-the-little-children "6. Blessing the Little Children") . 1839
+&#160;&#160;&#160;&#160;[6. La Bendición de los Niños](part-4/167.md#6la-bendición-de-los-niños "6. La Bendición de los Niños") . 1839
 
-&#160;&#160;&#160;&#160;[7. The Talk About Angels](part-4/167.md#7the-talk-about-angels "7. The Talk About Angels") . 1840
+&#160;&#160;&#160;&#160;[7. La Conversación Sobre los Ángeles](part-4/167.md#7la-conversación-sobre-los-ángeles "7. La Conversación Sobre los Ángeles") . 1840
 
-168 . <a href="part-4/168.md" title="The Resurrection of Lazarus">Paper 168 · The Resurrection of Lazarus</a> . 1842
+168 . <a href="part-4/168.md" title="La Resurrección de Lázaro">Documento 168 · La Resurrección de Lázaro</a> . 1842
 
-&#160;&#160;&#160;&#160;[1. At the Tomb of Lazarus](part-4/168.md#1at-the-tomb-of-lazarus "1. At the Tomb of Lazarus") . 1843
+&#160;&#160;&#160;&#160;[1. Junto a la Tumba de Lázaro](part-4/168.md#1junto-a-la-tumba-de-lázaro "1. Junto a la Tumba de Lázaro") . 1843
 
-&#160;&#160;&#160;&#160;[2. The Resurrection of Lazarus](part-4/168.md#2the-resurrection-of-lazarus "2. The Resurrection of Lazarus") . 1845
+&#160;&#160;&#160;&#160;[2. La Resurrección de Lázaro](part-4/168.md#2la-resurrección-de-lázaro "2. La Resurrección de Lázaro") . 1845
 
-&#160;&#160;&#160;&#160;[3. Meeting of the Sanhedrin](part-4/168.md#3meeting-of-the-sanhedrin "3. Meeting of the Sanhedrin") . 1847
+&#160;&#160;&#160;&#160;[3. La Reunión del Sanedrín](part-4/168.md#3la-reunión-del-sanedrín "3. La Reunión del Sanedrín") . 1847
 
-&#160;&#160;&#160;&#160;[4. The Answer to Prayer](part-4/168.md#4the-answer-to-prayer "4. The Answer to Prayer") . 1848
+&#160;&#160;&#160;&#160;[4. La Respuesta a la Oración](part-4/168.md#4la-respuesta-a-la-oración "4. La Respuesta a la Oración") . 1848
 
-&#160;&#160;&#160;&#160;[5. What Became of Lazarus](part-4/168.md#5what-became-of-lazarus "5. What Became of Lazarus") . 1849
+&#160;&#160;&#160;&#160;[5. Qué Pasó con Lázaro](part-4/168.md#5qué-pasó-con-lázaro "5. Qué Pasó con Lázaro") . 1849
 
-169 . <a href="part-4/169.md" title="Last Teaching at Pella">Paper 169 · Last Teaching at Pella</a> . 1850
+169 . <a href="part-4/169.md" title="La Última Enseñanza en Pella">Documento 169 · La Última Enseñanza en Pella</a> . 1850
 
-&#160;&#160;&#160;&#160;[1. Parable of the Lost Son](part-4/169.md#1parable-of-the-lost-son "1. Parable of the Lost Son") . 1850
+&#160;&#160;&#160;&#160;[1. La Parábola del Hijo Perdido](part-4/169.md#1la-parábola-del-hijo-perdido "1. La Parábola del Hijo Perdido") . 1850
 
-&#160;&#160;&#160;&#160;[2. Parable of the Shrewd Steward](part-4/169.md#2parable-of-the-shrewd-steward "2. Parable of the Shrewd Steward") . 1853
+&#160;&#160;&#160;&#160;[2. La Parábola del Mayordomo Sagaz](part-4/169.md#2la-parábola-del-mayordomo-sagaz "2. La Parábola del Mayordomo Sagaz") . 1853
 
-&#160;&#160;&#160;&#160;[3. The Rich Man and the Beggar](part-4/169.md#3the-rich-man-and-the-beggar "3. The Rich Man and the Beggar") . 1854
+&#160;&#160;&#160;&#160;[3. El Rico y el Pordiosero](part-4/169.md#3el-rico-y-el-pordiosero "3. El Rico y el Pordiosero") . 1854
 
-&#160;&#160;&#160;&#160;[4. The Father and His Kingdom](part-4/169.md#4the-father-and-his-kingdom "4. The Father and His Kingdom") . 1855
+&#160;&#160;&#160;&#160;[4. El Padre y Su Reino](part-4/169.md#4el-padre-y-su-reino "4. El Padre y Su Reino") . 1855
 
-170 . <a href="part-4/170.md" title="The Kingdom of Heaven">Paper 170 · The Kingdom of Heaven</a> . 1858
+170 . <a href="part-4/170.md" title="El Reino del Cielo">Documento 170 · El Reino del Cielo</a> . 1858
 
-&#160;&#160;&#160;&#160;[1. Concepts of the Kingdom of Heaven](part-4/170.md#1concepts-of-the-kingdom-of-heaven "1. Concepts of the Kingdom of Heaven") . 1858
+&#160;&#160;&#160;&#160;[1. Los Conceptos del Reino del Cielo](part-4/170.md#1los-conceptos-del-reino-del-cielo "1. Los Conceptos del Reino del Cielo") . 1858
 
-&#160;&#160;&#160;&#160;[2. Jesus’ Concept of the Kingdom](part-4/170.md#2jesus-concept-of-the-kingdom "2. Jesus’ Concept of the Kingdom") . 1859
+&#160;&#160;&#160;&#160;[2. El Concepto de Jesús Sobre el Reino](part-4/170.md#2el-concepto-de-jesús-sobre-el-reino "2. El Concepto de Jesús Sobre el Reino") . 1859
 
-&#160;&#160;&#160;&#160;[3. In Relation to Righteousness](part-4/170.md#3in-relation-to-righteousness "3. In Relation to Righteousness") . 1861
+&#160;&#160;&#160;&#160;[3. En Relación con la Rectitud](part-4/170.md#3en-relación-con-la-rectitud "3. En Relación con la Rectitud") . 1861
 
-&#160;&#160;&#160;&#160;[4. Jesus’ Teaching About the Kingdom](part-4/170.md#4jesus-teaching-about-the-kingdom "4. Jesus’ Teaching About the Kingdom") . 1862
+&#160;&#160;&#160;&#160;[4. Las Enseñanzas de Jesús Sobre el Reino](part-4/170.md#4las-enseñanzas-de-jesús-sobre-el-reino "4. Las Enseñanzas de Jesús Sobre el Reino") . 1862
 
-&#160;&#160;&#160;&#160;[5. Later Ideas of the Kingdom](part-4/170.md#5later-ideas-of-the-kingdom "5. Later Ideas of the Kingdom") . 1864
+&#160;&#160;&#160;&#160;[5. Las Ideas Posteriores Sobre el Reino](part-4/170.md#5las-ideas-posteriores-sobre-el-reino "5. Las Ideas Posteriores Sobre el Reino") . 1864
 
-171 . <a href="part-4/171.md" title="On the Way to Jerusalem">Paper 171 · On the Way to Jerusalem</a> . 1867
+171 . <a href="part-4/171.md" title="Camino a Jerusalén">Documento 171 · Camino a Jerusalén</a> . 1867
 
-&#160;&#160;&#160;&#160;[1. The Departure from Pella](part-4/171.md#1the-departure-from-pella "1. The Departure from Pella") . 1868
+&#160;&#160;&#160;&#160;[1. La Partida de Pella](part-4/171.md#1la-partida-de-pella "1. La Partida de Pella") . 1868
 
-&#160;&#160;&#160;&#160;[2. On Counting the Cost](part-4/171.md#2on-counting-the-cost "2. On Counting the Cost") . 1869
+&#160;&#160;&#160;&#160;[2. Sobre Cómo Calcular el Gasto](part-4/171.md#2sobre-cómo-calcular-el-gasto "2. Sobre Cómo Calcular el Gasto") . 1869
 
-&#160;&#160;&#160;&#160;[3. The Perean Tour](part-4/171.md#3the-perean-tour "3. The Perean Tour") . 1870
+&#160;&#160;&#160;&#160;[3. La Gira en Perea](part-4/171.md#3la-gira-en-perea "3. La Gira en Perea") . 1870
 
-&#160;&#160;&#160;&#160;[4. Teaching at Livias](part-4/171.md#4teaching-at-livias "4. Teaching at Livias") . 1871
+&#160;&#160;&#160;&#160;[4. La Enseñanza en Livias](part-4/171.md#4la-enseñanza-en-livias "4. La Enseñanza en Livias") . 1871
 
-&#160;&#160;&#160;&#160;[5. The Blind Man at Jericho](part-4/171.md#5the-blind-man-at-jericho "5. The Blind Man at Jericho") . 1873
+&#160;&#160;&#160;&#160;[5. El Ciego en Jericó](part-4/171.md#5el-ciego-en-jericó "5. El Ciego en Jericó") . 1873
 
-&#160;&#160;&#160;&#160;[6. The Visit to Zaccheus](part-4/171.md#6the-visit-to-zaccheus "6. The Visit to Zaccheus") . 1873
+&#160;&#160;&#160;&#160;[6. La Visita a Zaqueo](part-4/171.md#6la-visita-a-zaqueo "6. La Visita a Zaqueo") . 1873
 
-&#160;&#160;&#160;&#160;[7. “As Jesus Passed By”](part-4/171.md#7as-jesus-passed-by "7. “As Jesus Passed By”") . 1874
+&#160;&#160;&#160;&#160;[7. «Al Pasar Jesús»](part-4/171.md#7al-pasar-jesús "7. «Al Pasar Jesús»") . 1874
 
-&#160;&#160;&#160;&#160;[8. Parable of the Pounds](part-4/171.md#8parable-of-the-pounds "8. Parable of the Pounds") . 1875
+&#160;&#160;&#160;&#160;[8. La Parábola de las Minas](part-4/171.md#8la-parábola-de-las-minas "8. La Parábola de las Minas") . 1875
 
-172 . <a href="part-4/172.md" title="Going into Jerusalem">Paper 172 · Going into Jerusalem</a> . 1878
+172 . <a href="part-4/172.md" title="La Entrada a Jerusalén">Documento 172 · La Entrada a Jerusalén</a> . 1878
 
-&#160;&#160;&#160;&#160;[1. Sabbath at Bethany](part-4/172.md#1sabbath-at-bethany "1. Sabbath at Bethany") . 1878
+&#160;&#160;&#160;&#160;[1. El Sábado en Betania](part-4/172.md#1el-sábado-en-betania "1. El Sábado en Betania") . 1878
 
-&#160;&#160;&#160;&#160;[2. Sunday Morning with the Apostles](part-4/172.md#2sunday-morning-with-the-apostles "2. Sunday Morning with the Apostles") . 1880
+&#160;&#160;&#160;&#160;[2. Domingo por la Mañana con los Apóstoles](part-4/172.md#2domingo-por-la-mañana-con-los-apóstoles "2. Domingo por la Mañana con los Apóstoles") . 1880
 
-&#160;&#160;&#160;&#160;[3. The Start for Jerusalem](part-4/172.md#3the-start-for-jerusalem "3. The Start for Jerusalem") . 1880
+&#160;&#160;&#160;&#160;[3. La Partida a Jerusalén](part-4/172.md#3la-partida-a-jerusalén "3. La Partida a Jerusalén") . 1880
 
-&#160;&#160;&#160;&#160;[4. Visiting About the Temple](part-4/172.md#4visiting-about-the-temple "4. Visiting About the Temple") . 1883
+&#160;&#160;&#160;&#160;[4. La Visita al Templo](part-4/172.md#4la-visita-al-templo "4. La Visita al Templo") . 1883
 
-&#160;&#160;&#160;&#160;[5. The Apostles’ Attitude](part-4/172.md#5the-apostles-attitude "5. The Apostles’ Attitude") . 1883
+&#160;&#160;&#160;&#160;[5. La Actitud de los Apóstoles](part-4/172.md#5la-actitud-de-los-apóstoles "5. La Actitud de los Apóstoles") . 1883
 
-173 . <a href="part-4/173.md" title="Monday in Jerusalem">Paper 173 · Monday in Jerusalem</a> . 1888
+173 . <a href="part-4/173.md" title="El Lunes en Jerusalén">Documento 173 · El Lunes en Jerusalén</a> . 1888
 
-&#160;&#160;&#160;&#160;[1. Cleansing the Temple](part-4/173.md#1cleansing-the-temple "1. Cleansing the Temple") . 1888
+&#160;&#160;&#160;&#160;[1. La Limpieza del Templo](part-4/173.md#1la-limpieza-del-templo "1. La Limpieza del Templo") . 1888
 
-&#160;&#160;&#160;&#160;[2. Challenging the Master’s Authority](part-4/173.md#2challenging-the-masters-authority "2. Challenging the Master’s Authority") . 1891
+&#160;&#160;&#160;&#160;[2. El Desafío a la Autoridad del Maestro](part-4/173.md#2el-desafío-a-la-autoridad-del-maestro "2. El Desafío a la Autoridad del Maestro") . 1891
 
-&#160;&#160;&#160;&#160;[3. Parable of the Two Sons](part-4/173.md#3parable-of-the-two-sons "3. Parable of the Two Sons") . 1893
+&#160;&#160;&#160;&#160;[3. La Parábola de los Dos Hijos](part-4/173.md#3la-parábola-de-los-dos-hijos "3. La Parábola de los Dos Hijos") . 1893
 
-&#160;&#160;&#160;&#160;[4. Parable of the Absent Landlord](part-4/173.md#4parable-of-the-absent-landlord "4. Parable of the Absent Landlord") . 1893
+&#160;&#160;&#160;&#160;[4. La Parábola del Amo Ausente](part-4/173.md#4la-parábola-del-amo-ausente "4. La Parábola del Amo Ausente") . 1893
 
-&#160;&#160;&#160;&#160;[5. Parable of the Marriage Feast](part-4/173.md#5parable-of-the-marriage-feast "5. Parable of the Marriage Feast") . 1894
+&#160;&#160;&#160;&#160;[5. La Parábola del Festín de Boda](part-4/173.md#5la-parábola-del-festín-de-boda "5. La Parábola del Festín de Boda") . 1894
 
-174 . <a href="part-4/174.md" title="Tuesday Morning in the Temple">Paper 174 · Tuesday Morning in the Temple</a> . 1897
+174 . <a href="part-4/174.md" title="Martes por la Mañana en el Templo">Documento 174 · Martes por la Mañana en el Templo</a> . 1897
 
-&#160;&#160;&#160;&#160;[1. Divine Forgiveness](part-4/174.md#1divine-forgiveness "1. Divine Forgiveness") . 1898
+&#160;&#160;&#160;&#160;[1. El Perdón Divino](part-4/174.md#1el-perdón-divino "1. El Perdón Divino") . 1898
 
-&#160;&#160;&#160;&#160;[2. Questions by the Jewish Rulers](part-4/174.md#2questions-by-the-jewish-rulers "2. Questions by the Jewish Rulers") . 1899
+&#160;&#160;&#160;&#160;[2. Las Preguntas de los Dirigentes Judíos](part-4/174.md#2las-preguntas-de-los-dirigentes-judíos "2. Las Preguntas de los Dirigentes Judíos") . 1899
 
-&#160;&#160;&#160;&#160;[3. The Sadducees and the Resurrection](part-4/174.md#3the-sadducees-and-the-resurrection "3. The Sadducees and the Resurrection") . 1900
+&#160;&#160;&#160;&#160;[3. Los Saduceos y la Resurrección](part-4/174.md#3los-saduceos-y-la-resurrección "3. Los Saduceos y la Resurrección") . 1900
 
-&#160;&#160;&#160;&#160;[4. The Great Commandment](part-4/174.md#4the-great-commandment "4. The Great Commandment") . 1901
+&#160;&#160;&#160;&#160;[4. El Gran Mandamiento](part-4/174.md#4el-gran-mandamiento "4. El Gran Mandamiento") . 1901
 
-&#160;&#160;&#160;&#160;[5. The Inquiring Greeks](part-4/174.md#5the-inquiring-greeks "5. The Inquiring Greeks") . 1902
+&#160;&#160;&#160;&#160;[5. Los Griegos Indagadores](part-4/174.md#5los-griegos-indagadores "5. Los Griegos Indagadores") . 1902
 
-175 . <a href="part-4/175.md" title="The Last Temple Discourse">Paper 175 · The Last Temple Discourse</a> . 1905
+175 . <a href="part-4/175.md" title="El Último Discurso en el Templo">Documento 175 · El Último Discurso en el Templo</a> . 1905
 
-&#160;&#160;&#160;&#160;[1. The Discourse](part-4/175.md#1the-discourse "1. The Discourse") . 1905
+&#160;&#160;&#160;&#160;[1. El Discurso](part-4/175.md#1el-discurso "1. El Discurso") . 1905
 
-&#160;&#160;&#160;&#160;[2. Status of Individual Jews](part-4/175.md#2status-of-individual-jews "2. Status of Individual Jews") . 1909
+&#160;&#160;&#160;&#160;[2. La Posición del Judío](part-4/175.md#2la-posición-del-judío "2. La Posición del Judío") . 1909
 
-&#160;&#160;&#160;&#160;[3. The Fateful Sanhedrin Meeting](part-4/175.md#3the-fateful-sanhedrin-meeting "3. The Fateful Sanhedrin Meeting") . 1909
+&#160;&#160;&#160;&#160;[3. La Fatídica Reunión del Sanedrín](part-4/175.md#3la-fatídica-reunión-del-sanedrín "3. La Fatídica Reunión del Sanedrín") . 1909
 
-&#160;&#160;&#160;&#160;[4. The Situation in Jerusalem](part-4/175.md#4the-situation-in-jerusalem "4. The Situation in Jerusalem") . 1910
+&#160;&#160;&#160;&#160;[4. La Situación en Jerusalén](part-4/175.md#4la-situación-en-jerusalén "4. La Situación en Jerusalén") . 1910
 
-176 . <a href="part-4/176.md" title="Tuesday Evening on Mount Olivet">Paper 176 · Tuesday Evening on Mount Olivet</a> . 1912
+176 . <a href="part-4/176.md" title="El Anochecer del Martes en el Monte de los Olivos">Documento 176 · El Anochecer del Martes en el Monte de los Olivos</a> . 1912
 
-&#160;&#160;&#160;&#160;[1. The Destruction of Jerusalem](part-4/176.md#1the-destruction-of-jerusalem "1. The Destruction of Jerusalem") . 1912
+&#160;&#160;&#160;&#160;[1. La Destrucción de Jerusalén](part-4/176.md#1la-destrucción-de-jerusalén "1. La Destrucción de Jerusalén") . 1912
 
-&#160;&#160;&#160;&#160;[2. The Master’s Second Coming](part-4/176.md#2the-masters-second-coming "2. The Master’s Second Coming") . 1914
+&#160;&#160;&#160;&#160;[2. El Segundo Advenimiento del Maestro](part-4/176.md#2el-segundo-advenimiento-del-maestro "2. El Segundo Advenimiento del Maestro") . 1914
 
-&#160;&#160;&#160;&#160;[3. Later Discussion at the Camp](part-4/176.md#3later-discussion-at-the-camp "3. Later Discussion at the Camp") . 1916
+&#160;&#160;&#160;&#160;[3. La Conversación Posterior en el Campamento](part-4/176.md#3la-conversación-posterior-en-el-campamento "3. La Conversación Posterior en el Campamento") . 1916
 
-&#160;&#160;&#160;&#160;[4. The Return of Michael](part-4/176.md#4the-return-of-michael "4. The Return of Michael") . 1918
+&#160;&#160;&#160;&#160;[4. El Retorno de Micael](part-4/176.md#4el-retorno-de-micael "4. El Retorno de Micael") . 1918
 
-177 . <a href="part-4/177.md" title="Wednesday, the Rest Day">Paper 177 · Wednesday, the Rest Day</a> . 1920
+177 . <a href="part-4/177.md" title="El Miércoles, Día de Descanso">Documento 177 · El Miércoles, Día de Descanso</a> . 1920
 
-&#160;&#160;&#160;&#160;[1. One Day Alone with God](part-4/177.md#1one-day-alone-with-god "1. One Day Alone with God") . 1920
+&#160;&#160;&#160;&#160;[1. Un Día a Solas con Dios](part-4/177.md#1un-día-a-solas-con-dios "1. Un Día a Solas con Dios") . 1920
 
-&#160;&#160;&#160;&#160;[2. Early Home Life](part-4/177.md#2early-home-life "2. Early Home Life") . 1921
+&#160;&#160;&#160;&#160;[2. La Vida Hogareña de los Primeros Años](part-4/177.md#2la-vida-hogareña-de-los-primeros-años "2. La Vida Hogareña de los Primeros Años") . 1921
 
-&#160;&#160;&#160;&#160;[3. The Day at Camp](part-4/177.md#3the-day-at-camp "3. The Day at Camp") . 1923
+&#160;&#160;&#160;&#160;[3. El Día en el Campamento](part-4/177.md#3el-día-en-el-campamento "3. El Día en el Campamento") . 1923
 
-&#160;&#160;&#160;&#160;[4. Judas and the Chief Priests](part-4/177.md#4judas-and-the-chief-priests "4. Judas and the Chief Priests") . 1924
+&#160;&#160;&#160;&#160;[4. Judas y los Altos Sacerdotes](part-4/177.md#4judas-y-los-altos-sacerdotes "4. Judas y los Altos Sacerdotes") . 1924
 
-&#160;&#160;&#160;&#160;[5. The Last Social Hour](part-4/177.md#5the-last-social-hour "5. The Last Social Hour") . 1927
+&#160;&#160;&#160;&#160;[5. La Última Hora Social](part-4/177.md#5la-última-hora-social "5. La Última Hora Social") . 1927
 
-178 . <a href="part-4/178.md" title="Last Day at the Camp">Paper 178 · Last Day at the Camp</a> . 1929
+178 . <a href="part-4/178.md" title="El Último Día en el Campamento">Documento 178 · El Último Día en el Campamento</a> . 1929
 
-&#160;&#160;&#160;&#160;[1. Discourse on Sonship and Citizenship](part-4/178.md#1discourse-on-sonship-and-citizenship "1. Discourse on Sonship and Citizenship") . 1929
+&#160;&#160;&#160;&#160;[1. La Disertación Sobre la Filiación y la Ciudadanía](part-4/178.md#1la-disertación-sobre-la-filiación-y-la-ciudadanía "1. La Disertación Sobre la Filiación y la Ciudadanía") . 1929
 
-&#160;&#160;&#160;&#160;[2. After the Noontime Meal](part-4/178.md#2after-the-noontime-meal "2. After the Noontime Meal") . 1932
+&#160;&#160;&#160;&#160;[2. Después del Almuerzo](part-4/178.md#2después-del-almuerzo "2. Después del Almuerzo") . 1932
 
-&#160;&#160;&#160;&#160;[3. On the Way to the Supper](part-4/178.md#3on-the-way-to-the-supper "3. On the Way to the Supper") . 1934
+&#160;&#160;&#160;&#160;[3. Camino a la Cena](part-4/178.md#3camino-a-la-cena "3. Camino a la Cena") . 1934
 
-179 . <a href="part-4/179.md" title="The Last Supper">Paper 179 · The Last Supper</a> . 1936
+179 . <a href="part-4/179.md" title="La Última Cena">Documento 179 · La Última Cena</a> . 1936
 
-&#160;&#160;&#160;&#160;[1. The Desire for Preference](part-4/179.md#1the-desire-for-preference "1. The Desire for Preference") . 1936
+&#160;&#160;&#160;&#160;[1. El Anhelo de la Preferencia](part-4/179.md#1el-anhelo-de-la-preferencia "1. El Anhelo de la Preferencia") . 1936
 
-&#160;&#160;&#160;&#160;[2. Beginning the Supper](part-4/179.md#2beginning-the-supper "2. Beginning the Supper") . 1937
+&#160;&#160;&#160;&#160;[2. El Comienzo de la Cena](part-4/179.md#2el-comienzo-de-la-cena "2. El Comienzo de la Cena") . 1937
 
-&#160;&#160;&#160;&#160;[3. Washing the Apostles’ Feet](part-4/179.md#3washing-the-apostles-feet "3. Washing the Apostles’ Feet") . 1938
+&#160;&#160;&#160;&#160;[3. El Lavado de los Pies de los Apóstoles](part-4/179.md#3el-lavado-de-los-pies-de-los-apóstoles "3. El Lavado de los Pies de los Apóstoles") . 1938
 
-&#160;&#160;&#160;&#160;[4. Last Words to the Betrayer](part-4/179.md#4last-words-to-the-betrayer "4. Last Words to the Betrayer") . 1940
+&#160;&#160;&#160;&#160;[4. Las Últimas Palabras al Traidor](part-4/179.md#4las-últimas-palabras-al-traidor "4. Las Últimas Palabras al Traidor") . 1940
 
-&#160;&#160;&#160;&#160;[5. Establishing the Remembrance Supper](part-4/179.md#5establishing-the-remembrance-supper "5. Establishing the Remembrance Supper") . 1941
+&#160;&#160;&#160;&#160;[5. El Establecimiento de la Cena de Conmemoración](part-4/179.md#5el-establecimiento-de-la-cena-de-conmemoración "5. El Establecimiento de la Cena de Conmemoración") . 1941
 
-180 . <a href="part-4/180.md" title="The Farewell Discourse">Paper 180 · The Farewell Discourse</a> . 1944
+180 . <a href="part-4/180.md" title="El Discurso de Despedida">Documento 180 · El Discurso de Despedida</a> . 1944
 
-&#160;&#160;&#160;&#160;[1. The New Commandment](part-4/180.md#1the-new-commandment "1. The New Commandment") . 1944
+&#160;&#160;&#160;&#160;[1. El Nuevo Mandamiento](part-4/180.md#1el-nuevo-mandamiento "1. El Nuevo Mandamiento") . 1944
 
-&#160;&#160;&#160;&#160;[2. The Vine and the Branches](part-4/180.md#2the-vine-and-the-branches "2. The Vine and the Branches") . 1945
+&#160;&#160;&#160;&#160;[2. La Vid y las Ramas](part-4/180.md#2la-vid-y-las-ramas "2. La Vid y las Ramas") . 1945
 
-&#160;&#160;&#160;&#160;[3. Enmity of the World](part-4/180.md#3enmity-of-the-world "3. Enmity of the World") . 1946
+&#160;&#160;&#160;&#160;[3. La Enemistad del Mundo](part-4/180.md#3la-enemistad-del-mundo "3. La Enemistad del Mundo") . 1946
 
-&#160;&#160;&#160;&#160;[4. The Promised Helper](part-4/180.md#4the-promised-helper "4. The Promised Helper") . 1948
+&#160;&#160;&#160;&#160;[4. El Ayudante Prometido](part-4/180.md#4el-ayudante-prometido "4. El Ayudante Prometido") . 1948
 
-&#160;&#160;&#160;&#160;[5. The Spirit of Truth](part-4/180.md#5the-spirit-of-truth "5. The Spirit of Truth") . 1949
+&#160;&#160;&#160;&#160;[5. El Espíritu de la Verdad](part-4/180.md#5el-espíritu-de-la-verdad "5. El Espíritu de la Verdad") . 1949
 
-&#160;&#160;&#160;&#160;[6. The Necessity for Leaving](part-4/180.md#6the-necessity-for-leaving "6. The Necessity for Leaving") . 1951
+&#160;&#160;&#160;&#160;[6. La Necesidad de Partir](part-4/180.md#6la-necesidad-de-partir "6. La Necesidad de Partir") . 1951
 
-181 . <a href="part-4/181.md" title="Final Admonitions and Warnings">Paper 181 · Final Admonitions and Warnings</a> . 1953
+181 . <a href="part-4/181.md" title="Las Advertencias y Admoniciones Finales">Documento 181 · Las Advertencias y Admoniciones Finales</a> . 1953
 
-&#160;&#160;&#160;&#160;[1. Last Words of Comfort](part-4/181.md#1last-words-of-comfort "1. Last Words of Comfort") . 1953
+&#160;&#160;&#160;&#160;[1. Las Últimas Palabras de Consuelo](part-4/181.md#1las-últimas-palabras-de-consuelo "1. Las Últimas Palabras de Consuelo") . 1953
 
-&#160;&#160;&#160;&#160;[2. Farewell Personal Admonitions](part-4/181.md#2farewell-personal-admonitions "2. Farewell Personal Admonitions") . 1955
+&#160;&#160;&#160;&#160;[2. Las Admoniciones Personales de Despedida](part-4/181.md#2las-admoniciones-personales-de-despedida "2. Las Admoniciones Personales de Despedida") . 1955
 
-182 . <a href="part-4/182.md" title="In Gethsemane">Paper 182 · In Gethsemane</a> . 1963
+182 . <a href="part-4/182.md" title="En Getsemaní">Documento 182 · En Getsemaní</a> . 1963
 
-&#160;&#160;&#160;&#160;[1. The Last Group Prayer](part-4/182.md#1the-last-group-prayer "1. The Last Group Prayer") . 1963
+&#160;&#160;&#160;&#160;[1. La Última Oración en Grupo](part-4/182.md#1la-última-oración-en-grupo "1. La Última Oración en Grupo") . 1963
 
-&#160;&#160;&#160;&#160;[2. Last Hour Before the Betrayal](part-4/182.md#2last-hour-before-the-betrayal "2. Last Hour Before the Betrayal") . 1966
+&#160;&#160;&#160;&#160;[2. La Última Hora Antes de la Traición](part-4/182.md#2la-última-hora-antes-de-la-traición "2. La Última Hora Antes de la Traición") . 1966
 
-&#160;&#160;&#160;&#160;[3. Alone in Gethsemane](part-4/182.md#3alone-in-gethsemane "3. Alone in Gethsemane") . 1968
+&#160;&#160;&#160;&#160;[3. A Solas en Getsemaní](part-4/182.md#3a-solas-en-getsemaní "3. A Solas en Getsemaní") . 1968
 
-183 . <a href="part-4/183.md" title="The Betrayal and Arrest of Jesus">Paper 183 · The Betrayal and Arrest of Jesus</a> . 1971
+183 . <a href="part-4/183.md" title="La Traición y el Arresto de Jesús">Documento 183 · La Traición y el Arresto de Jesús</a> . 1971
 
-&#160;&#160;&#160;&#160;[1. The Father’s Will](part-4/183.md#1the-fathers-will "1. The Father’s Will") . 1971
+&#160;&#160;&#160;&#160;[1. La Voluntad del Padre](part-4/183.md#1la-voluntad-del-padre "1. La Voluntad del Padre") . 1971
 
-&#160;&#160;&#160;&#160;[2. Judas in the City](part-4/183.md#2judas-in-the-city "2. Judas in the City") . 1972
+&#160;&#160;&#160;&#160;[2. Judas en la Ciudad](part-4/183.md#2judas-en-la-ciudad "2. Judas en la Ciudad") . 1972
 
-&#160;&#160;&#160;&#160;[3. The Master’s Arrest](part-4/183.md#3the-masters-arrest "3. The Master’s Arrest") . 1973
+&#160;&#160;&#160;&#160;[3. El Arresto del Maestro](part-4/183.md#3el-arresto-del-maestro "3. El Arresto del Maestro") . 1973
 
-&#160;&#160;&#160;&#160;[4. Discussion at the Olive Press](part-4/183.md#4discussion-at-the-olive-press "4. Discussion at the Olive Press") . 1975
+&#160;&#160;&#160;&#160;[4. La Discusión Junto al Lagar](part-4/183.md#4la-discusión-junto-al-lagar "4. La Discusión Junto al Lagar") . 1975
 
-&#160;&#160;&#160;&#160;[5. On the Way to the High Priest’s Palace](part-4/183.md#5on-the-way-to-the-high-priests-palace "5. On the Way to the High Priest’s Palace") . 1977
+&#160;&#160;&#160;&#160;[5. Con Rumbo al Palacio del Sumo Sacerdote](part-4/183.md#5con-rumbo-al-palacio-del-sumo-sacerdote "5. Con Rumbo al Palacio del Sumo Sacerdote") . 1977
 
-184 . <a href="part-4/184.md" title="Before the Sanhedrin Court">Paper 184 · Before the Sanhedrin Court</a> . 1978
+184 . <a href="part-4/184.md" title="Ante el Tribunal del Sanedrín">Documento 184 · Ante el Tribunal del Sanedrín</a> . 1978
 
-&#160;&#160;&#160;&#160;[1. Examination by Annas](part-4/184.md#1examination-by-annas "1. Examination by Annas") . 1978
+&#160;&#160;&#160;&#160;[1. El Interrogatorio de Anás](part-4/184.md#1el-interrogatorio-de-anás "1. El Interrogatorio de Anás") . 1978
 
-&#160;&#160;&#160;&#160;[2. Peter in the Courtyard](part-4/184.md#2peter-in-the-courtyard "2. Peter in the Courtyard") . 1980
+&#160;&#160;&#160;&#160;[2. Pedro en el Patio](part-4/184.md#2pedro-en-el-patio "2. Pedro en el Patio") . 1980
 
-&#160;&#160;&#160;&#160;[3. Before the Court of Sanhedrists](part-4/184.md#3before-the-court-of-sanhedrists "3. Before the Court of Sanhedrists") . 1982
+&#160;&#160;&#160;&#160;[3. Ante el Tribunal de los Sanedristas](part-4/184.md#3ante-el-tribunal-de-los-sanedristas "3. Ante el Tribunal de los Sanedristas") . 1982
 
-&#160;&#160;&#160;&#160;[4. The Hour of Humiliation](part-4/184.md#4the-hour-of-humiliation "4. The Hour of Humiliation") . 1984
+&#160;&#160;&#160;&#160;[4. La Hora de la Humillación](part-4/184.md#4la-hora-de-la-humillación "4. La Hora de la Humillación") . 1984
 
-&#160;&#160;&#160;&#160;[5. The Second Meeting of the Court](part-4/184.md#5the-second-meeting-of-the-court "5. The Second Meeting of the Court") . 1985
+&#160;&#160;&#160;&#160;[5. La Segunda Reunión del Tribunal](part-4/184.md#5la-segunda-reunión-del-tribunal "5. La Segunda Reunión del Tribunal") . 1985
 
-185 . <a href="part-4/185.md" title="The Trial Before Pilate">Paper 185 · The Trial Before Pilate</a> . 1987
+185 . <a href="part-4/185.md" title="El Juicio Ante Pilato">Documento 185 · El Juicio Ante Pilato</a> . 1987
 
-&#160;&#160;&#160;&#160;[1. Pontius Pilate](part-4/185.md#1pontius-pilate "1. Pontius Pilate") . 1987
+&#160;&#160;&#160;&#160;[1. Poncio Pilato](part-4/185.md#1poncio-pilato "1. Poncio Pilato") . 1987
 
-&#160;&#160;&#160;&#160;[2. Jesus Appears Before Pilate](part-4/185.md#2jesus-appears-before-pilate "2. Jesus Appears Before Pilate") . 1989
+&#160;&#160;&#160;&#160;[2. Jesús Comparece Ante Pilato](part-4/185.md#2jesús-comparece-ante-pilato "2. Jesús Comparece Ante Pilato") . 1989
 
-&#160;&#160;&#160;&#160;[3. The Private Examination by Pilate](part-4/185.md#3the-private-examination-by-pilate "3. The Private Examination by Pilate") . 1991
+&#160;&#160;&#160;&#160;[3. El Interrogatorio Privado de Pilato](part-4/185.md#3el-interrogatorio-privado-de-pilato "3. El Interrogatorio Privado de Pilato") . 1991
 
-&#160;&#160;&#160;&#160;[4. Jesus Before Herod](part-4/185.md#4jesus-before-herod "4. Jesus Before Herod") . 1992
+&#160;&#160;&#160;&#160;[4. Jesús Ante Herodes](part-4/185.md#4jesús-ante-herodes "4. Jesús Ante Herodes") . 1992
 
-&#160;&#160;&#160;&#160;[5. Jesus Returns to Pilate](part-4/185.md#5jesus-returns-to-pilate "5. Jesus Returns to Pilate") . 1993
+&#160;&#160;&#160;&#160;[5. Jesús Vuelve Ante Pilato](part-4/185.md#5jesús-vuelve-ante-pilato "5. Jesús Vuelve Ante Pilato") . 1993
 
-&#160;&#160;&#160;&#160;[6. Pilate’s Last Appeal](part-4/185.md#6pilates-last-appeal "6. Pilate’s Last Appeal") . 1994
+&#160;&#160;&#160;&#160;[6. El Último Llamado de Pilato](part-4/185.md#6el-último-llamado-de-pilato "6. El Último Llamado de Pilato") . 1994
 
-&#160;&#160;&#160;&#160;[7. Pilate’s Last Interview](part-4/185.md#7pilates-last-interview "7. Pilate’s Last Interview") . 1995
+&#160;&#160;&#160;&#160;[7. La Última Entrevista con Pilato](part-4/185.md#7la-última-entrevista-con-pilato "7. La Última Entrevista con Pilato") . 1995
 
-&#160;&#160;&#160;&#160;[8. Pilate’s Tragic Surrender](part-4/185.md#8pilates-tragic-surrender "8. Pilate’s Tragic Surrender") . 1996
+&#160;&#160;&#160;&#160;[8. La Trágica Derrota de Pilato](part-4/185.md#8la-trágica-derrota-de-pilato "8. La Trágica Derrota de Pilato") . 1996
 
-186 . <a href="part-4/186.md" title="Just Before the Crucifixion">Paper 186 · Just Before the Crucifixion</a> . 1997
+186 . <a href="part-4/186.md" title="Poco Antes de la Crucifixión">Documento 186 · Poco Antes de la Crucifixión</a> . 1997
 
-&#160;&#160;&#160;&#160;[1. The End of Judas Iscariot](part-4/186.md#1the-end-of-judas-iscariot "1. The End of Judas Iscariot") . 1997
+&#160;&#160;&#160;&#160;[1. El Fin de Judas Iscariote](part-4/186.md#1el-fin-de-judas-iscariote "1. El Fin de Judas Iscariote") . 1997
 
-&#160;&#160;&#160;&#160;[2. The Master’s Attitude](part-4/186.md#2the-masters-attitude "2. The Master’s Attitude") . 1999
+&#160;&#160;&#160;&#160;[2. La Actitud del Maestro](part-4/186.md#2la-actitud-del-maestro "2. La Actitud del Maestro") . 1999
 
-&#160;&#160;&#160;&#160;[3. The Dependable David Zebedee](part-4/186.md#3the-dependable-david-zebedee "3. The Dependable David Zebedee") . 2000
+&#160;&#160;&#160;&#160;[3. El Confiable David Zebedeo](part-4/186.md#3el-confiable-david-zebedeo "3. El Confiable David Zebedeo") . 2000
 
-&#160;&#160;&#160;&#160;[4. Preparation for the Crucifixion](part-4/186.md#4preparation-for-the-crucifixion "4. Preparation for the Crucifixion") . 2001
+&#160;&#160;&#160;&#160;[4. La Preparación para la Crucifixión](part-4/186.md#4la-preparación-para-la-crucifixión "4. La Preparación para la Crucifixión") . 2001
 
-&#160;&#160;&#160;&#160;[5. Jesus’ Death in Relation to the Passover](part-4/186.md#5jesus-death-in-relation-to-the-passover "5. Jesus’ Death in Relation to the Passover") . 2002
+&#160;&#160;&#160;&#160;[5. La Muerte de Jesús en Relación con la Pascua](part-4/186.md#5la-muerte-de-jesús-en-relación-con-la-pascua "5. La Muerte de Jesús en Relación con la Pascua") . 2002
 
-187 . <a href="part-4/187.md" title="The Crucifixion">Paper 187 · The Crucifixion</a> . 2004
+187 . <a href="part-4/187.md" title="La Crucifixión">Documento 187 · La Crucifixión</a> . 2004
 
-&#160;&#160;&#160;&#160;[1. On the Way to Golgotha](part-4/187.md#1on-the-way-to-golgotha "1. On the Way to Golgotha") . 2004
+&#160;&#160;&#160;&#160;[1. En Camino al Gólgota](part-4/187.md#1en-camino-al-gólgota "1. En Camino al Gólgota") . 2004
 
-&#160;&#160;&#160;&#160;[2. The Crucifixion](part-4/187.md#2the-crucifixion "2. The Crucifixion") . 2006
+&#160;&#160;&#160;&#160;[2. La Crucifixión](part-4/187.md#2la-crucifixión "2. La Crucifixión") . 2006
 
-&#160;&#160;&#160;&#160;[3. Those Who Saw the Crucifixion](part-4/187.md#3those-who-saw-the-crucifixion "3. Those Who Saw the Crucifixion") . 2008
+&#160;&#160;&#160;&#160;[3. Los Que Vieron la Crucifixión](part-4/187.md#3los-que-vieron-la-crucifixión "3. Los Que Vieron la Crucifixión") . 2008
 
-&#160;&#160;&#160;&#160;[4. The Thief on the Cross](part-4/187.md#4the-thief-on-the-cross "4. The Thief on the Cross") . 2008
+&#160;&#160;&#160;&#160;[4. El Ladrón en la Cruz](part-4/187.md#4el-ladrón-en-la-cruz "4. El Ladrón en la Cruz") . 2008
 
-&#160;&#160;&#160;&#160;[5. Last Hour on the Cross](part-4/187.md#5last-hour-on-the-cross "5. Last Hour on the Cross") . 2010
+&#160;&#160;&#160;&#160;[5. La Última Hora en la Cruz](part-4/187.md#5la-última-hora-en-la-cruz "5. La Última Hora en la Cruz") . 2010
 
-&#160;&#160;&#160;&#160;[6. After the Crucifixion](part-4/187.md#6after-the-crucifixion "6. After the Crucifixion") . 2011
+&#160;&#160;&#160;&#160;[6. Después de la Crucifixión](part-4/187.md#6después-de-la-crucifixión "6. Después de la Crucifixión") . 2011
 
-188 . <a href="part-4/188.md" title="The Time of the Tomb">Paper 188 · The Time of the Tomb</a> . 2012
+188 . <a href="part-4/188.md" title="El Período en la Tumba">Documento 188 · El Período en la Tumba</a> . 2012
 
-&#160;&#160;&#160;&#160;[1. The Burial of Jesus](part-4/188.md#1the-burial-of-jesus "1. The Burial of Jesus") . 2012
+&#160;&#160;&#160;&#160;[1. El Entierro de Jesús](part-4/188.md#1el-entierro-de-jesús "1. El Entierro de Jesús") . 2012
 
-&#160;&#160;&#160;&#160;[2. Safeguarding the Tomb](part-4/188.md#2safeguarding-the-tomb "2. Safeguarding the Tomb") . 2014
+&#160;&#160;&#160;&#160;[2. La Vigilancia de la Tumba](part-4/188.md#2la-vigilancia-de-la-tumba "2. La Vigilancia de la Tumba") . 2014
 
-&#160;&#160;&#160;&#160;[3. During the Sabbath Day](part-4/188.md#3during-the-sabbath-day "3. During the Sabbath Day") . 2014
+&#160;&#160;&#160;&#160;[3. Durante el Sábado](part-4/188.md#3durante-el-sábado "3. Durante el Sábado") . 2014
 
-&#160;&#160;&#160;&#160;[4. Meaning of the Death on the Cross](part-4/188.md#4meaning-of-the-death-on-the-cross "4. Meaning of the Death on the Cross") . 2016
+&#160;&#160;&#160;&#160;[4. El Significado de la Muerte en la Cruz](part-4/188.md#4el-significado-de-la-muerte-en-la-cruz "4. El Significado de la Muerte en la Cruz") . 2016
 
-&#160;&#160;&#160;&#160;[5. Lessons from the Cross](part-4/188.md#5lessons-from-the-cross "5. Lessons from the Cross") . 2017
+&#160;&#160;&#160;&#160;[5. Las Lecciones de la Cruz](part-4/188.md#5las-lecciones-de-la-cruz "5. Las Lecciones de la Cruz") . 2017
 
-189 . <a href="part-4/189.md" title="The Resurrection">Paper 189 · The Resurrection</a> . 2020
+189 . <a href="part-4/189.md" title="La Resurrección">Documento 189 · La Resurrección</a> . 2020
 
-&#160;&#160;&#160;&#160;[1. The Morontia Transit](part-4/189.md#1the-morontia-transit "1. The Morontia Transit") . 2020
+&#160;&#160;&#160;&#160;[1. El Tránsito Morontial](part-4/189.md#1el-tránsito-morontial "1. El Tránsito Morontial") . 2020
 
-&#160;&#160;&#160;&#160;[2. The Material Body of Jesus](part-4/189.md#2the-material-body-of-jesus "2. The Material Body of Jesus") . 2022
+&#160;&#160;&#160;&#160;[2. El Cuerpo Material de Jesús](part-4/189.md#2el-cuerpo-material-de-jesús "2. El Cuerpo Material de Jesús") . 2022
 
-&#160;&#160;&#160;&#160;[3. The Dispensational Resurrection](part-4/189.md#3the-dispensational-resurrection "3. The Dispensational Resurrection") . 2024
+&#160;&#160;&#160;&#160;[3. La Resurrección Dispensacional](part-4/189.md#3la-resurrección-dispensacional "3. La Resurrección Dispensacional") . 2024
 
-&#160;&#160;&#160;&#160;[4. Discovery of the Empty Tomb](part-4/189.md#4discovery-of-the-empty-tomb "4. Discovery of the Empty Tomb") . 2025
+&#160;&#160;&#160;&#160;[4. El Descubrimiento de la Tumba Vacía](part-4/189.md#4el-descubrimiento-de-la-tumba-vacía "4. El Descubrimiento de la Tumba Vacía") . 2025
 
-&#160;&#160;&#160;&#160;[5. Peter and John at the Tomb](part-4/189.md#5peter-and-john-at-the-tomb "5. Peter and John at the Tomb") . 2027
+&#160;&#160;&#160;&#160;[5. Pedro y Juan Junto a la Tumba](part-4/189.md#5pedro-y-juan-junto-a-la-tumba "5. Pedro y Juan Junto a la Tumba") . 2027
 
-190 . <a href="part-4/190.md" title="Morontia Appearances of Jesus">Paper 190 · Morontia Appearances of Jesus</a> . 2029
+190 . <a href="part-4/190.md" title="Las Apariciones Morontiales de Jesús">Documento 190 · Las Apariciones Morontiales de Jesús</a> . 2029
 
-&#160;&#160;&#160;&#160;[1. Heralds of the Resurrection](part-4/190.md#1heralds-of-the-resurrection "1. Heralds of the Resurrection") . 2029
+&#160;&#160;&#160;&#160;[1. Los Heraldos de la Resurrección](part-4/190.md#1los-heraldos-de-la-resurrección "1. Los Heraldos de la Resurrección") . 2029
 
-&#160;&#160;&#160;&#160;[2. Jesus’ Appearance at Bethany](part-4/190.md#2jesus-appearance-at-bethany "2. Jesus’ Appearance at Bethany") . 2031
+&#160;&#160;&#160;&#160;[2. La Aparición de Jesús en Betania](part-4/190.md#2la-aparición-de-jesús-en-betania "2. La Aparición de Jesús en Betania") . 2031
 
-&#160;&#160;&#160;&#160;[3. At the Home of Joseph](part-4/190.md#3at-the-home-of-joseph "3. At the Home of Joseph") . 2033
+&#160;&#160;&#160;&#160;[3. En la Casa de José](part-4/190.md#3en-la-casa-de-josé "3. En la Casa de José") . 2033
 
-&#160;&#160;&#160;&#160;[4. Appearance to the Greeks](part-4/190.md#4appearance-to-the-greeks "4. Appearance to the Greeks") . 2033
+&#160;&#160;&#160;&#160;[4. La Aparición a los Griegos](part-4/190.md#4la-aparición-a-los-griegos "4. La Aparición a los Griegos") . 2033
 
-&#160;&#160;&#160;&#160;[5. The Walk with Two Brothers](part-4/190.md#5the-walk-with-two-brothers "5. The Walk with Two Brothers") . 2034
+&#160;&#160;&#160;&#160;[5. La Caminata con los Dos Hermanos](part-4/190.md#5la-caminata-con-los-dos-hermanos "5. La Caminata con los Dos Hermanos") . 2034
 
-191 . <a href="part-4/191.md" title="Appearances to the Apostles and Other Leaders">Paper 191 · Appearances to the Apostles and Other Leaders</a> . 2037
+191 . <a href="part-4/191.md" title="Las Apariciones a los Apóstoles y a Otros Líderes">Documento 191 · Las Apariciones a los Apóstoles y a Otros Líderes</a> . 2037
 
-&#160;&#160;&#160;&#160;[1. The Appearance to Peter](part-4/191.md#1the-appearance-to-peter "1. The Appearance to Peter") . 2039
+&#160;&#160;&#160;&#160;[1. La Aparición a Pedro](part-4/191.md#1la-aparición-a-pedro "1. La Aparición a Pedro") . 2039
 
-&#160;&#160;&#160;&#160;[2. First Appearance to the Apostles](part-4/191.md#2first-appearance-to-the-apostles "2. First Appearance to the Apostles") . 2040
+&#160;&#160;&#160;&#160;[2. La Primera Aparición Ante los Apóstoles](part-4/191.md#2la-primera-aparición-ante-los-apóstoles "2. La Primera Aparición Ante los Apóstoles") . 2040
 
-&#160;&#160;&#160;&#160;[3. With the Morontia Creatures](part-4/191.md#3with-the-morontia-creatures "3. With the Morontia Creatures") . 2040
+&#160;&#160;&#160;&#160;[3. Con las Seres Morontiales](part-4/191.md#3con-las-seres-morontiales "3. Con las Seres Morontiales") . 2040
 
-&#160;&#160;&#160;&#160;[4. The Tenth Appearance (At Philadelphia)](part-4/191.md#4the-tenth-appearance-at-philadelphia "4. The Tenth Appearance (At Philadelphia)") . 2041
+&#160;&#160;&#160;&#160;[4. La Décima Aparición (En Filadelfia)](part-4/191.md#4la-décima-aparición-en-filadelfia "4. La Décima Aparición (En Filadelfia)") . 2041
 
-&#160;&#160;&#160;&#160;[5. Second Appearance to the Apostles](part-4/191.md#5second-appearance-to-the-apostles "5. Second Appearance to the Apostles") . 2042
+&#160;&#160;&#160;&#160;[5. La Segunda Aparición Ante los Apóstoles](part-4/191.md#5la-segunda-aparición-ante-los-apóstoles "5. La Segunda Aparición Ante los Apóstoles") . 2042
 
-&#160;&#160;&#160;&#160;[6. The Alexandrian Appearance](part-4/191.md#6the-alexandrian-appearance "6. The Alexandrian Appearance") . 2044
+&#160;&#160;&#160;&#160;[6. La Aparición en Alejandría](part-4/191.md#6la-aparición-en-alejandría "6. La Aparición en Alejandría") . 2044
 
-192 . <a href="part-4/192.md" title="Appearances in Galilee">Paper 192 · Appearances in Galilee</a> . 2045
+192 . <a href="part-4/192.md" title="Las Apariciones en Galilea">Documento 192 · Las Apariciones en Galilea</a> . 2045
 
-&#160;&#160;&#160;&#160;[1. Appearance by the Lake](part-4/192.md#1appearance-by-the-lake "1. Appearance by the Lake") . 2045
+&#160;&#160;&#160;&#160;[1. La Aparición Junto al Lago](part-4/192.md#1la-aparición-junto-al-lago "1. La Aparición Junto al Lago") . 2045
 
-&#160;&#160;&#160;&#160;[2. Visiting with the Apostles Two and Two](part-4/192.md#2visiting-with-the-apostles-two-and-two "2. Visiting with the Apostles Two and Two") . 2047
+&#160;&#160;&#160;&#160;[2. Las Conversaciones con los Apóstoles de Dos en Dos](part-4/192.md#2las-conversaciones-con-los-apóstoles-de-dos-en-dos "2. Las Conversaciones con los Apóstoles de Dos en Dos") . 2047
 
-&#160;&#160;&#160;&#160;[3. On the Mount of Ordination](part-4/192.md#3on-the-mount-of-ordination "3. On the Mount of Ordination") . 2050
+&#160;&#160;&#160;&#160;[3. En el Monte de la Ordenación](part-4/192.md#3en-el-monte-de-la-ordenación "3. En el Monte de la Ordenación") . 2050
 
-&#160;&#160;&#160;&#160;[4. The Lakeside Gathering](part-4/192.md#4the-lakeside-gathering "4. The Lakeside Gathering") . 2050
+&#160;&#160;&#160;&#160;[4. La Reunión Junto al Lago](part-4/192.md#4la-reunión-junto-al-lago "4. La Reunión Junto al Lago") . 2050
 
-193 . <a href="part-4/193.md" title="Final Appearances and Ascension">Paper 193 · Final Appearances and Ascension</a> . 2052
+193 . <a href="part-4/193.md" title="Las Apariciones Finales y la Ascensión">Documento 193 · Las Apariciones Finales y la Ascensión</a> . 2052
 
-&#160;&#160;&#160;&#160;[1. The Appearance at Sychar](part-4/193.md#1the-appearance-at-sychar "1. The Appearance at Sychar") . 2053
+&#160;&#160;&#160;&#160;[1. La Aparición en Sicar](part-4/193.md#1la-aparición-en-sicar "1. La Aparición en Sicar") . 2053
 
-&#160;&#160;&#160;&#160;[2. The Phoenician Appearance](part-4/193.md#2the-phoenician-appearance "2. The Phoenician Appearance") . 2054
+&#160;&#160;&#160;&#160;[2. La Aparición en Fenicia](part-4/193.md#2la-aparición-en-fenicia "2. La Aparición en Fenicia") . 2054
 
-&#160;&#160;&#160;&#160;[3. Last Appearance in Jerusalem](part-4/193.md#3last-appearance-in-jerusalem "3. Last Appearance in Jerusalem") . 2055
+&#160;&#160;&#160;&#160;[3. La Última Aparición en Jerusalén](part-4/193.md#3la-última-aparición-en-jerusalén "3. La Última Aparición en Jerusalén") . 2055
 
-&#160;&#160;&#160;&#160;[4. Causes of Judas’s Downfall](part-4/193.md#4causes-of-judass-downfall "4. Causes of Judas’s Downfall") . 2055
+&#160;&#160;&#160;&#160;[4. Las Causas de la Caída de Judas](part-4/193.md#4las-causas-de-la-caída-de-judas "4. Las Causas de la Caída de Judas") . 2055
 
-&#160;&#160;&#160;&#160;[5. The Master’s Ascension](part-4/193.md#5the-masters-ascension "5. The Master’s Ascension") . 2057
+&#160;&#160;&#160;&#160;[5. La Ascensión del Maestro](part-4/193.md#5la-ascensión-del-maestro "5. La Ascensión del Maestro") . 2057
 
-&#160;&#160;&#160;&#160;[6. Peter Calls a Meeting](part-4/193.md#6peter-calls-a-meeting "6. Peter Calls a Meeting") . 2057
+&#160;&#160;&#160;&#160;[6. Pedro Convoca Una Reunión](part-4/193.md#6pedro-convoca-una-reunión "6. Pedro Convoca Una Reunión") . 2057
 
-194 . <a href="part-4/194.md" title="Bestowal of the Spirit of Truth">Paper 194 · Bestowal of the Spirit of Truth</a> . 2059
+194 . <a href="part-4/194.md" title="El Advenimiento del Espíritu de la Verdad">Documento 194 · El Advenimiento del Espíritu de la Verdad</a> . 2059
 
-&#160;&#160;&#160;&#160;[1. The Pentecost Sermon](part-4/194.md#1the-pentecost-sermon "1. The Pentecost Sermon") . 2060
+&#160;&#160;&#160;&#160;[1. El Sermón de Pentecostés](part-4/194.md#1el-sermón-de-pentecostés "1. El Sermón de Pentecostés") . 2060
 
-&#160;&#160;&#160;&#160;[2. The Significance of Pentecost](part-4/194.md#2the-significance-of-pentecost "2. The Significance of Pentecost") . 2060
+&#160;&#160;&#160;&#160;[2. El Significado de Pentecostés](part-4/194.md#2el-significado-de-pentecostés "2. El Significado de Pentecostés") . 2060
 
-&#160;&#160;&#160;&#160;[3. What Happened at Pentecost](part-4/194.md#3what-happened-at-pentecost "3. What Happened at Pentecost") . 2062
+&#160;&#160;&#160;&#160;[3. Lo Que Ocurrió en Pentecostés](part-4/194.md#3lo-que-ocurrió-en-pentecostés "3. Lo Que Ocurrió en Pentecostés") . 2062
 
-&#160;&#160;&#160;&#160;[4. Beginnings of the Christian Church](part-4/194.md#4beginnings-of-the-christian-church "4. Beginnings of the Christian Church") . 2066
+&#160;&#160;&#160;&#160;[4. Los Comienzos de la Iglesia Cristiana](part-4/194.md#4los-comienzos-de-la-iglesia-cristiana "4. Los Comienzos de la Iglesia Cristiana") . 2066
 
-195 . <a href="part-4/195.md" title="After Pentecost">Paper 195 · After Pentecost</a> . 2069
+195 . <a href="part-4/195.md" title="Después de Pentecostés">Documento 195 · Después de Pentecostés</a> . 2069
 
-&#160;&#160;&#160;&#160;[1. Influence of the Greeks](part-4/195.md#1influence-of-the-greeks "1. Influence of the Greeks") . 2071
+&#160;&#160;&#160;&#160;[1. La Influencia de los Griegos](part-4/195.md#1la-influencia-de-los-griegos "1. La Influencia de los Griegos") . 2071
 
-&#160;&#160;&#160;&#160;[2. The Roman Influence](part-4/195.md#2the-roman-influence "2. The Roman Influence") . 2072
+&#160;&#160;&#160;&#160;[2. La Influencia Romana](part-4/195.md#2la-influencia-romana "2. La Influencia Romana") . 2072
 
-&#160;&#160;&#160;&#160;[3. Under the Roman Empire](part-4/195.md#3under-the-roman-empire "3. Under the Roman Empire") . 2073
+&#160;&#160;&#160;&#160;[3. Bajo el Imperio Romano](part-4/195.md#3bajo-el-imperio-romano "3. Bajo el Imperio Romano") . 2073
 
-&#160;&#160;&#160;&#160;[4. The European Dark Ages](part-4/195.md#4the-european-dark-ages "4. The European Dark Ages") . 2074
+&#160;&#160;&#160;&#160;[4. La Edad de las Tinieblas en Europa](part-4/195.md#4la-edad-de-las-tinieblas-en-europa "4. La Edad de las Tinieblas en Europa") . 2074
 
-&#160;&#160;&#160;&#160;[5. The Modern Problem](part-4/195.md#5the-modern-problem "5. The Modern Problem") . 2075
+&#160;&#160;&#160;&#160;[5. El Problema Moderno](part-4/195.md#5el-problema-moderno "5. El Problema Moderno") . 2075
 
-&#160;&#160;&#160;&#160;[6. Materialism](part-4/195.md#6materialism "6. Materialism") . 2076
+&#160;&#160;&#160;&#160;[6. El Materialismo](part-4/195.md#6el-materialismo "6. El Materialismo") . 2076
 
-&#160;&#160;&#160;&#160;[7. The Vulnerability of Materialism](part-4/195.md#7the-vulnerability-of-materialism "7. The Vulnerability of Materialism") . 2078
+&#160;&#160;&#160;&#160;[7. La Vulnerabilidad del Materialismo](part-4/195.md#7la-vulnerabilidad-del-materialismo "7. La Vulnerabilidad del Materialismo") . 2078
 
-&#160;&#160;&#160;&#160;[8. Secular Totalitarianism](part-4/195.md#8secular-totalitarianism "8. Secular Totalitarianism") . 2081
+&#160;&#160;&#160;&#160;[8. El Totalitarismo Secular](part-4/195.md#8el-totalitarismo-secular "8. El Totalitarismo Secular") . 2081
 
-&#160;&#160;&#160;&#160;[9. Christianity’s Problem](part-4/195.md#9christianitys-problem "9. Christianity’s Problem") . 2082
+&#160;&#160;&#160;&#160;[9. El Problema del Cristianismo](part-4/195.md#9el-problema-del-cristianismo "9. El Problema del Cristianismo") . 2082
 
-&#160;&#160;&#160;&#160;[10. The Future](part-4/195.md#10the-future "10. The Future") . 2084
+&#160;&#160;&#160;&#160;[10. El Futuro](part-4/195.md#10el-futuro "10. El Futuro") . 2084
 
-196 . <a href="part-4/196.md" title="The Faith of Jesus">Paper 196 · The Faith of Jesus</a> . 2087
+196 . <a href="part-4/196.md" title="La Fe de Jesús">Documento 196 · La Fe de Jesús</a> . 2087
 
-&#160;&#160;&#160;&#160;[1. Jesus—The Man](part-4/196.md#1jesusthe-man "1. Jesus—The Man") . 2090
+&#160;&#160;&#160;&#160;[1. Jesús — El Hombre](part-4/196.md#1jesús--el-hombre "1. Jesús — El Hombre") . 2090
 
-&#160;&#160;&#160;&#160;[2. The Religion of Jesus](part-4/196.md#2the-religion-of-jesus "2. The Religion of Jesus") . 2091
+&#160;&#160;&#160;&#160;[2. La Religión de Jesús](part-4/196.md#2la-religión-de-jesús "2. La Religión de Jesús") . 2091
 
-&#160;&#160;&#160;&#160;[3. The Supremacy of Religion](part-4/196.md#3the-supremacy-of-religion "3. The Supremacy of Religion") . 2093
+&#160;&#160;&#160;&#160;[3. La Supremacía de la Religión](part-4/196.md#3la-supremacía-de-la-religión "3. La Supremacía de la Religión") . 2093
 
 

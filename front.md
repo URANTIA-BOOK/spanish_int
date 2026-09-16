@@ -1,76 +1,74 @@
-<hr /><p align="center">&#60;&#60;&#160; | <a href="parts.md" title="The Parts of the Book">The Parts of the Book</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160; | <a href="parts.md" title="Las Partes del Libro">Las Partes del Libro</a>&#160;&#62;&#62;</p><hr />
 
-<h1 align="center"><a name="FrontMatter"></a>The Urantia Book</h1>
+<h1 align="center"><a name="FrontMatter"></a>El libro de Urantia</h1>
 <p align="center"><img src="Urantia.svg" title="{Book.MetaData.BookTitle}" width="180" height="180" /></p>
 <p align="center"><span style="font: normal 600 55pt 'Times New Roman', Times, serif;">URANTIA</span> &#174;</p>
-<p align="center">&#174; Registered Marks of Urantia Foundation</p>
-ISBN: 978-0911560-060 (eBook)<br />
-ISBN: 978-0911560-510 (paperback)<br />
-ISBN: 978-0911560-077 (hardcover)<br />
-ISBN: 978-0911560-183 (Cambridge gift edition)<br />
-ISBN: 978-0911560-138 (Blue and white gift edition)
+<p align="center">&#174; Marcas registradas de la Fundación Urantia<br />
+&#174; Registered Marks of Urantia Foundation</p>
+<p align="center"><strong>Traducción al español<br />
+Spanish Translation (Latin American Edition), 2024 Release</strong></p>
+ISBN: 978-1883395-049 (eBook)<br />
+ISBN: 978-1883395-025 (tapa rústica)<br />
+ISBN: 978-1883395-216 (tapa dura)
 
-<em>The Urantia Book</em> was first published in 1955 by Urantia Foundation.
-
-Book design and cover &#169; 2015 Urantia Foundation. All rights reserved.
+Copyright &#169; 1993 Fundación Urantia<br />
+Copyright &#169; 1993 Urantia Foundation<br />
+Diseño del libro y la portada &#169; 2015 Fundación Urantia. Reservados todos los derechos.
 
 Urantia Foundation<br />
 533 West Diversey Parkway<br />
 Chicago, IL 60614, USA<br />
-Phone: +1 (773) 525-3319<br />
+Teléfono: +1 773 525 3319<br />
 Email: <a href="mailto:urantia@urantia.org" title="Mail to urantia@urantia.org">urantia@urantia.org</a><br />
-Website: <a href="https://www.urantia.org" title="www.urantia.org" target="_blank">www.urantia.org</a>
+Sitio web: <a href="https://www.urantia.org/es" title="urantia.org" target="_blank">urantia.org</a>
 
-The Standard Reference Text of <em>The Urantia Book</em> was developed by a group of scholars to protect the integrity of the original book. This text represents their best efforts to correct the small number of errors found in the early editions of the book. All corrections were approved by Urantia Foundation's Board of Trustees.
+El símbolo de los círculos concéntricos certifica que esta edición está autorizada por la Fundación Urantia.
 
-The Concentric Circles Symbol identifies the inviolate text of <em>The Urantia Book</em>.
+<em>El libro de Urantia</em> está disponible en los siguientes idiomas:<br />
+Alemán – <em>Das Urantia Buch</em><br />
+Árabe – <span dir="rtl">كِتاب يورانشيا</span><br />
+Búlgaro – <em>Книгата Урантия</em><br />
+Checo – <em>Kniha Urantia</em><br />
+Chino (simplificado) – 《玉苒厦之书》<br/>
+Coreano – 유란시아 서<br />
+Danés – <em>Urantia Bogen</em><br />
+Español – <em>El libro de Urantia</em><br />
+Estonio – <em>Urantia raamat</em><br />
+Finés – <em>Urantia-kirja</em><br />
+Francés – <em>Le Livre d’Urantia</em><br />
+Griego – <em>Το Βιβλίο της Ουράντια</em><br />
+Hebreo – <span dir="rtl">הספר של אורנטיה</span><br />
+Holandés – <em>Het Urantia Boek</em><br />
+Húngaro – <em>Az Urantia könyv</em><br />
+Indonesio – <em>Buku Urantia</em><br />
+Inglés – <em>The Urantia Book</em><br />
+Italiano – <em>Il Libro di Urantia</em><br />
+Japonés – ウランティア・ブック<br />
+Lituano – <em>Urantijos knyga</em><br />
+Persa – <span dir="rtl">کتاب یورنشیا</span><br />
+Polaco – <em>Księga Urantii</em><br />
+Portugués – <em>O Livro de Urântia</em><br />
+Rumano – <em>Cartea Urantia</em><br />
+Ruso – <em>Книга Урантии</em><br />
+Sueco – <em>Urantiaboken</em><br />
+Turco – <em>Urantia’nın Kitabı</em>
 
-Urantia Foundation certifies that this edition is accurate and complete.
+Para obtener más información sobre dónde se vende <em>El libro de Urantia,</em>, visite: <a href="https://www.urantia.org/es/el-libro-de-urantia/comprar" target="_blank">www.urantia.org/es/el-libro-de-urantia/comprar</a>.
 
-Library of Congress Catalog Card Information<br />
-<em>The Urantia Book</em>, Chicago, 1955 lxvi, 2097 pages<br />
-Catalog Card Number: BP605. U74 U7 1955<br />
-Library of Congress Classification Revised 1975
+Descarga de una grabación gratuita de <em>El libro de Urantia</em> en: <a href="https://www.urantia.org/es/el-libro-de-urantia/escuchar" target="_blank">urantia.org/es/el-libro-de-urantia/escuchar</a>.<br />
+Cursos en línea gratuitos en: <a href="https://new.ubis.urantia.org/moodle/?lang=es" target="_blank">ubis.urantia.org</a>.<br />
+Para encontrar grupos de estudio de <em>El libro de Urantia</em>: <a href="https://www.urantiastudygroup.org/es" target="_blank">urantiastudygroup.org</a>.
 
-<em>The Urantia Book</em> is available in the following languages:<br />
-Arabic – <span dir="rtl">كِتاب يورانشيا</span><br />
-Bulgarian – <em>Книгата Урантия</em><br />
-Czech – <em>Kniha Urantia</em><br />
-Chinese (simplified) – 《玉苒厦之书》<br/>
-Danish – <em>Urantia Bogen</em><br />
-Dutch – <em>Het Urantia Boek</em><br />
-English – <em>The Urantia Book</em><br />
-Estonian – <em>Urantia raamat</em><br />
-Farsi – <span dir="rtl">کتاب یورنشیا</span><br />
-Finnish – <em>Urantia-kirja</em><br />
-French – <em>Le Livre d’Urantia</em><br />
-German – <em>Das Urantia Buch</em><br />
-Greek – <em>Το Βιβλίο της Ουράντια</em><br />
-Hebrew – <span dir="rtl">הספר של אורנטיה</span><br />
-Hungarian – <em>Az Urantia könyv</em><br />
-Indonesian – <em>Buku Urantia</em><br />
-Italian – <em>Il Libro di Urantia</em><br />
-Japanese – ウランティア ブック<br />
-Korean – 유란시아 서<br />
-Lithuanian – <em>Urantijos Knyga</em><br />
-Polish – <em>Księga Urantii</em><br />
-Portuguese – <em>O Livro de Urântia</em><br />
-Romanian – <em>Cartea Urantia</em><br />
-Russian – <em>Книга Урантии</em><br />
-Spanish – <em>El libro de Urantia</em><br />
-Swedish – <em>Urantiaboken</em><br />
-Turkish – <em>Urantia’nın Kitabı</em>
+Todos los derechos reservados de reproducción, incluidas las traducciones en los Estados Unidos de América, así como en Canadá y en los demás países afiliados a la Unión Internacional de Copyright. Todos los derechos reservados bajo las Convenciones Panamericanas de Copyright y bajo la Convención de Copyright Universal.
 
-For information about where to purchase <em>The Urantia Book</em>, visit: <a href="https://www.urantia.org/urantia-book/buy" target="_blank">urantia.org/urantia-book/buy</a>.
+Ninguna parte de este libro puede ser reproducida, traducida o apropiada de ninguna forma ni por ningún medio (incluido electrónico, mecánico u otro, como fotocopia, grabación o cualquier sistema de almacenamiento o reproducción de información) sin el permiso por escrito del editor.
 
-Download a free audio recording of <em>The Urantia Book</em> at: <a href="https://www.urantia.org/audio" target="_blank">urantia.org/audio</a>.<br />
-Free online courses at: <a href="https://new.ubis.urantia.org/" target="_blank">ubis.urantia.org</a>.<br />
-Find study groups of <em>The Urantia Book</em> at: <a href="https://www.urantiastudygroup.org/" target="_blank">urantiastudygroup.org</a>.
+Se ha puesto gran cuidado en esta traducción de <em>El libro de Urantia.</em> Sin embargo, sigue siendo una obra humana que siempre puede ser mejorada. La Fundación Urantia, titular de los derechos de autor, se reserva el derecho de realizar cambios y revisiones con el fin de mejorarla.
 
-Urantia Foundation offers no official interpretation of the teachings in The Urantia Book. Interpretation of the text is left to the individual reader.
+La Fundación Urantia no ofrece ninguna interpretación oficial de las enseñanzas de <em>El libro de Urantia.</em> La interpretación del texto se deja a cada lector.
 
-Text Identification Number: UF-ENG-001-1955-1.22<br />
-Version stamp: UF-202412132348
+Número de identificación del texto: UF-SPA-419-1993-1.9<br />
+Sello de versión: UF-202412132348
 
-<p align="center">“Urantia,” “Urantian,” and <img src="./Urantia.svg" title="Concentric Circles" class="fmico" /> are the trademarks, service marks, and membership marks of Urantia Foundation.</p>
+<p align="center">«Urantia», «Urantian», y el <img src="./Urantia.svg" title="El símbolo de los círculos concéntricos" class="fmico" /> son marcas de servicio y marcas de afiliación colectiva registradas de la Fundación Urantia.</p>
 

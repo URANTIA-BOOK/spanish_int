@@ -1,140 +1,140 @@
-<h1 align="center"><a name="Part3"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Part3"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="Universal Unity">Paper 56</a> | <a href="../parts.md" title="The Parts of the Book">Parts</a> | <a href="../contents.md" title="Contents of the Book">Content</a> | <a href="057.md" title="The Origin of Urantia">Paper 57</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../part-2/056.md" title="Unidad Universal">Documento 56</a> | <a href="../parts.md" title="Las Partes del Libro">Partes</a> | <a href="../contents.md" title="Contenido del Libro">Contenido</a> | <a href="057.md" title="El Origen de Urantia">Documento 57</a>&#160;&#62;&#62;</p><hr />
 
-## PART III
+## PARTE III
 
-## The History of Urantia
+## La Historia de Urantia
 
-These papers were sponsored by a Corps of Local Universe Personalities acting by authority of Gabriel of Salvington
+Estos documentos fueron auspiciados por un Cuerpo de Personalidades del Universo Local que actúan por autoridad de Gabriel de Salvington.
 
 <hr />
 
-[Paper 57 - The Origin of Urantia](057.md "The Origin of Urantia")
+[Documento 57 - El Origen de Urantia](057.md "El Origen de Urantia")
 
-[Paper 58 - Life Establishment on Urantia](058.md "Life Establishment on Urantia")
+[Documento 58 - El Establecimiento de la Vida en Urantia](058.md "El Establecimiento de la Vida en Urantia")
 
-[Paper 59 - The Marine-Life Era on Urantia](059.md "The Marine-Life Era on Urantia")
+[Documento 59 - La Era de la Vida Marina en Urantia](059.md "La Era de la Vida Marina en Urantia")
 
-[Paper 60 - Urantia During the Early Land-Life Era](060.md "Urantia During the Early Land-Life Era")
+[Documento 60 - Urantia Durante la Era Primitiva de la Vida Terrestre](060.md "Urantia Durante la Era Primitiva de la Vida Terrestre")
 
-[Paper 61 - The Mammalian Era on Urantia](061.md "The Mammalian Era on Urantia")
+[Documento 61 - La Era de los Mamíferos en Urantia](061.md "La Era de los Mamíferos en Urantia")
 
-[Paper 62 - The Dawn Races of Early Man](062.md "The Dawn Races of Early Man")
+[Documento 62 - Las Razas Protohumanas del Hombre Primitivo](062.md "Las Razas Protohumanas del Hombre Primitivo")
 
-[Paper 63 - The First Human Family](063.md "The First Human Family")
+[Documento 63 - La Primera Familia Humana](063.md "La Primera Familia Humana")
 
-[Paper 64 - The Evolutionary Races of Color](064.md "The Evolutionary Races of Color")
+[Documento 64 - Las Razas Evolucionarias de Color](064.md "Las Razas Evolucionarias de Color")
 
-[Paper 65 - The Overcontrol of Evolution](065.md "The Overcontrol of Evolution")
+[Documento 65 - La Supervisión de la Evolución](065.md "La Supervisión de la Evolución")
 
-[Paper 66 - The Planetary Prince of Urantia](066.md "The Planetary Prince of Urantia")
+[Documento 66 - El Príncipe Planetario de Urantia](066.md "El Príncipe Planetario de Urantia")
 
-[Paper 67 - The Planetary Rebellion](067.md "The Planetary Rebellion")
+[Documento 67 - La Rebelión Planetaria](067.md "La Rebelión Planetaria")
 
-[Paper 68 - The Dawn of Civilization](068.md "The Dawn of Civilization")
+[Documento 68 - Los Albores de la Civilización](068.md "Los Albores de la Civilización")
 
-[Paper 69 - Primitive Human Institutions](069.md "Primitive Human Institutions")
+[Documento 69 - Las Instituciones Humanas Primitivas](069.md "Las Instituciones Humanas Primitivas")
 
-[Paper 70 - The Evolution of Human Government](070.md "The Evolution of Human Government")
+[Documento 70 - La Evolución del Gobierno Humano](070.md "La Evolución del Gobierno Humano")
 
-[Paper 71 - Development of the State](071.md "Development of the State")
+[Documento 71 - El Desarrollo del Estado](071.md "El Desarrollo del Estado")
 
-[Paper 72 - Government on a Neighboring Planet](072.md "Government on a Neighboring Planet")
+[Documento 72 - El Gobierno de un Planeta Vecino](072.md "El Gobierno de un Planeta Vecino")
 
-[Paper 73 - The Garden of Eden](073.md "The Garden of Eden")
+[Documento 73 - El Jardín del Edén](073.md "El Jardín del Edén")
 
-[Paper 74 - Adam and Eve](074.md "Adam and Eve")
+[Documento 74 - Adán y Eva](074.md "Adán y Eva")
 
-[Paper 75 - The Default of Adam and Eve](075.md "The Default of Adam and Eve")
+[Documento 75 - La Falta de Adán y Eva](075.md "La Falta de Adán y Eva")
 
-[Paper 76 - The Second Garden](076.md "The Second Garden")
+[Documento 76 - El Segundo Jardín](076.md "El Segundo Jardín")
 
-[Paper 77 - The Midway Creatures](077.md "The Midway Creatures")
+[Documento 77 - Los Seres Intermedios](077.md "Los Seres Intermedios")
 
-[Paper 78 - The Violet Race After the Days of Adam](078.md "The Violet Race After the Days of Adam")
+[Documento 78 - La Raza Violeta Después de los Días de Adán](078.md "La Raza Violeta Después de los Días de Adán")
 
-[Paper 79 - Andite Expansion in the Orient](079.md "Andite Expansion in the Orient")
+[Documento 79 - La Expansión Andita en el Oriente](079.md "La Expansión Andita en el Oriente")
 
-[Paper 80 - Andite Expansion in the Occident](080.md "Andite Expansion in the Occident")
+[Documento 80 - La Expansión Andita en el Occidente](080.md "La Expansión Andita en el Occidente")
 
-[Paper 81 - Development of Modern Civilization](081.md "Development of Modern Civilization")
+[Documento 81 - El Desarrollo de la Civilización Moderna](081.md "El Desarrollo de la Civilización Moderna")
 
-[Paper 82 - The Evolution of Marriage](082.md "The Evolution of Marriage")
+[Documento 82 - La Evolución del Matrimonio](082.md "La Evolución del Matrimonio")
 
-[Paper 83 - The Marriage Institution](083.md "The Marriage Institution")
+[Documento 83 - La Institución del Matrimonio](083.md "La Institución del Matrimonio")
 
-[Paper 84 - Marriage and Family Life](084.md "Marriage and Family Life")
+[Documento 84 - Matrimonio y Vida Familiar](084.md "Matrimonio y Vida Familiar")
 
-[Paper 85 - The Origins of Worship](085.md "The Origins of Worship")
+[Documento 85 - Los Orígenes de la Adoración](085.md "Los Orígenes de la Adoración")
 
-[Paper 86 - Early Evolution of Religion](086.md "Early Evolution of Religion")
+[Documento 86 - La Evolución Primitiva de la Religión](086.md "La Evolución Primitiva de la Religión")
 
-[Paper 87 - The Ghost Cults](087.md "The Ghost Cults")
+[Documento 87 - Los Cultos a los Fantasmas](087.md "Los Cultos a los Fantasmas")
 
-[Paper 88 - Fetishes, Charms, and Magic](088.md "Fetishes, Charms, and Magic")
+[Documento 88 - Los Fetiches, los Amuletos y la Magia](088.md "Los Fetiches, los Amuletos y la Magia")
 
-[Paper 89 - Sin, Sacrifice, and Atonement](089.md "Sin, Sacrifice, and Atonement")
+[Documento 89 - El Pecado, el Sacrificio y la Expiación](089.md "El Pecado, el Sacrificio y la Expiación")
 
-[Paper 90 - Shamanism—Medicine Men and Priests](090.md "Shamanism—Medicine Men and Priests")
+[Documento 90 - El Shamanismo — Los Curanderos y los Sacerdotes](090.md "El Shamanismo — Los Curanderos y los Sacerdotes")
 
-[Paper 91 - The Evolution of Prayer](091.md "The Evolution of Prayer")
+[Documento 91 - La Evolución de la Oración](091.md "La Evolución de la Oración")
 
-[Paper 92 - The Later Evolution of Religion](092.md "The Later Evolution of Religion")
+[Documento 92 - La Evolución Ulterior de la Religión](092.md "La Evolución Ulterior de la Religión")
 
-[Paper 93 - Machiventa Melchizedek](093.md "Machiventa Melchizedek")
+[Documento 93 - Maquiventa Melquisedek](093.md "Maquiventa Melquisedek")
 
-[Paper 94 - The Melchizedek Teachings in the Orient](094.md "The Melchizedek Teachings in the Orient")
+[Documento 94 - Las Enseñanzas de Melquisedek en el Oriente](094.md "Las Enseñanzas de Melquisedek en el Oriente")
 
-[Paper 95 - The Melchizedek Teachings in the Levant](095.md "The Melchizedek Teachings in the Levant")
+[Documento 95 - Las Enseñanzas de Melquisedek en el Levante](095.md "Las Enseñanzas de Melquisedek en el Levante")
 
-[Paper 96 - Yahweh—God of the Hebrews](096.md "Yahweh—God of the Hebrews")
+[Documento 96 - Yahvé — El Dios de los Hebreos](096.md "Yahvé — El Dios de los Hebreos")
 
-[Paper 97 - Evolution of the God Concept Among the Hebrews](097.md "Evolution of the God Concept Among the Hebrews")
+[Documento 97 - Evolución del Concepto de Dios Entre los Hebreos](097.md "Evolución del Concepto de Dios Entre los Hebreos")
 
-[Paper 98 - The Melchizedek Teachings in the Occident](098.md "The Melchizedek Teachings in the Occident")
+[Documento 98 - Las Enseñanzas de Melquisedek en el Occidente](098.md "Las Enseñanzas de Melquisedek en el Occidente")
 
-[Paper 99 - The Social Problems of Religion](099.md "The Social Problems of Religion")
+[Documento 99 - Los Problemas Sociales de la Religión](099.md "Los Problemas Sociales de la Religión")
 
-[Paper 100 - Religion in Human Experience](100.md "Religion in Human Experience")
+[Documento 100 - La Religión en la Experiencia Humana](100.md "La Religión en la Experiencia Humana")
 
-[Paper 101 - The Real Nature of Religion](101.md "The Real Nature of Religion")
+[Documento 101 - La Verdadera Naturaleza de la Religión](101.md "La Verdadera Naturaleza de la Religión")
 
-[Paper 102 - The Foundations of Religious Faith](102.md "The Foundations of Religious Faith")
+[Documento 102 - Los Cimientos de la Fe Religiosa](102.md "Los Cimientos de la Fe Religiosa")
 
-[Paper 103 - The Reality of Religious Experience](103.md "The Reality of Religious Experience")
+[Documento 103 - La Realidad de la Experiencia Religiosa](103.md "La Realidad de la Experiencia Religiosa")
 
-[Paper 104 - Growth of the Trinity Concept](104.md "Growth of the Trinity Concept")
+[Documento 104 - El Crecimiento del Concepto de la Trinidad](104.md "El Crecimiento del Concepto de la Trinidad")
 
-[Paper 105 - Deity and Reality](105.md "Deity and Reality")
+[Documento 105 - La Deidad y la Realidad](105.md "La Deidad y la Realidad")
 
-[Paper 106 - Universe Levels of Reality](106.md "Universe Levels of Reality")
+[Documento 106 - Los Niveles de la Realidad en el Universo](106.md "Los Niveles de la Realidad en el Universo")
 
-[Paper 107 - Origin and Nature of Thought Adjusters](107.md "Origin and Nature of Thought Adjusters")
+[Documento 107 - El Origen y la Naturaleza de los Ajustadores del Pensamiento](107.md "El Origen y la Naturaleza de los Ajustadores del Pensamiento")
 
-[Paper 108 - Mission and Ministry of Thought Adjusters](108.md "Mission and Ministry of Thought Adjusters")
+[Documento 108 - La Misión y el Ministerio de los Ajustadores del Pensamiento](108.md "La Misión y el Ministerio de los Ajustadores del Pensamiento")
 
-[Paper 109 - Relation of Adjusters to Universe Creatures](109.md "Relation of Adjusters to Universe Creatures")
+[Documento 109 - La Relación de los Ajustadores con las Criaturas del Universo](109.md "La Relación de los Ajustadores con las Criaturas del Universo")
 
-[Paper 110 - Relation of Adjusters to Individual Mortals](110.md "Relation of Adjusters to Individual Mortals")
+[Documento 110 - La Relación de los Ajustadores con los Seres Mortales](110.md "La Relación de los Ajustadores con los Seres Mortales")
 
-[Paper 111 - The Adjuster and the Soul](111.md "The Adjuster and the Soul")
+[Documento 111 - El Ajustador y el Alma](111.md "El Ajustador y el Alma")
 
-[Paper 112 - Personality Survival](112.md "Personality Survival")
+[Documento 112 - La Sobrevivencia de la Personalidad](112.md "La Sobrevivencia de la Personalidad")
 
-[Paper 113 - Seraphic Guardians of Destiny](113.md "Seraphic Guardians of Destiny")
+[Documento 113 - Los Guardianes Seráficos del Destino](113.md "Los Guardianes Seráficos del Destino")
 
-[Paper 114 - Seraphic Planetary Government](114.md "Seraphic Planetary Government")
+[Documento 114 - El Gobierno Planetario Seráfico](114.md "El Gobierno Planetario Seráfico")
 
-[Paper 115 - The Supreme Being](115.md "The Supreme Being")
+[Documento 115 - El Ser Supremo](115.md "El Ser Supremo")
 
-[Paper 116 - The Almighty Supreme](116.md "The Almighty Supreme")
+[Documento 116 - El Supremo Todopoderoso](116.md "El Supremo Todopoderoso")
 
-[Paper 117 - God the Supreme](117.md "God the Supreme")
+[Documento 117 - Dios el Supremo](117.md "Dios el Supremo")
 
-[Paper 118 - Supreme and Ultimate—Time and Space](118.md "Supreme and Ultimate—Time and Space")
+[Documento 118 - El Supremo y el Ultimo — El Tiempo y el Espacio](118.md "El Supremo y el Ultimo — El Tiempo y el Espacio")
 
-[Paper 119 - The Bestowals of Christ Michael](119.md "The Bestowals of Christ Michael")
+[Documento 119 - Los Autootorgamientos de Cristo Micael](119.md "Los Autootorgamientos de Cristo Micael")
 
 <hr />
 
