@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/index.md",
-  "source_sha256": "22889888862f2935961ff3d8fceab1a38a20f76d80f7c007625331d1be620c13",
+  "source_sha256": "1443cd70b273e0cce94e08c8b68aa0b3b245c9f19e4e40a57d1dc3add8b0a876",
   "rows": [
     {
       "type": "part",
@@ -22,8 +22,8 @@
       "paperTitle": null,
       "sectionTitle": null,
       "markdown": null,
-      "partTitle": "La Vida y las Enseñanzas de Jesus",
-      "partSponsorship": "Esta colección de documentos fue auspiciada por una comisión de doce seres intermedios de Urantia que actúan bajo la supervisión de un director Melquisedek de revelación."
+      "partTitle": "Vida y enseñanzas de Jesús",
+      "partSponsorship": "Este grupo de documentos fue patrocinado por una comisión de doce seres intermedios de Urantia bajo la supervisión de un Melquisedec director de revelación."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-4/187.md",
-  "source_sha256": "f8b8e3d8aca205449eef1db39bf8158f66387e5b4c2f6be6bf5d033f2e1722a1",
+  "source_sha256": "5335125fdc2bd140e5034b3266268cca928bc917e6ea00c830c609a343c7b47a",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "187:0.0",
       "pageReference": null,
       "sortId": "4.187.000.000",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "187:0.0",
       "pageReference": null,
       "sortId": "4.187.000.000",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "187:0.1",
       "pageReference": "2004.1",
       "sortId": "4.187.000.001",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
-      "markdown": "UNA vez que se hubo preparado a los dos bandidos, los soldados, bajo el mando de un centurión, salieron hacia el sitio de la crucifixión. El centurión a cargo de estos doce soldados era el mismo capitán que la noche anterior había conducido a los soldados romanos al arresto de Jesús en Getsemaní. Era costumbre romana asignar cuatro soldados a cada uno de los que serían crucificados. Los dos bandidos fueron debidamente azotados antes de que se los llevara para la crucifixión, pero Jesús no recibió golpes adicionales; indudablemente el capitán pensó que ya había sido azotado bastante, aun antes de su condena."
+      "markdown": "UNA VEZ preparados los dos bandidos, los soldados se pusieron en marcha hacia el lugar de la crucifixión bajo las órdenes de un centurión. Era costumbre romana asignar cuatro soldados a cada reo de crucifixión, y el centurión que encabezaba a estos doce soldados era el mismo capitán que había dirigido la víspera el arresto de Jesús en Getsemaní. Los dos bandidos fueron debidamente azotados antes de ponerse en camino pero no Jesús. El capitán debió considerar que ya había recibido bastante castigo incluso antes de ser condenado."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "187:0.2",
       "pageReference": "2004.2",
       "sortId": "4.187.000.002",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
-      "markdown": "Los dos ladrones crucificados con Jesús eran cómplices de Barrabás y habrían sido puestos a muerte más tarde con su líder de no haber sido éste soltado por Pilato como el perdón pascual. Jesús pues fue crucificado en lugar de Barrabás."
+      "markdown": "Los dos ladrones crucificados con Jesús eran cómplices de Barrabás. Los tres bandidos habrían sido ejecutados después de las fiestas si Pilatos no hubiera indultado a su líder por la Pascua. Y así, Jesús fue crucificado en lugar de Barrabás."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "187:0.3",
       "pageReference": "2004.3",
       "sortId": "4.187.000.003",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
-      "markdown": "Lo que Jesús está a punto a hacer, sometiéndose a la muerte en la cruz, lo hace él por su libre albedrío. Al pronosticar esta experiencia, él dijo: «El Padre me ama y me sostiene porque estoy dispuesto a ofrendar mi vida. Pero tomaré posesión de ella de nuevo. Nadie me quita la vida, —por mí mismo la ofrendo. Tengo poder para ofrendarla, y tengo poder para tomar posesión de ella. Este mandamiento recibí de mi Padre»."
+      "markdown": "Lo que Jesús está a punto a hacer, someterse a la muerte de cruz, lo hace por su propio libre albedrío. Al predecir esta experiencia había dicho: «El Padre me ama y me sostiene porque estoy dispuesto a dar mi vida. Pero la volveré a tomar. Nadie me la quita, la doy por mí mismo. Tengo autoridad para darla y tengo autoridad para volverla a tomar. Este mandamiento lo recibí de mi Padre»."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "187:0.4",
       "pageReference": "2004.4",
       "sortId": "4.187.000.004",
-      "paperTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
       "sectionTitle": null,
-      "markdown": "Eran apenas antes de las nueve de esta mañana cuando los soldados condujeron a Jesús del pretorio, camino al Gólgota. Muchos de entre los que caminaban tras de esta procesión eran simpatizantes en secreto de Jesús, pero la mayor parte de este grupo de unos doscientos o más, estaba formado de sus enemigos y de holgazanes curiosos que simplemente deseaban disfrutar del espectáculo chocante de las crucifixiones. Sólo unos pocos de los líderes judíos fueron a presenciar la muerte de Jesús en la cruz. Sabiendo que Pilato lo había entregado a los soldados romanos y que estaba condenado a muerte, se ocuparon más bien de su reunión en el templo, en la que discutieron qué habrían de hacer con los seguidores de Jesús."
+      "markdown": "Justo antes de las nueve de la mañana los soldados salieron del pretorio hacia el Gólgota con Jesús. Muchos simpatizantes secretos del Maestro caminaban detrás de ellos, pero la mayoría de los más de doscientos espectadores eran sus enemigos o simplemente curiosos desocupados en busca de emociones fuertes. Solo algunos líderes judíos fueron a ver morir a Jesús en la cruz. Los demás, sabiendo que había sido entregado por Pilatos a los soldados romanos para ser ejecutado, dejaron de interesarse por él y se reunieron en el templo a decidir qué hacer con sus seguidores."
     },
     {
       "type": "section",
@@ -127,8 +127,8 @@
       "standardReferenceId": "187:1.0",
       "pageReference": null,
       "sortId": "4.187.001.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
       "markdown": null
     },
     {
@@ -145,9 +145,9 @@
       "standardReferenceId": "187:1.1",
       "pageReference": "2004.5",
       "sortId": "4.187.001.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Antes de salir del patio del pretorio, los soldados colocaron sobre los hombros de Jesús el travesaño. Era costumbre obligar al condenado a que llevara el travesaño hasta el sitio de la crucifixión. El condenado no llevaba toda la cruz, sino tan sólo esta viga más corta. Las piezas más largas y verticales de las tres cruces de madera ya se habían transportado al Gólgota y, cuando llegaron los soldados con sus prisioneros, ya estaban plantadas firmemente en la tierra."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Antes de salir del patio del pretorio los soldados colocaron el travesaño de la cruz sobre los hombros de Jesús. Era costumbre obligar al condenado a llevar el travesaño de la cruz hasta el lugar de la crucifixión. El condenado no llevaba toda la cruz, solo el madero más corto. Los postes de madera verticales más largos de las tres cruces se habían transportado ya al Gólgota y estaban bien clavados en el suelo cuando llegaron los soldados con sus prisioneros."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "187:1.2",
       "pageReference": "2004.6",
       "sortId": "4.187.001.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "De acuerdo con la costumbre, el capitán conducía la procesión, llevando pequeñas tablillas blancas en las que se había escrito con carbón el nombre de los criminales y la naturaleza de los crímenes por los cuales habían sido condenados. Para los dos la-drones, el centurión tenía leyendas con su nombre, y debajo del nombre había una sola palabra, «bandido». Era costumbre, después de clavar la víctima al travesaño e izarla hasta su lugar sobre la viga vertical, clavar esta leyenda en el extremo superior de la cruz, justo encima de la cabeza del criminal, para que todos los espectadores pudieran enterarse por cuál crimen se crucificaba al condenado. La leyenda que llevaba el centurión para colocar en la cruz de Jesús había sido escrita por Pilato mismo en latín, griego y aramaico, y decía: «Jesús de Nazaret —rey de los judíos»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Siguiendo la costumbre el capitán encabezó la procesión llevando unas tablillas blancas en las que se habían escrito con carboncillo los nombres de los reos y los delitos por los que habían sido condenados. Las tablillas de los dos ladrones eran letreros con sus nombres, y debajo una sola palabra: «Bandido». Después de clavar al ajusticiado en el travesaño e izarlo hasta su lugar en el poste vertical, se clavaba este letrero en el extremo más alto de la cruz justo encima de su cabeza para que todos los espectadores pudieran saber por qué delito era crucificado. El letrero que llevaba el centurión para poner en la cruz de Jesús había sido escrito en latín, griego y arameo por el propio Pilatos y decía: «Jesús de Nazaret, rey de los judíos»."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "187:1.3",
       "pageReference": "2005.1",
       "sortId": "4.187.001.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Algunas de las autoridades judías que aún estaban presentes cuando Pilato escribió esta leyenda protestaron vigorosamente, porque no querían que se llamara a Jesús «rey de los judíos». Pero Pilato les recordó que esa acusación era parte de los cargos que llevaron a su condena. Cuando los judíos vieron que no podían convencer a Pilato de que cambiara de idea, le rogaron que por lo menos modificara la leyenda como sigue: «Él dijo: ‘yo soy el rey de los judíos’». Pero Pilato se mantuvo firme; no quiso modificar su leyenda. Ante todas las súplicas él tan sólo contestó: «Lo que he escrito, he escrito»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Algunas autoridades judías estaban aún presentes cuando Pilatos escribió esta leyenda y protestaron enérgicamente de que se llamara a Jesús «rey de los judíos», pero Pilatos les recordó que esa era una de las acusaciones por las que había sido condenado. Al ver que no podían obligar a Pilatos a cambiar de idea, le suplicaron que al menos cambiara la redacción para que pusiera: «Él dijo: ‘yo soy el rey de los judíos’», pero Pilatos se mantuvo inflexible y no quiso cambiar el letrero. Cuando siguieron insistiendo se limitó a responder: «Lo que he escrito, escrito está»."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "187:1.4",
       "pageReference": "2005.2",
       "sortId": "4.187.001.004",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Generalmente era costumbre viajar al Gólgota por el camino más largo, para que mayor número de personas pudieran ver al condenado, pero este día fueron por el camino más directo, saliendo por la puerta de Damasco, que se abría al norte de la ciudad, y siguiendo este camino, pronto llegaron al Gólgota, el sitio oficial de Jerusalén para las crucifixiones. Más allá del Gólgota estaban las villas de los pudientes, y del otro lado de la carretera estaban las tumbas de muchos judíos ricos."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Por regla general el cortejo al Gólgota solía tomar el camino más largo para que muchos pudieran ver pasar al condenado, pero aquel día fueron por la ruta directa de la puerta de Damasco, que era la salida de la ciudad hacia el norte, y por esta calzada llegaron pronto al Gólgota, el lugar oficial de las crucifixiones en Jerusalén. Más allá del Gólgota estaban las villas de los ricos y al otro lado del camino las tumbas de muchos judíos acomodados."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "187:1.5",
       "pageReference": "2005.3",
       "sortId": "4.187.001.005",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "La crucifixión no era un tipo de condena de los judíos. Tanto los griegos como los romanos habían aprendido este método de ejecución de los fenicios. Aun Herodes, a pesar de su gran crueldad, no llegó nunca a practicar la crucifixión. Los romanos nunca crucificaron a un ciudadano romano; este tipo deshonorable de muerte se usaba tan sólo para los esclavos y los pueblos súbditos. Durante el sitio de Jerusalén, tan sólo cuarenta años después de la crucifixión de Jesús, el Gólgota entero se cubrió de miles y miles de cruces sobre las que, día tras día, pereció la flor de la raza judía. En verdad una cosecha trágica, de lo que se sembrara en ese día."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "La crucifixión no era un castigo judío. Tanto los griegos como los romanos habían aprendido este método de ejecución de los fenicios. Ni siquiera Herodes con toda su crueldad recurría a la crucifixión. Los romanos no crucificaban nunca a un ciudadano romano, solo sometían a esta muerte deshonrosa a los esclavos y a los pueblos sometidos. Durante el sitio de Jerusalén, justo cuarenta años después de la crucifixión de Jesús, el Gólgota se cubrió de miles y miles de cruces en las que pereció día tras día la flor y nata de la raza judía. Una horrenda cosecha de la semilla que se sembró ese viernes."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "187:1.6",
       "pageReference": "2005.4",
       "sortId": "4.187.001.006",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "A medida que pasaba la procesión de muerte por las angostas calles de Jerusalén, muchas judías de corazón tierno que habían oído las palabras de buen ánimo y compasión de Jesús, y que conocían su vida de ministerio amante, no pudieron contener el llanto al verlo conducido a una muerte tan innoble. A su paso pues, muchas de estas mujeres lloraban y se lamentaban. Cuando algunas de ellas se atrevieron a caminar a su lado, el Maestro volvió hacia ellas la cabeza y dijo: «Hijas de Jerusalén, no lloréis por mí, sino más bien por vosotras y por vuestros hijos. Mi obra está casi terminada —pronto iré a mi Padre— pero los tiempos de tribulaciones tremendas recién empiezan para Jerusalén. He aquí que vendrán días en que diréis: Bienaventuradas las estériles y las de pechos que no amamantaron jamás a sus pequeños. En aquellos días, imploraréis que caigan sobre vosotras las rocas de las colinas para libraros de los terrores de vuestras tribulaciones»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Mientras la siniestra procesión recorría las estrechas calles de Jerusalén muchas mujeres judías de buen corazón que habían escuchado las palabras de ánimo y compasión de Jesús y conocían su vida de servicio por amor no pudieron contener el llanto al ver que lo llevaban a una muerte tan innoble. Muchas de estas mujeres lloraban y se lamentaban a su paso, y cuando algunas de ellas se atrevieron a caminar a su lado, el Maestro volvió la cabeza hacia ellas y les dijo: «Hijas de Jerusalén, no lloréis por mí, llorad más bien por vosotras y por vuestros hijos. Mi obra está casi terminada —pronto iré a mi Padre—, pero los tiempos de gran tribulación para Jerusalén acaban de empezar. Porque vendrán los días en que diréis: Bienaventuradas las estériles y los pechos que nunca criaron. Entonces imploraréis que caigan sobre vosotras las rocas de las montañas y os liberen de los horrores de vuestras tribulaciones»."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "187:1.7",
       "pageReference": "2005.5",
       "sortId": "4.187.001.007",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Estas mujeres de Jerusalén en verdad eran valientes al manifestar compasión por Jesús, porque estaba estrictamente prohibido por la ley mostrar sentimientos caritativos por el que iba hacia su crucifixión. Se permitía que el gentío se lo mofara al condenado, se burlara de él o lo ridiculizara, pero no se permitía que se expresara compasión alguna. Aunque Jesús apreciaba estas manifestaciones de compasión en esta hora oscura en la que sus amigos estaban escondidos, no quería que estas mujeres de buen corazón incitaran la ira de las autoridades por atreverse a mostrar misericordia por él. Aun en ese momento, Jesús poco pensaba en sí mismo, sino que pensaba en los días terribles de tragedia que caerían sobre Jerusalén y sobre toda la nación judía."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Estas mujeres de Jerusalén fueron realmente valientes cuando manifestaron su simpatía por Jesús, pues la ley prohibía estrictamente mostrar sentimientos favorables por alguien que iba a ser crucificado. Se permitía a la chusma abuchear, burlarse y ridiculizar al condenado, pero no estaba permitido expresar ningún tipo de apoyo. Aunque Jesús agradecía la demostración de afecto en esta hora sombría en que sus amigos estaban escondidos, no quería que estas mujeres de buen corazón tuvieran problemas con las autoridades por atreverse a mostrar compasión por él. Incluso en un momento como ese, Jesús no estaba pendiente de sí mismo sino de la terrible tragedia que se cernía sobre Jerusalén y sobre toda la nación judía."
     },
     {
       "type": "paragraph",
@@ -271,9 +271,9 @@
       "standardReferenceId": "187:1.8",
       "pageReference": "2006.1",
       "sortId": "4.187.001.008",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Mientras el Maestro trastabillaba camino de la crucifixión, estaba muy cansado; estaba casi exhausto. No había comido ni bebido desde la última cena en la casa de Elías Marcos. Tampoco le habían permitido que disfrutara de un momento de reposo. Además, hubo de soportar un interrogatorio tras otro hasta la hora de su condena, sin mencionar los azotes abusivos, el sufrimiento físico y la pérdida de sangre. Además de todo esto, estaba su extremada angustia mental, su aguda tensión espiritual, y un sentimiento terrible de soledad humana."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "El Maestro iba avanzando penosamente hacia la crucifixión cada vez más cansado, al borde del agotamiento. No había comido ni bebido desde la Última Cena en casa de Elías Marcos. Tampoco se le había permitido ni un momento de sueño. Además, había soportado un interrogatorio tras otro hasta el momento de su condena, por no mencionar los brutales azotes con el consiguiente sufrimiento físico y la pérdida de sangre. A todo esto había que añadir una angustia mental extrema, una aguda tensión espiritual y un terrible sentimiento de soledad humana."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "187:1.9",
       "pageReference": "2006.2",
       "sortId": "4.187.001.009",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Poco después de pasar por la puerta de salida de la ciudad, al tropezar Jesús bajo el travesaño, la fuerza física le abandonó por un momento, y cayó bajo el peso de su enorme carga. Los soldados le gritaron y patearon, pero él no podía levantarse. Cuando el capitán vio esto, sabiendo todo lo que Jesús ya había soportado, mandó a sus soldados que desistiesen. Luego ordenó a uno que pasaba, un tal Simón de Cirene, que tomara el travesaño de los hombros de Jesús y lo obligó a llevarlo por el resto del camino hasta el Gólgota."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Poco después de salir por la puerta de la ciudad con el travesaño a cuestas, Jesús empezó a tambalearse, le fallaron las fuerzas y cayó bajo su pesada carga. Los soldados intentaron levantarlo a gritos y patadas, pero no pudo. Cuando el capitán lo vio, sabiendo lo que Jesús ya había soportado, mandó parar a los soldados. Luego obligó a un hombre que pasaba por ahí, un tal Simón de Cirene, a levantar el travesaño de los hombros de Jesús y cargar con él durante el resto del camino al Gólgota."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "187:1.10",
       "pageReference": "2006.3",
       "sortId": "4.187.001.010",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Este Simón había venido de Cirene, en el norte de África, para asistir a la Pascua. Paraba con otros cirineos en las afueras de los muros de la ciudad e iba camino del templo para asistir a los oficios cuando el capitán romano le mandó que llevara el travensaño de Jesús. Simón permaneció allí todas las horas que tardó el Maestro en morir en la cruz, hablando con muchos de sus amigos y con sus enemigos. Después de la resurrección y antes de irse de Jerusalén, él se convirtió valientemente al evangelio del reino, y cuando volvió a su hogar, condujo a toda su familia al reino celestial. Sus dos hijos, Alejandro y Rufo, fueron maestros muy eficaces del nuevo evangelio en África. Pero Simón nunca supo que Jesús, cuya carga él llevó, y el tutor judío que cierta vez había consolado a su hijo lesionado, eran la misma persona."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Este Simón había viajado desde Cirene, en el norte de África, hasta Jerusalén para asistir a la Pascua. Se alojaba con otros cireneos justo fuera de los muros de la ciudad y se dirigía hacia los oficios del templo cuando el capitán romano le ordenó llevar el travesaño de Jesús. Durante las horas que tardó el Maestro en morir, Simón permaneció junto a la cruz hablando con muchos de sus amigos y también con sus enemigos. Se quedó en Jerusalén hasta después de la resurrección, se convirtió en un valeroso creyente en el evangelio del reino y a su vuelta a casa condujo a su familia al reino celestial. Sus dos hijos, Alejandro y Rufo, llegaron a ser maestros muy eficaces del nuevo evangelio en África. Pero Simón nunca supo que Jesús, cuya carga había llevado, y el preceptor judío que socorrió en su día a su hijo herido eran la misma persona."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "187:1.11",
       "pageReference": "2006.4",
       "sortId": "4.187.001.011",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "En Camino al Gólgota",
-      "markdown": "Fue poco después de las nueve cuando esta procesión de muerte llegó al Gólgota, y los soldados romanos se ocuparon de la tarea de clavar a los dos bandidos y al Hijo del Hombre en sus respectivas cruces."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "De camino al Gólgota",
+      "markdown": "Eran poco más de las nueve cuando la siniestra procesión llegó al Gólgota y los soldados romanos se pusieron a clavar a los dos bandidos y al Hijo del Hombre en sus respectivas cruces."
     },
     {
       "type": "section",
@@ -343,8 +343,8 @@
       "standardReferenceId": "187:2.0",
       "pageReference": null,
       "sortId": "4.187.002.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
       "markdown": null
     },
     {
@@ -361,9 +361,9 @@
       "standardReferenceId": "187:2.1",
       "pageReference": "2006.5",
       "sortId": "4.187.002.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Los soldados ataron primero con sogas los brazos del Maestro al travensaño, y luego le clavaron las manos al leño. Izaron luego el travensaño al poste, y después de clavarlo firmemente al madero vertical de la cruz, le ataron y clavaron los pies a la madera, usando un clavo largo para penetrar los dos pies. La madera vertical llevaba una cuña grande, colocada a la altura apropiada, que funcionaba como soporte para aguantar el peso del cuerpo. La cruz no era alta, los pies del Maestro se encontraban tan sólo un metro por encima de la tierra. Por lo tanto, pudo oír todo lo que burlonamente se decía de él y pudo ver claramente la expresión de los rostros de todos los que tan impensadamente se mofaban de él. También los que estaban presentes pudieron oír fácilmente todo lo que dijo Jesús durante estas horas de constante tortura y muerte lenta."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Los soldados ataron primero los brazos del Maestro al travesaño con cuerdas y clavaron sus manos a la madera; después izaron este travesaño hasta lo alto del poste y lo clavaron firmemente en el madero vertical de la cruz; finalmente ataron y clavaron los pies de Jesús a la madera por medio de un clavo largo para traspasar ambos pies. El madero vertical tenía una gran clavija insertada a la altura adecuada que servía como soporte para sostener el peso del cuerpo. La cruz no era alta, los pies del Maestro solo estaban a un metro del suelo, de modo que pudo oír todas las burlas que le hicieron y ver la expresión de la cara de todos los que tan burdamente se mofaban de él. Y todos los presentes pudieron oír también todo lo que Jesús dijo durante esas horas de larga tortura y muerte lenta."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "187:2.2",
       "pageReference": "2007.1",
       "sortId": "4.187.002.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Era costumbre quitar todas las vestimentas de los que debían ser crucificados, pero puesto que los judíos objetaban grandemente a que se mostrara el cuerpo humano desnudo en público, los romanos proveían un paño adecuado para los condenados a la crucifixión en Jerusalén. Por lo tanto, una vez que le quitaron a Jesús sus vestimentas, con eso lo cubrieron antes de colocarlo en la cruz."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Era costumbre quitar toda la ropa a los que iban a ser crucificados, pero en vista del rechazo de los judíos contra la exposición pública del cuerpo humano desnudo, los romanos proporcionaban siempre un taparrabos adecuado a cuantos crucificaban en Jerusalén, y Jesús fue cubierto de este modo antes de clavarlo en la cruz."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "187:2.3",
       "pageReference": "2007.2",
       "sortId": "4.187.002.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Se recurría a la crucifixión como castigo particularmente cruel y lento, pues a veces tardaba varios días la víctima en morir. Había mucha oposición a la crucifixión en Jerusalén, y existía una asociación de mujeres judías, que siempre enviaban a una representante a las crucifixiones, con el objeto de ofrecer a la víctima vino drogado para aliviar sus sufrimientos. Pero cuando Jesús probó de este vino con narcótico, a pesar de la sed que tenía, se negó a beberlo. El Maestro eligió mantener la conciencia humana hasta el fin mismo. Deseaba enfrentarse con la muerte, aun en esta forma tan cruel e inhumana, y conquistarla mediante la sumisión voluntaria a la plena experiencia humana."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "La crucifixión tenía por objeto imponer un castigo cruel y prolongado, pues a veces la víctima tardaba varios días en morir. En Jerusalén existía un fuerte sentimiento de oposición contra este suplicio, y había una asociación de mujeres judías que enviaba siempre a las crucifixiones un vino mezclado con drogas para atenuar los sufrimientos de las víctimas. Cuando Jesús probó este vino narcotizado, y a pesar de la sed que tenía, se negó a beberlo. El Maestro eligió conservar su consciencia humana hasta el mismísimo final. Deseaba afrontar la muerte, incluso bajo esa forma tan cruel e inhumana, y triunfar sobre ella mediante la sumisión voluntaria a la experiencia humana completa."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "187:2.4",
       "pageReference": "2007.3",
       "sortId": "4.187.002.004",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Antes de que Jesús fuera colocado en la cruz, ya se habían colocado en las cruces los dos bandidos, que no dejaban de insultar y escupir a sus verdugos. Las únicas palabras de Jesús, al clavarlo ellos al travensaño, fueron «Padre, perdónalos porque no saben qué están haciendo». No podría haber intercedido tan misericordiosa y amantemente en favor de sus verdugos si estos pensamientos de devoción afectuosa no hubiesen sido el manantial mismo de su vida de servicio altruista. Las ideas, motivos y anhelos de toda una vida se revelan abiertamente en una crisis."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Antes de clavar a Jesús en su cruz, los dos bandidos fueron clavados en las suyas y no pararon de escupir y maldecir a sus verdugos. Las únicas palabras de Jesús mientras lo clavaban en el travesaño fueron: «Padre, perdónalos porque no saben lo que hacen». No podría haber intercedido con tanto amor y misericordia por sus verdugos si esos pensamientos de afectuosa entrega no hubieran sido el móvil principal de toda su vida de servicio generoso. Las ideas, los motivos y los anhelos de toda una vida salen a relucir en los momentos de crisis."
     },
     {
       "type": "paragraph",
@@ -433,9 +433,9 @@
       "standardReferenceId": "187:2.5",
       "pageReference": "2007.4",
       "sortId": "4.187.002.005",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Una vez que izaron al Maestro a la cruz, el capitán clavó la leyenda encima de su cabeza, y ésta leía en tres idiomas: «Jesús de Nazaret —el rey de los Judíos». Los judíos estaban furiosos por este supuesto insulto. Pero Pilato se había enfadado por la conducta irrespetuosa de los judíos; le parecía que lo habían intimidado y humillado, y eligió este método para obtener una mezquina venganza. Podría haber escrito «Jesús, un rebelde». Pero él bien sabía que estos judíos de Jerusalén detestaban el nombre mismo de Nazaret, y estaba decidido a humillarlos de esta manera. Sabía que también se resentirían mucho al ver que este galileo crucificado era llamado «el rey de los judíos»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Después de izar al Maestro en la cruz el capitán clavó encima de su cabeza el letrero que decía en tres idiomas: «Jesús de Nazaret, rey de los judíos». Los judíos se enfurecieron ante lo que ellos consideraban un insulto, pero sus modales irrespetuosos habían irritado a Pilatos. El gobernador sentía que había sido intimidado y humillado, y aprovechó esta oportunidad para tomarse su pequeña revancha. Podría haber escrito: «Jesús, un rebelde». Pero sabía muy bien que estos judíos de Jerusalén detestaban incluso el nombre de Nazaret y estaba decidido a humillarlos de ese modo. Sabía que se sentirían heridos en lo más profundo al ver a este galileo ejecutado bajo el nombre de «rey de los judíos»."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "187:2.6",
       "pageReference": "2007.5",
       "sortId": "4.187.002.006",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Muchos de los líderes judíos, cuando supieron de cómo Pilato los trataba ridiculizar al poner esa inscripción en la cruz de Jesús, fueron de prisa al Gólgota, pero al llegar no se atrevieron a quitar la leyenda, puesto que los soldados romanos estaban de guardia. Como no pudieron quitar el título, estos líderes se mezclaron con la multitud e hicieron lo que pudieron para incitar a la burla y al ridículo, para que nadie tomara en serio la inscripción."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Muchos líderes judíos se acercaron rápidamente al Gólgota cuando se enteraron de que Pilatos pretendía ridiculizarlos con la inscripción de la cruz de Jesús, pero no se atrevieron a quitarla porque los soldados romanos estaban de guardia. Al no poder quitar el rótulo, se mezclaron con el gentío e hicieron todo lo posible por provocar la burla y el escarnio para que nadie se tomara en serio la inscripción."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "187:2.7",
       "pageReference": "2007.6",
       "sortId": "4.187.002.007",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "El apóstol Juan, con María la madre de Jesús, Ruth y Judá, llegaron a la escena poco después de que habían izado a Jesús a su posición en la cruz, y mientras estaba el capitán clavando la leyenda sobre la cabeza del Maestro. Juan fue el único de los once apóstoles que presenció la crucifixión, y aun él no estuvo presente todo el tiempo, puesto que corrió a Jerusalén para traer a su madre y a las amigas de ella, poco después de haber acompañado al Gólgota a la madre de Jesús."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "El apóstol Juan con María la madre de Jesús, Rut y Judá llegaron poco después de que Jesús hubiera sido izado en la cruz y justo cuando el capitán estaba clavando el letrero encima de la cabeza del Maestro. Juan fue el único de los once apóstoles que presenció la crucifixión, pero ni siquiera él estuvo presente todo el tiempo porque después de haber llevado a la madre de Jesús volvió corriendo a Jerusalén a buscar a su propia madre y sus amigas."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "187:2.8",
       "pageReference": "2007.7",
       "sortId": "4.187.002.008",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Cuando Jesús vio a su madre, con Juan y su hermano y hermana, sonrió, pero no dijo nada. Mientras tanto los cuatro soldados que tenían a su cargo la crucifixión del Maestro, como era costumbre, se habían dividido entre ellos sus indumentos, llevando uno las sandalias, otro el turbante, otro el cinto, y el cuarto, el manto. Quedaba tan sólo la túnica, un indumento sin costuras que llegaba hasta cerca de las rodillas; los soldados iban a cortarla en cuatro pedazos, pero cuando vieron que se trataba de una vestimenta tan insólita, decidieron echar suertes por ésta. Jesús los miraba desde arriba mientras se dividían sus vestimentas, y la multitud desconsiderada se burlaba de él."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Cuando Jesús vio a su madre con Juan, su hermano y su hermana sonrió pero no dijo nada. Mientras tanto los cuatro soldados encargados de la crucifixión del Maestro se habían repartido su ropa como era costumbre. Uno las sandalias, otro el turbante, otro el ceñidor y el cuarto el manto. Quedaba la túnica de una sola pieza sin costuras que llegaba hasta las rodillas. Los soldados pensaban cortarla en cuatro, pero al ver la calidad de la prenda decidieron echarla a suertes. Jesús los miraba desde arriba mientras se repartían su ropa entre los abucheos del gentío contra él."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "187:2.9",
       "pageReference": "2008.1",
       "sortId": "4.187.002.009",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Crucifixión",
-      "markdown": "Fue una suerte de que los soldados romanos tomaran posesión de las ropas del Maestro. De no ser así, si sus seguidores hubieran conseguido estos indumentos, tal vez habrían caído en la tentación de adorar en forma supersticiosa estas reliquias. El Maestro deseaba que sus seguidores no pudieran tener ningún objeto material para asociarlo con su vida en la tierra. Quería dejar a la humanidad tan sólo el recuerdo de una vida humana dedicada al alto ideal espiritual de consagrarse a hacer la voluntad del Padre."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La crucifixión",
+      "markdown": "Fue una suerte que los soldados romanos se quedaran con las ropas del Maestro. Si las hubieran guardado sus discípulos, se habrían visto tentados a adorar supersticiosamente esas prendas como reliquias, y el Maestro no quería que sus seguidores tuvieran nada material que pudieran asociar con su vida en la tierra. Lo único que quería dejar a la humanidad era el recuerdo de una vida humana consagrada al alto ideal espiritual de hacer la voluntad del Padre."
     },
     {
       "type": "section",
@@ -523,8 +523,8 @@
       "standardReferenceId": "187:3.0",
       "pageReference": null,
       "sortId": "4.187.003.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
       "markdown": null
     },
     {
@@ -541,9 +541,9 @@
       "standardReferenceId": "187:3.1",
       "pageReference": "2008.2",
       "sortId": "4.187.003.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Alrededor de las nueve y media por la mañana de este viernes, Jesús fue colgado de la cruz. Antes de las once, más de mil personas se habían reunido para presenciar este espectáculo de la crucifixión del Hijo del Hombre. A lo largo de estas horas espantosas las huestes invisibles de un universo estuvieron mirando, mudas, este fenómeno extraordinario del Creador que estaba padeciendo la muerte de la criatura, aun la más innoble muerte de un criminal condenado."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "Jesús fue colgado en la cruz hacia las nueve y media de la mañana de ese viernes. Antes de las once se habían reunido más de mil personas a presenciar el espectáculo de la crucifixión del Hijo del Hombre. Durante esas espantosas horas las huestes invisibles de un universo estuvieron contemplando en silencio el fenómeno extraordinario del Creador que muere la muerte de la criatura, y además la muerte ignominiosa de un reo condenado."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "187:3.2",
       "pageReference": "2008.3",
       "sortId": "4.187.003.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Junto a la cruz estuvieron en distintos momentos de la crucifixión María, Ruth, Judá, Juan, Salomé (la madre de Juan), y un grupo de mujeres, sinceras creyentes, que incluía a María la mujer de Clopas y la hermana de la madre de Jesús, a María Magdalena, y a Rebeca, anteriormente de Séforis. Estos y otros amigos de Jesús se mantuvieron en silencio, prsesenciando su gran paciencia y fortaleza y contemplando sus intensos sufrimientos."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "En un momento u otro de la crucifixión estuvieron junto a la cruz María, Rut, Judá, Juan, Salomé (la madre de Juan) y un grupo de creyentes fervorosas y sinceras, entre ellas María la esposa de Clopás y hermana de la madre de Jesús, María Magdalena y Rebeca, que había vivido en Séforis. Estos y otros amigos de Jesús presenciaron en silencio su paciencia y entereza, y contemplaron sus intensos sufrimientos."
     },
     {
       "type": "paragraph",
@@ -577,9 +577,9 @@
       "standardReferenceId": "187:3.3",
       "pageReference": "2008.4",
       "sortId": "4.187.003.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Muchos de los que pasaban por ahí meneaban la cabeza y, burlándose de él, decían: «Tú que destruirías el templo y lo volverías a edificar en tres días, sálvate. Si eres el Hijo de Dios, ¿por qué no te bajas de tu cruz?» De la misma manera algunos de los líderes de los judíos se mofaban de él diciendo: «Salvó a otros, pero no se puede salvar a sí mismo». Otros decían: «Si eres el rey de los judíos, bájate de la cruz, y entonces creeremos en ti». Y más tarde se burlaron aun más, diciendo: «El confió en que Dios le libraría. Aun afirmó ser el Hijo de Dios —miradlo ahora— crucificado entre dos la-drones». Hasta los dos ladrones también se burlaban de él y lo reprochaban."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "Muchos de los que pasaban por allí meneaban con sorna la cabeza y decían: «Tú que destruyes el templo y en tres días lo reedificas, sálvate a ti mismo. Si eres el Hijo de Dios, ¿por qué no bajas de la cruz?». También se mofaban algunos dirigentes judíos diciendo: «A otros salvó pero a sí mismo no puede salvarse». Otros le decían: «Si eres el rey de los judíos baja de la cruz y creeremos en ti». Y así siguieron burlándose de él: «Confiaba en que Dios lo liberaría, pretendía ser el Hijo de Dios y ahora está crucificado entre dos ladrones». Hasta los dos ladrones le hacían burlas y reproches."
     },
     {
       "type": "paragraph",
@@ -595,9 +595,9 @@
       "standardReferenceId": "187:3.4",
       "pageReference": "2008.5",
       "sortId": "4.187.003.004",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Como Jesús no respondía nada a sus burlas, y puesto que se estaba acercando el mediodía de este día especial de preparación, a eso de las once y media la mayoría de la multitud jocosa y vituperante se había ido por su camino; permanecieron allí menos de cincuenta personas. Los soldados se dispusieron a comer y beber su vino barato y agrio, preparándose para la larga vigilia de la muerte. Al compartir su vino, burlonamente brindaron a Jesús, diciendo: «¡Salud y buena fortuna! Al rey de los judíos». Y se asombraron ante la reacción tolerante del Maestro a sus burlas y mofas."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "Como Jesús no respondía a sus mofas y tenían que prepararse para la Pascua, la mayoría de los que habían ido a insultar y reírse a su costa se marcharon antes de las once y media. Quedaron menos de cincuenta personas junto a la cruz. Los soldados sacaron su almuerzo mientras se instalaban para la larga espera de la muerte. Al ir a beber su vino barato y agrio brindaron burlonamente por Jesús diciendo: «¡Salud y buena suerte al rey de los judíos!». Y les extrañó mucho la expresión tolerante del Maestro ante sus sarcasmos."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "187:3.5",
       "pageReference": "2008.6",
       "sortId": "4.187.003.005",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Cuando Jesús los vio comer y beber, bajó la mirada hacia ellos y dijo: «Tengo sed». Al oír el capitán de los guardias a Jesús decir «tengo sed», le llevó un poco del vino de su botella y, colocando una esponja saturada en el extremo de una jabalina, la levantó hasta Jesús para que se pudiese humedecer los labios resecos."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "Al verlos comer y beber Jesús dijo: «Tengo sed». Cuando el capitán de la guardia oyó decir a Jesús «tengo sed», empapó en vino el tapón esponjoso de su botella, lo clavó en la punta de una jabalina y lo levantó hacia Jesús para que pudiera humedecer sus labios resecos."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "187:3.6",
       "pageReference": "2008.7",
       "sortId": "4.187.003.006",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Los Que Vieron la Crucifixión",
-      "markdown": "Jesús se había propuesto vivir sin recurrir a sus poderes sobrenaturales y del mismo modo eligió morir como un mortal común y corriente en la cruz. Había vivido como un hombre, y quería morir como un hombre —haciendo la voluntad del Padre."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Los que vieron la crucifixión",
+      "markdown": "Jesús se había propuesto vivir sin recurrir a sus poderes sobrenaturales y eligió también morir en la cruz como un simple mortal. Había vivido como un hombre y quería morir como un hombre que hacía la voluntad del Padre."
     },
     {
       "type": "section",
@@ -649,8 +649,8 @@
       "standardReferenceId": "187:4.0",
       "pageReference": null,
       "sortId": "4.187.004.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
       "markdown": null
     },
     {
@@ -667,9 +667,9 @@
       "standardReferenceId": "187:4.1",
       "pageReference": "2008.8",
       "sortId": "4.187.004.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Uno de los bandidos vituperó a Jesús diciendo: «Si eres el Hijo de Dios, ¿por qué no te salvas a ti mismo y nos salvas a nosotros?» Pero cuando terminó de reprochar así a Jesús, el otro ladrón, que muchas veces había oído las enseñanzas del Maestro, dijo: «¿Acaso no temes ni siquiera a Dios? ¿No ves que sufrimos con justicia por nuestras acciones, pero este hombre sufre injustamente? Mejor sería que buscásemos el perdón de nuestros pecados y la salvación de nuestra alma». Cuando Jesús oyó al ladrón hablar así, volvió la cara hacia él y sonrió con aprobación. Al ver el malhechor el rostro de Jesús vuelto hacia él, se llenó de valor, ventiló la pobre llamita de fe, y dijo: «Señor, acuérdate de mí cuando llegues a tu reino». Entonces Jesús dijo: «De cierto, de cierto hoy te digo que tú algún día estarás conmigo en el Paraíso»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "Uno de los bandidos recriminó a Jesús diciendo: «Si eres el Hijo de Dios, ¿por qué no te salvas a ti mismo y a nosotros?». Pero el otro ladrón, que había escuchado muchas veces las enseñanzas del Maestro, le replicó: «¿Ni siquiera temes tú a Dios? ¿No ves que nosotros sufrimos lo que merecemos por lo que hemos hecho, pero que este hombre sufre injustamente? Más nos valdría buscar el perdón de nuestros pecados y la salvación de nuestras almas». Al oír decir esto al ladrón, Jesús giró la cabeza hacia él y asintió con una sonrisa. Cuando el malhechor vio el rostro de Jesús vuelto hacia él, se armó de valor, avivó la llama vacilante de su fe y dijo: «Señor, acuérdate de mí cuando llegues a tu reino». Entonces Jesús le dijo: «En verdad te digo hoy que algún día estarás conmigo en el Paraíso»."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "187:4.2",
       "pageReference": "2009.1",
       "sortId": "4.187.004.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "El Maestro encontró tiempo, en medio de la tortura de la muerte, para escuchar la confesión de fe del bandido creyente. Una vez que este bandido iba en pos de la salvación, él encontró la liberación. Muchas veces antes, él había sentido el impulso de creer en Jesús, pero sólo en estas últimas horas de conciencia se volvió de todo corazón hacia las enseñanzas del Maestro. Cuando vio la forma en que Jesús se enfrentaba con la muerte en la cruz, este ladrón ya no pudo resistir la convicción de que el Hijo del Hombre era en verdad el Hijo de Dios."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "En medio de las punzadas de la muerte física el Maestro tuvo tiempo de escuchar la confesión de fe del bandido creyente. Cuando este ladrón tendió la mano hacia la salvación encontró la liberación. En el pasado se había sentido apremiado muchas veces a creer en Jesús, pero solo en esas últimas horas de consciencia se volvió de todo corazón hacia las enseñanzas del Maestro. Al ver cómo afrontaba Jesús la muerte en la cruz, no pudo seguir resistiéndose a la convicción de que este Hijo del Hombre era en verdad el Hijo de Dios."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "187:4.3",
       "pageReference": "2009.2",
       "sortId": "4.187.004.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Durante este episodio de la conversión y recepción del ladrón en el reino por Jesús, el apóstol Juan estaba ausente, porque había ido a la ciudad para recoger a su madre y a los amigos de ella y conducirlos a la escena de la crucifixión. Lucas posteriormente escuchó este relato de labios del capitán romano de la guardia, que se había convertido."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "Cuando el ladrón se convirtió y fue recibido por Jesús en el reino, el apóstol Juan no estaba presente porque se había ido a la ciudad a buscar a su madre y sus amigas. Fue Lucas quien recogió el episodio de la conversión del ladrón de labios del capitán romano convertido."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "187:4.4",
       "pageReference": "2009.3",
       "sortId": "4.187.004.004",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "El apóstol Juan habló de la crucifixión tal como él recordaba el acontecimiento, dos tercios de siglo después de lo ocurrido. Los demás registros se basan en el relato del centurión romano que estaba a cargo, quien, por causa de lo que vio y oyó, posteriormente creyó en Jesús y entró a la hermandad plena del reino del cielo en la tierra."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "El apóstol Juan contó la crucifixión tal como la recordaba más de sesenta años después de que ocurriera. Los otros escritos se basaron en el relato del centurión romano encargado de la crucifixión, que después de ver lo que vio y oír lo que oyó creyó en Jesús y entró plenamente en la hermandad del reino de los cielos en la tierra."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "187:4.5",
       "pageReference": "2009.4",
       "sortId": "4.187.004.005",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Este joven, el bandido penitente, había caído en una vida de violencia y fechorías por influencia de los que encomiaban tal carrera criminal como eficaz protesta patriótica contra la opresión política y la injusticia social. Este tipo de enseñanza, sumado al anhelo de aventuras, conducía a muchos jóvenes, de otro modo bien intencionados, alistarse a estas atrevidas expediciones de robo. Este joven veía a Barrabás como héroe. Ahora, se daba cuenta de su error. Ahí, en la cruz, a su lado vio él a un verdadero gran hombre, un verdadero héroe. Vio él a un héroe que inflamaba su celo e inspiraba sus más altas ideas de dignidad moral y estimulaba todos sus ideales de valor, hombría y valentía. Al contemplar a Jesús, brotó en su corazón un sentimiento sobrecogedor de amor, lealtad y grandeza genuina."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "El bandido arrepentido había sido arrastrado a la delincuencia por el ejemplo y el liderazgo de quienes propugnaban el bandolerismo como protesta patriótica contra la opresión política y la injusticia social. Esta influencia, unida al deseo de aventura, incitaba a muchos jóvenes bienintencionados a alistarse en violentas y temerarias expediciones de robo a mano armada. Pero ese viernes en la cruz, el joven delincuente, que había tenido como héroe a Barrabás, comprendió que se había equivocado. En una cruz al lado de la suya vio a un hombre realmente grande, a un verdadero héroe. Un héroe que inflamaba su celo, inspiraba sus conceptos más altos de dignidad moral y avivaba todos sus ideales de valor y hombría. Al contemplar a Jesús brotó en su corazón un sentimiento irresistible de amor, lealtad y auténtica grandeza."
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "187:4.6",
       "pageReference": "2009.5",
       "sortId": "4.187.004.006",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Si otra persona en el gentío vituperante hubiera experimentado el nacimiento de la fe en su alma y hubiera apelado a la misericordia de Jesús, habría sido recibida con la misma consideración amante que él mostró hacia el bandido creyente."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "Y si cualquiera de los que se burlaban del Maestro hubiera experimentado en su alma el nacimiento de la fe y hubiera apelado a su misericordia, habría sido recibido con el mismo amor y la misma consideración que el bandido creyente."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "187:4.7",
       "pageReference": "2009.6",
       "sortId": "4.187.004.007",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Instantes después de prometer el Maestro al ladrón arrepentido que se encontrarían alguna vez en el Paraíso, retornó Juan de la ciudad, acompañado de su madre y un grupo de casi doce mujeres creyentes. Juan estuvo junto a María la madre de Jesús, confortándola. Su hijo Judá estaba de pie del otro lado. Al mirar la escena Jesús, era ya el mediodía, y dijo a su madre: «Mujer, he aquí a tu hijo» y hablando a Juan, le dijo: «¡Hijo mío, he aquí a tu madre!» Luego se dirigió a ambos, diciendo: «Deseo que os vayáis de este lugar». Así pues, Juan y Judá se llevaron a María del Gólgota. Juan llevó a la madre de Jesús al lugar donde él paraba en Jerusalén, y luego volvió de prisa a la escena de la crucifixión. Después de la Pascua, María volvió a Betsaida, donde vivió en la casa de Juan por el resto de su vida natural. María no llegó a vivir un año entero después de la muerte de Jesús."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "Poco después de que el Maestro prometiera al ladrón arrepentido que se encontrarían algún día en el Paraíso, Juan volvió de la ciudad con su madre y unas doce mujeres creyentes. Juan se puso otra vez al lado de la madre de Jesús y la sostenía. Judá estaba al otro lado de su madre. Era ya mediodía cuando Jesús los miró y dijo a su madre: «¡Mujer, he aquí a tu hijo»! Y a Juan le dijo: «¡Hijo mío, he aquí a tu madre!». Luego se dirigió a los dos y les dijo: «Deseo que os vayáis de este lugar». Y así, Juan y Judá alejaron del Gólgota a María. Juan llevó a la madre de Jesús al lugar donde él se alojaba en Jerusalén y volvió rápidamente al lugar de la crucifixión. Después de la Pascua María volvió a Betsaida donde vivió en casa de Juan el resto de su vida natural. María no llegó a vivir un año tras la muerte de Jesús."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "187:4.8",
       "pageReference": "2010.1",
       "sortId": "4.187.004.008",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "El Ladrón en la Cruz",
-      "markdown": "Cuando María se fue, las otras mujeres se retiraron a corta distancia y permanecieron acompañando a Jesús hasta que éste expiró en la cruz, y aún estaban allí cuando bajaron de la cruz el cuerpo del Maestro para ser sepultado."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "El ladrón en la cruz",
+      "markdown": "Cuando se marchó María las otras mujeres se alejaron un poco y se quedaron acompañando a Jesús hasta que expiró en la cruz. Cuando el cuerpo del Maestro fue bajado de la cruz para ser enterrado, ellas seguían ahí."
     },
     {
       "type": "section",
@@ -811,8 +811,8 @@
       "standardReferenceId": "187:5.0",
       "pageReference": null,
       "sortId": "4.187.005.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
       "markdown": null
     },
     {
@@ -829,9 +829,9 @@
       "standardReferenceId": "187:5.1",
       "pageReference": "2010.2",
       "sortId": "4.187.005.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Aunque era un tanto temprano para la temporada en que semejantes fenómenos solían ocurrir, poco después de las doce del día, el cielo se oscureció por la presencia de arena fina en el aire. El pueblo de Jerusalén sabía que esto significaba la llegada de una de aquellas tormentas de viento caliente y arena que provenían del desierto árabe. Antes de la una, el cielo se puso tan oscuro que se ocultó el sol, y la gente que quedaba se dio prisa para volver a la ciudad. Cuando el Maestro expiró, poco después de esta hora, menos de treinta personas estaban presentes: sólo los trece soldados romanos y un grupo de unos quince creyentes. Los creyentes, eran todas mujeres excepto dos: Judá el hermano de Jesús, y Juan Zebedeo, que regresó justo antes de que expirara el Maestro."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Poco después de las doce el aire se llenó de arena fina y el cielo se oscureció. Aunque aún no era la época, la gente de Jerusalén conocía bien esas tormentas de arena con viento caliente procedentes del desierto de Arabia. Antes de la una el cielo estaba tan oscuro que el sol desapareció, y la gente que quedaba volvió corriendo a la ciudad. Cuando el Maestro entregó su vida poco después de la una, había en el Gólgota menos de treinta personas: los trece soldados romanos y unos quince creyentes. Todos estos creyentes eran mujeres menos dos: Judá, el hermano de Jesús, y Juan Zebedeo, que volvió justo antes de que el Maestro expirara."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "187:5.2",
       "pageReference": "2010.3",
       "sortId": "4.187.005.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Poco después de la una, en medio de las tinieblas en aumento por la tormenta de arena, Jesús comenzó a perder su conciencia humana. Ya había dicho sus últimas palabras de misericordia, perdón y admonición. Había expresado su último deseo —sobre el cuidado de su madre. Durante esta hora de muerte inminente, la mente humana de Jesús recurrió a la repetición de muchos pasajes de las escrituras hebreas, particularmente los salmos. La última actividad consciente del Jesús humano consistió en la repetición mental de una porción del libro de salmos, que se conoce ahora como salmos veinte, veintiuno y veintidós. Aunque sus labios se movían a menudo, estaba demasiado débil para pronunciar las palabras a medida que estos pasajes, que tan bien conocía de memoria, le cruzaban por la mente. Sólo de cuando en cuando los que estaban cerca lograron captar algunas palabras, como por ejemplo: «Conozco que el Señor salvará a su ungido», «Alcanzará tu mano a todos mis enemigos», y «Dios mío, Dios mío, ¿por qué me has desamparado?» Jesús no tuvo en ningún momento la menor duda de que había vivido de acuerdo con la voluntad del Padre; y nunca dudó que en ese momento él estaba ofreciendo su vida en la carne, de acuerdo con la voluntad del Padre. El no creía que el Padre le había desamparado o abandonado; estaba meramente recitando muchas escrituras en el momento de perder la conciencia, entre éstas este salmo veintidós, que comienza con «Dios mío, Dios mío, ¿por qué me has desamparado?» Y ocurrió que ésta fue una de las tres estrofas dichas con claridad suficiente como para que las oyeran los que estaban cerca."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Poco después de la una, en la creciente oscuridad de la tormenta de arena, Jesús empezó a perder su consciencia humana. Había pronunciado sus últimas palabras de perdón, misericordia y exhortación. Había expresado su último deseo sobre el cuidado de su madre. Cuando ya se avecinaba la muerte, la mente humana de Jesús recurrió a la repetición de numerosos pasajes de las escrituras hebreas, en particular de los Salmos. El último pensamiento consciente del Jesús humano consistió en repetir mentalmente una parte del Libro de los Salmos conocida hoy como los salmos veinte, veintiuno y veintidós. Aunque sus labios se movían, ya no tenía fuerzas para pronunciar las palabras de estos pasajes grabados en su memoria a medida que pasaban por su mente. Los que estaban cerca solo pudieron oír algunas frases como: «Sé que el Señor salvará a su ungido», «Tu mano alcanzará a todos mis enemigos» y «Dios mío, Dios mío, ¿por qué me has abandonado?». Jesús no tuvo nunca la menor duda de que había vivido conforme a la voluntad del Padre y estaba seguro de que dejaba ahora su vida en la carne conforme a la voluntad de su Padre. No se sentía abandonado por el padre, sino que al ir desvaneciéndose su consciencia se puso a recitar pasajes de las escrituras, entre ellos el salmo veintidós que empieza diciendo: «Dios mío, Dios mío, ¿por qué me has abandonado?». Y dio la casualidad de que este fue uno de los tres pasajes que pronunció con la suficiente claridad como para que lo entendieran los presentes."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "187:5.3",
       "pageReference": "2010.4",
       "sortId": "4.187.005.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "La última solicitud que hizo el Jesús mortal a sus semejantes ocurrió alrededor de la una y media cuando, por segunda vez, dijo: «Tengo sed», y el mismo capitán de la guardia nuevamente le mojó los labios con la misma esponja mojada en el vino agrio, que en aquellos días se llamaba comúnmente vinagre."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Hacia la una y media el Jesús mortal hizo su última petición a sus semejantes cuando dijo por segunda vez: «Tengo sed». Y el mismo capitán de la guardia le volvió a humedecer los labios con la misma esponja mojada en el vino agrio que llamaban vinagre en aquel tiempo."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "187:5.4",
       "pageReference": "2010.5",
       "sortId": "4.187.005.004",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "La tormenta de arena aumentó en intensidad y los cielos se oscurecieron cada vez más. Aún permanecían allí los soldados y el pequeño grupo de creyentes. Los soldados estaban acuclillados cerca de la cruz, todos juntos para protegerse de la arena cortante. La madre de Juan y otros vigilaban a cierta distancia, bajo la escasa protección de una roca voladiza. Cuando el Maestro finalmente exhaló su último aliento, estaban al pie de su cruz Juan Zebedeo, su hermano Judá, su hermana Ruth, María Magdalena y Rebeca, anteriormente de Séforis."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "La tormenta de arena arreció y los cielos se fueron oscureciendo cada vez más, pero los soldados y el pequeño grupo de creyentes no se movieron de allí. Los soldados se agacharon cerca de la cruz apiñados entre sí para protegerse de la arena cortante. La madre de Juan y otras personas se resguardaron un poco más lejos bajo el saliente de una roca. Cuando el Maestro exhaló el último suspiro estaban al pie de la cruz Juan Zebedeo, su hermano Judá, su hermana Rut, María Magdalena y Rebeca, la que había vivido en Séforis."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "187:5.5",
       "pageReference": "2011.1",
       "sortId": "4.187.005.005",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Era poco antes de las tres cuando Jesús clamó a gran voz: «¡Consumado es! Padre, en tus manos encomiendo mi espíritu». Después de hablar así, bajó la cabeza y abandonó la lucha por la vida. Cuando el centurión romano vio como Jesús había muerto, se golpeó el pecho y dijo: «Éste era realmente un hombre justo; de cierto debe haber sido un Hijo de Dios». Desde ese momento empezó a creer en Jesús."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Justo antes de las tres Jesús exclamó en voz alta: «¡Todo se ha consumado! Padre, en tus manos encomiendo mi espíritu». Después de decir esto inclinó la cabeza y abandonó la lucha por la vida. Cuando el centurión romano vio cómo había muerto Jesús se golpeó el pecho diciendo: «Este era realmente un hombre justo, en verdad era Hijo de Dios». Y a partir de ese momento empezó a creer en Jesús."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "187:5.6",
       "pageReference": "2011.2",
       "sortId": "4.187.005.006",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Jesús murió majestuosamente —tal como había vivido. Él admitió libremente su realeza y permaneció dueño de la situación durante todo ese día trágico. Él por su propia voluntad pasó por una muerte ignominiosa después de proveer la seguridad de sus apóstoles elegidos. Sabiamente refrenó la violencia peligrosa de Pedro y dispuso de que Juan permaneciera junto a él hasta el fin de su existencia mortal. Reveló su verdadera naturaleza al mortífero sanedrín y recordó a Pilato la fuente de su autoridad soberana como Hijo de Dios. Salió para el Gólgota cargando el travesaño de su cruz y terminó su autootorgamiento amante encomendando su espíritu de adquisición mortal al Padre del Paraíso. Después de semejante vida —y semejante muerte— el Maestro realmente podía decir: «Consumado es»."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Jesús murió tan magníficamente como había vivido. Admitió abiertamente su realeza y fue dueño de la situación durante todo aquel trágico día. Aceptó una muerte ignominiosa por su propia voluntad después de haber velado por la seguridad de los apóstoles elegidos por él. Refrenó sabiamente la violencia conflictiva de Pedro y se aseguró de que Juan pudiera estar cerca de él hasta el fin de su existencia mortal. Reveló su verdadera naturaleza al Sanedrín responsable de su asesinato y recordó a Pilatos la fuente de su autoridad soberana como Hijo de Dios. Se encaminó hacia el Gólgota cargando con el travesaño de su propia cruz y terminó su otorgamiento por amor entregando al Padre del Paraíso el espíritu que había adquirido como mortal. Después de una vida así y en el momento de una muerte así, el Maestro podía decir con verdad: «Todo se ha consumado»."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "187:5.7",
       "pageReference": "2011.3",
       "sortId": "4.187.005.007",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Porque este día era el día de preparación tanto para la Pascua como para el sábado, los judíos no querían que los cadáveres quedaran exhibidos en el Gólgota. Por lo tanto, fueron ante Pilato pidiendo que se le rompieran las piernas a estos tres hombres y fueran despachados y así pudieran ser bajados de la cruz y echados a las fosas de los criminales antes de la puesta del sol. Cuando Pilato escuchó esta solicitud, inmediatamente mandó a tres soldados a que les rompieran las piernas y terminaran con Jesús y con los dos bandidos."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Como era el día de la preparación tanto de la Pascua como del sabbat, los judíos no querían que los cuerpos estuvieran expuestos en el Gólgota, de modo que fueron a pedir a Pilatos que mandara quebrar las piernas de los tres reos para rematarlos, bajarlos de la cruz y arrojarlos a las fosas comunes de los delincuentes antes de la puesta del sol. Pilatos accedió inmediatamente a esta petición y envió a tres soldados a quebrar las piernas y rematar a Jesús y a los dos bandidos."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "187:5.8",
       "pageReference": "2011.4",
       "sortId": "4.187.005.008",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "La Última Hora en la Cruz",
-      "markdown": "Cuando estos soldados llegaron al Gólgota hicieron lo que se les había ordenado con los dos ladrones, pero encontraron que Jesús ya estaba muerto, y se sorprendieron. Sin embargo, para asegurarse de su muerte, uno de los soldados le metió la lanza en el costado izquierdo. Aunque era frecuente que las víctimas de la crucifixión permanecieran vivas en la cruz aun por dos o tres días, la sobrecogedora agonía emocional y la aguda angustia espiritual de Jesús trajo el fin de su vida mortal en la carne en menos de cinco horas y media."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "La última hora en la cruz",
+      "markdown": "Cuando estos soldados llegaron al Gólgota hicieron lo que se les había ordenado con los dos ladrones, pero al llegar a Jesús les sorprendió encontrarlo muerto y uno de los soldados le traspasó el costado izquierdo con su lanza para asegurarse. Aunque no era raro que los crucificados tardaran en morir hasta dos o tres días, la abrumadora agonía emocional de Jesús y su intensa angustia espiritual habían provocado el fin de su vida mortal en la carne en poco menos de cinco horas y media."
     },
     {
       "type": "section",
@@ -973,8 +973,8 @@
       "standardReferenceId": "187:6.0",
       "pageReference": null,
       "sortId": "4.187.006.000",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Después de la Crucifixión",
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Después de la crucifixión",
       "markdown": null
     },
     {
@@ -991,9 +991,9 @@
       "standardReferenceId": "187:6.1",
       "pageReference": "2011.5",
       "sortId": "4.187.006.001",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Después de la Crucifixión",
-      "markdown": "En el medio de la oscuridad de la tormenta de arena, a eso de las tres y media, David Zebedeo envió a los últimos de los mensajeros, y ellos llevaron la noticia de la muerte del Maestro. Despachó al último de sus corredores a la casa de Marta y María en Betania, donde él suponía que estaba la madre de Jesús con el resto de la familia."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Después de la crucifixión",
+      "markdown": "Hacia las tres y media, en plena oscuridad de la tormenta de arena, David Zebedeo envió a su último mensajero con la noticia de la muerte del Maestro. Mandó al último de sus corredores a casa de Marta y María en Betania donde suponía que estaba la madre de Jesús con el resto de su familia."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "187:6.2",
       "pageReference": "2011.6",
       "sortId": "4.187.006.002",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Después de la Crucifixión",
-      "markdown": "Después de la muerte del Maestro, Juan envió a las mujeres, a cargo de Judá, a la casa de Elías Marcos, donde permanecieron durante el sábado. Juan mismo, que ya para ese entonces era bien conocido del centurión romano, permaneció en el Gólgota hasta que llegaron José y Nicodemo con la orden de Pilato autorizándolos para hacerse cargo de los restos de Jesús."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Después de la crucifixión",
+      "markdown": "Tras la muerte del Maestro Juan encargó a Judá que llevara a las mujeres a casa de Elías Marcos donde pasaron el sabbat. El propio Juan, que para entonces ya era bien conocido por el centurión romano, se quedó en el Gólgota hasta que llegaron José y Nicodemo con una autorización de Pilatos para llevarse el cuerpo de Jesús."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "187:6.3",
       "pageReference": "2011.7",
       "sortId": "4.187.006.003",
-      "paperTitle": "La Crucifixión",
-      "sectionTitle": "Después de la Crucifixión",
-      "markdown": "Así terminó un día de tragedia y congoja para un vasto universo, cuyas miríadas de inteligencias presenciaron el espectáculo sobrecogedor de la crucifixión de la encarnación humana de su amado Soberano. Estaban anonadados por esta exhibición de maldad mortal y perversidad humana."
+      "paperTitle": "La crucifixión",
+      "sectionTitle": "Después de la crucifixión",
+      "markdown": "Así terminó un día de tragedia y dolor para un vasto universo cuyas miríadas de seres inteligentes se habían estremecido ante el horrendo espectáculo de la crucifixión de la encarnación humana de su amado Soberano. Aquella exhibición de perversidad humana y falta de sensibilidad por parte de los mortales los había dejado atónitos."
     }
   ]
 }
