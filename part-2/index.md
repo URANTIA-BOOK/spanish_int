@@ -1,64 +1,64 @@
-<h1 align="center"><a name="Part2"></a>The Urantia Book</h1>
+<h1 align="center"><a name="Part2"></a>El libro de Urantia</h1>
 
-<hr /><p align="center">&#60;&#60;&#160;<a href="../part-1/031.md" title="The Corps of the Finality">Paper 31</a> | <a href="../parts.md" title="The Parts of the Book">Parts</a> | <a href="../contents.md" title="Contents of the Book">Content</a> | <a href="032.md" title="The Evolution of Local Universes">Paper 32</a>&#160;&#62;&#62;</p><hr />
+<hr /><p align="center">&#60;&#60;&#160;<a href="../part-1/031.md" title="El Cuerpo de la Finalidad">Documento 31</a> | <a href="../parts.md" title="Las Partes del Libro">Partes</a> | <a href="../contents.md" title="Contenido del Libro">Contenido</a> | <a href="032.md" title="La Evolución de los Universos Locales">Documento 32</a>&#160;&#62;&#62;</p><hr />
 
-## PART II
+## PARTE II
 
-## The Local Universe
+## El Universo Local
 
-Sponsored by a Nebadon Corps of Local Universe Personalities acting by authority of Gabriel of Salvington
+Auspiciada por un Cuerpo de Personalidades del Universo Local de Nebadon que actúan por autoridad de Gabriel de Salvington.
 
 <hr />
 
-[Paper 32 - The Evolution of Local Universes](032.md "The Evolution of Local Universes")
+[Documento 32 - La Evolución de los Universos Locales](032.md "La Evolución de los Universos Locales")
 
-[Paper 33 - Administration of the Local Universe](033.md "Administration of the Local Universe")
+[Documento 33 - La Administración del Universo Local](033.md "La Administración del Universo Local")
 
-[Paper 34 - The Local Universe Mother Spirit](034.md "The Local Universe Mother Spirit")
+[Documento 34 - El Espíritu Materno del Universo Local](034.md "El Espíritu Materno del Universo Local")
 
-[Paper 35 - The Local Universe Sons of God](035.md "The Local Universe Sons of God")
+[Documento 35 - Los Hijos de Dios de los Universos Locales](035.md "Los Hijos de Dios de los Universos Locales")
 
-[Paper 36 - The Life Carriers](036.md "The Life Carriers")
+[Documento 36 - Los Portadores de Vida](036.md "Los Portadores de Vida")
 
-[Paper 37 - Personalities of the Local Universe](037.md "Personalities of the Local Universe")
+[Documento 37 - Las Personalidades del Universo Local](037.md "Las Personalidades del Universo Local")
 
-[Paper 38 - Ministering Spirits of the Local Universe](038.md "Ministering Spirits of the Local Universe")
+[Documento 38 - Los Espíritus Ministrantes del Universo Local](038.md "Los Espíritus Ministrantes del Universo Local")
 
-[Paper 39 - The Seraphic Hosts](039.md "The Seraphic Hosts")
+[Documento 39 - Las Huestes Seráficas](039.md "Las Huestes Seráficas")
 
-[Paper 40 - The Ascending Sons of God](040.md "The Ascending Sons of God")
+[Documento 40 - Los Hijos de Dios Ascendentes](040.md "Los Hijos de Dios Ascendentes")
 
-[Paper 41 - Physical Aspects of the Local Universe](041.md "Physical Aspects of the Local Universe")
+[Documento 41 - Los Aspectos Físicos del Universo Local](041.md "Los Aspectos Físicos del Universo Local")
 
-[Paper 42 - Energy—Mind and Matter](042.md "Energy—Mind and Matter")
+[Documento 42 - La Energía — La Mente y la Materia](042.md "La Energía — La Mente y la Materia")
 
-[Paper 43 - The Constellations](043.md "The Constellations")
+[Documento 43 - Las Constelaciones](043.md "Las Constelaciones")
 
-[Paper 44 - The Celestial Artisans](044.md "The Celestial Artisans")
+[Documento 44 - Los Artesanos Celestiales](044.md "Los Artesanos Celestiales")
 
-[Paper 45 - The Local System Administration](045.md "The Local System Administration")
+[Documento 45 - La Administración del Sistema Local](045.md "La Administración del Sistema Local")
 
-[Paper 46 - The Local System Headquarters](046.md "The Local System Headquarters")
+[Documento 46 - La Sede Central del Sistema Local](046.md "La Sede Central del Sistema Local")
 
-[Paper 47 - The Seven Mansion Worlds](047.md "The Seven Mansion Worlds")
+[Documento 47 - Los Siete Mundos de Estancia](047.md "Los Siete Mundos de Estancia")
 
-[Paper 48 - The Morontia Life](048.md "The Morontia Life")
+[Documento 48 - La Vida Morontial](048.md "La Vida Morontial")
 
-[Paper 49 - The Inhabited Worlds](049.md "The Inhabited Worlds")
+[Documento 49 - Los Mundos Habitados](049.md "Los Mundos Habitados")
 
-[Paper 50 - The Planetary Princes](050.md "The Planetary Princes")
+[Documento 50 - Los Príncipes Planetarios](050.md "Los Príncipes Planetarios")
 
-[Paper 51 - The Planetary Adams](051.md "The Planetary Adams")
+[Documento 51 - Los Adanes Planetarios](051.md "Los Adanes Planetarios")
 
-[Paper 52 - Planetary Mortal Epochs](052.md "Planetary Mortal Epochs")
+[Documento 52 - Las Épocas Planetarias de los Mortales](052.md "Las Épocas Planetarias de los Mortales")
 
-[Paper 53 - The Lucifer Rebellion](053.md "The Lucifer Rebellion")
+[Documento 53 - La Rebelión de Lucifer](053.md "La Rebelión de Lucifer")
 
-[Paper 54 - Problems of the Lucifer Rebellion](054.md "Problems of the Lucifer Rebellion")
+[Documento 54 - Los Problemas de la Rebelión de Lucifer](054.md "Los Problemas de la Rebelión de Lucifer")
 
-[Paper 55 - The Spheres of Light and Life](055.md "The Spheres of Light and Life")
+[Documento 55 - Las Esferas de Luz y Vida](055.md "Las Esferas de Luz y Vida")
 
-[Paper 56 - Universal Unity](056.md "Universal Unity")
+[Documento 56 - Unidad Universal](056.md "Unidad Universal")
 
 <hr />
 
