@@ -1,14 +1,14 @@
 {
-  "language": "eng",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language": "spa",
+  "version_id": "UF-SPA-419-1993-1.9",
   "pipeline_version": 3,
   "source_file": "part-3/071.md",
-  "source_sha256": "1f1737fd668dd176eb5b685af2d062edaf3e1700b5f4df2da48e62574191a52f",
+  "source_sha256": "9ee4f010bddfae8d6e41071e0b077d5629e4d6415c77698a7779ff41d58e40cd",
   "rows": [
     {
       "type": "paper",
       "typeRank": 1,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": null,
@@ -19,14 +19,14 @@
       "standardReferenceId": "71:0.0",
       "pageReference": null,
       "sortId": "3.071.000.000",
-      "paperTitle": "Development of the State",
+      "paperTitle": "El Desarrollo del Estado",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "0",
@@ -37,14 +37,14 @@
       "standardReferenceId": "71:0.0",
       "pageReference": null,
       "sortId": "3.071.000.000",
-      "paperTitle": "Development of the State",
+      "paperTitle": "El Desarrollo del Estado",
       "sectionTitle": null,
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "0",
@@ -55,14 +55,14 @@
       "standardReferenceId": "71:0.1",
       "pageReference": "800.1",
       "sortId": "3.071.000.001",
-      "paperTitle": "Development of the State",
+      "paperTitle": "El Desarrollo del Estado",
       "sectionTitle": null,
-      "markdown": "THE state is a useful evolution of civilization; it represents society’s net gain from the ravages and sufferings of war. Even statecraft is merely the accumulated technique for adjusting the competitive contest of force between the struggling tribes and nations."
+      "markdown": "EL ESTADO es una evolución beneficiosa de la civilización; representa la ganancia neta de la sociedad tras los estragos y sufrimientos de la guerra. Incluso la habilidad del estadista no es sino la acumulación de técnicas para ajustar la enconada contienda de fuerza entre las tribus y naciones en conflicto."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "0",
@@ -73,14 +73,14 @@
       "standardReferenceId": "71:0.2",
       "pageReference": "800.2",
       "sortId": "3.071.000.002",
-      "paperTitle": "Development of the State",
+      "paperTitle": "El Desarrollo del Estado",
       "sectionTitle": null,
-      "markdown": "The modern state is the institution which survived in the long struggle for group power. Superior power eventually prevailed, and it produced a creature of fact—the state—together with the moral myth of the absolute obligation of the citizen to live and die for the state. But the state is not of divine genesis; it was not even produced by volitionally intelligent human action; it is purely an evolutionary institution and was wholly automatic in origin."
+      "markdown": "El estado moderno es la institución que sobrevivió a la prolongada lucha por el poder del grupo. El poder superior, a la larga, prevaleció y produjo una obra de hecho —Estado— juntamente con el mito moral de la obligación absoluta del ciudadano de vivir y morir por el estado. Mas el estado no es de génesis divina; ni siquiera fue producido por la acción humana volitivamente inteligente; es una institución puramente evolucionaria y tuvo un origen totalmente automático."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -91,14 +91,14 @@
       "standardReferenceId": "71:1.0",
       "pageReference": null,
       "sortId": "3.071.001.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -109,14 +109,14 @@
       "standardReferenceId": "71:1.1",
       "pageReference": "800.3",
       "sortId": "3.071.001.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The state is a territorial social regulative organization, and the strongest, most efficient, and enduring state is composed of a single nation whose people have a common language, mores, and institutions."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "El estado es una organización reguladora social territorial, y el estado más fuerte, más eficaz, y más duradero consta de una sola nación cuya gente tiene en común una lengua, costumbres e instituciones."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -127,14 +127,14 @@
       "standardReferenceId": "71:1.2",
       "pageReference": "800.4",
       "sortId": "3.071.001.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The early states were small and were all the result of conquest. They did not originate in voluntary associations. Many were founded by conquering nomads, who would swoop down on peaceful herders or settled agriculturists to overpower and enslave them. Such states, resulting from conquest, were, perforce, stratified; classes were inevitable, and class struggles have ever been selective."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "Los primeros estados fueron pequeños y surgieron todos como resultado de la conquista. No se originaron por asociaciones voluntarias. Gran parte fueron fundados por conquistadores nómades, los cuales acometían a los pastores pacíficos o labriegos establecidos para dominarlos y esclavizarlos. Dichos estados, resultantes de la conquista, fueron forzosamente estratificados; las clases resultaron inevitables, y las luchas de clases sociales no han dejado de ser selectivas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -145,14 +145,14 @@
       "standardReferenceId": "71:1.3",
       "pageReference": "800.5",
       "sortId": "3.071.001.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The northern tribes of the American red men never attained real statehood. They never progressed beyond a loose confederation of tribes, a very primitive form of state. Their nearest approach was the Iroquois federation, but this group of six nations never quite functioned as a state and failed to survive because of the absence of certain essentials to modern national life, such as:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "Las tribus septentrionales de los hombres rojos americanos nunca alcanzaron la verdadera condición de estado. Nunca progresaron más allá de una confederación poco unida de tribus, una forma muy primitiva del estado. Se aproximó más a esta condición la federación iroquesa, pero este grupo de seis naciones nunca llegó a funcionar a manera de estado y no logró sobrevivir debido a la ausencia de ciertos elementos esenciales para la vida nacional moderna, tales como:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -163,14 +163,14 @@
       "standardReferenceId": "71:1.4",
       "pageReference": "800.6",
       "sortId": "3.071.001.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "1. Acquirement and inheritance of private property."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "1. Adquisición y herencia de la propiedad privada."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -181,14 +181,14 @@
       "standardReferenceId": "71:1.5",
       "pageReference": "800.7",
       "sortId": "3.071.001.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "2. Cities plus agriculture and industry."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "2. Existencia de ciudades así como también de la agricultura y la industria."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -199,14 +199,14 @@
       "standardReferenceId": "71:1.6",
       "pageReference": "800.8",
       "sortId": "3.071.001.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "3. Helpful domestic animals."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "3. Animales domésticos útiles."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -217,14 +217,14 @@
       "standardReferenceId": "71:1.7",
       "pageReference": "800.9",
       "sortId": "3.071.001.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "4. Practical family organization. These red men clung to the mother-family and nephew inheritance."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "4. Organización familiar práctica. Estos hombres rojos se aferraban a la familia materna y la herencia del sobrino."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -235,14 +235,14 @@
       "standardReferenceId": "71:1.8",
       "pageReference": "800.10",
       "sortId": "3.071.001.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "5. Definite territory."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "5. Un territorio definido."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -253,14 +253,14 @@
       "standardReferenceId": "71:1.9",
       "pageReference": "800.11",
       "sortId": "3.071.001.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "6. A strong executive head."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "6. Una cabeza ejecutiva fuerte."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -271,14 +271,14 @@
       "standardReferenceId": "71:1.10",
       "pageReference": "800.12",
       "sortId": "3.071.001.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "7. Enslavement of captives—they either adopted or massacred them."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "7. Esclavización de los cautivos —los adoptaban o los mataban en masa."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -289,14 +289,14 @@
       "standardReferenceId": "71:1.11",
       "pageReference": "800.13",
       "sortId": "3.071.001.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "8. Decisive conquests."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "8. Conquistas decisivas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -307,14 +307,14 @@
       "standardReferenceId": "71:1.12",
       "pageReference": "800.14",
       "sortId": "3.071.001.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The red men were too democratic; they had a good government, but it failed. Eventually they would have evolved a state had they not prematurely encountered the more advanced civilization of the white man, who was pursuing the governmental methods of the Greeks and the Romans."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "Los hombres rojos eran demasiado democráticos; tuvieron un buen gobierno, pero fracasó. Ulteriormente, habrían desarrollado un estado, si no se hubieran topado prematuramente con la civilización más avanzada del hombre blanco, que practicaba los métodos gubernamentales de los griegos y romanos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -325,14 +325,14 @@
       "standardReferenceId": "71:1.13",
       "pageReference": "801.1",
       "sortId": "3.071.001.013",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The successful Roman state was based on:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "El éxito del estado romano se basaba en:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -343,14 +343,14 @@
       "standardReferenceId": "71:1.14",
       "pageReference": "801.2",
       "sortId": "3.071.001.014",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "1. The father-family."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "1. La familia paterna."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -361,14 +361,14 @@
       "standardReferenceId": "71:1.15",
       "pageReference": "801.3",
       "sortId": "3.071.001.015",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "2. Agriculture and the domestication of animals."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "2. La agricultura y la domesticación de los animales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -379,14 +379,14 @@
       "standardReferenceId": "71:1.16",
       "pageReference": "801.4",
       "sortId": "3.071.001.016",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "3. Condensation of population—cities."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "3. La concentración de la población —las ciudades."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -397,14 +397,14 @@
       "standardReferenceId": "71:1.17",
       "pageReference": "801.5",
       "sortId": "3.071.001.017",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "4. Private property and land."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "4. La propiedad y la tierra privada."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -415,14 +415,14 @@
       "standardReferenceId": "71:1.18",
       "pageReference": "801.6",
       "sortId": "3.071.001.018",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "5. Slavery—classes of citizenship."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "5. La esclavitud —las clases de ciudadanía."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -433,14 +433,14 @@
       "standardReferenceId": "71:1.19",
       "pageReference": "801.7",
       "sortId": "3.071.001.019",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "6. Conquest and reorganization of weak and backward peoples."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "6. La conquista y reorganización de los pueblos débiles y atrasados."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -451,14 +451,14 @@
       "standardReferenceId": "71:1.20",
       "pageReference": "801.8",
       "sortId": "3.071.001.020",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "7. Definite territory with roads."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "7. Un territorio definido, con carreteras."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -469,14 +469,14 @@
       "standardReferenceId": "71:1.21",
       "pageReference": "801.9",
       "sortId": "3.071.001.021",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "8. Personal and strong rulers."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "8. Gobernantes personales y fuertes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -487,14 +487,14 @@
       "standardReferenceId": "71:1.22",
       "pageReference": "801.10",
       "sortId": "3.071.001.022",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The great weakness in Roman civilization, and a factor in the ultimate collapse of the empire, was the supposed liberal and advanced provision for the emancipation of the boy at twenty-one and the unconditional release of the girl so that she was at liberty to marry a man of her own choosing or to go abroad in the land to become immoral. The harm to society consisted not in these reforms themselves but rather in the sudden and extensive manner of their adoption. The collapse of Rome indicates what may be expected when a state undergoes too rapid extension associated with internal degeneration."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "La gran flaqueza de la civilización romana y un factor a contribuir a la caída final del imperio, fue la disposición presuntamente liberal y avanzada de emancipar a los jóvenes de veintiún años de edad, y liberar incondicionalmente a las jóvenes para que éstas pudieran casarse con el hombre que quisieran o bien irse al exterior y darse a la vida inmoral. El perjuicio a la sociedad no consistió en estas reformas mismas, sino, más bien, en la forma amplia y repentina en que se adoptaron. El fracaso de Roma demuestra lo que puede esperarse, cuando un estado es sometido a expansión excesivamente rápida conjuntamente con la degeneración interna."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -505,14 +505,14 @@
       "standardReferenceId": "71:1.23",
       "pageReference": "801.11",
       "sortId": "3.071.001.023",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "The embryonic state was made possible by the decline of the blood bond in favor of the territorial, and such tribal federations were usually firmly cemented by conquest. While a sovereignty that transcends all minor struggles and group differences is the characteristic of the true state, still, many classes and castes persist in the later state organizations as remnants of the clans and tribes of former days. The later and larger territorial states had a long and bitter struggle with these smaller consanguineous clan groups, the tribal government proving a valuable transition from family to state authority. During later times many clans grew out of trades and other industrial associations."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "Lo que hizo posible el estado embriónico fue que los lazos consanguíneos menguaron en favor de los territoriales; y la conquista solía cimentar estas federaciones tribales firmemente. Si bien una soberanía que trasciende a todas las luchas y desavenencias menores de los grupos es la principal característica del verdadero estado, muchas clases y castas aún perduran en las organizaciones estatales posteriores como restos de los clanes y tribus del pasado. Los últimos y mayores estados sostuvieron una prolongada y encarnizada lucha con estos grupos de clanes consanguíneos más pequeños, resultando ser el gobierno tribal una valiosa transición de la autoridad familiar a la estatal. Posteriormente surgieron muchos clanes de los gremios y otras asociaciones industriales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "1",
@@ -523,14 +523,14 @@
       "standardReferenceId": "71:1.24",
       "pageReference": "801.12",
       "sortId": "3.071.001.024",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Embryonic State",
-      "markdown": "Failure of state integration results in retrogression to prestate conditions of governmental techniques, such as the feudalism of the European Middle Ages. During these dark ages the territorial state collapsed, and there was a reversion to the small castle groups, the reappearance of the clan and tribal stages of development. Similar semistates even now exist in Asia and Africa, but not all of them are evolutionary reversions; many are the embryonic nucleuses of states of the future."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Etapa Embrionaria del Estado",
+      "markdown": "El fracaso de la integración estatal resulta en la reversión a las condiciones de las técnicas gubernamentales anteriores al estado, tal como el feudalismo del medioevo europeo. Durante estas edades de oscurantismo se vino abajo el estado territorial y hubo una reversión a los grupos pequeños de los castillos, la reaparición de las etapas evolutivas del clan y la tribu. Aún ahora existen en Asia y África semiestados de esta índole, mas no todos constituyen reversiones evolucionarias; gran parte son los núcleos de los estados del futuro en su etapa embrionaria."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -541,14 +541,14 @@
       "standardReferenceId": "71:2.0",
       "pageReference": null,
       "sortId": "3.071.002.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -559,14 +559,14 @@
       "standardReferenceId": "71:2.1",
       "pageReference": "801.13",
       "sortId": "3.071.002.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "Democracy, while an ideal, is a product of civilization, not of evolution. Go slowly! select carefully! for the dangers of democracy are:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "A pesar de ser la democracia un ideal, es fruto de la civilización, no de la evolución. ¡Proceded despacio, elegid con esmero! pues los peligros de la democracia son:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -577,14 +577,14 @@
       "standardReferenceId": "71:2.2",
       "pageReference": "801.14",
       "sortId": "3.071.002.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "1. Glorification of mediocrity."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "1. La glorificación de la mediocridad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -595,14 +595,14 @@
       "standardReferenceId": "71:2.3",
       "pageReference": "801.15",
       "sortId": "3.071.002.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "2. Choice of base and ignorant rulers."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "2. La elección de gobernantes viles e ignorantes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -613,14 +613,14 @@
       "standardReferenceId": "71:2.4",
       "pageReference": "801.16",
       "sortId": "3.071.002.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "3. Failure to recognize the basic facts of social evolution."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "3. El desconocimiento de los hechos primordiales de la evolución social."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -631,14 +631,14 @@
       "standardReferenceId": "71:2.5",
       "pageReference": "801.17",
       "sortId": "3.071.002.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "4. Danger of universal suffrage in the hands of uneducated and indolent majorities."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "4. El peligro del sufragio universal en manos de mayorías incultas e indolentes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -649,14 +649,14 @@
       "standardReferenceId": "71:2.6",
       "pageReference": "801.18",
       "sortId": "3.071.002.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "5. Slavery to public opinion; the majority is not always right."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "5. La esclavitud a la opinión pública; no siempre tiene razón la mayoría."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -667,14 +667,14 @@
       "standardReferenceId": "71:2.7",
       "pageReference": "802.1",
       "sortId": "3.071.002.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "Public opinion, common opinion, has always delayed society; nevertheless, it is valuable, for, while retarding social evolution, it does preserve civilization. Education of public opinion is the only safe and true method of accelerating civilization; force is only a temporary expedient, and cultural growth will increasingly accelerate as bullets give way to ballots. Public opinion, the mores, is the basic and elemental energy in social evolution and state development, but to be of state value it must be nonviolent in expression."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "La opinión pública, la opinión común, siempre ha retrasado a la sociedad; no obstante, es valiosa, pues, al retardar la evolución social, logra preservar la civilización. El método de educar la opinión pública es el único efectivo y seguro para acelerar la civilización; la fuerza no es sino una conveniencia temporal, y el desarrollo cultural se acelera notablemente cuando las balas ceden el paso a la boleta electoral. La opinión pública, las costumbres establecidas, constituye la energía elemental y primordial de la evolución social y del desarrollo del estado; pero, para tener valor estatal, tiene que expresarse en forma no violenta."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -685,14 +685,14 @@
       "standardReferenceId": "71:2.8",
       "pageReference": "802.2",
       "sortId": "3.071.002.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "The measure of the advance of society is directly determined by the degree to which public opinion can control personal behavior and state regulation through nonviolent expression. The really civilized government had arrived when public opinion was clothed with the powers of personal franchise. Popular elections may not always decide things rightly, but they represent the right way even to do a wrong thing. Evolution does not at once produce superlative perfection but rather comparative and advancing practical adjustment."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "Para medir el progreso de la sociedad, se determina hasta qué grado la opinión pública puede controlar la conducta personal y la regulación estatal mediante la expresión no violenta. El gobierno verdaderamente civilizado llegó cuando se revistió la opinión pública de las facultades del sufragio personal. Las elecciones populares no siempre decidirán las cuestiones acertadamente, pero sí representan la forma acertada incluso de desacertar. La evolución no produce perfección superlativa al instante, sino, más bien, una adaptación práctica comparativa y progresiva."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -703,14 +703,14 @@
       "standardReferenceId": "71:2.9",
       "pageReference": "802.3",
       "sortId": "3.071.002.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "There are ten steps, or stages, to the evolution of a practical and efficient form of representative government, and these are:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "Existen diez pasos, o etapas, para la evolución de una forma eficaz y práctica de gobierno representativo, a saber:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -721,14 +721,14 @@
       "standardReferenceId": "71:2.10",
       "pageReference": "802.4",
       "sortId": "3.071.002.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "1. *Freedom of the person.* Slavery, serfdom, and all forms of human bondage must disappear."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "1. *La libertad de la persona.* Han de desaparecer la esclavitud, el avasallamiento y toda forma de cautiverio humano."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -739,14 +739,14 @@
       "standardReferenceId": "71:2.11",
       "pageReference": "802.5",
       "sortId": "3.071.002.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "2. *Freedom of the mind.* Unless a free people are educated—taught to think intelligently and plan wisely—freedom usually does more harm than good."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "2. *La libertad de la mente.* La libertad suele hacer más daño que bien, si no se educan los pueblos libres —se enseñan a pensar con inteligencia y a proyectar sabiamente."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -757,14 +757,14 @@
       "standardReferenceId": "71:2.12",
       "pageReference": "802.6",
       "sortId": "3.071.002.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "3. *The reign of law.* Liberty can be enjoyed only when the will and whims of human rulers are replaced by legislative enactments in accordance with accepted fundamental law."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "3. *El reinado de la ley.* No se puede gozar de libertad sino cuando, de acuerdo con la ley fundamental reconocida, las promulgaciones legislativas reemplazan la voluntad y los caprichos de los gobernantes humanos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -775,14 +775,14 @@
       "standardReferenceId": "71:2.13",
       "pageReference": "802.7",
       "sortId": "3.071.002.013",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "4. *Freedom of speech.* Representative government is unthinkable without freedom of all forms of expression for human aspirations and opinions."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "4. *La libertad de expresión.* El gobierno representativo es inconcebible sin libertad de todas las formas de expresión para las aspiraciones y opiniones humanas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -793,14 +793,14 @@
       "standardReferenceId": "71:2.14",
       "pageReference": "802.8",
       "sortId": "3.071.002.014",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "5. *Security of property.* No government can long endure if it fails to provide for the right to enjoy personal property in some form. Man craves the right to use, control, bestow, sell, lease, and bequeath his personal property."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "5. *La seguridad de la propiedad.* Ningún gobierno perdura mucho tiempo si no logra conceder el derecho de disfrutar de la propiedad personal en alguna forma. El hombre anhela el derecho de usar, controlar, conferir, vender, arrendar y legar su propiedad personal."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -811,14 +811,14 @@
       "standardReferenceId": "71:2.15",
       "pageReference": "802.9",
       "sortId": "3.071.002.015",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "6. *The right of petition.* Representative government assumes the right of citizens to be heard. The privilege of petition is inherent in free citizenship."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "6. *El derecho de la petición.* El gobierno representativo supone que el ciudadano tiene derecho a ser escuchado. El privilegio de la petición es inherente a la ciudadanía libre."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -829,14 +829,14 @@
       "standardReferenceId": "71:2.16",
       "pageReference": "802.10",
       "sortId": "3.071.002.016",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "7. *The right to rule.* It is not enough to be heard; the power of petition must progress to the actual management of the government."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "7. *El derecho de gobernar.* No basta con ser escuchado; la facultad de la petición ha de avanzar hasta la gestión misma del gobierno."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -847,14 +847,14 @@
       "standardReferenceId": "71:2.17",
       "pageReference": "802.11",
       "sortId": "3.071.002.017",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "8. *Universal suffrage.* Representative government presupposes an intelligent, efficient, and universal electorate. The character of such a government will ever be determined by the character and caliber of those who compose it. As civilization progresses, suffrage, while remaining universal for both sexes, will be effectively modified, regrouped, and otherwise differentiated."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "8. *El sufragio universal.* El gobierno representativo presupone un electorado universal, inteligente y eficiente. El carácter de este tipo de gobierno siempre será determinado por el carácter y la capacidad de los que lo componen. A medida que progrese la civilización, siempre que el sufragio sea universal para ambos sexos, será modificado, reagrupado y, de otro modo, diferenciado con efectividad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -865,14 +865,14 @@
       "standardReferenceId": "71:2.18",
       "pageReference": "802.12",
       "sortId": "3.071.002.018",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "9. *Control of public servants.* No civil government will be serviceable and effective unless the citizenry possess and use wise techniques of guiding and controlling officeholders and public servants."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "9. *El control de los funcionarios públicos.* Ningún gobierno civil será duradero y efectivo sin que la ciudadanía disponga y se valga de técnicas prudentes para guiar y controlar a los titularizados y los funcionarios públicos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "2",
@@ -883,14 +883,14 @@
       "standardReferenceId": "71:2.19",
       "pageReference": "802.13",
       "sortId": "3.071.002.019",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Representative Government",
-      "markdown": "10. *Intelligent and trained representation.* The survival of democracy is dependent on successful representative government; and that is conditioned upon the practice of electing to public offices only those individuals who are technically trained, intellectually competent, socially loyal, and morally fit. Only by such provisions can government of the people, by the people, and for the people be preserved."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución del Gobierno Representativo",
+      "markdown": "10. *La representación capaz e inteligente.* La supervivencia de la democracia depende del éxito del gobierno representativo, lo cual está condicionado a la práctica de elegir para cargos públicos solamente a aquellos individuos que sean técnicamente capacitados, intelectualmente competentes, socialmente leales y moralmente aptos. El gobierno del pueblo, por el pueblo y para el pueblo puede ser preservado únicamente mediante estas disposiciones."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -901,14 +901,14 @@
       "standardReferenceId": "71:3.0",
       "pageReference": null,
       "sortId": "3.071.003.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -919,14 +919,14 @@
       "standardReferenceId": "71:3.1",
       "pageReference": "803.1",
       "sortId": "3.071.003.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "The political or administrative form of a government is of little consequence provided it affords the essentials of civil progress—liberty, security, education, and social co-ordination. It is not what a state is but what it does that determines the course of social evolution. And after all, no state can transcend the moral values of its citizenry as exemplified in their chosen leaders. Ignorance and selfishness will insure the downfall of even the highest type of government."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Tiene poca importancia la forma política o administrativa de un gobierno con tal que brinde los elementos esenciales del progreso civil: la libertad, la seguridad, la educación y la coordinación social. El curso de la evolución social está determinado por lo que hace un estado, no por lo que es un estado. A pesar de todo, ningún estado puede trascender los valores morales de su ciudadanía según se ejemplifican en sus mandatarios elegidos. La ignorancia y el egoísmo garantizan la caída hasta del tipo de gobierno más sobresaliente."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -937,14 +937,14 @@
       "standardReferenceId": "71:3.2",
       "pageReference": "803.2",
       "sortId": "3.071.003.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "Much as it is to be regretted, national egotism has been essential to social survival. The chosen people doctrine has been a prime factor in tribal welding and nation building right on down to modern times. But no state can attain ideal levels of functioning until every form of intolerance is mastered; it is everlastingly inimical to human progress. And intolerance is best combated by the co-ordination of science, commerce, play, and religion."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Por mucho que se lamente, el egotismo nacional ha sido esencial para la supervivencia social. La doctrina del pueblo elegido ha sido un factor primordial para unir las tribus y edificar las naciones hasta los tiempos modernos. Pero ningún estado puede alcanzar niveles ideales de funcionamiento hasta tanto no domine todas las formas de la intolerancia; ésta es perennemente adversa al progreso humano. La mejor manera de combatir la intolerancia consiste en la coordinación de la ciencia, el comercio, la recreación y la religión."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -955,14 +955,14 @@
       "standardReferenceId": "71:3.3",
       "pageReference": "803.3",
       "sortId": "3.071.003.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "The ideal state functions under the impulse of three mighty and co-ordinated drives:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "El estado ideal funciona bajo el impulso de tres fuerzas coordinadas y poderosas:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -973,14 +973,14 @@
       "standardReferenceId": "71:3.4",
       "pageReference": "803.4",
       "sortId": "3.071.003.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "1. Love loyalty derived from the realization of human brotherhood."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "1. La lealtad del amor que se deriva de la realización de la hermandad humana."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -991,14 +991,14 @@
       "standardReferenceId": "71:3.5",
       "pageReference": "803.5",
       "sortId": "3.071.003.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "2. Intelligent patriotism based on wise ideals."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "2. El patriotismo inteligente que se basa en ideales sabios."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1009,14 +1009,14 @@
       "standardReferenceId": "71:3.6",
       "pageReference": "803.6",
       "sortId": "3.071.003.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "3. Cosmic insight interpreted in terms of planetary facts, needs, and goals."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "3. La compenetración cósmica que se interpreta en función de los hechos, necesidades y metas del planeta."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1027,14 +1027,14 @@
       "standardReferenceId": "71:3.7",
       "pageReference": "803.7",
       "sortId": "3.071.003.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "The laws of the ideal state are few in number, and they have passed out of the negativistic taboo age into the era of the positive progress of individual liberty consequent upon enhanced self-control. The exalted state not only compels its citizens to work but also entices them into profitable and uplifting utilization of the increasing leisure which results from toil liberation by the advancing machine age. Leisure must produce as well as consume."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Las leyes del estado ideal son pocas y han dejado atrás la edad negativista de los tabúes para entrar en la era del progreso positivo de la libertad individual que resulta del aumento del autocontrol. El estado exaltado no sólo obliga a sus ciudadanos a trabajar, sino que también los incita al uso beneficioso y elevador del tiempo libre, dando como resultado un aumento al avance progresivo de la edad de la mecanización. El tiempo libre ha de producir además de consumir."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1045,14 +1045,14 @@
       "standardReferenceId": "71:3.8",
       "pageReference": "803.8",
       "sortId": "3.071.003.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "No society has progressed very far when it permits idleness or tolerates poverty. But poverty and dependence can never be eliminated if the defective and degenerate stocks are freely supported and permitted to reproduce without restraint."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Ninguna sociedad ha progresado mucho permitiendo la ociosidad o tolerando la miseria. Pero jamás podrán eliminarse la miseria y la dependencia si las cepas defectuosas y degeneradas son mantenidas gratis y se les permite reproducirse sin restricciones."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1063,14 +1063,14 @@
       "standardReferenceId": "71:3.9",
       "pageReference": "803.9",
       "sortId": "3.071.003.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "A moral society should aim to preserve the self-respect of its citizenry and afford every normal individual adequate opportunity for self-realization. Such a plan of social achievement would yield a cultural society of the highest order. Social evolution should be encouraged by governmental supervision which exercises a minimum of regulative control. That state is best which co-ordinates most while governing least."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Una sociedad moral debe proponerse preservar la dignidad de su ciudadanía y brindar a todo individuo normal una oportunidad adecuada para su autorrealización. Este plan de logro social produciría una sociedad cultural de orden superior. La evolución social debe ser fomentada por una supervisión gubernamental que ejerza un mínimo de control regulador. El mejor estado es aquél que coordina más y gobierna menos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1081,14 +1081,14 @@
       "standardReferenceId": "71:3.10",
       "pageReference": "803.10",
       "sortId": "3.071.003.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "The ideals of statehood must be attained by evolution, by the slow growth of civic consciousness, the recognition of the obligation and privilege of social service. At first men assume the burdens of government as a duty, following the end of the administration of political spoilsmen, but later on they seek such ministry as a privilege, as the greatest honor. The status of any level of civilization is faithfully portrayed by the caliber of its citizens who volunteer to accept the responsibilities of statehood."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "Los ideales de la existencia estatal se deben lograr mediante la evolución, el desarrollo lento de la conciencia cívica, el reconocimiento de la obligación y privilegio del servicio social. Después de una administración de oportunistas políticos, los hombres primero asumen las cargas del gobierno como deber, para más tarde ir en pos de este servicio porque lo consideran un privilegio, el honor máximo. La condición de cualquier nivel de civilización se refleja claramente en la calidad de los ciudadanos que se ofrecen para aceptar las responsabilidades del estado."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1099,14 +1099,14 @@
       "standardReferenceId": "71:3.11",
       "pageReference": "803.11",
       "sortId": "3.071.003.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "In a real commonwealth the business of governing cities and provinces is conducted by experts and is managed just as are all other forms of economic and commercial associations of people."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "En una verdadera mancomunidad la labor de gobernar las ciudades y provincias es realizada por expertos y es administrada tal como lo son todas las demás formas de asociaciones comerciales y económicas de la gente."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "3",
@@ -1117,14 +1117,14 @@
       "standardReferenceId": "71:3.12",
       "pageReference": "803.12",
       "sortId": "3.071.003.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Ideals of Statehood",
-      "markdown": "In advanced states, political service is esteemed as the highest devotion of the citizenry. The greatest ambition of the wisest and noblest of citizens is to gain civil recognition, to be elected or appointed to some position of governmental trust, and such governments confer their highest honors of recognition for service upon their civil and social servants. Honors are next bestowed in the order named upon philosophers, educators, scientists, industrialists, and militarists. Parents are duly rewarded by the excellency of their children, and purely religious leaders, being ambassadors of a spiritual kingdom, receive their real rewards in another world."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "Los Ideales del Estado",
+      "markdown": "En los estados avanzados, el servicio político se considera la devoción máxima de la ciudadanía. La ambición suprema de los ciudadanos más sabios y nobles es ganar el reconocimiento civil, ser elegido o nombrado para alguna posición de confianza gubernamental, y que estos gobiernos confieran a sus funcionarios civiles y sociales sus honores máximos de reconocimiento por el servicio prestado. Luego se dispensan honores en este orden, a los filósofos, educadores, científicos, industrialistas y militares. A los padres se les recompensa debidamente por la excelencia de sus hijos; los dirigentes puramente religiosos, siendo embajadores del reino espiritual, reciben sus verdaderas recompensas en otro mundo."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1135,14 +1135,14 @@
       "standardReferenceId": "71:4.0",
       "pageReference": null,
       "sortId": "3.071.004.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1153,14 +1153,14 @@
       "standardReferenceId": "71:4.1",
       "pageReference": "804.1",
       "sortId": "3.071.004.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "Economics, society, and government must evolve if they are to remain. Static conditions on an evolutionary world are indicative of decay; only those institutions which move forward with the evolutionary stream persist."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "La economía, la sociedad y el gobierno tienen que evolucionar si han de perdurar. Las condiciones estancadas en un mundo evolucionario son indicativas de decadencia; sólo perduran aquellas instituciones que avanzan con la corriente evolucionaria."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1171,14 +1171,14 @@
       "standardReferenceId": "71:4.2",
       "pageReference": "804.2",
       "sortId": "3.071.004.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "The progressive program of an expanding civilization embraces:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "El programa progresivo de una civilización en expansión abarca:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1189,14 +1189,14 @@
       "standardReferenceId": "71:4.3",
       "pageReference": "804.3",
       "sortId": "3.071.004.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "1. Preservation of individual liberties."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "1. La preservación de las libertades individuales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1207,14 +1207,14 @@
       "standardReferenceId": "71:4.4",
       "pageReference": "804.4",
       "sortId": "3.071.004.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "2. Protection of the home."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "2. La protección del hogar."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1225,14 +1225,14 @@
       "standardReferenceId": "71:4.5",
       "pageReference": "804.5",
       "sortId": "3.071.004.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "3. Promotion of economic security."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "3. La promoción de la seguridad económica."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1243,14 +1243,14 @@
       "standardReferenceId": "71:4.6",
       "pageReference": "804.6",
       "sortId": "3.071.004.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "4. Prevention of disease."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "4. La prevención de las enfermedades."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1261,14 +1261,14 @@
       "standardReferenceId": "71:4.7",
       "pageReference": "804.7",
       "sortId": "3.071.004.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "5. Compulsory education."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "5. La educación obligatoria."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1279,14 +1279,14 @@
       "standardReferenceId": "71:4.8",
       "pageReference": "804.8",
       "sortId": "3.071.004.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "6. Compulsory employment."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "6. El empleo obligatorio."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1297,14 +1297,14 @@
       "standardReferenceId": "71:4.9",
       "pageReference": "804.9",
       "sortId": "3.071.004.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "7. Profitable utilization of leisure."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "7. El aprovechamiento del tiempo libre."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1315,14 +1315,14 @@
       "standardReferenceId": "71:4.10",
       "pageReference": "804.10",
       "sortId": "3.071.004.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "8. Care of the unfortunate."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "8. La atención a los infortunados."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1333,14 +1333,14 @@
       "standardReferenceId": "71:4.11",
       "pageReference": "804.11",
       "sortId": "3.071.004.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "9. Race improvement."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "9. El mejoramiento de la raza."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1351,14 +1351,14 @@
       "standardReferenceId": "71:4.12",
       "pageReference": "804.12",
       "sortId": "3.071.004.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "10. Promotion of science and art."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "10. La promoción de las ciencias y las artes."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1369,14 +1369,14 @@
       "standardReferenceId": "71:4.13",
       "pageReference": "804.13",
       "sortId": "3.071.004.013",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "11. Promotion of philosophy—wisdom."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "11. La promoción de la filosofía —la sabiduría."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1387,14 +1387,14 @@
       "standardReferenceId": "71:4.14",
       "pageReference": "804.14",
       "sortId": "3.071.004.014",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "12. Augmentation of cosmic insight—spirituality."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "12. El aumento de la compenetración cósmica —la espiritualidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1405,14 +1405,14 @@
       "standardReferenceId": "71:4.15",
       "pageReference": "804.15",
       "sortId": "3.071.004.015",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "And this progress in the arts of civilization leads directly to the realization of the highest human and divine goals of mortal endeavor—the social achievement of the brotherhood of man and the personal status of God-consciousness, which becomes revealed in the supreme desire of every individual to do the will of the Father in heaven."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "Y este progreso en las artes de la civilización va encaminado directamente a la realización de las máximas metas humanas y divinas del esfuerzo mortal —el logro social de la hermandad del hombre y la condición personal de ser consciente de Dios, lo cual se manifiesta en el supremo deseo de todo individuo de hacer la voluntad del Padre en el cielo."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1423,14 +1423,14 @@
       "standardReferenceId": "71:4.16",
       "pageReference": "804.16",
       "sortId": "3.071.004.016",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "The appearance of genuine brotherhood signifies that a social order has arrived in which all men delight in bearing one another’s burdens; they actually desire to practice the golden rule. But such an ideal society cannot be realized when either the weak or the wicked lie in wait to take unfair and unholy advantage of those who are chiefly actuated by devotion to the service of truth, beauty, and goodness. In such a situation only one course is practical: The “golden rulers” may establish a progressive society in which they live according to their ideals while maintaining an adequate defense against their benighted fellows who might seek either to exploit their pacific predilections or to destroy their advancing civilization."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "La aparición de la verdadera hermandad significa que ha llegado un orden social en el cual se deleitan todos los hombres sobrellevando los unos las cargas de los otros; de hecho desean poner en práctica la regla de oro. Pero no se puede lograr una sociedad tan ideal cuando los débiles o malvados están a la expectativa para aprovecharse de modo injusto e impío de los que son motivados fundamentalmente por la devoción al servicio de la verdad, la belleza y la bondad. En esta situación un solo proceder resulta práctico: los seguidores de la «regla de oro» pueden establecer una sociedad progresiva en la cual vivan de acuerdo con sus ideales, al mismo tiempo que mantengan una defensa adecuada contra sus semejantes sumidos en la ignorancia, quienes quizás pretenderán explotar sus predilecciones pacíficas, o bien, destrozar su civilización en avance."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "4",
@@ -1441,14 +1441,14 @@
       "standardReferenceId": "71:4.17",
       "pageReference": "804.17",
       "sortId": "3.071.004.017",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Progressive Civilization",
-      "markdown": "Idealism can never survive on an evolving planet if the idealists in each generation permit themselves to be exterminated by the baser orders of humanity. And here is the great test of idealism: Can an advanced society maintain that military preparedness which renders it secure from all attack by its war-loving neighbors without yielding to the temptation to employ this military strength in offensive operations against other peoples for purposes of selfish gain or national aggrandizement? National survival demands preparedness, and religious idealism alone can prevent the prostitution of preparedness into aggression. Only love, brotherhood, can prevent the strong from oppressing the weak."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Civilización Progresiva",
+      "markdown": "Nunca puede sobrevivir el idealismo en un planeta evolutivo si los idealistas de cada generación se permiten ser exterminados a manos de las órdenes más viles de la humanidad. He aquí la gran prueba del idealismo: ¿Puede una sociedad avanzada mantener un estado de preparación militar que la proteja de los ataques de sus vecinos amantes de la guerra, sin sucumbir a la tentación de emplear este poderío militar en operaciones ofensivas contra otros pueblos a fin de la ventaja egoista o el engrandecimiento nacional? La supervivencia nacional exige el estado de preparación militar y sólo el idealismo religioso puede impedir que se prostituya la preparación convirtiéndose en agresión. Sólo el amor, la hermandad, pueden impedir que los fuertes opriman a los débiles."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "5",
@@ -1459,14 +1459,14 @@
       "standardReferenceId": "71:5.0",
       "pageReference": null,
       "sortId": "3.071.005.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Competition",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución de la Competencia",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "5",
@@ -1477,14 +1477,14 @@
       "standardReferenceId": "71:5.1",
       "pageReference": "805.1",
       "sortId": "3.071.005.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Competition",
-      "markdown": "Competition is essential to social progress, but competition, unregulated, breeds violence. In current society, competition is slowly displacing war in that it determines the individual’s place in industry, as well as decreeing the survival of the industries themselves. (Murder and war differ in their status before the mores, murder having been outlawed since the early days of society, while war has never yet been outlawed by mankind as a whole.)"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución de la Competencia",
+      "markdown": "La competición es esencial para el progreso social, pero la competencia, sin tasa ni medida, engendra la violencia. En la sociedad de hoy en día, la competición va desplazando poco a poco a la guerra en cuanto que determina la posición del individuo en la industria, y así decreta la supervivencia de las industrias mismas. (El asesinato y la guerra difieren en su calidad ante las costumbres establecidas; pues el asesinato quedó proscrito desde los primeros días de la sociedad; en cambio, la guerra no ha sido proscrita nunca por la humanidad en general.)"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "5",
@@ -1495,14 +1495,14 @@
       "standardReferenceId": "71:5.2",
       "pageReference": "805.2",
       "sortId": "3.071.005.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Competition",
-      "markdown": "The ideal state undertakes to regulate social conduct only enough to take violence out of individual competition and to prevent unfairness in personal initiative. Here is a great problem in statehood: How can you guarantee peace and quiet in industry, pay the taxes to support state power, and at the same time prevent taxation from handicapping industry and keep the state from becoming parasitical or tyrannical?"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución de la Competencia",
+      "markdown": "El estado ideal acomete la regulación de la conducta social sólo lo bastante para eliminar la violencia de la competencia individual y para impedir la injusticia en la iniciativa personal. He aquí el gran problema del estado: ¿Cómo se puede garantizar la paz y tranquilidad de la industria, pagar los impuestos para mantener el poder del estado y, al mismo tiempo, impedir que la gravación fiscal entorpezca la industria y que el estado se convierta en parásito o tirano?"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "5",
@@ -1513,14 +1513,14 @@
       "standardReferenceId": "71:5.3",
       "pageReference": "805.3",
       "sortId": "3.071.005.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Competition",
-      "markdown": "Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, co-operation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition. Early man is stimulated by competition. Early evolution is characterized by the survival of the biologically fit, but later civilizations are the better promoted by intelligent co-operation, understanding fraternity, and spiritual brotherhood."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución de la Competencia",
+      "markdown": "A través de las edades primitivas de cualquier mundo, la competencia es esencial para la civilización progresiva. A medida que progresa la evolución del hombre, la cooperación llega a ser cada vez más efectiva. En las civilizaciones avanzadas la cooperación es más eficaz que la competencia. La competencia estimula al hombre primitivo. La evolución primitiva se caracteriza por la supervivencia de los que son biológicamente aptos, pero las civilizaciones posteriores se fomentan mejor por la cooperación inteligente, la fraternidad compasiva y la hermandad espiritual."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "5",
@@ -1531,14 +1531,14 @@
       "standardReferenceId": "71:5.4",
       "pageReference": "805.4",
       "sortId": "3.071.005.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Evolution of Competition",
-      "markdown": "True, competition in industry is exceedingly wasteful and highly ineffective, but no attempt to eliminate this economic lost motion should be countenanced if such adjustments entail even the slightest abrogation of any of the basic liberties of the individual."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Evolución de la Competencia",
+      "markdown": "Cierto que la competición en la industria es excesivamente derrochadora y sumamente ineficaz, pero no se debe aprobar ningún esfuerzo para eliminar esta desastrosa moción económica, si tales modificaciones suponen la más mínima abolición de cualquiera de las libertades fundamentales del individuo."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "6",
@@ -1549,14 +1549,14 @@
       "standardReferenceId": "71:6.0",
       "pageReference": null,
       "sortId": "3.071.006.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Profit Motive",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Motivo del Lucro",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "6",
@@ -1567,14 +1567,14 @@
       "standardReferenceId": "71:6.1",
       "pageReference": "805.5",
       "sortId": "3.071.006.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Profit Motive",
-      "markdown": "Present-day profit-motivated economics is doomed unless profit motives can be augmented by service motives. Ruthless competition based on narrow-minded self-interest is ultimately destructive of even those things which it seeks to maintain. Exclusive and self-serving profit motivation is incompatible with Christian ideals—much more incompatible with the teachings of Jesus."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Motivo del Lucro",
+      "markdown": "Hoy por hoy la economía motivada por el lucro está destinada al fracaso, a no ser que los motivos de lucro puedan ser superados por motivos de servicio. La competición despiadada que se basa en el egoísmo de miras estrechas, a la larga, destruye aquello que procura mantener. La motivación egoísta y exclusiva de lucro es incompatible con los ideales cristianos —mucho más incompatible con las enseñanzas de Jesús."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "6",
@@ -1585,14 +1585,14 @@
       "standardReferenceId": "71:6.2",
       "pageReference": "805.6",
       "sortId": "3.071.006.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Profit Motive",
-      "markdown": "In economics, profit motivation is to service motivation what fear is to love in religion. But the profit motive must not be suddenly destroyed or removed; it keeps many otherwise slothful mortals hard at work. It is not necessary, however, that this social energy arouser be forever selfish in its objectives."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Motivo del Lucro",
+      "markdown": "En la economía, la motivación de lucro es para la motivación de servicio lo que el temor es para el amor en la religión. Pero el motivo del lucro no ha de destruirse ni eliminarse de manera repentina; mantiene trabajando duro a muchos mortales que de lo contrario serían perezosos. No es forzoso, sin embargo, que este excitador de energía social sea perennemente egoísta en sus objetivos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "6",
@@ -1603,14 +1603,14 @@
       "standardReferenceId": "71:6.3",
       "pageReference": "805.7",
       "sortId": "3.071.006.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Profit Motive",
-      "markdown": "The profit motive of economic activities is altogether base and wholly unworthy of an advanced order of society; nevertheless, it is an indispensable factor throughout the earlier phases of civilization. Profit motivation must not be taken away from men until they have firmly possessed themselves of superior types of nonprofit motives for economic striving and social serving—the transcendent urges of superlative wisdom, intriguing brotherhood, and excellency of spiritual attainment."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Motivo del Lucro",
+      "markdown": "El motivo del lucro en las actividades económicas es enteramente vil y totalmente indigno en un orden avanzado de sociedad; no obstante, es un factor indispensable durante las fases tempranas de la civilización. No se ha de quitar el motivo del lucro a los hombres hasta que cuenten con sólidos tipos superiores de motivos desprovistos de fines lucrativos para el empeño económico y el servicio social —el afán trascendente de la sabiduría superlativa, la hermandad fascinante y la excelencia del logro espiritual."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1621,14 +1621,14 @@
       "standardReferenceId": "71:7.0",
       "pageReference": null,
       "sortId": "3.071.007.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1639,14 +1639,14 @@
       "standardReferenceId": "71:7.1",
       "pageReference": "806.1",
       "sortId": "3.071.007.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "The enduring state is founded on culture, dominated by ideals, and motivated by service. The purpose of education should be acquirement of skill, pursuit of wisdom, realization of selfhood, and attainment of spiritual values."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "El estado duradero se funda en la cultura, dominado por ideales y motivado por el servicio. El propósito de la educación debe ser la adquisición de conocimientos, la consecución de la sabiduría, la autorrealización y el logro de valores espirituales."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1657,14 +1657,14 @@
       "standardReferenceId": "71:7.2",
       "pageReference": "806.2",
       "sortId": "3.071.007.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "In the ideal state, education continues throughout life, and philosophy sometime becomes the chief pursuit of its citizens. The citizens of such a commonwealth pursue wisdom as an enhancement of insight into the significance of human relations, the meanings of reality, the nobility of values, the goals of living, and the glories of cosmic destiny."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "En el estado ideal, la educación continúa toda la vida, y la filosofía algunas veces se convierte en el objetivo principal de sus ciudadanos. Los ciudadanos de tal mancomunidad van en la búsqueda de la sabiduría para compenetrarse más intensamente con la significación de las relaciones humanas, los sentidos de la realidad, la nobleza de los valores, las metas de la vida y las glorias del destino cósmico."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1675,14 +1675,14 @@
       "standardReferenceId": "71:7.3",
       "pageReference": "806.3",
       "sortId": "3.071.007.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "Urantians should get a vision of a new and higher cultural society. Education will jump to new levels of value with the passing of the purely profit-motivated system of economics. Education has too long been localistic, militaristic, ego exalting, and success seeking; it must eventually become world-wide, idealistic, self-realizing, and cosmic grasping."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "Los urantianos deben lograr la perspectiva de una sociedad cultural superior y nueva. La educación alcanzará nuevos niveles de valor al pasar el sistema de economía motivado puramente por el lucro. La educación ha sido demasiado tiempo provinciana y militarista, exaltando el ego y buscando el éxito; a la larga tendrá que ser global, idealista, de autorealización y de comprensión del cosmos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1693,14 +1693,14 @@
       "standardReferenceId": "71:7.4",
       "pageReference": "806.4",
       "sortId": "3.071.007.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "Education recently passed from the control of the clergy to that of lawyers and businessmen. Eventually it must be given over to the philosophers and the scientists. Teachers must be free beings, real leaders, to the end that philosophy, the search for wisdom, may become the chief educational pursuit."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "Hace poco la educación pasó del control del clero al de los abogados y los hombres de negocios. Ulteriormente se tendrá que entregar a los filósofos y científicos. Los maestros han de ser entes libres, verdaderos dirigentes, a fin de que la filosofía, la búsqueda de la sabiduría, pueda convertirse en el objetivo básico de la educación."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1711,14 +1711,14 @@
       "standardReferenceId": "71:7.5",
       "pageReference": "806.5",
       "sortId": "3.071.007.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "Education is the business of living; it must continue throughout a lifetime so that mankind may gradually experience the ascending levels of mortal wisdom, which are:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "La educación es la tarea de la vida; ha de continuar toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal, que son:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1729,14 +1729,14 @@
       "standardReferenceId": "71:7.6",
       "pageReference": "806.6",
       "sortId": "3.071.007.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "1. The knowledge of things."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "1. El conocimiento de las cosas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1747,14 +1747,14 @@
       "standardReferenceId": "71:7.7",
       "pageReference": "806.7",
       "sortId": "3.071.007.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "2. The realization of meanings."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "2. La comprensión de los significados."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1765,14 +1765,14 @@
       "standardReferenceId": "71:7.8",
       "pageReference": "806.8",
       "sortId": "3.071.007.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "3. The appreciation of values."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "3. La apreciación de los valores."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1783,14 +1783,14 @@
       "standardReferenceId": "71:7.9",
       "pageReference": "806.9",
       "sortId": "3.071.007.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "4. The nobility of work—duty."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "4. La nobleza del trabajo —el deber."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1801,14 +1801,14 @@
       "standardReferenceId": "71:7.10",
       "pageReference": "806.10",
       "sortId": "3.071.007.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "5. The motivation of goals—morality."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "5. La motivación de las metas —la moralidad."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1819,14 +1819,14 @@
       "standardReferenceId": "71:7.11",
       "pageReference": "806.11",
       "sortId": "3.071.007.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "6. The love of service—character."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "6. El amor al servicio —el carácter."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1837,14 +1837,14 @@
       "standardReferenceId": "71:7.12",
       "pageReference": "806.12",
       "sortId": "3.071.007.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "7. Cosmic insight—spiritual discernment."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "7. La visión cósmica —el discernimiento espiritual."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "7",
@@ -1855,14 +1855,14 @@
       "standardReferenceId": "71:7.13",
       "pageReference": "806.13",
       "sortId": "3.071.007.013",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "Education",
-      "markdown": "And then, by means of these achievements, many will ascend to the mortal ultimate of mind attainment, God-consciousness."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "La Educación",
+      "markdown": "Luego, mediante estos logros, muchos ascenderán al máximo grado humano de la realización mental, el conocimiento de Dios."
     },
     {
       "type": "section",
       "typeRank": 2,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1873,14 +1873,14 @@
       "standardReferenceId": "71:8.0",
       "pageReference": null,
       "sortId": "3.071.008.000",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
       "markdown": null
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1891,14 +1891,14 @@
       "standardReferenceId": "71:8.1",
       "pageReference": "806.14",
       "sortId": "3.071.008.001",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "The only sacred feature of any human government is the division of statehood into the three domains of executive, legislative, and judicial functions. The universe is administered in accordance with such a plan of segregation of functions and authority. Aside from this divine concept of effective social regulation or civil government, it matters little what form of state a people may elect to have provided the citizenry is ever progressing toward the goal of augmented self-control and increased social service. The intellectual keenness, economic wisdom, social cleverness, and moral stamina of a people are all faithfully reflected in statehood."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "El único rasgo sagrado de todo gobierno humano es la división del estado en tres dominios de funciones ejecutivas, legislativas y judiciales. El universo se administra de acuerdo con este esquema de segregación de las funciones y la autoridad. Aparte de este concepto divino de la regulación social efectiva o gobierno civil, poco importa por qué forma de estado opte el pueblo con tal de que la ciudadanía continúe progresando hacia la meta de mayor autocontrol y aumento del servicio social. La agudeza intelectual, la sagacidad económica, la astucia social, la resistencia moral de un pueblo se reflejan todas fielmente en la calidad del estado."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1909,14 +1909,14 @@
       "standardReferenceId": "71:8.2",
       "pageReference": "806.15",
       "sortId": "3.071.008.002",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "The evolution of statehood entails progress from level to level, as follows:"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "La evolución del estado supone el progreso de un nivel a otro, como sigue:"
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1927,14 +1927,14 @@
       "standardReferenceId": "71:8.3",
       "pageReference": "806.16",
       "sortId": "3.071.008.003",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "1. The creation of a threefold government of executive, legislative, and judicial branches."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "1. La creación de un gobierno de tres componentes: las ramas ejecutiva, legislativa y judicial."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1945,14 +1945,14 @@
       "standardReferenceId": "71:8.4",
       "pageReference": "806.17",
       "sortId": "3.071.008.004",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "2. The freedom of social, political, and religious activities."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "2. La libertad de las actividades sociales, políticas y religiosas."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1963,14 +1963,14 @@
       "standardReferenceId": "71:8.5",
       "pageReference": "807.1",
       "sortId": "3.071.008.005",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "3. The abolition of all forms of slavery and human bondage."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "3. La abolición de todas las formas de esclavitud y cautiverio humanos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1981,14 +1981,14 @@
       "standardReferenceId": "71:8.6",
       "pageReference": "807.2",
       "sortId": "3.071.008.006",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "4. The ability of the citizenry to control the levying of taxes."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "4. La capacidad de la ciudadanía de controlar la gravación de impuestos."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -1999,14 +1999,14 @@
       "standardReferenceId": "71:8.7",
       "pageReference": "807.3",
       "sortId": "3.071.008.007",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "5. The establishment of universal education—learning extended from the cradle to the grave."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "5. El establecimiento de la educación universal —extensión del aprendizaje desde la cuna hasta la tumba."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2017,14 +2017,14 @@
       "standardReferenceId": "71:8.8",
       "pageReference": "807.4",
       "sortId": "3.071.008.008",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "6. The proper adjustment between local and national governments."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "6. El equilibrio debido entre los gobiernos local y nacional."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2035,14 +2035,14 @@
       "standardReferenceId": "71:8.9",
       "pageReference": "807.5",
       "sortId": "3.071.008.009",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "7. The fostering of science and the conquest of disease."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "7. El fomento de las ciencias y la conquista de las enfermedades."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2053,14 +2053,14 @@
       "standardReferenceId": "71:8.10",
       "pageReference": "807.6",
       "sortId": "3.071.008.010",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "8. The due recognition of sex equality and the co-ordinated functioning of men and women in the home, school, and church, with specialized service of women in industry and government."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "8. El reconocimiento debido de la igualdad de los sexos y el funcionamiento coordinado de hombres y mujeres en el hogar, la escuela y la iglesia, con servicio especializado de las mujeres en la industria y el gobierno."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2071,14 +2071,14 @@
       "standardReferenceId": "71:8.11",
       "pageReference": "807.7",
       "sortId": "3.071.008.011",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "9. The elimination of toiling slavery by machine invention and the subsequent mastery of the machine age."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "9. La eliminación de la esclavitud en el trabajo por la invención de las máquinas y el dominio ulterior de la edad mecanizada."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2089,14 +2089,14 @@
       "standardReferenceId": "71:8.12",
       "pageReference": "807.8",
       "sortId": "3.071.008.012",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "10. The conquest of dialects—the triumph of a universal language."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "10. La conquista de los dialectos —el triunfo de una lengua universal."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2107,14 +2107,14 @@
       "standardReferenceId": "71:8.13",
       "pageReference": "807.9",
       "sortId": "3.071.008.013",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "11. The ending of war—international adjudication of national and racial differences by continental courts of nations presided over by a supreme planetary tribunal automatically recruited from the periodically retiring heads of the continental courts. The continental courts are authoritative; the world court is advisory—moral."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "11. El fin de las guerras —la sentencia internacional de las desavenencias nacionales y raciales en cortes continentales de las naciones, presididas por un tribunal supremo planetario compuesto de jueces reclutados automáticamente de los antiguos jueces periódicamente jubilados de las cortes continentales. Las cortes continentales son de carácter autoritario; la corte mundial es de asesoría —de carácter moral."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2125,14 +2125,14 @@
       "standardReferenceId": "71:8.14",
       "pageReference": "807.10",
       "sortId": "3.071.008.014",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "12. The world-wide vogue of the pursuit of wisdom—the exaltation of philosophy. The evolution of a world religion, which will presage the entrance of the planet upon the earlier phases of settlement in light and life."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "12. La tendencia mundial de ir en pos de la sabiduría —la exaltación de la filosofía. La evolución de una religión mundial que presagie la entrada del planeta a las fases anteriores del establecimiento en luz y vida."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2143,14 +2143,14 @@
       "standardReferenceId": "71:8.15",
       "pageReference": "807.11",
       "sortId": "3.071.008.015",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "These are the prerequisites of progressive government and the earmarks of ideal statehood. Urantia is far from the realization of these exalted ideals, but the civilized races have made a beginning—mankind is on the march toward higher evolutionary destinies."
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "Éstos son los requisitos previos del gobierno progresivo y las características del estado ideal. Urantia dista mucho de ser la realización de estos ideales exaltados, pero las razas civilizadas han comenzado la marcha —la humanidad va encaminada hacia destinos evolutivos superiores."
     },
     {
       "type": "paragraph",
       "typeRank": 3,
-      "language": "eng",
+      "language": "spa",
       "partId": "3",
       "paperId": "71",
       "sectionId": "8",
@@ -2161,9 +2161,9 @@
       "standardReferenceId": "71:8.16",
       "pageReference": "807.12",
       "sortId": "3.071.008.016",
-      "paperTitle": "Development of the State",
-      "sectionTitle": "The Character of Statehood",
-      "markdown": "[Sponsored by a Melchizedek of Nebadon.]"
+      "paperTitle": "El Desarrollo del Estado",
+      "sectionTitle": "El Carácter del Estado",
+      "markdown": "[Patrocinado por un Melquisedek de Nebadon.]"
     }
   ]
 }
