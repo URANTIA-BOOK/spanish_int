@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/091.md",
-  "source_sha256": "ca52c5304f5cad6d4d387e3fb49f65cc5ac77593cf343e2d6a4af2f9f1829bda",
+  "source_sha256": "513a5b61f682afc100ea7da41f0a7a8ecd5d2bf7cdb92cba138140728833b3fe",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "91:0.0",
       "pageReference": null,
       "sortId": "3.091.000.000",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "91:0.0",
       "pageReference": null,
       "sortId": "3.091.000.000",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "91:0.1",
       "pageReference": "994.1",
       "sortId": "3.091.000.001",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
-      "markdown": "LA ORACIÓN, como agencia de la religión, evolucionó de las expresiones previas no religiosas en forma de monólogos y diálogos. Con el logro de la autoconciencia, ocurrió inevitablemente en el hombre primitivo el corolario de que existen otras consciencias, el potencial dual de la respuesta social y del reconocimiento de Dios."
+      "markdown": "LA ORACIÓN como agente de la religión evolucionó a partir de expresiones anteriores no religiosas de monólogo y de diálogo. Cuando el hombre primitivo alcanzó la consciencia de sí mismo se produjo el corolario inevitable de la consciencia de los demás, el potencial dual de respuesta social y de reconocimiento de Dios."
     },
     {
       "type": "paragraph",
@@ -73,9 +73,9 @@
       "standardReferenceId": "91:0.2",
       "pageReference": "994.2",
       "sortId": "3.091.000.002",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
-      "markdown": "Las formas más primitivas de oración no estaban dirigidas a la Deidad. Estas expresiones eran muy semejantes a lo que puedes decir a un amigo al embarcarte en alguna empresa importante: «Deséame suerte». El hombre primitivo estaba encadenado por la magia; la suerte, tanto buena como mala, participaba en todos los asuntos de la vida. Al principio, estas solicitudes de suerte eran monólogos —una vocalización de los pensamientos del asistente de la magia. Luego, estos creyentes en la suerte buscaron el apoyo de sus amigos y familias, y finalmente se realizó cierta forma de ceremonia que incluía al entero clan o tribu."
+      "markdown": "Las primeras formas de oración no iban dirigidas a la Deidad. Eran expresiones parecidas a lo que soléis decir a un amigo cuando vais a acometer algún proyecto importante: «Deséame suerte». El hombre primitivo era esclavo de la magia; la suerte, buena o mala, formaba parte de todos los asuntos de su vida. Al principio esas peticiones de suerte eran monólogos, el invocador de la magia se limitaba a pensar en voz alta. Los creyentes en la suerte buscaron luego el apoyo de sus amigos y familiares, y terminaron instaurando algún tipo de ceremonia en la que participaba el clan o la tribu al completo."
     },
     {
       "type": "paragraph",
@@ -91,9 +91,9 @@
       "standardReferenceId": "91:0.3",
       "pageReference": "994.3",
       "sortId": "3.091.000.003",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
-      "markdown": "Cuando los conceptos de fantasmas y espíritus evolucionaron, estas solicitudes se dirigieron a las fuerzas sobrehumanas, y con la conciencia de los dioses, dichas expresiones llegaron a los niveles de la verdadera oración. Como ilustración de esto, entre algunas tribus australianas las oraciones religiosas primitivas antedataron su creencia en los espíritus y en las personalidades sobrehumanas."
+      "markdown": "A medida que fueron evolucionando los conceptos de fantasmas y espíritus, esas peticiones pasaron a tener destinatarios sobrehumanos, y cuando surgió la consciencia de los dioses esas expresiones alcanzaron el nivel de auténticas oraciones. Se observa a título de ejemplo que entre ciertas tribus australianas las oraciones religiosas primitivas son anteriores a la creencia en espíritus y personalidades sobrehumanas."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "91:0.4",
       "pageReference": "994.4",
       "sortId": "3.091.000.004",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
-      "markdown": "La tribu que se llama los todas, en la India, observa ahora esta práctica de orar sin dirigir la oración a nadie en particular, así como lo hacían los pueblos primitivos antes de los tiempos de la conciencia religiosa. Pero, entre los todas, esto representa una regresión de su religión, degenerada a este nivel primitivo. Los ritos actuales de los sacerdotes lecheros de los todas no representan una ceremonia religiosa puesto que estas oraciones impersonales no contribuyen nada a la conservación ni al enaltecimiento de los valores sociales, morales o espirituales."
+      "markdown": "A día de hoy en la India la tribu de los toda observa aquella práctica de rezar sin dirigir la oración a nadie en particular, igual que hacían los primeros pueblos antes de la aparición de la consciencia religiosa. Pero en el caso de los toda se trata de una regresión de su religión que ha degenerado hasta su nivel primitivo. Los ritos que practican hoy en día los sacerdotes lecheros de los toda no constituyen una ceremonia religiosa puesto que esas oraciones impersonales no contribuyen en nada a conservar ni elevar los valores sociales, morales o espirituales."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "91:0.5",
       "pageReference": "994.5",
       "sortId": "3.091.000.005",
-      "paperTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
       "sectionTitle": null,
-      "markdown": "La oración prerreligiosa fue parte de las prácticas mana de los melanesios, las creencias oudah de los pigmeos africanos y las supersticiones manitou de los indios norteamericanos. Las tribus baganda de África tan sólo recientemente emergieron del nivel mana de oración. En esta confusión evolucionaria primitiva los hombres oran a los dioses —locales y nacionales— a los fetiches, los amuletos, los fantasmas, los gobernantes y la gente corriente."
+      "markdown": "El rezo prerreligioso fue parte de las prácticas mana de los melanesios, las creencias oudah de los pigmeos africanos y las supersticiones manitú de los indios norteamericanos. Las tribus baganda de África acaban de salir recientemente del nivel mana de oración. En esa confusión evolutiva inicial los hombres rezan a dioses —locales y nacionales— a fetiches, a amuletos, a fantasmas, a gobernantes y a gente corriente."
     },
     {
       "type": "section",
@@ -145,8 +145,8 @@
       "standardReferenceId": "91:1.0",
       "pageReference": null,
       "sortId": "3.091.001.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
       "markdown": null
     },
     {
@@ -163,9 +163,9 @@
       "standardReferenceId": "91:1.1",
       "pageReference": "994.6",
       "sortId": "3.091.001.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "La función de la religión evolucionaria primitiva consiste en conservar y aumentar los valores esenciales sociales, morales y espirituales que están tomando forma lentamente. Esta misión de la religión no es observada conscientemente por la humanidad, sino que se efectúa fundamentalmente mediante la oración. La práctica de orar representa el esfuerzo no intencional, pero sin embargo personal y colectivo, de todo grupo por asegurarse (por realizar) esta conservación de los valores más elevados. Si no fuese por la salvaguardia de la oración, todos los días sagrados retrogradarían rápidamente a la condición de simples feriados."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "La función de la primera religión evolutiva consiste en conservar y aumentar los valores básicos sociales, morales y espirituales que lentamente van tomando forma. La humanidad no se adhiere de manera consciente a esta misión de la religión, que se cumple principalmente mediante la función de la oración. Practicar la oración representa el esfuerzo personal y colectivo, aunque no intencionado, de cualquier grupo por conseguir (por actualizar) esta conservación de los valores superiores. Si no fuera por la salvaguardia de la oración todas las festividades religiosas volverían a convertirse rápidamente en simples días de fiesta."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "91:1.2",
       "pageReference": "995.1",
       "sortId": "3.091.001.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "La religión y sus agencias, la principal de las cuales es la oración, se alían solo con aquellos valores que tienen reconocimiento social general, aprobación del grupo. Por lo tanto, cuando el hombre primitivo intentaba gratificar sus emociones más bajas o satisfacer ambiciones egoístas inmitigadas, perdía el consuelo de la religión y la ayuda de la oración. Si el individuo intentaba realizar algo antisocial, estaba obligado a bus-car ayuda en la magia no religiosa, recurrir a los hechiceros y perder de este modo la ayuda de la oración. La oración, por consiguiente, muy pronto se tornó un elemento poderoso en promover la evolución social, el progreso moral y el logro espiritual."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "La religión y sus agentes, el principal de los cuales es la oración, se alían solo con los valores reconocidos generalmente por la sociedad, aprobados por el grupo. Por eso cuando el hombre primitivo intentaba satisfacer sus emociones más bajas o sus ambiciones puramente egoístas era privado del consuelo de la religión y el socorro de la oración. Si el individuo intentaba llevar a cabo algo antisocial, se veía obligado a apoyarse en la magia no religiosa, a recurrir a los hechiceros y verse así privado de la ayuda de la oración. En consecuencia, la oración se convirtió desde muy pronto en un poderoso promotor de la evolución social, el progreso moral y el logro espiritual."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "91:1.3",
       "pageReference": "995.2",
       "sortId": "3.091.001.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "Pero la mente primitiva no era ni lógica ni coherente. Los hombres primitivos no percibían que las cosas materiales no pertenecían a la provincia de la oración. Estas almas de mente sencilla razonaban que el alimento, el techo, la lluvia, la caza y otros bienes materiales enaltecían el bienestar social, y por lo tanto, comenzaron a orar para obtener estas bendiciones físicas. Aunque esto constituía una perversión de la oración, alentaba el esfuerzo a obtener objetivos materiales mediante acciones sociales y éticas. Tal prostitución de la oración, aunque degradaba los valores espirituales de un pueblo, elevaba, sin embargo, en forma directa sus costumbres económicas, sociales y éticas."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "Pero la mente primitiva no era ni lógica ni coherente. Los primeros hombres no percibían que las cosas materiales no eran competencia de la oración. Esas almas sencillas razonaban que el alimento, el refugio, la lluvia, la caza y demás bienes materiales aumentaban el bienestar social, así que empezaron a rezar por esas bendiciones físicas. Aunque esto en sí constituía una perversión de la oración, alentaba el esfuerzo por alcanzar esos objetivos materiales mediante acciones sociales y éticas. Esta prostitución de la oración, al tiempo que degradaba los valores espirituales de un pueblo, elevaba directamente sus usos y costumbres económicos, sociales y éticos."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "91:1.4",
       "pageReference": "995.3",
       "sortId": "3.091.001.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "La oración es monólogo tan sólo en el tipo más primitivo de mente. Muy pronto se torna diálogo y rápidamente se amplía al nivel de adoración de grupo. La oración significa que las encantaciones premágicas de la religión primitiva han evolucionado a ese nivel en el que la mente humana reconoce la realidad de los poderes o beneficios de los seres que pueden enaltecer los valores sociales y aumentar los ideales morales, y además, que esas influencias son sobrehumanas y distintas del ego humano autoconsciente y de sus semejantes mortales. La verdadera oración no aparece, por consiguiente, hasta que la agencia del ministerio religioso se visualice como *personal.*"
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "Para el tipo de mente más primitivo la oración no es más que un monólogo. Luego se convierte en diálogo y se expande rápidamente hasta el nivel de culto colectivo. La oración significa que los conjuros premágicos de la religión primitiva han evolucionado hasta el nivel donde la mente humana reconoce la realidad de poderes o seres benéficos capaces de realzar los valores sociales y aumentar los ideales morales, y reconoce además que estas influencias son sobrehumanas y distintas del ego del ser humano autoconsciente y sus semejantes mortales. Por lo tanto la verdadera oración no aparece hasta que la acción del ministerio religioso llega a ser considerada como *personal*."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "91:1.5",
       "pageReference": "995.4",
       "sortId": "3.091.001.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "La oración poco se relaciona con el animismo, pero estas creencias pueden existir paralelamente a los sentimientos religiosos surgentes. Muchas veces, la religión y el animismo han tenido orígenes enteramente separados."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "La oración está poco relacionada con el animismo, pero estas creencias pueden coexistir con los sentimientos religiosos emergentes. En muchos casos la religión y el animismo han tenido orígenes completamente distintos."
     },
     {
       "type": "paragraph",
@@ -253,9 +253,9 @@
       "standardReferenceId": "91:1.6",
       "pageReference": "995.5",
       "sortId": "3.091.001.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Primitiva",
-      "markdown": "Para aquellos mortales que no han sido redimidos de la esclavitud primitiva del temor, hay verdadero peligro de que la oración pueda conducir a un sentido morboso del pecado, convicciones no justificadas de culpa, reales o imaginarias. Pero en los tiempos modernos no es probable que muchos pasen tanto tiempo orando como para llegar a preocuparse peligrosamente por su falta de valor o sus tendencias pecaminosas. Los peligros que se relacionan a la distorsión y a la perversión de la oración estriban en la ignorancia, la superstición, la cristalización, la desvitalización, el materialismo y el fanatismo."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración primitiva",
+      "markdown": "Para los mortales que no han sido liberados de la esclavitud primitiva del miedo existe el peligro real de que todas las oraciones conduzcan a una sensación morbosa de pecado, a convicciones injustificadas de culpa real o imaginaria. En cambio en los tiempos modernos es poco probable que muchos dediquen tanto tiempo a la oración como para caer en esa obsesión dañina de sentirse indignos o pecadores. Los peligros asociados a la distorsión y el mal uso de la oración se traducen en ignorancia, superstición, cristalización, desvitalización, materialismo y fanatismo."
     },
     {
       "type": "section",
@@ -271,8 +271,8 @@
       "standardReferenceId": "91:2.0",
       "pageReference": null,
       "sortId": "3.091.002.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
       "markdown": null
     },
     {
@@ -289,9 +289,9 @@
       "standardReferenceId": "91:2.1",
       "pageReference": "995.6",
       "sortId": "3.091.002.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "Las primeras oraciones fueron simplemente deseos verbalizados, la expresión de deseos sinceros. Luego la oración se volvió una técnica para obtener la cooperación de los espíritus. Finalmente llegó a la función más elevada de asistir a la religión en la conservación de todos los valores nobles."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Las primeras oraciones fueron simplemente deseos verbalizados, anhelos sinceros expresados en palabras. La oración se convirtió después en un método de conseguir la cooperación de los espíritus, y alcanzó posteriormente la función superior de ayudar a la religión a conservar todos los valores dignos de salvaguardia."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "91:2.2",
       "pageReference": "995.7",
       "sortId": "3.091.002.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "Tanto la oración como la magia surgieron como resultado de las reacciones de adaptación del hombre al medio ambiente urantiano. Sin embargo aparte de esta relación generalizada, tienen poco en común. La oración siempre ha indicado una acción positiva del ego que está orando. Siempre ha sido psíquica y a veces espiritual. La magia ha usualmente significado un intento de manipular la realidad sin afectar al ego del manipulador, el practicante de la magia. A pesar de sus orígenes independientes, la magia y la oración se han interrelacionado frecuentemente en sus etapas más recientes de desarrollo. La magia ha ascendido a veces mediante la elevación de sus objetivos desde las fórmulas, a través de los ritos y encantamientos, hasta el umbral de la verdadera oración. La oración en ocasiones se ha vuelto tan materialista que ha degenerado en una técnica seudomágica de evitar el gasto de ese esfuerzo que se requiere para la solución de los problemas urantianos."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Tanto la oración como la magia surgieron como consecuencia de las reacciones humanas de adaptación al entorno urantiano, pero aparte de esta relación general tienen muy poco en común. La oración ha denotado siempre una acción positiva por parte del ego orante; ha sido siempre psíquica y a veces espiritual. La magia ha supuesto generalmente un intento de manipular la realidad sin afectar al ego del manipulador, el practicante de la magia. A pesar de sus orígenes independientes, la magia y la oración se han interrelacionado con frecuencia en sus etapas posteriores de desarrollo. Unas veces la magia ha elevado sus metas y ha ascendido desde las fórmulas, pasando por los ritos y los conjuros, hasta el umbral de la verdadera oración. Otras veces la oración se ha vuelto tan materialista que ha degenerado en un procedimiento pseudomágico de ahorrarse el esfuerzo requerido para resolver los problemas urantianos."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "91:2.3",
       "pageReference": "996.1",
       "sortId": "3.091.002.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "Cuando el hombre aprendió que la oración no fuerza a los dioses, ésta se volvió más una solicitud, una búsqueda de favor. Pero la oración más verdadera es en realidad una comunión entre el hombre y su Hacedor."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Cuando el hombre comprendió que la oración no tiene poder de coerción sobre los dioses, la convirtió en petición, en una búsqueda de favores. Pero la oración más verdadera es en realidad una comunión entre el hombre y su Hacedor."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "91:2.4",
       "pageReference": "996.2",
       "sortId": "3.091.002.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "La aparición de la idea del sacrificio en cualquier religión disminuye infaliblemente la mayor eficacia de la verdadera oración en cuanto los hombres buscan sustituir las ofrendas de posesiones materiales por la ofrenda de sus propias voluntades consagradas a hacer la voluntad de Dios."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "La aparición del concepto de sacrificio en cualquier religión reduce inevitablemente la eficacia superior de la verdadera oración en cuanto los hombres buscan sustituir la ofrenda de sus propias voluntades consagradas a hacer la voluntad de Dios por ofrendas de bienes materiales."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "91:2.5",
       "pageReference": "996.3",
       "sortId": "3.091.002.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "Cuando la religión se despoja de un Dios personal, sus oraciones se traducen en niveles de teología y filosofía. Cuando el concepto más elevado de Dios de una religión es el de una deidad impersonal, tal como ocurre en el idealismo panteístico, aunque éste permita cierta base para ciertas formas de comunión mística, destruye el poder de la verdadera oración, que siempre simboliza la comunión del hombre con un ser personal y superior."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Cuando la religión es despojada de un Dios personal, sus oraciones se trasladan a los niveles de la teología y la filosofía. Cuando en una religión el concepto más alto de Dios es el de una deidad impersonal como ocurre en el idealismo panteísta, aunque proporciona la base para ciertas formas de comunión mística, destruye el poder de la verdadera oración, que significa siempre una comunión del hombre con un ser personal y superior."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "91:2.6",
       "pageReference": "996.4",
       "sortId": "3.091.002.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "Durante los tiempos más primitivos de la evolución racial y aun en el tiempo presente, en la experiencia diaria del mortal común, la oración es en gran medida un fenómeno de la conversación del hombre con su propio subconsciente. Pero también existe un dominio de la oración en el que el individuo intelectualmente alerta y espiritualmente progresista logra un mayor o menor contacto con los niveles superconscientes de la mente humana, el dominio del Ajustador del Pensamiento residente. Además hay una fase espiritual definida de la verdadera oración que se refiere a su recepción y reconocimiento por parte de las fuerzas espirituales del universo, y que es enteramente distinta de toda asociación humana e intelectual."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Durante los primeros tiempos de la evolución racial e incluso en el momento presente, la oración, en la experiencia cotidiana del mortal medio, es en gran medida un fenómeno de relación del hombre con su propio subconsciente. Pero existe también un ámbito de la oración donde la persona intelectualmente alerta y espiritualmente progresiva logra un contacto mayor o menor con los niveles superconscientes de la mente humana; es el ámbito del Ajustador del Pensamiento que mora en su interior. Además la verdadera oración tiene un claro aspecto espiritual relacionado con su recepción y reconocimiento por parte de las fuerzas espirituales del universo; este aspecto está diferenciado por completo de toda vinculación humana e intelectual."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "91:2.7",
       "pageReference": "996.5",
       "sortId": "3.091.002.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "La oración contribuye en gran medida al desarrollo del sentimiento religioso de una mente humana en evolución. Es una influencia poderosa que actúa para prevenir el aislamiento de la personalidad."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "La oración contribuye mucho a desarrollar el sentimiento religioso de la mente humana en vías de evolución. Ejerce una poderosa influencia para impedir el aislamiento de la personalidad."
     },
     {
       "type": "paragraph",
@@ -415,9 +415,9 @@
       "standardReferenceId": "91:2.8",
       "pageReference": "996.6",
       "sortId": "3.091.002.008",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Evolución de la Oración",
-      "markdown": "La oración representa una técnica asociada con las religiones naturales de la evolución racial que también forma parte de los valores experienciales de las religiones más elevadas de excelencia ética, las religiones de revelación."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La evolución de la oración",
+      "markdown": "Además de ser uno de los procedimientos asociados a las religiones naturales de la evolución racial, la oración forma parte de los valores experienciales de las religiones superiores caracterizadas por la excelencia ética, las religiones de revelación."
     },
     {
       "type": "section",
@@ -433,8 +433,8 @@
       "standardReferenceId": "91:3.0",
       "pageReference": null,
       "sortId": "3.091.003.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
       "markdown": null
     },
     {
@@ -451,9 +451,9 @@
       "standardReferenceId": "91:3.1",
       "pageReference": "996.7",
       "sortId": "3.091.003.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "Los niños cuando comienzan a aprender a usar el idioma, tienen tendencia a pensar en voz alta, expresar sus pensamientos en palabras, aunque no haya nadie presente para oírles. En los albores de la imaginación creadora manifiestan una tendencia a conversar con compañeros imaginarios. De esta manera, un yo en formación busca comunicarse con un *otro yo* ficticio. Mediante esta técnica el niño aprende muy pronto a convertir sus conversaciones de monólogo en seudodiálogo, en los que este otro yo responde a su pensamiento oral y expresión de deseo. Mucho del pensamiento del adulto se lleva a cabo mentalmente en forma de conversación."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "Cuando los niños empiezan a aprender a utilizar el lenguaje tienden a pensar en voz alta, a expresar sus pensamientos en palabras aunque no haya nadie que los escuche. En los albores de su imaginación creativa tienen tendencia a conversar con compañeros imaginarios. El yo en ciernes intenta así comunicarse con *otro yo* ficticio. El niño aprende enseguida por este sistema a convertir sus monólogos en pseudodiálogos en los que este otro yo responde a sus pensamientos verbales y a la expresión de sus deseos. Gran parte del pensamiento del adulto se lleva a cabo en forma de conversación mental."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "91:3.2",
       "pageReference": "996.8",
       "sortId": "3.091.003.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "La forma temprana y primitiva de oración se parecía mucho a las recitaciones semimágicas de la tribu de los todas de hoy en día, oraciones que no se dirigían a nadie en particular. Pero dichas técnicas de oración tienden a evolucionar en un tipo de diálogo de comunicación mediante la aparición de la idea del otro yo. Con el tiempo, el concepto del otro yo se enaltece a una posición superior de dignidad divina y la oración como agencia de la religión hace su aparición. A través de muchas fases y durante largas edades este tipo primitivo de oración está destinado a evolucionar antes de lograr el nivel de oración inteligente y verdaderamente ética."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "La forma primera y primitiva de oración era muy parecida a los recitados semimágicos practicados hoy en día por la tribu de los toda, oraciones que no iban dirigidas a nadie en particular. Con la aparición de la idea de otro yo, esos sistemas de oración tienden a transformarse en una comunicación de tipo dialogado. Más adelante el concepto de otro yo es exaltado a un estatus superior de dignidad divina, y entonces aparece la oración como agente de la religión. Este tipo primitivo de oración está destinado a evolucionar a través de muchas fases durante largos siglos hasta alcanzar el nivel de la oración inteligente y verdaderamente ética."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "91:3.3",
       "pageReference": "997.1",
       "sortId": "3.091.003.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "Como es concebido por sucesivas generaciones de mortales que oran, el otro yo evoluciona desde los fantasmas, fetiches y espíritus a los dioses politeísticos, y finalmente al Dios Único, un ser divino que comprende los más altos ideales y las más elevadas aspiraciones del yo en oración. De este modo, la oración funciona como la agencia más poderosa de la religión en la conservación de los valores e ideales más altos de aquellos que oran. Desde el momento de la concepción del otro yo hasta la aparición del concepto de un Padre divino y celestial, la oración es siempre una práctica socializadora, moralizadora y espiritualizadora."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "El otro yo, tal como lo conciben las generaciones sucesivas de mortales que rezan, evoluciona desde los fantasmas, los fetiches y los espíritus hasta los dioses politeístas y finalmente hasta el Dios Único, un ser divino que encarna los ideales más altos y las aspiraciones más nobles del yo orante. Y así la oración se convierte en el agente de la religión que más contribuye a conservar los valores e ideales superiores de las personas que rezan. Desde el momento en que el hombre concibe otro yo hasta que aparece el concepto de un Padre divino y celestial, la oración es siempre una práctica socializadora, moralizadora y espiritualizadora."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "91:3.4",
       "pageReference": "997.2",
       "sortId": "3.091.003.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "La simple oración de fe evidencia una evolución poderosa en la experiencia humana por la cual las conversaciones antiguas con el símbolo ficticio del otro yo de la religión primitiva se han enaltecido al nivel de la comunión con el espíritu del Infinito y al de la auténtica conciencia de la realidad del Dios eterno y Padre Paradisiaco de toda la creación inteligente."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "La oración simple de fe pone de manifiesto una poderosa evolución en la experiencia humana mediante la cual las antiguas conversaciones de la religión primitiva con el símbolo ficticio del otro yo se han exaltado hasta el nivel de la comunión con el espíritu del Infinito y de una consciencia auténtica de la realidad del Dios eterno, el Padre del Paraíso de toda la creación inteligente."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "91:3.5",
       "pageReference": "997.3",
       "sortId": "3.091.003.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "Aparte de todo lo que es superyo en la experiencia de orar, debe recordarse que la oración ética es una forma espléndida de elevar al propio yo y reforzar al ego para una mejor vida y un logro más elevado. La oración induce al ego humano a mirar a los dos lados para conseguir ayuda: ayuda material de la reserva subconsciente de experiencia mortal, inspiración y guía a los límites superconscientes de contacto de lo material con lo espiritual, con el Monitor Misterioso."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "Dejando aparte todo lo relacionado con el superyó en la experiencia de rezar, conviene tener presente que la oración ética es una forma espléndida de elevar el ego y reforzar el yo para un vivir mejor y un logro más alto. La oración induce al ego humano a buscar ayuda en estas dos direcciones: auxilio material en el depósito subconsciente de la experiencia mortal; inspiración y guía en las fronteras superconscientes del contacto de lo material con lo espiritual, con el Monitor de Misterio."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "91:3.6",
       "pageReference": "997.4",
       "sortId": "3.091.003.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "La oración siempre ha sido y siempre será una experiencia humana doble: un procedimiento psicológico interasociado con una técnica espiritual. Estas dos funciones de la oración no pueden ser nunca completamente separadas."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "La oración ha sido y será siempre una experiencia humana doble: un procedimiento psicológico asociado a una técnica espiritual. Y estas dos funciones de la oración no se pueden nunca separar por completo."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "91:3.7",
       "pageReference": "997.5",
       "sortId": "3.091.003.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración y el Otro Yo",
-      "markdown": "La oración esclarecida debe reconocer no sólo a un Dios externo y personal sino también a una Divinidad interna e impersonal, el Ajustador residente. Corresponde al hombre, cuando ora, intentar captar el concepto del Padre Universal en el Paraíso, pero la técnica más eficaz para la mayor parte de los fines prácticos será volver al concepto del otro yo cercano, tal como solía hacerlo la mente primitiva, y luego reconocer que la idea de este otro yo ha evolucionado de una mera ficción a la verdad de que Dios reside en el hombre mortal en la presencia factual del Ajustador para que el hombre pueda hablar cara a cara, por así decirlo, con un otro yo real y genuino y divino que reside en él y que es la presencia y esencia misma del Dios vivo, el Padre Universal."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración y el otro yo",
+      "markdown": "Una oración esclarecida no solo debe reconocer a un Dios externo y personal, sino también a una Divinidad interna e impersonal, el Ajustador que mora en el interior. Cuando el hombre reza es muy conveniente que se esfuerce por captar el concepto del Padre Universal que está el Paraíso, pero el procedimiento más efectivo a casi todos los efectos prácticos consistirá en volver al concepto del otro yo cercano como solía hacer la mente primitiva y reconocer luego que la idea de este otro yo ha evolucionado desde una mera ficción hasta la verdad de que Dios mora dentro del hombre mortal en la presencia factual del Ajustador, de manera que el hombre puede hablar cara a cara, por así decirlo, con un auténtico otro yo real y divino que mora en su interior y que es la presencia y la esencia misma del Dios vivo, del Padre Universal."
     },
     {
       "type": "section",
@@ -577,8 +577,8 @@
       "standardReferenceId": "91:4.0",
       "pageReference": null,
       "sortId": "3.091.004.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
       "markdown": null
     },
     {
@@ -595,9 +595,9 @@
       "standardReferenceId": "91:4.1",
       "pageReference": "997.6",
       "sortId": "3.091.004.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
-      "markdown": "Ninguna oración puede ser ética cuando el que solicita busca la ventaja egoísta por sobre los intereses de sus semejantes. La oración egoísta y materialista es incompatible con las religiones éticas que se predican sobre la base del amor altruista y divino. Toda oración no ética revierte a los niveles primitivos de la seudomagia y es inmerecedora de las civilizaciones en avance y de las religiones esclarecidas. La oración egoísta transgrede el espíritu de toda ética fundada en una justicia amante."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
+      "markdown": "Ninguna oración puede ser ética cuando el solicitante busca una ventaja egoísta sobre sus semejantes. El rezo egoísta y materialista es incompatible con las religiones éticas que están basadas en el amor desinteresado y divino. Todo ese rezo no ético revierte a los niveles primitivos de la pseudomagia y es indigno de las civilizaciones que progresan y de las religiones esclarecidas. El rezo egoísta transgrede el espíritu de toda ética fundada en una justicia amorosa."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "91:4.2",
       "pageReference": "997.7",
       "sortId": "3.091.004.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
-      "markdown": "La oración no debe prostituirse nunca tanto hasta el punto de volverse un sustituto de la acción. Toda oración ética es un estímulo a la acción y la guía a la lucha progresiva por obtener los fines idealistas del logro del superyo."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
+      "markdown": "La oración no debe nunca prostituirse hasta el punto de convertirse en sustituto de la acción. Toda oración ética es un estímulo para la acción y una guía en la lucha progresiva por las metas idealistas de logro del superyó."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "91:4.3",
       "pageReference": "998.1",
       "sortId": "3.091.004.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
-      "markdown": "En todas tus oraciones, sé *justo;* no esperes que Dios muestre parcialidad, que te ame más que a sus otros hijos, tus amigos, vecinos, aun tus enemigos. Pero la oración de las religiones naturales o evolucionadas no es al principio ética, como lo es en las religiones reveladas más recientes. Toda oración, sea ésta individual o comunal, puede ser o egoísta o altruista. Es decir que la oración puede centrarse en el yo o en los demás. Cuando la oración no busca nada para el que ora ni para sus semejantes, esta actitud del alma tiende hacia los niveles de la verdadera adoración. Las oraciones egoístas comprenden confesiones y solicitudes y frecuentemente consisten en demandas de favores materiales. La oración es un poco más ética cuando comprende el perdón y busca la sabiduría para llegar a un mayor autocontrol."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
+      "markdown": "En todos vuestros rezos sed *equitativos*. No esperéis que Dios muestre parcialidad, que os ame más que a sus otros hijos: vuestros amigos, vuestros vecinos, incluso vuestros enemigos. Pero la oración de las religiones naturales o evolucionadas no empieza siendo ética como la de las religiones reveladas posteriores. Todo rezo, sea individual o colectivo, puede ser egoísta o altruista, es decir que la oración puede centrarse en el yo o en los demás. Cuando la oración no busca nada para el que reza ni para sus compañeros se generan en el alma actitudes que tienden hacia los niveles de la verdadera adoración. Las oraciones egoístas implican confesiones y peticiones, y consisten muchas veces en pedir favores materiales. La oración es algo más ética cuando trata del perdón y busca sabiduría para mejorar el autocontrol."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "91:4.4",
       "pageReference": "998.2",
       "sortId": "3.091.004.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
-      "markdown": "La oración de tipo altruista fortalece y consuela, la oración materialista está destinada a atraer desilusión y desencanto a medida que los descubrimientos de la ciencia en avance demuestran que el hombre vive en un universo físico de ley y orden. La infancia de un individuo o de una raza se caracteriza por la oración primitiva, egoísta y materialista. Y, hasta cierto punto, todas estas solicitudes son eficaces en cuanto conducen invariablemente a aquellos esfuerzos y ejercicios que contribuyen a la obtención de respuestas con estas oraciones. La verdadera oración de fe siempre contribuye al mejoramiento de la técnica del vivir, aun cuando las solicitudes no sean merecedoras del reconocimiento espiritual. Pero la persona espiritualmente adelantada debe ejercer gran cuidado al intentar desalentar a la mente primitiva o inmadura respecto de tales oraciones."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
+      "markdown": "Mientras que la oración de tipo no egoísta fortalece y conforta, el rezo materialista está abocado a la decepción y la desilusión a medida que el progreso de los descubrimientos científicos demuestre que el hombre vive en un universo físico de ley y orden. La infancia de un individuo o de una raza se caracteriza por un rezo primitivo, egoísta y materialista. Todas esas peticiones son eficaces en cierta medida, pues conducen invariablemente a los esfuerzos y trabajos que contribuyen a obtener las respuestas a dichas oraciones. La oración real de fe contribuye siempre a mejorar la manera de vivir incluso cuando sus peticiones no son dignas de reconocimiento espiritual. Las personas espiritualmente avanzadas deben obrar con gran cautela cuando intentan disuadir de este tipo de oraciones a las mentes primitivas o inmaduras."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "91:4.5",
       "pageReference": "998.3",
       "sortId": "3.091.004.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración Ética",
-      "markdown": "Recordad, aunque la oración no cambia a Dios, muy frecuentemente efectúa cambios grandes y duraderos en el que ora con fe y confianza. La oración ha sido el antepasado de mucha paz mental, alegría, calma, valor, autodominio y justicia entre los hombres y las mujeres de las razas en evolución."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración ética",
+      "markdown": "No olvidéis que aunque la oración no cambia a Dios, produce muchas veces grandes cambios duraderos en la persona que reza con fe y confianza. La oración ha engendrado mucha paz mental, alegría, calma, valor, autodominio y ecuanimidad en los hombres y mujeres de las razas en vías de evolución."
     },
     {
       "type": "section",
@@ -685,8 +685,8 @@
       "standardReferenceId": "91:5.0",
       "pageReference": null,
       "sortId": "3.091.005.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
       "markdown": null
     },
     {
@@ -703,9 +703,9 @@
       "standardReferenceId": "91:5.1",
       "pageReference": "998.4",
       "sortId": "3.091.005.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "En la adoración a los antepasados, la oración lleva al cultivo de los ideales ancestrales. Pero la oración, como rasgo de la adoración a la Deidad, trasciende todas estas prácticas puesto que conduce al cultivo de los ideales divinos. A medida que el concepto del otro yo de la oración se torna supremo y divino, del mismo modo los ideales del hombre son elevados desde lo meramente humano hacia niveles excelsos y divinos, y el resultado de toda oración de este tipo es el enaltecimiento del carácter humano y la profunda unificación de la personalidad humana."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "En el culto a los antepasados la oración conduce a cultivar ideales ancestrales. Pero cuando la oración forma parte del culto a la Deidad trasciende a todo ese tipo de prácticas, pues conduce a cultivar ideales divinos. A medida que el concepto del otro yo de la oración se convierte en supremo y divino, los ideales del hombre se elevan desde lo meramente humano hacia niveles supernos y divinos, y el resultado de este tipo de oración es la mejora del carácter humano y la unificación profunda de la personalidad humana."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "91:5.2",
       "pageReference": "998.5",
       "sortId": "3.091.005.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "Pero no es necesario que la oración sea siempre individual. El orar en grupo o en congregación es muy eficaz en cuanto tiene repercusiones altamente socializadoras. Cuando un grupo se dedica a la oración comunitaria para el enaltecimiento moral y la elevación espiritual, estas devociones son reactivas sobre los individuos que componen al grupo; todos ellos se vuelven mejores gracias a esta participación. Aun una ciudad entera o una entera nación puede ser ayudada por tales devociones de oración. La confesión, el arrepentimiento y la oración han conducido a individuos, ciudades y naciones y razas enteras a enormes esfuerzos de reforma y valerosos actos de logro valiente."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "Pero la oración no tiene por qué ser siempre individual. El rezo en grupo o en congregación es muy efectivo porque sus repercusiones son sumamente socializadoras. Cuando un grupo se dedica a rezar en común por el mejoramiento moral y la elevación espiritual, esas devociones tienen efecto sobre los individuos que componen el grupo: todos se vuelven mejores por el hecho de participar. Esas oraciones devocionales pueden incluso ayudar a una ciudad entera o a toda una nación. La confesión, el arrepentimiento y la oración han inducido a individuos, ciudades, naciones y razas enteras a realizar poderosos esfuerzos de reforma y valerosas acciones de logro."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "91:5.3",
       "pageReference": "998.6",
       "sortId": "3.091.005.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "Si deseas verdaderamente sobreponerte a la costumbre de criticar a un amigo, la forma más rápida y segura de alcanzar este cambio de actitud consiste en establecer el hábito de orar por esa persona cada día de tu vida. Pero las repercusiones sociales de dichas oraciones dependen en su mayor parte de dos condiciones:"
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "Si deseáis de veras superar la mala costumbre de criticar a algún amigo, la manera más rápida y segura de lograrlo es adoptar la costumbre de rezar por esa persona todos los días de vuestra vida. Pero las repercusiones sociales de esas oraciones dependen mucho de dos condiciones:"
     },
     {
       "type": "paragraph",
@@ -757,9 +757,9 @@
       "standardReferenceId": "91:5.4",
       "pageReference": "998.7",
       "sortId": "3.091.005.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "1. La persona por la cual se ora debe saber que se está orando por ella."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "1. La persona por la que se reza debe saber que se está rezando por ella."
     },
     {
       "type": "paragraph",
@@ -775,9 +775,9 @@
       "standardReferenceId": "91:5.5",
       "pageReference": "999.1",
       "sortId": "3.091.005.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "2. La persona que ora debe tener una relación social íntima con la persona por quien está orando."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "2. La persona que reza debe entrar en contacto social íntimo con la persona por la que está rezando."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "91:5.6",
       "pageReference": "999.2",
       "sortId": "3.091.005.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "La oración es la técnica por la cual, más pronto o más tarde, toda religión se torna institucionalizada. Y con el tiempo, la oración se asocia con numerosas agencias secundarias, algunas útiles, otras decididamente deletéreas, tales como los sacerdotes, los libros sagrados, los ritos de adoración y las ceremonias."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "La oración es el procedimiento mediante el cual toda religión se institucionaliza antes o después. Con el tiempo la oración se asocia con numerosos agentes secundarios, unos útiles y otros claramente nocivos, como sacerdotes, libros sagrados, ritos de culto y ceremonias."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "91:5.7",
       "pageReference": "999.3",
       "sortId": "3.091.005.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Repercusiones Sociales de la Oración",
-      "markdown": "Pero la mente de mayor esclarecimiento espiritual debe ser paciente y tolerante de los intelectos menos dotados que desean el simbolismo para movilizar su débil visión espiritual. Los fuertes no deben mirar con desprecio a los débiles. Aquellos que tienen conciencia de Dios sin simbolismo no deben negar el ministerio gracioso del símbolo a aquellos que encuentran difícil adorar a la Deidad y reverenciar la verdad, la belleza y la bondad sin forma ni rito. En la adoración orante, la mayor parte de los mortales visualizan un símbolo del objeto-meta de sus devociones."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las repercusiones sociales de la oración",
+      "markdown": "Las mentes con mayor iluminación espiritual deberían ser pacientes y tolerantes con aquellos intelectos menos dotados que necesitan un simbolismo para movilizar su débil visión interior espiritual. Los fuertes no deben mirar con desdén a los débiles. Quienes son conscientes de Dios sin necesidad de símbolos no deben negar el ministerio de gracia de los símbolos a aquellos que encuentran difícil adorar a la Deidad y venerar la verdad, la belleza y la bondad sin formas ni ritos. En la adoración orante la mayoría de los mortales imaginan algún símbolo del objeto-meta de sus devociones."
     },
     {
       "type": "section",
@@ -829,8 +829,8 @@
       "standardReferenceId": "91:6.0",
       "pageReference": null,
       "sortId": "3.091.006.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
       "markdown": null
     },
     {
@@ -847,9 +847,9 @@
       "standardReferenceId": "91:6.1",
       "pageReference": "999.4",
       "sortId": "3.091.006.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "La oración, a menos que esté vinculada con la voluntad y las acciones de las fuerzas personales espirituales y de los supervisores materiales del reino, no puede tener efecto directo sobre el medio ambiente físico. Aunque existe un límite muy definido de la jurisdicción de las solicitudes de la oración, este límite no se aplica en forma equivalente a *la fe* de aquellos que oran."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "La oración, a menos que esté coordinada con la voluntad y las acciones de las fuerzas espirituales personales y de los supervisores materiales de un mundo, no puede tener ningún efecto directo sobre el entorno físico de la persona. Aunque el ámbito de las peticiones de la oración tiene un límite muy bien definido, esas limitaciones no se aplican del mismo modo a la *fe* de los que rezan."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "91:6.2",
       "pageReference": "999.5",
       "sortId": "3.091.006.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "La oración no es una técnica para curar males reales y orgánicos, pero ha contribuido enormemente al disfrute de abundante salud y a la cura de numerosos sufrimientos mentales, emocionales y nerviosos. Aun en el caso de verdaderas enfermedades bacterianas, la oración muchas veces ha contribuido a la eficacia de otros procedimientos de curación. La oración ha transformado a muchos inválidos irritables y quejumbrosos en un ejemplo de paciencia, una inspiración para todos los demás humanos sufrientes."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "La oración no es un método para curar enfermedades orgánicas reales, pero ha contribuido enormemente al disfrute de una buena salud y a la cura de numerosas dolencias mentales, emocionales y nerviosas. E incluso en las enfermedades bacterianas propiamente dichas, la oración ha aumentado muchas veces la eficacia de otros tratamientos. La oración ha transformado a muchos inválidos irritables y descontentos en dechados de paciencia y los ha convertido en inspiración para todos los demás humanos que sufren."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "91:6.3",
       "pageReference": "999.6",
       "sortId": "3.091.006.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "Aunque resulte muy difícil reconciliar las dudas científicas sobre la eficacia de la oración con el impulso siempre presente de buscar ayuda y guía de las fuentes divinas, no olvidéis jamás que la oración de fe sincera es una fuerza poderosa para la promoción de la felicidad personal, del autocontrol individual, de la armonía social, del progreso moral y del logro espiritual."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "Por difícil que pueda ser conciliar las dudas científicas sobre la eficacia de la oración con el impulso siempre presente de buscar ayuda y guía en fuentes divinas, no olvidéis nunca que la oración sincera de fe es una fuerza poderosa para promover la felicidad personal, el autocontrol individual, la armonía social, el progreso moral y el logro espiritual."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "91:6.4",
       "pageReference": "999.7",
       "sortId": "3.091.006.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "La oración, aun como práctica puramente humana, un diálogo con el propio otro yo, constituye una técnica del acercamiento más eficiente a la realización de aquellos poderes de reserva de la naturaleza humana que están almacenados y conservados en los dominios inconscientes de la mente humana. La oración es una práctica psicológica sana, aparte de sus implicaciones religiosas y de su significación espiritual. Es un hecho de la existencia humana que la mayoría de las personas, si las circunstancias los apremian bastante, oran de alguna manera ante alguna fuente de ayuda."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "La oración, incluso como práctica puramente humana, como diálogo con nuestro otro yo, es un método para hacer realidad del modo más eficiente los poderes de reserva que la naturaleza humana tiene almacenados y conservados en los dominios inconscientes de la mente humana. La oración es una práctica psicológica muy sana con independencia de sus implicaciones religiosas y su importancia espiritual. Está comprobado en la experiencia humana que en caso de verdadero apuro la mayoría de las personas acaban rezando de alguna forma a alguna fuente de ayuda."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "91:6.5",
       "pageReference": "999.8",
       "sortId": "3.091.006.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "No seas tan perezoso como para pedir a Dios que solucione tus dificultades, pero no vaciles jamás en pedirle sabiduría y fuerza espiritual para guiarte y sostenerte mientras atacas con resolución y valor los problemas que te enfrentan."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "No caigáis en la holgazanería de pedir a Dios que solucione vuestras dificultades, pero tampoco dudéis nunca en pedirle sabiduría y fuerza espiritual para guiaros y sosteneros mientras vosotros mismos afrontáis resuelta y valerosamente vuestros problemas."
     },
     {
       "type": "paragraph",
@@ -937,9 +937,9 @@
       "standardReferenceId": "91:6.6",
       "pageReference": "999.9",
       "sortId": "3.091.006.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "La oración ha sido un factor indispensable en el progreso y la preservación de la civilización religiosa, y aún contribuye poderosamente al enaltecimiento ulterior y la espiritualización de la sociedad si los que oran lo hacen a la luz de los hechos científicos, la sabiduría filosófica, la sinceridad intelectual y la fe espiritual. Orad tal como Jesús enseñó a sus discípulos: honesta y altruísticamente, con justicia y sin dudar."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "La oración ha sido un factor indispensable en el progreso y conservación de la civilización religiosa, y puede aún contribuir poderosamente a realzar y espiritualizar la sociedad si los que rezan lo hacen a la luz de los hechos científicos, la sabiduría filosófica, la sinceridad intelectual y la fe espiritual. Rezad como Jesús enseñó a sus discípulos: honesta, imparcial, desinteresadamente y sin dudar."
     },
     {
       "type": "paragraph",
@@ -955,9 +955,9 @@
       "standardReferenceId": "91:6.7",
       "pageReference": "1000.1",
       "sortId": "3.091.006.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Esfera de Acción de la Oración",
-      "markdown": "Pero la eficacia de la oración en la experiencia espiritual personal del que ora no depende de ninguna manera de la comprensión intelectual del adorador, de su agudeza filosófica, de su nivel social, de su posición cultural, ni de otros atributos mortales. Los concomitantes psicológicos y espirituales de la oración de fe son inmediatos, personales y experienciales. No existe ninguna otra técnica por la cual todo hombre, sean cuales fueran sus otros logros mortales, pueda tan eficaz e inmediatamente acercarse al umbral de ese reino en el que puede comunicarse con su Hacedor, en el que la criatura se pone en contacto con la realidad del Creador, con el Ajustador del Pensamiento residente."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La esfera de acción de la oración",
+      "markdown": "Pero la eficacia de la oración en la experiencia espiritual de la persona que reza no depende en modo alguno de la comprensión intelectual del orante, de su agudeza filosófica, de su nivel social, de su estatus cultural ni de sus otras consecuciones como mortal. Las concomitancias psíquicas y espirituales de la oración de fe son inmediatas, personales y experienciales. No existe ningún otro procedimiento por el cual todo hombre, sean cuales fueren sus demás logros como mortal, pueda acercarse de forma tan directa y efectiva al umbral de ese ámbito en el que puede comunicarse con su Hacedor, donde la criatura toma contacto con la realidad del Creador, con el Ajustador del Pensamiento que mora en su interior."
     },
     {
       "type": "section",
@@ -973,8 +973,8 @@
       "standardReferenceId": "91:7.0",
       "pageReference": null,
       "sortId": "3.091.007.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
       "markdown": null
     },
     {
@@ -991,9 +991,9 @@
       "standardReferenceId": "91:7.1",
       "pageReference": "1000.2",
       "sortId": "3.091.007.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "El misticismo, como técnica para cultivar la conciencia de la presencia de Dios, es en general merecedor de alabanzas, pero cuando dichas prácticas conducen al aislamiento social y culminan en el fanatismo religioso, son censurables. Demasiado frecuentemente lo que el místico sobreexcitado evalúa como inspiración divina es la sublevación de su propia mente profunda. El contacto de la mente mortal con su Ajustador residente, aunque frecuentemente favorecido por la meditación devota, es más frecuentemente facilitado por el servicio amante de todo corazón en el ministerio altruista de los semejantes."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "El misticismo como método para cultivar la consciencia de la presencia de Dios es muy digno de elogio, pero cuando su práctica conduce al aislamiento social y culmina en el fanatismo religioso, es claramente censurable. Demasiadas veces lo que el místico sobreexcitado interpreta como inspiración divina no son más que afloramientos de las profundidades de su propia mente. Es cierto que la meditación devota favorece a menudo el contacto de la mente mortal con el Ajustador que mora en su interior, pero la dedicación entusiasta y amorosa al servicio desinteresado de nuestros semejantes lo facilita mucho más."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "91:7.2",
       "pageReference": "1000.3",
       "sortId": "3.091.007.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "Los grandes maestros religiosos y los profetas de edades pasadas no eran místicos extremistas. Eran hombres y mujeres que conocían a Dios y que mejor servían a su Dios por el servicio altruista a sus semejantes. Jesús frecuentemente se llevaba a los apóstoles consigo por cortos períodos para dedicarse a la meditación y a la oración, pero en general los mantenía en contacto y servicio de las multitudes. El alma del hombre requiere el ejercicio espiritual así como también el alimento espiritual."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "Los grandes maestros religiosos y los profetas de tiempos pasados no eran personas extremadamente místicas. Eran hombres y mujeres conocedores de Dios que servían a su Dios de la mejor manera posible mediante el ministerio desinteresado a sus semejantes. Jesús solía retirarse a solas con sus apóstoles durante periodos cortos para dedicarse a la oración y a la meditación, pero la mayor parte del tiempo los mantenía en contacto con las multitudes y al servicio de la gente. El alma humana necesita ejercicio espiritual además de alimento espiritual."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "91:7.3",
       "pageReference": "1000.4",
       "sortId": "3.091.007.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "El éxtasis religioso es permisible cuando resulta de antecedentes sanos, pero estas experiencias son más frecuentemente consecuencia de influencias puramente emocionales más bien que manifestaciones de un carácter espiritual profundo. Las personas religiosas no deben considerar todo presentimiento psicológico vívido y toda experiencia emocional intensa como una revelación divina ni como una comunicación espiritual. El éxtasis espiritual genuino generalmente se asocia con una gran calma exterior y con un control emocional casi perfecto. Pero la verdadera visión profética es un presentimiento super-psicológico. Estas visitaciones no son seudoalucinaciones, ni tampoco éxtasis del tipo del trance."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "El éxtasis religioso es admisible cuando resulta de antecedentes sensatos, pero esas experiencias suelen ser más veces producto de influencias puramente emocionales que manifestaciones de un carácter profundamente espiritual. Las personas religiosas no deben interpretar cada presentimiento psicológico vívido y cada experiencia emocional intensa como una revelación divina o una comunicación espiritual. El auténtico éxtasis espiritual está generalmente asociado a una gran calma exterior y un control emocional casi perfecto. Pero la verdadera visión profética es un presentimiento superpsicológico. Esas dispensaciones divinas no son pseudoalucinaciones ni tampoco éxtasis con estados de trance."
     },
     {
       "type": "paragraph",
@@ -1045,9 +1045,9 @@
       "standardReferenceId": "91:7.4",
       "pageReference": "1000.5",
       "sortId": "3.091.007.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "La mente humana puede funcionar en respuesta a la así llamada inspiración cuando es sensible a las sublevaciones del subconsciente o al estímulo del superconsciente. En cualquiera de estos dos casos el individuo tiene la impresión de que estos aumentos del contenido de la conciencia son más o menos ajenos. El entusiasmo místico sin frenos y el éxtasis religioso desencadenado no son credenciales de la inspiración, supuestamente credenciales divinas."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "La mente humana puede actuar en respuesta a la llamada inspiración cuando es sensible a los afloramientos del subconsciente o al estímulo del superconsciente. En cualquiera de los dos casos el individuo interpreta esos aumentos del contenido de la consciencia como algo bastante ajeno. El entusiasmo místico desmedido y el éxtasis religioso desenfrenado no son las credenciales de la inspiración, unas credenciales supuestamente divinas."
     },
     {
       "type": "paragraph",
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "91:7.5",
       "pageReference": "1000.6",
       "sortId": "3.091.007.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "La prueba práctica de todas las experiencias religiosas extrañas del misticismo, el éxtasis y la inspiración consiste en observar si estos fenómenos hacen que un individuo:"
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "La prueba práctica de todas estas extrañas experiencias religiosas de misticismo, éxtasis e inspiración consiste en observar si estos fenómenos hacen que un individuo:"
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "91:7.6",
       "pageReference": "1000.7",
       "sortId": "3.091.007.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "1. Disfrute de una salud física mejor y más completa."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "1. Muestre una salud física mejor y más completa."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "91:7.7",
       "pageReference": "1000.8",
       "sortId": "3.091.007.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "2. Funcione más eficaz y prácticamente en su vida mental."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "2. Actúe de manera más práctica y eficaz en su vida mental."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "91:7.8",
       "pageReference": "1000.9",
       "sortId": "3.091.007.008",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "3. Socialice más plena y alegremente en su experiencia religiosa."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "3. Comparta su experiencia religiosa con más alegría y plenitud."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "91:7.9",
       "pageReference": "1000.10",
       "sortId": "3.091.007.009",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "4. Espiritualice más completamente su vida diaria descargando al mismo tiempo fielmente los deberes comunes de la existencia mortal rutinaria."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "4. Espiritualice de forma más completa su vida cotidiana mientras cumple fielmente los deberes corrientes de la existencia mortal rutinaria."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "91:7.10",
       "pageReference": "1001.1",
       "sortId": "3.091.007.010",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "5. Aumente su amor y apreciación de la verdad, la belleza y la bondad."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "5. Aumente su amor y aprecio por la verdad, la belleza y la bondad."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "91:7.11",
       "pageReference": "1001.2",
       "sortId": "3.091.007.011",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "6. Conserve los valores sociales, morales, éticos y espirituales, reconocidos en su época."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "6. Conserve los valores sociales, morales, éticos y espirituales reconocidos en su tiempo."
     },
     {
       "type": "paragraph",
@@ -1189,9 +1189,9 @@
       "standardReferenceId": "91:7.12",
       "pageReference": "1001.3",
       "sortId": "3.091.007.012",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "7. Aumente su compenetración espiritual, su conciencia de Dios."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "7. Incremente su visión interior espiritual, su consciencia de Dios."
     },
     {
       "type": "paragraph",
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "91:7.13",
       "pageReference": "1001.4",
       "sortId": "3.091.007.013",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "El Misticismo, el Éxtasis y la Inspiración",
-      "markdown": "Pero la oración no tiene asociación verdadera con estas experiencias religiosas excepcionales. Cuando la oración se vuelve demasiado estética, cuando consiste casi exclusivamente de la contemplación bella y bendecida de la divinidad paradisiaca, pierde mucho de su influencia socializadora y tiende hacia el misticismo y el aislamiento de sus devotos. Existe cierto peligro asociado con la excesiva oración en privado, lo cual es corregido y prevenido por la oración en grupo, las devociones comunitarias."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "El misticismo, el éxtasis y la inspiración",
+      "markdown": "Pero la oración no tiene ninguna relación real con esas experiencias religiosas excepcionales. Cuando la oración se vuelve excesivamente estética, cuando consiste casi exclusivamente en la hermosa y gozosa contemplación de la divinidad paradisiaca, pierde gran parte de su influencia socializadora y tiende hacia el misticismo y el aislamiento de sus adeptos. El exceso de oración privada conlleva cierto peligro que se puede prevenir y corregir mediante la oración en grupo y las devociones comunitarias."
     },
     {
       "type": "section",
@@ -1225,8 +1225,8 @@
       "standardReferenceId": "91:8.0",
       "pageReference": null,
       "sortId": "3.091.008.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
       "markdown": null
     },
     {
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "91:8.1",
       "pageReference": "1001.5",
       "sortId": "3.091.008.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "Existe un aspecto verdaderamente espontáneo de la oración, ya que el hombre primitivo se encontró orando mucho antes de tener un concepto claro de un Dios. El hombre primitivo solía orar en dos situaciones distintas: cuando sufría grandes penurias, experimentaba el impulso de buscar ayuda; cuando se regocijaba, se dejaba llevar por la expresión impulsiva del regocijo."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración tiene un componente verdaderamente espontáneo, puesto que el hombre primitivo se encontró rezando mucho antes de tener ningún concepto claro de un Dios. Los primeros hombres eran dados a rezar en dos situaciones opuestas: en momentos de extrema necesidad cuando sentían el impulso de buscar ayuda y en momentos de intensa alegría cuando se permitían una expresión impulsiva de júbilo."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "91:8.2",
       "pageReference": "1001.6",
       "sortId": "3.091.008.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración no es una evolución de la magia; la una y la otra surgieron independientemente. La magia era un intento de adaptar la Deidad a las condiciones; la oración es el esfuerzo de adaptar la personalidad a la voluntad de la Deidad. La verdadera oración es tanto moral como religiosa; la magia no es ni lo uno ni lo otro."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración no es una evolución de la magia; ambas surgieron independientemente. La magia era un intento de adaptar la Deidad a las circunstancias; la oración es el esfuerzo por adaptar la personalidad a la voluntad de la Deidad. La oración verdadera es moral y religiosa a la vez; la magia no es ni lo uno ni lo otro."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "91:8.3",
       "pageReference": "1001.7",
       "sortId": "3.091.008.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración puede volverse una costumbre establecida; muchos oran porque otros lo hacen. Aun otros oran porque temen que les sucederá algo terrible si no ofrecen sus súplicas regulares."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración puede convertirse en una costumbre establecida; muchos rezan porque otros lo hacen. Otros incluso rezan porque temen que pueda suceder algo funesto si no presentan regularmente sus súplicas."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "91:8.4",
       "pageReference": "1001.8",
       "sortId": "3.091.008.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "Para algunos individuos la oración es la expresión calma de la gratitud; para otros, una expresión de grupo de la alabanza, las devociones sociales; a veces es la imitación de la religión de otro, mientras que en la verdadera oración es la comunicación sincera y confiada de la naturaleza espiritual de la criatura con la presencia ubicua del espíritu del Creador."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "Para algunas personas la oración es una expresión tranquila de gratitud; para otras, una expresión colectiva de alabanza, las devociones sociales. A veces es la imitación de una religión ajena. Pero la oración verdadera es la comunicación sincera y confiada de la naturaleza espiritual de la criatura con la presencia ubicua del espíritu del Creador."
     },
     {
       "type": "paragraph",
@@ -1315,9 +1315,9 @@
       "standardReferenceId": "91:8.5",
       "pageReference": "1001.9",
       "sortId": "3.091.008.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración puede ser una expresión espontánea de la conciencia de Dios o una recitación sin sentido de las fórmulas teológicas. Puede ser la alabanza extática del alma conocedora de Dios o la obediencia esclava de un mortal dominado por el miedo. Es a veces la expresión patética del deseo espiritual y a veces el grito flagrante de frases pías. La oración puede ser alabanza regocijada o humilde ruego de perdón."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración puede ser una expresión espontánea de la consciencia de Dios o un recitado sin sentido de fórmulas teológicas. Puede ser la alabanza extática de un alma conocedora de Dios o el homenaje servil de un mortal dominado por el miedo. Unas veces es la expresión conmovedora de un anhelo espiritual y otras un clamor estridente de frases pías. La oración puede ser alabanza jubilosa o humilde petición de perdón."
     },
     {
       "type": "paragraph",
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "91:8.6",
       "pageReference": "1001.10",
       "sortId": "3.091.008.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración puede ser el ruego infantil de lo imposible o la súplica madura de crecimiento moral y poder espiritual. La solicitud puede ser por el pan de cada día o el resultado de un anhelo sincero de hallar a Dios y hacer su voluntad. Puede ser un pedido totalmente egoísta o un gesto verdadero y magnífico hacia la realización de la fraternidad altruista."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración puede ser una petición infantil de lo imposible o una petición madura de crecimiento moral y poder espiritual. Se puede pedir el pan de cada día o anhelar de todo corazón encontrar a Dios y hacer su voluntad. Puede ser una súplica totalmente egoísta o un gesto auténtico y magnífico hacia el logro de una hermandad desinteresada."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "91:8.7",
       "pageReference": "1001.11",
       "sortId": "3.091.008.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración puede ser un grito airado de venganza o una intervención misericordiosa para con los enemigos de uno. Puede ser la expresión de la esperanza de cambiar a Dios o la poderosa técnica de cambiarse a sí mismo. Puede ser el ruego servil de un pecador perdido ante un Juez supuestamente severo o la expresión regocijada de un hijo liberado del Padre celestial viviente y misericordioso."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración puede ser un grito airado de venganza o una intercesión misericordiosa por nuestros enemigos. Puede ser una expresión de la esperanza de cambiar a Dios o un método poderoso de cambiarnos a nosotros mismos. Puede ser la súplica temblorosa de un pecador perdido ante un Juez supuestamente severo o la expresión jubilosa de un hijo liberado, hijo del Padre celestial vivo y misericordioso."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "91:8.8",
       "pageReference": "1001.12",
       "sortId": "3.091.008.008",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "El hombre moderno vacila ante la idea de hablarse con Dios en una forma puramente personal. Muchos han abandonado la oración regular; tan sólo rezan cuando se encuentran bajo presión extraordinaria —en casos de urgencia. El hombre no debe temer hablar con Dios, pero sólo un individuo con espíritu infantil puede pensar en intentar persuadir, o presumir de cambiar, a Dios."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "Al hombre moderno le desconcierta la idea de hablar de sus cosas con Dios de una manera puramente personal. Muchos han dejado de rezar de forma regular; solo rezan en caso de apuro, en situaciones de emergencia. El hombre no debería tener miedo de hablar con Dios, aunque sería un infantilismo espiritual intentar persuadir a Dios o pretender que cambie."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "91:8.9",
       "pageReference": "1002.1",
       "sortId": "3.091.008.009",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "Pero la verdadera oración logra la realidad. Aunque las corrientes de aire sean ascendentes, el pájaro no podrá ascender a menos que extienda las alas. La oración eleva al hombre porque es una técnica de progresar mediante la utilización de las corrientes espirituales ascendentes del universo."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "Pero la verdadera oración sí se hace realidad. Aunque las corrientes de aire sean ascendentes, ningún pájaro puede remontar el vuelo si no extiende las alas. La oración eleva al hombre porque es una técnica de progreso que utiliza las corrientes espirituales ascendentes del universo."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "91:8.10",
       "pageReference": "1002.2",
       "sortId": "3.091.008.010",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración genuina aumenta el crecimiento espiritual, modifica las actitudes y produce esa satisfacción que proviene de la comunión con la divinidad. Es la explosión espontánea de la conciencia de Dios."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración auténtica contribuye al crecimiento espiritual, modifica las actitudes y produce la satisfacción de la comunión con la divinidad. Es el estallido espontáneo de la consciencia de Dios."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "91:8.11",
       "pageReference": "1002.3",
       "sortId": "3.091.008.011",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "Dios responde a la oración del hombre dándole una mayor revelación de la verdad, una enaltecida apreciación de la belleza, y un concepto aumentado de la bondad. La oración es un gesto subjetivo, pero pone en contacto con realidades objetivas poderosas en los niveles espirituales de la experiencia humana; es un gesto significativo por parte de lo humano por alcanzar los valores sobrehumanos. Es el más poderoso estímulo para el crecimiento espiritual."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "Dios responde a la oración del hombre dándole una revelación acrecentada de la verdad, una apreciación realzada de la belleza y un concepto aumentado de la bondad. La oración es un gesto subjetivo, pero toma contacto con poderosas realidades objetivas en los niveles espirituales de la experiencia humana; es un intento significativo de lo humano por alcanzar valores sobrehumanos. Es el estímulo más poderoso para el crecimiento espiritual."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "91:8.12",
       "pageReference": "1002.4",
       "sortId": "3.091.008.012",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "Las palabras no tienen importancia en la oración; tan sólo forman el lecho intelectual en el cual fluye al azar el río de la súplica espiritual. El valor de las palabras de una oración es puramente autosugestivo en las devociones privadas y sociosugestivo en las devociones de grupo. Dios responde a la actitud del alma, no a las palabras."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "Las palabras son irrelevantes en la oración; no son más que el canal intelectual por el que puede que fluya el río de la súplica espiritual. El valor verbal de una oración es puramente autosugestivo en las devociones privadas y sociosugestivo en las devociones colectivas. Dios responde a la actitud del alma, no a las palabras."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "91:8.13",
       "pageReference": "1002.5",
       "sortId": "3.091.008.013",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "La Oración como Experiencia Personal",
-      "markdown": "La oración no es una técnica de escape de los conflictos sino más bien un estímulo para crecer al enfrentarse al conflicto mismo. Ora tan sólo por valores, no por cosas; por crecimiento, no por gratificación."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "La oración como experiencia personal",
+      "markdown": "La oración no es una técnica de escape para evitar conflictos sino más bien un estímulo para crecer ante el conflicto. Rezad solo por valores, no por cosas; pedid crecimiento, no satisfacción."
     },
     {
       "type": "section",
@@ -1477,8 +1477,8 @@
       "standardReferenceId": "91:9.0",
       "pageReference": null,
       "sortId": "3.091.009.000",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
       "markdown": null
     },
     {
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "91:9.1",
       "pageReference": "1002.6",
       "sortId": "3.091.009.001",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "Si quieres orar eficazmente, debes recordar las leyes de las solicitudes prevalecientes:"
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "Para que vuestra oración dé fruto, tened presentes las leyes de las peticiones eficaces:"
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "91:9.2",
       "pageReference": "1002.7",
       "sortId": "3.091.009.002",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "1. Debes calificar como orador poderoso enfrentando sincera y valientemente los problemas de la realidad del universo. Debes poseer vigor cósmico."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "1. Debéis estar cualificados como orantes poderosos que afrontan con valor y sinceridad los problemas de la realidad del universo. Debéis poseer vigor cósmico."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "91:9.3",
       "pageReference": "1002.8",
       "sortId": "3.091.009.003",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "2. Debes haber agotado honestamente la capacidad humana de adaptación humana. Debes haber sido industrioso."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "2. Debéis haber agotado honradamente la capacidad humana de adaptación. Debéis haber sido diligentes."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "91:9.4",
       "pageReference": "1002.9",
       "sortId": "3.091.009.004",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "3. Debes rendir todo deseo de la mente y todo apetito del alma al abrazo transformador del crecimiento espiritual. Debes haber experimentado un enaltecimiento de los significados y una elevación de los valores."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "3. Debéis someter todos los deseos de la mente y todos los anhelos del alma al abrazo transformador del crecimiento espiritual. Debéis haber experimentado una ampliación de los significados y una elevación de los valores."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "91:9.5",
       "pageReference": "1002.10",
       "sortId": "3.091.009.005",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "4. Debes hacer una elección sincera de la voluntad divina. Debes obliterar el punto muerto de la indecisión."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "4. Debéis elegir de todo corazón la voluntad divina. Debéis eliminar el punto muerto de la indecisión."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "91:9.6",
       "pageReference": "1002.11",
       "sortId": "3.091.009.006",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "5. No sólo reconoces la voluntad del Padre y eliges cumplir con ella, sino que has efectuado una consagración incondicional y una dedicación dinámica, al hacer efectivo de la voluntad del Padre."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "5. No solo aceptáis la voluntad del Padre y elegís cumplirla sino que estáis consagrados incondicionalmente y dedicados dinámicamente al cumplimiento efectivo de la voluntad del Padre."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "91:9.7",
       "pageReference": "1002.12",
       "sortId": "3.091.009.007",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "6. Tu oración será dirigida exclusivamente por la sabiduría divina a solucionar los problemas humanos específicos con que te encontrás en la ascensión al Paraíso, el logro de la perfección divina."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "6. Vuestra oración estará dirigida exclusivamente a obtener sabiduría divina para resolver los problemas humanos específicos que encontréis en la ascensión al Paraíso, en el logro de la perfección divina."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "91:9.8",
       "pageReference": "1002.13",
       "sortId": "3.091.009.008",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "7. Y debes tener fe —fe viviente."
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "7. Y debéis tener fe, fe viva."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "91:9.9",
       "pageReference": "1002.14",
       "sortId": "3.091.009.009",
-      "paperTitle": "La Evolución de la Oración",
-      "sectionTitle": "Las Condiciones para que la Oración Sea Eficaz",
-      "markdown": "[Presentado por el Jefe de los Seres Intermedios de Urantia.]"
+      "paperTitle": "La evolución de la oración",
+      "sectionTitle": "Las condiciones para una oración eficaz",
+      "markdown": "[Presentado por el jefe de los intermedios de Urantia.]"
     }
   ]
 }
