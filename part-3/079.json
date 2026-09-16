@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-3/079.md",
-  "source_sha256": "af196dccdb77131717f29ceeb53fd2e7d9fc31517f3dc2355882952cecdbbfb3",
+  "source_sha256": "9c871496cf0996483cb6a231e407071b6b8776fd6c6ee2f441ac675f30ca6d7f",
   "rows": [
     {
       "type": "paper",
@@ -19,7 +19,7 @@
       "standardReferenceId": "79:0.0",
       "pageReference": null,
       "sortId": "3.079.000.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
+      "paperTitle": "La expansión andita en Oriente",
       "sectionTitle": null,
       "markdown": null
     },
@@ -37,7 +37,7 @@
       "standardReferenceId": "79:0.0",
       "pageReference": null,
       "sortId": "3.079.000.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
+      "paperTitle": "La expansión andita en Oriente",
       "sectionTitle": null,
       "markdown": null
     },
@@ -55,9 +55,9 @@
       "standardReferenceId": "79:0.1",
       "pageReference": "878.1",
       "sortId": "3.079.000.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
+      "paperTitle": "La expansión andita en Oriente",
       "sectionTitle": null,
-      "markdown": "ASIA es la cuna de la raza humana. Andón y Fonta nacieron allí, en una sureña península de este continente, y en las alturas de lo que hoy en día es Afganistán sus descendientes Badonán fundaron un primitivo centro cultural que ha persistido por más de medio millón de años. Aquí, en este centro oriental de la especie humana las gentes sangik se diferenciaron de los andonitas. Asia fue su primer hogar, su primer territorio de caza, su primer campo de batalla. El sudoeste asiático presenciaba las sucesivas civilizaciones de dalamatianos, noditas, adanitas y anditas, y desde estas regiones el potencial de la civilización moderna se extendió a todo el mundo."
+      "markdown": "ASIA es la tierra natal de la raza humana. Fue en una península al sur de este continente donde nacieron Andon y Fonta; en las tierras altas de lo que hoy es Afganistán, su descendiente Badonan fundó un centro primitivo de cultura que perduró durante más de medio millón de años. En ese foco oriental de la raza humana los pueblos sangik se diferenciaron de la estirpe andónica, y Asia fue su primer hogar, su primer territorio de caza, su primer campo de batalla. El sudoeste de Asia fue testigo de las civilizaciones sucesivas de dalamatianos, noditas, adanitas y anditas, y desde estas regiones se extendieron al mundo los potenciales de la civilización moderna."
     },
     {
       "type": "section",
@@ -73,8 +73,8 @@
       "standardReferenceId": "79:1.0",
       "pageReference": null,
       "sortId": "3.079.001.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
       "markdown": null
     },
     {
@@ -91,9 +91,9 @@
       "standardReferenceId": "79:1.1",
       "pageReference": "878.2",
       "sortId": "3.079.001.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Durante más de veinticinco mil años, hasta casi el año 2000 a. de J.C., el corazón de Eurasia fue predominantemente, aunque cada vez menos, andita. En las tierras bajas del Turquestán, los anditas fueron rodeando los lagos interiores por el oeste llegando así a Europa, mientras que desde las tierras altas de la región hicieron una infiltración hacia el este. El Turquestán oriental (Xinjiang [Sinkiang]) y, en una medida menor, el Tíbet, fueron las vetustas compuertas a través de las cuales estos pueblos de la Mesopotamia penetraron las montañas hacia las norteñas tierras del hombre amarillo. La infiltración andita en la India se desplegó desde las alturas del Turquestán hacia el Pendjab y desde las tierras de pastoreo iraníes a través de Beluchistán. Estas migraciones primitivas no constituían en ningún modo conquistas, más bien eran parte del continuo éxodo de las tribus anditas hacia el oeste de la India y China."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Durante más de veinticinco mil años hasta cerca del 2000 a. C., el corazón de Eurasia fue predominantemente andita aunque de forma decreciente. En las tierras bajas del Turquestán los anditas giraban hacia el oeste alrededor de los lagos interiores para dirigirse a Europa, al tiempo que se infiltraban hacia el este desde las tierras altas de esta región. El Turquestán oriental (Sinkiang) y, en menor medida, el Tíbet fueron las antiguas puertas por las que estos pueblos de Mesopotamia penetraron en las montañas hacia las tierras norteñas de los hombres amarillos. La infiltración andita en la India partió de las tierras altas del Turquestán hasta entrar en el Punyab y de los pastizales iraníes a través del Beluchistán. Estas primeras migraciones no eran conquistas en ningún sentido, sino la deriva continua de las tribus anditas hacia el oeste de la India y hacia China."
     },
     {
       "type": "paragraph",
@@ -109,9 +109,9 @@
       "standardReferenceId": "79:1.2",
       "pageReference": "878.3",
       "sortId": "3.079.001.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Persistieron centros de entremezclada cultura andita durante casi quince mil años en la cuenca del río Tarim en Xinjiang y, hacia el sur, en las regiones altas del Tíbet, donde los anditas y andonitas se habían mezclado vastamente. Hacia el este, el puesto más avanzado de la verdadera cultura andita estaba en el valle del Tarim. Allí establecieron sus colonias y comenzaron a mantener relaciones comerciales, hacia el este con los progresistas chinos y hacia el norte con los andonitas. En aquellos días, la región del Tarim era de tierras fértiles y lluvias abundantes. Hacia el este estaba la extensa pradera de Gobi, donde los pastores gradualmente se iban volcando hacia la agricultura. Esta civilización, que en su momento rivalizó con la de la propia Mesopotamia, se perdió cuando cambiaron los vientos llevando las lluvias hacia el sudeste."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Durante casi quince mil años hubo centros de cultura andita mestiza en Sinkiang a lo largo de la cuenca del río Tarim y hacia el sur en las tierras altas del Tíbet, donde los anditas y los andonitas se habían mezclado ampliamente. El valle del Tarim fue el puesto más avanzado hacia el este de la auténtica cultura andita. Allí construyeron sus asentamientos y establecieron relaciones comerciales con los chinos más progresistas hacia el este y con los andonitas hacia el norte. En aquellos días la región del Tarim era una tierra fértil de abundantes lluvias. Hacia el este el Gobi era un pastizal abierto donde los pastores se iban convirtiendo gradualmente en agricultores. Esta civilización, que rivalizó en su día con la de la propia Mesopotamia, pereció cuando cambiaron los vientos y se llevaron las lluvias al sudeste."
     },
     {
       "type": "paragraph",
@@ -127,9 +127,9 @@
       "standardReferenceId": "79:1.3",
       "pageReference": "878.4",
       "sortId": "3.079.001.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Hacia el año 8000 a. de J.C., lentamente la aridez de las regiones altas del Asia central fue obligando a los anditas a buscar las cercanías de los ríos y las costas marinas. Esta prolongación de la sequía no solamente los llevó a los valles del Nilo, Eufrates, Indo y Amarillo, sino que produjo un nuevo desarrollo dentro de la civilización andita. Una nueva clase de hombres, los mercaderes, comenzó a surgir en grandes cantidades."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Hacia el año 8000 a. C. el agravamiento lento pero constante de la aridez en las tierras altas de Asia central empezó a empujar a los anditas hacia las zonas bajas de los ríos y las orillas del mar. Esta sequía creciente no solo los desplazó hacia los valles de los ríos Nilo, Éufrates, Indo y Amarillo, sino que produjo un nuevo desarrollo de la civilización andita. Hizo su aparición una nueva clase cada vez más numerosa: los comerciantes."
     },
     {
       "type": "paragraph",
@@ -145,9 +145,9 @@
       "standardReferenceId": "79:1.4",
       "pageReference": "879.1",
       "sortId": "3.079.001.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Cuando las condiciones climáticas convirtieron la caza en una actividad infructuosa, los migrantes anditas no siguieron la línea evolucionaria de las razas más antiguas y, entonces, no se convirtieron en pastores. En cambio, aparecieron el comercio y la vida urbana. Desde Egipto, a través de la Mesopotamia y el Turquestán, hasta los ríos de China e India, las tribus de civilización más avanzada comenzaron a constituirse en ciudades dedicadas a la manufactura y el comercio. Adonia, ubicada cerca de la actual ciudad de Ashjabad, se convirtió en la metrópolis comercial del Asia central. El intercambio comercial de piedras, metales, madera y alfarería tuvo un rápido incremento tanto por vía terrestre como por la fluvial."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Cuando las condiciones climáticas hicieron la caza improductiva, los migrantes anditas no siguieron la trayectoria evolutiva de las razas más antiguas que los habría llevado a convertirse en pastores. Hicieron su aparición el comercio y la vida urbana. Desde Egipto hasta los ríos de China y de la India, pasando por Mesopotamia y el Turquestán, las tribus con mayor grado de civilización empezaron a reunirse en ciudades dedicadas al comercio y la manufactura. Adonia, ubicada cerca de lo que es hoy la ciudad de Ashjabad, se convirtió en la metrópolis comercial de Asia central. El comercio de piedras, metales, maderas y alfarería experimentó un gran impulso, tanto por vía terrestre como acuática."
     },
     {
       "type": "paragraph",
@@ -163,9 +163,9 @@
       "standardReferenceId": "79:1.5",
       "pageReference": "879.2",
       "sortId": "3.079.001.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Pero la sequía en constante aumento gradualmente ocasionó el gran éxodo andita desde las tierras ubicadas al sur y al este del Mar Caspio. La ola de migración comenzó a virar de norte a sur, y la caballería de Babilonia inició su penetración en la Mesopotamia."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Pero el constante aumento de la sequía fue provocando gradualmente el gran éxodo andita desde las tierras situadas al sur y al este del mar Caspio. La dirección del flujo migratorio hacia el norte empezó a invertirse hacia el sur, y los jinetes babilónicos empezaron a presionar para entrar en Mesopotamia."
     },
     {
       "type": "paragraph",
@@ -181,9 +181,9 @@
       "standardReferenceId": "79:1.6",
       "pageReference": "879.3",
       "sortId": "3.079.001.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "El incremento de la aridez en Asia central contribuyó adicionalmente a reducir la población y convertir a estos pueblos en menos belicosos; y cuando las decrecientes lluvias en el norte forzaron a los nómades andonitas a desplazarse hacia el sur, hubo un enorme éxodo de anditas desde el Turquestán. Éste es el movimiento final de los llamados arios hacia el Levante y la India. Culminó así esa gran dispersión de los descendientes mezclados de Adán, durante la cual, todos los pueblos asiáticos y la mayoría de los de las islas del Pacífico se beneficiaron en cierto grado por la influencia de estas razas superiores."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "La creciente aridez de Asia central provocó además un descenso de la población y moderó la belicosidad de estos pueblos. Cuando la escasez de lluvias en el norte empujó a los nómadas andonitas hacia el sur, hubo un éxodo masivo de anditas desde el Turquestán. Esta fue la penetración final de los llamados arios en el Levante y la India y culminó la larga dispersión de los descendientes mestizos de Adán, durante la cual estas razas superiores mejoraron en cierta medida a todos los pueblos asiáticos y a la mayoría de los de las islas del Pacífico."
     },
     {
       "type": "paragraph",
@@ -199,9 +199,9 @@
       "standardReferenceId": "79:1.7",
       "pageReference": "879.4",
       "sortId": "3.079.001.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Así pues, al dispersarse en el hemisferio oriental, los anditas fueron desposeídos de sus tierras natales de la Mesopotamia y el Turquestán, puesto que fue este desplazamiento excesivo de los andonitas hacia el sur el que diluyó a los anditas en Asia central hasta su desaparición casi total."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Así, mientras se dispersaban por el hemisferio este, los anditas fueron desposeídos de sus tierras natales de Mesopotamia y el Turquestán por el gran desplazamiento de los andonitas hacia el sur que diluyó a los anditas de Asia central y los puso al borde de la desaparición."
     },
     {
       "type": "paragraph",
@@ -217,9 +217,9 @@
       "standardReferenceId": "79:1.8",
       "pageReference": "879.5",
       "sortId": "3.079.001.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "Pero aún en el siglo veinte de la era cristiana quedan rastros de sangre andita entre los turanianos y tibetanos, como se puede ver en los tipos rubios que a veces se hallan en estas regiones. Los primeros anales chinos registran la presencia de nómades de cabellos rojos al norte de las pacíficas colonias del río Amarillo, y aún se conservan pinturas que prueban fielmente la presencia del tipo rubio andita y del moreno mongol en la cuenca del Tarim de hace tiempo."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "Pero incluso en el siglo veinte después de Cristo hay rastros de sangre andita entre los pueblos turanianos y tibetanos, como pone de manifiesto la presencia ocasional de tipos rubios en esas regiones. Los primeros anales chinos recogen la existencia de nómadas pelirrojos al norte de los pacíficos asentamientos del río Amarillo, y aún siguen quedando pinturas que reflejan fielmente la presencia en otros tiempos tanto del tipo rubio andita como del moreno mongol en la cuenca del Tarim."
     },
     {
       "type": "paragraph",
@@ -235,9 +235,9 @@
       "standardReferenceId": "79:1.9",
       "pageReference": "879.6",
       "sortId": "3.079.001.009",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas del Turquestán",
-      "markdown": "La última gran manifestación de la sumergida genialidad militar de los anditas de Asia central se produjo en el 1200 d. de J.C., cuando los mongoles bajo Gengis Kan comenzaron la conquista de la mayor parte del continente asiático. Al igual que los antiguos anditas, estos guerreros proclamaban la existencia de «un solo Dios en el cielo». La prematura disolución de su imperio dilató por mucho tiempo el intercambio cultural entre Occidente y Oriente y retrasó enormemente el desarrollo de un concepto monoteísta en Asia."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas del Turquestán",
+      "markdown": "La última gran manifestación del genio militar sumergido de los anditas de Asia central se produjo el año 1200 d. C. cuando los mongoles empezaron a conquistar la mayor parte del continente asiático liderados por Gengis Kan. Y al igual que los anditas de antaño, estos guerreros proclamaron la existencia de «un solo Dios en el cielo». El desmembramiento prematuro de su Imperio retrasó durante mucho tiempo el intercambio cultural entre Oriente y Occidente y obstaculizó considerablememente el desarrollo del concepto monoteísta en Asia."
     },
     {
       "type": "section",
@@ -253,8 +253,8 @@
       "standardReferenceId": "79:2.0",
       "pageReference": null,
       "sortId": "3.079.002.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
       "markdown": null
     },
     {
@@ -271,9 +271,9 @@
       "standardReferenceId": "79:2.1",
       "pageReference": "879.7",
       "sortId": "3.079.002.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "La India es el único lugar donde todas las razas de Urantia se combinaron, y la invasión andita agregó el último linaje. En las alturas al noroeste de la India se trajeron a la existencia las razas sangik y, sin excepción, en los primeros tiempos penetraron miembros de cada una de ellas el subcontinente de la India dejando a su paso la más heterogénea mezcla de razas que jamás haya existido en Urantia. La antigua India fue en cierto modo una captación de razas migrantes. Anteriormente, la base de la península era de alguna manera más angosta que ahora, siendo la mayor parte de los deltas de los ríos Ganges e Indo resultado de los últimos cincuenta mil años."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "La India es el único lugar donde se mezclaron todas las razas de Urantia, y la invasión andita agregó la última estirpe. Las razas sangik se originaron en las tierras altas del noroeste de la India. En sus primeros días penetraron en el subcontinente indio miembros de todas y cada una de ellas dejando a su paso la mezcla de razas más heterogénea que haya existido jamás en Urantia. La India antigua hizo de trampa embudo para las razas migrantes. La base de la península era entonces algo más estrecha que ahora, pues gran parte de los deltas del Ganges y del Indo se han formado durante los últimos cincuenta mil años."
     },
     {
       "type": "paragraph",
@@ -289,9 +289,9 @@
       "standardReferenceId": "79:2.2",
       "pageReference": "879.8",
       "sortId": "3.079.002.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "Las primeras mezclas de razas en la India fueron una combinación de razas migratorias roja y amarilla con los aborígenes andonitas. Este grupo fue más tarde debilitado al absorber la porción más grande de la extinta cepa verde del este así como grandes cantidades de la raza anaranjada, y fue ligeramente mejorado con una pequeña adición de la del hombre azul, pero empeoró notablemente a través de la asimilación de grandes cantidades de la raza índiga. Pero no es completamente propio decir que los llamados aborígenes de la India le representen a esta gente temprana, más bien ellos son de la franja más inferior ubicada al sur y al este, que nunca fueron completamente absorbidos ni por los primeros anditas ni por la posterior aparición de sus primos arios."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "La primera mezcla racial que hubo en la India fue una fusión de las razas migrantes roja y amarilla con los aborígenes andonitas. Este grupo se debilitó más tarde tras absorber a la mayor parte de los extintos pueblos verdes del este y a una gran porción de la raza naranja; por otra parte, se vio ligeramente beneficiado por una incorporación limitada de hombres azules y sumamente deteriorado por la asimilación de un importante contingente de la raza índigo. Los llamados aborígenes de la India no son representativos de estos primeros pueblos; conforman más bien la franja inferior del sur y del este que nunca fue plenamente absorbida ni por los primeros anditas ni por sus primos arios que aparecerían más tarde."
     },
     {
       "type": "paragraph",
@@ -307,9 +307,9 @@
       "standardReferenceId": "79:2.3",
       "pageReference": "880.1",
       "sortId": "3.079.002.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "Por el año 20.000 a. de J.C. la población del oeste de India había ya sido teñida con la sangre adánica, y nunca en la historia de Urantia ningún pueblo combinó tantas razas diferentes. Pero, desafortunadamente predominaba el linaje sangik secundario, y fue una verdadera calamidad que tanto el hombre azul como el hombre rojo estuvieran mayormente ausentes de este crisol de razas de hace tiempo. Una mayor influencia de las cepas sangik primarias había realzado considerablemente lo que podría haberse convertido en una civilización aún más importante. Como fueron las cosas, el hombre rojo se fue destruyendo a sí mismo en las Américas, el hombre azul retozaba en Europa, y los primeros descendientes de Adán (y la mayoría de los últimos) demostraban pocos deseos de mezclarse con las gentes de colores más oscuros, ya sea en la India, en el África o en otras partes."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "Hacia el año 20 000 a. C. la población del oeste de la India ya se había teñido con sangre adánica, y ningún otro pueblo ha combinado nunca tantas razas diferentes en la historia de Urantia. Pero por desgracia predominaban las cepas sangik secundarias, y fue una auténtica calamidad que los hombres azules y rojos fueran tan escasos en aquel remoto crisol racial. Un número mayor de cepas sangik primarias habría contribuido mucho a impulsar una civilización que podría haber sido aún más grande. Tal como se desarrollaron las cosas, el hombre rojo se destruía a sí mismo en las Américas, el hombre azul retozaba por Europa y los primeros descendientes de Adán (igual que la mayoría de los posteriores) mostraban pocos deseos de mezclarse con gentes de color más oscuro, ya fuera en la India, en África o en otros lugares."
     },
     {
       "type": "paragraph",
@@ -325,9 +325,9 @@
       "standardReferenceId": "79:2.4",
       "pageReference": "880.2",
       "sortId": "3.079.002.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "Alrededor de 15.000 años a. de J.C. la presión de la población en aumento en el Turquestán e Irán ocasionó el primer movimiento masivo de los anditas hacia la India. Durante más de quince siglos estos pueblos superiores penetraron a través de las tierras altas de Beluchistán, extendiéndose por los valles del Indo y del Ganges y desplazándose lentamente hacia el sur al interior del Dekán. Esta presión andita desde el noroeste desplazó a muchos de los pueblos inferiores del sur y del este hacia Birmania y el sur de China, pero no lo suficiente como para salvar a los invasores de la obliteración racial."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "Hacia el año 15 000 a. C. la creciente presión demográfica en toda la zona de Irán y el Turquestán provocó el primer gran desplazamiento andita hacia la India. Durante más de quince siglos estas gentes superiores afluyeron a través de las tierras altas de Beluchistán, se extendieron por los valles del Ganges y el Indo y fueron avanzando lentamente en dirección sur hacia el Decán. Esta presión andita procedende del noroeste empujó a muchos de los pobladores inferiores del sur y el este hacia Birmania y el sur de China, aunque no lo suficiente como para salvar a los invasores de la obliteración racial."
     },
     {
       "type": "paragraph",
@@ -343,9 +343,9 @@
       "standardReferenceId": "79:2.5",
       "pageReference": "880.3",
       "sortId": "3.079.002.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "La India no pudo lograr la hegemonía de Eurasia debido especialmente a un problema de topografía. La presión de la población desde el norte tan sólo consiguió empujar a la mayoría de la gente hacia el sur, el territorio menguante de Dekán, rode-ado a cada lado por el mar. Si hubiera habido tierras adyacentes para la emigración, las cepas inferiores se habrían diseminado hacia todas partes, y el linaje superior habría podido adquirir una civilización más elevada."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "Si la India no logró la hegemonía de Eurasia fue en gran medida por una cuestión de topografía. La presión de la población procedente del norte se limitó a empujar a la mayoría de los habitantes hacia el sur y aglomerarlos en el territorio del Decán, cada vez más estrecho y rodeado de mar. Si hubiera habido tierras adyacentes para emigrar, los inferiores habrían sido expulsados en todas las direcciones y las estirpes superiores habrían alcanzado un grado más alto de civilización."
     },
     {
       "type": "paragraph",
@@ -361,9 +361,9 @@
       "standardReferenceId": "79:2.6",
       "pageReference": "880.4",
       "sortId": "3.079.002.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "Tal como ocurrieron las cosas, estos primitivos conquistadores anditas hicieron un intento desesperado por preservar su identidad y contener la marejada de sumergimiento racial mediante el establecimiento de rígidas restricciones al matrimonio interracial. A pesar de todo, hacia el año 10.000 a. de J.C., los anditas habían sido sumergidos, aunque la totalidad de la masa de los pueblos había mejorado notablemente al absorberlos."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "Lo cierto es que aquellos primeros conquistadores anditas hicieron un esfuerzo desesperado por preservar su identidad y contener la marea de sepultamiento racial mediante restricciones rígidas sobre los matrimonios mixtos. A pesar de ello los anditas estaban ya sumergidos en el año 10 000 a. C., pero la masa total de la población había mejorado notablemente gracias a esa absorción."
     },
     {
       "type": "paragraph",
@@ -379,9 +379,9 @@
       "standardReferenceId": "79:2.7",
       "pageReference": "880.5",
       "sortId": "3.079.002.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "La mezcla de razas siempre es ventajosa, puesto que estimula la versatilidad cultural y contribuye a una civilización progresiva, pero si predominan los elementos inferiores del linaje racial, tales logros serán de corta duración. Una cultura políglota puede ser preservada solamente si el linaje superior se reproduce con cierto margen de seguridad respecto del inferior. La multiplicación desenfrenada de los inferiores, combinada con una decreciente reproducción de los superiores representa indefectiblemente el suicidio de la civilización cultural."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "La mezcla de razas siempre es ventajosa porque favorece la versatilidad de la cultura y contribuye al progreso de la civilización, pero si predominan los elementos inferiores de las estirpes raciales esos logros serán pasajeros. Solo se puede mantener una cultura políglota si las estirpes superiores se reproducen con un margen de seguridad sobre las inferiores. Una multiplicación incontrolada de los inferiores unida a una reproducción decreciente de los superiores acarrea indefectiblemente el suicidio de la civilización cultural."
     },
     {
       "type": "paragraph",
@@ -397,9 +397,9 @@
       "standardReferenceId": "79:2.8",
       "pageReference": "880.6",
       "sortId": "3.079.002.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Conquista Andita de la India",
-      "markdown": "Si los conquistadores anditas hubiesen sido tres veces más o, si ellos hubiesen desplazado o destruido al tercio menos deseable de habitantes de mezcla anaranjada-verde-índiga, la India se habría convertido en uno de los principales centros mundiales de civilización cultural e indudablemente habría atraído mucho más a las posteriores olas de pueblos de la Mesopotamia que inundaron Turquestán y desde allí se desplazaron hacia el norte para Europa."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La conquista andita de la India",
+      "markdown": "Si el número de conquistadores anditas hubiera sido tres veces mayor o si hubieran expulsado o destruido al tercio menos deseable de la mezcla de habitantes naranja, verde e índigo, la India se habría convertido en uno de los principales centros mundiales de civilización cultural y habría atraído sin duda a una mayor porción de las oleadas posteriores de mesopotámicos que afluyeron hacia el Turquestán y desde allí en dirección norte hacia Europa."
     },
     {
       "type": "section",
@@ -415,8 +415,8 @@
       "standardReferenceId": "79:3.0",
       "pageReference": null,
       "sortId": "3.079.003.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
       "markdown": null
     },
     {
@@ -433,9 +433,9 @@
       "standardReferenceId": "79:3.1",
       "pageReference": "881.1",
       "sortId": "3.079.003.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "La mezcla de los conquistadores anditas de la India con el linaje nativo dio como resultado, a la larga, a esos pueblos entremezclados que han sido llamados dravidianos. Los primitivos y más puros dravidianos poseían una gran capacidad para los logros culturales, que se fue debilitando continuamente a medida que su herencia andita se iba atenuando progresivamente. Esto fue lo que llevó a la destrucción el brote de civilización de la India hace casi doce mil años. Pero, aun la infusión de esta pequeña cantidad de sangre de Adán produjo un marcado avance en el desarrollo social. Este linaje compuesto produjo inmediatamente la civilización más versátil de las que por entonces existían en la tierra."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "La mezcla de los conquistadores anditas de la India con la estirpe nativa acabó constituyendo el pueblo mestizo denominado dravídico. Los dravídicos iniciales y más puros poseían grandes aptitudes culturales, pero esta cualidad se fue debilitando gradualmente a medida que se iba atenuando su herencia andita. Y eso fue lo que truncó el brote de civilización de la India hace casi doce mil años. Sin embargo, bastó con una pequeña inyección de la sangre de Adán para producir una aceleración notable del desarrollo social. Esta estirpe compuesta construyó inmediatamente la civilización más polifacética que había entonces en el planeta."
     },
     {
       "type": "paragraph",
@@ -451,9 +451,9 @@
       "standardReferenceId": "79:3.2",
       "pageReference": "881.2",
       "sortId": "3.079.003.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "No mucho después de la conquista de la India, los anditas dravidianos perdieron su contacto racial y cultural con la Mesopotamia, pero más adelante la apertura de líneas marítimas y las rutas de las caravanas permitieron reanudar estas conexiones, y en los últimos diez mil años, la India no ha estado nunca totalmente aislada de la Mesopotamia en el oeste y China en el este, aunque las barreras montañosas favorecieron grandemente un mayor contacto con el oeste."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "Poco después de conquistar la India, los anditas dravídicos perdieron su contacto racial y cultural con Mesopotamia, pero la apertura posterior de vías marítimas y de rutas de caravanas restableció estas conexiones. En los últimos diez mil años la India no ha estado nunca enteramente desconectada de Mesopotamia por el oeste y de China por el este, aunque las barreras montañosas favorecían mucho más las relaciones con el oeste."
     },
     {
       "type": "paragraph",
@@ -469,9 +469,9 @@
       "standardReferenceId": "79:3.3",
       "pageReference": "881.3",
       "sortId": "3.079.003.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "La cultura superior y las tendencias religiosas de los pueblos de la India provienen de los tiempos primitivos de la dominación dravidiana y se deben, en parte al hecho de que tantos sacerdotes setitas llegaran a la India tanto con la primitiva invasión andita como con la más reciente invasión aria. Por eso el hilo ininterrumpido de monoteísmo a través de la historia de la India surgió de las enseñanzas de los adanitas en el segundo jardín."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "La cultura superior y las inclinaciones religiosas de los pueblos de la India datan de los primeros tiempos de la hegemonía dravídica y se deben en parte al gran número de sacerdotes setitas que entraron en la India, primero con las invasiones anditas y más tarde con las invasiones arias. El hilo monoteísta que recorre la historia religiosa de la India proviene así de las enseñanzas de los adanitas del segundo jardín."
     },
     {
       "type": "paragraph",
@@ -487,9 +487,9 @@
       "standardReferenceId": "79:3.4",
       "pageReference": "881.4",
       "sortId": "3.079.003.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "Ya en el año 16.000 a. de J.C. una sociedad de cien sacerdotes setitas penetró la India y estuvo a punto de realizar la conquista religiosa de la mitad occidental de este pueblo políglota. Pero su religión no persistió. En cinco mil años sus doctrinas sobre la Trinidad del Paraíso decayeron en el símbolo triple del dios del fuego."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "Ya en el año 16 000 a. C. un grupo de cien sacerdotes setitas entró en la India y estuvo a punto de lograr la conquista religiosa de la mitad occidental de este pueblo políglota. Pero su religión no perduró. A los cinco mil años sus doctrinas sobre la Trinidad del Paraíso habían degenerado en el símbolo trino del dios del fuego."
     },
     {
       "type": "paragraph",
@@ -505,9 +505,9 @@
       "standardReferenceId": "79:3.5",
       "pageReference": "881.5",
       "sortId": "3.079.003.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "Pero, durante más de siete mil años desde el fin de las migraciones anditas, el nivel religioso de los habitantes de la India fue muy superior al promedio del mundo. Durante estos tiempos, la India prometía producir la principal civilización cultural, religiosa, filosófica y comercial del mundo. Si los anditas no hubiesen sido totalmente sumidos en la miseria por los pueblos del sur, este destino probablemente se habría concretado."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "Sin embargo, durante más de siete mil años, hasta el final de las emigraciones anditas, el nivel religioso de los habitantes de la India estuvo muy por encima del del mundo en general. En esa época la India prometía desarrollar la principal civilización cultural, religiosa, filosófica y comercial del mundo, y es probable que este destino se hubiera cumplido si los pueblos del sur no hubieran sumergido totalmente a los anditas."
     },
     {
       "type": "paragraph",
@@ -523,9 +523,9 @@
       "standardReferenceId": "79:3.6",
       "pageReference": "881.6",
       "sortId": "3.079.003.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "Los centros culturales dravidianos estaban situados en los valles de los ríos, principalmente del Indo y del Ganges, y en el Dekán junto a los tres grandes ríos que fluyen a través de los Ghates del este hacia el mar. Las colonias a lo largo de la costa de los Ghates occidentales les debían su prominencia a los intercambios marítimos con Sumeria."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "Los centros de cultura dravídicos estaban ubicados en los valles de los ríos, sobre todo del Ganges y el Indo, y en el Decán a lo largo de los tres grandes ríos que discurren por los Ghates orientales hacia el mar. Los asentamientos situados a lo largo del litoral de los Ghates occidentales debían su prominencia a las relaciones marítimas con Sumeria."
     },
     {
       "type": "paragraph",
@@ -541,9 +541,9 @@
       "standardReferenceId": "79:3.7",
       "pageReference": "881.7",
       "sortId": "3.079.003.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "Los dravidianos figuran entre los primeros pueblos en construir ciudades y dedicarse a un vasto comercio de importaciones y exportaciones, tanto por tierra como por mar. Ya para el año 7000 a. de J.C. las caravanas de camellos viajaban en forma regular a la distante Mesopotamia. La marina de los dravidianos se aventuraba hacia las ciudades sumerias del Golfo Pérsico por el mar Arábigo y navegaba las aguas del Golfo de Bengala hasta las Indias Orientales. Estos navegantes y mercaderes importaron de Sumeria un alfabeto y el arte de escribir."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "El pueblo dravídico fue uno de los primeros que construyó ciudades y se dedicó al comercio de importación y exportación a gran escala tanto por tierra como por mar. En el año 7000 a. C. las caravanas de camellos hacían viajes regulares a la lejana Mesopotamia; los barcos dravídicos costeaban el mar Arábigo hasta las ciudades sumerias del golfo Pérsico y se aventuraban en las aguas del golfo de Bengala hasta las Indias Orientales. Esos marinos y mercaderes importaron de Sumeria un alfabeto y el arte de escribir."
     },
     {
       "type": "paragraph",
@@ -559,9 +559,9 @@
       "standardReferenceId": "79:3.8",
       "pageReference": "881.8",
       "sortId": "3.079.003.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La India Dravidiana",
-      "markdown": "Estas relaciones comerciales contribuyeron enormemente a una diversificación adicional de esta cultura cosmopolita, que se manifestó en una aparición precoz de muchos de los refinamientos, y aun lujos, de la vida urbana. Cuando los arios más recientes llegaron a la India no reconocieron en los dravidianos a sus primos anditas ya entremezclados con las razas sangik, pero sí descubrieron allí una civilización avanzada. A pesar de sus limitaciones biológicas, los dravidianos fundaron una civilización superior que se difundió por toda la India y que ha sobrevivido hasta los tiempos modernos en el Dekán."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La India dravídica",
+      "markdown": "Estas relaciones comerciales contribuyeron a diversificar aún más una cultura ya de por sí cosmopolita y provocar la temprana aparición de muchos de los refinamientos e incluso lujos de la vida urbana. Cuando posteriormente entraron los arios en la India, no pudieron reconocer en los dravídicos a sus primos anditas sumergidos en las razas sangik, pero sí encontraron una civilización muy avanzada. A pesar de sus limitaciones biológicas, los dravídicos fundaron una civilización superior que se difundió por toda la India y ha sobrevivido en el Decán hasta los tiempos modernos."
     },
     {
       "type": "section",
@@ -577,8 +577,8 @@
       "standardReferenceId": "79:4.0",
       "pageReference": null,
       "sortId": "3.079.004.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
       "markdown": null
     },
     {
@@ -595,9 +595,9 @@
       "standardReferenceId": "79:4.1",
       "pageReference": "882.1",
       "sortId": "3.079.004.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "La segunda penetración andita a la India fue la invasión aria durante un período de casi quinientos años a mediados del tercer milenio a. de J.C. La migración marcó el éxodo final de los anditas de sus tierras natales del Turquestán."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "La segunda penetración andita en la India fue la invasión aria durante un periodo de casi quinientos años a mediados del tercer milenio antes de Cristo. Esta emigración marcó el éxodo final de los anditas desde sus tierras natales del Turquestán."
     },
     {
       "type": "paragraph",
@@ -613,9 +613,9 @@
       "standardReferenceId": "79:4.2",
       "pageReference": "882.2",
       "sortId": "3.079.004.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "Los primeros centros arios estaban esparcidos en la mitad septentrional de la India, particularmente en el noroeste. Estos invasores no llegaron a completar la conquista del país, y posteriormente fueron destruidos como consecuencia de ello debido a su número inferior, lo que los volvió vulnerables a la absorción de los dravidianos del sur, quienes posteriormente invadieron la entera península con excepción de las provincias del Himalaya."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "Los primeros centros arios estuvieron esparcidos por la mitad norte de la India, sobre todo en el noroeste. Estos invasores no terminaron nunca de conquistar el país, y fue esta negligencia lo que acarreó su perdición porque su inferioridad numérica los hizo vulnerables a la absorción por los dravídicos del sur que invadirían posteriormente toda la península excepto las provincias himalayas."
     },
     {
       "type": "paragraph",
@@ -631,9 +631,9 @@
       "standardReferenceId": "79:4.3",
       "pageReference": "882.3",
       "sortId": "3.079.004.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "Los arios dejaron una escasa marca racial en la India, excepto en las provincias del norte. En el Dekán, su influencia fue más cultural y religiosa que racial. La mayor persistencia de la llamada sangre aria en el norte de la India se debe no sólo a su presencia en mayor número en estas regiones sino al hecho de que esa presencia fue reforzada por conquistadores, mercaderes y misioneros más recientes. Hasta el primer siglo a. de J.C. hubo una continua infiltración de sangre aria en la región del Pendjab, siendo el último influjo en forma de las campañas de los pueblos helénicos."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "Los arios dejaron muy poca huella racial en la India excepto en las provincias del norte. En el Decán su influencia fue más cultural y religiosa que racial. La mayor persistencia de la llamada sangre aria en el norte de la India se debe no solo a su presencia más numerosa en estas regiones, sino también a que fueron reforzados por conquistadores, comerciantes y misioneros posteriores. Hasta el siglo primero antes de Cristo hubo una infiltración continua de sangre aria en la región del Punyab; la última afluencia se produjo a raíz de las campañas de los pueblos helénicos."
     },
     {
       "type": "paragraph",
@@ -649,9 +649,9 @@
       "standardReferenceId": "79:4.4",
       "pageReference": "882.4",
       "sortId": "3.079.004.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "En las llanuras del Ganges, a la larga, los arios y los dravidianos se mezclaron produciendo una cultura elevada, y este centro fue reforzado posteriormente por contribuciones del noreste provenientes de la China."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "En la llanura del Ganges los arios y los dravídicos acabaron mezclándose y crearon una elevada cultura; este centro fue reforzado más tarde con aportaciones del nordeste procedentes de China."
     },
     {
       "type": "paragraph",
@@ -667,9 +667,9 @@
       "standardReferenceId": "79:4.5",
       "pageReference": "882.5",
       "sortId": "3.079.004.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "Muchos tipos de organizaciones sociales florecieron esporádicamente en la India desde los sistemas semidemocráticos de los arios hasta formas de gobierno despóticas y monárquicas. Pero la característica más notable de la sociedad fue la persistencia de las grandes castas sociales que fueron instituidas por los arios en un empeño por perpetuar la identidad racial. Este complicado sistema de castas ha sido preservado desde entonces hasta el tiempo presente."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "En la India florecieron cada cierto tiempo muchos tipos de organizaciones sociales, desde los sistemas semidemocráticos de los arios hasta formas de gobierno despóticas y monárquicas. Pero el rasgo más característico de esta sociedad fue la persistencia de las grandes castas sociales instituidas por los arios en un esfuerzo por perpetuar su identidad racial. Este elaborado sistema de castas se ha conservado hasta los tiempos presentes."
     },
     {
       "type": "paragraph",
@@ -685,9 +685,9 @@
       "standardReferenceId": "79:4.6",
       "pageReference": "882.6",
       "sortId": "3.079.004.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "Las cuatro grandes castas existentes, con excepción de la primera, fueron creadas con la fútil intención de impedir la amalgama racial de los conquistadores arios con sus inferiores sometidos. Pero la casta principal, la de los sacerdotes-maestros, surgió de los setitas. Los brahmines del siglo veinte d. de J.C. son los descendientes culturales directos de los sacerdotes del segundo jardín, aunque sus enseñanzas difieren muchísimo de las de sus ilustres predecesores."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "De las cuatro grandes castas, todas menos la primera se establecieron en el inútil empeño de impedir la amalgamación de los conquistadores arios con sus súbditos inferiores. En cambio la casta principal, la de los sacerdotes maestros, proviene de los setitas. Los brahmanes del siglo veinte después de Cristo son los descendientes culturales en línea directa de los sacerdotes del segundo jardín, aunque sus enseñanzas difieren enormemente de las de sus ilustres predecesores."
     },
     {
       "type": "paragraph",
@@ -703,9 +703,9 @@
       "standardReferenceId": "79:4.7",
       "pageReference": "882.7",
       "sortId": "3.079.004.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "Cuando los arios penetraron en la India llevaban consigo sus conceptos de Deidad, preservados en lo que quedaba de las tradiciones de la religión del segundo jardín. Pero los sacerdotes brahmines no supieron resistir el ímpetu pagano fomentado por contacto repentino con las religiones inferiores del Dekán tras el arrasamiento racial de los arios. Así pues, la vasta mayoría de la población cayó en el cautiverio de las esclavizantes supersticiones de las religiones inferiores; y de esa manera resultó que la India fracasó en producir la elevada civilización que se vislumbrara en épocas anteriores."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "Cuando los arios entraron en la India trajeron consigo sus conceptos de la Deidad tal como se habían conservado en las tradiciones supervivientes de la religión del segundo jardín. Pero los sacerdotes brahmanes no fueron capaces de resistir el impulso pagano surgido del contacto repentino con las religiones inferiores del Decán tras la obliteración racial de los arios. La inmensa mayoría de la población cayó en la esclavitud de las supersticiones de las religiones inferiores, y así fue como la India no pudo llegar a producir la alta civilización prefigurada en los primeros tiempos."
     },
     {
       "type": "paragraph",
@@ -721,9 +721,9 @@
       "standardReferenceId": "79:4.8",
       "pageReference": "882.8",
       "sortId": "3.079.004.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "El despertar espiritual del siglo sexto antes de Cristo no perduró en la India, habiéndose extinguido aun antes de la invasión mahometana. Pero algún día surgirá tal vez un Gautama más importante que conducirá a la India entera en búsqueda del Dios viviente, y entonces el mundo podrá presenciar el florecimiento de las potencialidades culturales de un pueblo versátil que por tanto tiempo permanece comatoso bajo la paralizante influencia de una visión espiritual sin progresión."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "El despertar espiritual del siglo sexto antes de Cristo no perduró en la India, se extinguió incluso antes de la invasión mahometana. Pero algún día puede surgir un Gautama más grande que conduzca a toda la India a la búsqueda del Dios vivo, y entonces el mundo contemplará el florecimiento de las potencialidades culturales de este pueblo multifacético que lleva tanto tiempo en estado de coma bajo la influencia entumecedora de una visión espiritual no progresiva."
     },
     {
       "type": "paragraph",
@@ -739,9 +739,9 @@
       "standardReferenceId": "79:4.9",
       "pageReference": "883.1",
       "sortId": "3.079.004.009",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Invasión Aria de la India",
-      "markdown": "La cultura descansa sobre una base biológica, pero las castas por sí solas no pueden perpetuar la cultura aria, pues la religión, la verdadera religión, es la fuente indispensable de esa energía más elevada que impulsa a los hombres a establecer una civilización superior basada en la fraternidad humana."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La invasión aria de la India",
+      "markdown": "La cultura descansa sobre un fundamento biológico, pero las castas por sí solas no podían perpetuar la cultura aria, porque la religión, la verdadera religión, es la fuente indispensable de aquella energía más alta que impulsa a los hombres a establecer una civilización superior basada en la hermandad humana."
     },
     {
       "type": "section",
@@ -757,8 +757,8 @@
       "standardReferenceId": "79:5.0",
       "pageReference": null,
       "sortId": "3.079.005.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
       "markdown": null
     },
     {
@@ -775,9 +775,9 @@
       "standardReferenceId": "79:5.1",
       "pageReference": "883.2",
       "sortId": "3.079.005.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "La historia de la India es la historia de la conquista andita y la consiguiente sumersion de los anditas en los pueblos evolucionarios más antiguos; la historia del Asia oriental en general es la historia de los sangiks primarios, particularmente el hombre rojo y el hombre amarillo. Estas dos razas evitaron casi en su totalidad la mezcla con el degradado linaje neandertal, que fue el que retardó enormemente al hombre azul en Europa, preservando de este modo el potencial superior del tipo sangik primario."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Mientras que la historia de la India es el relato de la conquista andita y su absorción final por los pueblos evolutivos más antiguos, la narración sobre Asia oriental versa más bien sobre los sangik primarios, en particular el hombre rojo y el hombre amarillo. Estas dos razas se libraron casi por completo de mezclarse con la degradada cepa neandertal que tanto retrasó al hombre azul en Europa y conservaron así el potencial superior del tipo sangik primario."
     },
     {
       "type": "paragraph",
@@ -793,9 +793,9 @@
       "standardReferenceId": "79:5.2",
       "pageReference": "883.3",
       "sortId": "3.079.005.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Los primeros hombres de Neandertal se diseminaron por toda Eurasia, pero el ala oriental era la más contaminada con los degradados linajes animales. Estos tipos subhumanos fueron desplazados hacia el sur por el quinto glaciar, la misma capa de hielo que por mucho tiempo bloqueó la migración sangik hacia el este en Asia. Y cuando el hombre rojo se dirigió hacia el noreste bordeando las tierras altas de la India, halló el noreste de Asia libre de esta especie subhumana. La organización tribal de las razas rojas se formó antes que la de cualquier otro pueblo, y fueron los primeros en emigrar del centro sangik de Asia central. Los linajes inferiores del hombre de Neandertal fueron destruidos o desplazados del territorio continental por las posteriores migraciones de las tribus amarillas. Pero el hombre rojo había reinado en forma suprema en el este de Asia durante casi cien mil años antes de que llegaran las tribus amarillas."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Aunque los primeros neandertales estaban extendidos por todo el ancho de Eurasia, su rama oriental era la más contaminada por cepas animales degradadas. Estos tipos subhumanos fueron empujados hacia el sur por el quinto glaciar, la misma capa de hielo que bloqueó durante tanto tiempo la emigración sangik hacia el este de Asia. Cuando el hombre rojo se desplazó hacia el nordeste rodeando las tierras altas de la India, encontró el nordeste de Asia libre de estos tipos subhumanos. La organización tribal de las razas rojas se formó antes que la de ningún otro pueblo, y fueron los primeros en emigrar desde el foco sangik de Asia central. Las cepas neandertales inferiores fueron aniquiladas o expulsadas del continente por las tribus amarillas que migraron más tarde. Pero antes de que llegaran las tribus amarillas, el hombre rojo había imperado en el este de Asia durante casi cien mil años."
     },
     {
       "type": "paragraph",
@@ -811,9 +811,9 @@
       "standardReferenceId": "79:5.3",
       "pageReference": "883.4",
       "sortId": "3.079.005.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Hace más de trescientos mil años el grupo principal de la raza amarilla invadió a la China desde el sur, como emigrantes costeros. Cada milenio fueron penetrando más y más en el continente, pero no establecieron contacto con sus hermanos tibetanos hasta tiempos relativamente recientes."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Hace más de trescientos mil años el grueso de la raza amarilla entró en China por el sur como inmigrantes costeros. Cada milenio se iban adentrando más en el continente, pero no entablaron contacto con sus hermanos inmigrantes tibetanos hasta tiempos relativamente recientes."
     },
     {
       "type": "paragraph",
@@ -829,9 +829,9 @@
       "standardReferenceId": "79:5.4",
       "pageReference": "883.5",
       "sortId": "3.079.005.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "La creciente presión de la población ocasionó que la raza amarilla en su desplazamiento hacia el norte, comenzó a penetrar en los territorios de caza del hombre rojo. Esta usurpación, unida al natural antagonismo racial, culminó en hostilidades, cada vez más graves, y de este modo comenzó la crucial lucha por las tierras fértiles del Asia más lejana."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "El aumento de la presión demográfica hizo que la raza amarilla en su desplazamiento hacia el norte empezara a meterse en los territorios de caza del hombre rojo. Esta intrusión, unida al natural antagonismo racial, culminó en hostilidades crecientes y así empezó la lucha decisiva por las tierras fértiles del Asia más lejana."
     },
     {
       "type": "paragraph",
@@ -847,9 +847,9 @@
       "standardReferenceId": "79:5.5",
       "pageReference": "883.6",
       "sortId": "3.079.005.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "El relato de esta contienda de una entera época entre las razas roja y amarilla es una epopeya de la historia de Urantia. Durante más de doscientos mil años estas dos razas superiores libraron una encarnizada e infatigable guerra. En las primeras luchas, vencieron generalmente las razas rojas y sus incursiones causaron estragos entre las colonias amarillas. Pero el hombre amarillo era un alumno aventajado en las destrezas de la guerra, y rápidamente manifestó una marcada habilidad para vivir pacíficamente con sus compatriotas. Los chinos fueron los primeros en aprender que en la unión está la fuerza. Las tribus rojas continuaron con sus graves conflictos de aniquilación mutua y comenzaron a sufrir repetidas derrotas a manos de los agresivos e implacables chinos, que continuaron su inexorable marcha hacia el norte."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "El relato de esta contienda multisecular entre la raza roja y la amarilla es una epopeya de la historia de Urantia. Durante más de doscientos mil años estas dos razas superiores libraron una guerra sin tregua ni cuartel. Los hombres rojos solían ganar los primeros asaltos, y sus incursiones sembraban la devastación en los asentamientos amarillos. Pero el hombre amarillo era un alumno aventajado en el arte de la guerra y mostró desde muy pronto una marcada aptitud para vivir pacíficamente con sus compatriotas. Los chinos fueron los primeros en aprender que la unión hace la fuerza. Las tribus rojas siguieron aniquilándose mutuamente y empezaron enseguida a sufrir repetidas derrotas a manos de los agresivos e implacables chinos en su marcha inexorable hacia el norte."
     },
     {
       "type": "paragraph",
@@ -865,9 +865,9 @@
       "standardReferenceId": "79:5.6",
       "pageReference": "883.7",
       "sortId": "3.079.005.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Hace cien mil años las diezmadas tribus de la raza roja se batían en retirada hacia los hielos del último glaciar, y cuando el pasaje de tierra hacia el este, sobre el Estrecho de Bering, se hizo transitable, estas tribus no tardaron en abandonar las inhospitalarias costas del continente asiático. Han transcurrido ochenta y cinco mil años desde el momento en que el último hombre rojo puro partió de Asia, pero la prolongada lucha dejó sus huellas genéticas sobre la victoriosa raza amarilla. Los pueblos chinos del norte, junto a los siberianos andonitas, asimilaron una importante cantidad del sangre roja y con ello se beneficiaron considerablemente."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Hace cien mil años las tribus diezmadas de la raza roja luchaban arrinconadas contra el hielo en retroceso del último glaciar, y cuando el corredor terrestre que cruzaba el istmo de Bering hacia el Oeste se hizo transitable, estas tribus no tardaron en abandonar las inhóspitas tierras del continente asiático. Han transcurrido ochenta y cinco mil años desde que el último hombre rojo puro salió de Asia, pero la larga lucha dejó su huella genética en la raza amarilla victoriosa. Los pueblos del norte de China, así como los siberianos andonitas, asimilaron muchos elementos de la estirpe roja que les aportaron un beneficio considerable."
     },
     {
       "type": "paragraph",
@@ -883,9 +883,9 @@
       "standardReferenceId": "79:5.7",
       "pageReference": "884.1",
       "sortId": "3.079.005.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Los indios de Norteamérica nunca llegaron a tomar contacto siquiera con los vástagos anditas de Adán y Eva, ya que fueron desposeídos de su tierra natal asiática unos cincuenta mil años antes de la llegada de Adán. Durante la época de las migraciones anditas los linajes puros rojos se estaban diseminando por Norteamérica como tribus nómades y cazadoras que practicaban la agricultura en menor grado. Estas razas y grupos culturales permanecieron en un aislamiento casi total del resto del mundo desde su llegada a las Américas hasta el fin del primer milenio de la era cristiana, cuando fueron descubiertos por las razas blancas de Europa. Hasta ese momento los esquimales eran lo más parecido al hombre blanco que hasta entonces jamás había visto las norteñas tribus de hombres rojos."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Los indios norteamericanos no llegaron nunca a entrar en contacto ni siquiera con la descendencia andita de Adán y Eva, ya que fueron desposeídos de sus tierras natales asiáticas unos cincuenta mil años antes de la llegada de Adán. Durante la edad de las emigraciones anditas las cepas rojas puras se iban extendiendo por América del Norte como tribus nómadas de cazadores con cierta actividad agrícola. Estas razas y grupos culturales permanecieron aislados casi por completo del resto del mundo desde su llegada a las Américas hasta el final del primer milenio de la era cristiana, cuando fueron descubiertos por las razas blancas de Europa. Hasta ese momento los esquimales eran lo más cercano al hombre blanco que las tribus norteñas de hombres rojos habían visto nunca."
     },
     {
       "type": "paragraph",
@@ -901,9 +901,9 @@
       "standardReferenceId": "79:5.8",
       "pageReference": "884.2",
       "sortId": "3.079.005.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Las razas roja y amarilla, son las únicas razas humanas que alcanzaron alguna vez un alto grado de civilización lejos de la influencia andita. El más antiguo centro cultural amerindio fue el de los Onamonalonton en California, pero ya por el año 35.000 a. de J.C. había desaparecido. En México, en Centroamérica y en las montañas de Sudamérica las ulteriores y más duraderas civilizaciones fueron fundadas por una raza predominantemente roja, pero que mostraba considerable cantidad de componentes de las razas amarilla, anaranjada y azul."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Las razas roja y amarilla son las únicas estirpes humanas que consiguieron alguna vez un alto grado de civilización fuera de la influencia de los anditas. La cultura amerindia más antigua fue el centro de Onamonalonton en California, pero desapareció mucho antes del año 35 000 a. C. En México, América Central y las montañas de América del Sur las civilizaciones posteriores y más duraderas fueron fundadas por una raza predominantemente roja, aunque con una importante adición de sangre amarilla, naranja y azul."
     },
     {
       "type": "paragraph",
@@ -919,9 +919,9 @@
       "standardReferenceId": "79:5.9",
       "pageReference": "884.3",
       "sortId": "3.079.005.009",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "El Hombre Rojo y el Hombre Amarillo",
-      "markdown": "Estas civilizaciones fueron producto de la evolución de los sangik, aunque vestigios de la raza andita llegaron hasta el Perú. Con excepción de los esquimales en Norteamérica y unos pocos anditas polinesios en Sudamérica, los pueblos del hemisferio occidental no tuvieron contacto con el resto del mundo hasta el fin del primer milenio después de Cristo. En el plan original de los Melquisedek para el mejoramiento de las razas de Urantia se había estipulado que un millón de los descendientes directos y puros de Adán debían ir a mejorar al hombre rojo de las Américas."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "El hombre rojo y el hombre amarillo",
+      "markdown": "Estas civilizaciones fueron productos evolutivos de los sangik, a pesar de que algunos rastros de sangre andita llegaron hasta Perú. A excepción de los esquimales en América del Norte y de unos pocos anditas polinesios en América del Sur, los pueblos del hemisferio oeste no tuvieron contacto con el resto del mundo hasta el final del primer milenio después de Cristo. En el plan original de los Melquisedec para mejorar las razas de Urantia estaba previsto que un millón de descendientes de Adán de línea pura irían a elevar a los hombres rojos de las Américas."
     },
     {
       "type": "section",
@@ -937,8 +937,8 @@
       "standardReferenceId": "79:6.0",
       "pageReference": null,
       "sortId": "3.079.006.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
       "markdown": null
     },
     {
@@ -955,9 +955,9 @@
       "standardReferenceId": "79:6.1",
       "pageReference": "884.4",
       "sortId": "3.079.006.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Algún tiempo después de desplazar al hombre rojo hacia Norteamérica, los chinos en plena expansión desalojaron a los andonitas de los valles de los ríos del este de Asia obligándolos a retirarse hacia Siberia, al norte, y el Turquestán, al oeste; donde pronto entrarían en contacto con la cultura superior de los anditas."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Algún tiempo después de haber expulsado al hombre rojo hacia América del Norte, la expansión china vació de andonitas los valles de los ríos del este de Asia y los empujó hacia el norte a Siberia y hacia el oeste al Turquestán, donde pronto entrarían en contacto con la cultura superior de los anditas."
     },
     {
       "type": "paragraph",
@@ -973,9 +973,9 @@
       "standardReferenceId": "79:6.2",
       "pageReference": "884.5",
       "sortId": "3.079.006.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "En Birmania y en la península de Indochina las culturas de la India y de China se mezclaron y combinaron produciendo las sucesivas civilizaciones de esas regiones. Allí la desaparecida raza verde ha persistido en una proporción mayor que en cualquier otra parte del mundo."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "En Birmania y la península de Indochina las culturas de China y de la India se fusionaron para crear las civilizaciones sucesivas de estas regiones. En esta parte del mundo la desaparecida raza verde ha perdurado en mayor proporción que en ninguna otra."
     },
     {
       "type": "paragraph",
@@ -991,9 +991,9 @@
       "standardReferenceId": "79:6.3",
       "pageReference": "884.6",
       "sortId": "3.079.006.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Muchas razas diferentes ocuparon las islas del Pacífico. En general, las islas situadas al sur, que por ese entonces eran más extensas, estaban habitadas por pueblos que tenían altos porcentajes de sangre de las razas verde e índiga. Las islas situadas al norte estaban dominadas por los andonitas y más tarde por razas compuestas en grandes proporciones por linajes de las razas roja y amarilla. Los antepasados del pueblo japonés no fueron desplazados del territorio continental hasta el año 12.000 a. de J.C., cuando resultaron desalojados por un poderoso ataque en dirección a la costa del sur por las tribus norteñas chinas. Su éxodo final se debió no tanto a la presión del crecimiento de la población sino a la iniciativa de un cacique a quien llegaron a considerar un personaje divino."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Muchas razas diferentes ocuparon las islas del Pacífico. Las islas del sur, entonces más extensas, fueron ocupadas en general por gentes que portaban un porcentaje importante de sangre verde e índigo. Las islas del norte estaban dominadas por andonitas y más tarde por razas que contenían grandes proporciones de las estirpes roja y amarilla. Los ancestros del pueblo japonés no fueron expulsados del continente hasta el año 12 000 a. C., cuando los desplazó el poderoso empuje de las tribus chinas del norte hacia el sur por la costa. Su éxodo final no se debió tanto a la presión demográfica como a la iniciativa de un cacique a quien llegaron a considerar como divino."
     },
     {
       "type": "paragraph",
@@ -1009,9 +1009,9 @@
       "standardReferenceId": "79:6.4",
       "pageReference": "885.1",
       "sortId": "3.079.006.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Al igual que los pueblos de la India y el Levante, las victoriosas tribus de los hombres amarillos establecieron sus primeras bases a lo largo de las costas y en las márgenes de los ríos. A las colonias costeras les fue mal en los años posteriores debido a las inundaciones cada vez más frecuentes y el cambio de curso de las aguas de los ríos, que hicieron insostenible la situación de la ciudades ubicadas en las tierras bajas."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Al igual que los pueblos de la India y del Levante, las tribus victoriosas del hombre amarillo establecieron sus primeros centros a lo largo de las costas y aguas arriba de los ríos. Los asentamientos costeros no prosperaron con el tiempo, ya que el aumento de las inundaciones y el curso cambiante de los ríos hicieron inviables las ciudades de las tierras bajas."
     },
     {
       "type": "paragraph",
@@ -1027,9 +1027,9 @@
       "standardReferenceId": "79:6.5",
       "pageReference": "885.2",
       "sortId": "3.079.006.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Hace veinte mil años los antepasados de los chinos habían construido una docena de primitivos centros de cultura y enseñanza, especialmente a lo largo de los ríos Amarillo y Changjiang [Azul o Yangtze]. Ahora esos centros comenzaban a ser reforzados con la llegada de un caudal constante de pueblos de mezcla superior que provenían de Xinjiang y del Tíbet. La migración desde el Tíbet hacia el valle del río Changjiang no se propagó tanto como en el norte, ni tampoco eran los centros tibetanos tan avanzados como aquellos de la cuenca del Tarim. Pero ambos movimientos llevaron consigo hacia el este y las colonias ribereñas cierta cantidad de sangre andita."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Hace veinte mil años los ancestros de los chinos habían construido doce sólidos centros de cultura y enseñanza primitivas, muchos de ellos a lo largo de los ríos Amarillo y Yangtsé. Estos centros se vieron pronto reforzados por la llegada de una corriente continua de pueblos superiores mixtos procedentes de Sinkiang y del Tíbet. La emigración desde el Tíbet hacia el valle del Yangtsé no fue tan amplia como en el norte, ni tampoco los centros tibetanos eran tan avanzados como los de la cuenca del Tarim. Pero ambos movimientos llevaron cierta cantidad de sangre andita en dirección este hasta los asentamientos de los ríos."
     },
     {
       "type": "paragraph",
@@ -1045,8 +1045,8 @@
       "standardReferenceId": "79:6.6",
       "pageReference": "885.3",
       "sortId": "3.079.006.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
       "markdown": "La superioridad de la antigua raza amarilla se debió a cuatro grandes factores:"
     },
     {
@@ -1063,9 +1063,9 @@
       "standardReferenceId": "79:6.7",
       "pageReference": "885.4",
       "sortId": "3.079.006.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "1. *Genético.* A diferencia de sus primos azules en Europa, tanto la raza roja como la amarilla se habían salvado en gran medida de la mezcla con linajes humanos degradados. Los chinos norteños, ya mejorados con pequeñas cantidades de los superiores linajes rojo y andonita, pronto se beneficiarían con un considerable influjo de sangre andita. A los chinos del sur no les fue tan bien en este sentido, y sufrieron mucho las consecuencias de la absorción de la raza verde, y posteriormente fueron debilitados aún más por la infiltración de multitudes de pueblos inferiores que fueron expulsados de la India como consecuencia de la invasión andita-dravidiana. Hoy en día existe en China una notable diferencia entre las razas del norte y las del sur."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "1. *Genético*. A diferencia de sus primos azules de Europa, tanto la raza roja como la amarilla se habían librado casi por completo de mezclarse con estirpes humanas degradadas. Los chinos del norte, ya fortalecidos con pequeñas aportaciones de las cepas superiores roja y andonita, iban a beneficiarse pronto de una importante afluencia de sangre andita. A los chinos del sur no les fue tan bien en este aspecto. Llevaban mucho tiempo sufriendo las consecuencias de haber absorbido a la raza verde y se debilitarían más aún por la infiltración posterior de multitud de pueblos inferiores expulsados de la India por la invasión andito-dravídica. Hoy en día se aprecia en China una clara diferencia entre las razas del norte y las del sur."
     },
     {
       "type": "paragraph",
@@ -1081,9 +1081,9 @@
       "standardReferenceId": "79:6.8",
       "pageReference": "885.5",
       "sortId": "3.079.006.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "2. *Social.* La raza amarilla aprendió rápidamente el valor de la paz interna. Su pacifismo tanto contribuyó al aumento de la población que aseguró la diseminación de su civilización entre millones de personas. Desde el año 25.000 el 5000 a. de J.C. la civilización más masiva de Urantia se hallaba en el centro y en el norte de China. El hombre amarillo fue el primero en lograr una solidaridad racial y el primero en alcanzar una civilización cultural, social y política en gran escala."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "2. *Social*. La raza amarilla aprendió muy pronto el valor de la paz interna. Esta actitud pacífica hacia su propia raza contribuyó tanto a aumentar la población que su civilización se expandió entre muchos millones de personas. Entre los años 25 000 y 5000 a. C. la civilización más masiva de Urantia estaba en el centro y norte de China. El hombre amarillo fue el primero en conseguir una solidaridad racial, el primero en alcanzar una civilización cultural, social y política a gran escala."
     },
     {
       "type": "paragraph",
@@ -1099,9 +1099,9 @@
       "standardReferenceId": "79:6.9",
       "pageReference": "885.6",
       "sortId": "3.079.006.009",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Los chinos del año 15.000 a. de J.C. eran militaristas agresivos; no se habían debilitado por una excesiva reverencia al pasado y siendo menos de doce millones, constituían una compacta unidad con un lenguaje común. Durante esta época construyeron una verdadera nación, mucho más unida y homogénea que sus uniones políticas de tiempos históricos."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Los chinos del año 15 000 a. C. eran militaristas agresivos. No se habían debilitado aún por un exceso de veneración hacia el pasado y formaban un conjunto compacto cercano a los doce millones de personas con un idioma común. Durante esta edad construyeron una verdadera nación mucho más unida y homogénea que sus uniones políticas de los tiempos históricos."
     },
     {
       "type": "paragraph",
@@ -1117,9 +1117,9 @@
       "standardReferenceId": "79:6.10",
       "pageReference": "885.7",
       "sortId": "3.079.006.010",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "3. *Espiritual.* En la era de las migraciones anditas, los chinos constituían uno de los pueblos más espirituales de la tierra. La prolongada fidelidad a la adoración de la Verdad Única proclamada por Singlangton los mantuvo al frente de la mayoría de las otras razas. El estímulo de una religión progresiva y avanzada es frecuentemente un factor decisivo en el desarrollo cultural. Mientras la India languidecía, China avanzaba con ímpetu gracias al vigorizador estímulo de una religión en la que la verdad fue elevada como la Deidad suprema."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "3. *Espiritual*. Durante la edad de las emigraciones anditas los chinos estaban entre los pueblos más espirituales del planeta. Su larga observancia del culto a la Verdad Única proclamada por Singlangton los mantuvo por delante de casi todas las demás razas. En muchos casos el estímulo de una religión progresiva y avanzada es un factor decisivo para el desarrollo cultural. Mientras la India languidecía, China tomaba la delantera bajo el vigorizante estímulo de una religión que consagraba la verdad como Deidad suprema."
     },
     {
       "type": "paragraph",
@@ -1135,9 +1135,9 @@
       "standardReferenceId": "79:6.11",
       "pageReference": "885.8",
       "sortId": "3.079.006.011",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "Esta adoración de la verdad estimulaba la investigación y la exploración intrépida de las leyes de la naturaleza y los potenciales de la humanidad. Aun los chinos de hace seis mil años seguían siendo entusiastas y enérgicos estudiantes en la búsqueda de la verdad."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "Este culto a la verdad estimulaba la investigación y la exploración audaz de las leyes de la naturaleza y los potenciales de la humanidad. Los chinos de hace incluso seis mil años seguían siendo estudiantes entusiastas y buscaban la verdad con ahínco."
     },
     {
       "type": "paragraph",
@@ -1153,9 +1153,9 @@
       "standardReferenceId": "79:6.12",
       "pageReference": "885.9",
       "sortId": "3.079.006.012",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "4. *Geográfico.* China está protegida por las montañas hacia el oeste y por el Pacífico hacia el este. Solamente el norte está abierto a los ataques, y desde los días del hombre rojo hasta la llegada de los descendientes de los anditas más recientes, el norte no estuvo ocupado por razas agresivas."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "4. *Geográfico*. China está protegida al oeste por las montañas y al este por el Pacífico. Solo es vulnerable por el norte, y desde los días del hombre rojo hasta la llegada de los últimos descendientes de los anditas, el norte no estuvo ocupado por ninguna raza agresiva."
     },
     {
       "type": "paragraph",
@@ -1171,9 +1171,9 @@
       "standardReferenceId": "79:6.13",
       "pageReference": "886.1",
       "sortId": "3.079.006.013",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Albores de la Civilización China",
-      "markdown": "De no haber sido por las barreras montañosas y la posterior decadencia de la cultura espiritual, la raza amarilla indudablemente habría atraído la mayor parte de la migración andita desde el Turquestán e indudablemente podría haber dominado rápidamente la civilización mundial."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los albores de la civilización china",
+      "markdown": "De no haber sido por las barreras montañosas y el declive posterior de su cultura espiritual, la raza amarilla habría atraído sin duda a la mayor parte de las emigraciones anditas procedentes del Turquestán y es indiscutible que habría dominado rápidamente la civilización del mundo."
     },
     {
       "type": "section",
@@ -1189,8 +1189,8 @@
       "standardReferenceId": "79:7.0",
       "pageReference": null,
       "sortId": "3.079.007.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
       "markdown": null
     },
     {
@@ -1207,9 +1207,9 @@
       "standardReferenceId": "79:7.1",
       "pageReference": "886.2",
       "sortId": "3.079.007.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "Hace unos quince mil años los anditas atravesaban en grandes números el paso de Ti Tao y se diseminaban por la parte superior del valle del río Amarillo entre las colonias chinas de Kansu. De allí penetraron en dirección este hasta Honan, donde estaban ubicadas las comunidades más progresistas. Esta infiltración desde el oeste fue aproximadamente mitad andonita y mitad andita."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "Hace unos quince mil años importantes contingentes de anditas atravesaban el paso de Ti Tao y se diseminaban por la parte alta del valle del río Amarillo entre los asentamientos chinos de Gansu. Pronto penetraron en dirección este hasta Henan, donde se situaron los asentamientos más progresivos. Esta infiltración procedente del oeste fue mitad andita y mitad andonita casi a partes iguales."
     },
     {
       "type": "paragraph",
@@ -1225,9 +1225,9 @@
       "standardReferenceId": "79:7.2",
       "pageReference": "886.3",
       "sortId": "3.079.007.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "Los centros culturales del norte ubicados a lo largo del río Amarillo habían sido siempre más progresistas que las colonias del sur sobre el río Changjiang. En unos pocos miles de años, después de la llegada de estos mortales superiores, si bien escasos en números, las colonias a lo largo del río Amarillo se adelantaron a las aldeas del río Changjiang alcanzando una avanzada posición en comparación con sus hermanos del sur, posición que aún mantienen."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "Los centros de cultura del norte ubicados a lo largo del río Amarillo habían sido siempre más progresivos que los asentamientos meridionales del Yangtsé. Pocos miles de años después de la llegada de un pequeño número de estos mortales superiores, los asentamientos que bordeaban el río Amarillo habían adelantado a las aldeas del Yangtsé, y esta posición avanzada sobre sus hermanos del sur se ha mantenido desde entonces."
     },
     {
       "type": "paragraph",
@@ -1243,9 +1243,9 @@
       "standardReferenceId": "79:7.3",
       "pageReference": "886.4",
       "sortId": "3.079.007.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "No es que haya habido tantos anditas, ni que su cultura fuera tan superior, sino que la amalgama con ellos produjo un linaje más versátil. Los chinos del norte recibieron justamente suficiente sangre andita como para estimular ligeramente la innata capacidad de su mente, pero menos de lo que hubiera sido necesario para inspirarlos con la inquietud y curiosidad exploratoria tan características de las razas blancas del norte. Esta infusión limitada de herencia andita fue menos perturbadora para la estabilidad innata del tipo sangik."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "No es que hubiera tantos anditas, ni que su cultura fuera tan superior, sino que la amalgamación con ellos produjo una estirpe más polifacética. Los chinos del norte recibieron justo lo suficiente de la cepa andita como para estimular algo la capacidad innata de sus mentes, pero no lo suficiente como para prender en ellos la inquieta curiosidad exploratoria tan característica de las razas blancas del norte. Esta inyección más limitada de herencia andita fue menos perturbadora para la estabilidad innata del tipo sangik."
     },
     {
       "type": "paragraph",
@@ -1261,9 +1261,9 @@
       "standardReferenceId": "79:7.4",
       "pageReference": "886.5",
       "sortId": "3.079.007.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "Las olas más recientes de anditas llevaron consigo parte de los avances culturales de la Mesopotamia; esto es particularmente cierto respecto a las últimas olas de migración desde el oeste. Ellas mejoraron notablemente las prácticas económicas y educacionales de los chinos norteños, y aunque su influencia sobre las culturas religiosas de la raza amarilla fue efímera, sus posteriores descendientes contribuyeron en gran medida al subsiguiente despertar espiritual. Pero las tradiciones anditas de la belleza del Edén y Dalamatia tuvieron su influencia sobre las tradiciones chinas. Las primitivas leyendas chinas ubicaban «la tierra de los dioses» en el oeste."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "Las oleadas posteriores de anditas aportaron algunos de los avances culturales de Mesopotamia; esto es especialmente cierto en el caso de las últimas oleadas migratorias procedentes del oeste. Gracias a ellas las prácticas económicas y educativas de los chinos del norte mejoraron considerablemente, y aunque su influencia sobre la cultura religiosa de la raza amarilla fue efímera, sus descendientes más tardíos contribuyeron mucho a que se produjera un despertar espiritual ulterior. Por otra parte, las tradiciones anditas de la belleza del Edén y de Dalamatia influyeron efectivamente en las tradiciones chinas; las primeras leyendas chinas sitúan «la tierra de los dioses» en el oeste."
     },
     {
       "type": "paragraph",
@@ -1279,9 +1279,9 @@
       "standardReferenceId": "79:7.5",
       "pageReference": "886.6",
       "sortId": "3.079.007.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "El pueblo chino no comenzó a construir ciudades ni iniciarse en la producción de manufacturas hasta después del año 10.000 a. de J.C., tras los cambios climáticos en el Turquestán y la llegada de la última inmigración andita. La infusión de esta nueva sangre no agregó mucho a la civilización del hombre amarillo, pero sí estimuló un adicional y rápido desarrollo de las tendencias latentes de los superiores linajes chinos. Desde Honan hasta Chensi los potenciales de una civilización avanzada comenzaban a materializarse. Los trabajos en metales y todas las artes de manufacturas datan de aquellos días."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "El pueblo chino no comenzó a construir ciudades e iniciarse en la manufactura hasta después del año 10 000 a. C., tras los cambios climáticos del Turquestán y la llegada de los inmigrantes anditas posteriores. La inyección de esta sangre nueva no aportó gran cosa a la civilización del hombre amarillo, aunque sí estimuló un nuevo y rápido desarrollo de las tendencias latentes en las estirpes chinas superiores. Desde Henan hasta Shanxi, los potenciales de una civilización avanzada empezaban a dar su fruto. La metalurgia y todas las artes de la manufactura datan de aquellos días."
     },
     {
       "type": "paragraph",
@@ -1297,9 +1297,9 @@
       "standardReferenceId": "79:7.6",
       "pageReference": "886.7",
       "sortId": "3.079.007.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "Los Anditas Entran a la China",
-      "markdown": "Las similitudes entre algunos de los métodos de los primitivos chinos y mesopotámicos sobre el cálculo del tiempo, la astronomía y la administración de gobierno se debieron a las relaciones comerciales entre estos dos centros situados remotamente. Los mercaderes chinos recorrían las rutas por tierra a través del Turquestán hacia la Mesopotamia aun en los días de los sumerios. Y no fue éste un intercambio unilateral, puesto que el valle del Eufrates se benefició considerablemente, así como también los pueblos de las llanuras del Ganges. Pero los cambios climáticos y las invasiones nómades del tercer milenio antes de Cristo redujeron considerablemente el volumen de comercio por los senderos de las caravanas en el Asia central."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "Los anditas entran en China",
+      "markdown": "Las similitudes entre algunos de los primeros métodos chinos y mesopotámicos de cálculo del tiempo, de astronomía y de administración gubernamental se debieron a las relaciones comerciales entre estos dos centros tan alejados entre sí. Incluso en tiempos de los sumerios, los mercaderes chinos viajaban por las rutas terrestres que atravesaban el Turquestán hasta Mesopotamia. Este intercambio no fue unilateral; benefició considerablemente al valle del Éufrates igual que a los pueblos de la llanura del Ganges. Sin embargo, los cambios climáticos y las invasiones nómadas del tercer milenio antes de Cristo redujeron mucho el volumen de comercio por las pistas de caravanas de Asia central."
     },
     {
       "type": "section",
@@ -1315,8 +1315,8 @@
       "standardReferenceId": "79:8.0",
       "pageReference": null,
       "sortId": "3.079.008.000",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
       "markdown": null
     },
     {
@@ -1333,9 +1333,9 @@
       "standardReferenceId": "79:8.1",
       "pageReference": "887.1",
       "sortId": "3.079.008.001",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "Mientras el hombre rojo sufrió las consecuencias de guerras excesivas, no sería completamente incorrecto decir que el desarrollo de la categoría de estado entre los chinos fue demorado por la escrupulosa conquista del Asia. Tenían ellos una gran tendencia a la solidaridad racial, pero ésta no llegó a desarrollarse apropiadamente porque faltaba el estímulo impulsor del constante peligro de una agresión exterior."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "Así como el hombre rojo se vio perjudicado por su excesiva belicosidad, no está de más observar que el dominio total de los chinos sobre Asia retrasó el desarrollo del Estado. Tenían un gran potencial de solidaridad racial, pero no llegó a desarrollarse debidamente porque les faltaba el estímulo impulsor que supone el peligro permanente de una agresión exterior."
     },
     {
       "type": "paragraph",
@@ -1351,9 +1351,9 @@
       "standardReferenceId": "79:8.2",
       "pageReference": "887.2",
       "sortId": "3.079.008.002",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "En cuanto se hubo completado la conquista del Asia oriental, el antiguo estado militar se fue desintegrando gradualmente, y las pasadas guerras fueron olvidadas. De las épicas luchas con la raza roja sólo persistió la vaga tradición de un antiguo enfrentamiento con los pueblos arqueros. Los chinos pronto se volcaron a la agricultura, lo que contribuyó aún más a fomentar sus tendencias pacíficas. Al mismo tiempo, el hecho de que la población indicaba una relación hombre-tierra muy por debajo de los requisitos agrícolas, contribuyó más aún al creciente carácter pacífico del país."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "Una vez terminada la conquista del este de Asia, el antiguo Estado militar se fue desintegrando gradualmente y se olvidaron las guerras pasadas. De la épica lucha con la raza roja solo subsistió la vaga tradición de una antigua contienda con los pueblos arqueros. Los chinos se volcaron pronto en el trabajo de la tierra, lo que acentuó más sus tendencias pacíficas, y el hecho de que su población estuviera muy por debajo de la ratio hombre-tierra para una sociedad agrícola contribuyó aún más al creciente carácter pacífico del país."
     },
     {
       "type": "paragraph",
@@ -1369,9 +1369,9 @@
       "standardReferenceId": "79:8.3",
       "pageReference": "887.3",
       "sortId": "3.079.008.003",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "La conciencia de los logros pasados (un tanto menor actualmente), el conservadurismo de un pueblo abrumadoramente agrícola, y una muy bien desarrollada vida familiar dieron origen a la veneración de los antepasados, que culminó en la costumbre de honrar a los hombres del pasado casi hasta lindar con la adoración. Una actitud muy similar prevaleció entre las razas blancas en Europa durante unos quinientos años tras la desintegración de la civilización grecorromana."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "La consciencia de los logros del pasado (algo atenuada en el presente), el conservadurismo de un pueblo abrumadoramente agrícola y una vida familiar bien desarrollada dieron nacimiento a la veneración de los ancestros, que culminó en la costumbre de honrar a los hombres del pasado hasta rayar en la adoración. Una actitud muy similar prevaleció entre las razas blancas de Europa durante unos quinientos años tras la desintegración de la civilización grecorromana."
     },
     {
       "type": "paragraph",
@@ -1387,9 +1387,9 @@
       "standardReferenceId": "79:8.4",
       "pageReference": "887.4",
       "sortId": "3.079.008.004",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "La creencia y la adoración de la «Verdad Única» tal como era enseñada por Singlangton nunca dejó de existir completamente; pero, a medida que fue pasando el tiempo, la búsqueda de una nueva y más elevada verdad pasó a ser eclipsada por una creciente tendencia a venerar aquella que ya estaba establecida. Lentamente, el genio de la raza amarilla se desvió de lo que había sido la búsqueda de lo desconocido, hacia la preservación de lo conocido. Y ésta es la razón de la paralización de lo que había sido la civilización de más rápido progreso en el mundo."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "La creencia en la «Verdad Única» y la adoración de esa verdad, tal como enseñó Singlangton, no murieron nunca del todo, pero a medida que pasaba el tiempo, la búsqueda de verdades nuevas y más elevadas fue eclipsada por una tendencia creciente a venerar lo que estaba ya establecido. Lentamente, el genio de la raza amarilla se fue desviando de la búsqueda de lo desconocido a la conservación de lo conocido. Y por este motivo se estancó la civilización que había protagonizado el progreso más rápido del mundo."
     },
     {
       "type": "paragraph",
@@ -1405,9 +1405,9 @@
       "standardReferenceId": "79:8.5",
       "pageReference": "887.5",
       "sortId": "3.079.008.005",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "Entre los años 4000 y 500 a. de J.C. se consumó la reunificación política de la raza amarilla, pero la unión cultural de los centros de los ríos Amarillo y el Changjiang ya había sido lograda. Esta reunificación política de los últimos grupos tribales no se produjo sin conflictos, pero el concepto guerrero permaneció desprestigiado en la sociedad. El culto de los antepasados, el aumento de los dialectos y la falta de acción militar durante miles y miles de años hicieron de éste un pueblo ultrapacífico."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "La reunificación política de la raza amarilla se consumó entre los años 4000 y 500 a. C., aunque ya se había efectuado antes la unión cultural de los centros del Yangtsé y el río Amarillo. Esta reunificación política de los grupos tribales más tardíos no se produjo sin conflictos, pero la opinión pública seguía siendo contraria a la guerra. El culto a los ancestros, la proliferación de dialectos y la ausencia de reclutamientos militares durante miles y miles de años habían generado un pueblo ultrapacífico."
     },
     {
       "type": "paragraph",
@@ -1423,9 +1423,9 @@
       "standardReferenceId": "79:8.6",
       "pageReference": "887.6",
       "sortId": "3.079.008.006",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "A pesar de fracasar en el cumplimiento de la promesa del desarrollo precoz de un estado avanzado, la raza amarilla avanzó progresivamente en la realización de las artes de la civilización, especialmente en los campos de la agricultura y la horticultura. Los problemas hidromecánicos enfrentados por los agricultores en Chensi y Honan demandaron la cooperación de los grupos para su solución. Esas dificultades de riego y de conservación de los suelos contribuyeron, no en pequeña medida, al desarrollo de una interdependencia entre los agricultores con la consiguiente promoción de la paz entre esos grupos."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "Aunque el desarrollo precoz de un Estado avanzado que parecía prometer la raza amarilla no llegó a producirse, esta raza avanzó progresivamente en la realización de las artes de la civilización, sobre todo en los campos de la agricultura y la horticultura. Los agricultores de Shanxi y Henan necesitaban cooperar colectivamente para solucionar sus problemas hidráulicos. Esas dificultades relacionadas con el riego y la conservación del suelo favorecieron considerablemente el desarrollo de la interdependencia con la consiguiente promoción de la paz entre grupos agrícolas."
     },
     {
       "type": "paragraph",
@@ -1441,9 +1441,9 @@
       "standardReferenceId": "79:8.7",
       "pageReference": "887.7",
       "sortId": "3.079.008.007",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "Pronto el desarrollo ulterior de la escritura, conjuntamente con el establecimiento de escuelas, contribuyeron a la diseminación del conocimiento en escala sin precedentes. Pero la engorrosa naturaleza del sistema de escritura ideográfica impuso una limitación numérica a las clases cultas, a pesar de la temprana aparición de la imprenta. Y por sobre todas las cosas, el proceso de normalización social y la dogmatización religioso-filosófica continuó. El desarrollo religioso del culto de los antepasados pasó a ser aun más complicado debido a una inundación de supersticiones que presuponían la adoración de la naturaleza, pero persistieron vestigios de un real concepto de Dios en la adoración imperial de Shang-ti."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "El desarrollo de la escritura unido al establecimiento de escuelas contribuyeron pronto a la difusión del conocimiento a escala desconocida hasta entonces. Sin embargo, la complicación del sistema de escritura ideográfica limitó en número a las clases cultas a pesar de la aparición temprana de la imprenta. Por su parte, el proceso de normalización social y dogmatización filosófico-religiosa siguió avanzando a buen ritmo por encima de todo lo demás. El desarrollo religioso de la veneración a los ancestros se complicó más con la incorporación de un torrente de supersticiones relacionadas con la adoración de la naturaleza, pero en el culto imperial a Shangdi se seguían conservando vestigios de un verdadero concepto de Dios."
     },
     {
       "type": "paragraph",
@@ -1459,9 +1459,9 @@
       "standardReferenceId": "79:8.8",
       "pageReference": "888.1",
       "sortId": "3.079.008.008",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "La gran debilidad de la veneración de los antepasados consiste en que ésta promueve una filosofía de visión retrógrada. Aunque sea prudente recoger sabiduría del pasado, es un desatino considerar el pasado como la única fuente de la verdad. La verdad es relativa y extensible, siempre *vive* en el presente logrando nuevas expresiones en cada generación de hombres, aun en cada vida humana."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "El punto débil de la veneración a los ancestros es que promueve una filosofía orientada hacia atrás. Por sensato que pueda ser cosechar la sabiduría del pasado, es un desatino considerar que el pasado es la fuente exclusiva de la verdad. La verdad es relativa y está en expansión; *vive* siempre en el presente y consigue una expresión nueva en cada generación de hombres, incluso en cada vida humana."
     },
     {
       "type": "paragraph",
@@ -1477,9 +1477,9 @@
       "standardReferenceId": "79:8.9",
       "pageReference": "888.2",
       "sortId": "3.079.008.009",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "La gran fuerza de la veneración de los antepasados es el valor que esa actitud confiere a la familia. La sorprendente estabilidad y persistencia de la cultura china es una consecuencia de la suprema posición otorgada a la familia, ya que la civilización es directamente dependiente del funcionamiento efectivo de la familia. Y en la China la familia llegó a tener una importancia social, aun una significación religiosa, que muy pocos pueblos han sabido alcanzar."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "El punto fuerte de la veneración a los ancestros es el valor que esta actitud atribuye a la familia. La asombrosa persistencia y estabilidad de la cultura china son consecuencia de la posición primordial conferida a la familia, pues la civilización depende directamente del funcionamiento efectivo de esta institución. En China la familia alcanzó una importancia social e incluso un significado religioso que muy pocos pueblos han podido emular."
     },
     {
       "type": "paragraph",
@@ -1495,9 +1495,9 @@
       "standardReferenceId": "79:8.10",
       "pageReference": "888.3",
       "sortId": "3.079.008.010",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "La devoción filial y la lealtad familiar impuestas por el creciente culto de la adoración a los antepasados aseguró el establecimiento de relaciones familiares superiores y de perdurables grupos familiares, todo lo cual facilitó los siguientes factores en la preservación de la civilización:"
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "La devoción filial y la lealtad familiar exigidas por el culto creciente a los ancestros aseguró el establecimiento de relaciones familiares superiores y grupos familiares duraderos que favorecieron el desarrollo de los siguientes factores preservadores de la civilización:"
     },
     {
       "type": "paragraph",
@@ -1513,9 +1513,9 @@
       "standardReferenceId": "79:8.11",
       "pageReference": "888.4",
       "sortId": "3.079.008.011",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "1. Conservación de la propiedad y riqueza."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "1. La conservación de la propiedad y la riqueza."
     },
     {
       "type": "paragraph",
@@ -1531,9 +1531,9 @@
       "standardReferenceId": "79:8.12",
       "pageReference": "888.5",
       "sortId": "3.079.008.012",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "2. El compartir las experiencias de más de una generación."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "2. La puesta en común de la experiencia de más de una generación."
     },
     {
       "type": "paragraph",
@@ -1549,9 +1549,9 @@
       "standardReferenceId": "79:8.13",
       "pageReference": "888.6",
       "sortId": "3.079.008.013",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "3. Educación eficiente de los niños en las artes y ciencias del pasado."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "3. La educación eficiente de los niños en las artes y ciencias del pasado."
     },
     {
       "type": "paragraph",
@@ -1567,9 +1567,9 @@
       "standardReferenceId": "79:8.14",
       "pageReference": "888.7",
       "sortId": "3.079.008.014",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "4. Desarrollo de un fuerte sentido del deber, el realzamiento de la moralidad y el aumento de la sensibilidad ética."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "4. El desarrollo de un fuerte sentido del deber, el mejoramiento de la moralidad y el aumento de la sensibilidad ética."
     },
     {
       "type": "paragraph",
@@ -1585,9 +1585,9 @@
       "standardReferenceId": "79:8.15",
       "pageReference": "888.8",
       "sortId": "3.079.008.015",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "El período formativo de la civilización china, que comienza con la llegada de los anditas, continúa hasta el gran despertar ético, moral y semirreligioso del siglo sexto antes de Cristo. Y la tradición china conserva el confuso registro del pasado evolucionario; la transición de la familia materna a la familia paterna, el establecimiento de la agricultura, el desarrollo de la arquitectura, la iniciación de la industria —todos ellos se narran sucesivamente. Esta historia presenta, con mayor precisión que cualquier otro relato similar, la imagen del magnífico ascenso de un pueblo superior a partir de los niveles de la barbarie. Durante este período pasaron de una sociedad agrícola primitiva a una más elevada organización social, abarcando ciudades, manufacturas, trabajos con metales, intercambio comercial, gobierno, escritura, matemáticas, arte, ciencias e imprenta."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "El periodo formativo de la civilización china, iniciado con la llegada de los anditas, se extiende hasta el gran despertar ético, moral y semirreligioso del siglo sexto antes de Cristo. La tradición china conserva de forma difusa la historia del pasado evolutivo: la transición de la familia matriarcal a la patriarcal, el establecimiento de la agricultura, el desarrollo de la arquitectura, el inicio de la industria; y todo ello narrado de forma sucesiva. Esta historia presenta con mayor precisión que cualquier otro relato similar la imagen del ascenso magnífico de un pueblo superior desde los niveles de la barbarie. Durante ese tiempo pasaron de una sociedad agrícola primitiva a una organización social más alta con ciudades, manufactura, metalurgia, comercio, gobierno, escritura, matemáticas, arte, ciencias e imprenta."
     },
     {
       "type": "paragraph",
@@ -1603,9 +1603,9 @@
       "standardReferenceId": "79:8.16",
       "pageReference": "888.9",
       "sortId": "3.079.008.016",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "Así pues la antigua civilización de la raza amarilla ha perdurado a través de los siglos. Han transcurrido casi cuarenta mil años desde que se produjeron los primeros avances importantes en la cultura china. A pesar de los muchos retrocesos, la civilización de los hijos de Han sigue siendo la que más se acerca a un cuadro de progreso continuo e ininterrumpido que llega directamente hasta el siglo veinte. Los desarrollos religiosos y mecánicos de las razas blancas han sido de alto orden, pero no han superado nunca a los chinos en lealtad familiar, ética de grupo o moralidad personal."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "Y así ha perdurado a través de los siglos la antigua civilización de la raza amarilla. Han transcurrido casi cuarenta mil años desde que se produjeron los primeros avances importantes en la cultura china, y aunque ha habido muchos retrocesos, la civilización de los hijos de Han es la que más cerca está de presentar un cuadro ininterrumpido de progresión continua hasta los tiempos del siglo veinte. Las razas blancas han alcanzado un alto grado de desarrollo mecánico y religioso, pero no han superado nunca a los chinos en lealtad a la familia, ética de grupo ni moralidad personal."
     },
     {
       "type": "paragraph",
@@ -1621,9 +1621,9 @@
       "standardReferenceId": "79:8.17",
       "pageReference": "888.10",
       "sortId": "3.079.008.017",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "Esta antigua cultura ha contribuido mucho a la felicidad humana; millones de seres humanos han vivido y muerto, bendecidos por sus logros. Durante siglos esta gran civilización ha descansado sobre los laureles del pasado, pero ya está volviendo a despertar para visualizar otra vez los trascendentales objetivos de la existencia mortal, enfrentando nuevamente la infatigable lucha por el progreso sin fin."
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "Esta antigua cultura ha contribuido mucho a la felicidad humana. Millones de seres humanos han vivido y han muerto bendecidos por sus logros. Esta gran civilización ha descansado durante siglos sobre los laureles del pasado, pero está volviendo a despertar en este mismo momento para plantearse de nuevo las metas trascendentes de la existencia mortal, para hacer suya una vez más la lucha sin tregua por un progreso sin fin."
     },
     {
       "type": "paragraph",
@@ -1639,9 +1639,9 @@
       "standardReferenceId": "79:8.18",
       "pageReference": "888.11",
       "sortId": "3.079.008.018",
-      "paperTitle": "La Expansión Andita en el Oriente",
-      "sectionTitle": "La Civilización China Posterior",
-      "markdown": "[Presentado por un Arcángel de Nebadon.]"
+      "paperTitle": "La expansión andita en Oriente",
+      "sectionTitle": "La civilización china posterior",
+      "markdown": "[Presentado por un arcángel de Nebadon.]"
     }
   ]
 }
