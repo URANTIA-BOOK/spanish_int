@@ -1,56 +1,54 @@
 {
-  "source_file": "UF-ENG-001-1955-1.22.md",
-  "source_sha256": "857ad20f283e9b764a17764844a2bf229591888659710469d5457978ad14bba8",
+  "source_file": "uf-spa-419-1993-1.9.md",
+  "source_sha256": "08e2dd5b52c620709f44aedc8dc5e189f6bd4eba2916e335e6242a4e3fc044ae",
   "source_layout": "monolith",
-  "source_url": "https://www.urantia.org/sites/default/files/book/en/uf-eng-001-1955-1.22-md.zip",
+  "source_url": "https://www.urantia.org/sites/default/files/book/es/uf-spa-419-1993-1.9-md.zip",
   "pipeline_version": 3,
   "front_matter": [
     {
       "role": "FrontMatter",
       "path": "front.md",
-      "label": "Publisher Page"
+      "label": "Página de la editorial"
     },
     {
       "role": "Parts",
       "path": "parts.md",
-      "label": "The Parts of the Book"
+      "label": "Las Partes del Libro"
     },
     {
       "role": "Titles",
       "path": "titles.md",
-      "label": "The Titles of the Papers"
+      "label": "Los Títulos de los Documentos"
     },
     {
       "role": "Contents",
       "path": "contents.md",
-      "label": "Contents of the Book"
+      "label": "Contenido del Libro"
     }
   ],
-  "language_code": "eng",
-  "region_code": "001",
-  "version_id": "UF-ENG-001-1955-1.22",
+  "language_code": "spa",
+  "region_code": "419",
+  "version_id": "UF-SPA-419-1993-1.9",
   "version_stamp": "UF-202412132348",
-  "version_number": "1.22",
-  "first_published": 1955,
-  "copyright_year": 1955,
-  "edition_native": "",
-  "edition_english": "First published 1955",
+  "version_number": "1.9",
+  "first_published": 1993,
+  "copyright_year": 1993,
+  "edition_native": "Traducción al español",
+  "edition_english": "Spanish Translation (Latin American Edition), 2024 Release",
   "isbns": [
-    "978-0911560-060 (eBook)",
-    "978-0911560-510 (paperback)",
-    "978-0911560-077 (hardcover)",
-    "978-0911560-183 (Cambridge gift edition)",
-    "978-0911560-138 (Blue and white gift edition)"
+    "978-1883395-049 (eBook)",
+    "978-1883395-025 (tapa rústica)",
+    "978-1883395-216 (tapa dura)"
   ],
-  "book_title": "The Urantia Book",
-  "release_branch": "release/eng-1.22",
+  "book_title": "El libro de Urantia",
+  "release_branch": "release/spa-1.9",
   "git_author_name": "URANTIA FOUNDATION",
   "git_author_email": "foundation@urantia.org",
   "parts": [
     {
       "id": 0,
-      "label": "Foreword",
-      "title": "Foreword",
+      "label": "Prólogo",
+      "title": "Prólogo",
       "branch": "part/0-foreword",
       "subdir": null,
       "papers": [
@@ -59,9 +57,9 @@
     },
     {
       "id": 1,
-      "label": "PART I — The Central and Superuniverses",
-      "title": "The Central and Superuniverses",
-      "branch": "part/1-the-central-and-superuniverses",
+      "label": "PARTE I — El Universo Central y los Superuniversos",
+      "title": "El Universo Central y los Superuniversos",
+      "branch": "part/1-el-universo-central-y-los-superuniversos",
       "subdir": "part-1",
       "papers": [
         1,
@@ -99,9 +97,9 @@
     },
     {
       "id": 2,
-      "label": "PART II — The Local Universe",
-      "title": "The Local Universe",
-      "branch": "part/2-the-local-universe",
+      "label": "PARTE II — El Universo Local",
+      "title": "El Universo Local",
+      "branch": "part/2-el-universo-local",
       "subdir": "part-2",
       "papers": [
         32,
@@ -133,9 +131,9 @@
     },
     {
       "id": 3,
-      "label": "PART III — The History of Urantia",
-      "title": "The History of Urantia",
-      "branch": "part/3-the-history-of-urantia",
+      "label": "PARTE III — La Historia de Urantia",
+      "title": "La Historia de Urantia",
+      "branch": "part/3-la-historia-de-urantia",
       "subdir": "part-3",
       "papers": [
         57,
@@ -205,9 +203,9 @@
     },
     {
       "id": 4,
-      "label": "PART IV — The Life and Teachings of Jesus",
-      "title": "The Life and Teachings of Jesus",
-      "branch": "part/4-the-life-and-teachings-of-jesus",
+      "label": "PARTE IV — La Vida y las Enseñanzas de Jesus",
+      "title": "La Vida y las Enseñanzas de Jesus",
+      "branch": "part/4-la-vida-y-las-ensenanzas-de-jesus",
       "subdir": "part-4",
       "papers": [
         120,
@@ -292,988 +290,988 @@
   ],
   "papers": {
     "0": {
-      "title": "Foreword",
-      "author": "Divine Counselor",
+      "title": "Prólogo",
+      "author": "Consejero Divino",
       "page": 1
     },
     "1": {
-      "title": "The Universal Father",
-      "author": "Divine Counselor",
+      "title": "El Padre Universal",
+      "author": "Consejero Divino",
       "page": 21
     },
     "2": {
-      "title": "The Nature of God",
-      "author": "Divine Counselor",
+      "title": "La Naturaleza de Dios",
+      "author": "Consejero Divino",
       "page": 33
     },
     "3": {
-      "title": "The Attributes of God",
-      "author": "Divine Counselor",
+      "title": "Los Atributos de Dios",
+      "author": "Consejero Divino",
       "page": 44
     },
     "4": {
-      "title": "God’s Relation to the Universe",
-      "author": "Divine Counselor",
+      "title": "La Relación de Dios con el Universo",
+      "author": "Consejero Divino",
       "page": 54
     },
     "5": {
-      "title": "God’s Relation to the Individual",
-      "author": "Divine Counselor",
+      "title": "La Relación de Dios con el Individuo",
+      "author": "Consejero Divino",
       "page": 62
     },
     "6": {
-      "title": "The Eternal Son",
-      "author": "Divine Counselor",
+      "title": "El Hijo Eterno",
+      "author": "Consejero Divino",
       "page": 73
     },
     "7": {
-      "title": "Relation of the Eternal Son to the Universe",
-      "author": "Divine Counselor",
+      "title": "La Relación del Hijo Eterno con el Universo",
+      "author": "Consejero Divino",
       "page": 81
     },
     "8": {
-      "title": "The Infinite Spirit",
-      "author": "Divine Counselor",
+      "title": "El Espíritu Infinito",
+      "author": "Consejero Divino",
       "page": 90
     },
     "9": {
-      "title": "Relation of the Infinite Spirit to the Universe",
-      "author": "Divine Counselor",
+      "title": "La Relación del Espíritu Infinito con el Universo",
+      "author": "Consejero Divino",
       "page": 98
     },
     "10": {
-      "title": "The Paradise Trinity",
-      "author": "Universal Censor",
+      "title": "La Trinidad del Paraíso",
+      "author": "Censor Universal",
       "page": 108
     },
     "11": {
-      "title": "The Eternal Isle of Paradise",
-      "author": "Perfector of Wisdom",
+      "title": "La Isla Eterna del Paraíso",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 118
     },
     "12": {
-      "title": "The Universe of Universes",
-      "author": "Perfector of Wisdom",
+      "title": "El Universo de los Universos",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 128
     },
     "13": {
-      "title": "The Sacred Spheres of Paradise",
-      "author": "Perfector of Wisdom",
+      "title": "Las Esferas Sagradas del Paraíso",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 143
     },
     "14": {
-      "title": "The Central and Divine Universe",
-      "author": "Perfector of Wisdom",
+      "title": "El Universo Central y Divino",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 152
     },
     "15": {
-      "title": "The Seven Superuniverses",
-      "author": "Universal Censor",
+      "title": "Los Siete Superuniversos",
+      "author": "Censor Universal",
       "page": 164
     },
     "16": {
-      "title": "The Seven Master Spirits",
-      "author": "Universal Censor",
+      "title": "Los Siete Espíritus Rectores",
+      "author": "Censor Universal",
       "page": 184
     },
     "17": {
-      "title": "The Seven Supreme Spirit Groups",
-      "author": "Divine Counselor",
+      "title": "Los Siete Grupos de Espíritus Supremos",
+      "author": "Consejero Divino",
       "page": 197
     },
     "18": {
-      "title": "The Supreme Trinity Personalities",
-      "author": "Divine Counselor",
+      "title": "Las Personalidades Supremas Trinitarias",
+      "author": "Consejero Divino",
       "page": 207
     },
     "19": {
-      "title": "The Co-ordinate Trinity-Origin Beings",
-      "author": "Divine Counselor",
+      "title": "Los Seres Coordinados de Origen en la Trinidad",
+      "author": "Consejero Divino",
       "page": 214
     },
     "20": {
-      "title": "The Paradise Sons of God",
-      "author": "Perfector of Wisdom",
+      "title": "Los Hijos de Dios Paradisiacos",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 223
     },
     "21": {
-      "title": "The Paradise Creator Sons",
-      "author": "Perfector of Wisdom",
+      "title": "Los Hijos Creadores Paradisiacos",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 234
     },
     "22": {
-      "title": "The Trinitized Sons of God",
-      "author": "Mighty Messenger",
+      "title": "Los Hijos de Dios Trinidizados",
+      "author": "Mensajero Poderoso",
       "page": 243
     },
     "23": {
-      "title": "The Solitary Messengers",
-      "author": "Divine Counselor",
+      "title": "Los Mensajeros Solitarios",
+      "author": "Consejero Divino",
       "page": 256
     },
     "24": {
-      "title": "Higher Personalities of the Infinite Spirit",
-      "author": "Divine Counselor",
+      "title": "Las Personalidades Más Elevadas del Espíritu Infinito",
+      "author": "Consejero Divino",
       "page": 264
     },
     "25": {
-      "title": "The Messenger Hosts of Space",
-      "author": "One High in Authority",
+      "title": "Las Huestes de Mensajeros del Espacio",
+      "author": "Un Elevado en Autoridad",
       "page": 273
     },
     "26": {
-      "title": "Ministering Spirits of the Central Universe",
-      "author": "Perfector of Wisdom",
+      "title": "Los Espíritus Ministrantes del Universo Central",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 285
     },
     "27": {
-      "title": "Ministry of the Primary Supernaphim",
-      "author": "Perfector of Wisdom",
+      "title": "El Ministerio de los Supernafines Primarios",
+      "author": "Perfeccionador de la Sabiduría",
       "page": 298
     },
     "28": {
-      "title": "Ministering Spirits of the Superuniverses",
-      "author": "Mighty Messenger",
+      "title": "Los Espíritus Ministrantes de los Superuniversos",
+      "author": "Mensajero Poderoso",
       "page": 306
     },
     "29": {
-      "title": "The Universe Power Directors",
-      "author": "Universal Censor",
+      "title": "Los Directores del Poder Universal",
+      "author": "Censor Universal",
       "page": 319
     },
     "30": {
-      "title": "Personalities of the Grand Universe",
-      "author": "Mighty Messenger",
+      "title": "Las Personalidades del Gran Universo",
+      "author": "Mensajero Poderoso",
       "page": 330
     },
     "31": {
-      "title": "The Corps of the Finality",
-      "author": "Divine Counselor and One Without Name and Number",
+      "title": "El Cuerpo de la Finalidad",
+      "author": "Consejero Divino y Un Sin Nombre ni Número",
       "page": 345
     },
     "32": {
-      "title": "The Evolution of Local Universes",
-      "author": "Mighty Messenger",
+      "title": "La Evolución de los Universos Locales",
+      "author": "Mensajero Poderoso",
       "page": 357
     },
     "33": {
-      "title": "Administration of the Local Universe",
-      "author": "Chief of Archangels",
+      "title": "La Administración del Universo Local",
+      "author": "Jefe de los Arcángeles",
       "page": 366
     },
     "34": {
-      "title": "The Local Universe Mother Spirit",
-      "author": "Mighty Messenger",
+      "title": "El Espíritu Materno del Universo Local",
+      "author": "Mensajero Poderoso",
       "page": 374
     },
     "35": {
-      "title": "The Local Universe Sons of God",
-      "author": "Chief of Archangels",
+      "title": "Los Hijos de Dios de los Universos Locales",
+      "author": "Jefe de los Arcángeles",
       "page": 384
     },
     "36": {
-      "title": "The Life Carriers",
-      "author": "Vorondadek Son",
+      "title": "Los Portadores de Vida",
+      "author": "Hijo Vorondadek",
       "page": 396
     },
     "37": {
-      "title": "Personalities of the Local Universe",
-      "author": "Brilliant Evening Star",
+      "title": "Las Personalidades del Universo Local",
+      "author": "Estrella Vespertina",
       "page": 406
     },
     "38": {
-      "title": "Ministering Spirits of the Local Universe",
-      "author": "Melchizedek",
+      "title": "Los Espíritus Ministrantes del Universo Local",
+      "author": "Melquisedek",
       "page": 418
     },
     "39": {
-      "title": "The Seraphic Hosts",
-      "author": "Melchizedek",
+      "title": "Las Huestes Seráficas",
+      "author": "Melquisedek",
       "page": 426
     },
     "40": {
-      "title": "The Ascending Sons of God",
-      "author": "Mighty Messenger",
+      "title": "Los Hijos de Dios Ascendentes",
+      "author": "Mensajero Poderoso",
       "page": 443
     },
     "41": {
-      "title": "Physical Aspects of the Local Universe",
-      "author": "Archangel",
+      "title": "Los Aspectos Físicos del Universo Local",
+      "author": "Arcángel",
       "page": 455
     },
     "42": {
-      "title": "Energy—Mind and Matter",
-      "author": "Mighty Messenger",
+      "title": "La Energía — La Mente y la Materia",
+      "author": "Mensajero Poderoso",
       "page": 467
     },
     "43": {
-      "title": "The Constellations",
-      "author": "Malavatia Melchizedek",
+      "title": "Las Constelaciones",
+      "author": "Malavatia Melquisedek",
       "page": 485
     },
     "44": {
-      "title": "The Celestial Artisans",
-      "author": "Archangel",
+      "title": "Los Artesanos Celestiales",
+      "author": "Arcángel",
       "page": 497
     },
     "45": {
-      "title": "The Local System Administration",
-      "author": "Melchizedek",
+      "title": "La Administración del Sistema Local",
+      "author": "Melquisedek",
       "page": 509
     },
     "46": {
-      "title": "The Local System Headquarters",
-      "author": "Archangel",
+      "title": "La Sede Central del Sistema Local",
+      "author": "Arcángel",
       "page": 519
     },
     "47": {
-      "title": "The Seven Mansion Worlds",
-      "author": "Brilliant Evening Star",
+      "title": "Los Siete Mundos de Estancia",
+      "author": "Estrella Vespertina",
       "page": 530
     },
     "48": {
-      "title": "The Morontia Life",
-      "author": "Archangel",
+      "title": "La Vida Morontial",
+      "author": "Arcángel",
       "page": 541
     },
     "49": {
-      "title": "The Inhabited Worlds",
-      "author": "Melchizedek",
+      "title": "Los Mundos Habitados",
+      "author": "Melquisedek",
       "page": 559
     },
     "50": {
-      "title": "The Planetary Princes",
-      "author": "Secondary Lanonandek",
+      "title": "Los Príncipes Planetarios",
+      "author": "Lanonandek Secundario",
       "page": 572
     },
     "51": {
-      "title": "The Planetary Adams",
-      "author": "Secondary Lanonandek",
+      "title": "Los Adanes Planetarios",
+      "author": "Lanonandek Secundario",
       "page": 580
     },
     "52": {
-      "title": "Planetary Mortal Epochs",
-      "author": "Mighty Messenger",
+      "title": "Las Épocas Planetarias de los Mortales",
+      "author": "Mensajero Poderoso",
       "page": 589
     },
     "53": {
-      "title": "The Lucifer Rebellion",
-      "author": "Manovandet Melchizedek",
+      "title": "La Rebelión de Lucifer",
+      "author": "Manovandet Melquisedek",
       "page": 601
     },
     "54": {
-      "title": "Problems of the Lucifer Rebellion",
-      "author": "Mighty Messenger",
+      "title": "Los Problemas de la Rebelión de Lucifer",
+      "author": "Mensajero Poderoso",
       "page": 613
     },
     "55": {
-      "title": "The Spheres of Light and Life",
-      "author": "Mighty Messenger",
+      "title": "Las Esferas de Luz y Vida",
+      "author": "Mensajero Poderoso",
       "page": 621
     },
     "56": {
-      "title": "Universal Unity",
-      "author": "Mighty Messenger and Machiventa Melchizedek",
+      "title": "Unidad Universal",
+      "author": "Mensajero Poderoso y Machiventa Melquisedek",
       "page": 637
     },
     "57": {
-      "title": "The Origin of Urantia",
-      "author": "Life Carrier",
+      "title": "El Origen de Urantia",
+      "author": "Portador de Vida",
       "page": 651
     },
     "58": {
-      "title": "Life Establishment on Urantia",
-      "author": "Life Carrier",
+      "title": "El Establecimiento de la Vida en Urantia",
+      "author": "Portador de Vida",
       "page": 664
     },
     "59": {
-      "title": "The Marine-Life Era on Urantia",
-      "author": "Life Carrier",
+      "title": "La Era de la Vida Marina en Urantia",
+      "author": "Portador de Vida",
       "page": 672
     },
     "60": {
-      "title": "Urantia During the Early Land-Life Era",
-      "author": "Life Carrier",
+      "title": "Urantia Durante la Era Primitiva de la Vida Terrestre",
+      "author": "Portador de Vida",
       "page": 685
     },
     "61": {
-      "title": "The Mammalian Era on Urantia",
-      "author": "Life Carrier",
+      "title": "La Era de los Mamíferos en Urantia",
+      "author": "Portador de Vida",
       "page": 693
     },
     "62": {
-      "title": "The Dawn Races of Early Man",
-      "author": "Life Carrier",
+      "title": "Las Razas Protohumanas del Hombre Primitivo",
+      "author": "Portador de Vida",
       "page": 703
     },
     "63": {
-      "title": "The First Human Family",
-      "author": "Life Carrier",
+      "title": "La Primera Familia Humana",
+      "author": "Portador de Vida",
       "page": 711
     },
     "64": {
-      "title": "The Evolutionary Races of Color",
-      "author": "Life Carrier",
+      "title": "Las Razas Evolucionarias de Color",
+      "author": "Portador de Vida",
       "page": 718
     },
     "65": {
-      "title": "The Overcontrol of Evolution",
-      "author": "Life Carrier",
+      "title": "La Supervisión de la Evolución",
+      "author": "Portador de Vida",
       "page": 730
     },
     "66": {
-      "title": "The Planetary Prince of Urantia",
-      "author": "Melchizedek",
+      "title": "El Príncipe Planetario de Urantia",
+      "author": "Melquisedek",
       "page": 741
     },
     "67": {
-      "title": "The Planetary Rebellion",
-      "author": "Melchizedek",
+      "title": "La Rebelión Planetaria",
+      "author": "Melquisedek",
       "page": 754
     },
     "68": {
-      "title": "The Dawn of Civilization",
-      "author": "Melchizedek",
+      "title": "Los Albores de la Civilización",
+      "author": "Melquisedek",
       "page": 763
     },
     "69": {
-      "title": "Primitive Human Institutions",
-      "author": "Melchizedek",
+      "title": "Las Instituciones Humanas Primitivas",
+      "author": "Melquisedek",
       "page": 772
     },
     "70": {
-      "title": "The Evolution of Human Government",
-      "author": "Melchizedek",
+      "title": "La Evolución del Gobierno Humano",
+      "author": "Melquisedek",
       "page": 783
     },
     "71": {
-      "title": "Development of the State",
-      "author": "Melchizedek",
+      "title": "El Desarrollo del Estado",
+      "author": "Melquisedek",
       "page": 800
     },
     "72": {
-      "title": "Government on a Neighboring Planet",
-      "author": "Melchizedek",
+      "title": "El Gobierno de un Planeta Vecino",
+      "author": "Melquisedek",
       "page": 808
     },
     "73": {
-      "title": "The Garden of Eden",
+      "title": "El Jardín del Edén",
       "author": "Solonia",
       "page": 821
     },
     "74": {
-      "title": "Adam and Eve",
+      "title": "Adán y Eva",
       "author": "Solonia",
       "page": 828
     },
     "75": {
-      "title": "The Default of Adam and Eve",
+      "title": "La Falta de Adán y Eva",
       "author": "Solonia",
       "page": 839
     },
     "76": {
-      "title": "The Second Garden",
+      "title": "El Segundo Jardín",
       "author": "Solonia",
       "page": 847
     },
     "77": {
-      "title": "The Midway Creatures",
-      "author": "Archangel",
+      "title": "Los Seres Intermedios",
+      "author": "Arcángel",
       "page": 855
     },
     "78": {
-      "title": "The Violet Race After the Days of Adam",
-      "author": "Archangel",
+      "title": "La Raza Violeta Después de los Días de Adán",
+      "author": "Arcángel",
       "page": 868
     },
     "79": {
-      "title": "Andite Expansion in the Orient",
-      "author": "Archangel",
+      "title": "La Expansión Andita en el Oriente",
+      "author": "Arcángel",
       "page": 878
     },
     "80": {
-      "title": "Andite Expansion in the Occident",
-      "author": "Archangel",
+      "title": "La Expansión Andita en el Occidente",
+      "author": "Arcángel",
       "page": 889
     },
     "81": {
-      "title": "Development of Modern Civilization",
-      "author": "Archangel",
+      "title": "El Desarrollo de la Civilización Moderna",
+      "author": "Arcángel",
       "page": 900
     },
     "82": {
-      "title": "The Evolution of Marriage",
-      "author": "Chief of Seraphim",
+      "title": "La Evolución del Matrimonio",
+      "author": "Jefe de los Serafines",
       "page": 913
     },
     "83": {
-      "title": "The Marriage Institution",
-      "author": "Chief of Seraphim",
+      "title": "La Institución del Matrimonio",
+      "author": "Jefe de los Serafines",
       "page": 922
     },
     "84": {
-      "title": "Marriage and Family Life",
-      "author": "Chief of Seraphim",
+      "title": "Matrimonio y Vida Familiar",
+      "author": "Jefe de los Serafines",
       "page": 931
     },
     "85": {
-      "title": "The Origins of Worship",
-      "author": "Brilliant Evening Star",
+      "title": "Los Orígenes de la Adoración",
+      "author": "Estrella Vespertina",
       "page": 944
     },
     "86": {
-      "title": "Early Evolution of Religion",
-      "author": "Brilliant Evening Star",
+      "title": "La Evolución Primitiva de la Religión",
+      "author": "Estrella Vespertina",
       "page": 950
     },
     "87": {
-      "title": "The Ghost Cults",
-      "author": "Brilliant Evening Star",
+      "title": "Los Cultos a los Fantasmas",
+      "author": "Estrella Vespertina",
       "page": 958
     },
     "88": {
-      "title": "Fetishes, Charms, and Magic",
-      "author": "Brilliant Evening Star",
+      "title": "Los Fetiches, los Amuletos y la Magia",
+      "author": "Estrella Vespertina",
       "page": 967
     },
     "89": {
-      "title": "Sin, Sacrifice, and Atonement",
-      "author": "Brilliant Evening Star",
+      "title": "El Pecado, el Sacrificio y la Expiación",
+      "author": "Estrella Vespertina",
       "page": 974
     },
     "90": {
-      "title": "Shamanism—Medicine Men and Priests",
-      "author": "Melchizedek",
+      "title": "El Shamanismo — Los Curanderos y los Sacerdotes",
+      "author": "Melquisedek",
       "page": 986
     },
     "91": {
-      "title": "The Evolution of Prayer",
-      "author": "Chief of Midwayers",
+      "title": "La Evolución de la Oración",
+      "author": "Jefe de los seres intermedios",
       "page": 994
     },
     "92": {
-      "title": "The Later Evolution of Religion",
-      "author": "Melchizedek",
+      "title": "La Evolución Ulterior de la Religión",
+      "author": "Melquisedek",
       "page": 1003
     },
     "93": {
-      "title": "Machiventa Melchizedek",
-      "author": "Melchizedek",
+      "title": "Maquiventa Melquisedek",
+      "author": "Melquisedek",
       "page": 1014
     },
     "94": {
-      "title": "The Melchizedek Teachings in the Orient",
-      "author": "Melchizedek",
+      "title": "Las Enseñanzas de Melquisedek en el Oriente",
+      "author": "Melquisedek",
       "page": 1027
     },
     "95": {
-      "title": "The Melchizedek Teachings in the Levant",
-      "author": "Melchizedek",
+      "title": "Las Enseñanzas de Melquisedek en el Levante",
+      "author": "Melquisedek",
       "page": 1042
     },
     "96": {
-      "title": "Yahweh—God of the Hebrews",
-      "author": "Melchizedek",
+      "title": "Yahvé — El Dios de los Hebreos",
+      "author": "Melquisedek",
       "page": 1052
     },
     "97": {
-      "title": "Evolution of the God Concept Among the Hebrews",
-      "author": "Melchizedek",
+      "title": "Evolución del Concepto de Dios Entre los Hebreos",
+      "author": "Melquisedek",
       "page": 1062
     },
     "98": {
-      "title": "The Melchizedek Teachings in the Occident",
-      "author": "Melchizedek",
+      "title": "Las Enseñanzas de Melquisedek en el Occidente",
+      "author": "Melquisedek",
       "page": 1077
     },
     "99": {
-      "title": "The Social Problems of Religion",
-      "author": "Melchizedek",
+      "title": "Los Problemas Sociales de la Religión",
+      "author": "Melquisedek",
       "page": 1086
     },
     "100": {
-      "title": "Religion in Human Experience",
-      "author": "Melchizedek",
+      "title": "La Religión en la Experiencia Humana",
+      "author": "Melquisedek",
       "page": 1094
     },
     "101": {
-      "title": "The Real Nature of Religion",
-      "author": "Melchizedek",
+      "title": "La Verdadera Naturaleza de la Religión",
+      "author": "Melquisedek",
       "page": 1104
     },
     "102": {
-      "title": "The Foundations of Religious Faith",
-      "author": "Melchizedek",
+      "title": "Los Cimientos de la Fe Religiosa",
+      "author": "Melquisedek",
       "page": 1118
     },
     "103": {
-      "title": "The Reality of Religious Experience",
-      "author": "Melchizedek",
+      "title": "La Realidad de la Experiencia Religiosa",
+      "author": "Melquisedek",
       "page": 1129
     },
     "104": {
-      "title": "Growth of the Trinity Concept",
-      "author": "Melchizedek",
+      "title": "El Crecimiento del Concepto de la Trinidad",
+      "author": "Melquisedek",
       "page": 1143
     },
     "105": {
-      "title": "Deity and Reality",
-      "author": "Melchizedek",
+      "title": "La Deidad y la Realidad",
+      "author": "Melquisedek",
       "page": 1152
     },
     "106": {
-      "title": "Universe Levels of Reality",
-      "author": "Melchizedek",
+      "title": "Los Niveles de la Realidad en el Universo",
+      "author": "Melquisedek",
       "page": 1162
     },
     "107": {
-      "title": "Origin and Nature of Thought Adjusters",
-      "author": "Solitary Messenger",
+      "title": "El Origen y la Naturaleza de los Ajustadores del Pensamiento",
+      "author": "Mensajero Solitario",
       "page": 1176
     },
     "108": {
-      "title": "Mission and Ministry of Thought Adjusters",
-      "author": "Solitary Messenger",
+      "title": "La Misión y el Ministerio de los Ajustadores del Pensamiento",
+      "author": "Mensajero Solitario",
       "page": 1185
     },
     "109": {
-      "title": "Relation of Adjusters to Universe Creatures",
-      "author": "Solitary Messenger",
+      "title": "La Relación de los Ajustadores con las Criaturas del Universo",
+      "author": "Mensajero Solitario",
       "page": 1195
     },
     "110": {
-      "title": "Relation of Adjusters to Individual Mortals",
-      "author": "Solitary Messenger",
+      "title": "La Relación de los Ajustadores con los Seres Mortales",
+      "author": "Mensajero Solitario",
       "page": 1203
     },
     "111": {
-      "title": "The Adjuster and the Soul",
-      "author": "Solitary Messenger",
+      "title": "El Ajustador y el Alma",
+      "author": "Mensajero Solitario",
       "page": 1215
     },
     "112": {
-      "title": "Personality Survival",
-      "author": "Solitary Messenger",
+      "title": "La Sobrevivencia de la Personalidad",
+      "author": "Mensajero Solitario",
       "page": 1225
     },
     "113": {
-      "title": "Seraphic Guardians of Destiny",
-      "author": "Chief of Seraphim",
+      "title": "Los Guardianes Seráficos del Destino",
+      "author": "Jefe de los Serafines",
       "page": 1241
     },
     "114": {
-      "title": "Seraphic Planetary Government",
-      "author": "Chief of Seraphim",
+      "title": "El Gobierno Planetario Seráfico",
+      "author": "Jefe de los Serafines",
       "page": 1250
     },
     "115": {
-      "title": "The Supreme Being",
-      "author": "Mighty Messenger",
+      "title": "El Ser Supremo",
+      "author": "Mensajero Poderoso",
       "page": 1260
     },
     "116": {
-      "title": "The Almighty Supreme",
-      "author": "Mighty Messenger",
+      "title": "El Supremo Todopoderoso",
+      "author": "Mensajero Poderoso",
       "page": 1268
     },
     "117": {
-      "title": "God the Supreme",
-      "author": "Mighty Messenger",
+      "title": "Dios el Supremo",
+      "author": "Mensajero Poderoso",
       "page": 1278
     },
     "118": {
-      "title": "Supreme and Ultimate—Time and Space",
-      "author": "Mighty Messenger",
+      "title": "El Supremo y el Ultimo — El Tiempo y el Espacio",
+      "author": "Mensajero Poderoso",
       "page": 1294
     },
     "119": {
-      "title": "The Bestowals of Christ Michael",
-      "author": "Chief of Evening Stars",
+      "title": "Los Autootorgamientos de Cristo Micael",
+      "author": "Jefe Estrellas Vespertinas",
       "page": 1308
     },
     "120": {
-      "title": "The Bestowal of Michael on Urantia",
-      "author": "Mantutia Melchizedek",
+      "title": "El Autootorgamiento de Micael en Urantia",
+      "author": "Mantutia Melquisedek",
       "page": 1323
     },
     "121": {
-      "title": "The Times of Michael’s Bestowal",
-      "author": "Midwayer Commission",
+      "title": "Los Tiempos del Autootorgamiento de Micael",
+      "author": "Comisión de Seres Intermedios",
       "page": 1332
     },
     "122": {
-      "title": "Birth and Infancy of Jesus",
-      "author": "Midwayer Commission",
+      "title": "El Nacimiento y la Infancia de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1344
     },
     "123": {
-      "title": "The Early Childhood of Jesus",
-      "author": "Midwayer Commission",
+      "title": "La Infancia de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1355
     },
     "124": {
-      "title": "The Later Childhood of Jesus",
-      "author": "Midwayer Commission",
+      "title": "La Niñez Posterior de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1366
     },
     "125": {
-      "title": "Jesus at Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "Jesús en Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1377
     },
     "126": {
-      "title": "The Two Crucial Years",
-      "author": "Midwayer Commission",
+      "title": "Los Dos Años Cruciales",
+      "author": "Comisión de Seres Intermedios",
       "page": 1386
     },
     "127": {
-      "title": "The Adolescent Years",
-      "author": "Midwayer Commission",
+      "title": "Los Años de la Adolescencia",
+      "author": "Comisión de Seres Intermedios",
       "page": 1395
     },
     "128": {
-      "title": "Jesus’ Early Manhood",
-      "author": "Midwayer Commission",
+      "title": "Los Primeros Años de la Vida Adulta de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1407
     },
     "129": {
-      "title": "The Later Adult Life of Jesus",
-      "author": "Midwayer Commission",
+      "title": "La Vida Adulta de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1419
     },
     "130": {
-      "title": "On the Way to Rome",
-      "author": "Midwayer Commission",
+      "title": "En el Camino a Roma",
+      "author": "Comisión de Seres Intermedios",
       "page": 1427
     },
     "131": {
-      "title": "The World’s Religions",
-      "author": "Midwayer Commission",
+      "title": "Las Religiones del Mundo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1442
     },
     "132": {
-      "title": "The Sojourn at Rome",
-      "author": "Midwayer Commission",
+      "title": "La Estadía en Roma",
+      "author": "Comisión de Seres Intermedios",
       "page": 1455
     },
     "133": {
-      "title": "The Return from Rome",
-      "author": "Midwayer Commission",
+      "title": "El Regreso de Roma",
+      "author": "Comisión de Seres Intermedios",
       "page": 1468
     },
     "134": {
-      "title": "The Transition Years",
-      "author": "Midwayer Commission",
+      "title": "Los Años de Transición",
+      "author": "Comisión de Seres Intermedios",
       "page": 1483
     },
     "135": {
-      "title": "John the Baptist",
-      "author": "Midwayer Commission",
+      "title": "Juan el Bautista",
+      "author": "Comisión de Seres Intermedios",
       "page": 1496
     },
     "136": {
-      "title": "Baptism and the Forty Days",
-      "author": "Midwayer Commission",
+      "title": "El Bautismo y los Cuarenta Días",
+      "author": "Comisión de Seres Intermedios",
       "page": 1509
     },
     "137": {
-      "title": "Tarrying Time in Galilee",
-      "author": "Midwayer Commission",
+      "title": "El Tiempo de Espera en Galilea",
+      "author": "Comisión de Seres Intermedios",
       "page": 1524
     },
     "138": {
-      "title": "Training the Kingdom’s Messengers",
-      "author": "Midwayer Commission",
+      "title": "La Capacitación de los Mensajeros del Reino",
+      "author": "Comisión de Seres Intermedios",
       "page": 1538
     },
     "139": {
-      "title": "The Twelve Apostles",
-      "author": "Midwayer Commission",
+      "title": "Los Doce Apóstoles",
+      "author": "Comisión de Seres Intermedios",
       "page": 1548
     },
     "140": {
-      "title": "The Ordination of the Twelve",
-      "author": "Midwayer Commission",
+      "title": "La Ordenación de los Doce",
+      "author": "Comisión de Seres Intermedios",
       "page": 1568
     },
     "141": {
-      "title": "Beginning the Public Work",
-      "author": "Midwayer Commission",
+      "title": "El Comienzo de la Obra Pública",
+      "author": "Comisión de Seres Intermedios",
       "page": 1587
     },
     "142": {
-      "title": "The Passover at Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "La Pascua en Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1596
     },
     "143": {
-      "title": "Going Through Samaria",
-      "author": "Midwayer Commission",
+      "title": "De Paso por Samaria",
+      "author": "Comisión de Seres Intermedios",
       "page": 1607
     },
     "144": {
-      "title": "At Gilboa and in the Decapolis",
-      "author": "Midwayer Commission",
+      "title": "En Gilboa y en la Decápolis",
+      "author": "Comisión de Seres Intermedios",
       "page": 1617
     },
     "145": {
-      "title": "Four Eventful Days at Capernaum",
-      "author": "Midwayer Commission",
+      "title": "Cuatro Días Memorables en Capernaum",
+      "author": "Comisión de Seres Intermedios",
       "page": 1628
     },
     "146": {
-      "title": "First Preaching Tour of Galilee",
-      "author": "Midwayer Commission",
+      "title": "La Primera Gira de Predicación en Galilea",
+      "author": "Comisión de Seres Intermedios",
       "page": 1637
     },
     "147": {
-      "title": "The Interlude Visit to Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "El Interludio en Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1647
     },
     "148": {
-      "title": "Training Evangelists at Bethsaida",
-      "author": "Midwayer Commission",
+      "title": "La Capacitación de los Evangelistas en Betsaida",
+      "author": "Comisión de Seres Intermedios",
       "page": 1657
     },
     "149": {
-      "title": "The Second Preaching Tour",
-      "author": "Midwayer Commission",
+      "title": "La Segunda Gira de Predicación",
+      "author": "Comisión de Seres Intermedios",
       "page": 1668
     },
     "150": {
-      "title": "The Third Preaching Tour",
-      "author": "Midwayer Commission",
+      "title": "La Tercera Gira de Predicación",
+      "author": "Comisión de Seres Intermedios",
       "page": 1678
     },
     "151": {
-      "title": "Tarrying and Teaching by the Seaside",
-      "author": "Midwayer Commission",
+      "title": "La Estadía y la Enseñanza Junto al Mar",
+      "author": "Comisión de Seres Intermedios",
       "page": 1688
     },
     "152": {
-      "title": "Events Leading up to the Capernaum Crisis",
-      "author": "Midwayer Commission",
+      "title": "Los Acontecimientos que Condujerona la Crisis de Capernaum",
+      "author": "Comisión de Seres Intermedios",
       "page": 1698
     },
     "153": {
-      "title": "The Crisis at Capernaum",
-      "author": "Midwayer Commission",
+      "title": "La Crisis en Capernaum",
+      "author": "Comisión de Seres Intermedios",
       "page": 1707
     },
     "154": {
-      "title": "Last Days at Capernaum",
-      "author": "Midwayer Commission",
+      "title": "Los Últimos Días en Capernaum",
+      "author": "Comisión de Seres Intermedios",
       "page": 1717
     },
     "155": {
-      "title": "Fleeing Through Northern Galilee",
-      "author": "Midwayer Commission",
+      "title": "La Huida por la Galilea del Norte",
+      "author": "Comisión de Seres Intermedios",
       "page": 1725
     },
     "156": {
-      "title": "The Sojourn at Tyre and Sidon",
-      "author": "Midwayer Commission",
+      "title": "La Estadía en Tiro y Sidón",
+      "author": "Comisión de Seres Intermedios",
       "page": 1734
     },
     "157": {
-      "title": "At Caesarea-Philippi",
-      "author": "Midwayer Commission",
+      "title": "En Cesarea de Filipo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1743
     },
     "158": {
-      "title": "The Mount of Transfiguration",
-      "author": "Midwayer Commission",
+      "title": "El Monte de la Transfiguración",
+      "author": "Comisión de Seres Intermedios",
       "page": 1752
     },
     "159": {
-      "title": "The Decapolis Tour",
-      "author": "Midwayer Commission",
+      "title": "La Gira por la Decápolis",
+      "author": "Comisión de Seres Intermedios",
       "page": 1762
     },
     "160": {
-      "title": "Rodan of Alexandria",
-      "author": "Midwayer Commission",
+      "title": "Rodán de Alejandría",
+      "author": "Comisión de Seres Intermedios",
       "page": 1772
     },
     "161": {
-      "title": "Further Discussions with Rodan",
-      "author": "Midwayer Commission",
+      "title": "Las Conversaciones Ulteriores con Rodán",
+      "author": "Comisión de Seres Intermedios",
       "page": 1783
     },
     "162": {
-      "title": "At the Feast of Tabernacles",
-      "author": "Midwayer Commission",
+      "title": "En la Fiesta de los Tabernáculos",
+      "author": "Comisión de Seres Intermedios",
       "page": 1788
     },
     "163": {
-      "title": "Ordination of the Seventy at Magadan",
-      "author": "Midwayer Commission",
+      "title": "La Ordenación de los Setenta en Magadán",
+      "author": "Comisión de Seres Intermedios",
       "page": 1800
     },
     "164": {
-      "title": "At the Feast of Dedication",
-      "author": "Midwayer Commission",
+      "title": "En la Fiesta de la Consagración del Templo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1809
     },
     "165": {
-      "title": "The Perean Mission Begins",
-      "author": "Midwayer Commission",
+      "title": "Comienza la Misión de Perea",
+      "author": "Comisión de Seres Intermedios",
       "page": 1817
     },
     "166": {
-      "title": "Last Visit to Northern Perea",
-      "author": "Midwayer Commission",
+      "title": "La Última Visita al Norte de Perea",
+      "author": "Comisión de Seres Intermedios",
       "page": 1825
     },
     "167": {
-      "title": "The Visit to Philadelphia",
-      "author": "Midwayer Commission",
+      "title": "La Visita a Filadelfia",
+      "author": "Comisión de Seres Intermedios",
       "page": 1833
     },
     "168": {
-      "title": "The Resurrection of Lazarus",
-      "author": "Midwayer Commission",
+      "title": "La Resurrección de Lázaro",
+      "author": "Comisión de Seres Intermedios",
       "page": 1842
     },
     "169": {
-      "title": "Last Teaching at Pella",
-      "author": "Midwayer Commission",
+      "title": "La Última Enseñanza en Pella",
+      "author": "Comisión de Seres Intermedios",
       "page": 1850
     },
     "170": {
-      "title": "The Kingdom of Heaven",
-      "author": "Midwayer Commission",
+      "title": "El Reino del Cielo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1858
     },
     "171": {
-      "title": "On the Way to Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "Camino a Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1867
     },
     "172": {
-      "title": "Going into Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "La Entrada a Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1878
     },
     "173": {
-      "title": "Monday in Jerusalem",
-      "author": "Midwayer Commission",
+      "title": "El Lunes en Jerusalén",
+      "author": "Comisión de Seres Intermedios",
       "page": 1888
     },
     "174": {
-      "title": "Tuesday Morning in the Temple",
-      "author": "Midwayer Commission",
+      "title": "Martes por la Mañana en el Templo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1897
     },
     "175": {
-      "title": "The Last Temple Discourse",
-      "author": "Midwayer Commission",
+      "title": "El Último Discurso en el Templo",
+      "author": "Comisión de Seres Intermedios",
       "page": 1905
     },
     "176": {
-      "title": "Tuesday Evening on Mount Olivet",
-      "author": "Midwayer Commission",
+      "title": "El Anochecer del Martes en el Monte de los Olivos",
+      "author": "Comisión de Seres Intermedios",
       "page": 1912
     },
     "177": {
-      "title": "Wednesday, the Rest Day",
-      "author": "Midwayer Commission",
+      "title": "El Miércoles, Día de Descanso",
+      "author": "Comisión de Seres Intermedios",
       "page": 1920
     },
     "178": {
-      "title": "Last Day at the Camp",
-      "author": "Midwayer Commission",
+      "title": "El Último Día en el Campamento",
+      "author": "Comisión de Seres Intermedios",
       "page": 1929
     },
     "179": {
-      "title": "The Last Supper",
-      "author": "Midwayer Commission",
+      "title": "La Última Cena",
+      "author": "Comisión de Seres Intermedios",
       "page": 1936
     },
     "180": {
-      "title": "The Farewell Discourse",
-      "author": "Midwayer Commission",
+      "title": "El Discurso de Despedida",
+      "author": "Comisión de Seres Intermedios",
       "page": 1944
     },
     "181": {
-      "title": "Final Admonitions and Warnings",
-      "author": "Midwayer Commission",
+      "title": "Las Advertencias y Admoniciones Finales",
+      "author": "Comisión de Seres Intermedios",
       "page": 1953
     },
     "182": {
-      "title": "In Gethsemane",
-      "author": "Midwayer Commission",
+      "title": "En Getsemaní",
+      "author": "Comisión de Seres Intermedios",
       "page": 1963
     },
     "183": {
-      "title": "The Betrayal and Arrest of Jesus",
-      "author": "Midwayer Commission",
+      "title": "La Traición y el Arresto de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 1971
     },
     "184": {
-      "title": "Before the Sanhedrin Court",
-      "author": "Midwayer Commission",
+      "title": "Ante el Tribunal del Sanedrín",
+      "author": "Comisión de Seres Intermedios",
       "page": 1978
     },
     "185": {
-      "title": "The Trial Before Pilate",
-      "author": "Midwayer Commission",
+      "title": "El Juicio Ante Pilato",
+      "author": "Comisión de Seres Intermedios",
       "page": 1987
     },
     "186": {
-      "title": "Just Before the Crucifixion",
-      "author": "Midwayer Commission",
+      "title": "Poco Antes de la Crucifixión",
+      "author": "Comisión de Seres Intermedios",
       "page": 1997
     },
     "187": {
-      "title": "The Crucifixion",
-      "author": "Midwayer Commission",
+      "title": "La Crucifixión",
+      "author": "Comisión de Seres Intermedios",
       "page": 2004
     },
     "188": {
-      "title": "The Time of the Tomb",
-      "author": "Midwayer Commission",
+      "title": "El Período en la Tumba",
+      "author": "Comisión de Seres Intermedios",
       "page": 2012
     },
     "189": {
-      "title": "The Resurrection",
-      "author": "Midwayer Commission",
+      "title": "La Resurrección",
+      "author": "Comisión de Seres Intermedios",
       "page": 2020
     },
     "190": {
-      "title": "Morontia Appearances of Jesus",
-      "author": "Midwayer Commission",
+      "title": "Las Apariciones Morontiales de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 2029
     },
     "191": {
-      "title": "Appearances to the Apostles and Other Leaders",
-      "author": "Midwayer Commission",
+      "title": "Las Apariciones a los Apóstoles y a Otros Líderes",
+      "author": "Comisión de Seres Intermedios",
       "page": 2037
     },
     "192": {
-      "title": "Appearances in Galilee",
-      "author": "Midwayer Commission",
+      "title": "Las Apariciones en Galilea",
+      "author": "Comisión de Seres Intermedios",
       "page": 2045
     },
     "193": {
-      "title": "Final Appearances and Ascension",
-      "author": "Midwayer Commission",
+      "title": "Las Apariciones Finales y la Ascensión",
+      "author": "Comisión de Seres Intermedios",
       "page": 2052
     },
     "194": {
-      "title": "Bestowal of the Spirit of Truth",
-      "author": "Midwayer Commission",
+      "title": "El Advenimiento del Espíritu de la Verdad",
+      "author": "Comisión de Seres Intermedios",
       "page": 2059
     },
     "195": {
-      "title": "After Pentecost",
-      "author": "Midwayer Commission",
+      "title": "Después de Pentecostés",
+      "author": "Comisión de Seres Intermedios",
       "page": 2069
     },
     "196": {
-      "title": "The Faith of Jesus",
-      "author": "Midwayer Commission",
+      "title": "La Fe de Jesús",
+      "author": "Comisión de Seres Intermedios",
       "page": 2087
     }
   }
