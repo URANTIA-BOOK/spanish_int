@@ -1,9 +1,9 @@
 {
   "language": "spa",
-  "version_id": "UF-SPA-419-1993-1.9",
+  "version_id": "UF-SPA-001-2021-1.2",
   "pipeline_version": 3,
   "source_file": "part-1/023.md",
-  "source_sha256": "41dafa91aa582ac19060fe851a84186c2f813ff372e402e32d296c6e3a080cbb",
+  "source_sha256": "8edd24dd5b15f0175d5ebf003f58c0aff26548991afe592c6d2b2b5f05acedf5",
   "rows": [
     {
       "type": "paper",
@@ -57,7 +57,7 @@
       "sortId": "1.023.000.001",
       "paperTitle": "Los Mensajeros Solitarios",
       "sectionTitle": null,
-      "markdown": "LOS Mensajeros Solitarios son el cuerpo personal y universal del Creador Con-junto; constituyen la primera orden decana de las Personalidades más Altas del Espíritu Infinito. Representan la acción creadora inicial del Espíritu Infinito en función solitaria con el fin de traer a la existencia personalidades espirituales solitarias. Ni el Padre ni el Hijo participaron directamente en esta estupenda espiritualización."
+      "markdown": "LOS MENSAJEROS Solitarios son el contingente personal y universal del Creador Conjunto; son el orden primero y más antiguo de las personalidades más altas del Espíritu Infinito. Representan la acción creativa inicial del Espíritu Infinito que actúa en solitario con el propósito de traer a la existencia espíritus solitarios con personalidad. Ni el Padre ni el Hijo participaron directamente en esta formidable espiritualización."
     },
     {
       "type": "paragraph",
@@ -75,7 +75,7 @@
       "sortId": "1.023.000.002",
       "paperTitle": "Los Mensajeros Solitarios",
       "sectionTitle": null,
-      "markdown": "Estos mensajeros espirituales se personalizaron en un solo episodio creador, y su número es estacionario. A pesar de que tengo a uno de estos extraordinarios asociados conmigo en esta misión, no sé cuántas personalidades como éstas existen en el universo de los universos. Tan sólo sé, de vez en cuando, cuantos están registrados actuando durante un momento en particular dentro de la jurisdicción de nuestro superuniverso. Observé en el último informe de Uversa que en ese momento existían casi 7.690 billones de Mensajeros Solitarios que operaban dentro de los límites de Orvonton; y conjeturo que este número es considerablemente menor de un séptimo de su número total."
+      "markdown": "Estos mensajeros de espíritu fueron personalizados en un único episodio creativo y su número es estacionario. Aunque me acompaña en esta misión uno de esos seres extraordinarios, no sé cuántas de estas personalidades existen en el universo de universos. Solo puedo saber cada cierto tiempo por los registros cuántos actúan en ese momento dentro de la jurisdicción de nuestro superuniverso. Según el último informe de Uversa había entonces casi 7690 billones de Mensajeros Solitarios operando dentro de los límites de Orvonton, y sospecho que esta cifra es bastante inferior a la séptima parte de su número total."
     },
     {
       "type": "section",
@@ -92,7 +92,7 @@
       "pageReference": null,
       "sortId": "1.023.001.000",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
       "markdown": null
     },
     {
@@ -110,8 +110,8 @@
       "pageReference": "256.3",
       "sortId": "1.023.001.001",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Inmediatamente después de la creación de los Siete Espíritus de los Circuitos de Havona, el Espíritu Infinito trajo a la existencia un vasto cuerpo de Mensajeros Solitarios. No existe ninguna porción de la creación universal que sea preexistente a los Mensajeros Solitarios, excepto el Paraíso y los circuitos de Havona; han funcionado a lo largo y a lo ancho del gran universo casi desde la eternidad. Son fundamentales para la técnica divina del Espíritu Infinito de autorrevelación a las vastas creaciones espacio-temporales y de contacto personal con ellas."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Inmediatamente después de la creación de los siete Espíritus de los Circuitos de Havona, el Espíritu Infinito trajo a la existencia al vasto cuerpo de Mensajeros Solitarios. No hay ninguna parte de la creación universal que preexista a los Mensajeros Solitarios excepto el Paraíso y los circuitos de Havona; han actuado en todo el gran universo casi desde la eternidad. Son fundamentales para la técnica divina del Espíritu Infinito de autorrevelarse a las extensas creaciones del tiempo y el espacio y entrar en contacto personal con ellas."
     },
     {
       "type": "paragraph",
@@ -128,8 +128,8 @@
       "pageReference": "256.4",
       "sortId": "1.023.001.002",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "A pesar de que estos mensajeros existen casi desde los tiempos de la eternidad, todos ellos tienen conciencia del comienzo de su yo. Tienen conciencia del tiempo, siendo los primeros entes creados por el Espíritu Infinito en poseer dicha conciencia temporal. Son las criaturas primogénitas del Espíritu Infinito que se personalizaron en el tiempo y se espiritualizaron en el espacio."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "A pesar de que estos mensajeros existen desde tiempos cercanos a la eternidad, todos son conscientes del comienzo de su yoidad. Tienen consciencia del tiempo y son la primera creación del Espíritu Infinito que posee esa consciencia del tiempo. Son las primeras criaturas nacidas del Espíritu Infinito que se personalizaron en el tiempo y se espiritualizaron en el espacio."
     },
     {
       "type": "paragraph",
@@ -146,8 +146,8 @@
       "pageReference": "256.5",
       "sortId": "1.023.001.003",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Estos espíritus solitarios aparecieron en los albores del tiempo como seres espirituales totalmente desarrollados y perfectamente dotados. Son todos iguales, y no hay clases ni subdivisiones fundadas en variaciones personales. Sus clasificaciones están basadas únicamente en el tipo de tarea a la que son asignados de vez en cuando."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Estos espíritus solitarios surgieron en los albores del tiempo como seres de espíritu plenamente desarrollados y perfectamente dotados. Son todos iguales, y no hay clases ni subdivisiones fundamentadas en sus diferencias personales. Sus clasificaciones están enteramente basadas en el tipo de trabajo al que son asignados de tiempo en tiempo."
     },
     {
       "type": "paragraph",
@@ -164,8 +164,8 @@
       "pageReference": "256.6",
       "sortId": "1.023.001.004",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Los mortales comienzan como seres casi completamente materiales en los mundos del espacio y ascienden hacia adentro, hacia los Grandes Centros; estos espíritus solitarios comienzan en el centro de todas las cosas y anhelan ser asignados a las creaciones remotas, aun a los mundos individuales de los universos locales más lejanos y aún más allá."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Los mortales comienzan como seres casi materiales en los mundos del espacio y ascienden hacia dentro en dirección a los Grandes Centros. Estos espíritus solitarios comienzan en el centro de todas las cosas y ansían ser asignados a las creaciones remotas, incluso a los mundos individuales de los universos locales más exteriores y aún más allá."
     },
     {
       "type": "paragraph",
@@ -182,8 +182,8 @@
       "pageReference": "256.7",
       "sortId": "1.023.001.005",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Aunque se los denomina Mensajeros Solitarios, no sufren la soledad, porque verdaderamente aman trabajar a solas. Son los únicos seres de toda la creación que pueden disfrutar y realmente disfrutan de una existencia solitaria, aunque disfrutan igualmente de la asociación con las muy escasas órdenes de inteligencias universales con las cuales pueden fraternizar."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Aunque denominados Mensajeros Solitarios, no son espíritus que sienten soledad, pues les gusta realmente trabajar solos. Son los únicos seres de toda la creación que pueden disfrutar, y disfrutan, de una existencia solitaria, si bien es cierto que disfrutan también con la compañía de los escasos órdenes de inteligencias del universo con los que pueden fraternizar."
     },
     {
       "type": "paragraph",
@@ -200,8 +200,8 @@
       "pageReference": "257.1",
       "sortId": "1.023.001.006",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios no están aislados en su servicio; están constantemente en contacto con el caudal de intelecto de toda la creación porque pueden «escuchar» todas las transmisiones de los reinos de su estadía. También pueden intercomunicarse con los miembros de su propio cuerpo inmediato, aquellos seres que están realizando el mismo tipo de tarea en el mismo superuniverso. Podrían comunicarse con otros de su grupo, pero el concilio de los Siete Espíritus Rectores les ha ordenado que no lo hagan, y ellos constituyen un grupo leal; no desobedecen ni fallan. No existe registro de un Mensajero Solitario que haya tropezado jamás en la oscuridad."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios no están aislados en su servicio; están constantemente en contacto con el abundante intelecto de toda la creación ya que son capaces de «conectarse» a todas las transmisiones de los mundos donde residen. Pueden intercomunicarse también con los miembros de su propio cuerpo inmediato, los seres que hacen el mismo tipo de trabajo en el mismo superuniverso. Podrían comunicarse con otros de los suyos, pero el consejo de los siete Espíritus Maestros les ha indicado que no lo hagan, y son un grupo leal; no desobedecen ni incumplen. No hay constancia de que un Mensajero Solitario haya caído jamás en las tinieblas."
     },
     {
       "type": "paragraph",
@@ -218,8 +218,8 @@
       "pageReference": "257.2",
       "sortId": "1.023.001.007",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios, como los Directores de Poder Universal, están entre los muy pocos tipos de seres que operan a lo largo y a lo ancho de los reinos y que están exentos de aprehensión o detención por parte de los tribunales espacio-temporales. Nadie los puede citar para que aparezcan frente a un tribunal, excepto los Siete Espíritus Rectores, pero en todos los anales del universo maestro este concilio del Paraíso no ha sido llamado jamás para adjudicar el caso de un Mensajero Solitario."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios, igual que los Directores del Poder del Universo, figuran entre los poquísimos tipos de seres que actúan en todos los dominios y están exentos de ser arrestados o detenidos por los tribunales del tiempo y el espacio. No pueden ser citados para comparecer ante nadie excepto ante los siete Espíritus Maestros, pero en todos los anales del universo maestro jamás ha sido convocado este consejo paradisiaco para juzgar el caso de un Mensajero Solitario."
     },
     {
       "type": "paragraph",
@@ -236,8 +236,8 @@
       "pageReference": "257.3",
       "sortId": "1.023.001.008",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Estos mensajeros de trabajo solitario son un grupo confiable, autónomo, versátil, completamente espiritual, y ampliamente compasivo de seres derivados de la Tercera Fuente y Centro; operan por autoridad del Espíritu Infinito residente en la Isla central del Paraíso y de sus personalizaciones en las esferas sede central de los universos locales. Comparten constantemente del circuito directo que emana del Espíritu Infinito, aun cuando operan en las creaciones locales bajo la influencia inmediata de los Espíritus Maternos de los universos locales."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Estos mensajeros que ejercen su actividad en solitario son un grupo de seres creados procedentes de la Tercera Fuente y Centro dignos de confianza, independientes, polifacéticos, enteramente espirituales y muy compasivos. Actúan por autoridad del Espíritu Infinito residente en la Isla central del Paraíso y tal como está personalizado en las esferas sede de los universos locales. Son partícipes permanentes del circuito directo que emana del Espíritu Infinito, incluso cuando actúan en las creaciones locales bajo la influencia directa de los Espíritus Madre de los universos locales."
     },
     {
       "type": "paragraph",
@@ -254,8 +254,8 @@
       "pageReference": "257.4",
       "sortId": "1.023.001.009",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Existe una razón técnica por la cual estos Mensajeros Solitarios deben viajar y trabajar a solas. Por cortos períodos de tiempo y cuando están estacionarios, pueden colaborar en un grupo, pero cuando trabajan así se encuentran completamente separados del soporte y dirección de su circuito del Paraíso; están totalmente aislados. Cuando están en tránsito, o cuando operan en los circuitos del espacio y en las corrientes del tiempo, si dos o más de esta orden están en proximidad cercana, ambos o todos quedan fuera de enlace con las fuerzas circulantes más elevadas. Sufren «un cortocircuito», si queréis describirlo en símbolos ilustrativos. Por lo tanto tienen inherente en ellos un poder de alarma automática, una señal de advertencia, que opera infaliblemente para alertarlos de conflictos próximos e infaliblemente les mantiene suficientemente separados como para no interferir con su funcionamiento apropiado y eficaz. También poseen poderes inherentes y automáticos que detectan e indican la proximidad tanto de los Espíritus Trinitarios Inspirados como de los Ajustadores del Pensamiento divinos."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Hay una razón técnica por la que estos Mensajeros Solitarios deben viajar y trabajar solos. Durante cortos periodos de tiempo y cuando están estacionarios, pueden colaborar en un grupo, pero al reunirse de esta forma quedan totalmente desconectados del respaldo y la dirección de su circuito paradisiaco; se encuentran completamente aislados. Si cuando están en tránsito o actuando en los circuitos del espacio y en las corrientes del tiempo, hay dos o más seres de este orden próximos entre sí, queda interrumpido el enlace de ambos o de todos con las fuerzas circulantes más altas. Sufren un «cortocircuito», como lo describiríais con vuestros símbolos ilustrativos. Por consiguiente, poseen un poder inherente de alarma automática, una señal de aviso, que les informa infaliblemente de conflictos inminentes y les mantiene siempre lo bastante apartados como para que no haya interferencias con su actuación correcta y eficaz. Poseen también poderes inherentes y automáticos que detectan e indican la proximidad tanto de los Espíritus Inspirados de la Trinidad como de los divinos Ajustadores del Pensamiento."
     },
     {
       "type": "paragraph",
@@ -272,8 +272,8 @@
       "pageReference": "257.5",
       "sortId": "1.023.001.010",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "La Naturaleza y el Origen de los Mensajeros Solitarios",
-      "markdown": "Estos mensajeros no poseen poder de extensión y reproducción de personalidad, pero no existe prácticamente tarea en los universos de la que no puedan ocuparse, y a la cual no puedan contribuir algo esencial y útil. Especialmente, son los grandes ahorradores de tiempo para aquellos que se ocupan de la administración de los asuntos universales; nos ayudan a todos, desde los más elevados hasta los más bajos."
+      "sectionTitle": "La naturaleza y el origen de los Mensajeros Solitarios",
+      "markdown": "Estos mensajeros no poseen el poder de extender o reproducir la personalidad, pero no hay prácticamente ningún trabajo en los universos que no puedan acometer y al que no puedan aportar algo útil y esencial. Son, en especial, los grandes ahorradores de tiempo para los que están involucrados en la administración de los asuntos de los universos; y nos asisten a todos, desde los más altos hasta los más bajos."
     },
     {
       "type": "section",
@@ -290,7 +290,7 @@
       "pageReference": null,
       "sortId": "1.023.002.000",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
       "markdown": null
     },
     {
@@ -308,8 +308,8 @@
       "pageReference": "257.6",
       "sortId": "1.023.002.001",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Los mensajeros solitarios no están asignados permanentemente a ninguna personalidad individual ni grupo de personalidades celestiales. Ellos actúan siempre por asignación, y durante dicho servicio trabajan bajo la supervisión inmediata de aquellos que dirigen los reinos a los cuales han sido asignados. Entre ellos no poseen una organización ni un gobierno de ningún tipo; son los Mensajeros *Solitarios.*"
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios no están adscritos permanentemente a ningún individuo o grupo de personalidades celestiales. Actúan siempre por asignación, y durante dicho servicio trabajan bajo la supervisión directa de los que dirigen los dominios a los que han sido adscritos. Entre ellos no tienen ni organización ni gobierno de ningún tipo; son Mensajeros *Solitarios*."
     },
     {
       "type": "paragraph",
@@ -326,8 +326,8 @@
       "pageReference": "258.1",
       "sortId": "1.023.002.002",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "El Espíritu Infinito asigna los Mensajeros Solitarios a las siguientes siete divisiones de servicio:"
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "El Espíritu Infinito asigna a los Mensajeros Solitarios a las siete divisiones de servicio siguientes:"
     },
     {
       "type": "paragraph",
@@ -344,7 +344,7 @@
       "pageReference": "258.2",
       "sortId": "1.023.002.003",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
       "markdown": "1. Mensajeros de la Trinidad del Paraíso."
     },
     {
@@ -362,8 +362,8 @@
       "pageReference": "258.3",
       "sortId": "1.023.002.004",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "2. Mensajeros de los Circuitos de Havona."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "2. Mensajeros de los circuitos de Havona."
     },
     {
       "type": "paragraph",
@@ -380,8 +380,8 @@
       "pageReference": "258.4",
       "sortId": "1.023.002.005",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "3. Mensajeros de los Superuniversos."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "3. Mensajeros de los superuniversos."
     },
     {
       "type": "paragraph",
@@ -398,8 +398,8 @@
       "pageReference": "258.5",
       "sortId": "1.023.002.006",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "4. Mensajeros de los Universos Locales."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "4. Mensajeros de los universos locales."
     },
     {
       "type": "paragraph",
@@ -416,8 +416,8 @@
       "pageReference": "258.6",
       "sortId": "1.023.002.007",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "5. Exploradores de Asignación no Dirigida."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "5. Exploradores en misión no dirigida."
     },
     {
       "type": "paragraph",
@@ -434,8 +434,8 @@
       "pageReference": "258.7",
       "sortId": "1.023.002.008",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "6. Embajadores y Emisarios de Asignación Especial."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "6. Embajadores y emisarios en misión especial."
     },
     {
       "type": "paragraph",
@@ -452,8 +452,8 @@
       "pageReference": "258.8",
       "sortId": "1.023.002.009",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "7. Reveladores de la Verdad."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "7. Reveladores de la verdad."
     },
     {
       "type": "paragraph",
@@ -470,8 +470,8 @@
       "pageReference": "258.9",
       "sortId": "1.023.002.010",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Estos mensajeros espirituales son en todo sentido intercambiables de un tipo de servicio a otro; dichas transferencias ocurren constantemente. No hay órdenes separadas de Mensajeros Solitarios; espiritualmente son semejantes y en todo sentido equivalentes. Aunque generalmente se los designa por su número, el Espíritu Infinito los conoce por sus nombres personales. El resto de nosotros los conoce por el nombre o número que designa su trabajo actual."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Estos mensajeros de espíritu son intercambiables en todos los sentidos entre un tipo de servicio y otro, y esos traslados ocurren constantemente. No hay órdenes separados de Mensajeros Solitarios; son parecidos espiritualmente e iguales en todos los sentidos. Aunque normalmente se les designa por su número, el Espíritu Infinito los conoce por sus nombres personales. Para el resto de nosotros, son conocidos por el nombre o número que designa su misión en curso."
     },
     {
       "type": "paragraph",
@@ -488,8 +488,8 @@
       "pageReference": "258.10",
       "sortId": "1.023.002.011",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "1. *Mensajeros de la Trinidad del Paraíso.* No se me permite revelar mucho de la tarea del grupo de mensajeros asignados a la Trinidad. Son los servidores confiados y secretos de las Deidades, y cuando se les confía mensajes especiales que comprenden normas no reveladas y conducta futura de los Dioses, jamás se ha sabido que divulguen un secreto ni que traicionen la confianza puesta en su orden. Narramos todo esto en este contexto, no para jactarnos de su perfección, sino más bien para poner en relieve el hecho de que las Deidades pueden crear *seres perfectos* y así lo hacen."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "1. *Mensajeros de la Trinidad del Paraíso*. No estoy autorizado a revelar gran cosa sobre el trabajo del grupo de mensajeros asignados a la Trinidad. Son los servidores leales y secretos de las Deidades, y cuando están encargados de mensajes especiales relacionados con políticas no reveladas y con la conducta futura de los Dioses, no se ha sabido nunca que divulgaran un secreto ni traicionaran la confianza depositada en su orden. Si mencionamos esto en este contexto no es para jactarnos de su perfección, sino para señalar que las Deidades pueden crear, y crean, *seres perfectos*."
     },
     {
       "type": "paragraph",
@@ -506,8 +506,8 @@
       "pageReference": "258.11",
       "sortId": "1.023.002.012",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "La confusión y disturbios en Urantia no significan que los Gobernantes Paradisiacos carezcan del interés o de la habilidad para arreglar en forma distinta los asuntos. Los Creadores poseen pleno poder para hacer de Urantia un verdadero paraíso, pero dicho edén no contribuiría al desarrollo de aquellos rasgos fuertes, nobles y experimentados que los Dioses con tanta seguridad forjan en vuestro mundo entre el yunque de la necesidad y el martillo de la angustia. Vuestras ansiedades y penas, vuestras pruebas y desilusiones, son tanto parte del plan divino en vuestra esfera como lo son la perfección exquisita y la adaptación infinita de todas las cosas a su propósito supremo en los mundos del universo central y perfecto."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "La confusión y las perturbaciones existentes en Urantia no significan que a los Regidores del Paraíso les falte interés ni capacidad para gestionar los asuntos de otro modo. Los Creadores poseen pleno poder para hacer de Urantia un verdadero paraíso, pero un edén así no contribuiría a desarrollar los caracteres fuertes, nobles y experimentados que los Dioses están forjando con toda seguridad en vuestro mundo entre los yunques de la necesidad y los martillos de la angustia. Vuestras ansiedades y penas, vuestras pruebas y decepciones son tan parte del plan divino en vuestra esfera como lo son la perfección exquisita y la adaptación infinita de todas las cosas a su propósito supremo en los mundos del universo central y perfecto."
     },
     {
       "type": "paragraph",
@@ -524,8 +524,8 @@
       "pageReference": "258.12",
       "sortId": "1.023.002.013",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "2. *Mensajeros de los Circuitos de Havona.* Durante toda la carrera ascendente podréis detectar vagamente, pero cada vez más, la presencia de los Mensajeros Solitarios, pero tan sólo cuando lleguéis a Havona podréis reconocerlos sin lugar a equivocación. Los primeros mensajeros que veréis cara a cara serán los asignados a los circuitos de Havona."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "2. *Mensajeros de los circuitos de Havona*. A lo largo de toda la carrera ascendente iréis siendo cada vez más capaces de detectar, de manera vaga pero creciente, la presencia de los Mensajeros Solitarios, aunque no los reconoceréis inequívocamente hasta que alcancéis Havona. Los primeros mensajeros que veréis cara a cara serán los de los circuitos de Havona."
     },
     {
       "type": "paragraph",
@@ -542,8 +542,8 @@
       "pageReference": "258.13",
       "sortId": "1.023.002.014",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios disfrutan de relaciones especiales con los nativos de los mundos de Havona. Estos mensajeros, que se encuentran tan dificultados en su funcionamiento cuando se asocian los unos con los otros, pueden disfrutar de una comunión personal muy estrecha con los nativos de Havona, y lo hacen. Pero es totalmente imposible comunicar a la mente humana las satisfacciones supremas consiguientes al contacto de las mentes de estos seres divinamente perfectos con los espíritus de tales personalidades casi trascendentales."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios disfrutan de relaciones especiales con los nativos de los mundos de Havona. Estos mensajeros tan desaventajados funcionalmente cuando se vinculan entre sí pueden tener y tienen una comunión muy estrecha y personal con los nativos de Havona. Pero es totalmente imposible transmitir a la mente humana las satisfacciones supremas que resultan del contacto de la mente de estos seres divinamente perfectos con el espíritu de esas personalidades casi trascendentes."
     },
     {
       "type": "paragraph",
@@ -560,8 +560,8 @@
       "pageReference": "259.1",
       "sortId": "1.023.002.015",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "3. *Mensajeros de los Superuniversos.* Los Ancianos de los Días, aquellas personalidades de origen en la Trinidad que presiden los destinos de los siete superuniversos, aquellos tríos de poder divino y sabiduría administrativa, están abundantemente abastecidos de Mensajeros Solitarios. Sólo mediante esta orden de mensajeros, los gobernantes triunos de un superuniverso pueden comunicarse directa y personalmente con los gobernantes de otro. Los Mensajeros Solitarios son el único tipo disponible de inteligencia espiritual —aparte de, posiblemente, los Espíritus Trinitarios Inspirados— que pueden ser enviados de las sedes centrales de un superuniverso directamente a las sedes centrales de otro. Todas las demás personalidades deben hacer dichas excursiones camino de Havona y de los mundos ejecutivos de los Espíritus Rectores."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "3. *Mensajeros de los superuniversos*. Los Ancianos de los Días, esas personalidades con origen en la Trinidad que presiden los destinos de los siete superuniversos, esos tríos con poder divino y sabiduría administrativa, están abundantemente provistos de Mensajeros Solitarios. Los regidores trinos de un superuniverso solo pueden comunicarse directa y personalmente con los regidores de otro a través este orden de mensajeros. Los Mensajeros Solitarios son el único tipo disponible de inteligencia de espíritu —aparte, quizás, de los Espíritus Inspirados de la Trinidad— que puede ser enviado directamente de la sede de un superuniverso a la sede de otro. Todas las demás personalidades tienen que pasar por Havona y los mundos ejecutivos de los Espíritus Maestros en estos desplazamientos."
     },
     {
       "type": "paragraph",
@@ -578,8 +578,8 @@
       "pageReference": "259.2",
       "sortId": "1.023.002.016",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Existen ciertos tipos de información que no se obtienen ni por los Mensajeros de Gravedad, ni por reflexividad, ni por transmisión. Y cuando los Ancianos de los Días quieren saber certeramente de dichas cosas, deben enviar a un Mensajero Solitario a la fuente del conocimiento. Mucho antes de la presencia de la vida en Urantia, el mensajero presentemente asociado conmigo fue asignado a una misión saliendo de Uversa al universo central —estuvo ausente cuando se pasaba lista en Orvonton por casi un millón de años, pero retornó debidamente con la información deseada."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Hay ciertos tipos de información que no se pueden obtener ni por medio de los Mensajeros por Gravedad ni por reflectividad ni por difusión. Y cuando los Ancianos de los Días quieren conocer esas cosas con certeza tienen que enviar a un Mensajero Solitario a la fuente del conocimiento. Mucho antes de la presencia de vida en Urantia, el mensajero que me acompaña ahora fue asignado a una misión en el universo central desde Uversa; durante casi un millón de años faltó a todos los pases de lista de Orvonton, pero regresó a su debido tiempo con la información deseada."
     },
     {
       "type": "paragraph",
@@ -596,8 +596,8 @@
       "pageReference": "259.3",
       "sortId": "1.023.002.017",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "No hay limitación en el servicio de los Mensajeros Solitarios en los superuniversos; pueden actuar como ejecutivos de los tribunales elevados o como recolectores de información para el bien del reino. De todas las supercreaciones, disfrutan el máximo al servir en Orvonton porque aquí la necesidad es mayor y la oportunidad de esfuerzos heroicos grandemente multiplicada. En los reinos más necesitados todos disfrutamos de la satisfacción de una función más pletórica."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "El servicio de los Mensajeros Solitarios en los superuniversos no tiene limitaciones. Pueden actuar como ejecutores de los altos tribunales o como recolectores de información para el bien del dominio. De todas las supercreaciones, donde más les gusta servir es en Orvonton porque ahí las necesidades son mayores y se multiplican enormemente las oportunidades de hacer esfuerzos heroicos. En los dominios más necesitados todos disfrutamos de la satisfacción de una función más plena."
     },
     {
       "type": "paragraph",
@@ -614,8 +614,8 @@
       "pageReference": "259.4",
       "sortId": "1.023.002.018",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "4. *Mensajeros de los Universos Locales.* En los servicios de un universo local no hay límite en la función de los Mensajeros Solitarios. Son los reveladores fieles de los motivos e intentos del Espíritu Materno del universo local, aunque están bajo la jurisdicción plena del Hijo Mayor reinante. Esto es verdad de todos los mensajeros que operan en un universo local, sea que provengan directamente de las sedes centrales del universo, o que actúen en forma transitoria en enlace con los Padres de las Constelaciones, los Soberanos de los Sistemas, o los Príncipes Planetarios. Antes de la concentración de todo el poder en las manos del Hijo Creador en la época de su elevación como gobernante soberano de su universo, estos mensajeros de los universos locales funcionan bajo la dirección general de los Ancianos de los Días y responden inmediatamente a su representante residente, el Unión de los Días."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "4. *Mensajeros de los universos locales*. En los servicios de un universo local la actuación de los Mensajeros Solitarios no tiene límite. Son los fieles reveladores de los motivos e intenciones del Espíritu Madre del universo local, aunque están bajo la jurisdicción plena del Hijo Maestro reinante. Y esto es cierto para todos los mensajeros que operan en un universo local, tanto si viajan saliendo directamente de la sede del universo como si actúan temporalmente en enlace con los Padres de las Constelaciones, los Soberanos de los Sistemas o los Príncipes Planetarios. Antes de la concentración de todo poder en las manos del Hijo Creador en el momento de su elevación como regidor soberano de su universo, estos mensajeros de los universos locales actúan bajo la dirección general de los Ancianos de los Días y son directamente responsables ante su representante residente, el Unión de los Días."
     },
     {
       "type": "paragraph",
@@ -632,8 +632,8 @@
       "pageReference": "259.5",
       "sortId": "1.023.002.019",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "5. *Exploradores de Asignación no Dirigida.* Cuando se recluta excesivamente para el cuerpo de reservas de los Mensajeros Solitarios, se produce un llamado de uno de los Siete Directores Supremos del Poder solicitando voluntarios para la exploración; no faltan jamás voluntarios, puesto que les encanta ser enviados como exploradores libres y sin limitaciones, para experimentar la emoción de encontrar núcleos, en proceso de organizarse, de nuevos mundos y universos."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "5. *Exploradores en misión no dirigida*. Cuando el cuerpo de reserva de los Mensajeros Solitarios se vuelve demasiado numeroso, uno de los siete Directores Supremos del Poder hace un llamamiento de voluntarios para explorar. Y nunca faltan voluntarios porque les encanta ser enviados como exploradores libres y sin restricciones, experimentar la emoción de encontrar los núcleos en vías de organización de nuevos mundos y universos."
     },
     {
       "type": "paragraph",
@@ -650,8 +650,8 @@
       "pageReference": "259.6",
       "sortId": "1.023.002.020",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Salen para investigar los indicios proporcionados por los contempladores del espacio de los reinos. Indudablemente las Deidades Paradisiacas saben de la existencia de estos sistemas de energía no descubiertos del espacio, pero jamás divulgan dicha información. Si los Mensajeros Solitarios no exploraran y trazaran estos nuevos centros de energía que están en proceso de organizarse, dichos fenómenos permanecerían ignorados durante mucho tiempo aun por parte de las inteligencias de los reinos adyacentes. Los Mensajeros Solitarios, como clase, son altamente sensibles a la gravedad; por lo tanto a veces pueden detectar la presencia probable de planetas oscuros muy pequeños, los mundos mismos que se adaptan mejor a los experimentos de vida."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Salen a investigar las pistas proporcionadas por los contempladores del espacio de los dominios. Es indudable que las Deidades del Paraíso conocen la existencia de esos sistemas no descubiertos de energía del espacio aunque nunca divulgan este tipo de información. Si los Mensajeros Solitarios no exploraran y localizaran esos nuevos centros de energía recién organizados, tales fenómenos seguirían pasando desapercibidos durante mucho tiempo incluso para las inteligencias de los dominios adyacentes. Los Mensajeros Solitarios, como clase, son sumamente sensibles a la gravedad y por ello pueden detectar a veces la presencia probable de planetas oscuros muy pequeños, precisamente los mundos que se adaptan mejor a los experimentos de vida."
     },
     {
       "type": "paragraph",
@@ -668,8 +668,8 @@
       "pageReference": "260.1",
       "sortId": "1.023.002.021",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Estos exploradores mensajeros de asignación no dirigida patrullan el universo maestro. Salen constantemente en expediciones de exploración hacia regiones desconocidas de todo el espacio exterior. Mucho de la información que poseemos sobre las transacciones de los reinos en el espacio exterior, se la debemos a las exploraciones de los Mensajeros Solitarios, puesto que frecuentemente trabajan y estudian con los astrónomos celestiales."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Estos mensajeros exploradores en misión no dirigida patrullan el universo maestro. Están constantemente en expediciones de exploración en las regiones desconocidas de todo el espacio exterior. Gran parte de la información que poseemos sobre lo que acontece en los dominios del espacio exterior se la debemos a las exploraciones de los Mensajeros Solitarios, ya que a menudo estudian y trabajan con los astrónomos celestiales."
     },
     {
       "type": "paragraph",
@@ -686,8 +686,8 @@
       "pageReference": "260.2",
       "sortId": "1.023.002.022",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "6. *Embajadores y Emisarios de Asignación Especial.* Los universos locales ubicados dentro del mismo superuniverso habitualmente intercambian embajadores seleccionados de sus órdenes nativas de filiación. Pero para evitar atrasos, frecuentemente se solicita de los Mensajeros Solitarios que vayan como embajadores de una creación local a otra para representar e interpretar un reino al otro. Por ejemplo: cuando se descubre un reino recientemente habitado, puede resultar que esté tan remoto en el espacio que pase un largo período de tiempo antes de que pueda llegar a este universo bastamente distante, un embajador enserafinado. Un ser enserafinado no puede exceder de ninguna manera la velocidad de 899.370 kilómetros de Urantia en un segundo de vuestro tiempo. Las estrellas masivas, las corrientes cruzadas, y las desviaciones, así como también las tangentes de atracción, todas tienden a retardar dicha velocidad, de manera que en un viaje prolongado la velocidad será de un promedio de alrededor de 885.000 kilómetros por segundo."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "6. *Embajadores y emisarios en misión especial*. Los universos locales situados dentro de un mismo superuniverso intercambian habitualmente embajadores elegidos entre sus órdenes nativos de filiación. Pero para evitar retrasos, muchas veces se pide a los Mensajeros Solitarios que vayan como embajadores de una creación local a otra para representar e interpretar a un dominio ante otro. Por ejemplo: cuando se descubre un dominio habitado recientemente puede estar tan remoto en el espacio que pasará mucho tiempo hasta que llegue a ese universo lejano un embajador enserafinado. Un ser enserafinado no puede sobrepasar de ninguna manera la velocidad de 899 370 kilómetros de Urantia en un segundo de vuestro tiempo. Las estrellas masivas, las contracorrientes y los desvíos, así como las tangentes de atracción, tienden todos ellos a reducir dicha velocidad, de manera que la media de un viaje largo será de unos 885 000 kilómetros por segundo."
     },
     {
       "type": "paragraph",
@@ -704,8 +704,8 @@
       "pageReference": "260.3",
       "sortId": "1.023.002.023",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "Cuando se puede observar que se necesitarán cientos de años para que un embajador nativo llegue a un universo local bastamente distante, frecuentemente se solicita de un Mensajero Solitario que proceda allí inmediatamente para actuar como embajador interino. Los Mensajeros Solitarios pueden salir de un momento a otro, no independientemente del tiempo y del espacio como lo hacen los Mensajeros de Gravedad, pero casi de la misma manera. Ellos también sirven en otras circunstancias como emisarios de asignación especial."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "Cuando resulta que se requerirán cientos de años para que un embajador nativo llegue a un universo local muy distante, se suele pedir a un Mensajero Solitario que se dirija allí de inmediato para actuar como embajador interino. Los Mensajeros Solitarios pueden llegar en un plazo muy breve, no independientemente del tiempo y el espacio como lo hacen los Mensajeros por Gravedad, pero casi. Sirven también en otras circunstancias como emisarios en misión especial."
     },
     {
       "type": "paragraph",
@@ -722,8 +722,8 @@
       "pageReference": "260.4",
       "sortId": "1.023.002.024",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Las Asignaciones de los Mensajeros Solitarios",
-      "markdown": "7. *Reveladores de la Verdad.* Los Mensajeros Solitarios consideran la asignación de revelar la verdad como la responsibilidad más elevada de su orden. Operan una y otra vez en esta función desde los superuniversos a los planetas individuales del espacio. Frecuentemente forman parte de las comisiones que se envían para expandir la revelación de la verdad a los mundos y sistemas."
+      "sectionTitle": "Las misiones de los Mensajeros Solitarios",
+      "markdown": "7. *Reveladores de la verdad*. Los Mensajeros Solitarios consideran las misiones para revelar la verdad como el deber más alto de su orden. Y actúan de tiempo en tiempo en este cometido desde los superuniversos hasta los planetas individuales del espacio. Son adscritos con frecuencia a las comisiones que se envían para ampliar la revelación de la verdad a los mundos y sistemas."
     },
     {
       "type": "section",
@@ -740,7 +740,7 @@
       "pageReference": null,
       "sortId": "1.023.003.000",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
       "markdown": null
     },
     {
@@ -758,8 +758,8 @@
       "pageReference": "260.5",
       "sortId": "1.023.003.001",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "Los Mensajeros Solitarios son el tipo más elevado de personalidades perfectas y de confianza disponible en todos los reinos para la transmisión rápida de mensajes importantes y urgentes cuando es inconveniente utilizar o el servicio de transmisiones o el mecanismo de la reflexividad. Ellos sirven en una variedad infinita de asignaciones, ayudando a los seres materiales y espirituales de los reinos, particularmente allí donde está comprendido el elemento del tiempo. De todas las órdenes asignadas a los servicios de los dominios del superuniverso, son los seres personalizados más elevados y más versátiles que más pueden acercarse a desafiar el tiempo y el espacio."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "Los Mensajeros Solitarios son el tipo más alto de personalidad perfecta y de toda confianza disponible en todos los ámbitos para la transmisión rápida de mensajes importantes y urgentes cuando no es conveniente utilizar ni el servicio de difusión ni el mecanismo de la reflectividad. Sirven en una variedad sin fin de misiones y ayudan a los seres materiales y espirituales de los mundos, sobre todo cuando entra en juego el elemento tiempo. De todos los órdenes asignados a los servicios de los dominios de los superuniversos, son los seres personalizados más altos y más polifacéticos que pueden estar tan cerca de desafiar al tiempo y al espacio."
     },
     {
       "type": "paragraph",
@@ -776,8 +776,8 @@
       "pageReference": "260.6",
       "sortId": "1.023.003.002",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "El universo está bien abastecido de espíritus que utilizan la gravedad para fines de tránsito; pueden ir a cualquier lado en cualquier momento —instantáneamente— pero no son personas. Ciertos otros atravesadores que utilizan la gravedad son seres personales, tales como los Mensajeros de Gravedad y los Registradores Trascendentales, pero no están a disposición de los administradores de los superuniversos o de los universos locales. Los mundos pululan de ángeles y hombres y de otros seres altamente personales, pero éstos están dificultados por el tiempo y el espacio: el límite de velocidad para la mayor parte de los seres no enserafinados es de 299.790 kilómetros de vuestro mundo por segundo de vuestro tiempo; los seres intermedios y ciertos otros pueden alcanzar una velocidad doble, y lo hacen frecuentemente —599.580 kilómetros por segundo— mientras que los serafines y otros pueden atravesar el espacio a velocidad triple, aproximadamente 899.370 kilómetros por segundo. Sin embargo no existen personalidades de tránsito o mensajeros que funcionen entre las velocidades instantáneas de los atravesadores gravitacionarios y las velocidades comparativamente lentas de los serafines, excepto los Mensajeros Solitarios."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "El universo está bien provisto de espíritus que utilizan la gravedad a efectos de tránsito; pueden ir a cualquier lado en cualquier momento —al instante— pero no son personas. Hay otros seres que se desplazan por gravedad y son personales, como los Mensajeros por Gravedad y los Registradores Trascendentales, pero no están a disposición de los administradores de los superuniversos o de los universos locales. Los mundos rebosan de ángeles y hombres y de otros seres muy personales, pero están obstaculizados por el tiempo y el espacio: el límite de velocidad para la mayoría de los seres no enserafinados es de 299 790 kilómetros de vuestro mundo por segundo de vuestro tiempo. Las criaturas intermedias y algunas otras pueden alcanzar y alcanzan a menudo una velocidad doble —599 580 kilómetros por segundo— mientras que las serafines y otros pueden atravesar el espacio a una velocidad triple, aproximadamente 899 370 kilómetros por segundo. Sin embargo, aparte de los Mensajeros Solitarios no existen personalidades mensajeras o de tránsito que circulen entre las velocidades instantáneas de los atravesadores por gravedad y las velocidades relativamente lentas de las serafines."
     },
     {
       "type": "paragraph",
@@ -794,8 +794,8 @@
       "pageReference": "261.1",
       "sortId": "1.023.003.003",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "Por lo tanto, generalmente los Mensajeros Solitarios se utilizan para el envío y servicio en aquellas situaciones en las que sea esencial la personalidad para el cumplimiento de la asignación, y en las cuales sea deseable evitar la pérdida de tiempo que sería ocasionada por el envío de otro tipo rápidamente disponible de mensajero personal. Ellos son los únicos seres claramente personalizados que pueden sincronizar con las corrientes combinadas universales del gran universo. Su velocidad para atravesar el espacio es variable, dependiendo de una gran variedad de influencias que interfieren, pero el registro muestra que en el viaje que tenía por objeto cumplir la misión presente, mi mensajero asociado procedió a la velocidad de 1.346.169.220.000 de vuestros kilómetros por segundo de vuestro tiempo."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "Por eso, a los Mensajeros Solitarios se les utiliza generalmente para envíos y servicios en aquellas situaciones en las que la personalidad es esencial para el éxito de la misión y en las que se desea evitar la pérdida de tiempo que supondría enviar a cualquier otro tipo de mensajero personal fácilmente disponible. Son los únicos seres incuestionablemente personalizados que se pueden sincronizar con las corrientes universales combinadas del gran universo. Su velocidad al atravesar el espacio es variable y depende de las interferencias de una gran variedad de factores, pero tal como consta en los registros, en el viaje para cumplir esta misión el mensajero que me acompaña se desplazó a una velocidad de 1 354 458 740 000 kilómetros por segundo de vuestro tiempo."
     },
     {
       "type": "paragraph",
@@ -812,8 +812,8 @@
       "pageReference": "261.2",
       "sortId": "1.023.003.004",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "Está totalmente fuera de mi capacidad explicar al tipo de mente material de qué manera puede un espíritu ser una persona real y auténtica y al mismo tiempo atravesar el espacio a tales velocidades extraordinarias. Pero estos mismos Mensajeros Solitarios efectivamente vienen a Urantia y parten de ella a estas velocidades incomprensibles; en efecto la entera economía de la administración universal se hallaría desposeida de este elemento personal si esto no fuese un hecho."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "Soy totalmente incapaz de explicar a la mente de tipo material cómo puede un espíritu ser una persona real y al mismo tiempo atravesar el espacio a esas velocidades prodigiosas. De hecho, estos mismos Mensajeros Solitarios van y vienen de Urantia a esas velocidades incomprensibles, y si no fuera por ello, toda la organización de la administración universal se vería privada de una parte muy importante de su elemento personal."
     },
     {
       "type": "paragraph",
@@ -830,8 +830,8 @@
       "pageReference": "261.3",
       "sortId": "1.023.003.005",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "Los Mensajeros Solitarios son capaces de funcionar como líneas de comunicación de urgencia en todas las regiones remotas del espacio, en los reinos no comprendidos dentro de los circuitos establecidos del gran universo. Se desprende que un mensajero, al operar así, puede transmitir un mensaje o enviar un impulso a través del espacio a otro mensajero que esté alrededor de cien años luz de distancia, según miden las distancias estelares los astrónomos de Urantia."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "Los Mensajeros Solitarios son capaces de actuar como líneas de comunicación de emergencia en todas las regiones remotas del espacio, en aquellos ámbitos no abarcados dentro los circuitos establecidos del gran universo. Resulta que un mensajero, cuando actúa así, puede transmitir un mensaje o enviar un impulso a través del espacio a otro mensajero situado a unos cien años luz de distancia, según el modo de calcular las distancias estelares de los astrónomos de Urantia."
     },
     {
       "type": "paragraph",
@@ -848,8 +848,8 @@
       "pageReference": "261.4",
       "sortId": "1.023.003.006",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "De las miríadas de seres que cooperan con nosotros en el manejo de los asuntos del superuniverso, ninguno es más importante en ayuda ahorradora de tiempo y asistencia práctica. En los universos del espacio debemos tener en cuenta las dificultades del tiempo; de allí el gran servicio de los Mensajeros Solitarios quienes, mediante sus prerrogativas personales de comunicación, son en cierto modo independientes del espacio y, por virtud de su extraordinaria velocidad de tránsito, son casi independientes del tiempo."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "De las miríadas de seres que cooperan con nosotros en la conducción de los asuntos del superuniverso, ninguno es más importante en utilidad práctica y en ayudarnos a ahorrar tiempo. En los universos del espacio tenemos que contar con los impedimentos del tiempo; de ahí el gran servicio de los Mensajeros Solitarios, que por sus prerrogativas personales de comunicación son en cierto modo independientes del espacio, y casi independientes del tiempo por su enorme velocidad de tránsito."
     },
     {
       "type": "paragraph",
@@ -866,8 +866,8 @@
       "pageReference": "261.5",
       "sortId": "1.023.003.007",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "No puedo explicar a los mortales de Urantia de qué manera los Mensajeros Solitarios pueden ser sin forma y sin embargo poseer personalidades reales y claramente definidas. Aunque no tengan esa forma que naturalmente se asocia con la personalidad, poseen una presencia espiritual que es discernible por parte de todos los tipos más elevados de los seres espirituales. Los Mensajeros Solitarios son la única clase de seres que parecen poseer casi todas las ventajas de un espíritu sin forma, combinadas con todas las prerrogativas de una personalidad plena. Son personas auténticas, sin embargo están dotadas de casi todos los atributos de una impersonal manifestación de espíritu."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "No sé cómo explicar a los mortales de Urantia que los Mensajeros Solitarios pueden no tener forma y sin embargo poseer personalidades reales y definidas. Aunque no tienen la forma que se asociaría naturalmente con la personalidad, sí poseen una presencia de espíritu que es perceptible por todos los tipos más altos de seres de espíritu. Los Mensajeros Solitarios son la única clase de seres que parecen poseer casi todas las ventajas de un espíritu sin forma unidas a todas las prerrogativas de una personalidad totalmente desarrollada. Son verdaderas personas, y sin embargo están dotadas de casi todos los atributos de una manifestación impersonal de espíritu."
     },
     {
       "type": "paragraph",
@@ -884,8 +884,8 @@
       "pageReference": "261.6",
       "sortId": "1.023.003.008",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "En los siete superuniversos, generalmente —pero no siempre— todo lo que tiende a aumentar la liberación de una criatura de las dificultades del tiempo y del espacio, disminuye proporcionalmente las prerrogativas de personalidad. Los Mensajeros Solitarios son una excepción a esta ley general. En sus actividades no están, de manera ninguna, restringidos en la utilización de todas las avenidas ilimitadas de expresión espiritual, servicio divino, ministerio personal, y comunicación cósmica. Si pudierais ver a estos seres extraordinarios a la luz de mi experiencia en la administración universal, podríais comprender cuán difícil sería coordinar los asuntos del superuniverso si no fuese por su versátil cooperación."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "En los siete superuniversos, normalmente —aunque no siempre—, todo lo que tiende a aumentar el grado de liberación de una criatura de los impedimentos del tiempo y el espacio reduce proporcionalmente sus prerrogativas de personalidad. Los Mensajeros Solitarios son una excepción a esta ley general. En sus actividades, no tienen restricción alguna para utilizar todas y cada una de las vías ilimitadas de expresión espiritual, servicio divino, ministerio personal y comunicación cósmica. Si pudierais ver a estos seres extraordinarios a la luz de mi experiencia en la administración del universo, comprenderíais lo difícil que sería coordinar los asuntos de los superuniversos si no fuera por su polifacética cooperación."
     },
     {
       "type": "paragraph",
@@ -902,8 +902,8 @@
       "pageReference": "262.1",
       "sortId": "1.023.003.009",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "Los Servicios de los Mensajeros Solitarios con Relación al Tiempo y al Espacio",
-      "markdown": "Aunque el universo se expanda mucho más, probablemente no se crearán más Mensajeros Solitarios. A medida que crecen los universos, el mayor trabajo de administración deberá recaer cada vez más sobre otros tipos de ministros espirituales y sobre aquellos seres que se originan en estas nuevas creaciones, tales como las criaturas de los Hijos Soberanos y los Espíritus Maternos de los universos locales."
+      "sectionTitle": "Los servicios de los Mensajeros Solitarios en el tiempo y el espacio",
+      "markdown": "Por mucho que se amplíe el universo no es probable que se creen más Mensajeros Solitarios. A medida que crecen los universos, el mayor trabajo de administración debe ser soportado progresivamente por otros tipos de ministradores del espíritu y por los seres que tienen origen en esas nuevas creaciones, como las criaturas de los Hijos Soberanos y los Espíritus Madre de los universos locales."
     },
     {
       "type": "section",
@@ -920,7 +920,7 @@
       "pageReference": null,
       "sortId": "1.023.004.000",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
       "markdown": null
     },
     {
@@ -938,8 +938,8 @@
       "pageReference": "262.2",
       "sortId": "1.023.004.001",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios parecen ser coordinadores de la personalidad para todos los tipos de seres espirituales. Su ministerio ayuda a hacer que todas las personalidades del vasto mundo espiritual estén emparentadas. Contribuyen mucho al desarrollo, en todos los seres espirituales, de una conciencia de identidad de grupo. Cada tipo de ser espiritual es servido por grupos especiales de Mensajeros Solitarios que fomentan la habilidad de tales seres para comprender y fraternizar con otros tipos y órdenes, aunque sean muy diversos."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios parecen ser coordinadores de la personalidad para todos los tipos de seres de espíritu. Su ministerio ayuda a hacer que todas las personalidades del extenso mundo espiritual sean afines. Contribuyen mucho al desarrollo, en todos los seres de espíritu, de una consciencia de identidad de grupo. Cada tipo de ser de espíritu está servido por grupos especiales de Mensajeros Solitarios que fomentan la capacidad de dichos seres para comprender a todos los demás tipos y órdenes, por disímiles que sean, y fraternizar con ellos."
     },
     {
       "type": "paragraph",
@@ -956,8 +956,8 @@
       "pageReference": "262.3",
       "sortId": "1.023.004.002",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios demuestran tal extraordinaria habilidad para coordinar todos los tipos y órdenes de personalidades finitas —aun para hacer contacto con el régimen absonito de los supercontroladores del universo maestro— que algunos de nosotros postulan que la creación de estos mensajeros por parte del Espíritu Infinito está en cierto modo relacionada con la dotación por parte del Actor Conjunto de la Mente Suprema-Última."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "Los Mensajeros Solitarios demuestran una capacidad tan asombrosa para coordinar a todos los tipos y órdenes de personalidades finitas —incluso para tomar contacto con el régimen absonito de los sobrecontroladores del universo maestro— que algunos de nosotros sostenemos que la creación de estos mensajeros por parte del Espíritu Infinito está relacionada de alguna manera con la dotación de la Mente Supremo-Última que hace el Actor Conjunto."
     },
     {
       "type": "paragraph",
@@ -974,8 +974,8 @@
       "pageReference": "262.4",
       "sortId": "1.023.004.003",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Cuando un finalista y un Ciudadano del Paraíso cooperan en la trinidización de un «hijo del tiempo y de la eternidad» —una transacción que requiere los potenciales de mente no revelados del Supremo-Último— y cuando se envía a Vicegerington dicha personalidad no clasificada, (una repercusión conjeturada de personalidad de la dote de dicha mente de Deidad) un Mensajero Solitario siempre se asigna como compañero y guardián de dicho hijo trinidizado por criaturas. Este mensajero acompaña al nuevo hijo de destino al mundo de su asignación y no abandona jamás Vicegerington. Cuando está así vinculado a los destinos de un hijo del tiempo y de la eternidad, el Mensajero Solitario es por siempre transferido a la supervisión de los Arquitectos del Universo Maestro. Lo que el futuro de dicha asociación extraordinaria pueda hacer, no lo sabemos. Por edades estas sociedades de personalidades únicas han continuado reuniéndose en Vicegerington, pero ni siquiera un solo par ha salido jamás de allí."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "Cuando un finalitario y un Ciudadano del Paraíso cooperan en la trinización de un «hijo del tiempo y la eternidad» —una operación en la que están involucrados los potenciales de mente no revelados del Supremo-Último— y cuando esta personalidad no clasificada es enviada a Vicegerington, se asigna siempre a un Mensajero Solitario (una conjeturada repercusión en la personalidad del otorgamiento de dicha mente de deidad) como compañero guardián de dicho hijo trinizado por criaturas. Este mensajero acompaña al nuevo hijo del destino al mundo al que ha sido asignado y no se marcha de Vicegerington nunca más. Cuando queda así adscrito al destino de un hijo del tiempo y la eternidad, el Mensajero Solitario es transferido para siempre a la supervisión exclusiva de los Arquitectos del Universo Maestro. Desconocemos cuál puede ser el futuro de una vinculación tan extraordinaria. Estas asociaciones de personalidades únicas llevan reuniéndose en Vicegerington durante largas edades, pero ni una sola de estas parejas ha salido jamás de allí."
     },
     {
       "type": "paragraph",
@@ -992,8 +992,8 @@
       "pageReference": "262.5",
       "sortId": "1.023.004.004",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Los Mensajeros Solitarios son de números estacionarios, pero la trinidización de los hijos de destino es aparentemente una técnica ilimitada. Puesto que cada hijo trinidizado de destino tiene a un Mensajero Solitario asignado a él, nos parece que en algún momento en el futuro remoto las cantidades de los mensajeros se agotarán. ¿Quién adoptará su tarea en el gran universo? ¿Será su servicio asumido por algún nuevo desarrollo entre los Espíritus Trinitarios Inspirados? ¿Es que el gran universo en algún período remoto será administrado más de cerca por seres de origen en la Trinidad mientras que las criaturas de origen único y dual se transferirán hacia los reinos del espacio exterior? Si los mensajeros regresan a su servicio anterior, ¿los acompañarán estos hijos de destino? ¿Cesarán las trinidizaciones entre los finalistas y los habitantes del Paraíso y de Havona cuando sea absorbida la cantidad de los Mensajeros Solitarios como compañeros y guardianes de estos hijos de destino? ¿Se concentrarán todos nuestros eficientes Mensajeros Solitarios en Vicegerington? ¿Serán eternamente asociadas estas extraordinarias personalidades espirituales con estos hijos trinidizados de destino no revelado? ¿Qué significado debemos agregar al hecho de que estas parejas que se van reuniendo en Vicegerington están bajo la dirección exclusiva de aquellos misteriosos seres poderosos, los Arquitectos del Universo Maestro? Nos hacemos éstas y muchas otras preguntas similares y preguntamos a numerosas otras órdenes de seres celestiales pero no conocemos las respuestas."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "El número de los Mensajeros Solitarios es estacionario, pero la trinización de los hijos del destino es aparentemente ilimitada. Dado que cada hijo trinizado del destino tiene asignado a un Mensajero Solitario, nos parece que en algún momento del futuro remoto la provisión de mensajeros se agotará. ¿Quién continuará su trabajo en el gran universo? ¿Será su servicio asumido por algún nuevo desarrollo que se produzca entre los Espíritus Inspirados de la Trinidad? ¿Va a estar el gran universo en algún periodo remoto administrado más directamente por seres con origen en la Trinidad mientras que las criaturas de origen simple y dual se trasladarán a los dominios del espacio exterior? Si los mensajeros regresan a su servicio anterior, ¿les acompañarán estos hijos del destino? ¿Cesarán las trinizaciones entre finalitarios y habitantes del Paraíso-Havona cuando se haya agotado la provisión de Mensajeros Solitarios, asignados como compañeros guardianes de estos hijos del destino? ¿Van a ser concentrados todos nuestros eficientes Mensajeros Solitarios en Vicegerington? ¿Van a estar estas extraordinarias personalidades de espíritu eternamente vinculadas a esos hijos trinizados de destino no revelado? ¿Qué relevancia debe darse al hecho de que estas parejas que se van reuniendo en Vicegerington estén bajo la dirección exclusiva de esos poderosos seres de misterio, los Arquitectos del Universo Maestro? Nos hacemos estas y otras muchas preguntas semejantes, y se las preguntamos a muchos otros órdenes de seres celestiales, pero no conocemos las respuestas."
     },
     {
       "type": "paragraph",
@@ -1010,8 +1010,8 @@
       "pageReference": "263.1",
       "sortId": "1.023.004.005",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Esta transacción, juntamente con muchos sucesos similares en la administración universal, indica infaliblemente que el personal del gran universo, aun aquel de Havona y del Paraíso, está sufriendo una reorganización clara y certera en coordinación con las vastas evoluciones de la energía que actualmente están ocurriendo en todos los reinos del espacio exterior, y en referencia a ellas."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "Esta operación, junto con muchos acontecimientos similares en la administración del universo, indican claramente que el personal del gran universo, incluso el de Havona y el Paraíso, está experimentando una reorganización indudablemente cierta en relación y coordinación con las vastas evoluciones de energía que están teniendo lugar ahora en todos los dominios del espacio exterior."
     },
     {
       "type": "paragraph",
@@ -1028,8 +1028,8 @@
       "pageReference": "263.2",
       "sortId": "1.023.004.006",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
-      "markdown": "Inclinamos a creer que el futuro eterno presenciará fenómenos de evolución universal que trascenderán con mucho a todo lo que se ha experimentado en el pasado eterno. Y anticipamos tales extraordinarias aventuras, así como vosotros también deberíais anticiparlas, con gran expectativa y entusiasmo siempre en aumento."
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
+      "markdown": "Nos inclinamos a creer que el futuro eterno presenciará fenómenos de evolución en el universo que trascenderán con mucho todo lo que ha experimentado el pasado eterno. Y al igual que deberíais hacer vosotros, esperamos esas aventuras prodigiosas con vivo entusiasmo y creciente expectación."
     },
     {
       "type": "paragraph",
@@ -1046,7 +1046,7 @@
       "pageReference": "263.3",
       "sortId": "1.023.004.007",
       "paperTitle": "Los Mensajeros Solitarios",
-      "sectionTitle": "El Ministerio Especial de los Mensajeros Solitarios",
+      "sectionTitle": "El ministerio especial de los Mensajeros Solitarios",
       "markdown": "[Presentado por un Consejero Divino de Uversa.]"
     }
   ]
